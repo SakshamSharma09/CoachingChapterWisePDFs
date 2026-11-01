@@ -46,7 +46,7 @@ TIER_BLURB = {"NCERT": "NCERT-type: questions in the style of the textbook examp
               "Hard": "Hard level: application and higher-order questions"}
 NSETS = 3
 
-FIXED = re.compile(r"both|neither|cannot be determined|none|^correct$|all of these|all the above", re.I)
+FIXED = re.compile(r"both|neither|cannot be determined|none|^correct$|all of these|all the above|^A is (true|false)|^R is (true|false)", re.I)
 def shuffle_mcq(it, rng):
     it = copy.deepcopy(it)
     opts = it["opts"]; ans = "abcd".index(it["ans"])
