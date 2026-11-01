@@ -1,0 +1,103 @@
+from lib import mcq, Q, OR
+from mk9 import M4, build
+A = [
+ M4("The instrument used to draw circles and arcs is a:", "compass", ["protractor", "set square only", "divider"], "geometry tool"),
+ M4("A compass keeps the pencil at a fixed distance, called the:", "radius", ["diameter", "arc", "chord"], "fixed opening"),
+ M4("In a rectangle, opposite sides are:", "equal and parallel", ["unequal", "perpendicular", "always 5 cm"], "property"),
+ M4("Each angle of a rectangle measures:", "90°", ["60°", "45°", "120°"], "right angle"),
+ M4("A square is a rectangle in which:", "all sides are equal", ["diagonals are unequal", "angles are 60°", "opposite sides differ"], "special rectangle"),
+ M4("The diagonals of a rectangle are:", "equal in length", ["perpendicular always", "unequal", "parallel"], "property"),
+ M4("The diagonals of a rectangle:", "bisect each other", ["never meet", "are parallel", "are perpendicular always"], "meet at the midpoint"),
+ M4("The diagonals of a square are:", "equal and perpendicular", ["unequal", "parallel", "of length zero"], "also bisect each other"),
+ M4("Points equidistant from two points A and B lie on the:", "perpendicular bisector of AB", ["circle with diameter AB", "line AB itself", "ray from A"], "equal distance"),
+ M4("The perpendicular bisector of a segment:", "cuts it at its midpoint at 90°", ["is parallel to it", "cuts at one fourth", "makes 60°"], "definition"),
+ M4("Number of diagonals of a rectangle:", "2", ["1", "3", "4"], "two"),
+ M4("A square has how many lines joining opposite corners?", "2", ["1", "4", "3"], "diagonals"),
+ M4("To construct a rectangle we need to know at least its:", "length and breadth", ["colour", "area only", "weight"], "two sides"),
+ M4("To draw a line parallel to a given line we can use:", "a ruler and set square", ["a compass only", "a thermometer", "a balance"], "sliding method"),
+ M4("The point where the diagonals of a rectangle meet is its:", "centre", ["vertex", "arm", "side"], "midpoint of both"),
+ M4("If one side of a square is 5 cm, then the length of each of the other sides is:", "5 cm", ["10 cm", "2.5 cm", "25 cm"], "all equal"),
+ M4("A rectangle with length 8 cm and breadth 8 cm is a:", "square", ["triangle", "circle", "rhombus only"], "equal sides"),
+ M4("The diagonal of a rectangle divides it into:", "two congruent right triangles", ["two squares", "three triangles", "four rectangles"], "property"),
+ M4("The diagonals of a square divide it into:", "four congruent right triangles", ["two squares", "three triangles", "five parts"], "centre meeting"),
+ M4("A square of side 6 cm has diagonals each:", "longer than 6 cm", ["equal to 6 cm", "shorter than 6 cm", "equal to 3 cm"], "longest segment inside"),
+ M4("To check if a drawn quadrilateral is a rectangle we can check that:", "all four angles are right angles", ["one side is longer", "it has red colour", "its area is 10"], "definition"),
+ M4("Which tool helps mark equal lengths accurately?", "compass or divider", ["protractor", "thermometer", "clock"], "measure"),
+ M4("The set square has angles:", "90°, 45°, 45° or 90°, 30°, 60°", ["100°, 40°, 40°", "90°, 90°, 90°", "60°, 60°, 120°"], "standard triangles"),
+ M4("A perpendicular is drawn from a point to a line to find:", "the shortest distance", ["the longest distance", "angle sum", "perimeter"], "property"),
+ M4("The number of lines of symmetry of a rectangle (not square) is:", "2", ["1", "4", "0"], "mid-lines"),
+ M4("The number of lines of symmetry of a square is:", "4", ["2", "1", "8"], "mid-lines and diagonals"),
+ M4("An arc is:", "a part of a circle", ["a straight line", "a corner", "a triangle"], "curve"),
+ M4("The distance of a point on the circle from its centre is called its:", "radius", ["diameter", "chord", "tangent"], "same for all points"),
+ M4("The longest chord of a circle is its:", "diameter", ["radius", "arc", "tangent"], "through the centre"),
+ M4("Two circles with centres A and B and equal radii intersect at points that lie on the:", "perpendicular bisector of AB", ["line AB", "diameter of A", "tangent"], "equal distance from A and B"),
+]
+for l, b in [(6, 4), (9, 5), (12, 8), (7, 7), (10, 6), (14, 9), (20, 11), (5, 3), (15, 8), (18, 10)]:
+    kind = "square" if l == b else "rectangle"
+    A.append(M4(f"A {kind} of sides {l} cm and {b} cm has perimeter:", f"{2*(l+b)} cm", [f"{l*b} cm", f"{l+b} cm", f"{2*(l+b)+2} cm"], f"$2({l}+{b})$"))
+A = A[:40]
+assert len(A) == 40, len(A)
+B = [
+ Q("State two properties of a rectangle.", "Opposite sides equal and parallel; all angles are 90° (diagonals equal).", "1+1"),
+ Q("How is a square different from a rectangle?", "A square has all sides equal; a rectangle needs only opposite sides equal.", "1+1"),
+ Q("State two properties of the diagonals of a square.", "They are equal and bisect each other at right angles.", "1+1"),
+ Q("What is a perpendicular bisector?", "A line that cuts a segment into two equal parts at 90°.", "1+1"),
+ Q("Name the instruments in a geometry box used for construction.", "Ruler, compass, protractor, set squares, divider.", "1+1"),
+ Q("What is the radius of a circle?", "Distance from centre to any point on the circle.", "1+1"),
+ Q("A rectangle has diagonal of 10 cm. What is the length of the other diagonal?", "10 cm (equal diagonals).", "1+1"),
+ Q("Why do the diagonals of a rectangle bisect each other?", "They meet at the centre dividing each into equal halves.", "1+1"),
+ Q("How many right angles does a square have?", "4.", "1+1"),
+ Q("What do we need to construct a square?", "The length of one side.", "1+1"),
+ Q("Define an arc.", "A part of the circumference of a circle.", "1+1"),
+ Q("A circle has radius 4 cm. Find its diameter.", "8 cm.", "1+1"),
+ Q("What is meant by ‘equidistant’?", "At the same distance from two given points.", "1+1"),
+ Q("Name the quadrilateral whose diagonals are equal and perpendicular.", "Square.", "1+1"),
+ Q("How can we check parallel lines with a ruler and set square?", "Slide the set square along the ruler so the same edge draws the lines.", "1+1"),
+ Q("What is the use of a divider?", "Transferring and comparing lengths.", "1+1"),
+]
+C = [
+ Q("Write the steps to construct a rectangle 6 cm × 4 cm using a ruler and set square.", "Draw 6 cm base (1); set square for 90° at both ends and mark 4 cm (1); join the top points (1).", "1+1+1"),
+ Q("Write the steps to construct a square of side 5 cm.", "Draw 5 cm base (1); raise two 90° lines of 5 cm (1); join the ends (1).", "1+1+1"),
+ Q("Explain the properties of the diagonals of a rectangle.", "Equal (1); bisect each other (1); divide rectangle into congruent triangles (1).", "1+1+1"),
+ Q("How can you find the midpoint of a line segment using a compass?", "Draw arcs of equal radius from both ends above and below (1.5); join the intersections to cut at the midpoint (1.5).", "1½+1½"),
+ Q("Why is every square a rectangle but not every rectangle a square?", "A square has all rectangle properties plus equal sides (1.5); a rectangle may have unequal sides (1.5).", "1½+1½"),
+ Q("Draw a circle of radius 3 cm and mark its diameter, a radius and a chord.", "Correct circle with labels (3).", "1+2"),
+ Q("State three properties of a square.", "All sides equal (1); all angles 90° (1); diagonals equal and perpendicular (1).", "1+1+1"),
+ Q("A rectangle has sides 9 cm and 12 cm. The diagonal splits it into two triangles. Find the area of each.", "Area of the rectangle 108 cm² (1); each triangle 54 cm² (2).", "1+2"),
+ Q("Describe how to draw the perpendicular bisector of a segment AB of length 7 cm.", "Draw AB (1); with compass arcs from A and B (1); join the intersections (1).", "1+1+1"),
+ Q("The diagonals of a rectangle ABCD meet at O. If AC = 14 cm, find OA and BD.", "OA = 7 cm (1.5); BD = 14 cm (1.5).", "1½+1½"),
+ Q("A tile pattern uses squares of side 10 cm arranged 6 across and 4 down. Find the area and perimeter of the whole rectangle.", "Rectangle 60 × 40 cm; area 2,400 cm² (1.5); perimeter 200 cm (1.5).", "1½+1½"),
+ Q("Why can a ruler and compass help to draw a perpendicular at a point on a line?", "Equal arcs on both sides of the point and then two arcs above (1.5); join to get the perpendicular (1.5).", "1½+1½"),
+ Q("Explain with a drawing how the points equidistant from A and B are found.", "Draw arcs of equal radius from A and B (1.5); the points where they meet lie on the perpendicular bisector (1.5).", "1½+1½"),
+ Q("A rectangle has length 15 cm and perimeter 50 cm. Find its breadth and say whether it is a square.", "Breadth 10 cm (2); not a square (1).", "2+1"),
+ Q("Using the properties of diagonals, how can you check if a quadrilateral is a rectangle?", "Both diagonals equal and bisecting each other (3).", "1+2"),
+ Q("Draw a square with diagonal 6 cm using properties of diagonals.", "Draw two perpendicular lines of 6 cm bisecting each other and join the ends (3).", "1+2"),
+ Q("How many different rectangles of whole-number sides can be made with perimeter 16 cm? List them.", "(1,7), (2,6), (3,5), (4,4) (3).", "1+2"),
+ Q("What is the radius of a circle having diameter 12 cm? Use it to draw the circle.", "6 cm (1.5); set compass to 6 cm and draw (1.5).", "1½+1½"),
+ Q("State the difference between a chord and a diameter.", "A chord joins any two points of a circle (1.5); a diameter is the longest chord through the centre (1.5).", "1½+1½"),
+ Q("A square garden has a diagonal path crossing it. Explain the shape of each part.", "The diagonal divides the garden into two right-angled triangles (3).", "1+2"),
+ Q("Draw an artwork using circles with the same centre and different radii. Name the pattern.", "Concentric circles (3).", "1+2"),
+ Q("Why are right angles checked with a set square at the corners of a table?", "To verify the table corners are exactly 90° (3).", "1+2"),
+ Q("If the diagonals of a quadrilateral bisect each other at 90° and are equal, what is it?", "A square (3).", "1+2"),
+ Q("Write the steps to draw a line parallel to a given line through a point using set squares.", "Place a set square along the line (1); place the ruler on its edge and slide (1); draw through the point (1).", "1+1+1"),
+]
+D = [
+ Q("(i) State the properties of a rectangle. (ii) Construct a rectangle 7 cm × 5 cm. (iii) Verify that its diagonals are equal by measuring.", "(i) Properties (2). (ii) Construction (2). (iii) Both measure about 8.6 cm (1).", "2+2+1"),
+ Q("(i) State the properties of a square. (ii) Construct a square of side 6 cm. (iii) Draw its diagonals and measure the angle between them.", "(i) Properties (2). (ii) Construction (2). (iii) 90° (1).", "2+2+1"),
+ Q("(i) Draw a line segment AB = 8 cm. (ii) Construct its perpendicular bisector. (iii) Show that a point on it is equidistant from A and B.", "(i) Correct (1). (ii) Steps and drawing (2). (iii) Measure the distances (2).", "1+2+2"),
+ Q("<b>Case study:</b> A carpenter cuts a rectangular board 120 cm × 80 cm, and then cuts it along a diagonal. (i) What shapes result? (ii) Are they equal? (iii) Find the area of each part. (iv) Which property of the diagonal is used?", "(i) Two right-angled triangles (1). (ii) Yes, congruent (1). (iii) 4,800 cm² (1). (iv) Diagonal divides the rectangle in two equal parts (2).", "1+1+1+2"),
+ Q("(i) Explain the properties of diagonals of rectangles and squares. (ii) Compare them in a table.", "(i) Explanation (2). (ii) Rectangle: equal, bisect; square: equal, bisect at 90° (3).", "2+3"),
+ Q("(i) Draw a circle of radius 4 cm. (ii) Draw two chords. (iii) Construct the perpendicular bisector of each. (iv) What do you observe?", "(i) Circle (1). (ii) Two chords (1). (iii) Bisectors (2). (iv) Meet at the centre (1).", "1+1+2+1"),
+ Q("<b>Case study:</b> Two villages A and B are 6 km apart. A well is to be dug equidistant from both. (i) Where can it be placed? (ii) Draw the possible positions. (iii) Which point on AB is best? (iv) How far from each?", "(i) On the perpendicular bisector of AB (1). (ii) Line drawing (2). (iii) The midpoint (1). (iv) 3 km (1).", "1+2+1+1"),
+ Q("(i) Using ruler and compass, copy a line segment of 5.5 cm. (ii) Draw a square on it. (iii) Name its parts.", "(i) Copy (1). (ii) Square (2). (iii) Sides, vertices, diagonals (2).", "1+2+2"),
+ Q("(i) A rectangle's length is twice its breadth, perimeter 36 cm. Find the sides. (ii) Area. (iii) Diagonal ≈ ?", "(i) 12 and 6 cm (2). (ii) 72 cm² (1). (iii) Measured ≈ 13.4 cm (2).", "2+1+2"),
+ Q("<b>Case study:</b> A tile is a square of 20 cm side. (i) Find its area. (ii) Find the length of two diagonals together approximately. (iii) How many tiles in a 2 m × 1 m floor? (iv) Its perimeter?", "(i) 400 cm² (1). (ii) About 56.6 cm (1). (iii) 50 tiles (1). (iv) 80 cm (2).", "1+1+1+2"),
+ Q("(i) Why do diagonals of a rectangle bisect each other? Explain with a drawing. (ii) What do you notice if the rectangle is a square?", "(i) Reasoning with triangles (3). (ii) Diagonals are also perpendicular (2).", "3+2"),
+ Q("(i) Draw a design using squares and circles. (ii) Use compass to draw 4 equal circles inside a square. (iii) Name the symmetry.", "(i) Neat design (2). (ii) Correct construction (2). (iii) Line and rotational symmetry (1).", "2+2+1"),
+ Q("(i) Draw a line l and a point P not on it. (ii) Construct a perpendicular from P to l. (iii) Measure the shortest distance.", "(i) Correct (1). (ii) Steps (2). (iii) Measurement (2).", "1+2+2"),
+ Q("(i) How many squares and rectangles are in a 2 × 2 grid? (ii) Count squares of different sizes.", "(i) 5 squares and 9 rectangles in all (3). (ii) 4 small and 1 large (2).", "3+2"),
+]
+assert len(B) == 16 and len(C) == 24 and len(D) == 14, (len(B), len(C), len(D))
+D.append(Q("(i) List the tools and steps to draw a rectangle of 9 cm × 3 cm. (ii) Name the properties used.", "(i) Tools and steps (3). (ii) Right angles and equal opposite sides (2).", "3+2"))
+D.append(Q("(i) Construct a rectangle PQRS with PQ = 6 cm and QR = 3.5 cm. (ii) Draw both diagonals and mark their meeting point O. (iii) What are OP, OQ, OR and OS in relation to each other?", "(i) Construction (2). (ii) Diagonals and O (1). (iii) All four are equal (2).", "2+1+2"))
+SETS, POOL = build(A, B, C, D)

@@ -1,0 +1,90 @@
+from common import *
+bio = dict(
+ mcq=[
+  mcq("A student places a potted plant in a dark room for 48 hours and then tests a leaf for starch with iodine. The leaf turns:", ["blue-black", "colourless", "brown/orange (no starch)", "green"], 'c', "No photosynthesis in the dark, so starch is absent and iodine stays brown."),
+  mcq("Which of the following is the correct sequence of the passage of urine?", ["Kidney → ureter → urinary bladder → urethra", "Kidney → urethra → bladder → ureter", "Bladder → kidney → ureter → urethra", "Ureter → kidney → urethra → bladder"], 'a', "Urine from the kidney goes via the ureter to the bladder and out through the urethra."),
+  mcq("A person touches a hot object and withdraws the hand without thinking. The nerve pathway of this action is:", ["receptor → sensory neuron → spinal cord → motor neuron → effector", "receptor → brain → motor neuron → effector", "effector → motor neuron → spinal cord → receptor", "receptor → motor neuron → brain → effector"], 'a', "Reflex arc: spinal cord acts as the processing centre."),
+  mcq("Which hormone is released from the adrenal glands to prepare the body for ‘fight or flight’?", ["Insulin", "Thyroxine", "Adrenaline", "Oestrogen"], 'c', "Adrenaline raises heart rate and blood supply to muscles."),
+  mcq("Spirogyra reproduces by breaking into smaller pieces, each of which grows into a new filament. This is:", ["budding", "fragmentation", "spore formation", "regeneration only"], 'b', "Fragmentation."),
+  mcq("A plant with pure tall trait (TT) is crossed with a dwarf plant (tt). The F₂ generation shows tall and dwarf plants in the ratio:", ["1 : 1", "3 : 1", "2 : 1", "1 : 3"], 'b', "F₂ phenotypic ratio is 3 tall : 1 dwarf."),
+  mcq("Non-biodegradable wastes like DDT enter the food chain and their concentration is highest in:", ["producers", "herbivores", "primary carnivores", "top carnivores"], 'd', "Biomagnification increases concentration at each higher trophic level."),
+ ],
+ ar=[
+  ar("The rate of breathing in aquatic organisms is much faster than in terrestrial organisms.", "The amount of dissolved oxygen in water is fairly low compared to the amount of oxygen in air.", 'a', "R is the correct reason for A."),
+  ar("Sexual reproduction leads to variation in a population.", "Variation in DNA copying during asexual reproduction produces no differences at all.", 'c', "A is true; R is false because small variations do arise in DNA copying."),
+ ],
+ s2=[
+  sa("List two functions of the human kidney other than the removal of nitrogenous wastes. Name the structural and functional unit of the kidney.", 2, "Maintains water/salt balance and acid–base (pH) balance (any two, 1). Nephron (1)."),
+  OR(sa("Name the part of the brain that (i) controls balance of the body and (ii) controls the involuntary actions like blood pressure and salivation.", 2, "(i) Cerebellum (1); (ii) medulla in the hind-brain (1)."),
+     sa("Why does the body need both nervous and hormonal control systems? Give one difference in their speed of action.", 2, "Nervous coordination is fast but short-lived and limited to certain cells; hormonal system reaches all cells, slower but lasting (1 + 1).")),
+  sa("What is the role of the following in the human female reproductive system: (i) ovary, (ii) fallopian tube?", 2, "(i) Produces eggs (ova) and hormones (1). (ii) Carries the egg to the uterus and is the site of fertilisation (1)."),
+ ],
+ s3=[
+  sa("Explain the process of double circulation in humans. Why is it necessary?", 3, "Blood passes twice through the heart in one complete cycle: pulmonary (heart–lungs–heart) and systemic (heart–body–heart) (2). Necessary to keep oxygenated and deoxygenated blood separate and maintain high energy supply (1)."),
+  sa("Define biodegradable and non-biodegradable substances with two examples each. State one harmful effect of the accumulation of non-biodegradable waste.", 3, "Biodegradable – broken down by microbes (paper, vegetable waste) (1); non-biodegradable – not broken down (plastic, DDT) (1). Pollute the soil/water and enter food chains (1)."),
+ ],
+ case=[case("Priya’s class performed an experiment: pollen grains were sprinkled on a sugar–boric acid solution on a glass slide and observed under a microscope after 30 minutes. They saw the pollen grains developing long tube-like structures.",
+   [sub("Name the structure formed by the pollen grain.", 1, "Pollen tube (1)."),
+    sub("Where does the pollen tube grow in a flower?", 1, "Through the style to the ovary and the ovule (1)."),
+    OR(sub("Describe the process of fertilisation in flowering plants after the pollen tube reaches the ovule.", 2, "Male gamete fuses with the egg (female gamete) to form the zygote; the ovule develops into a seed (2)."),
+       sub("Distinguish between self-pollination and cross-pollination.", 2, "Self: pollen transfer within the same flower or another flower of the same plant; cross: to a flower of a different plant of the same species (2)."))])],
+ d=[OR(sa("(i) Describe the structure of the human nephron with a labelled diagram. (ii) How is urine formed? (iii) What is the function of the artificial kidney?", 5,
+          "(i) Labelled nephron: glomerulus, Bowman’s capsule, tubule, collecting duct (2). (ii) Filtration in the glomerulus, selective reabsorption in the tubule, and secretion (2). (iii) Dialysis – removes nitrogenous wastes from the blood of patients with kidney failure (1)."),
+       sa("(i) Describe the human male reproductive system with a labelled diagram. (ii) Write the functions of the testes. (iii) Name one sexually transmitted disease caused by a bacterium.", 5,
+          "(i) Testes, scrotum, vas deferens, seminal vesicle, prostate, urethra, penis labelled (2). (ii) Produce sperms and the hormone testosterone (2). (iii) Gonorrhoea/syphilis (1)."))],
+)
+chem = dict(
+ mcq=[
+  mcq("When carbon dioxide is passed through lime water, it turns milky due to the formation of:", ["calcium oxide", "calcium carbonate", "calcium hydroxide", "calcium bicarbonate"], 'b', "Ca(OH)₂ + CO₂ → CaCO₃ + H₂O."),
+  mcq("Which of the following salts does not contain water of crystallisation?", ["Blue vitriol", "Washing soda", "Common salt (NaCl)", "Gypsum"], 'c', "NaCl is anhydrous."),
+  mcq("An element X forms an oxide that turns blue litmus red. The element X is most likely:", ["a metal", "a non-metal", "an alkali metal", "an alkaline-earth metal"], 'b', "Non-metals form acidic oxides."),
+  mcq("Ionic compounds are generally soluble in water but not in kerosene because:", ["water is polar", "kerosene is polar", "both are non-polar", "ionic compounds are non-polar"], 'a', "Polar water stabilises the ions."),
+  mcq("Which of the following is a saturated hydrocarbon?", ["C₂H₄", "C₂H₂", "C₃H₈", "C₆H₆"], 'c', "C₃H₈ (propane) has only single bonds."),
+ ],
+ ar=[ar("Hydrogen gas is not evolved when a metal reacts with nitric acid.", "HNO₃ is a strong oxidising agent and oxidises the H₂ produced to water.", 'a', "Except Mg and Mn, which give H₂ with very dilute HNO₃.")],
+ s2=[
+  sa("A metal ‘M’ on reacting with dilute sulphuric acid gives hydrogen gas. Write the balanced equation if M is zinc, and state whether M is above or below hydrogen in the reactivity series.", 2, "Zn + H₂SO₄ → ZnSO₄ + H₂ (1.5); M lies above hydrogen (½)."),
+  sa("Why are covalent compounds generally poor conductors of electricity? Give the reason for the low melting point of covalent compounds.", 2, "No free ions or electrons (1). Weak intermolecular forces between molecules need little energy to overcome (1)."),
+ ],
+ s3=[
+  OR(sa("Explain the term ‘pH’. Why is pH important in everyday life? Give two examples.", 3, "pH is a scale (0–14) to measure the hydrogen ion concentration (1). Examples: plants and animals live within a narrow pH range; tooth decay starts when pH of the mouth falls below 5.5; acidity in the stomach (any two, 1 + 1)."),
+     sa("Write the chemical formula of bleaching powder. How is it prepared? State two uses.", 3, "CaOCl₂ (½). Prepared by passing chlorine over dry slaked lime: Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O (1). Uses: bleaching and disinfecting drinking water (any two, 1½).")),
+  sa("Balance the following equations and identify the type of reaction: (a) Fe₂O₃ + Al → Al₂O₃ + Fe, (b) H₂ + N₂ → NH₃, (c) KClO₃ → KCl + O₂", 3, "(a) Fe₂O₃ + 2Al → Al₂O₃ + 2Fe (displacement) (1). (b) 3H₂ + N₂ → 2NH₃ (combination) (1). (c) 2KClO₃ → 2KCl + 3O₂ (decomposition) (1)."),
+ ],
+ case=[case("A student takes three test tubes containing zinc granules. To the first she adds dilute HCl, to the second NaOH solution on heating and to the third distilled water. She observes bubbles of a colourless gas in the first two test tubes and none in the third. On bringing a burning splinter near the mouth of the first test tube the gas burns with a pop sound.",
+   [sub("Name the gas evolved in the first test tube.", 1, "Hydrogen (1)."),
+    sub("Write the balanced equation for the reaction in the first test tube.", 1, "Zn + 2HCl → ZnCl₂ + H₂ (1)."),
+    OR(sub("Write the name and formula of the salt formed in the second test tube. What does this reaction show about zinc?", 2, "Sodium zincate, Na₂ZnO₂; zinc is amphoteric (reacts with both acids and bases) (2)."),
+       sub("Why is no gas evolved in the third test tube? Under what condition would zinc react with water?", 2, "Zinc does not react with cold water (1); it reacts with steam to give zinc oxide and hydrogen (1)."))])],
+ d=[OR(sa("(a) State the meaning of the term ‘homologous series’. Give two characteristics. (b) Name and write the formula of the first three members of the alkene series. (c) Write the electron-dot structure of ethene.", 5,
+          "(a) A series of compounds with the same functional group, the same general formula, successive members differing by –CH₂– (1); two characteristics (1). (b) ethene C₂H₄, propene C₃H₆, butene C₄H₈ (1½). (c) Two carbons joined by a double bond (4 shared electrons) with 2 H on each carbon (1½)."),
+       sa("(a) What is the electrolytic process used for the manufacture of sodium hydroxide? Name the three products. (b) Write the balanced equation. (c) State one use of each product.", 5,
+          "(a) Chlor-alkali process; NaOH, Cl₂ and H₂ (2). (b) 2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂ (1). (c) NaOH – soap/paper; Cl₂ – water treatment/PVC; H₂ – fuel/margarine (any two uses, 2)."))],
+)
+phy = dict(
+ mcq=[
+  mcq("An object is placed at 40 cm in front of a convex mirror of focal length 20 cm. The image formed is at:", ["13.3 cm behind the mirror", "40 cm in front of the mirror", "13.3 cm in front of the mirror", "20 cm behind the mirror"], 'a', "With u = −40, f = +20: 1/v = 1/20 + 1/40 = 3/40 → v = 13.3 cm, behind the mirror."),
+  mcq("The ray diagram shows an object placed in front of a convex lens of focal length 10 cm. The position of the image is:", ["at 20 cm, real and inverted", "at 15 cm, real and inverted", "at 30 cm, virtual and erect", "at 10 cm, real and inverted"], 'a', "u = −20, f = 10: 1/v = 1/10 − 1/20 = 1/20 → v = 20 cm.", fig=ray_lens(20, 10)),
+  mcq("A person with myopia cannot see distant objects clearly. The defect is corrected using a:", ["concave lens", "convex lens", "cylindrical lens", "bifocal lens only"], 'a', "A concave lens diverges rays and shifts the image back to the retina."),
+  mcq("The commercial unit of electrical energy is the kilowatt-hour. 1 kWh is equal to:", ["3.6 × 10³ J", "3.6 × 10⁶ J", "36 × 10³ J", "3.6 × 10⁹ J"], 'b', "1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J."),
+ ],
+ ar=[ar("A current-carrying straight conductor experiences no force when placed parallel to the magnetic field.", "The force on a current-carrying conductor is maximum when it is perpendicular to the magnetic field.", 'b', "Both true, but R does not explain A (force ∝ sin θ gives both).")],
+ s2=[OR(sa("An object 5 cm tall is placed 25 cm from a concave mirror of focal length 10 cm. Find the position and nature of the image.", 2, "u = −25, f = −10: 1/v = −1/10 + 1/25 = −3/50 → v = −16.7 cm; real and inverted (2)."),
+        sa("What is the cause of atmospheric refraction? Why do stars twinkle but planets do not?", 2, "Refraction of starlight through air layers of changing optical density (1). Stars are point sources and the amount of light entering the eye fluctuates; planets are extended sources, so the variations average out (1)."))],
+ s3=[
+  sa("Draw the magnetic field lines around a bar magnet. Mark the direction. What does the crowding of lines show?", 3, "Closed loops emerging from N and entering S outside, S to N inside (2); stronger field where the lines are crowded (1)."),
+  sa("A wire of resistance 20 Ω is bent into a circular loop and then connected across a 10 V battery. What current flows? If the wire is stretched to double its length (volume constant), what is its new resistance?", 3, "I = V/R = 10/20 = 0.5 A (1). Length doubled → area halved, so R′ = 4R = 80 Ω (2)."),
+  sa("Explain why a concave mirror is used as a shaving mirror and a convex mirror as a rear-view mirror.", 3, "Concave: when the face is within the focal length, a virtual, erect, magnified image is formed (1½). Convex: always forms virtual, erect, diminished images, giving a wider field of view (1½)."),
+ ],
+ case=[case("In the figure, an electric circuit consists of a 12 V battery, an ammeter and a 4 Ω resistor in series with two 6 Ω resistors in parallel with each other. A student wants to find the current drawn from the battery and the potential difference across the resistor of 4 Ω.",
+   [sub("Calculate the equivalent resistance of the parallel combination.", 1, "1/R = 1/6 + 1/6 → R = 3 Ω (1)."),
+    sub("What is the total current drawn from the battery?", 1, "Total R = 4 + 3 = 7 Ω; I = 12/7 ≈ 1.71 A (1)."),
+    OR(sub("Find the potential difference across the 4 Ω resistor.", 2, "V = IR = (12/7) × 4 ≈ 6.86 V (2)."),
+       sub("Find the current through each 6 Ω resistor.", 2, "Equal resistors share current equally: 12/7 ÷ 2 ≈ 0.86 A each (2)."))],
+   fig=circuit('mix', ['4 Ω', '6 Ω', '6 Ω'], '12 V'))],
+ d=[OR(sa("(a) State the laws of refraction. (b) A ray of light enters from air into glass of refractive index 1.5; find the speed of light in glass (c = 3 × 10⁸ m/s). (c) Draw a ray diagram of refraction through a rectangular glass slab.", 5,
+          "(a) Incident, refracted ray and normal lie in the same plane; sin i / sin r = constant (Snell’s law) (2). (b) v = c/n = 3 × 10⁸/1.5 = 2 × 10⁸ m/s (1.5). (c) Slab diagram with lateral displacement, emergent ray parallel to incident (1.5)."),
+       sa("(a) Describe the activity that shows a current-carrying conductor produces a magnetic field. (b) State the right-hand thumb rule. (c) How does the field change when the current is doubled?", 5,
+          "(a) Compass needle near a wire deflects when current flows; reversal of current reverses deflection (2). (b) Hold the conductor in the right hand with thumb along the current; the curled fingers show the direction of the field (2). (c) The field strength doubles (1)."))],
+)
+if __name__ == '__main__': go(5, bio, chem, phy); print('built 5')

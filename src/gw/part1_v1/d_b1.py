@@ -1,0 +1,51 @@
+from xlib import G,E,O
+B=[]
+# ---------- B1 gap filling
+B.append(G("B1.1","Gap Filling — A Day at the Zoo (Classes 5–6)",
+"Last Sunday, our class (a) ______ a trip to the city zoo. We (b) ______ there by bus. The zoo is (c) ______ than I had imagined. First we saw the elephants, (d) ______ were drinking water from a pond. Then we watched monkeys (e) ______ from tree to tree. Our teacher told us not to feed the animals (f) ______ they may fall ill. We returned home in the evening, tired (g) ______ happy. It was (h) ______ best day of the term.",
+[("go|went|goes|gone",2),("reach|reached|had reach|reaching",2),("big|biggest|bigger|more big",3),("who|which|whom|whose",2),("jump|jumped|jumping|to jumping",3),("because|although|unless|but",1),("or|nor|but|if",3),("a|an|the|X (no article)",3)]))
+B.append(G("B1.2","Gap Filling — Saving Water (Classes 6–7)",
+"Water is (a) ______ most precious resource on earth, yet we waste it carelessly. Nearly 70 per cent of the earth is covered with water, but only a small part of it (b) ______ fit for drinking. If we (c) ______ saving water now, future generations will suffer. A dripping tap can waste (d) ______ than a hundred litres in a month. Farmers should use drip irrigation (e) ______ crops get water without waste. Each of us (f) ______ responsible for protecting this gift. We must also keep rivers clean (g) ______ throwing garbage into them. Let us (h) ______ a promise to save every drop.",
+[("a|an|the|X (no article)",3),("are|is|were|be",2),("do not start|does not start|did not start|not start",1),("much|more|most|many",2),("so that|because of|despite|unless",1),("are|is|were|have",2),("without|with|for|into",1),("take|make|do|give",2)]))
+B.append(G("B1.3","Gap Filling — Marie Curie (Class 8)",
+"Marie Curie (a) ______ born in Warsaw in 1867. She (b) ______ physics and chemistry in Paris. Marie and her husband Pierre (c) ______ two new elements, polonium and radium. In 1903 she (d) ______ the Nobel Prize in Physics, and she (e) ______ the prize in Chemistry in 1911. By the time she died in 1934, she (f) ______ the world's attention for her science. Her research (g) ______ the foundation of modern cancer treatment. She remains an inspiration (h) ______ girls everywhere.",
+[("is|was|were|has been",2),("study|studied|has studied|had studying",2),("discover|discovered|discovering|discovers",2),("won|win|has won|wins",1),("received|receives|is receiving|has received",1),("attracts|has attracted|had attracted|would attract",3),("laid|lay|lain|laying",1),("in|at|to|by",3)]))
+B.append(G("B1.4","Gap Filling — Mobile Phones (Class 7)",
+"Mobile phones have made life easier, but they (a) ______ be used carefully. Students (b) ______ not use them in class. Many children are addicted (c) ______ games. Doctors say that too much screen time (d) ______ the eyes. A child who sleeps late (e) ______ tired in the morning. Parents (f) ______ set limits on usage. If we (g) ______ the phone wisely, it will be a good servant. (h) ______ we use it carelessly, it becomes a bad master.",
+[("should|ought|would to|can to",1),("must|would|are|does",1),("on|to|at|for",2),("damage|damages|damaged|damaging",2),("feel|feels|felt|feeling",2),("ought to|could to|ought|should to",1),("use|uses|will use|used",1),("Because|If|Unless|But",2)]))
+B.append(G("B1.5","Gap Filling — Climate Change (Class 8)",
+"Climate change is one of (a) ______ biggest challenges of our time. Burning fossil fuels (b) ______ harmful gases into the air. (c) ______ the rising temperature, glaciers are melting fast. Scientists warn that sea levels (d) ______ rise further if nothing is done. Planting trees, saving electricity and (e) ______ public transport can help. Everyone (f) ______ do their bit. The world (g) ______ already lost many forests (h) ______ cannot be replaced quickly.",
+[("a|an|the|X (no article)",3),("release|releases|releasing|released",2),("Due to|Because|Although|Despite",1),("would|will|shall|are",2),("use|used|using|to use",3),("should|are|does|doing",1),("have|has|had|is",2),("which|who|whom|whose",1)]))
+# ---------- B2 editing
+B.append(E("B2.1","Editing — My Grandfather (Classes 5–6)",
+["My grandfather live in a small village.","He walks to the river and have a bath.","Then he feed the cows and buffaloes.","After that he read the newspaper.","His wife makes breakfast for him with loving.","Both of them is very kind to everyone.","I enjoy visit them during the summer holidays.","It is the happier time of my year."],
+[("live","lives"),("have","has"),("feed","feeds"),("read","reads"),("loving","love"),("is","are"),("visit","visiting"),("happier","happiest")]))
+B.append(E("B2.2","Editing — A Tiger in the Village (Classes 6–7)",
+["Villagers seen a tiger near the river last night.","The forest department were informed immediately.","A team of officers reach the spot within an hour.","They found footprints of a animal near the pond.","Most of the villager were frightened.","Schools in the area remained closed since two days.","By the evening the animal was caught safe.","The villagers thanked the officers for there help."],
+[("seen","saw"),("were","was"),("reach","reached"),("a","an"),("villager","villagers"),("since","for"),("safe","safely"),("there","their")]))
+B.append(E("B2.3","Editing — Plastic Pollution (Classes 7–8)",
+["Plastic is one of the most harmful material today.","It take hundreds of years to decay.","Many animals dies after eating plastic bags.","Rivers is choked with waste.","We should use cloth bags instead of plastic one.","Shopkeepers must stopped giving free bags.","Recycling help us save energy.","If everyone try, our cities will become cleaner."],
+[("material","materials"),("take","takes"),("dies","die"),("is","are"),("one","ones"),("stopped","stop"),("help","helps"),("try","tries")]))
+B.append(E("B2.4","Editing — Annual Day (Class 8)",
+["The school annual day was celebrate last Friday.","The chief guest arrived at ten sharp and was welcomed from the principal.","The students performed a play who was written by their teacher.","The audience clapped loud at the end.","Prizes were give to the winners.","Neither the principal or the teachers left early.","He said that the programme is the best he had seen.","The next day, everybody were talking about the event."],
+[("celebrate","celebrated"),("from","by"),("who","which"),("loud","loudly"),("give","given"),("or","nor"),("is","was"),("were","was")]))
+B.append(E("B2.5","Editing — Simple Sentences (Class 5)",
+["There is three mangoes on the table.","She have a red umbrella.","We goes to the park every Sunday.","The sun are hot in May.","My brother and me play cricket.","Birds can flies high in the sky.","He is tallest than his sister.","They did not went to school."],
+[("is","are"),("have","has"),("goes","go"),("are","is"),("me","I"),("flies","fly"),("tallest","taller"),("went","go")]))
+# ---------- B3 omission
+B.append(O("B3.1","Omission — Ramu's Story (Classes 5–6)",
+["Ramu was a poor boy who lived a small hut.","He very little money to buy books.","But he was determined study hard.","His teacher gave him books and he read them night.","Soon he became the best student the class.","People praised him his hard work.","Years later he a famous doctor.","He never forgot those helped him."],
+[("in","lived in a small hut"),("had","He had very little money"),("to","determined to study hard"),("at","read them at night"),("in","best student in the class"),("for","praised him for his hard work"),("became","he became a famous doctor"),("who","those who helped him")]))
+B.append(O("B3.2","Omission — Baking a Cake (Classes 6–7)",
+["Rani wanted bake a cake for her mother.","She mixed the flour sugar in a bowl.","Then she poured the mixture a pan.","The pan was placed the oven.","After half an hour, the cake ready.","It smelled so good everyone came to the kitchen.","Her mother very happy to see it.","They ate it great joy."],
+[("to","wanted to bake"),("and","the flour and sugar"),("into","poured the mixture into a pan"),("in","placed in the oven"),("was","the cake was ready"),("that","so good that everyone came"),("was","Her mother was very happy"),("with","ate it with great joy")]))
+B.append(O("B3.3","Omission — A New Hospital (Class 8)",
+["The Mayor inaugurated a new hospital the city yesterday.","It been built at a cost of ten crore rupees.","The hospital will provide free treatment poor patients.","More than hundred doctors will work there.","Many people gathered watch the ceremony.","The Mayor said that health the right of every citizen.","He also promised that more such centres would opened soon.","Residents thanked him the gift."],
+[("in","hospital in the city"),("has","It has been built"),("to","treatment to poor patients"),("a","More than a hundred doctors"),("to","gathered to watch"),("is","health is the right"),("be","would be opened"),("for","thanked him for the gift")]))
+B.append(O("B3.4","Omission — Anu's Parrot (Class 5)",
+["Anu has a pet. It a parrot.","The parrot green in colour.","It is fond chillies.","Anu gives it water twice day.","Sometimes the parrot sits her shoulder.","Her friends come to see it.","They all play with it in garden.","Anu takes good care it."],
+[("is","It is a parrot"),("is","The parrot is green"),("of","fond of chillies"),("a","twice a day"),("on","sits on her shoulder"),("to","come to see it"),("the","in the garden"),("of","takes good care of it")]))
+B[-1]['items'][5]=("Her friends come see it.","to","Her friends come to see it.")
+B.append(O("B3.5","Omission — Cricket (Class 7)",
+["Cricket is the most popular game India.","Children play it streets, parks and fields.","Sachin Tendulkar is called the 'God of Cricket' millions of fans.","He scored hundred centuries in international cricket.","Cricket teaches us teamwork discipline.","It is the team's victory, not the victory one player.","Players practise regularly improve fast.","Cricket a game of patience, skill and luck."],
+[("in","popular game in India"),("in","play it in streets"),("by","called ... by millions of fans"),("a","scored a hundred centuries"),("and","teamwork and discipline"),("of","victory of one player"),("who","Players who practise regularly improve fast"),("is","Cricket is a game")]))

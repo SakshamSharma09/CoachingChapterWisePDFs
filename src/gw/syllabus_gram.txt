@@ -1,0 +1,1224 @@
+                              SECTION C
+                               GRAMMAR
+           SECTION C- GRAMMAR (APPLICABILITY SA I & SA II)
+Test type includes
+   Gap filling
+   Sentence completion
+   Dialogue completion
+   Sentence reordering
+   Editing
+   Omission
+   Sentence transformation
+   Reported speech
+   Active –Passive Voice
+   Newspaper Head lines
+
+Prescribed syllabus
+1-Determiners
+2-Tenses
+3-Subject-verb agreement
+4-Non-finites
+5-Relatives
+6-Connectors
+7-Conditionals
+8- Comparison
+9- Avoiding Repetition
+10- Nominalisation
+11-Modals
+12- Active and Passive
+13- Reported Speech
+14- Prepositions
+
+
+
+
+                              58 | P a g e
+                               ESSENCE OF GRAMMAR
+                                 1-DETERMINERS
+What are determiners?
+Determiners are the words which are used before nouns to determine or fix their
+meaning.
+Types:
+1- Articles                                 : a/an, the
+2- Demonstrative adjectives                  : this, that, these, those
+3-Possessives                                : my, our, your, his, her, its, their
+
+
+4- Adjectives (Quantity & Number)            : some, any, much, many, all, both,
+                                         little, few,several, less, one, two, etc.
+5- Others                            : each, every, next, another, either, either,
+first, second , etc.
+                                Additional information
+                                          Nouns
+
+
+
+     Countable                           Uncountable
+                                (Oil,water, furniture, etc.)
+
+
+Singular                    Plural
+(Boy)                  (Boys)
+
+
+                                       1- Articles
+
+
+
+        Indefinite                                                    Definite
+         (a/an)                                                                (The)
+
+
+Indefinite article (a/an)
+1- Used before singular countable nouns.
+2- Represents a class or kind in general.
+ e.g. - a cow gives us milk.
+
+
+ (Every cow)
+
+
+                                     59 | P a g e
+A- Used before singular countable nouns beginning with consonant sound.
+Example- a one-eyed man, a unique place, a European, a University, a Mango etc.
+An- Used before singular countable nouns beginning with vowel sound.
+Example- an Indian, an hour, an umbrella, an honest boy (Mute ‗h‘)
+
+
+Definite article (the) – Used before both countable and uncountable nouns.
+Usage:-
+1- When we talk about something for the second time in the same context or
+anything qualified by a phrase.
+
+
+i- I met a girl at the gate of the school. The girl was weeping.
+
+
+(First time reference)                                     (Second time reference)
+ii- The book which is on the table is mine.
+
+
+                     (Phrase)
+2- Used before superlatives
+ She is the tallest girl of the class.
+3- Used before the names of water bodies i.e. - rivers, seas, oceans
+    The Ganges, the Arabian Sea, The Pacific ocean, etc.
+Note: - Not used before the names of lakes.
+   e.g. The Dal Lake
+4- Used before the names of mountain ranges.
+    e.g. The Himalayas
+Note: - Not used before the names of peaks.
+    e.g. The Mount Everest
+5- Used before the names of satellites, planets, stars.
+     e.g. The moon, the earth, the sun
+6- Used before the names of monuments and memorials.
+    e.g. The Red Fort, the Taj Mahal
+7- Used before the names of states/countries that have a common noun in their
+name.
+     e.g. The Punjab, The Congo, the USA, the UAE, the UNO, the UK
+8- Used before the names of scriptures.
+     e.g. The Ramayan, the Quran, the Guru Granth sahib, The Bible
+9- Used before the names of newspapers, magazines.
+     e.g. The Times of India, the Competition Success Review, The Reader‘s Digest
+                                         60 | P a g e
+10- Used before an adjective when the noun is understood.
+       e.g. The poor, the rich(The rich becomes richer, the poor becomes poorer).
+11- When proper noun used as common noun.
+       Kalidas is the Shakespeare of India.
+                      (A great dramatist)
+                              2- Demonstrative adjectives
+This- to demonstrate nearby things
+That- to demonstrate far off things
+These- plural of ‗this‘
+Those- plural of ‗that‘
+                                      3-Possessives
+These are used to show belongingness/ownership.
+e.g.- This book is mine.
+          That is his book.
+                       4- Adjectives (Quantity & Number)/others
+
+
+                       Before                 Before
+                       countable              uncountable
+   Adjectives          nouns(number)          nouns                    Remark
+
+                                              (quantity)
+ Some                                              
+ Any                                                            Used in negative &
+                                                              interrogative
+                                                                sentences
+
+ Much                                               
+ Many                         
+ All                          
+ Both                         
+ Little                                                         Little- hardly any
+                                                                A little- Not much
+                                                               but sufficient
+                                                                The little-Not much
+                                                                but all that is
+ Few                                                            Few- hardly any
+                                                                A few- not many but
+                              
+                                                                some
+                                                                The few- all of them,
+
+                                    61 | P a g e
+                                                               but not many
+ Several                    
+ Less                                           
+ One, two, etc.                                               Cardinal numbers
+
+ Each, every                
+ Next                       
+ Another                    
+ Either, neither                               
+ First, second,                                                Ordinal numbers
+ etc.                       
+
+
+
+
+                                      2-Tenses
+Tense refers to the time at which an action takes place.
+Types:
+Tense
+
+
+Present                                       Past                  Future
+
+
+
+
+1- Indefinite
+                                           2- Continuous
+                                            3- Perfect
+                                            4- Perfect continuous
+                                Additional information
+1-Types of sentences:
+1- Affirmative
+2- Negative
+3- Interrogative
+    i- Yes/No type
+    ii- question word/Wh words type
+4-Interrogative- Negative
+   i- Yes/No type
+    ii- question word/Wh words type
+                                   62 | P a g e
+2- Subject
+1- Singular
+2- Plural
+
+
+
+
+                                  Main
+
+
+3-Verb                                                             Helping
+
+
+                                    Auxiliaries
+
+
+                                                                  Modals
+
+
+
+                         First (I, We)
+
+
+4- Person                Second (You)
+
+
+                         Third (He, She, It, They)
+
+
+                                    Present tense:
+                               1-Indefinite (Simple)
+Hence forth-
+MV- Main verb
+HV- Helping verb
+Usage:
+1- Habitual actions               He gets up early in the morning.
+2- Scientific facts       Water boils at 1000 Centigrade.
+3- Universal facts/ General truth         The sun rises in the east.
+Key- words: Daily, never, always etc.
+Verb:
+MV- I form (Plural Subject), I form+ e/es(Singular Subject)- Affirmative sentences
+
+
+
+                                  63 | P a g e
+HV- Do (Plural Subject)/Does (Singular Subject)-Negative & Interrogative
+Sentences
+NB- No ‗s/es‘ with ‗ do/does‘
+
+
+                     2-Continuous (Progressive, Imperfect)
+                                      Usage:
+1- Action taking place at the time of speaking.
+   I am teaching ‗The Rime of the Ancient Mariner‘ by ST Coleridge at present.
+2- Action continued over a period of time in the present.
+  I am working on a science project nowadays.
+Key- words: Nowadays, at present, these days etc.
+Verb:
+MV- I form + ing
+HV- Is, Am, Are
+                                 3- Perfect Tense
+Usage:
+Just completed action.
+    I have completed my homework just now.
+Key- words: Recently, Just now
+Verb:
+MV- III form
+HV- Has (Singular Subject)/ Have (Plural Subject)
+
+
+                           4- Perfect Continuous Tense
+Usage:
+Action started somewhere in the past but being done now.
+    I have been living in Baroda for the last two years.
+    She has been studying in this school for two years.
+Key- words: Since, for
+Verb:
+MV- I form + ing
+HV- Has been (Singular Subject)/ have been (Plural Subject)
+
+
+NB- Since- Point of time
+    For- Period of time
+
+
+
+                                  64 | P a g e
+                                       Past tense:
+                             1-Past indefinite (Simple)
+Usage:
+Action done in remote past.
+    I went to Mathura yesterday
+    I did not go to Mathura yesterday.
+Key- words: - yesterday, last etc.
+Verb:
+MV- II form (Affirmative sentences)
+HV- Did
+NB- 1-HV ‗Did‘ is used in negative & interrogative sentences.
+  2- With HV ‗Did‘, I form of MV.
+                                 2-Past Continuous
+Usage:
+An action done progressively in the past.
+    He was working on a project, when I last visited him.
+Key- words: those days, etc.
+Verb:
+MV-I form + ing
+HV- was, were
+                                     3-Past Perfect
+Usage:
+An action completed in the past before a said time or another action.
+    The patient had died before the doctor came.
+
+
+        Earlier past                  Past
+Key- words: before, when, as soon as etc.
+Verb:
+MV- III form (earlier past) & II form (Past)
+HV- had (earlier past)
+                             4-Past Perfect Continuous
+Usage:
+An action being done continuously for the said period in the past.
+    She had been reading for two hours when I reached her house.
+Key- words: since, for
+
+
+
+                                     65 | P a g e
+Verb:
+MV- I form + ing
+HV- had been
+                                       Future tense:
+                              1- Future indefinite (Simple)
+Usage:
+Refers to simple action which is to take place.
+      I will go to Surat tomorrow.
+Key- words: tomorrow, next, coming etc.
+Verb:
+MV- I form
+HV- will, shall (Modals)
+NB- 1- Ist Person (I, We) - shall
+      IInd & IIIrd Person (You, He/ She, It, They)-will
+    2- During three situations, i.e. determination, promise, threatening ‗shall   will
+&      will        shall.
+
+
+                                    2-Future Continuous
+Usage:
+A progressive future action.
+      At this time tomorrow, she will be doing her homework.
+Key- words: tomorrow at this time etc.
+Verb:
+MV- I form + ing
+HV- will, shall (Modals) + be
+
+
+                                     3-Future Perfect
+Usage:
+Refers to an action which will be completed at the said time in future.
+e.g. I will have prepared support material by Saturday.
+Key- words: after, by, etc.
+Verb:
+MV- III form
+HV- will, shall (Modals) + have
+
+
+
+
+                                      66 | P a g e
+                            4-Future Perfect Continuous
+Usage:
+An action which will begin before a definite time in the future and will just end
+up at that time or may continue even after that.
+     When I reach my school at 08:30 a.m tomorrow, the teacher will have been
+giving remedial classes.
+Key- words: - Since, for, after three years, etc.
+Verb:
+MV- I form + ing
+HV- will, shall (Modals) + have been
+
+
+                                      Tense Table
+                                     Active Voice
+  Tense                 Present                     Past             Future
+Indefinite       I form/I form +s/ es       II form            Will/Shall
+                 (Affirmative               (Affirmative       + I form
+                 sentences)                 sentences)
+
+
+                 Do/does+ I form            Did+ I form
+                 ( Negative/                ( Negative/
+                 Interrogative              Interrogative
+                 sentences)                 sentences)
+
+
+Continuous       Is/ Am/ Are+ I form        Was/were+ I        Will/shall + be+
+                 + ing                      form +ing          I form + ing
+Perfect          Has/have + III form        Had +III form      Will/shall+ have
+                                                               +III form
+Perfect-         Has/Have + been+ I         Had+ been+ I       Will/shall +Have
+Continuous       form +ing+ since/for       form+ ing+         +been+ I form +ing
+                                            since/for          +since/for
+
+
+                                 Future Time Reference
+1- By using „will/shall‟
+    I‘ll go to Agra tomorrow.
+2- By using „Simple present tense‟
+    What time does the match begin?
+3- By using „Present Continuous tense‟
+    The PM is leaving for America next week.
+
+
+                                    67 | P a g e
+4- By using „Going to‟ form.
+     I am going to take bath.
+5-By using „about to‟ form,
+     The train is about to come.
+
+
+                                       3-Non-finites
+
+
+
+He always tries                  an easy way.
+                    to find
+
+
+
+They always try      to find        an easy way.
+
+
+He always tried                   an easy way.
+                     to find
+
+
+
+
+(Limited by number, person & time) (Not limited by number, person & time)
+
+
+       (Finites)                                            (Non-finites)
+
+
+1- Participle:
+     Present:                 Verb+ ing= adjective (function)
+     Past                             III form= adjective (function)
+Examples:
+     Computer is a calculating machine.
+     I saw a crashed aircraft.
+2- Gerund:
+Verb+ ing= Noun (function)
+Examples:
+Swimming is a good exercise.
+3- to-infinitives    to show purpose
+Examples:
+I went to post a letter.
+
+
+
+
+                                      68 | P a g e
+                                          4-Relatives
+Give information about a person or thing.
+         Relatives                                usage
+Who(whose, whom)                Persons
+Which                           Inanimate things and animals
+That                            Persons and things
+Where                           Place
+what                            things
+
+
+
+
+                                         5-Comparison
+When we compare things, persons and places.
+Degrees of comparison:
+1- Positive degree- No comparison is made.
+       Lata is a tall girl.
+       Maya is a beautiful girl.
+       Ramesh is junior to me.
+2- Comparative degree- Comparison between two.
+       Gayatri is taller than Lata.
+       Ravita is more beautiful than Maya.
+3- Superlative degree- Comparison between more than two.
+       Seema is the tallest girl of class X B.
+       Savitri is the most beautiful girl of class X B.
+Note:
+1- Use of ‗than‘ in comparative degree.
+2- Use of ‗to‘ in comparative degree.
+3- Use of article ‗the‘ in superlative degree of comparison.
+4- Formation of comparatives and superlatives of double and more than
+ double syllable words i.e. beautiful.
+
+
+
+
+                                        69 | P a g e
+                                       6-Modals
+Modals are the auxiliaries that are used to convey special idea.
+  Modal Verbs                              Function/Idea conveyed
+Can                    Ability, Permission(informal)
+Could                  Past of ‗Can‘
+May                    Possibility, Permission(Formal)
+Might                  Past of ‗May‘
+Will &Shall             To express future time, to express determination, promise
+                       and threatening, to make requests
+Should, Ought to       Moral obligation, to express advice
+Must, have to          Social obligation( compulsion),duty, necessity
+Used to                Past habit
+
+
+                            7-Active and Passive
+Used when work done is more prominent than the doer.
+
+Active to Passive:
+Steps:
+1- Change Object to Subject. (Refer noun case below)
+2- Change the verb according to tense.
+3- Change Subject to Object and add ‗by‘ before it. (Refer noun case below)
+
+                              Additional information
+                                    Noun case
+       Subjective                   Possessive                       Objective
+I Person
+I                             my                             me
+We                            our                            us
+II Person
+You                           your                           you
+III person
+He                            his                            him
+She                           her                            her
+It                            its                            It
+They                          their                          them
+
+Types of Objects
+ I teach you English.
+1- What do I teach you?
+      Answer- English                              Direct Object
+
+2- Whom do I teach English?
+    Answer-You                                     Indirect Object
+Example: (Active to Passive voice)
+
+
+                                    70 | P a g e
+                                   I write a letter.
+
+
+
+
+                           A letter is written by me.
+
+
+
+                            Passive Voice Tense Table
+
+   Tense             Present                  Past                      Future
+Indefinite      Is/am/are+ III           Was/were+ III           Will be/shall be+ III
+                form                     form                    form
+
+Continuous      Is/am/are +              Was/were+
+                                                                           X
+                being+ III form          being+ III form
+
+Perfect         Has/have + been          Had + been +III         Will/shall + have +
+                +III form                form                    been +III form
+Perfect-                X                       X                          X
+Continuous
+
+
+Modals                              Modal+ be + III form
+
+                                 8-Reported Speech
+
+
+
+
+Direct speech                                                   Reported speech
+(Actual words of speaker are quoted)       (Words of speaker are reported)
+
+Example:
+He said to me, ―How are you?‖                                     Direct speech
+
+Reporting verb reported speech
+He asked me how I was.                                 Indirect/Reported speech
+
+Steps to change direct speech into reported speech:
+1- Change the reporting verb-according to type of sentence of reported speech.
+2- Remove commas- use conjunction- according to type of sentence of reported
+                     speech.
+3- Change the verb of reported speech- according to tense of reporting verb.
+4- Change the personal pronouns in reported speech.
+5- Always use full stop (.) at the end.
+
+
+
+                                    71 | P a g e
+                             Change of reporting verb
+
+Reporting verb(said to)changed to                  Type of sentence (reported speech)
+told                                               Declarative
+asked                                              Interrogative
+Asked/advised/requested/ordered                    Imperative
+
+
+
+                       Removal of commas (Conjunction used)
+
+Type of sentence (reported speech)           Conjunction used
+Declarative                                  that
+interrogative
+i- yes/No type                               If/whether
+ii- Wh-words type                            Wh- word
+Imperative
+i- Affirmative ( begins with I form)         To
+ii- Negative ( begins with ‗Do not‖          Not to
+
+
+
+                        Changing the verb of reported speech
+
+Verb (direct speech)                     Verb ( reported/Indirect speech)
+                     Reporting verb (Present/future tense)
+Verb (direct speech)                     No change
+                         Reporting verb (Past tense)
+I form                                   II form
+Is/am/are                                Was/were
+Has/have                                 Had
+II form                                  Had+ III form
+Was/were                                 Had been +I form + ing
+Will/shall                               Would
+Can                                      Could
+May                                      Might
+Must                                     Must/had to
+Would                                    No change
+Could                                    No change
+Might                                    No change
+Universal fact                           No change
+
+                          Changing the personal pronouns
+I person-           with the speaker
+II person-          with the listener
+III person-         No change
+(Refer ‗noun case‘ table for changing the personal pronouns)
+
+                             Solved/Unsolved exercises
+1- Editing/Omission
+
+                                    72 | P a g e
+Tips:
+ Read the passage carefully. Identify the tense of passage.
+ Underline the error/identify the missing word
+ Look for errors/missing words in the use of
+
+   Determiners
+   Tenses/Verb
+   Subject-verb agreement
+   Non-finites
+   Relatives
+   Connectors
+   Comparatives
+   Modals
+   Prepositions
+   Gender
+   Number(singular-plural)
+                                       Editing
+
+Solved exercises
+The following passage has not been edited. There is one error in each line.
+Underline the error and write the incorrect word and the correction. The first
+one has been done as an example.
+                                           Incorrect word correction
+Inactivity is the greater cause of overweight         greater         greatest
+these days. People physical activity              a-_________        __________
+had decreased these days. The main reason         b-__________       __________
+is there are many labour saving devices           c-__________       __________
+They does not want to walk on foot.               d-__________       __________
+They spend enough time sitting and                e-__________       __________
+watch television. Their excess weight             f-__________       __________
+make them sick and they have to spend             g-__________       __________
+money in medicine.                                h-__________       __________
+
+Answers
+                                           Incorrect word         correction
+Inactivity is the greater cause of overweight             greater         greatest
+these days. People physical activity                   a-peoplepeople‘s
+had decreased these days. The main reason                 b-had              has
+is there are many labour saving devices           c-isbeing
+They does not want to walk on foot.                       d-does          do
+They spend enough time sitting and                        e-enough        more
+watch television. Their excess weight                     f-watch         watching
+make them sick and they have to spend             g-make          makes
+money in medicine.                                        h-in            on
+
+Unsolved exercises
+The following newspaper report has not been edited. There is one error in each
+line. Underline the error and write the incorrect word and the correction.
+
+Incorrect word      correction
+A three year old girl has rescued by the police   a-_________           __________
+
+                                   73 | P a g e
+last Tuesday. She was kidnap by a neighbour        b-__________        __________
+due to ransom. The mother                          c-__________        __________
+inform the police about the missing girl.          d-__________        __________
+a probe had supervised by the DSP himself.         e-__________        __________
+Greater than fifty residents were questioned       .f-__________       __________
+Ultimately, Rohit , one of the residents of the
+colony      admit the crime and disclosed          g-__________        __________
+where the girl was hiding                          h-__________        __________
+
+
+                                       Omission
+Solved exercises
+In the passage below one word has been omitted in each line. Put a slash (/)
+where the word has been omitted. Write the missing word in the space
+provided.
+
+One thing we all must do to cooperate                      a- _______________
+with police and pay heed to their advice.                  b-_______________
+They warn us not touch unidentified,                       c-________________
+unclaimed suspicious objects like transistors,             d-________________
+brief cases etc. we need watch out for                     e-________________
+abandoned cars, scooters report the                        f-_________________
+deatails such objects to the nearest police                g-_________________
+control room dialing 100. One should                       h-________________
+not touch the objects till the bomb disposal squad arrives.
+
+Answers
+ One thing we all must do /to cooperate                    a- is
+With/ police and pay heed to their advice.                 b- the
+They warn us not /touch unidentified,                      c- to
+/unclaimed suspicious objects like transistors,            d-and
+brief cases etc. we need/ watch out for                    e-to
+abandoned cars, scooters /report the                       f-and
+details/ such objects to the nearest police                g-of
+control room/ dialing 100. One should                      h-by
+not touch the objects till the bomb disposal squad arrives.
+
+Unsolved exercises
+In the passage below one word has been omitted in each line. Put a slash (/)
+where the word has been omitted. Write the missing word in the space
+provided. The first one has been done as an example.
+
+
+The small town was the                                                  at
+foot of the mountains. Most the                            a-_______________
+people were farmers. There traders also                    b-________________
+in the town. Though not rich were                          c-________________
+happy contended. At one                                    d-________________
+time the peace broken by                                   e-_________________
+several robberies. The people frightened                   f-_________________
+The Mayor the town called for                              g-________________
+a meeting discuss the matter.                              h-________________
+                                   74 | P a g e
+                                Sentence reordering
+
+Tips
+1- First look for the subject (Noun/ Pronoun).
+2- Look for the helping verb.
+3- Look for the Main Verb.
+4- Look for the object (direct & indirect).
+5- Also look for Wh-word.
+6- Arrange the words in a meaningful sentence.
+
+Solved exercises
+1. Look at the words and phrases below. Rearrange them to form meaningful
+sentences. The first one has been done as an example.
+
+the watermelon/thirst quenchers/in summers/is/one of the best.
+One of the best thirst quenchers in summers is the watermelon.
+a- around/it is/96 countries/cultivated in/the world.
+b- in Africa/about 5000 years/grown/ago/it was/first.
+c- say that/at the/it was grown/some researchers/same time/in India.
+d- the travellers/across a desert/it was/when they/used by/travelled.
+Answers
+a- It is cultivated in 96 countries around the world.
+b- It was first grown in Africa about 5000 years ago.
+c- Some researchers say that it was grown in India at the same time.
+d- It was used by travellers when they travelled across a desert.
+
+
+2. ( a) water supply/they get/they eat/from/all their/the leaves
+(a) inhabited//tree leaves/so,/by koalas/in areas/of/is high/demand
+(b) one group/it takes/to support/several acres/of koalas/of trees
+(c) can eat/every day/each/one and a half kilograms/adult Koala/up to /of leaves
+ANS: (a) They get all their water supply from the leaves they eat.
+(a)     So, in areas inhabited by Koalas demand of tree leaves is high.
+(b)     It takes several acres of trees to support one group of Koalas.
+(c)     Each adult Koala can eat one and a half kilograms of leaves every day.
+
+
+Unsolved exercises
+1. Look at the words and phrases below. Rearrange them to form meaningful
+sentences.
+a- no parallel/discipline/of any kind/has
+b- go together/duties/should/discipline/and rights
+c- equally important/should be/treated/for a/they/satisfying life
+d- the other/or ignored/very bad/it will/if one/prove/overlaps
+
+2. Rearrange the following to form meaningfulsentences.
+Peruvian foraging societies were already chewing coca leaves 8,000 years ago
+foraging societies/Peruvian/8,000 years ago/chewing coca leaves/were already
+(a) showed evidence/of chewed coca/in the northwestern Peru/and calcium
+richrocks/ruins.
+(b) such rocks/to create lime,/would have been burned/chewed with coca.
+                                  75 | P a g e
+(c) contain a range/coca leaves coca leaves/known as alkaloids/of chemical
+Compounds.
+(d) of the Incas/for medicinal purposes/of coca leaves/the chewing/was a pastime
+
+3. a) depicted/architecture of/has been/the Veena/about 500 A.D. /in temple
+ b) no takers/sadly/instruments/but/of all/this mother/has/today
+ c) to whom/there are/students/turn to/few/ can/exponents/the rare
+ d) subject in /it is/a subsidiary/ not even/university curricula
+
+4.a) paralytic attack/is/prolonged/main cause/high/of/ blood pressure/the
+  b) tongue, lip, and the vocal cords/people effected/can communicate/either with
+limbs/with a paralytic stroke
+ c) to answer/some can/their eyes/even blink
+ d) nervous system/to the voluntary/due to extensive damages/is impossible/ but in a
+few even a small gesture
+
+
+5. a) left me/my/city/parents/her/with/they/in /went/live/when/to/the
+  b) morning/to/wake/used/up /the/in/she/me
+  c) said/in a /prayers/sings song/monotonous/morning/she/her
+  d) listened/ I /loved /I/ voice /because/her
+
+                                  Reported speech
+
+Tips:
+ Given dialogue is to be changed into indirect speech.
+ Change the reporting verb.
+ Remove commas and use conjunction.
+ Change the pronouns and verb in the reported speech.
+ Use a (.) at the end of every sentence.
+
+Solved exercises
+1. Read the conversation between Rama and Sita. Then report the paragraph
+that follows.
+     Rama: I am going to jungle.
+     Sita: Why?
+Rama: I have been banished for fourteen years by father.
+     Sita: Oh! It is very sad. Can I go with you?
+     Rama: No. Stay at home to care of my old parents.
+On being banished by his father, King Dasharath, Rama told Sita (a)_____________.
+She asked him (b)____________. Rama told that (c) __________________.Sita
+exclaimed saying it was very bad and asked Rama (d)_______________________.
+Rama asked her to stay at home to take care of my old parents.
+
+Answers
+a- that he was going to jungle.
+b- why he was going to jungle.
+c- he had been banished for fourteen years by father.
+d-if she could go with him.
+
+
+
+                                  76 | P a g e
+2. Read the comic strip given below and complete the paragraph
+
+
+
+
+While making the list of what Charlie wanted from Santa Claus, he asked Patty
+howeverything. (b) __________. She could bet that (c) __________, he would find
+thatshe thought Santa (a) __________ all those toys. Patty replied that it was possible
+as Santa (d) __________ big eastern chain
+Answers:
+(a) could afford to give away
+(b) everything these days is promotion
+(c) if the truth were brought out
+(d) was being financed by some big eastern chain
+
+
+
+
+         Unsolved exercises
+         Read the conversation between Anita and Prakash. Then report the paragraph
+         that follows.
+         Anita:               What do want to do this morning?
+         Prakash: I feel like taking a walk. It‘s so nice outside.
+         Anita:              Great, let‘s walk around the lake in the park.
+         Prakash: It‘s really rocky here.
+         Anita:              Yes, watch your steps so you don‘t trip.
+         Anita asked Prakash (a) _________. Prakash answered that he (b) ______ . It was so
+         nice outside. Anita agreed to this and suggested (c) ____________. Then Prakash
+         observed that (d) ____________. Anita cautioned him to watch his steps.
+
+                                        Newspaper Head lines
+         Tips:
+          Identify the time of event whether past or future.
+          Use present perfect, simple past or future time reference.
+          Identify passive/active voice.
+          Connect the expanded headline properly with the whole sentence.
+         Solved exercise 1:
+          (a) CAPARO ENTERS US MARKET
+          The Lord Swaraj Paul Caparo group ____________ the North American vehicle
+         market.
+         (b) PM TO VISIT PAKISTAN ON APRIL 11
+          Indian Foreign Minister SM Krishna On Sunday informed that prime Minister, Mr
+         Man Mohan ______________ in the second week of April 2011.
+         a- has entered
+
+                                            77 | P a g e
+b- will be going to Pakistan on a three day visit
+
+Unsolved exercises
+
+
+
+
+1. Use the information in the headlines to complete the news items given below.
+(a) TV SHOW LANDS BOY IN HOSPITAL
+A popular show on a Tamil TV channel ________________ a 13 year old boy in
+hospital, when he filled his mouth with Kerosene and blew it over fire, in an attempt
+to imitate the show.
+(b) 2 KILLED IN BLUELINE ACCIDENTS
+____________________ bus here on Monday, one, an 18-year-old boy and the other
+a cyclist.
+(c) SIX AIR-INDIA FLIGHTS DELAYED
+There was anger, frustration and helplessness amongst nearly a thousand passengers
+of six Air-India flights ____________ for hours at IGI airport.
+
+2. Use the information in the headlines to complete the news items given below.
+a- CHINA DEVELOPS MEDICAL ROBOT
+ A polytechnic university in china _____________ that can conduct surgeries.
+b- KIDS FALL ILL AFTER EATING MID-DAY MEAL
+05 kids of a UP primary school in Mathura District _____________ after having
+mid-day meal on Friday.
+c- SPORTS WEEK CELEBRATION ENDS
+A week long sport day celebration in various schools of Kendriya Vidyalaya
+Sangathan ______________ on 22 April with grand prize distribution ceremony.
+d- BUS CRUSHES A GIRL TO DEATH
+A four-year-old girl _____________ to death when a speedy bus ran over her in
+Makarpura.
+e- 5 LAKH JOBS TO BE CREATED BY 2012------- PLANNING
+COMMISSION
+Mr AR Sahni, member of planning commission said yesterday that ____________
+by the year 2012.
+f-INDIAN-AMERICAN WINS DEMOCRATIC PRIMARY IN
+PHILADELPHIA
+Thu, May 20 Iraq war- veteran Indain-American doctor Manan Trivedi(a)______ the
+DemocrativeParty nomination to contest the November elections to the US house of
+Representatives from Pennsylvania Congressional district.
+A doctor-turned war- veteran, Trivedi, 35, (b) __________ Dough Pike, a former
+local journalist, (c)___________ margin of 672 votes; thus earning the right to
+challenge Republican of Representatives. Conceding his defeat, Pike in a statement
+supported Trivedi. The election (d) ______ Tuesday.
+a-i- won
+ ii- had won
+ iii- has won
+ iv- was won
+b-i- had defeated
+ ii- been defeated
+ iii- was defeated
+
+                                   78 | P a g e
+ iv- defeated
+c-i- through a narrow
+  ii- with a narrow
+ iii- toa narrow
+ iv- in a narrow
+d-i- was held on
+ ii-were held on
+ iii- been held on
+ iv- had been held
+
+
+
+                                    Procedure Reporting
+Tips:
+ Read the given instructions carefully.
+ Rewrite the process in passive voice.
+ Know the tense/time used. Hint will be hidden somewhere in the question.
+General verb pattern will be either ‗is/are+ III form or ‗was/were + III form
+
+Solved exercises
+1-Read the following set of instructions for washing the dirty white cotton
+clothes. Complete the procedure.
+1-Collect all the dirty white cotton clothes.
+2- Soak them fully in a boiling water and soap solution.
+3- Take them out and beat them with fists or stick.
+4- Then rinse them in running water until the soap content is washed off.
+5- Squeeze them and hang them for drying.
+
+All the dirty white cotton clothes arecollected and (i) ____________ of boiling
+water and soap. They (ii) ___________ with fists or stick. Then they (iii)
+______until the soap content is washed off. Then they (iv) ____________ for
+drying.
+
+Answers (Hint-are)
+(i) are soaked in a mixture
+(ii) are taken out and beaten
+(iii) are rinsed in running water
+(iv) are squeezed and hung
+
+2-Read the following instructions for making „Maggi Noodles‟ and complete the
+passage:
+ Boil two 500 ml of water in a container.
+ Add noodles and taste maker.
+ Add finely chopped vegetables after steaming them separately.
+ Cook only for two minutes.
+ Serve hot.
+Firstly, 500 ml of water (a) ___________ in a container. After that noodles and taste
+makers (b)__________. Then finely chopped vegetables (c)_________ after
+steaming them separately. The mixed stuff (d)_________ for only two minutes. It is
+then served hot.
+Answers (Hint-is)
+
+                                      79 | P a g e
+(a)- is boiled
+(b)- are added
+(c)- are added
+(d) -is cooked
+
+                                Dialogue completion
+Tips:
+ Read the preceding dialogue and the one that follows it.
+ Identify the type of sentence.
+ Make sure entire dialogue is relevant and meaningful.
+Solved exercises
+Read the following conversation between a brother and a sister. Complete the
+conversation by choosing the correct option.
+
+Sister      :       When do to leave for Mumbai?
+Brother:    I am leaving the day after tomorrow.
+Sister      :       Where have you decided to stay?
+Brother:    (a)___________________________
+Sister      :       Why are you not staying with Aunt and Uncle?
+Brother:    (b)___________________ . I won‘t be able to enjoy my holidays.
+Sister      :       Don‘t tell me that you‘ll stay in a hotel!
+Brother:    Definitely not (c)_______________.
+Sister      :       How are you both spending your vacation?
+Brother:    (d) ___________________________.
+
+a- i- I won‘t decide as yet.              ii- I won‘t decide as yet.
+ iii-I hadn‘t decided as yet.                     iv- I haven‘t decided as yet.
+b- i- They were too strict.               ii- They are too strict.
+ iii- They will be too strict.                    iv- They are too funny.
+c-i- I plan to stay with aunty &uncle.            ii- I plan to stay in a hotel.
+ iii- I plan to stay with Rahul.          iv- I won‘t stay with aunty &uncle.
+d- i- We‘ll go nowhere.                   ii- We‘ll go site seeing.
+ iii- we‘ll stay nearby.                  iv- We‘ll go somewhere.
+Answers
+(a)iv- I haven‘t decided as yet.
+(b)ii- They are too strict.
+(c) iii-I plan to stay with Rahul.
+(d) ii- We‘ll go site seeing.
+
+Unsolved exercises
+1. Read the following conversation between a doctor and his patient. Complete
+the conversation by choosing the correct option.
+
+Doctor      : How long have you been sick?
+Patient     : I have been having this headache (a)_____________ one month.
+Doctor      : Have you taken any medicine?
+Patient     : No I haven‘t. But I (b)-___________ by an eye specialist.
+Doctor      : What did he say?
+Patient     : He said my eyes are fine.
+Doctor      : (c)_________________ sleeping late at night?
+Patient     : No, I sleep regularly at 10 pm.
+Doctor      : Have you (d) _______________ in the past or lately?
+                                   80 | P a g e
+Patient     : No but I had injured my head when I was ten years old.
+
+a-i- for the past                   ii- since the past
+ iii- during the past               iv- for a past
+b- i- got my eye test               ii- will get my eyes
+  iii- got my eyes tested                    iv- would get my eye
+c-i- has you been                            ii- had you been
+ iii- had you be                             iv- have you been
+d-i- met with an accident                    ii- meets with an accident
+  iii- meet with an accident      iv- met with an accident
+
+
+
+               FOR PRACTICE
+
+1) Look at the notes given below and complete the paragraph that follows by filling
+up the blanks with the most appropriate option from those given.1 x 4 = 4marks
+Egyptians discovered paper-made a stalks of tall reed- from wood ‗papyrus‘-supplies
+limited-export restricted
+
+The (a) _________ the Egyptians. It (b) __________ reed .The English word ‗paper‘
+(c) ___________. When supplies were limited a (d) _________ on export.
+(d) 1 paper discovered
+2 discovery of paper was made
+3 discoverer of paper was
+4 papers was discovered by
+  (b) 1 makes of stalks of tall
+    2 made of stalks of tall
+    3 was made of stalks of tall
+    4 has made of stalks of tall
+  (c) 1 derive from the word ‗papyrus‘
+    2 derives from the word ‗papyrus‘
+    3 has derived from the word ‗papyrus‘
+    4 is derived from the word ‗papyrus‘
+ (d) 1 restriction imposed
+    2 restriction is imposed
+    3 restriction was imposed
+    4 restriction has imposed
+
+2) Given below is a conversation between David and his friend, Meenu. Complete
+the dialogue below by filling up the blanks with the most appropriate options from
+those given.                              1X 4 == 4
+
+David : Hello. Is this 26857903?
+Menu : Yes, (a) ______________?
+David : Could I speak to Meenu ? I am her friend, David ?
+Meenu : David ? It‘s Meenu . (b) _______________ ?
+David : I am calling from Indira Gandhi International airport . I‘m here for visit.
+Meenu : That‘s great.(c) __________ about your visit ?
+David : I wanted to give you a surprise .
+Meenu : When did you arrive ? (d) ___________?
+David : I just got here and I am alone.
+                                   81 | P a g e
+(a)1 shall I know to whom do you want to talk
+2 will I know which do you want to talk
+3 need I know whom do you want to speak to
+4 may I know who do you want to speak to
+  (b) 1 From where you are calling
+    2 Where you are calling from
+    3 Are you calling where from
+    4 You are calling from where
+ (c) 1Why you not inform me earlier
+   2 Why didn‘t you informed me earlier
+   3 Why didn‘t you inform me earlier
+   4 Why you didn‘t inform me earlier
+ (d) 1 Are you being accompanied by some one
+   2 you are being accompanied by some one
+   3 Are some one accompanying you
+   4 Are anyone accompanied you
+
+                                       Gap filling
+Tips:
+ Read the passage carefully and form a general idea.
+ Mind the tense of the paragraph.
+ Check for subject-verb agreement
+
+Solved exercises
+Fill in the blanks with the most appropriate option from those given below.
+
+1.Complete the passage given below choosing the correct alternatives: ½ x 8 = 4
+marks
+Tokyo was rocked by its (a) ------ earthquake in more than a year today, but escaped
+(b) ----- little damage because it (c) ------ centered far beneath the floor of the Pacific
+Ocean .The quake (d) -------- struck shortly before noon with a magnitude of 6.6 ,(e)
+-------- large buildings sway back and forth . The intense (f) ----- for about one
+minute caught people (g) -------- guard in Tokyo and other cities (h) ------- east.
+
+(a) 1 big       (b) 1 from (c 1 is           (d) 1 who
+2bigger       2 by       2 was          2 whom
+3 biggest      3 with      3 has          3 whose
+4 very big     4 for       4 have        4 which
+
+ (e) 1 make       (f) 1 shake (g) 1in          (h) 1 to
+   2 made         2 shaker    2 on             2 towards
+   3 send        3 shaking 3 of               3 for
+   4 sent        4shook 4 off                4 forward
+
+
+ANS:
+(a) biggest (b) with (c) was             (d) which
+(e) made (f) shaking (g) off             (h) towards
+
+
+
+                                    82 | P a g e
+                   FOR PRACTICE
+
+         1) In fruit farms fruits are picked before they are fully ripe for otherwise
+            they (a) ----- become overripe or decay (b) ------ reaching customers.
+            Fruit picked too young (c)---------- never ripen. It‘s a problem to predict
+            whether a certain fruit will ripen (d) ------- not. Now a scanner has (e)----
+            ----- developed which can predict those fruits (f) ------- ultimately will
+            ripe so that farmer (g) ------- sort out future fruits from the too-green
+            .The scanner works (h) ---- a ripeness predictor.
+
+(a) 1 must      (b) 1 while           (c) 1 will      (d) 1 and
+  2 shall       2 after            2 are         2 or
+  3 may         3 when             3 being        3 but
+  4 should      4 before            4 were         4 so
+
+(e) 1 being       (f) 1 who          (g) 1 can        (h) 1 for
+  2 been          2 whom           2 need          2 by
+  3 be             3 that          3 dare          3 so
+  4 was          4 whose           4 shall         4 as
+
+ANS: (a) -------------- (b) ----------- (c) ---------------- (d) -----------------
+     (e) -------------- (f) ----------- (g) ---------------- (h) ------------------
+
+2)Cataract is a (a) ------- in the lens of the eye. Today, modern (b) -------- advances
+have made cataract surgery very successful. The cause of the cataract (c) ------ are
+not fully known. It is basically (d) -------- ageing phenomenon .Next to old age (e) ---
+----- other factors like deficiency of food like proteins (f) -------- vitamins ,some
+toxic drugs and general diseases (g)--------- diabetes ,infections and injuries.
+Nourishing diet rich (h) -------- proteins and vitamins can delay the onset of cataract.
+(a) 1 opaque          (b) 1 medicine       (c) 1 forming      (d) 1 a
+2 opaqued          2 medicinal        2 formed         2 an
+3 opaqueness         3 medical        3 forms           3 the
+4 opacity           4 medicated        4 formation       4 some
+
+ (e) 1 is          (f) 1 or           (g) 1 like       (h) 1 at
+   2 was             2 and            2 so           2 on
+   3 are            3 but             3 as           3 with
+   4 were             4 so             4 such         4 in
+
+ANS: (A) --------- (b) ------ (c) ------ (d) -----
+     (e) ---------- (f) ------- (g) ------ (h) -------
+
+
+
+
+                                      83 | P a g e
+

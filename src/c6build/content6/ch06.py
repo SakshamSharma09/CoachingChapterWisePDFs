@@ -1,0 +1,105 @@
+from lib import mcq, Q, OR
+from mk9 import M4, build
+A = [
+ M4("The perimeter of a closed figure is:", "the total length of its boundary", ["the space inside it", "its longest side", "its diagonal"], "definition"),
+ M4("The area of a figure is:", "the amount of surface enclosed by its boundary", ["the length of its boundary", "its longest side", "its angle"], "definition"),
+ M4("The perimeter of a rectangle with length $l$ and breadth $b$ is:", "$2(l+b)$", ["$l\\times b$", "$l+b$", "$4l$"], "sum of all sides"),
+ M4("The area of a rectangle is:", "length × breadth", ["2 × (length + breadth)", "length + breadth", "half of length × breadth"], "formula"),
+ M4("The perimeter of a square of side $a$ is:", "$4a$", ["$a^2$", "$2a$", "$a+4$"], "four equal sides"),
+ M4("The area of a square of side $a$ is:", "$a^2$", ["$4a$", "$2a$", "$a^3$"], "side × side"),
+ M4("The area of a triangle is:", "$\\frac12\\times$ base × height", ["base × height", "$2\\times$ base × height", "base + height"], "half of a rectangle"),
+ M4("The unit of area is:", "square centimetre (cm²)", ["centimetre", "litre", "kilogram"], "square unit"),
+ M4("The unit of perimeter can be:", "centimetre or metre", ["cm²", "m²", "litre"], "length unit"),
+ M4("Area of a rectangle 8 cm × 5 cm is:", "40 cm²", ["26 cm²", "13 cm²", "80 cm²"], "$8\\times5$"),
+ M4("Perimeter of a rectangle 8 cm × 5 cm is:", "26 cm", ["40 cm", "13 cm", "21 cm"], "$2(8+5)$"),
+ M4("Perimeter of a square of side 9 m is:", "36 m", ["81 m", "18 m", "27 m"], "$4\\times9$"),
+ M4("Area of a square of side 9 m is:", "81 m²", ["36 m²", "18 m²", "27 m²"], "$9^2$"),
+ M4("A triangle has base 10 cm and height 6 cm. Its area is:", "30 cm²", ["60 cm²", "16 cm²", "15 cm²"], "$\\frac12\\times10\\times6$"),
+ M4("The perimeter of an equilateral triangle of side 7 cm is:", "21 cm", ["14 cm", "49 cm", "28 cm"], "$3\\times7$"),
+ M4("1 m² equals:", "10,000 cm²", ["100 cm²", "1,000 cm²", "100,000 cm²"], "100 cm × 100 cm"),
+ M4("1 m equals:", "100 cm", ["10 cm", "1000 cm", "10,000 cm"], "conversion"),
+ M4("A square has perimeter 40 cm. Its side is:", "10 cm", ["20 cm", "4 cm", "8 cm"], "$40\\div4$"),
+ M4("The area of a rectangle is 72 m² and its length is 9 m. Its breadth is:", "8 m", ["9 m", "7 m", "63 m"], "$72\\div9$"),
+ M4("Two rectangles of the same perimeter:", "may have different areas", ["always have equal areas", "have equal diagonals", "cannot exist"], "perimeter ≠ area"),
+ M4("The area of a right triangle with legs 6 cm and 8 cm is:", "24 cm²", ["48 cm²", "14 cm²", "28 cm²"], "$\\frac12\\times6\\times8$"),
+ M4("To find the area of an irregular shape on squared paper we:", "count the squares inside (and combine half squares)", ["measure its perimeter only", "use a protractor", "count its corners"], "estimation"),
+ M4("A rectangular field is 50 m long and 30 m wide. The length of fencing for its boundary is:", "160 m", ["1500 m", "80 m", "110 m"], "$2(50+30)$"),
+ M4("The cost of painting a floor depends on its:", "area", ["perimeter", "angle", "number of corners"], "surface"),
+ M4("The cost of a border around a garden depends on its:", "perimeter", ["area", "number of lamps", "angle"], "length"),
+ M4("A rectangle becomes a square when:", "length = breadth", ["length = 2 × breadth", "the perimeter is 12", "the area is 100"], "all sides equal"),
+ M4("The area of two congruent triangles that together form a rectangle is:", "half the rectangle's area each", ["equal to the rectangle", "twice the rectangle", "one fourth"], "diagonal splits it"),
+ M4("The area of a parallelogram-shaped figure can be found by converting it to a:", "rectangle", ["circle", "cube", "line"], "cut and move"),
+ M4("The area of the rectangle formed by joining two squares of side 5 cm is:", "50 cm²", ["25 cm²", "100 cm²", "20 cm²"], "$2\\times25$"),
+ M4("Perimeter of a regular hexagon of side 4 cm is:", "24 cm", ["16 cm", "20 cm", "12 cm"], "6 sides"),
+]
+A.append(M4("The area of a rectangle of perimeter 20 cm and sides 6 cm and 4 cm is:", "24 cm²", ["20 cm²", "10 cm²", "48 cm²"], "$6\\times4$"))
+for l, b in [(12, 7), (15, 9), (20, 13), (18, 11), (25, 4)]:
+    A.append(M4(f"Area of a rectangle of length {l} cm and breadth {b} cm is:", f"{l*b} cm²", [f"{2*(l+b)} cm²", f"{l+b} cm²", f"{l*b+l} cm²"], f"${l}\\times{b}$"))
+for bs, h in [(12, 9), (14, 5), (16, 7), (20, 11)]:
+    A.append(M4(f"Area of a triangle with base {bs} cm and height {h} cm is:", f"{bs*h//2} cm²", [f"{bs*h} cm²", f"{bs+h} cm²", f"{bs*h//2+bs} cm²"], f"$\\frac12\\times{bs}\\times{h}$"))
+A = A[:40]
+assert len(A) == 40, len(A)
+B = [
+ Q("Define perimeter and area.", "Perimeter is the length of the boundary; area is the surface enclosed.", "1+1"),
+ Q("Find the perimeter of a rectangle of sides 12 cm and 7 cm.", "$2(12+7)=38$ cm.", "1+1"),
+ Q("Find the area of a square of side 11 m.", "$11\\times11=121$ m².", "1+1"),
+ Q("What is the unit of area? Give an example.", "Square units such as cm² or m².", "1+1"),
+ Q("Find the perimeter of a regular pentagon of side 6 cm.", "$5\\times6=30$ cm.", "1+1"),
+ Q("Write the formula for the area of a triangle.", "$\\frac12\\times$ base × height.", "1+1"),
+ Q("A square has perimeter 48 cm. Find its side.", "$48\\div4=12$ cm.", "1+1"),
+ Q("The area of a rectangle is 96 cm² and the breadth is 8 cm. Find the length.", "$96\\div8=12$ cm.", "1+1"),
+ Q("Convert 3 m² into cm².", "$3\\times10{,}000=30{,}000$ cm².", "1+1"),
+ Q("Which needs the perimeter: fencing a field or tiling a floor?", "Fencing needs the perimeter; tiling needs the area.", "1+1"),
+ Q("Find the area of a triangle with base 9 cm and height 4 cm.", "$\\frac12\\times9\\times4=18$ cm².", "1+1"),
+ Q("Do two figures with equal perimeters always have equal areas? Give an example.", "No; 6×2 and 4×4 have perimeter 16 but areas 12 and 16.", "1+1"),
+ Q("Find the perimeter of an equilateral triangle of side 13 cm.", "39 cm.", "1+1"),
+ Q("Find the length of ribbon needed to go round a rectangular card 18 cm by 10 cm.", "$2(18+10)=56$ cm.", "1+1"),
+ Q("State how a diagonal divides a rectangle.", "Into two congruent triangles, each half the area.", "1+1"),
+ Q("How many 1 cm squares fit into a 6 cm by 4 cm rectangle?", "24.", "1+1"),
+]
+C = [
+ Q("A rectangular garden is 25 m long and 18 m wide. Find the length of wire to fence it and its area.", "$2(25+18)=86$ m (1.5); $25\\times18=450$ m² (1.5).", "1½+1½"),
+ Q("Find the area of a rectangular floor 6 m by 4.5 m. Tiles of 50 cm × 50 cm (0.25 m²) cover it. How many tiles?", "27 m² (1.5); 108 tiles (1.5).", "1½+1½"),
+ Q("The perimeter of a rectangle is 60 m and its length is 18 m. Find its breadth and area.", "Breadth 12 m (1.5); area 216 m² (1.5).", "1½+1½"),
+ Q("Find the area of a triangle with base 15 cm and height 8 cm. Explain how it is half a rectangle.", "60 cm² (1.5); two such triangles form a 15 by 8 rectangle (1.5).", "1½+1½"),
+ Q("A square park has a side of 40 m. A path of 1 m runs round it. Find the length of the path along the edge and the area of the park.", "Perimeter 160 m (1.5); area 1600 m² (1.5).", "1½+1½"),
+ Q("Find the cost of fencing a rectangular field 30 m by 20 m at ₹15 per metre.", "Perimeter 100 m (1.5); cost ₹1,500 (1.5).", "1½+1½"),
+ Q("Find the side of a square whose area is 169 m². Find its perimeter.", "13 m (1.5); 52 m (1.5).", "1½+1½"),
+ Q("A rectangle is 14 cm by 9 cm; a square has the same perimeter. Find the side of the square and compare their areas.", "Perimeter 46 cm; side 11.5 cm (1.5); square area 132.25 cm² is bigger than 126 cm² (1.5).", "1½+1½"),
+ Q("How would you find the area of an irregular shape on squared paper?", "Count full squares (1); combine partial squares as halves (1); sum for the estimate (1).", "1+1+1"),
+ Q("A right-angled triangle has sides 6, 8 and 10 cm. Find its perimeter and area.", "24 cm (1.5); 24 cm² (1.5).", "1½+1½"),
+ Q("Find the area of the L-shaped figure formed by a 10×6 rectangle with a 4×2 rectangle removed from a corner.", "$60-8=52$ (3).", "1+2"),
+ Q("A floor 8 m × 5 m is covered with square tiles of side 50 cm. How many tiles are needed?", "Area 40 m² (1); tile area 0.25 m² (1); 160 tiles (1).", "1+1+1"),
+ Q("Convert 2.5 m² to cm² and 50,000 cm² to m².", "25,000 cm² (1.5); 5 m² (1.5).", "1½+1½"),
+ Q("A wire 48 cm long is bent into a square. Find its side and area. Then it is bent into a rectangle 14 cm long. Find the area.", "Side 12 cm, area 144 cm² (1.5); breadth 10 cm, area 140 cm² (1.5).", "1½+1½"),
+ Q("The base of a triangle is 12 cm and its area 54 cm². Find its height.", "$\\frac12\\times12\\times h=54$, so $h=9$ cm (3).", "1+2"),
+ Q("Why is area measured in square units and perimeter in linear units?", "Area counts squares covering the surface (1.5); perimeter measures boundary length (1.5).", "1½+1½"),
+ Q("A rectangular field is 100 m by 60 m. Find the length of its boundary and its area.", "Perimeter 320 m (1.5); area 6,000 m² (1.5).", "1½+1½"),
+ Q("Find the perimeter of a rectangle whose length is twice its breadth, with breadth 7 cm.", "Length 14 cm; perimeter 42 cm (3).", "1+2"),
+ Q("A parallelogram of base 10 cm and height 6 cm is cut and rearranged into a rectangle. Find its area.", "60 cm² (3).", "1+2"),
+ Q("Find the area of a square whose perimeter is 36 cm.", "Side 9 cm; area 81 cm² (3).", "1+2"),
+ Q("Two triangles of base 8 cm and height 5 cm form a figure. Find the area of the figure if they share the base to make a parallelogram.", "Each 20 cm²; total 40 cm² (3).", "1+2"),
+ Q("Find the number of 2 cm × 2 cm tiles to cover a 20 cm × 12 cm rectangle.", "240 ÷ 4 = 60 tiles (3).", "1+2"),
+ Q("A rectangle has area 36 cm². List three possible pairs of whole-number sides and the perimeters.", "(1,36)=74; (4,9)=26; (6,6)=24 (3).", "1+2"),
+ Q("The perimeter of a triangle is 30 cm and two sides are 9 cm and 11 cm. Find the third side.", "10 cm (3).", "1+2"),
+]
+D = [
+ Q("(i) Derive the formula for the area of a rectangle using unit squares. (ii) Find the area of a rectangle 13 m by 8 m. (iii) Find its perimeter.", "(i) Rows × columns of unit squares (2). (ii) 104 m² (1.5). (iii) 42 m (1.5).", "2+1½+1½"),
+ Q("(i) Explain how the area of a triangle is half of a rectangle. (ii) Find the area of a triangle with base 18 cm and height 11 cm. (iii) If the area is 99 cm² and the base is 18 cm, find the height.", "(i) Diagram and reasoning (2). (ii) 99 cm² (1.5). (iii) 11 cm (1.5).", "2+1½+1½"),
+ Q("<b>Case study:</b> A rectangular school ground is 80 m long and 50 m wide. (i) Find the length of the boundary wall. (ii) Cost at ₹120 per metre. (iii) Area of the ground. (iv) Cost of levelling at ₹5 per m².", "(i) 260 m (1). (ii) ₹31,200 (1). (iii) 4,000 m² (1). (iv) ₹20,000 (2).", "1+1+1+2"),
+ Q("(i) Differentiate between perimeter and area. (ii) A square and a rectangle have perimeter 40 cm; the rectangle is 12 cm long. Compare their areas.", "(i) Definitions, units (2). (ii) 100 cm² vs 96 cm² (3).", "2+3"),
+ Q("(i) Find the area and perimeter of a square of side 15 cm. (ii) If each side is doubled find the new area and perimeter. (iii) Compare.", "(i) 225 cm², 60 cm (1.5). (ii) 900 cm², 120 cm (2). (iii) Area becomes 4 times and perimeter 2 times (1.5).", "1½+2+1½"),
+ Q("<b>Case study:</b> A room is 6 m long and 4 m wide and 3 m high. (i) Find the floor area. (ii) How many tiles of 0.5 m × 0.5 m are required? (iii) Find the cost at ₹40 per tile. (iv) Perimeter of the floor?", "(i) 24 m² (1). (ii) 96 tiles (1). (iii) ₹3,840 (1). (iv) 20 m (2).", "1+1+1+2"),
+ Q("(i) Explain how to find the area of a parallelogram. (ii) Find the area of a parallelogram of base 14 cm and height 9 cm. (iii) Compare with a rectangle of same base and height.", "(i) Cut triangle and rearrange (2). (ii) 126 cm² (1.5). (iii) Equal area (1.5).", "2+1½+1½"),
+ Q("(i) A rectangle's area is 150 m² and its length is 15 m. Find its breadth and perimeter. (ii) Find the side of a square having equal area (approximately).", "(i) 10 m; 50 m (3). (ii) About 12.2 m (2).", "3+2"),
+ Q("<b>Case study:</b> A triangular garden has base 24 m and height 15 m. (i) Find its area. (ii) A fence round it costs ₹30 per m; sides are 24, 17 and 25 m. Find the fence cost. (iii) If flowers need 1 m² each, how many plants? (iv) Which concept is area?", "(i) 180 m² (1). (ii) 66 m × 30 = ₹1,980 (2). (iii) 180 plants (1). (iv) Surface covered (1).", "1+2+1+1"),
+ Q("(i) How can perimeter vary with the same area? (ii) Find the perimeters of rectangles of area 24 cm² with sides (1,24), (2,12), (3,8), (4,6). (iii) Which is least?", "(i) Shape changes perimeter (1). (ii) 50, 28, 22, 20 cm (3). (iii) 4 × 6 (1).", "1+3+1"),
+ Q("(i) Find the area of the figure made of a 12×5 rectangle and a 6×3 rectangle attached. (ii) Find the perimeter if the 6×3 rectangle is joined along a 6 cm side to the 12 cm side.", "(i) 78 cm² (2). (ii) 34 − 6 + (6 + 3 + 3) = 40 cm (3).", "2+3"),
+ Q("(i) What is estimation of area? (ii) Estimate the area of a leaf on squared paper. (iii) Explain the half-square rule.", "(i) Approximate counting (1). (ii) Count full and half squares (2). (iii) Partial squares counted as halves (2).", "1+2+2"),
+ Q("<b>Case study:</b> A farmer's rectangular field is 120 m by 75 m. (i) Area in m². (ii) Number of 5 m × 5 m plots. (iii) Cost of fencing at ₹20/m. (iv) Area in hectares (1 ha = 10,000 m²).", "(i) 9,000 m² (1). (ii) 360 (1). (iii) 390 m × 20 = ₹7,800 (2). (iv) 0.9 ha (1).", "1+1+2+1"),
+ Q("(i) Using a rectangle 10 × 8, draw a diagonal. (ii) Find the area of each triangle. (iii) What do you notice?", "(i) Diagram (1). (ii) 40 cm² each (2). (iii) Diagonal cuts it into two equal triangles (2).", "1+2+2"),
+ Q("(i) Why is the area of a triangle with the same base and height as a rectangle half of it? (ii) Compare a triangle and a rectangle with base 10 and height 6.", "(i) Reasoning (2). (ii) 30 vs 60 (3).", "2+3"),
+]
+assert len(B) == 16 and len(C) == 24 and len(D) == 15, (len(B), len(C), len(D))
+D.append(Q("(i) What are the units used for area and perimeter? (ii) Convert 4.5 m² to cm² and 8,000 cm to m. (iii) Give two real-life examples of each concept.", "(i) cm², m² and cm, m (1). (ii) 45,000 cm²; 80 m (2). (iii) Fencing, tiling etc. (2).", "1+2+2"))
+SETS, POOL = build(A, B, C, D)
