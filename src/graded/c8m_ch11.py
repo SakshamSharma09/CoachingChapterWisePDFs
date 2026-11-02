@@ -3,7 +3,10 @@ from c8m_u import *
 
 SLUG, NAME, CHNO = "Geometric_Themes", "Exploring Some Geometric Themes", 11
 
-PN = {3: "triangular", 4: "square", 5: "pentagonal", 6: "hexagonal", 7: "heptagonal", 8: "octagonal", 9: "nonagonal", 10: "decagonal", 12: "dodecagonal"}
+_PN = {3: "triangular", 4: "square", 5: "pentagonal", 6: "hexagonal", 7: "heptagonal", 8: "octagonal", 9: "nonagonal", 10: "decagonal", 12: "dodecagonal"}
+class _P(dict):
+    def __missing__(self, n): return f"{n}-sided"
+PN = _P(_PN)
 def prism(n): return n + 2, 2 * n, 3 * n       # F, V, E
 def pyr(n): return n + 1, n + 1, 2 * n
 def I(x):

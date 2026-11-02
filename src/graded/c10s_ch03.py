@@ -168,6 +168,7 @@ eD = [
  Z("State five properties of ionic compounds.", "Solid, hard and brittle|1", "High melting points|1", "Soluble in water|1", "Conduct electricity in solution|1", "Do not conduct in solid state|1"),
  Z("Write five uses of metals and five uses of non-metals.", "Iron: structures|1", "Copper: wires|1", "Carbon: fuel|1", "Sulphur: matches|1", "Chlorine: disinfecting water|1"),
  Z("Explain what are acidic, basic, neutral and amphoteric oxides with one example each.", "Acidic: [[CO2]]|1", "Basic: [[CaO]]|1", "Neutral: CO|1", "Amphoteric: [[Al2O3]]|1", "Amphoteric reacts with acid and base both|1"),
+ Z("Describe the electrolytic refining of copper in simple terms: electrodes, electrolyte and result.", "Anode: impure copper|1", "Cathode: pure copper strip|1", "Electrolyte: acidified copper sulphate|1", "Pure copper deposits on the cathode|1", "Impurities fall as anode mud|1"),
 ]
 
 # ============================ MEDIUM ============================
