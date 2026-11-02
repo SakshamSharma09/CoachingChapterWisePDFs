@@ -1,0 +1,89 @@
+"""Class 6 Maths Ch 10 - The Other Side of Zero (integers)."""
+from g67 import *
+
+SLUG, NAME, CHNO = "Other_Side_of_Zero", "The Other Side of Zero", 10
+
+def sg(n): return f"({n})" if n < 0 else str(n)
+def pm(a, b): return f"{a} + {sg(b)}"
+def sb(a, b): return f"{a} - {sg(b)}"
+def I(n): return f"${n}$"
+def im(q, c, why="", offs=(1, -1, 2, -2, 10, -10, 3)):
+    return M4(q, f"${c}$", [f"${c+o}$" for o in offs if c + o != c][:6], why)
+def tc(q, a, w, why="Rule"): return tm(q, a, w, why)
+def L(xs): return ", ".join(map(str, xs))
+
+# ---------- EASY ----------
+eA1 = [im(f"The opposite of {n} is:", -n, "The opposite has the same distance from 0 on the other side.", offs=(n, n + 1, n - 1, -n + 1)) for n in [7, -9, 12, -15, 20]]
+eA2 = [im(f"The successor of {n} is:", n + 1, "Add 1.", offs=(-1, 2, -2, 10)) for n in [-5, 0, -12, 9, -1]]
+eA3 = [im(f"The predecessor of {n} is:", n - 1, "Subtract 1.", offs=(2, 1, -1, -2)) for n in [-3, 0, 8, -10, 15]]
+eA4 = [im(f"{pm(a,b)} =", a + b, "Use the number line or tokens.", offs=(2, -2, 2 * b, a - b)) for a, b in [(8, -3), (-5, -4), (-7, 9), (6, -6), (-10, 4)]]
+eA5 = [tc(f"Which is greater: {a} or {b}?", str(max(a, b)), [str(min(a, b)), "both are equal", "cannot say"], "The number to the right on the number line is greater.") for a, b in [(-3, 2), (-7, -2), (0, -5), (-11, -9), (4, -8)]]
+eA6 = [im(f"The absolute value (distance from 0) of {n} is:", abs(n), "Distance is never negative.", offs=(1, -abs(n), 2, 10)) for n in [-6, -13, 8, -20]]
+eA7 = [tc(q, a, w, "Definition") for q, a, w in [("Numbers less than zero are called:", "negative integers", ["whole numbers", "natural numbers", "fractions"]), ("On the number line, numbers increase as we move:", "to the right", ["to the left", "downwards only", "towards zero"]), ("Zero is:", "neither positive nor negative", ["positive", "negative", "a natural number"])]]
+EASY_A = [eA1, eA2, eA3, eA4, eA5, eA6, eA7]
+EASY_B = ([QQ(f"Find the opposite of {n} and of {-n}.", f"Opposite of {n} is {-n}", f"Opposite of {-n} is {n}") for n in [5, 11, 16, 24]]
+          + [QQ(f"Write the successor and predecessor of {n}.", f"Successor $={n+1}$", f"Predecessor $={n-1}$") for n in [-4, -9, 0, -18]]
+          + [QQ(f"Find ${pm(a,b)}$.", "Use the number line", f"$={a+b}$") for a, b in [(6, -9), (-4, -5), (-8, 3), (9, -2)]])
+EASY_C = ([QQ(f"Find ${sb(a,b)}$.", "Subtracting an integer is the same as adding its opposite", f"${a}+{sg(-b)}$", f"$={a-b}$") for a, b in [(5, 8), (-3, 4), (7, -2), (-6, -9), (0, 7), (-12, -5)]]
+          + [QQ(f"Arrange in ascending order: {L(v)}.", "Negative numbers are smaller than 0 and 0 is smaller than positive numbers", f"Ascending: {L(sorted(v))}", "Further from 0 on the negative side means smaller") for v in [(3, -2, 0, -7, 5), (-1, 6, -9, 2, -4), (8, -3, -8, 1, 0), (-5, 4, -2, 7, -6), (10, -10, 5, -5, 0), (-15, 9, -3, 12, -8)]]
+          + [QQ(f"The temperature at night was {a}°C. By noon it rose by {b}°C. Find the temperature at noon.", f"New temperature $={a}+{b}$", f"${a+b}$°C", "State units") for a, b in [(-3, 8), (-5, 9), (-7, 4), (-2, 6), (-9, 12), (-4, 10)]])
+EASY_D = ([QQ(f"A lift is at floor {a}. It goes down {b} floors and then up {c} floors. Find its final floor and say whether it is above or below the ground.", f"After going down: ${a}-{b}={a-b}$", f"After going up: ${a-b}+{c}={a-b+c}$", f"Final floor ${a-b+c}$", "Above ground" if a - b + c > 0 else "At ground" if a - b + c == 0 else "Below ground") for a, b, c in [(2, 5, 1), (3, 7, 2), (1, 4, 6), (4, 6, 3), (2, 8, 5), (5, 9, 2)]]
+          + [QQ(f"Mark the integers {L(v)} on a number line (describe) and write them in descending order. Then find the sum of the smallest and largest.", f"Descending: {L(sorted(v, reverse=True))}", f"Smallest ${min(v)}$, largest ${max(v)}$", f"Sum $={min(v)+max(v)}$", "Mark each at its distance from 0") for v in [(-4, 3, -1, 6), (-7, 2, 5, -3), (-2, 8, -6, 1), (-9, 4, -5, 7), (-3, 9, -8, 2), (-6, 5, -1, 3)]])
+
+# ---------- NCERT ----------
+nA1 = [im(f"{pm(a,b)} =", a + b, "Same signs: add and keep sign; different signs: subtract.", offs=(2, -2, 2 * abs(b), a - b)) for a, b in [(-12, 7), (-9, -8), (15, -22), (-18, 18), (-25, 9)]]
+nA2 = [im(f"{sb(a,b)} =", a - b, "Add the opposite.", offs=(2, -2, 2 * abs(b), a + b)) for a, b in [(5, 12), (-4, -9), (7, -6), (-11, 8), (0, -13)]]
+nA3 = [tc(f"On the number line, the integer {a} lies {k} units to the {side} of 0. The integer is:", str(a), [str(-a), str(a + 1), str(a - 1)], "Right is positive, left is negative.") for a, k, side in [(-6, 6, "left"), (9, 9, "right"), (-14, 14, "left"), (11, 11, "right")]]
+nA4 = [im(f"The number of integers between {a} and {b} is:", b - a - 1, "Count the integers strictly between.", offs=(1, -1, 2, 5)) for a, b in [(-5, 4), (-8, 2), (-3, 9), (-10, -2)]]
+nA5 = [im(f"A diver at {a} m (below sea level) swims up {b} m. His new position (m) is:", a + b, "Add the rise.", offs=(2, -2, 2 * b, 10)) for a, b in [(-15, 6), (-24, 10), (-30, 18), (-12, 12)]]
+nA6 = [tc(f"The sum of an integer and its opposite is always:", "0", ["1", "the integer itself", "twice the integer"], "$n+(-n)=0$."), tc("The absolute value of any non-zero integer is:", "positive", ["negative", "zero", "equal to its opposite"], "Distance is positive."), tc("The smallest negative integer:", "does not exist", ["is -1", "is -100", "is 0"], "There is no smallest negative integer."), tc("The greatest negative integer is:", "-1", ["0", "-100", "1"], "Closest to 0 on the left.")]
+nA7 = [im(f"A person has a debt of ₹{a} and then earns ₹{b}. The balance (₹) is:", b - a, "Debt is negative.", offs=(2, -2, 10, 2 * a)) for a, b in [(40, 90), (75, 50), (120, 200), (60, 60)]]
+NCERT_A = [nA1, nA2, nA3, nA4, nA5, nA6, nA7]
+NCERT_B = ([QQ(f"Show ${pm(a,b)}$ using tokens (positive tokens and negative tokens). Find the value.", f"{abs(a)} {'yellow' if a>0 else 'red'} tokens and {abs(b)} {'yellow' if b>0 else 'red'} tokens", f"Cancel pairs: the value is ${a+b}$") for a, b in [(5, -3), (-6, 4), (-2, -5), (7, -7)]]
+           + [QQ(f"Compare using <, > or =: {a} and {b}. Also compare their absolute values.", f"On the number line {a} is {'left' if a<b else 'right' if a>b else 'at the same place'} of {b}", f"${a} {cmp(a,b)} {b}$; absolute values: ${abs(a)} {cmp(abs(a),abs(b))} {abs(b)}$") if False else QQ(f"Compare {a} and {b} using <, > or =.", f"{a} is {'to the left of' if a<b else 'to the right of' if a>b else 'equal to'} {b} on the number line", f"${a} {'<' if a<b else '>' if a>b else '='} {b}$") for a, b in [(-4, -7), (-3, 2), (-9, -9), (5, -12)]]
+           + [QQ(f"Find ${sb(a,b)}$ and ${sb(b,a)}$. What do you notice?", f"${sb(a,b)}={a-b}$", f"${sb(b,a)}={b-a}$", ) for a, b in [(7, 3), (-5, 2), (-8, -3), (4, -6)]])
+NCERT_C = ([QQ(f"Evaluate ${a} + {sg(b)} + {sg(c)}$.", f"First two: ${a+b}$", f"Then add {sg(c)}", f"Result ${a+b+c}$") for a, b, c in [(8, -12, 5), (-6, -4, 15), (10, -3, -9), (-7, 9, -5), (12, -20, 4), (-3, -8, 14)]]
+           + [QQ(f"The temperature at 6 am is {a}°C. It rises by {b}°C by noon and then falls by {c}°C by evening. Find the evening temperature. Is it below 0°C?", f"At noon: ${a}+{b}={a+b}$°C", f"In the evening: ${a+b}-{c}={a+b-c}$°C", "Below 0°C" if a + b - c < 0 else "Not below 0°C") for a, b, c in [(-4, 9, 8), (-6, 8, 5), (-2, 7, 10), (-9, 12, 7), (-5, 5, 6), (-8, 15, 9)]]
+           + [QQ(f"Find the value: ${sb(a,b)} + {sg(c)}$.", f"${sb(a,b)}={a-b}$", f"${a-b}+{sg(c)}={a-b+c}$", "Check using the number line") for a, b, c in [(5, 9, -3), (-4, 6, 8), (7, -3, -12), (-10, -4, 9), (3, 11, -2), (-6, -7, -5)]])
+NCERT_D = ([QQ(f"A submarine is at {a} m. It rises {b} m, then dives {c} m. Find its final depth and the total vertical distance travelled. Is it below sea level?", f"After rising: ${a}+{b}={a+b}$ m", f"After diving: ${a+b}-{c}={a+b-c}$ m", f"Total distance travelled $={b}+{c}={b+c}$ m", "Below sea level" if a + b - c < 0 else "At or above sea level") for a, b, c in [(-80, 30, 25), (-120, 45, 60), (-60, 20, 15), (-90, 50, 30), (-150, 70, 40), (-45, 15, 30)]]
+           + [QQ(f"A shopkeeper records profit as positive and loss as negative: Mon {a}, Tue {b}, Wed {c}, Thu {d} (in ₹). Find the total, the best day and the worst day.", f"Total $={a}+{sg(b)}+{sg(c)}+{sg(d)}={a+b+c+d}$", f"Best day: {['Mon','Tue','Wed','Thu'][[a,b,c,d].index(max(a,b,c,d))]} (₹{max(a,b,c,d)})", f"Worst day: {['Mon','Tue','Wed','Thu'][[a,b,c,d].index(min(a,b,c,d))]} (₹{min(a,b,c,d)})", "Positive total means overall profit" if a + b + c + d > 0 else "Negative total means overall loss") for a, b, c, d in [(120, -80, 50, -30), (-60, 90, -40, 70), (200, -150, -50, 80), (-90, -20, 130, 40), (75, -125, 100, -25), (-45, 60, -80, 95)]])
+
+# ---------- MEDIUM ----------
+mA1 = [im(f"{a} + {sg(b)} + {sg(c)} =", a + b + c, "Add step by step.", offs=(2, -2, 10, -10)) for a, b, c in [(-15, 8, -6), (22, -30, 5), (-9, -14, 20), (18, -25, 9), (-7, 13, -11)]]
+mA2 = [im(f"{a} - {sg(b)} - {sg(c)} =", a - b - c, "Add the opposites.", offs=(2, -2, 10, -10)) for a, b, c in [(10, -4, 6), (-8, 5, -3), (15, 9, -7), (-12, -6, 4), (20, 14, 8)]]
+mA3 = [im(f"The sum of all integers from {-n} to {n} is:", 0, "Opposites cancel.", offs=(1, -1, n, 2 * n)) for n in [4, 7, 10, 15]]
+mA4 = [im(f"The difference between the highest and lowest of {L(v)} is:", max(v) - min(v), "Highest minus lowest.", offs=(1, -1, 2, abs(min(v)))) for v in [(-8, 5, -3, 9), (-12, 7, 0, -4), (6, -15, 11, -2), (-5, -9, 3, -1)]]
+mA5 = [im(f"A mountaineer is at {a} m above sea level and descends {b} m. His position (m) is:", a - b, "Subtract the descent.", offs=(2, -2, 10, 2 * b)) for a, b in [(120, 150), (80, 95), (250, 400), (60, 130)]]
+mA6 = [tc(f"Which pair gives the sum {s}?", f"{a} and {b}", [f"{a+2} and {b}", f"{a} and {b+3}", f"{-a} and {b}"], "Check each pair.") for a, b, s in [(-7, 12, 5), (-9, 4, -5), (15, -8, 7), (-6, -10, -16)]]
+mA7 = [im(f"The number of integers between {a} and {b} (not counting them) that are greater than 0 is:", max(0, b - 1), "Count the positive integers up to b-1.", offs=(1, -1, 2, 3)) for a, b in [(-6, 5), (-4, 8), (-9, 11), (-2, 6)]]
+MED_A = [mA1, mA2, mA3, mA4, mA5, mA6, mA7]
+MED_B = ([QQ(f"Find ${a} + {sg(b)} + {sg(c)}$.", f"Add the first two: ${a+b}$", f"Then add {sg(c)}: ${a+b+c}$") for a, b, c in [(-18, 25, -9), (30, -45, 12), (-14, -6, 28), (19, -33, 7)]]
+          + [QQ(f"Subtract {sg(b)} from {sg(a)} and then subtract {sg(a)} from {sg(b)}.", f"${sb(a,b)}={a-b}$", f"${sb(b,a)}={b-a}$") for a, b in [(-6, 9), (14, -5), (-12, -7), (8, -11)]]
+          + [QQ(f"Write all integers between {a} and {b} in ascending order. How many are there?", f"Integers: {L(list(range(a+1,b)))}", f"Number $={b-a-1}$") for a, b in [(-5, 2), (-7, -1), (-3, 4), (-9, -4)]])
+MED_C = ([QQ(f"A train station has platforms numbered with 0 at ground level. A lift moves {a} floors below ground, then {b} floors up, then {c} floors below again. Find its final floor and the total number of floors moved.", f"Start at 0; after {a} down: ${-a}$", f"After {b} up: ${-a+b}$", f"After {c} down: ${-a+b-c}$", f"Total floors moved $={a+b+c}$") for a, b, c in [(3, 5, 4), (6, 2, 7), (4, 9, 3), (5, 1, 6), (2, 8, 5), (7, 3, 9)]]
+          + [QQ(f"A bank account has ₹{a}. Withdrawals of ₹{b} and ₹{c} are made, then ₹{d} is deposited. Show the balance as an integer after each step and the final balance.", f"After first: ${a-b}$", f"After second: ${a-b-c}$", f"After deposit: ${a-b-c+d}$", "Negative means overdrawn" if a - b - c + d < 0 else "Positive balance") for a, b, c, d in [(300, 200, 250, 120), (150, 100, 80, 60), (500, 350, 300, 200), (80, 120, 60, 90), (250, 140, 160, 40), (400, 275, 300, 150)]]
+          + [QQ(f"Find the value of ${a} - {sg(b)} + {sg(c)} - {sg(d)}$.", f"${a}-{sg(b)}={a-b}$", f"${a-b}+{sg(c)}={a-b+c}$", f"${a-b+c}-{sg(d)}={a-b+c-d}$") for a, b, c, d in [(6, -4, -9, 5), (-8, 3, -7, -2), (10, -6, 12, -8), (-5, -9, 4, 11), (12, 15, -20, -6), (-3, 7, -11, 4)]])
+MED_D = ([QQ(f"A frog is on the number line at {a}. It jumps {b} units to the right, then {c} units to the left, then {d} units to the left. Find its final position, and the distance from 0.", f"After first jump: ${a+b}$", f"After second: ${a+b-c}$", f"After third: ${a+b-c-d}$", f"Distance from 0 $={abs(a+b-c-d)}$") for a, b, c, d in [(-3, 8, 5, 9), (2, 6, 10, 4), (-5, 4, 7, 3), (0, 9, 12, 5), (-8, 15, 6, 14), (4, 3, 11, 8)]]
+          + [QQ(f"The temperatures (°C) at 5 places are {L(v)}. Arrange them from the coldest to the hottest, find the difference between the hottest and the coldest places and the sum of all temperatures.", f"Coldest to hottest: {L(sorted(v))}", f"Hottest ${max(v)}$, coldest ${min(v)}$", f"Difference $={max(v)-min(v)}$", f"Sum $={sum(v)}$") for v in [(-8, 3, -2, 11, -5), (-12, 6, 0, -9, 14), (-3, 8, -7, 5, -1), (-15, 2, -6, 9, -4), (-10, 7, -1, 13, -8), (-6, 10, -11, 4, -2)]])
+
+# ---------- HARD ----------
+hA1 = [im(f"{a} - ({b}) + ({c}) - ({d}) =", a - b + c - d, "Simplify step by step.", offs=(2, -2, 10, -10)) for a, b, c, d in [(-14, -9, 22, -5), (18, 25, -30, 7), (-6, 11, -13, -19), (25, -16, -8, 12)]]
+hA2 = [im(f"The sum of the integers from {-a} to {b} (both included) is:", sum(range(-a, b + 1)), "Opposites cancel.", offs=(1, -1, 10, a)) for a, b in [(5, 9), (8, 12), (10, 6), (7, 15)]]
+hA3 = [im(f"On a number line, the distance between {a} and {b} is:", abs(a - b), "Distance $=|a-b|$.", offs=(1, -1, a + b if a + b > 0 else 3, 10)) for a, b in [(-14, 9), (-7, -23), (15, -8), (-30, 12)]]
+hA4 = [im(f"Two integers add to {s} and one of them is {a}. The other is:", s - a, "Subtract.", offs=(2, -2, 10, 2 * a)) for s, a in [(-5, 12), (8, -9), (-20, -6), (14, 30)]]
+hA5 = [im(f"A trader loses ₹{a} on day 1, gains ₹{b} on day 2 and loses ₹{c} on day 3. The net result in ₹ is:", -a + b - c, "Gains positive, losses negative.", offs=(2, -2, 10, 20)) for a, b, c in [(150, 240, 120), (80, 60, 90), (300, 125, 75), (45, 200, 130)]]
+hA6 = [im(f"The greatest 3-digit negative integer is ... the smallest integer greater than {-n} that is divisible by {d}... The value of {-n} + {n} + {d} is:", d, "Opposites cancel.", offs=(1, -1, n, 2 * d)) if False else im(f"The value of ({-n}) + {n} + ({-d}) is:", -d, "The first two cancel.", offs=(1, -1, n, 2 * d)) for n, d in [(17, 6), (35, 9), (48, 12), (62, 15)]]
+hA7 = [im(f"If x + ({-b}) = {c}, then x is:", c + b, "Add b to both sides.", offs=(2, -2, 10, -10)) for b, c in [(7, -12), (15, -4), (9, 6), (23, -30)]]
+hA8 = [im(f"The value of {a} - {sg(b)} - {sg(-a)} is:", a - b + a, "Subtracting a negative adds.", offs=(2, -2, 10, -10)) for a, b in [(7, 12), (-9, 4), (15, -6)]]
+hA9 = [im(f"The sum of the integers from {-n} to {n+1} is:", n + 1, "All pairs cancel except the last.", offs=(1, -1, n, 2)) for n in [6, 9]]
+HARD_A = [hA1, hA2, hA3, hA4, hA5, hA6, hA7, hA8, hA9]
+HARD_B = ([QQ(f"Find the sum of the integers from {-a} to {b} inclusive.", "Opposite integers cancel each other", f"Remaining: integers from {a+1} to {b}", f"Sum $={sum(range(a+1,b+1))}$") for a, b in [(6, 10), (9, 14), (12, 15), (8, 13)] if b > a]
+          + [QQ(f"Solve: ${a} + x = {c}$. Find x.", f"$x={c}-{sg(a)}$", f"$x={c-a}$") for a, c in [(-9, 5), (14, -6), (-21, -8), (17, 3)]]
+          + [QQ(f"A mountain climber starts at {a} m, goes up {b} m and then down {c} m. Find the climber's final height and its vertical distance from a camp at {d} m.", f"Final: ${a}+{b}-{c}={a+b-c}$ m", f"Distance from {d} m: ${abs(a+b-c-d)}$ m") for a, b, c, d in [(-20, 60, 25, 30), (-45, 100, 80, -10), (-15, 40, 60, 20), (-30, 90, 50, 25)]])
+HARD_C = ([QQ(f"A submarine at {a} m dives {b} m, rises {c} m, then dives {d} m. Find its position after each move and the total vertical distance moved.", f"After dive: ${a-b}$", f"After rise: ${a-b+c}$", f"After second dive: ${a-b+c-d}$", f"Total distance $={b+c+d}$ m") for a, b, c, d in [(-30, 50, 40, 25), (-10, 70, 55, 30), (-45, 25, 60, 15), (-80, 35, 20, 45), (-25, 65, 30, 40), (-60, 45, 75, 20)]]
+          + [QQ(f"The sum of two integers is {s}. One integer is {a}. Find the other and their difference (larger minus smaller).", f"Other $={s}-{sg(a)}={s-a}$", f"Difference $={abs(a-(s-a))}$", "Check the sum: " + str(s)) for s, a in [(-4, 11), (9, -6), (-15, -7), (20, 35), (-8, 13), (2, -18)]]
+          + [QQ(f"Write the next three terms of the pattern {L([a+d*i for i in range(4)])}, ... and find the first positive term.", f"Common difference $={d}$", f"Next terms: {L([a+d*i for i in range(4,7)])}", f"First positive term: ${next(a+d*i for i in range(40) if a+d*i>0)}$") for a, d in [(-20, 6), (-15, 4), (-30, 7), (-18, 5), (-25, 8), (-12, 3)]])
+HARD_D = ([QQ(f"At the start of a game a player has {a} points. In four rounds the points change by {L(['%+d' % x for x in v])}. Find the score after each round, the final score, and the lowest score reached.", "Scores: " + L([a + sum(v[:i + 1]) for i in range(4)]), f"Final score ${a+sum(v)}$", f"Lowest score ${min(a + sum(v[:i + 1]) for i in range(4))}$", "Write all values as integers") for a, v in [(5, (-8, 6, -9, 12)), (0, (-4, -7, 15, -6)), (10, (-15, 9, -12, 20)), (-3, (8, -10, 4, -5)), (6, (-9, -8, 14, -3)), (2, (-7, 11, -13, 5))]]
+          + [QQ(f"A lift in a building with {n} basement floors starts at floor {a}. It goes {b} floors down, {c} floors up, {d} floors down. State its final floor, and whether the final floor exists (the lowest basement is -{n}).", f"After down: ${a-b}$", f"After up: ${a-b+c}$", f"After down: ${a-b+c-d}$", "Exists" if a - b + c - d >= -n else "Does not exist (below the lowest basement)") for n, a, b, c, d in [(3, 4, 6, 2, 3), (2, 3, 5, 1, 2), (4, 5, 8, 3, 4), (3, 2, 4, 1, 4), (5, 6, 9, 2, 5), (2, 1, 3, 2, 3)]])
+
+TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))

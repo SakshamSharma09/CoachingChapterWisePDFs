@@ -166,3 +166,7 @@ def RED(x0, y0, a, b, d, e):
     c = a * F(1, x0) + b * F(1, y0); f = d * F(1, x0) + e * F(1, y0)
     return Q(f"Solve: $\\dfrac{{{a}}}{{x}}+\\dfrac{{{b}}}{{y}}={t(c)}$ and $\\dfrac{{{d}}}{{x}}+\\dfrac{{{e}}}{{y}}={t(f)}$.",
              f"Put $p=\\frac{{1}}{{x}}$, $q=\\frac{{1}}{{y}}$: ${a}p+{b}q={t(c)}$, ${d}p+{e}q={t(f)}$ (1); eliminating $q$: $({a*e-b*d})p={t(c*e-b*f)}$ so $p=\\frac{{1}}{{{x0}}}$ (1); $q=\\frac{{1}}{{{y0}}}$ (1); $x={x0}$, $y={y0}$ (1).", "1+1+1+1")
+
+def og(n):
+    n = int(n)
+    return f"{n}{'th' if 10 <= n % 100 <= 20 else {1:'st',2:'nd',3:'rd'}.get(n % 10, 'th')}"

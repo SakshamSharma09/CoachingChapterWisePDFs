@@ -27,9 +27,9 @@ eA2 = [fm(f"{fq(a,d)} + {fq(b,d)} =", Fr(a + b, d), [Fr(a + b, 2 * d), Fr(a * b,
 eA3 = [fm(f"{fq(a,d)} - {fq(b,d)} =", Fr(a - b, d), [Fr(a + b, d), Fr(a - b, 2 * d), Fr(b, d)], "Subtract the numerators; keep the denominator.") for a, b, d in [(9, 4, 11), (11, 5, 13), (8, 3, 10), (13, 6, 19), (7, 2, 9)]]
 eA4 = [nm(f"The fraction {fq(n*k,d*k)} is equivalent to {fq(n,d)}. The value of the missing number... If {fq(n,d)} = {fq('?',d*k)}, then ? is:", n * k, f"Multiply the numerator by {k} too.", offs=(1, -1, k, d)) for n, d, k in [(2, 5, 4), (3, 7, 3), (5, 6, 5), (4, 9, 6), (3, 8, 7)]]
 eA5 = [nm(f"{fq(a,b)} of {n*b} is:", a * n, f"Divide {n*b} by {b} and multiply by {a}.", offs=(n, -n, a, b)) for a, b, n in [(3, 4, 12), (2, 5, 8), (5, 6, 7), (3, 8, 9), (4, 7, 6)]]
-eA6 = [tm(f"The mixed fraction {mixed(w,a,b)} as an improper fraction is:", fi(Fr(w * b + a, b)), [fi(Fr(w + a, b)), fi(Fr(w * a + b, b)), fi(Fr(w * b + a, b + 1))], f"{w}$\\times${b}+{a} over {b}.") for w, a, b in [(2, 1, 3), (3, 2, 5), (1, 3, 4), (4, 1, 6)]] if False else []
+eA6 = [tm(f"The mixed fraction {mixed(w,a,b)} as an improper fraction is:", fq(w * b + a, b), [fq(w * b + a + 1, b), fq(w * b + a - 1, b), fq(w * a + b, b + 1)], f"{w}$\\times${b}+{a} over {b}.") for w, a, b in [(2, 1, 3), (3, 2, 5), (1, 3, 4), (4, 1, 6)]] if False else []
 def mixed(w, a, b): return f"${w}\\frac{{{a}}}{{{b}}}$"
-eA6 = [tm(f"The mixed fraction {mixed(w,a,b)} as an improper fraction is:", fi(Fr(w * b + a, b)), [fi(Fr(w + a, b)), fi(Fr(w * a + b, b)), fi(Fr(w * b + a, b + 1))], f"{w}$\\times${b}+{a} = {w*b+a}, so the fraction is {w*b+a} over {b}.") for w, a, b in [(2, 1, 3), (3, 2, 5), (1, 3, 4), (4, 1, 6), (5, 2, 7)]]
+eA6 = [tm(f"The mixed fraction {mixed(w,a,b)} as an improper fraction is:", fq(w * b + a, b), [fq(w * b + a + 1, b), fq(w * b + a - 1, b), fq(w * a + b, b + 1)], f"{w}$\\times${b}+{a} = {w*b+a}, so the fraction is {w*b+a} over {b}.") for w, a, b in [(2, 1, 3), (3, 2, 5), (1, 3, 4), (4, 1, 6), (5, 2, 7)]]
 EASY_A = [eA1, eA2, eA3, eA4, eA5, eA6]
 EASY_B = ([QQ(f"Add {fq(a,d)} and {fq(b,d)}.", "Denominators are equal", f"${fx(Fr(a+b,d))}$" if Fr(a + b, d).denominator != 1 else f"${a+b}$") for a, b, d in [(2, 3, 9), (4, 5, 13), (7, 6, 17), (5, 8, 21)]]
           + [QQ(f"Write {fq(a,b)} as a mixed number.", f"${a}\\div{b}$ gives quotient {a//b}, remainder {a%b}", f"${a//b}\\frac{{{a%b}}}{{{b}}}$") for a, b in [(17, 5), (23, 4), (29, 6), (31, 8)]]
@@ -45,7 +45,16 @@ nA1 = [fm(f"{fq(a,b)} + {fq(c,d)} =", Fr(a, b) + Fr(c, d), [Fr(a + c, b + d), Fr
 nA2 = [fm(f"{fq(a,b)} - {fq(c,d)} =", Fr(a, b) - Fr(c, d), [Fr(a - c, b - d) if b != d else Fr(1, 7), Fr(a, b) + Fr(c, d), Fr(c, d)], "Common denominator first.") for a, b, c, d in [(3, 4, 1, 3), (5, 6, 1, 2), (7, 8, 1, 4), (4, 5, 3, 10), (2, 3, 1, 5)]]
 nA3 = [tm(f"Which is greater: {fq(a,b)} or {fq(c,d)}?", fq(a, b) if Fr(a, b) > Fr(c, d) else fq(c, d), [fq(c, d) if Fr(a, b) > Fr(c, d) else fq(a, b), "they are equal", "cannot be compared"], "Cross-multiply or use a common denominator.") for a, b, c, d in [(3, 5, 5, 8), (7, 9, 5, 7), (4, 7, 7, 12), (5, 6, 7, 9), (2, 3, 5, 8)]]
 nA4 = [fm(f"{mixed(w1,a1,b1)} + {mixed(w2,a2,b2)} =", w1 + w2 + Fr(a1, b1) + Fr(a2, b2), [w1 + w2 + Fr(a1 + a2, b1 + b2), w1 + w2 + Fr(a1, b1) * Fr(a2, b2), w1 + w2 + Fr(a1, b1)], "Add the whole parts and fraction parts separately.") for w1, a1, b1, w2, a2, b2 in [(1, 1, 2, 2, 1, 3), (2, 1, 4, 1, 1, 2), (3, 2, 5, 1, 1, 10), (1, 5, 6, 2, 1, 3)]]
-nA5 = [tm(f"Arrange in ascending order: {fq(a,b)}, {fq(c,d)}, {fq(e,f)}.", ", ".join(fq(x.numerator, x.denominator) for x in sorted([Fr(a, b), Fr(c, d), Fr(e, f)])), [", ".join(fq(x.numerator, x.denominator) for x in sorted([Fr(a, b), Fr(c, d), Fr(e, f)], reverse=True)), ", ".join(fq(x.numerator, x.denominator) for x in [Fr(a, b), Fr(c, d), Fr(e, f)]) if sorted([Fr(a, b), Fr(c, d), Fr(e, f)]) != [Fr(a, b), Fr(c, d), Fr(e, f)] else fq(e, f) + ", " + fq(a, b) + ", " + fq(c, d), fq(c, d) + ", " + fq(e, f) + ", " + fq(a, b)], "Use a common denominator.") for a, b, c, d, e, f in [(3, 4, 2, 3, 5, 6), (1, 2, 3, 8, 5, 12), (2, 5, 3, 10, 1, 4)]]
+import itertools
+def _perm_opts(vals):
+    srt = sorted(vals)
+    fmt_ = lambda xs: ", ".join(fq(x.numerator, x.denominator) for x in xs)
+    others = [p for p in itertools.permutations(vals) if list(p) != srt]
+    return fmt_(srt), [fmt_(p) for p in others[:3]]
+nA5 = []
+for a, b, c, d, e, f in [(3, 4, 2, 3, 5, 6), (1, 2, 3, 8, 5, 12), (2, 5, 3, 10, 1, 4)]:
+    cc, ww = _perm_opts([Fr(a, b), Fr(c, d), Fr(e, f)])
+    nA5.append(tm(f"Arrange in ascending order: {fq(a,b)}, {fq(c,d)}, {fq(e,f)}.", cc, ww, "Use a common denominator."))
 nA6 = [nm(f"A pizza is cut into {d} equal slices. Riya eats {a} slices. The fraction she eats in simplest form has denominator:", Fr(a, d).denominator, "Reduce the fraction.", offs=(1, -1, 2, d)) for a, d in [(4, 12), (6, 10), (9, 15), (8, 20)]]
 nA7 = [fm(f"3 chapatis are shared equally among {n} children. Each child gets (of a chapati):", Fr(3, n), [Fr(1, n), Fr(n, 3), Fr(2, n)], "Equal sharing: divide 3 by the number of children.") for n in [4, 5, 7, 8]]
 NCERT_A = [nA1, nA2, nA3, nA4, nA5, nA6, nA7]
@@ -63,12 +72,14 @@ mA1 = [fm(f"{mixed(w1,a1,b1)} - {mixed(w2,a2,b2)} =", w1 + Fr(a1, b1) - w2 - Fr(
 mA2 = [fm(f"{fq(a,b)} + {fq(c,d)} + {fq(e,f)} =", Fr(a, b) + Fr(c, d) + Fr(e, f), [Fr(a + c + e, b + d + f), Fr(a, b) + Fr(c, d), Fr(a, b) + Fr(c, d) - Fr(e, f)], "Use the LCM of all denominators.") for a, b, c, d, e, f in [(1, 2, 1, 3, 1, 6), (1, 4, 1, 3, 1, 6), (2, 3, 1, 4, 1, 12), (3, 5, 1, 2, 1, 10), (1, 6, 1, 4, 1, 3)]]
 mA3 = [nm(f"{fq(a,b)} of a number is {a*n}. The number is:", b * n, f"Divide by {a}, multiply by {b}.", offs=(n, -n, a, b)) for a, b, n in [(3, 5, 12), (2, 7, 9), (5, 8, 6), (4, 9, 7), (3, 4, 15)]]
 mA4 = [fm(f"After spending {fq(a,b)} of her money, Neha has ₹{n*(b-a)} left. What fraction is left?", Fr(b - a, b), [Fr(a, b), Fr(b, a), Fr(b - a, b + 1)], "Fraction left $=1-$ fraction spent.") for a, b, n in [(3, 8, 20), (2, 5, 30), (5, 12, 15), (3, 7, 14)]]
-mA5 = [nm(f"A rope {mixed(w,a,b)} m long... the number of improper-fraction numerator when converted is:", w * b + a, "Whole times denominator plus numerator.", offs=(1, -1, b, w)) for w, a, b in [(3, 2, 5), (4, 3, 8), (2, 5, 6), (6, 1, 4)]]
+mA5 = [nm(f"The numerator of {mixed(w,a,b)} written as an improper fraction is:", w * b + a, "Whole times denominator plus numerator.", offs=(1, -1, b, w)) for w, a, b in [(3, 2, 5), (4, 3, 8), (2, 5, 6), (6, 1, 4)]]
 mA6 = [tm(f"Which fraction lies between {fq(a,b)} and {fq(c,d)}?", fq(*mid(a, b, c, d)), [fq(a, b + 1) if Fr(a, b + 1) < Fr(a, b) else fq(a - 1, b), fq(c + 1, d), fq(c, d + 1)], "Take the average or use equivalent fractions.") for a, b, c, d in [(1, 4, 1, 2), (1, 3, 2, 3), (2, 5, 3, 5), (1, 6, 1, 3)]] if False else []
 def mid(a, b, c, d):
     m = (Fr(a, b) + Fr(c, d)) / 2; return m.numerator, m.denominator
 mA6 = [tm(f"Which fraction lies between {fq(a,b)} and {fq(c,d)}?", fq(*mid(a, b, c, d)), [fq(a, b + 1) if Fr(a, b + 1) < Fr(a, b) else fq(a - 1, b), fq(c + 1, d) if Fr(c + 1, d) > Fr(c, d) else fq(c, d), fq(c + 1, d + 2)], "Take the average of the two fractions.") for a, b, c, d in [(1, 4, 1, 2), (1, 3, 2, 3), (2, 5, 3, 5), (1, 6, 1, 3)]]
-MED_A = [mA1, mA2, mA3, mA4, mA6, mA5]
+mA7 = [fm(f"{fq(a,b)} of {fq(c,d)} of ... The simplest form of {fq(a*k,b*k)} is:", Fr(a, b), [Fr(a, b + 1), Fr(a + 1, b), Fr(a * k, b)], "Divide both by the HCF.") if False else fm(f"The simplest form of {fq(a*k,b*k)} is:", Fr(a, b), [Fr(a + 1, b), Fr(a, b + 1), Fr(a + 2, b + 3)], "Divide numerator and denominator by their HCF.") for a, b, k in [(3, 7, 6), (5, 8, 9), (4, 9, 7), (7, 12, 5)]]
+mA8 = [nm(f"{fq(a,b)} of {n} m is (in m):", a * n // b, "Divide, then multiply.", offs=(1, -1, 2, a)) for a, b, n in [(3, 8, 56), (5, 9, 72), (7, 12, 60)]]
+MED_A = [mA1, mA2, mA3, mA4, mA6, mA5, mA7, mA8]
 MED_B = ([QQ(f"Find {mixed(w1,a1,b1)} - {mixed(w2,a2,b2)}.", "Convert to improper fractions", f"${mx(w1+Fr(a1,b1)-w2-Fr(a2,b2))}$") for w1, a1, b1, w2, a2, b2 in [(5, 3, 4, 2, 1, 2), (4, 1, 3, 1, 5, 6), (6, 2, 5, 3, 3, 10), (7, 1, 2, 2, 3, 4)]]
           + [QQ(f"A number increased by {fq(a,b)} of itself gives {a*n+b*n}. Find the number.", f"Number $+{fq(a,b)}$ of number $={fq(a+b,b)}$ of number", f"Number $={a*n+b*n}\\div{fq(a+b,b)}={b*n}$") for a, b, n in [(1, 2, 6), (1, 3, 5), (2, 5, 4), (3, 4, 7)]]
           + [QQ(f"Arrange {fq(a,b)}, {fq(c,d)}, {fq(e,f)} in descending order.", f"Common denominator ${lcm(lcm(b,d),f)}$", ", ".join(fq(x.numerator, x.denominator) for x in sorted([Fr(a, b), Fr(c, d), Fr(e, f)], reverse=True))) for a, b, c, d, e, f in [(2, 3, 3, 4, 5, 8), (3, 5, 7, 10, 1, 2), (4, 7, 3, 5, 5, 9), (5, 6, 7, 8, 11, 12)]])
@@ -86,7 +97,8 @@ hA4 = [nm(f"A rod {w} m long is cut into pieces of {fq(a,b)} m each. The number 
 hA5 = [fm(f"If {fq(a,b)} of a number is {c}, then {fq(e,f)} of the number is:", Fr(c * b, a) * Fr(e, f), [Fr(c, a) * Fr(e, f), Fr(c * b, a), Fr(c, 1)], "Find the number first.") for a, b, c, e, f in [(3, 5, 12, 1, 4), (2, 7, 8, 3, 8), (5, 9, 20, 2, 3), (4, 11, 16, 5, 8)]]
 hA6 = [tm(f"Which is the largest of {fq(a,b)}, {fq(c,d)}, {fq(e,f)}?", fq(*max(((a, b), (c, d), (e, f)), key=lambda t: Fr(*t))), [fq(*t) for t in ((a, b), (c, d), (e, f)) if t != max(((a, b), (c, d), (e, f)), key=lambda t: Fr(*t))] + ["all are equal"], "Compare with a common denominator.") for a, b, c, d, e, f in [(5, 7, 7, 10, 3, 4), (4, 5, 11, 15, 7, 9), (5, 8, 8, 13, 3, 5), (2, 3, 9, 14, 11, 16)]]
 hA7 = [fm(f"A rod {mixed(w,a,b)} m long has {fq(c,d)} m cut off. The remaining length in metres is:", w + Fr(a, b) - Fr(c, d), [w + Fr(a, b) + Fr(c, d), w - Fr(c, d), Fr(a, b) - Fr(c, d) if Fr(a, b) > Fr(c, d) else Fr(c, d) - Fr(a, b)], "Subtract.") for w, a, b, c, d in [(3, 1, 2, 3, 4), (2, 2, 3, 5, 6), (4, 3, 5, 7, 10), (5, 1, 4, 7, 8)]]
-HARD_A = [hA1, hA2, hA3, hA4, hA5, hA6, hA7]
+hA8 = [nm(f"The LCM of the denominators 6, {d} is used to add {fq(1,6)} and {fq(1,d)}. The LCM is:", lcm(6, d), "LCM.", offs=(1, -1, 6, 2)) for d in [8, 9, 10, 14]]
+HARD_A = [hA1, hA2, hA3, hA4, hA5, hA6, hA7, hA8]
 HARD_B = ([QQ(f"{fq(a,b)} of a number is {c}. Find the number and its {fq(e,f)}.", f"Number $={c}\\div{fq(a,b)}={fx(Fr(c*b,a))}$", f"{fq(e,f)} of the number $={fx(Fr(c*b,a)*Fr(e,f))}$") for a, b, c, e, f in [(3, 4, 18, 1, 3), (2, 5, 14, 3, 7), (5, 6, 25, 2, 5), (4, 9, 16, 3, 4)]]
           + [QQ(f"Find the fraction which must be added to {fq(a,b)} to get {fq(c,d)}.", f"Required $={fq(c,d)}-{fq(a,b)}$", f"$={fx(Fr(c,d)-Fr(a,b))}$") for a, b, c, d in [(2, 7, 5, 6), (3, 8, 11, 12), (1, 6, 7, 9), (4, 15, 9, 10)]]
           + [QQ(f"A boy walks {fq(a,b)} km to school and {fq(c,d)} km to a shop, then returns by the same route. Find the total distance.", f"One way $={fx(Fr(a,b)+Fr(c,d))}$ km", f"Total $=2\\times={fx(2*(Fr(a,b)+Fr(c,d)))}$ km") for a, b, c, d in [(3, 4, 2, 5), (5, 6, 1, 4), (7, 8, 3, 10), (2, 3, 5, 9)]])

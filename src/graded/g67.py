@@ -114,3 +114,17 @@ def fib(n, a=1, b=1):
     return out[:n]
 
 def ds(n): return sum(map(int, str(n)))
+
+def ind(n):
+    n = int(n); neg = n < 0; s = str(abs(n))
+    if len(s) > 3:
+        h, t = s[:-3], s[-3:]; parts = []
+        while len(h) > 2: parts.insert(0, h[-2:]); h = h[:-2]
+        if h: parts.insert(0, h)
+        s = ",".join(parts + [t])
+    return ("-" if neg else "") + s
+
+def intl(n):
+    return f"{int(n):,}"
+
+def rnd(n, p): return (n + p // 2) // p * p
