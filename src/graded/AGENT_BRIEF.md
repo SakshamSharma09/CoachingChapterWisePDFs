@@ -30,3 +30,10 @@ python run_graded.py <module> <class> <subject>             # render PDFs into C
 Folder/slug names: reuse the existing `ChNN_<slug>` names from `Class_NN/<Subject>/Practice_Papers/1_Chapter_Tests_*`.
 Check visually: render one paper page + one key page per chapter with `python -W ignore -c "import pymupdf; ..."` to PNG and view it; spot-check ~10 answers per chapter. Fix and re-render. Finish a chapter fully before starting the next; the rendered chapter folders are your deliverable.
 Final report (short): chapters completed, PDF counts, weaknesses.
+
+## Assessed-syllabus rule (owner requirement — IMPORTANT)
+Only test content that is in the CURRENT assessed syllabus, not merely printed in the NCERT book. Topics that appear in the book but are deleted/not assessed must NOT appear in any question or answer.
+Known exclusions (add more as you learn them; if you are unsure whether a topic is assessed, leave it out and mention it in your report):
+- Class 10 Maths: Euclid's division lemma/algorithm (and the "form 3q, 3q+1 / 6q+1" proofs built on it); division algorithm for polynomials; the Constructions chapter.
+- Class 10 Science: Periodic Classification of Elements, Sources of Energy, Sustainable Management of Natural Resources chapters (already excluded from our chapter lists).
+- Old NCERT books under `_old_unorganized/*/Old NCERT Books` are pre-rationalisation: use them for nothing except scope hints.
