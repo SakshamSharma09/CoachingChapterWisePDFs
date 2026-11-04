@@ -37,3 +37,14 @@ Known exclusions (add more as you learn them; if you are unsure whether a topic 
 - Class 10 Maths: Euclid's division lemma/algorithm (and the "form 3q, 3q+1 / 6q+1" proofs built on it); division algorithm for polynomials; the Constructions chapter.
 - Class 10 Science: Periodic Classification of Elements, Sources of Energy, Sustainable Management of Natural Resources chapters (already excluded from our chapter lists).
 - Old NCERT books under `_old_unorganized/*/Old NCERT Books` are pre-rationalisation: use them for nothing except scope hints.
+
+## Cloud (Linux) addendum — read this
+- Dependencies are installed; run from `src/graded` with `python run_graded.py <module> <class> <Subject> [--check]` (Subject: Maths, Science, Social_Science, English, Hindi). No PYTHONPATH needed. Ignore the PowerShell lines above.
+- The NCERT book PDFs are NOT in this container (they live only on the owner's PC). Take scope from existing banks (`src/c6build..c9build`, `docs/`, existing `Class_NN/<Subject>/Practice_Papers` chapter names) and your own knowledge of the current NCERT (2024–26 rationalised/new books). If unsure a topic is in the current syllabus, leave it out and say so in the report.
+- Copy the QUALITY of `c7m_ch05.py`/`c8m_ch01.py`: clean, self-contained questions (no figure-dependent wording unless a `fig=` is supplied), integer/clean answers computed in code, no dead code (`if False else ...`), 3 groups of 4 for B etc. Each generated list must really contain the counts (>=30 MCQ, 12 B, 18 C, 12 D per tier); filters that silently drop items are a common cause of count failures.
+- Verify ~10 answers per chapter by hand and look at one paper + one key image (`pymupdf` -> PNG) before moving on.
+- DO NOT run git commit/push/checkout/reset/stash. Several agents share this working tree; the lead commits. Write only your own files (`src/graded/<prefix>_chNN.py`, the rendered `Class_NN/<Subject>/Graded_Papers/ChNN_*` folders, or for notes your own folder). A chapter is "done" only when its folder holds 16 PDFs (3 sets x 4 tiers + 4 keys), every paper 2 pages.
+- Finish chapter by chapter; keep the final report to <=15 lines: chapters done, PDF counts, doubts/exclusions.
+
+## Quality gate (owner priority #1: accuracy + in-syllabus)
+Before finishing a chapter run `python syllabus_guard.py` (must print 0 hits) and re-read your question list for: a) any topic not in the CURRENT assessed syllabus, b) wrong facts/answers, c) ambiguous or figure-dependent wording, d) an MCQ with two correct options. A separate reviewer pass will audit every chapter later.

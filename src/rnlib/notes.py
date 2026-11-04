@@ -118,7 +118,7 @@ def build_pdf(meta, chapters, out):
     os.makedirs(os.path.dirname(out), exist_ok=True)
     h = book_html(meta, chapters)
     with sync_playwright() as p:
-        br = p.chromium.launch(); pg = br.new_page()
+        br = p.chromium.launch(**({'executable_path': os.environ['CHROMIUM_PATH']} if os.environ.get('CHROMIUM_PATH') else {})); pg = br.new_page()
         pg.set_content(h, wait_until="load")
         foot = f"<div style='width:100%;font-size:7.5pt;color:#666;text-align:center;font-family:Arial'>Mastermind Coaching Classes · {meta['label']} &nbsp;|&nbsp; Page <span class='pageNumber'></span> of <span class='totalPages'></span></div>"
         pg.pdf(path=out, format="A4", print_background=True, display_header_footer=True, header_template="<div></div>", footer_template=foot,
