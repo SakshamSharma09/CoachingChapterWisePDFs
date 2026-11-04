@@ -3,7 +3,10 @@ Writes <repo>/Class_NN/<Subject>/Graded_Papers/ChNN_<slug>/<tier folder>/..."""
 import sys, importlib
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-import common
+import common, os
+def _chrome():
+    c='/opt/pw-browsers/chromium-1243/chrome-linux64/chrome'
+    return c if os.path.exists(c) else None
 mod = importlib.import_module(sys.argv[1]); cls = int(sys.argv[2]); subject = sys.argv[3]
 check = "--check" in sys.argv
 only = None
@@ -16,7 +19,7 @@ from playwright.sync_api import sync_playwright
 repo = Path(__file__).resolve().parents[2]
 root = repo / f"Class_{cls:02d}" / subject.replace(" ", "_") / "Graded_Papers"
 with sync_playwright() as p:
-    br = p.chromium.launch(); pg = br.new_page()
+    br = p.chromium.launch(executable_path=_chrome()); pg = br.new_page()
     log = common.build_chapter(pg, root, cls, subject, mod.CHNO, mod.SLUG, mod.NAME, mod.TIERS, only)
     br.close()
 for n, pgs, fs in log: print(f"{n}: {pgs} pages @ {fs}pt")

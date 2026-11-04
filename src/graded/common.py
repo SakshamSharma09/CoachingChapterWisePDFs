@@ -33,7 +33,8 @@ def M4(q, c, w, why=""):
 
 # --- Windows-safe asset paths (lib builds file:// + path) ---
 def _uri_path(p):
-    return "/" + str(p).replace("\\", "/")
+    p = str(p).replace("\\", "/")
+    return p if p.startswith("/") else "/" + p
 lib.KATEX = _uri_path(lib.KATEX)
 lib.FONT = _uri_path(lib.FONT)
 
