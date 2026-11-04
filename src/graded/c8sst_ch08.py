@@ -286,7 +286,7 @@ HA = MC([
 HAR = AR([
 "The Mercator map is useful for sailors. | It preserves shape and direction even though it distorts size. | a | R explains A",
 "Warm ocean currents can make coastal areas warmer. | The Gulf Stream carries warm water from near the equator towards cooler areas. | a | R explains A",
-"Coral reefs are called the rainforests of the sea. | Coral reefs receive rainfall of more than 250 cm. | d | A is true but R is false; so correct option is c",
+"Coral reefs are called the rainforests of the sea. | Coral reefs receive rainfall of more than 250 cm. | c | A is true but R is false",
 "The Amazon is the longest river in the world. | The Nile is about 6,650 km long and is the longest. | d | A is false; R is true",
 ])
 HB = [

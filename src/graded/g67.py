@@ -9,7 +9,7 @@ def _ord(m):
     n = int(m.group(1)); suf = "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
     return f"{n}{suf}"
 def fixord(s):
-    return re.sub(r"(?<![\d.])(\d+)th", _ord, s) if isinstance(s, str) else s
+    return re.sub(r"(?<![\d.])(\d+)th\b", _ord, s) if isinstance(s, str) else s
 def M4(q, c, w, why=""): return _M4(fixord(q), c, w, fixord(why))
 def Q(q, ans, split="", fig=None): return _Q(fixord(q), fixord(ans), split, fig)
 import lib
