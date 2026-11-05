@@ -48,3 +48,4 @@ Known exclusions (add more as you learn them; if you are unsure whether a topic 
 
 ## Quality gate (owner priority #1: accuracy + in-syllabus)
 Before finishing a chapter run `python syllabus_guard.py` (must print 0 hits) and re-read your question list for: a) any topic not in the CURRENT assessed syllabus, b) wrong facts/answers, c) ambiguous or figure-dependent wording, d) an MCQ with two correct options. A separate reviewer pass will audit every chapter later.
+- NEVER auto-fill or auto-replace placeholder distractors (e.g. 'none') with options borrowed from other questions. Every MCQ needs 3 hand-written, plausible, same-type distractors and exactly one defensible correct answer. Before finishing a chapter, print every MCQ's options and read them for nonsense.

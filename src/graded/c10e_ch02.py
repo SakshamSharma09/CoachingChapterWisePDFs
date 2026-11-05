@@ -232,6 +232,7 @@ mC = [
  c("Use these words in sentences to show meaning: reconciliation, sacrifice, dignity.", "Reconciliation - the act of restoring friendship; sentence (1). Sacrifice - giving up something for others; sentence (1). Dignity - self-respect; sentence (1)."),
  c("Write the indirect form: The President said, 'We shall build a new nation.'", "The President said that they would build a new nation (1). 'Shall' changes to 'would' (1). 'We' changes to 'they' and the tense moves back (1)."),
  c("What lesson can students learn from the lesson about equality?", "All people deserve equal rights (1). We should respect classmates of every background (1). Freedom and equality go with responsibility (1)."),
+ c("Why does Mandela say that the oppressor is also not free?", "He argues that a person who takes away another's freedom is a prisoner of hatred and narrow-mindedness (1). Such a person is shut behind bars of prejudice (1). Therefore both oppressor and oppressed need to be liberated, which is why Mandela calls for freedom for all (1)."),
 ]
 mD = [
  d("Analyse how Mandela's speech presents freedom as a shared responsibility.", "He defines freedom as respecting and enhancing the freedom of others (1). He says the oppressor too is not free (1). He honours the collective struggle of many people (1). The call to build a new society indicates a duty on all (1). Hence freedom is not a privilege but a responsibility to be nurtured by everyone (1)."),
@@ -313,6 +314,7 @@ hC = [
  c("Use 'in spite of' in a sentence about Mandela, then rewrite it with 'although'.", "In spite of long imprisonment, Mandela spoke of forgiveness (1). Although he was imprisoned for long, he spoke of forgiveness (1). 'In spite of' is followed by a noun phrase, 'although' by a clause (1)."),
  c("Explain the idioms 'to stand the test of time' and 'to pay tribute' with reference to the lesson.", "Mandela's ideals stand the test of time: they remain valid (1). He paid tribute to fellow fighters by naming them (1). The idioms mean to last and to honour respectively (1)."),
  c("How may the lesson help in dealing with discrimination in school?", "It teaches equal respect for everyone (1). It encourages standing up against bullying with courage (1). It asks students to forgive and build friendship (1)."),
+ c("Evaluate how Mandela links his personal freedom to the freedom of his people.", "As a young man he wanted only his own freedom (1) but he realised that his people were chained too and his own liberty meant little (1). He therefore joined the struggle and saw his duty to the whole nation, which makes the narrative both personal and political (1)."),
 ]
 hD = [
  d("'Mandela's speech is a lesson in leadership.' Evaluate with reference to the extract.", "Mandela is humble in sharing credit (1). He is courageous and defines true bravery (1). He offers forgiveness instead of revenge (1). He sets a vision of a just society (1). Overall, his words and life together show leadership guided by moral values (1)."),
