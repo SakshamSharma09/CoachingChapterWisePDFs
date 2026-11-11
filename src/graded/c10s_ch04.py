@@ -112,7 +112,7 @@ eA = [MC([
  ("The molecular formula of butane is:", "[[C4H10]]", "[[C4H8]]", "[[C4H6]]", "[[C3H8]]", "Alkane [[CnH2n+2]]."),
  ]), MC([
  ("Diamond and graphite are:", "allotropes of carbon", "isomers", "compounds", "alloys", "Both are pure carbon."),
- ("Which allotrope of carbon conducts electricity?", "graphite", "diamond", "fullerene", "none", "Graphite has free electrons."),
+ ("Which allotrope of carbon conducts electricity?", "graphite", "diamond", "fullerene", "sulphur", "Graphite has free electrons."),
  ("Which is the hardest substance?", "diamond", "graphite", "coal", "fullerene", "Diamond."),
  ("Burning of carbon compounds in oxygen is called:", "combustion", "hydrogenation", "esterification", "saponification", "Combustion."),
  ("Products of complete combustion of hydrocarbon are:", "[[CO2]] and water", "CO and water", "carbon and hydrogen", "alcohol", "Complete combustion."),
@@ -120,7 +120,7 @@ eA = [MC([
  ("Vinegar contains:", "ethanoic acid", "ethanol", "methanol", "ethene", "Acetic acid."),
  ("Esters have a:", "fruity smell", "pungent smell", "no smell", "rotten smell", "Sweet smell."),
  ("Catalyst used in hydrogenation of oil is:", "nickel", "iron", "zinc", "copper", "Ni."),
- ("Detergents are better than soaps in:", "hard water", "soft water", "distilled water", "none", "No scum."),
+ ("Detergents are better than soaps in:", "hard water", "soft water", "distilled water", "rainwater", "No scum."),
  ])]
 eB = [
  Z("What is the valency of carbon? Why?", "Valency is 4|1", "It has 4 electrons in its outer shell|1"),
@@ -192,7 +192,7 @@ mA = [MC([
  ("The compound formed on esterification of ethanoic acid with methanol is:", "methyl ethanoate", "ethyl methanoate", "ethyl ethanoate", "methyl methanoate", "Alcohol part first."),
  ("Saponification of ethyl ethanoate with NaOH gives:", "sodium ethanoate and ethanol", "ethanoic acid and ethanol", "sodium ethoxide and water", "ethene", "Alkaline hydrolysis."),
  ("A compound X reacts with Na to give [[H2]] and with sodium carbonate gives [[CO2]]. X is:", "ethanoic acid", "ethanol", "ethanal", "ethane", "Acids react with both."),
- ("A compound that reacts with sodium but not with sodium carbonate is:", "ethanol", "ethanoic acid", "methanoic acid", "none", "Alcohol."),
+ ("A compound that reacts with sodium but not with sodium carbonate is:", "ethanol", "ethanoic acid", "methanoic acid", "ethene", "Alcohol."),
  ("Unsaturated hydrocarbons are converted to saturated by:", "hydrogenation", "oxidation", "esterification", "saponification", "Ni catalyst."),
  ]), MC([
  ("Which of these is NOT a property of carbon?", "forms ionic bonds with chlorine", "catenation", "tetravalency", "forms multiple bonds", "Carbon forms covalent bonds."),
@@ -268,18 +268,18 @@ hA = [[
  AR("Esters have a sweet smell.", "Esters are formed from carboxylic acid and alcohol.", "b", "Both true, but R does not explain the smell."),
  AR("Alkyl groups attached to a functional group change physical properties but not chemical properties.", "Chemical properties are determined by the functional group.", "a", "Functional group governs reactions."),
  ], MC([
- ("The mass of [[CO2]] formed on complete combustion of 16 g methane (C = 12, H = 1, O = 16) is:", "44 g", "22 g", "88 g", "16 g", "1 mol [[CH4]] gives 1 mol [[CO2]]."),
- ("The mass of water formed on burning 16 g methane is:", "36 g", "18 g", "16 g", "72 g", "2 mol water = 36 g."),
- ("The volume of [[CO2]] at STP on burning 1 mol ethane completely is:", "44.8 L", "22.4 L", "67.2 L", "89.6 L", "2 mol [[CO2]]."),
- ("46 g of ethanol (C2H5OH) is completely burnt. The mass of [[CO2]] formed is:", "88 g", "44 g", "46 g", "132 g", "1 mol gives 2 mol [[CO2]]."),
+ ("The balanced equation for the complete combustion of methane is:", "[[CH4 + 2O2 -> CO2 + 2H2O]]", "[[CH4 + O2 -> CO2 + H2O]]", "[[2CH4 + O2 -> 2CO2 + H2O]]", "[[CH4 + 3O2 -> CO2 + 2H2O]]", "Atoms of C, H and O balance."),
+ ("In the balanced equation [[2C2H6 + 7O2 -> 4CO2 + 6H2O]], the coefficient of water is:", "6", "4", "7", "3", "Given in the equation."),
+ ("Natural gas burns with a clean blue flame because its main constituent, methane, is:", "a saturated hydrocarbon", "an unsaturated hydrocarbon", "an alcohol", "an ester", "Saturated hydrocarbons burn cleanly."),
+ ("On complete combustion in air, ethanol gives:", "carbon dioxide and water", "carbon monoxide and hydrogen", "ethene and water", "ethanoic acid only", "Complete combustion of a carbon compound gives CO2 and H2O."),
  ("The percentage of carbon in methane (C = 12, H = 1) is:", "75%", "25%", "80%", "60%", "12/16 x 100 = 75%."),
  ("The percentage of carbon in ethene is:", "85.7%", "75%", "80%", "92.3%", "24/28 = 85.7%."),
  ("The percentage of carbon in ethyne is:", "92.3%", "85.7%", "75%", "80%", "24/26 = 92.3%."),
- ("The number of moles of hydrogen required to convert 1 mol of ethyne to ethane is:", "2", "1", "3", "4", "Triple bond to single needs 2 [[H2]]."),
+ ("The number of hydrogen molecules that add to one molecule of ethyne to convert it into ethane is:", "2", "1", "3", "4", "C2H2 to C2H4 to C2H6."),
  ("The number of structural isomers of [[C5H12]] is:", "3", "2", "4", "5", "n-, iso-, neopentane."),
- ("The number of structural isomers of [[C6H14]] is:", "5", "3", "4", "6", "Hexane isomers."),
+ ("Isomers have the same molecular formula but different:", "structures", "molecular formulae", "molecular masses", "numbers of carbon atoms", "Isomers differ in the arrangement of atoms."),
  ]), MC([
- ("A hydrocarbon X decolourises bromine water and has molar mass 28 g/mol. X is:", "ethene", "ethane", "ethyne", "methane", "[[C2H4]] = 28."),
+ ("A hydrocarbon X decolourises bromine water and has a molecular mass of 28 u. X is:", "ethene", "ethane", "ethyne", "methane", "[[C2H4]] = 28."),
  ("An organic compound Y gives effervescence with [[NaHCO3]] and is used as a preservative. Y is:", "ethanoic acid", "ethanol", "methanal", "ethane", "Vinegar."),
  ("Compound Z on heating with conc. [[H2SO4]] gives ethene and on oxidation gives ethanoic acid. Z is:", "ethanol", "ethanal", "ethane", "methanol", "Dehydration and oxidation."),
  ("A compound with the formula [[C3H6O2]] smells fruity and hydrolyses in alkali to give sodium ethanoate. It is:", "methyl ethanoate", "ethyl methanoate", "propanoic acid", "propanol", "Ester of ethanoic acid."),
@@ -291,22 +291,22 @@ hA = [[
  ("The functional group present in the product of ethanol + ethanoic acid is:", "ester (-COO-)", "-OH", "-CHO", "-COOH", "Ester."),
  ])]
 hB = [
- Z("Calculate the mass of [[CO2]] formed on burning 30 g of ethane (C = 12, H = 1, O = 16).", "[[2C2H6 + 7O2 -> 4CO2 + 6H2O]]; 60 g gives 176 g|1", "30 g gives 88 g [[CO2]]|1"),
- Z("Calculate the percentage of carbon in ethane.", "Molar mass 30 g|1", "24/30 x 100 = 80%|1"),
+ Z("Write the balanced equation for the complete combustion of ethane and name the products.", "[[2C2H6 + 7O2 -> 4CO2 + 6H2O]]|1", "Products: carbon dioxide and water|1"),
+ Z("Calculate the percentage of carbon in ethane.", "Molecular mass = 30 u|1", "24/30 x 100 = 80%|1"),
  Z("Why does a sooty flame indicate incomplete combustion? Which has the highest soot: ethane, ethene or ethyne?", "Carbon is not fully oxidised|1", "Ethyne (highest carbon %)|1"),
  Z("Account for the fact that ethanol dissolves in water while hexane does not.", "Ethanol forms hydrogen bonds with water|1", "Hexane is non-polar|1"),
  Z("An alkane has 22 covalent bonds. Find its molecular formula.", "[[3n + 1 = 22]], n = 7|1", "[[C7H16]]|1"),
  Z("Name the compound of formula [[C4H8O2]] formed from ethanol and ethanoic acid, and its smell.", "Ethyl ethanoate|1", "Fruity smell|1"),
  Z("Why is ethanol not used directly as a fuel in vehicles in pure form in many places? (consider its properties) Give one advantage.", "Lower energy per litre than petrol|1", "Advantage: burns cleanly, renewable|1"),
  Z("Why can we not make soap from mineral oil?", "Soap is made from fats or vegetable oil with alkali|1", "Mineral oil is hydrocarbon with no ester to hydrolyse|1"),
- Z("How many moles of [[H2]] are needed to saturate 1 mol of propyne?", "Propyne has a triple bond|1", "2 mol|1"),
+ Z("Why can propyne add hydrogen? How many hydrogen molecules add to one molecule of propyne?", "Propyne has a triple bond between two carbon atoms|1", "Two hydrogen molecules add, giving propane|1"),
  Z("Explain why methane burns with a non-sooty flame while ethyne burns with a sooty flame.", "Methane has 75% C, ethyne 92%|1", "Limited oxygen leaves unburnt carbon|1"),
  Z("Identify the gas evolved when ethanol reacts with sodium and state the test.", "Hydrogen|1", "Burns with a pop sound|1"),
  Z("Which has the higher boiling point: [[CH3CH2OH]] or [[CH3OCH3]]? Explain.", "Ethanol|1", "Hydrogen bonding between -OH groups|1"),
 ]
 hC = [
- Z("A hydrocarbon contains 85.7% carbon and 14.3% hydrogen, and its molar mass is 42. Find the formula and name it.", "Ratio C : H = 1 : 2, so empirical [[CH2]]|1", "n = 42/14 = 3|1", "[[C3H6]], propene|1"),
- Z("Calculate the volume of oxygen at STP needed to burn 2 mol of methane and the volume of [[CO2]] produced.", "[[CH4 + 2O2 -> CO2 + 2H2O]]|1", "[[O2]] = 4 mol = 89.6 L|1", "[[CO2]] = 2 mol = 44.8 L|1"),
+ Z("Write the structural formula of propene and state two ways in which it differs from propane.", "[[CH3-CH=CH2]]|1", "Propene is unsaturated (a double bond); propane is saturated|1", "Propene undergoes addition reactions; propane undergoes substitution|1"),
+ Z("Write the balanced equation for the complete combustion of methane and state the nature of the flame.", "[[CH4 + 2O2 -> CO2 + 2H2O]]|1", "Clean blue flame|1", "Heat and light are given out (exothermic)|1"),
  Z("Write the equations in the conversion: ethene -> ethane -> chloroethane and name the reaction types.", "[[CH2=CH2 + H2 -> CH3CH3]], addition|1", "[[CH3CH3 + Cl2 -> CH3CH2Cl + HCl]]|1", "Substitution (sunlight)|1"),
  Z("An organic compound X ([[C2H4O2]]) on reaction with ethanol in conc. [[H2SO4]] gives a sweet-smelling product. Identify X, the product and give the equation.", "X: ethanoic acid|1", "Product: ethyl ethanoate|1", "[[CH3COOH + C2H5OH -> CH3COOC2H5 + H2O]]|1"),
  Z("Why does the addition of a few drops of acid not affect the rate of saponification but alkali does?", "Saponification needs a base|1", "Hydroxide attacks the ester|1", "Gives soap (salt) which cannot reverse|1"),
@@ -326,7 +326,7 @@ Z("Write the equations for the preparation of soap from a fat and the effect of 
 ]
 hD = [
  Z("Explain conversion of ethanol to ethene, ethanoic acid and ethyl ethanoate with reagents and equations. Identify the oxidising agent and the catalyst.", "Dehydration: conc. [[H2SO4]], 443 K|1", "Oxidation: alkaline [[KMnO4]]|1", "[[KMnO4]] is oxidising agent|1", "Esterification: conc. [[H2SO4]] catalyst|1", "Equations of each step|1"),
- Z("Calculate: 4.6 g of ethanol burns completely (C = 12, H = 1, O = 16). Find the mass of [[CO2]] and water, and volume of [[CO2]] at STP.", "0.1 mol ethanol|1", "[[C2H5OH + 3O2 -> 2CO2 + 3H2O]]|1", "[[CO2]] = 0.2 mol = 8.8 g|1", "Water = 0.3 mol = 5.4 g|1", "Volume = 4.48 L|1"),
+ Z("Write the equation for the complete combustion of ethanol and explain why ethanol can be used as a fuel additive.", "[[C2H5OH + 3O2 -> 2CO2 + 3H2O]]|1", "Burns with a clean flame, leaving no residue|1", "It is renewable, obtained from sugarcane|1", "It dissolves in petrol|1", "Reduces the use of petrol|1"),
  Z("A, B, C are carbon compounds: A ([[C2H6O]]) with sodium releases [[H2]]; B is formed on oxidation of A and turns blue litmus red; A + B in conc. [[H2SO4]] gives C with fruity smell. Identify A, B, C; write equations; name reaction types.", "A: ethanol|1", "B: ethanoic acid|1", "C: ethyl ethanoate|1", "[[CH3COOH + C2H5OH -> CH3COOC2H5 + H2O]]|1", "Oxidation and esterification|1"),
  Z("Explain the cleansing action of soaps in terms of micelle structure; state why a detergent is better in hard water; give the structure of a typical soap and detergent.", "Soap: [[C17H35COONa]]|1", "Detergent: sulphonate salt|1", "Micelle: tails inward|1", "Hard water gives scum with soap|1", "Detergent works in hard water|1"),
  Z("Compare the structural formulas, bonds and reactions of alkanes, alkenes and alkynes with one example each and a test for unsaturation.", "General formulas [[CnH2n+2]], [[CnH2n]], [[CnH2n-2]]|1", "Single, double, triple bonds|1", "Alkanes: substitution; others: addition|1", "Alkenes and alkynes decolourise bromine water|1", "Examples: ethane, ethene, ethyne|1"),
@@ -334,7 +334,7 @@ hD = [
  Z("Draw structures and name all isomers of [[C4H10]], [[C4H8]] positions (but-1-ene, but-2-ene) and explain the difference between structural isomers and homologues.", "Butane and isobutane|1", "But-1-ene and but-2-ene|1", "Isomers: same formula, different structure|1", "Homologues: differ by [[CH2]]|1", "Examples|1"),
  Z("Explain the allotropy of carbon with bonding diagrams (described), property and use of diamond, graphite, fullerene and why they burn to give the same product.", "Diamond: 3D, hard|1", "Graphite: layered, conducts|1", "Fullerene: [[C60]]|1", "All burn to [[CO2]]|1", "Same element|1"),
  Z("Explain how the percentage of carbon relates to the flame colour, using methane, ethene and ethyne and the percentages.", "Methane 75%|1", "Ethene 85.7%|1", "Ethyne 92.3%|1", "Higher carbon gives more soot|1", "Ethyne most sooty|1"),
- Z("Carry out calculations: how many grams of ethanoic acid will react with 10.6 g sodium carbonate (C = 12, O = 16, Na = 23, H = 1) and what volume of [[CO2]] at STP is released?", "[[2CH3COOH + Na2CO3 -> 2CH3COONa + H2O + CO2]]|1", "Na2CO3 = 106 g/mol, so 0.1 mol|1", "Acid = 0.2 mol = 12 g|1", "[[CO2]] = 0.1 mol|1", "Volume 2.24 L|1"),
+ Z("Describe the reaction of ethanoic acid with sodium carbonate, with the equation, observation and the test for the gas.", "[[2CH3COOH + Na2CO3 -> 2CH3COONa + H2O + CO2]]|1", "Brisk effervescence is seen|1", "The gas is carbon dioxide|1", "It turns lime water milky|1", "Sodium ethanoate is formed|1"),
  Z("Explain the reaction of ethanoic acid with a base, a carbonate and an alcohol and their uses.", "Neutralisation gives salt and water|1", "Carbonate gives [[CO2]]|1", "Alcohol gives ester|1", "Uses: preservative|1", "Esters: perfumes|1"),
  Z("A student has ethanol, ethanoic acid, ethene and ethane. Plan tests with expected observations to identify each.", "Litmus: ethanoic acid red|1", "Bicarbonate: ethanoic acid effervesces|1", "Bromine water: ethene decolourised|1", "Sodium: ethanol releases hydrogen|1", "Ethane is left|1"),
 ]

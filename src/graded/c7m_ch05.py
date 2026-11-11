@@ -5,11 +5,10 @@ SLUG, NAME, CHNO = "Parallel_and_Intersecting_Lines", "Parallel and Intersecting
 
 def D(n): return f"${n}^\\circ$"
 def kind(a): return "acute" if a < 90 else "right" if a == 90 else "obtuse" if a < 180 else "straight" if a == 180 else "reflex"
-def dg(q, c, why="", offs=(10, -10, 20, -20, 30, 5, 15)):
-    """MCQ whose options are angles in degrees."""
+def dg(q, c, why="", offs=(10, -10, 20, -20, 30, 5, 15), extra=()):
+    """MCQ whose options are angles in degrees (extra = hand-picked typical mistakes tried first)."""
     out = []
-    for o in offs:
-        x = c + o
+    for x in list(extra) + [c + o for o in offs]:
         if x != c and x > 0 and x not in out: out.append(x)
     return M4(q, D(c), [D(x) for x in out[:6]], why)
 def split(total, *parts):
@@ -20,8 +19,8 @@ def seq(vals): return ", ".join(f"${v}^\\circ$" for v in vals)
 def ratio(parts): return ":".join(map(str, parts))
 
 # ---------------------------------------------------------------- EASY
-eA1 = [dg(f"The complement of ${a}^\\circ$ is:", 90 - a, "Complementary angles add up to $90^\\circ$.") for a in (30, 65, 48, 72, 15)]
-eA2 = [dg(f"The supplement of ${a}^\\circ$ is:", 180 - a, "Supplementary angles add up to $180^\\circ$.") for a in (50, 115, 78, 140, 95)]
+eA1 = [dg(f"The complement of ${a}^\\circ$ is:", 90 - a, "Complementary angles add up to $90^\\circ$.", extra=(180 - a, a, 90 + a)) for a in (30, 65, 48, 72, 15)]
+eA2 = [dg(f"The supplement of ${a}^\\circ$ is:", 180 - a, "Supplementary angles add up to $180^\\circ$.", extra=(90 - a, a, 360 - a)) for a in (50, 115, 78, 140, 95)]
 eA3 = [dg(f"Two lines intersect and one of the angles formed is ${a}^\\circ$. The angle vertically opposite to it is:", a, "Vertically opposite angles are equal.") for a in (40, 75, 110, 135)]
 eA4 = [dg(f"Two angles form a linear pair and one of them is ${a}^\\circ$. The other is:", 180 - a, "A linear pair adds up to $180^\\circ$.") for a in (60, 100, 125, 35)]
 eA5 = [tm(q, c, w, "Recall the definition.") for q, c, w in [
@@ -51,9 +50,9 @@ nA1 = [dg(f"If $x^\\circ$ and ${a}^\\circ$ are complementary, then $x=$", 90 - a
 nA2 = [dg(f"In a linear pair one angle is {k} times the other. The smaller angle is:", 180 // (k + 1), f"The angles add up to $180^\\circ$ in {k + 1} equal parts.") for k in (2, 4, 5, 8)]
 nA3 = [dg(f"Two parallel lines are cut by a transversal. An interior angle is ${a}^\\circ$. The interior angle on the same side is:", 180 - a, "Interior angles on the same side are supplementary.") for a in (65, 80, 112, 135)]
 nA4 = [tm(q, c, w, "Use the tests for parallel lines.") for q, c, w in [
-    ("If a transversal makes equal corresponding angles with two lines, the lines are:", "parallel", ["perpendicular", "intersecting", "equal"]),
+    ("If a transversal makes equal corresponding angles with two lines, the lines are:", "parallel", ["perpendicular", "intersecting", "coincident"]),
     ("If a transversal makes interior angles on the same side that add up to $180^\\circ$, the lines are:", "parallel", ["perpendicular", "intersecting", "unequal"]),
-    ("If a transversal makes alternate interior angles that are not equal, the lines are:", "not parallel", ["parallel", "perpendicular", "equal"]),
+    ("If a transversal makes alternate interior angles that are not equal, the lines are:", "not parallel", ["parallel", "perpendicular", "coincident"]),
     ("The number of angles formed when a transversal cuts two lines is:", "8", ["4", "6", "12"])]]
 nA5 = [dg(f"Angles $A$ and $B$ are vertically opposite and $A={a}^\\circ$. Then $B=$", a, "Vertically opposite angles are equal.") for a in (28, 64, 97, 143)]
 nA6 = [tm(f"An angle of ${a}^\\circ$ is:", kind(a), [w for w in ("acute", "right", "obtuse", "reflex") if w != kind(a)][:3], "Classify by the measure: acute $<90^\\circ$, right $=90^\\circ$, obtuse between $90^\\circ$ and $180^\\circ$, reflex above $180^\\circ$.") for a in (35, 90, 125, 210, 89)]
@@ -120,12 +119,12 @@ MED_D = [cointerior(a, b) for a, b in [(2, 3), (1, 5), (4, 5), (1, 11), (3, 7), 
 # ---------------------------------------------------------------- HARD
 hA1 = [tm(q, c, w, "Reason with the angle relations.") for q, c, w in [
     ("The angle between the bisectors of the two angles of a linear pair is:", "$90^\\circ$", ["$45^\\circ$", "$180^\\circ$", "$60^\\circ$"]),
-    ("If $l\\parallel m$, the bisectors of a pair of alternate interior angles are:", "parallel", ["perpendicular", "intersecting", "equal in length"]),
+    ("If $l\\parallel m$, the bisectors of a pair of alternate interior angles are:", "parallel", ["perpendicular", "intersecting", "coincident"]),
     ("An angle is equal to its supplement. The angle is:", "$90^\\circ$", ["$45^\\circ$", "$180^\\circ$", "$60^\\circ$"]),
     ("An angle is equal to its complement. The angle is:", "$45^\\circ$", ["$90^\\circ$", "$30^\\circ$", "$60^\\circ$"]),
     ("Two angles are both supplementary to the same angle. They are:", "equal", ["complementary", "supplementary", "unequal"]),
     ("Two angles are both complementary to the same angle. They are:", "equal", ["supplementary", "complementary", "unequal"]),
-    ("If a transversal is perpendicular to one of two parallel lines, it is:", "also perpendicular to the other", ["parallel to it", "equal to it", "not perpendicular to the other"]),
+    ("If a transversal is perpendicular to one of two parallel lines, it is:", "also perpendicular to the other", ["parallel to the other", "a bisector of both", "equal to one of them"]),
     ("If $l\\parallel m$ and $m\\parallel n$, then:", "$l\\parallel n$", ["$l\\perp n$", "$l$ meets $n$", "nothing can be said"]),
     ("The sum of all the angles on one side of a straight line at a point is:", "$180^\\circ$", ["$90^\\circ$", "$360^\\circ$", "$270^\\circ$"])]]
 hA2 = [dg(f"Two supplementary angles are in the ratio ${a}:{b}$. The larger angle is:", split(180, a, b)[1], "Share $180^\\circ$ in the given ratio.") for a, b in [(1, 2), (2, 3), (4, 5), (1, 5)]]

@@ -242,7 +242,7 @@ H_A = [
  [ar("Conservatives after 1815 did not oppose modernisation of the army and bureaucracy.", "They wished to strengthen monarchies while keeping the old social order.", 1, "Modernisation strengthened autocratic states"),
   ar("The Balkan region became explosive after 1871.", "Ottoman power weakened and Great Powers competed for influence there.", 1, "Imperial and nationalist rivalry"),
   ar("Liberalism of the early 19th century did not mean democracy.", "Voting rights were limited to property-owning men.", 1, "Men without property and women were excluded"),
-  ar("Britain's nation-state was formed through a sudden revolution.", "The Act of Union of 1707 brought England and Scotland together over time.", 3, "It was a gradual process; A false, R true"),
+  ar("Britain's nation-state was formed through a sudden revolution.", "The Act of Union of 1707 brought England and Scotland together over time.", 4, "It was a gradual process; A false, R true"),
   ar("Language was a weapon of resistance in Poland.", "After 1831, Polish was used in church gatherings against Russian imposition.", 1, "Cultural resistance"),
   ar("Silesian weavers rebelled in 1845.", "Contractors paid them very low wages for cloth.", 1, "Economic distress")],
  [ar("The French Revolution created the idea of a nation of citizens.", "Sovereignty passed from the monarch to the French people.", 1, "La patrie, le citoyen"),

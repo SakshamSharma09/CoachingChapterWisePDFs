@@ -8,7 +8,7 @@ nA = [MC([
  ("The balanced equation for burning of magnesium ribbon in air is:", "[[2Mg + O2 -> 2MgO]]", "[[Mg + O2 -> MgO]]", "[[Mg + O -> MgO]]", "[[2Mg + O2 -> 2MgO2]]", "Two Mg atoms combine with one O2 molecule; MgO is the formula of magnesium oxide."),
  ("In the reaction [[Fe2O3 + 2Al -> Al2O3 + 2Fe]], the type of reaction is:", "Displacement", "Combination", "Decomposition", "Double displacement", "More reactive Al displaces Fe from its oxide."),
  ("A solution of substance X is used for whitewashing. X is:", "Calcium oxide (quick lime)", "Calcium carbonate", "Sodium hydroxide", "Calcium sulphate", "Quick lime reacts with water to give slaked lime used for whitewashing."),
- ("Magnesium ribbon is cleaned before burning in air in order to:", "remove the protective oxide layer from its surface", "make it heavier", "lower its ignition temperature to zero", "convert it into a powder", "The oxide coating prevents the metal from burning."),
+ ("Magnesium ribbon is cleaned before burning in air in order to:", "remove the protective oxide layer from its surface", "make it heavier", "make it burn with a green flame", "convert it into a powder", "The oxide coating prevents the metal from burning."),
  ("When the green crystals of ferrous sulphate are heated strongly, the residue left is:", "reddish-brown", "black", "blue", "white", "[[2FeSO4 -> Fe2O3 + SO2 + SO3]]; [[Fe2O3]] is reddish brown."),
  ("The values of x, y and z in [[xPb(NO3)2 -> yPbO + zNO2 + O2]] are respectively:", "2, 2, 4", "1, 1, 2", "2, 4, 2", "4, 2, 2", "[[2Pb(NO3)2 -> 2PbO + 4NO2 + O2]]."),
  ("The gas evolved when dilute hydrochloric acid is added to zinc granules is:", "hydrogen", "oxygen", "chlorine", "carbon dioxide", "[[Zn + 2HCl -> ZnCl2 + H2]]."),

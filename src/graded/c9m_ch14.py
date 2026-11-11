@@ -103,7 +103,7 @@ def g_litre(lo, hi):
     def f(r):
         l, b, h = r.randint(lo, hi), r.randint(lo, hi), r.randint(lo, hi)
         if len({l, b, h}) < 3: return None
-        return nn(f"A tank measures ${l}$ m $\\times$ ${b}$ m $\\times$ ${h}$ m. Its capacity in litres ($1\\text{{ m}}^3=1000$ L) is:", l * b * h * 1000, f"$V={l*b*h}$ m$^3$.", offs=(1000, -1000, 100, 10000, -100, 2000), pos=True)
+        return nn(f"A tank measures ${l}$ m $\\times$ ${b}$ m $\\times$ ${h}$ m. Its capacity in litres ($1\\text{{ m}}^3=1000$ L) is:", l * b * h * 1000, f"$V={l*b*h}$ m$^3$.", offs=(-(l * b * h * 1000) + l * b * h, -(l * b * h * 1000) + l * b * h * 100, l * b * h * 9000, 2000), pos=True)
     return f
 def g_cubes(lo, hi):
     def f(r):
@@ -303,3 +303,6 @@ def q_rec_mix(r):
 HARD_D = draw(416, 6, q_icecream) + draw(417, 6, q_rec_mix)
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

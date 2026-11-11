@@ -21,7 +21,7 @@ def lcm3(*x):
 # ================= EASY =================
 eA1 = [M4(f"The ratio {a} : {b} in simplest form is:", srt(a, b), ratwrong(*simp(a, b)), f"Divide both terms by {gcd(a,b)}") for a, b in [(12, 18), (20, 35), (14, 21), (24, 40), (45, 30), (16, 56)]]
 eA2 = [M4(f"If {p} : {q} = {p*k} : x, then x is:", q * k, near(q * k, (k, -k, 2)), f"Multiply both terms by {k}") for p, q, k in [(2, 3, 4), (3, 5, 6), (4, 7, 3), (5, 6, 5), (3, 8, 7), (7, 9, 2)]]
-eA3 = [M4(f"Are {a} : {b} and {c} : {d} in proportion?", yn, ["No" if yn == "Yes" else "Yes", "Only when the first terms are equal", "Cannot be determined"], f"{a}x{d} = {a*d} and {b}x{c} = {b*c}") for a, b, c, d, yn in [(2, 3, 8, 12, "Yes"), (4, 5, 12, 16, "No"), (3, 7, 9, 21, "Yes"), (5, 6, 15, 20, "No"), (6, 8, 9, 12, "Yes")]]
+eA3 = [M4("In which of the following are the two ratios in proportion?", f"${a} : {b}$ and ${k*a} : {k*b}$", [f"${a} : {b}$ and ${k*a} : {k*b+1}$", f"${a} : {b}$ and ${k*a+1} : {k*b}$", f"${a} : {b}$ and ${k*b} : {k*a}$"], f"Product of extremes $={a}\\times{k*b}$ equals product of means $={b}\\times{k*a}$") for a, b, k in [(2, 3, 4), (4, 5, 3), (3, 7, 3), (5, 6, 4), (3, 8, 2)]]
 eA4 = [M4(q, srt(a, b), ratwrong(*simp(a, b)), "Convert to the same unit first") for q, a, b in [("The ratio of 50 cm to 2 m is:", 50, 200), ("The ratio of 250 g to 1 kg is:", 250, 1000), ("The ratio of 30 minutes to 2 hours is:", 30, 120), ("The ratio of 75 paise to ₹ 3 is:", 75, 300), ("The ratio of 600 m to 3 km is:", 600, 3000)]]
 eA5 = [M4(f"₹ {n} is shared in the ratio {p} : {q}. The larger share is:", R(n // (p + q) * max(p, q)), [R(n // (p + q) * min(p, q)), R(n // 2), R(n // (p + q))], f"One part $={n}\\div{p+q}={n//(p+q)}$") for n, p, q in [(400, 3, 5), (720, 4, 5), (900, 2, 7), (660, 5, 6), (840, 3, 4)]]
 eA6 = [M4(f"The cost of {n} pencils is ₹ {c}. The cost of 1 pencil is:", R(F(c, n)), [R(F(c, n) + 1), R(F(c, n) * 2), R(c - n)], f"${c}\\div{n}$") for n, c in [(6, 48), (8, 72), (12, 108), (5, 65), (9, 135)]]
@@ -41,7 +41,7 @@ nA1 = [M4(f"The ratio of {a} m {b} cm to {c} cm is:", srt(a * 100 + b, c), ratwr
 nA2 = [M4(f"If A : B = {a} : {b} and B : C = {b2} : {c}, then A : B : C is:", rt(a * (b2 // gcd(b, b2)), b * (b2 // gcd(b, b2)), ) + f" : {c * (b // gcd(b, b2))}", [rt(a, b) + f" : {c}", rt(a, b2) + f" : {c}", rt(a, b) + f" : {b2 * c}"], "Make the middle terms equal") for a, b, b2, c in [(2, 3, 6, 5), (3, 4, 8, 7), (1, 2, 6, 5), (4, 5, 10, 9), (2, 3, 9, 4)]]
 nA3 = [M4(f"On a map, 1 cm represents {k} km. A distance of {d} cm on the map is actually:", f"{N(F(str(d))*k)} km", [f"{N(F(str(d))*k+k)} km", f"{N(F(str(d))*k/10)} km", f"{N(F(str(d))+k)} km"], f"${d}\\times{k}$") for k, d in [(5, 3.5), (12, 4), (8, 6.5), (25, 2.4), (15, 7)]]
 nA4 = [M4(f"{m} workers can finish a job in {d} days. {n} workers will finish it in:", f"{N(F(m*d,n))} days", [f"{N(F(n*d,m))} days", f"{N(F(m*d,n)+2)} days", f"{N(d+m-n)} days"], "Fewer or more workers: days vary inversely") for m, d, n in [(8, 15, 12), (12, 20, 16), (6, 24, 9), (10, 18, 15), (15, 12, 20)]]
-nA5 = [M4(f"A car covers {D} km in {t} hours at a steady speed. In {T} hours it covers:", f"{N(F(D,t)*T)} km", [f"{N(F(D,t)*T+D//t)} km", f"{N(D+T)} km", f"{N(F(t*T,D) )} km"], f"Speed ${D}\\div{t}$") for D, t, T in [(240, 4, 7), (180, 3, 5), (330, 5, 8), (150, 2, 9), (420, 6, 4)]]
+nA5 = [M4(f"A car covers {D} km in {t} hours at a steady speed. In {T} hours it covers:", f"{N(F(D,t)*T)} km", [f"{N(D+T)} km", f"{N(F(D,t)+T)} km", f"{N(F(D,t)*(T+1))} km"], f"Speed ${D}\\div{t}$") for D, t, T in [(240, 4, 7), (180, 3, 5), (330, 5, 8), (150, 2, 9), (420, 6, 4)]]
 nA6 = [M4(f"₹ {n} is divided among A, B and C in the ratio {a} : {b} : {c}. The smallest share is:", R(share3(n, a, b, c)[0]), [R(share3(n, a, b, c)[1]), R(share3(n, a, b, c)[2]), R(n // 5)], f"One part $={n//(a+b+c)}$") for n, a, b, c in [(1200, 1, 3, 4), (1800, 2, 3, 4), (2400, 3, 4, 5), (1500, 2, 5, 8), (3000, 4, 5, 6)]]
 nA7 = [M4("If the number of workers increases and the job remains the same, the time taken:", "decreases", ["increases", "stays the same", "becomes zero"], "Inverse proportion"),
        M4("The cost of articles and the number of articles (same price each) are in:", "direct proportion", ["inverse proportion", "no proportion", "equal ratio always 1 : 1"], "Double the articles, double the cost"),
@@ -65,7 +65,7 @@ NCERT_D = [nd1(*r) for r in [(1200, 1, 3, 4, 100), (1800, 2, 3, 4, 200), (2400, 
 mA1 = [M4(f"Two numbers are in the ratio {p} : {q} and their sum is {s*(p+q)}. The larger number is:", s * max(p, q), [s * min(p, q), s * (p + q) // 2, s * max(p, q) + s], f"One part $={s}$") for p, q, s in [(4, 7, 9), (5, 8, 6), (3, 10, 7), (6, 11, 4), (7, 9, 5)]]
 mA2 = [M4(f"Two numbers are in the ratio {p} : {q}. If {k} is added to each, the numbers become {p*s+k} and {q*s+k}. The original smaller number is:", p * s if p < q else q * s, [(p * s if p < q else q * s) + k, (p * s if p < q else q * s) - k, (p * s if p < q else q * s) * 2], "Subtract the added number") for p, q, s, k in [(3, 5, 8, 4), (2, 7, 6, 3), (4, 9, 5, 5), (5, 6, 7, 2), (3, 8, 4, 6)]]
 mA3 = [M4(f"A mixture of {V} L has milk and water in the ratio {p} : {q}. The quantity of water is:", f"{V*q//(p+q)} L", [f"{V*p//(p+q)} L", f"{V*q//(p+q)-5} L", f"{V*q//(p+q)+5} L"], f"$\\frac{{{q}}}{{{p+q}}}\\times{V}$") for V, p, q in [(60, 7, 3), (84, 5, 2), (90, 4, 5), (72, 5, 7), (110, 6, 5)]]
-mA4 = [M4(f"{m} pipes fill a tank in {d} hours. {n} such pipes will fill it in:", f"{N(F(m*d,n))} hours", [f"{N(F(n*d,m))} hours", f"{N(F(m*d,n)+1)} hours", f"{N(d+m-n)} hours"], "More pipes, less time") for m, d, n in [(6, 10, 4), (8, 9, 12), (5, 12, 15), (9, 8, 6), (10, 15, 25)]]
+mA4 = [M4(f"{m} pipes fill a tank in {d} hours. {n} such pipes will fill it in:", f"{N(F(m*d,n))} hours", [f"{N(d+m-n)} hours", f"{N(m*d)} hours", f"{N(F(m*d,n)+3)} hours"], "More pipes, less time") for m, d, n in [(6, 10, 4), (8, 9, 12), (5, 12, 15), (9, 8, 6), (10, 12, 15)]]
 def abc(a, b, b2, c):
     g = gcd(b, b2); m1, m2 = b2 // g, b // g
     return a * m1, b * m1, c * m2
@@ -74,7 +74,7 @@ def _mA5(a, b, b2, c, S):
     return M4(f"A : B = {a} : {b} and B : C = {b2} : {c}. If A + B + C = {S}, then C equals:", x[2] * s, [x[0] * s, x[1] * s, S // 5], f"A : B : C = {x[0]} : {x[1]} : {x[2]}, so one part is {s}")
 mA5 = [_mA5(*t) for t in [(2, 3, 6, 5, 165), (1, 2, 4, 3, 135), (3, 4, 8, 7, 210), (2, 5, 10, 3, 119), (3, 2, 6, 5, 200)]]
 mA6 = [M4(f"On a map with scale 1 : {N(s)}, a distance of {d} cm represents:", f"{N(F(s*d,100000))} km", [f"{N(F(s*d,10000))} km", f"{N(F(s*d,1000))} km", f"{N(F(s*d,100000)+d)} km"], "1 km = 100000 cm") for s, d in [(50000, 4), (200000, 3), (100000, 7), (25000, 8), (500000, 6)]]
-mA7 = [M4(f"{v} km/h expressed in m/s is:", f"{N(F(v*5,18))} m/s", [f"{N(F(v*18,5))} m/s", f"{N(F(v,60))} m/s", f"{N(F(v,3))} m/s"], "Multiply by $\\frac{5}{18}$") for v in [36, 54, 72, 90, 108]]
+mA7 = [M4(f"{v} km/h expressed in m/s is:", f"{N(F(v*5,18))} m/s", [f"{N(F(v*18,5))} m/s", f"{N(F(v,3))} m/s", f"{N(F(v,6))} m/s"], "Multiply by $\\frac{5}{18}$") for v in [36, 54, 72, 90, 108]]
 MED_A = [mA1, mA2, mA3, mA4, mA5, mA6, mA7]
 MED_B = ([Q(f"Two numbers are in the ratio {p} : {q} and their sum is {s*(p+q)}. Find the numbers.", f"One part $={s*(p+q)}\\div{p+q}={s}$ (1); numbers {p*s} and {q*s} (1).", "1+1") for p, q, s in [(5, 9, 7), (4, 11, 6), (7, 8, 5), (3, 13, 4)]]
          + [Q(f"Convert {v} km/h into m/s.", f"{v} km/h $={v}\\times\\frac{{1000}}{{3600}}$ (1) $={N(F(v*5,18))}$ m/s (1).", "1+1") for v in [45, 63, 81, 126]]
@@ -134,3 +134,6 @@ HARD_D = [hd1(*r) for r in [(2, 6, 3, 4, 5, 3, 100), (3, 4, 2, 6, 4, 2, 150), (5
 
 TIERS = {"NCERT": T(NCERT_A, NCERT_B, NCERT_C, NCERT_D), "Easy": T(EASY_A, EASY_B, EASY_C, EASY_D),
          "Medium": T(MED_A, MED_B, MED_C, MED_D), "Hard": T(HARD_A, HARD_B, HARD_C, HARD_D)}
+
+from c8m_fix import tidy
+tidy(TIERS)

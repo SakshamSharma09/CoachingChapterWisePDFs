@@ -118,3 +118,6 @@ HARD_D = ([QQ(f"In quadrilateral $ABCD$, $AB={a}$ cm, $BC={b}$ cm, $CD={c}$ cm, 
           + [QQ(f"Two concentric circles have radii ${r}$ cm and ${r + w}$ cm (take {PI}). Find the area of the ring and the difference between the two circumferences.", f"Ring area $=\\pi\\left({r + w}^2-{r}^2\\right)$", f"$={carea(r + w) - carea(r)}$ cm$^2$", f"Difference in circumferences $=2\\pi\\times{w}$", f"$={circ(w) if w % 7 == 0 else axx(Fr(44 * w, 7))}$ cm", "Units stated") for r, w in [(21, 7), (35, 14), (14, 21), (28, 7), (42, 14), (49, 7)]])
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

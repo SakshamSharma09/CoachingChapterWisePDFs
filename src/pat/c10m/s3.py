@@ -34,7 +34,7 @@ def make():
      ar("The probability of an event always lies between 0 and 1, both inclusive.", "For any event E, P(E) + P(not E) = 1.", 'b', "Both A and R are true, but R (P(E) + P(not E) = 1 with both non-negative) is not the standard explanation of the range 0 to 1 as stated in A; taken as in the sample key, R is a correct but separate statement ⇒ (b)."),
     ]
     B = [
-     OR(S("Use Euclid's division algorithm to find the HCF of 255 and 867.", 2, "867 = 255×3 + 102; 255 = 102×2 + 51 (1); 102 = 51×2 + 0 ⇒ HCF = 51 (1)."),
+     OR(S("Find the HCF and LCM of 255 and 867 by the prime factorisation method.", 2, "255 = 3 × 5 × 17 and 867 = 3 × 17² (1); HCF = 3 × 17 = 51; LCM = 3 × 5 × 17² = 4335 (1)."),
         S("Find the smallest number which leaves remainder 2 when divided by 8, 12 and 15.", 2, "LCM(8, 12, 15) = 120 (1) ⇒ required number = 120 + 2 = 122 (1).")),
      S("A flagpole 18 m high casts a shadow 9 m long. At the same time a building 30 m high casts a shadow of what length?", 2, "Similar triangles: 18/9 = 30/s (1) ⇒ s = 15 m (1)."),
      OR(S("In ΔABC, DE ∥ BC with AD = <i>x</i> + 3, DB = 3<i>x</i> + 19, AE = <i>x</i> and EC = 3<i>x</i> + 4. Find <i>x</i>.", 2, "BPT: (x + 3)(3x + 4) = x(3x + 19) (1) ⇒ 3x² + 13x + 12 = 3x² + 19x ⇒ x = 2 (1).", fig=fig_tri),

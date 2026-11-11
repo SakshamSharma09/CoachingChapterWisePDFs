@@ -122,7 +122,7 @@ Which device works on electromagnetic induction? ~~ Generator ~~ Bulb ~~ Heater 
 The current produced by electromagnetic induction is called ~~ induced current ~~ direct current only ~~ static current ~~ leakage current ~~ Induced by a changing field.
 AC means ~~ alternating current ~~ always current ~~ amplified current ~~ ampere current ~~ Direction changes.
 DC means ~~ direct current ~~ double current ~~ dynamic current ~~ driving current ~~ One direction.
-Electric current from a battery is ~~ DC ~~ AC ~~ both ~~ none ~~ Steady direction.
+Electric current from a battery is ~~ DC ~~ AC ~~ alternating at 50 Hz ~~ an induced AC ~~ A cell gives a current in one direction.
 The household supply in India is ~~ 220 V, 50 Hz AC ~~ 110 V, 60 Hz AC ~~ 220 V DC ~~ 12 V DC ~~ Standard mains.
 """.strip()
 eB = """
@@ -230,7 +230,7 @@ Explain why a current-carrying coil kept near a compass needle deflects it, and 
 A student winds 100 turns of insulated copper wire on an iron nail and connects it to a battery. What will happen to iron pins brought near? How can she make it stronger? ~~ The nail becomes an electromagnet|1 ~~ It attracts the iron pins|1 ~~ Increase the current or the number of turns|1
 An electron enters a region of magnetic field directed into the page, moving to the right. What is the direction of the force on it? Give the reasoning. ~~ Conventional current direction is opposite to the electron's motion|1 ~~ Apply Fleming's left-hand rule with current to the left|1 ~~ Force is downward (on the page)|1
 Explain the working of an electric bell using an electromagnet in brief. ~~ Current passes through the coil, the iron core becomes a magnet|1 ~~ It attracts the iron armature, the hammer strikes the gong|1 ~~ The circuit breaks and the cycle repeats|1
-State differences between a DC generator and an AC generator. ~~ AC generator has two slip rings|1 ~~ DC generator has a split-ring commutator|1 ~~ AC reverses direction; DC output is in one direction|1
+State three differences between an electric motor and an electric generator. ~~ Motor converts electrical energy into mechanical energy; generator does the reverse|1 ~~ Motor works on the force on a current-carrying conductor in a field; generator on electromagnetic induction|1 ~~ Motor uses a split-ring commutator; an AC generator uses slip rings|1
 Why does the induced current in a generator last only during rotation? ~~ Emf is produced only when the coil cuts the field lines|1 ~~ A stationary coil has no change in flux|1 ~~ So the current stops when the rotation stops|1
 What are the conditions for the induced current in a closed coil? ~~ There must be a change in the magnetic field linked with the coil|1 ~~ The circuit should be closed|1 ~~ Motion of the magnet or coil produces the change|1
 Describe the colour coding of wires and the voltage between live and neutral wires in India. ~~ Red for live, black for neutral, green for earth|1 ~~ Potential difference of 220 V|1 ~~ The frequency is 50 Hz|1
@@ -263,13 +263,13 @@ hA = """
 AR ~~ Magnetic field lines never intersect. ~~ The field at a point has only one direction. ~~ a ~~ At a crossing there would be two directions of the field.
 AR ~~ A straight current-carrying wire produces a magnetic field around it. ~~ A compass needle placed near the wire gets deflected when the current flows. ~~ b ~~ Both true; the deflection is evidence of the field, not its explanation.
 AR ~~ Soft iron is used as the core of an electromagnet. ~~ Soft iron is easily magnetised and demagnetised. ~~ a ~~ Needed for a temporary magnet.
-AR ~~ A current-carrying conductor in a field always experiences a force. ~~ The magnetic field acts on the moving charges in the conductor. ~~ c ~~ A is false: the force is zero when the conductor is parallel to the field; R is true.
+AR ~~ A current-carrying conductor in a field always experiences a force. ~~ The magnetic field acts on the moving charges in the conductor. ~~ d ~~ A is false: the force is zero when the conductor is parallel to the field; R is true.
 AR ~~ A conductor moving parallel to the magnetic field induces no current. ~~ There is no change in the magnetic field lines linked with the conductor. ~~ a ~~ Nothing is cut.
 AR ~~ AC is preferred for the transmission of power over long distances. ~~ Much less energy is lost when AC is sent over long distances. ~~ a ~~ Lower loss explains the preference.
 AR ~~ The earth wire is connected to the metal body of a geyser. ~~ It safeguards the user by taking leakage current to the earth. ~~ a ~~ Prevents shock.
 AR ~~ The fuse is connected in the live wire. ~~ It disconnects the appliance from the supply when excess current flows. ~~ a ~~ Breaking the live wire isolates the appliance.
 AR ~~ The direction of the force on a charge moving in a magnetic field is perpendicular to the velocity. ~~ The force cannot change the speed of the charged particle. ~~ a ~~ Force perpendicular to motion does no work.
-AR ~~ DC generators have a commutator. ~~ A commutator reverses the connection to the circuit every half rotation to give a unidirectional current. ~~ a ~~ The split ring acts as a commutator.
+AR ~~ An electric motor has a split-ring commutator. ~~ The commutator reverses the direction of current in the coil every half rotation so that the coil keeps turning the same way. ~~ a ~~ R explains why the commutator is needed.
 
 A straight wire with current is placed between the poles of a magnet. The force on the wire is greatest when the wire makes an angle with the field of ~~ 90 degrees ~~ 0 degrees ~~ 45 degrees ~~ 30 degrees ~~ Perpendicular is the maximum.
 A coil moves along the field lines of a uniform field in a direction parallel to the field. The induced current is ~~ zero ~~ maximum ~~ half ~~ alternating ~~ No change of linked field.
@@ -287,7 +287,7 @@ A magnet is brought toward a coil at a speed v and the induced emf is E. If the 
 The average value of a pure alternating current over one complete cycle is ~~ zero ~~ maximum ~~ half of maximum ~~ equal to peak ~~ Positive and negative halves cancel.
 The number of reversals of AC in a minute of 50 Hz supply is ~~ 6000 ~~ 3000 ~~ 600 ~~ 100 ~~ 100 per s x 60.
 A fuse of 5 A is connected in a circuit with a 1.5 kW heater at 220 V. The fuse ~~ blows because I = 6.8 A ~~ does not blow ~~ blows because I = 1.5 A ~~ gives no protection ~~ I = 1500 / 220 = 6.8 A > 5 A.
-Appliances A (1 kW) and B (0.5 kW) use the same 220 V line protected by a 5 A fuse. Which combination will blow the fuse? ~~ Both A and B on together ~~ A alone ~~ B alone ~~ None ~~ 1.5 kW draws 6.8 A.
+Appliances A (1 kW), B (0.5 kW) and C (0.05 kW) use the same 220 V line protected by a 5 A fuse. Which combination will blow the fuse? ~~ A and B together ~~ A and C together ~~ B and C together ~~ A alone ~~ A and B together draw 1.5 kW, which is more than 1100 W.
 Which of the following correctly describes the live wire? ~~ At high potential with respect to earth ~~ At zero potential ~~ Has green insulation ~~ Connected to the metal body ~~ 220 V.
 A person touches a metal body of an appliance whose live wire is loose and touching the body. If the body is earthed ~~ the fuse blows and the person is safe ~~ the person is electrocuted ~~ the appliance runs better ~~ there is no change ~~ Large current passes to earth.
 If the iron core is removed from an electromagnet, the strength ~~ decreases ~~ increases ~~ is unchanged ~~ is infinite ~~ Core enhances the field.
@@ -303,7 +303,7 @@ What happens to the induced current if the same magnet is pushed into a coil wit
 Why does a magnet attract an iron nail but not a copper wire? ~~ Iron is a magnetic material|1 ~~ Copper is not magnetised by an external magnet|1
 Explain why the iron filings near the poles of a bar magnet are crowded. ~~ Field is strongest near the poles|1 ~~ Field lines are closer there|1
 Why is a switch always connected to the live wire? ~~ It disconnects the appliance from the high potential|1 ~~ The appliance stays safe when switched off|1
-Name the device that converts AC into DC and the device which changes direction in a DC generator. ~~ Rectifier|1 ~~ Split-ring commutator|1
+What is the function of the split-ring commutator in an electric motor? ~~ It reverses the direction of current in the coil every half rotation|1 ~~ So the coil keeps rotating in the same direction|1
 Two solenoids A and B have the same current and length, but A has 200 turns and B has 400 turns. Compare the fields. ~~ Field is proportional to the number of turns per unit length|1 ~~ B has double the field|1
 If a bar magnet is cut into two pieces along its length, what are the poles of each piece? ~~ Each piece has its own north and south poles|1 ~~ Isolated poles are not possible|1
 """.strip()
@@ -329,7 +329,7 @@ What would happen to an appliance if the neutral wire in a 220 V circuit is brok
 """.strip()
 hD = """
 A straight wire carries current from west to east in a field pointing north. Find the direction of the force and describe how it changes (a) when the current is reversed (b) when both are reversed. State the rule used. ~~ Fleming's left-hand rule|1 ~~ Forefinger north, middle finger east|1 ~~ Thumb points upward|1 ~~ (a) Force becomes downward|1 ~~ (b) Both reversed: force upward as before|1
-Describe the construction and working of a simple DC generator and mention the role of the split ring commutator. Why is the current from it not steady? ~~ Armature coil rotates between magnet poles|1 ~~ EMI induces a current|1 ~~ Split rings reverse the connection every half rotation|1 ~~ Output is in one direction|1 ~~ Value varies between zero and maximum, so it is not steady|1
+Describe the construction and working of a simple electric motor, giving the role of the split-ring commutator. ~~ A rectangular coil is placed between the poles of a magnet|1 ~~ Current in the coil gives forces on its two arms in opposite directions|1 ~~ The coil rotates (Fleming's left-hand rule)|1 ~~ Split rings reverse the current every half rotation|1 ~~ So the coil continues to rotate in the same direction|1
 Explain with the principle and steps how a magnetic field is produced by a current in a solenoid and how it can be made 10 times stronger. ~~ Each turn produces a magnetic field|1 ~~ Fields of all turns add inside|1 ~~ Field is stronger with more turns per unit length|1 ~~ Increasing the current raises the field|1 ~~ A soft iron core increases it considerably|1
 A student has a solenoid, a bar magnet, a galvanometer and a battery. Design activities to show (a) the magnetic effect of current (b) electromagnetic induction. State the observations and the conclusions. ~~ (a) Place a compass near the solenoid; switch on the current|1 ~~ Needle deflects, so current produces a magnetic field|1 ~~ (b) Connect the solenoid to the galvanometer|1 ~~ Move the magnet in and out|1 ~~ Deflection shows induced current from a changing field|1
 Describe the domestic circuit used in a house. Why are the fuse, the earth wire and the MCB used? A home has 5 bulbs of 60 W, 2 fans of 80 W and a 1.5 kW heater, all on 220 V. Find the total current when all are used. ~~ Live, neutral and earth wires; appliances in parallel|1 ~~ Fuse and MCB protect from overload|1 ~~ Earth wire gives safety|1 ~~ Total power = 300 + 160 + 1500 = 1960 W|1 ~~ I = 1960 / 220 = 8.9 A|1

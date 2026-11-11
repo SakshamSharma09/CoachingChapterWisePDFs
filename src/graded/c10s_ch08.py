@@ -95,7 +95,7 @@ A character such as tallness or dwarfness is called a ~~ trait ~~ gene ~~ cell ~
 The part of the cell that contains genes is the ~~ nucleus ~~ cell wall ~~ vacuole ~~ ribosome ~~ Chromosomes are in the nucleus.
 Chromosomes are made of ~~ DNA and protein ~~ only lipids ~~ only starch ~~ cellulose ~~ Genetic material.
 Variations among individuals are ~~ differences in characters ~~ always harmful ~~ not inherited ~~ absent in humans ~~ Variation is the basis of diversity.
-In pea plants, the dominant trait for stem height is ~~ tall ~~ dwarf ~~ medium ~~ none ~~ T is dominant over t.
+In pea plants, the dominant trait for stem height is ~~ tall ~~ dwarf ~~ medium ~~ intermediate height ~~ T is dominant over t.
 In pea plants, the recessive form of seed shape is ~~ wrinkled ~~ round ~~ green ~~ yellow ~~ r is recessive.
 A pair of contrasting characters is ~~ tall and dwarf ~~ tall and round ~~ green and tall ~~ yellow and wrinkled ~~ Both are forms of the same character.
 Mendel's first generation of the cross is called ~~ F1 ~~ F2 ~~ P ~~ F3 ~~ First filial generation.
@@ -176,7 +176,7 @@ mA = """
 A heterozygous tall plant (Tt) is crossed with a dwarf plant (tt). The fraction of dwarf plants in the offspring is ~~ 1/2 ~~ 1/4 ~~ 3/4 ~~ 0 ~~ Offspring Tt and tt in 1 : 1.
 Two tall plants produce 75 tall and 25 dwarf plants. The parents were most likely ~~ both Tt ~~ both TT ~~ TT and Tt ~~ Tt and tt ~~ 3 : 1 ratio arises from Tt x Tt.
 Out of 160 F2 plants in a monohybrid cross, the expected number of dwarf plants is ~~ 40 ~~ 120 ~~ 80 ~~ 20 ~~ 1/4 of 160.
-Which of the following genotypes will produce only one type of gamete? ~~ TT ~~ Tt ~~ Both TT and Tt ~~ None ~~ Homozygous gives one type.
+Which of the following genotypes will produce only one type of gamete? ~~ TT ~~ Tt ~~ RrYy ~~ Rr ~~ A homozygous genotype forms a single type of gamete.
 A plant with genotype RrYy forms how many types of gametes? ~~ 4 ~~ 2 ~~ 8 ~~ 16 ~~ RY, Ry, rY, ry.
 In a dihybrid cross, if 144 F2 seeds are obtained, expected round green seeds are ~~ 27 ~~ 81 ~~ 9 ~~ 54 ~~ 3/16 of 144 = 27.
 In a dihybrid F2, the proportion of seeds with both recessive traits is ~~ 1/16 ~~ 3/16 ~~ 9/16 ~~ 1/4 ~~ Only rryy.
@@ -192,8 +192,8 @@ In a human egg, the number of autosomes is ~~ 22 ~~ 23 ~~ 44 ~~ 46 ~~ 22 autosom
 Total autosomes in a normal human zygote ~~ 44 ~~ 46 ~~ 22 ~~ 23 ~~ 22 pairs.
 Which cell has half the number of chromosomes of a body cell? ~~ Sperm ~~ Skin cell ~~ Muscle cell ~~ Zygote ~~ Gametes are haploid.
 A woman with two X chromosomes passes ~~ one X to each child ~~ a Y to sons ~~ both X to daughters ~~ nothing ~~ Her eggs carry one X.
-A man passes his X chromosome to ~~ all his daughters ~~ all his sons ~~ none ~~ half of his sons ~~ Daughters receive his X.
-A man passes his Y chromosome to ~~ all his sons ~~ all his daughters ~~ none ~~ half of his daughters ~~ Only sons get Y.
+A man passes his X chromosome to ~~ all his daughters ~~ all his sons ~~ half of his sons ~~ half of his daughters ~~ He gives X only to daughters.
+A man passes his Y chromosome to ~~ all his sons ~~ all his daughters ~~ half of his sons ~~ half of his daughters ~~ Y goes only to sons.
 
 A trait that is controlled by a recessive allele appears in a plant when ~~ both alleles are recessive ~~ one allele is recessive ~~ both are dominant ~~ no allele is present ~~ Only tt shows dwarf.
 A bacterium reproducing asexually will show variation because of ~~ minor DNA copying errors ~~ gamete fusion ~~ crossing of two parents ~~ meiosis in parents ~~ Copying errors create small differences.
@@ -277,7 +277,7 @@ If the F2 of a dihybrid cross has 80 wrinkled green seeds, the total number of s
 A true-breeding tall plant is crossed with a dwarf plant. The F2 has 1200 plants. The number of heterozygous tall plants is ~~ 600 ~~ 300 ~~ 900 ~~ 1200 ~~ Half of F2 are Tt.
 The probability that a couple's four children are all girls is ~~ 1/16 ~~ 1/4 ~~ 1/8 ~~ 1/2 ~~ (1/2)^4.
 Of the children of a couple, which parent's chromosome decides that a son carries a Y? ~~ Father ~~ Mother ~~ Both ~~ Neither ~~ Y comes from the father.
-A father passes the same sex chromosome to all his sons. It is the ~~ Y chromosome ~~ X chromosome ~~ both X and Y ~~ none ~~ Sons are XY and get Y from the father.
+A father passes the same sex chromosome to all his sons. It is the ~~ Y chromosome ~~ X chromosome ~~ both X and Y ~~ an autosome ~~ Sons receive the Y chromosome.
 
 A pea plant that is tall and round (TtRr) is crossed with dwarf wrinkled (ttrr). The offspring ratio is ~~ 1 : 1 : 1 : 1 ~~ 9 : 3 : 3 : 1 ~~ 3 : 1 ~~ 1 : 1 ~~ Four gamete types x one.
 In pea plants F2 seeds show round-green and wrinkled-yellow types that were absent in both parents. This happens due to ~~ new combinations of independently inherited genes ~~ blending of traits ~~ acquired traits ~~ loss of genes in F1 ~~ Independent assortment gives new combinations.

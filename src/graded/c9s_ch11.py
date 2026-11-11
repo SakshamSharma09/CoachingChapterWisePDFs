@@ -212,7 +212,7 @@ mA = [MC([
  ("The basic unit of classification is the:", "species", "genus", "family", "order", "Lowest rank."),
  ("The scientific name of the mango is:", "Mangifera indica", "Mangifera Indica", "mangifera Indica", "Mango indica", "Capital for genus only."),
  ("Which of the following is correctly written?", "Panthera leo", "panthera Leo", "Panthera Leo", "PANTHERA LEO", "Genus capital, species small."),
- ("Two organisms are in the same family but different genera. They will certainly be in the same:", "order", "species", "genus", "none of these", "Higher ranks shared."),
+ ("Two organisms are in the same family but different genera. They will certainly be in the same:", "order", "species", "genus", "subspecies", "Higher ranks shared."),
  ("Organisms in the same class are certainly in the same:", "phylum", "order", "family", "genus", "Higher rank."),
  ("The bacteria-like organisms having cell walls without peptidoglycan live in extreme environments. They are:", "Archaea", "Eukarya", "Fungi", "Protista", "A separate domain."),
  ("A virus is not placed in any of the five kingdoms because it is:", "non-cellular", "unicellular", "multicellular", "a plant", "Acellular."),
@@ -303,7 +303,7 @@ hA = [[
  ]), MC([
  ("Two animals A and B are in the same order. Which statement is certainly true?", "They are in the same class and phylum", "They are in the same genus", "They are the same species", "They are in the same family", "Higher ranks shared."),
  ("The binomial name 'Canis lupus' and 'Canis familiaris' show that the two:", "belong to the same genus but different species", "belong to the same species", "belong to different genera", "belong to different families", "Same genus Canis."),
- ("The statement that the lion and the tiger belong to the same genus means that they share:", "the genus name Panthera", "the species name", "the common name", "no characteristics", "Panthera leo and Panthera tigris."),
+ ("The statement that the lion and the tiger belong to the same genus means that they share:", "the genus name Panthera", "the species name", "the common name", "the same habitat only", "Panthera leo and Panthera tigris."),
  ("Which of the following correctly lists the rank 'family' for humans?", "Hominidae", "Felidae", "Canidae", "Bovidae", "Hominidae."),
  ("Which group of organisms is the most diverse in the number of species?", "arthropods (insects)", "mammals", "birds", "reptiles", "Over a million species."),
  ("The group of plants with the largest number of species is:", "angiosperms", "gymnosperms", "pteridophytes", "bryophytes", "Flowering plants."),

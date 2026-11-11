@@ -63,24 +63,24 @@ Why should we not taste unknown chemicals to test whether they are acids or base
 Explain how red cabbage extract can be used as an indicator. ## Boil cabbage leaves and filter|1 ## Add to acid: turns red or pink|1 ## Add to base: turns green or blue|1
 State three uses of neutralisation in everyday life. ## Treating acidity|1 ## Treating ant stings|1 ## Treating soil|1
 Write the formulae of three acids and three bases. ## [[HCl]], [[H2SO4]], [[HNO3]]|1 ## [[NaOH]], [[KOH]]|1 ## [[Ca(OH)2]]|1
-Explain what olfactory indicators are with an example. ## Smell changes in acid or base|1 ## Onion, vanilla|1 ## Smell of onion is lost in base|1
-Differentiate between a strong and a dilute acid with an example. ## Strong acid is more concentrated|1 ## Dilute has more water|1 ## Vinegar is dilute acetic acid|1
+What is meant by a neutral solution? Give two examples and the effect on litmus. ## A neutral solution is neither acidic nor basic|1 ## Examples: water, sugar solution|1 ## Litmus papers show no change|1
+Differentiate between a concentrated and a dilute acid with an example. ## Concentrated acid has more acid in less water|1 ## Dilute acid has more water|1 ## Vinegar is dilute acetic acid|1
 Why does a tooth decay get worse with acid? ## Bacteria make acid from sugar|1 ## Acid damages enamel|1 ## Toothpaste is basic|1
-Why are acid rain and acid spills harmful? ## Damage monuments|1 ## Harm plants and animals|1 ## Can be neutralised with bases|1
-What would happen if we add a base to an acid solution drop by drop with litmus? ## Red litmus colour fades|1 ## At neutral point no change|1 ## More base turns it blue|1
-Write the effect of acids on metals like zinc and name the gas. ## Zinc reacts with acid|1 ## Hydrogen gas released|1 ## [[Zn + 2HCl -> ZnCl2 + H2]]|1
+Why is rinsing the mouth after eating sweets helpful? ## It removes sugar that bacteria turn into acid|1 ## It reduces the acid attack on the enamel|1 ## It helps to prevent tooth decay|1
+A few drops of litmus solution are added to dilute HCl and NaOH is added slowly. Describe the colour changes. ## The solution is red at first|1 ## It turns purple when neutral|1 ## It turns blue with excess base|1
+Write three safety rules for handling acids and bases in the laboratory. ## Never taste them|1 ## Wear gloves and goggles|1 ## Wash spills with plenty of water|1
 Describe the role of acids and bases in the digestion and the household cleaning. ## Stomach acid helps digestion|1 ## Bases like soap clean grease|1 ## Vinegar removes stains|1
 Give three examples of solutions that are neutral. ## Water|1 ## Sugar solution|1 ## Common salt solution|1
 """
 nD = """
 Describe an activity to classify given household substances as acidic, basic or neutral using litmus, turmeric and China rose. ## Collect lemon juice, vinegar, soap, baking soda, salt|1 ## Test with litmus papers|1 ## Test with turmeric|1 ## Test with China rose|1 ## Record in a table and classify|1
 Explain neutralisation with the example of an acid and a base. Write the equation and state two applications. ## Acid + base reaction|1 ## [[HCl + NaOH -> NaCl + H2O]]|1 ## Salt and water formed|1 ## Treating acidity|1 ## Treating acidic soil|1
-Write the properties of acids and bases in a comparison. ## Acids sour, bases bitter|1 ## Acids turn blue litmus red|1 ## Bases turn red litmus blue|1 ## Bases feel soapy|1 ## Acids react with metals|1
+Write the properties of acids and bases in a comparison. ## Acids sour, bases bitter|1 ## Acids turn blue litmus red|1 ## Bases turn red litmus blue|1 ## Bases feel soapy|1 ## Bases turn turmeric red|1
 Describe how ant sting, indigestion and soil acidity are treated using the principle of neutralisation. ## Ant sting: baking soda|1 ## Indigestion: antacid|1 ## Soil: lime|1 ## Base cancels acid|1 ## Relief or good crops|1
 Explain the natural indicators with their colour changes and how to prepare one from turmeric. ## Litmus|1 ## Turmeric paste on paper|1 ## Turns red with base|1 ## China rose pink in acid|1 ## Red cabbage changes colours|1
 Explain why we should not use laboratory acids and bases without supervision. State precautions. ## Corrosive burns|1 ## Wear gloves and goggles|1 ## Add acid to water slowly|1 ## Do not taste|1 ## Wash spills with plenty of water|1
 Explain acids found in food items and the natural source of each. ## Citric: lemon|1 ## Acetic: vinegar|1 ## Lactic: curd|1 ## Tartaric: tamarind|1 ## Ascorbic: amla|1
-Describe the effect of acid on carbonates and metals, with equations. ## [[Zn + 2HCl -> ZnCl2 + H2]]|1 ## Hydrogen is released|1 ## Carbonates give carbon dioxide|1 ## [[CaCO3 + 2HCl -> CaCl2 + H2O + CO2]]|1 ## Gas turns lime water milky|1
+Explain how a student can test whether a soil sample is acidic, basic or neutral. ## Mix the soil with water and filter|1 ## Test the filtrate with litmus papers|1 ## Blue litmus turns red: acidic soil|1 ## Red litmus turns blue: basic soil|1 ## No change: neutral soil|1
 Explain the importance of knowing the nature of soil for crops. ## Some crops need acidic soil|1 ## Some need basic soil|1 ## Test soil|1 ## Treat with lime or compost|1 ## Better yield|1
 Describe the steps in the experiment to show neutralisation using litmus. ## Take dilute HCl|1 ## Add litmus: red|1 ## Add NaOH drop by drop|1 ## Colour changes to purple|1 ## More base gives blue|1
 Describe the use of bases in daily life in five points. ## Soap|1 ## Antacids|1 ## Cleaning fluids|1 ## Whitewash|1 ## Fertilisers|1
@@ -90,7 +90,7 @@ Explain how indicators help to identify neutral substances. ## Neutral gives no 
 # ============================ EASY ============================
 eA = [mc("""
 Lemon juice tastes: ## sour ## bitter ## salty ## sweet ## Acid.
-Soap solution tastes (do not taste in lab): ## bitter ## sour ## sweet ## salty ## Bases are bitter.
+Soap solution feels: ## soapy ## sour ## gummy ## rough ## Bases are bitter.
 Vinegar is: ## acidic ## basic ## neutral ## salty ## Acetic acid.
 Baking soda is: ## basic ## acidic ## neutral ## sour ## Base.
 Common salt solution is: ## neutral ## acidic ## basic ## sour ## Neutral.
@@ -141,7 +141,7 @@ Name three acidic substances. ## Lemon|1 ## Vinegar|1 ## Curd|1
 Name three basic substances. ## Soap|1 ## Baking soda|1 ## Lime water|1
 Name three neutral substances. ## Water|1 ## Sugar solution|1 ## Salt solution|1
 Name three indicators. ## Litmus|1 ## Turmeric|1 ## China rose|1
-Write three properties of acids. ## Sour|1 ## Turn blue litmus red|1 ## React with metals|1
+Write three properties of acids. ## Sour in taste|1 ## Turn blue litmus red|1 ## Turn China rose dark pink|1
 Write three properties of bases. ## Bitter|1 ## Soapy|1 ## Turn red litmus blue|1
 Name three acids and their source. ## Citric: lemon|1 ## Lactic: curd|1 ## Acetic: vinegar|1
 Write three uses of bases. ## Soap|1 ## Antacid|1 ## Cleaning|1
@@ -173,13 +173,13 @@ Write about acids and bases in daily life in five points. ## Lemon in food|1 ## 
 
 # ============================ MEDIUM ============================
 mA = [mc("""
-A solution turns both red and blue litmus paper to red. The solution is: ## acidic ## basic ## neutral ## salty ## Acid turns blue litmus red and red remains red.
+A solution turns blue litmus paper red. The solution is: ## acidic ## basic ## neutral ## salty ## Acid turns blue litmus red and red remains red.
 A solution that turns red litmus blue and turmeric red is: ## basic ## acidic ## neutral ## sugary ## Typical of bases.
 A solution does not change the colour of litmus or turmeric. It is: ## neutral ## acidic ## basic ## salty only ## Neutral.
 A student finds that China rose turns green with a solution. The solution is likely: ## soap solution ## lemon juice ## vinegar ## curd ## Basic.
 A sample turns turmeric red and turns China rose green. It must be: ## basic ## acidic ## neutral ## salt ## Both indicate base.
 After adding NaOH to HCl until the litmus remains violet, the solution is: ## neutral ## acidic ## basic ## sour ## No colour shift.
-More NaOH is added to the neutral mixture above. Red litmus will turn: ## blue ## red ## stay red ## white ## Excess base.
+More NaOH is added to the neutral mixture above. Red litmus will turn: ## blue ## red ## green ## yellow ## Excess base.
 Which indicator changes from yellow to red in a base? ## turmeric ## litmus ## China rose ## red cabbage only ## Turmeric.
 Which gas is produced when baking soda reacts with an acid like vinegar? ## carbon dioxide ## oxygen ## hydrogen ## nitrogen ## Fizzing.
 Which of these pairs is an acid and a base? ## vinegar and baking soda ## lemon and curd ## soap and baking soda ## water and salt ## Opposite nature.
@@ -192,7 +192,7 @@ Which of the following is a neutralisation reaction? ## [[HCl + KOH -> KCl + H2O
 Which of the following is not produced in neutralisation? ## hydrogen gas ## water ## salt ## heat ## Gas is not a general product.
 Which of the following is the best way to treat a wasp sting (alkaline)? ## vinegar ## baking soda ## soap ## lime water ## A mild acid.
 A farmer finds that soil is acidic. He should add: ## slaked lime ## vinegar ## lemon juice ## citric acid ## Base.
-A farmer finds that soil is too basic. He may add: ## organic manure (acidic) ## lime ## washing soda ## baking soda ## Mildly acidic manure.
+A farmer finds that soil is too basic. He may add: ## organic manure or compost ## lime ## washing soda ## baking soda ## Mildly acidic manure.
 Factory waste is acidic. It is treated with: ## a base ## an acid ## common salt ## sugar ## Neutralisation.
 """), mc("""
 Why does vinegar taste sour? ## it contains acetic acid ## it contains sodium ## it contains sugar ## it contains salt ## Acid.
@@ -200,7 +200,7 @@ Why does baking soda taste bitter? ## it is a base ## it is acid ## it is a salt
 Why does curd become sour on keeping long? ## more lactic acid forms ## water evaporates ## sugar is added ## it becomes basic ## Acid increases.
 Why does a tooth paste contain a base? ## to neutralise mouth acids ## to make teeth sour ## to colour teeth ## to sweeten ## Prevents decay.
 Why is dilute acid used in labs, not concentrated? ## concentrated acid is dangerous ## dilute is expensive ## dilute is coloured ## dilute is basic ## Safety.
-Why is a few drops of acid added to water and not water into acid? ## heat produced can splash acid ## acid is lighter ## water is basic ## no reason ## Safety rule.
+Why is a few drops of acid added to water and not water into acid? ## heat produced can splash the acid ## acid is lighter than water ## water is basic ## the acid will evaporate ## Safety rule.
 An indicator tells us the nature of a solution by: ## colour change ## smell only ## its weight ## its volume ## Visible change.
 Which statement about neutralisation is correct? ## it gives salt and water ## it gives only water ## it needs no acid ## it needs two acids ## Acid + base.
 Which of these changes occurs when an acid is neutralised? ## it loses its acidic property ## it becomes more acidic ## it becomes solid ## it becomes gas ## Becomes neutral.
@@ -210,7 +210,7 @@ mB = """
 A solution turns red litmus blue. What does it contain? Give an example. ## A base ## Soap solution
 Why is vinegar, and not baking soda, applied on a sting that is alkaline in nature (such as that of a wasp)? ## Vinegar is an acid and neutralises the base ## Baking soda is also a base so it cannot neutralise it
 Explain why a mixture of vinegar and baking soda bubbles. ## Acid reacts with the base ## Carbon dioxide is released
-Why is the pickle not kept in metal vessels? ## Pickles contain acids ## Acid reacts with metals
+Why is dilute acid safer to handle than concentrated acid? ## It has more water ## Its effect on skin is weaker
 Write a neutralisation reaction of sulphuric acid with sodium hydroxide. ## [[H2SO4 + 2NaOH -> Na2SO4 + 2H2O]] ## Salt: sodium sulphate
 Name two ways in which a base is used to correct an acidic condition. ## Antacid for stomach ## Lime for acidic soil
 Why does the colour of China rose change from pink to green when soap is added? ## China rose shows base by turning green ## Soap is basic
@@ -225,14 +225,14 @@ A solution X turns red cabbage extract green and turmeric red. Another solution 
 Describe how to prepare a litmus-like indicator from beetroot or red cabbage and test with vinegar and soap. ## Boil pieces|1 ## Filter extract|1 ## Vinegar gives red, soap gives green|1
 Explain how neutralisation helps in curing acidity and in soil treatment. ## Antacid is a base|1 ## Lime is a base|1 ## Both reduce acidity|1
 Write the balanced equations for the reaction of [[HCl]] with [[KOH]] and [[H2SO4]] with [[KOH]]. ## [[HCl + KOH -> KCl + H2O]]|1 ## [[H2SO4 + 2KOH -> K2SO4 + 2H2O]]|1 ## Salt and water formed|1
-A student adds a base slowly to an acid in a beaker and records the temperature rise. Explain. ## Neutralisation gives heat|1 ## Temperature rises|1 ## Exothermic|1
+A student adds a base slowly to an acid in a beaker and records the temperature rise. Explain. ## Neutralisation gives out heat|1 ## Temperature rises|1 ## Heat is released|1
 What would happen if a student adds excess base to an acidic solution after neutralisation? ## The solution becomes basic|1 ## Red litmus turns blue|1 ## It is no longer neutral|1
 Why are some stomach pills chewed and others dissolved? ## Both contain bases|1 ## Neutralise stomach acid|1 ## Rate of action differs|1
-Explain why a solution of copper sulphate cannot be stored in an iron vessel but acidic pickles also react with metals. ## Metals react with acids|1 ## Make the food unsafe|1 ## Use glass or ceramic|1
+Why should antacid tablets not be taken in large amounts without a doctor's advice? ## Too much base can upset the stomach|1 ## Stomach acid is needed for digestion|1 ## A doctor's advice is safer|1
 Differentiate between a neutral and an acidic solution using indicators. ## Neutral: no colour change|1 ## Acidic: blue litmus red|1 ## China rose pink in acid|1
-Explain the use of litmus in determining the nature of rainwater. ## Dip litmus paper|1 ## Normal rain is slightly acidic|1 ## Acid rain is more acidic|1
+Explain how you will test a sample of rainwater and a sample of tap water with litmus. ## Dip blue and red litmus in each|1 ## Compare the colour changes|1 ## No change means neutral|1
 Why do we use lemon juice or vinegar to clean brass? ## Acid dissolves tarnish|1 ## Makes surface shiny|1 ## Citric acid reacts|1
-Write three examples of reactions of acids with metals or carbonates. ## [[Zn + 2HCl -> ZnCl2 + H2]]|1 ## [[CaCO3 + 2HCl -> CaCl2 + H2O + CO2]]|1 ## Gases released|1
+Write word equations for nitric acid with potassium hydroxide and hydrochloric acid with calcium hydroxide. ## Nitric acid + potassium hydroxide gives potassium nitrate + water|1 ## Hydrochloric acid + calcium hydroxide gives calcium chloride + water|1 ## Each reaction gives a salt and water|1
 Why should chemicals in the lab be labelled? ## Avoid confusion|1 ## Safety|1 ## Correct use|1
 Give three examples of acids and bases used in cooking. ## Vinegar|1 ## Lemon|1 ## Baking soda|1
 How would you identify an unknown colourless solution as acidic, basic or neutral without tasting? ## Use litmus or turmeric|1 ## Observe the colour change|1 ## Interpret|1
@@ -241,11 +241,11 @@ Explain the term 'salt' with an example. ## Compound formed from acid and base|1
 Why is toothpaste basic in nature? ## To neutralise acids made by bacteria|1 ## Protects teeth|1 ## Prevents decay|1
 """
 mD = """
-You are given five unlabelled liquids: vinegar, lime water, sugar solution, lemon juice and soap solution. Design a test to identify each. ## Test with blue and red litmus|1 ## Two turn blue litmus red: vinegar, lemon|1 ## Two turn red litmus blue: lime water, soap|1 ## Sugar: no change|1 ## Use taste or smell safe methods|1
+You are given five unlabelled liquids: vinegar, lime water, sugar solution, lemon juice and soap solution. Design a test to identify each. ## Test with blue and red litmus|1 ## Two turn blue litmus red: vinegar, lemon|1 ## Two turn red litmus blue: lime water, soap|1 ## Sugar: no change|1 ## Do not taste the liquids|1
 Describe the full activity of neutralisation of hydrochloric acid with sodium hydroxide using litmus, with equation. ## Add litmus to acid: red|1 ## Add base drop by drop|1 ## Colour turns violet|1 ## [[HCl + NaOH -> NaCl + H2O]]|1 ## Evaporate to get salt|1
 Explain how acids and bases are used in industries and at home, giving three examples each. ## Acids: batteries, fertilisers|1 ## Acids: cleaning|1 ## Bases: soap making|1 ## Bases: antacids|1 ## Bases: whitewash|1
-Describe how the pH-like behaviour is shown by red cabbage juice and make a colour chart for common substances. ## Acids: red or pink|1 ## Neutral: purple|1 ## Bases: green or blue|1 ## Test lemon, water, soap|1 ## Record|1
-Discuss with examples how neutralisation reactions help in solving problems of acid rain, acidic soil, indigestion and insect bites. ## Acid rain: lime in lakes|1 ## Soil: slaked lime|1 ## Indigestion: antacid|1 ## Ant bite: baking soda|1 ## Principle: base cancels acid|1
+Describe how the colour changes of red cabbage juice show the nature of a solution and make a colour chart for common substances. ## Acids: red or pink|1 ## Neutral: purple|1 ## Bases: green or blue|1 ## Test lemon, water, soap|1 ## Record|1
+Discuss with examples how neutralisation reactions help in solving problems of factory waste, acidic soil, indigestion and insect bites. ## Factory waste: add a base|1 ## Soil: slaked lime|1 ## Indigestion: antacid|1 ## Ant bite: baking soda|1 ## Principle: base cancels acid|1
 Explain why acid should be handled carefully, with the safe way of preparing a dilute acid solution. ## Corrosive|1 ## Use goggles and gloves|1 ## Add acid slowly to water|1 ## Stir|1 ## Never add water to acid|1
 A student mixes 10 mL of vinegar with baking soda. Describe the observation and explain the reaction in words. ## Fizzing|1 ## Gas released|1 ## Carbon dioxide|1 ## Acid + base reaction|1 ## Lime water turns milky with the gas|1
 Explain the effect of indicators on a series of substances and conclude on a rule for acids and bases. ## Acids: blue litmus red|1 ## Bases: red litmus blue|1 ## Neutral: no change|1 ## Turmeric red in base|1 ## China rose pink in acid|1
@@ -258,7 +258,7 @@ Compare the physical properties of acids and bases (taste, touch, effect on indi
 # ============================ HARD ============================
 hA = [mc("""
 A student finds that a colourless liquid turns blue litmus red and does not affect red litmus. It also fizzes with baking soda. The liquid is: ## an acid ## a base ## neutral ## a salt ## Acid.
-A liquid turns turmeric red and then loses its red colour when the liquid Y is added to it, becoming yellow again. Liquid Y is: ## an acid ## a base ## water ## sugar ## An acid neutralises the base.
+A liquid turns turmeric red. When liquid Y is added, the colour changes back to yellow. Liquid Y is: ## an acid ## a base ## water ## sugar ## An acid neutralises the base.
 Liquid A turns China rose pink, liquid B green. If A and B are mixed in equal strengths, the mixture most probably: ## turns almost neutral ## becomes more acidic ## becomes more basic ## turns blue ## They neutralise.
 A student adds drops of base to acid and notes the litmus. The sequence of colours is: ## red, purple, blue ## blue, purple, red ## red, green, blue ## blue, yellow, red ## Acid to base.
 Which of the following reaction shows a salt being formed? ## [[HCl + NaOH -> NaCl + H2O]] ## [[2H2 + O2 -> 2H2O]] ## [[C + O2 -> CO2]] ## [[2Mg + O2 -> 2MgO]] ## Neutralisation.
@@ -272,7 +272,7 @@ In an experiment, 20 mL of a base is neutralised by 20 mL of a certain acid of t
 In a neutralisation, if 15 mL of acid is needed for 25 mL of a base, then for 50 mL of the base it will be: ## 30 mL ## 15 mL ## 25 mL ## 60 mL ## Doubling.
 A farmer needs 200 kg of lime for 1 hectare of acidic soil. For 2.5 hectares, the lime needed is: ## 500 kg ## 400 kg ## 250 kg ## 800 kg ## 200 x 2.5.
 A student mixes equal volumes of acid and base. The mixture still turns blue litmus red. This suggests: ## the acid was stronger or more concentrated ## the base was stronger ## the mixture is neutral ## no reaction ## Excess acid.
-A pH-like indicator turns green in a solution. A drop of unknown liquid Z turns it red. Z is: ## acidic ## basic ## neutral ## salt ## Red is acid.
+An indicator is green in a solution. A drop of unknown liquid Z turns it red. Z is: ## acidic ## basic ## neutral ## salt ## Red is acid.
 Which of these will not show a colour change in turmeric? ## sugar solution ## soap solution ## lime water ## washing soda ## Neutral.
 Which of the following may be used as an antacid? ## magnesium hydroxide ## hydrochloric acid ## sulphuric acid ## vinegar ## Base.
 Which is not a use of neutralisation? ## making an acid stronger ## curing indigestion ## treating soil ## treating insect bites ## Opposite use.
@@ -280,7 +280,7 @@ The product of the reaction between vinegar and baking soda that makes lime wate
 Which test confirms that a gas evolved is carbon dioxide? ## turns lime water milky ## burns with a pop ## relights splinter ## turns litmus ## Standard test.
 """), mc("""
 A rainwater sample turns blue litmus red. The rain may be: ## acidic ## basic ## neutral ## salty ## Acid rain.
-Statues made of marble are damaged by acid rain because marble contains: ## calcium carbonate ## sodium chloride ## iron ## copper ## Carbonates react with acids.
+Which statement about milk of magnesia is correct? ## it is a base used to relieve acidity ## it is an acid used to relieve acidity ## it is a neutral salt used as a drink ## it is an indicator ## Carbonates react with acids.
 A tablet that fizzes in water is likely to contain: ## a carbonate and an acid ## only sugar ## only salt ## only a base ## CO2 is released.
 A cook adds a pinch of baking soda to lemon-flavoured drink and it fizzes. This shows: ## acid-carbonate reaction ## sugar reaction ## salt reaction ## no reaction ## CO2.
 Which one of the following is both acidic in taste and used as a food preservative? ## vinegar ## baking soda ## lime water ## soap ## Acetic acid.
@@ -293,21 +293,21 @@ Which statement about neutralisation is correct? ## the mixture can become warm 
 hB = """
 When a few drops of lemon are added to a basic solution containing turmeric (red), the colour becomes yellow. Explain. ## Lemon juice is acidic ## It neutralises the base so turmeric turns back to yellow
 Why does the stomach not get damaged by its own hydrochloric acid? ## A mucus layer protects it ## The acid is dilute
-Explain why pickles should not be stored in iron containers. ## Acids in pickles react with iron ## Food may become unsafe
+Why is a concentrated acid kept in a bottle with a clear label and a tight cap? ## To avoid accidents and spills ## So that nobody uses it by mistake
 Name the products when sulphuric acid reacts with calcium hydroxide and write the equation. ## [[H2SO4 + Ca(OH)2 -> CaSO4 + 2H2O]] ## Calcium sulphate and water
 How can you distinguish between two colourless liquids, one acid and one base, with a single indicator? ## Use litmus or turmeric ## Different colours appear
-Why does rubbing of baking soda paste help remove tarnish from silverware? ## It is a mild base and abrasive ## Reacts with acidic deposits
-Why do aquatic animals die when acid rain falls in a lake? ## Water becomes acidic ## Harms their body
+Why is soap solution slippery to touch? ## It is basic ## Bases feel soapy
+Why must acidic waste from factories not be released into rivers? ## It makes the water acidic ## Fish and plants cannot survive in it
 Why is lime sprinkled on soil that has become acidic? ## Lime is basic ## Reduces acidity
-Explain why a neutral solution does not change the colour of litmus. ## Neither acid nor base ## No H or OH excess
+Explain why a neutral solution does not change the colour of litmus. ## Neither acid nor base ## The effects of acid and base cancel out
 What could be used to neutralise a spilled acid in the lab safely? ## Sodium hydrogencarbonate (baking soda) ## Mild base
 Why do detergents in washing have a basic nature? ## Bases dissolve grease ## Soapy
 Explain why acidity of curd increases in summer. ## Bacteria multiply faster ## More lactic acid forms
 """
 hC = """
 Student X finds that 10 mL of acid is neutralised by 20 mL of base. How much acid neutralises 60 mL of base of the same strength? ## Ratio 10:20|1 ## 60 is three times|1 ## 30 mL acid|1
-A soil test shows it is acidic. List three ways to treat it and explain. ## Add slaked lime|1 ## Add wood ash|1 ## Add organic manure|1
-Explain with equations how baking soda reacts with an acid in a cake batter to make it rise. ## Baking soda is a base|1 ## Reacts with acid|1 ## Releases carbon dioxide|1
+A soil test shows it is acidic. List three ways to treat it and explain. ## Add slaked lime|1 ## Add wood ash|1 ## Add powdered limestone|1
+Explain how baking soda in a cake batter makes the cake rise. ## Baking soda is a base|1 ## Reacts with acid|1 ## Releases carbon dioxide|1
 A person's teeth show decay. How are acids involved and what preventive steps are advised? ## Bacteria make acid from sugar|1 ## Acid dissolves enamel|1 ## Brush with basic paste|1
 Why does vinegar clean the chalky deposit in a kettle? ## Deposit is carbonate|1 ## Acid reacts with it|1 ## Gas is released|1
 How would you prove that a salt solution is neutral? ## Litmus unchanged|1 ## Turmeric unchanged|1 ## Compare with water|1
@@ -316,7 +316,7 @@ Explain why a student's mixture of acid and base became warm. ## Neutralisation 
 A factory discharges waste that turns blue litmus red. Suggest a treatment method. ## Add lime or another base|1 ## Test until neutral|1 ## Then release|1
 Explain how a baking soda solution can help stop the pain of an ant bite and how to check if the area is neutral. ## Neutralises formic acid|1 ## Use litmus|1 ## No colour change|1
 Why do we say that water is neutral? ## It does not change litmus|1 ## It is neither acid nor base|1 ## Pure water is neutral|1
-Describe the reaction of an acid with a metal and write one example. ## Metal reacts with acid|1 ## Hydrogen is produced|1 ## [[Mg + 2HCl -> MgCl2 + H2]]|1
+Why should we wear gloves while using floor cleaners that contain strong bases? ## Strong bases are corrosive|1 ## They can burn the skin|1 ## Gloves protect the hands|1
 Write the neutralisation equation for the formation of potassium sulphate. ## [[H2SO4 + 2KOH -> K2SO4 + 2H2O]]|1 ## Acid and base|1 ## Salt and water|1
 Explain how red cabbage juice could be used to compare the strength of lemon and vinegar. ## Add equal juice|1 ## Compare the red colour depth|1 ## More intense means more acidic|1
 Identify the odd one: vinegar, lemon, baking soda, curd. Give a reason. ## Baking soda|1 ## It is a base|1 ## Others acidic|1
@@ -330,7 +330,7 @@ Explain, with the help of examples, how the ideas of acids, bases and neutralisa
 You have vinegar, baking soda, lemon juice, soap solution and a few indicators. Plan a project to prepare a chart of indicators with colours and discuss limitations. ## Prepare indicator solutions|1 ## Test each substance|1 ## Record colours|1 ## Limitations: colour not exact|1 ## Safe handling|1
 A test for acid rain is planned for your town. Describe steps, tools and conclusions. ## Collect rain in clean glass|1 ## Test with litmus|1 ## Compare with distilled water|1 ## Repeat in several places|1 ## Conclude and report|1
 Write the full account of reaction of hydrochloric acid with sodium hydroxide, including indicator changes, observations, equation, and safety. ## Add litmus to acid: red|1 ## Add base slowly|1 ## At neutral violet|1 ## [[HCl + NaOH -> NaCl + H2O]]|1 ## Goggles and gloves|1
-Explain why neutralisation reactions release heat, and give applications where this is used or must be controlled. ## Chemical bonds change|1 ## Heat released|1 ## Controlled by slow addition|1 ## Used in some heating packs|1 ## Danger if strong acid and base mix|1
+Explain why neutralisation reactions release heat, and give applications where this is used or must be controlled. ## Chemical bonds change|1 ## Heat released|1 ## Controlled by slow addition|1 ## Strong acid and base must be mixed with care|1 ## Danger if strong acid and base mix|1
 Explain the significance of soil acidity and the role of crops, lime, and organic manure in correcting it. ## Some crops prefer acidic soil|1 ## Others basic|1 ## Lime reduces acidity|1 ## Manure improves soil|1 ## Test regularly|1
 Evaluate whether natural indicators or lab indicators are better for use at school. ## Natural indicators are safe|1 ## Cheap|1 ## Less precise|1 ## Lab indicators precise|1 ## Choice by need|1
 Explain the working of a simple baking powder recipe and the acid-base reaction. ## Contains baking soda and an acid|1 ## Mixed with water|1 ## Carbon dioxide formed|1 ## Dough rises|1 ## Neutral products|1

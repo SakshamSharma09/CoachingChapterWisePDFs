@@ -32,7 +32,7 @@ nA = [
  m("The story is set in:", "a rural farming valley|a big city|a seaside town|a forest", "A farmer's house in a valley."),
  m("The postmaster's act of kindness shows that he was:", "compassionate|greedy|proud|careless", "He helped even at personal cost."),
  m("The tone of the ending is best described as:", "ironic|joyful|angry|mournful", "Lencho's ingratitude towards his helpers is ironic."),
- m("Which figure of speech is 'rain falling like new coins'?", "simile|metaphor|personification|hyperbole", "A comparison using 'like'."),
+ m("Lencho says, 'These drops falling are new coins.' Which figure of speech is this?", "metaphor|simile|personification|hyperbole", "The drops are directly called coins, with no 'like' or 'as'."),
  m("The author of 'A Letter to God' is:", "Gregorio Lopez y Fuentes|R. K. Narayan|Ruskin Bond|Anne Frank", "A Mexican writer."),
 ]
 nB = [
@@ -98,7 +98,7 @@ eA = [
  m("The amount Lencho asked for was:", "100 pesos|50 pesos|10 pesos|1000 pesos", "One hundred pesos."),
  m("Lencho posted the letter after putting on it a:", "stamp|photograph|ribbon|seal of wax", "He stuck a stamp and dropped it in the mail."),
  m("The post office employee who read the letter was the:", "postmaster|bishop|mayor|doctor", "He was amiable and fat."),
- m("The postmaster felt:", "touched by Lencho's faith|angry|bored|afraid", "He laughed first, then became serious."),
+ m("The postmaster felt:", "touched by Lencho's faith|angry|amused|afraid", "He laughed first, then became serious."),
  m("Who wrote the reply to Lencho?", "the postmaster|a priest|his son|the mayor", "He signed it 'God'."),
  m("The postmaster signed the letter as:", "God|Postmaster|Friend|Lencho", "To keep Lencho's faith."),
  m("The money in the envelope was:", "seventy pesos|one hundred pesos|nothing|fifty pesos", "Less than asked."),
@@ -114,7 +114,7 @@ eA = [
  m("Choose the correct preposition: He looked ___ the sky.", "at|on|in|to", "Look at."),
  m("Pick the noun: 'The hail was heavy.'", "hail|was|heavy|the", "Hail names a thing."),
  m("Pick the adjective in: 'He was a faithful man.'", "faithful|was|man|a", "It describes the man."),
- m("The story takes place in:", "a rural area|a city|a ship|space", "Farm and village."),
+ m("The story takes place in:", "a rural area|a city|a seaside town|space", "Farm and village."),
  m("The author's country is:", "Mexico|India|Britain|France", "Gregorio Lopez y Fuentes was Mexican."),
 ]
 eB = [
@@ -168,11 +168,11 @@ eD = [
 
 # ---------------- Medium ----------------
 mA = [
- m("Lencho thought the first raindrops looked like coins. This suggests that he saw rain as:", "a source of future income|a danger|a nuisance|a decoration", "Rain meant a good harvest and money."),
+ m("Lencho thought the first raindrops looked like coins. This suggests that he saw rain as:", "a source of future income|a danger to the crop|a nuisance for travellers|a sign of a coming storm", "Rain meant a good harvest and money."),
  m("The hail stripped the leaves and the flowers of the corn. This detail mainly shows the:", "completeness of the destruction|beauty of the field|speed of the wind|size of the farm", "Even flowers were gone."),
  m("Why did Lencho turn to God and not to anyone nearby for help?", "his faith was in God above all|he had no relatives|the village had no people|he disliked everyone", "Faith was his first refuge."),
  m("Lencho wrote 'To God' on the envelope. What does this tell us about his character?", "He is simple and sincerely trusting|He is a trickster|He is lazy|He is a poet", "Honest innocence."),
- m("The postmaster 'laughed' and then became 'serious'. This change shows that he:", "understood the depth of Lencho's faith|disliked the letter|was bored|was unwell", "The sentiment moved him."),
+ m("The postmaster 'laughed' and then became 'serious'. This change shows that he:", "understood the depth of Lencho's faith|disliked the letter|felt guilty|was unwell", "The sentiment moved him."),
  m("Which fact shows the postmaster's determination to help?", "He was ready to use part of his salary|He wrote it in a hurry|He locked the letter|He ignored Lencho", "Personal sacrifice."),
  m("Why did the postmaster sign the letter as 'God'?", "To keep Lencho's belief intact|To amuse himself|To avoid blame|To please his boss", "A harmless untruth for a good cause."),
  m("Lencho expected the full amount because he thought:", "God could not make a mistake|The postmaster owed him|The clerks were honest|He had paid in advance", "Faith made him sure."),
@@ -183,7 +183,7 @@ mA = [
  m("The phrase 'a bunch of crooks' reflects Lencho's:", "ingratitude|humour|wisdom|politeness", "He blames helpers."),
  m("What do the postmaster's actions suggest about human nature?", "People can show kindness even to strangers|People are selfish|People cannot be trusted|People ignore faith", "He helped a stranger."),
  m("Which action shows that Lencho's hope was shaken but not broken?", "He decided to write to God for help|He sold his land|He left the valley|He stopped farming", "Hope lived through the letter."),
- m("The hailstorm represents:", "an unexpected disaster|a festival|a gift|a punishment by neighbours", "Nature's cruelty."),
+ m("The hailstorm represents:", "an unexpected disaster|a long-awaited blessing|a planned event|a minor inconvenience", "Nature's cruelty."),
  m("Choose the correct passive: 'The postmaster collected money.'", "Money was collected by the postmaster.|Money is collected by the postmaster.|Money has collected the postmaster.|The money collected the postmaster.", "Past simple passive: was + V3."),
  m("Choose the correct tense: 'By the time Lencho reached the post office, the postmaster ___ the letter.'", "had read|has read|reads|will read", "Past perfect for the earlier action."),
  m("In 'Because the hail destroyed the corn, Lencho wrote a letter', the part 'Because the hail destroyed the corn' is a:", "subordinate clause|main clause|phrase|sentence fragment only", "'Because' begins a dependent clause."),
@@ -256,7 +256,7 @@ hA = [
  m("If Lencho had discovered the truth, which outcome is most likely?", "His faith might be hurt, though he would also realise human kindness|He would stop farming|He would become rich|Nothing at all", "Inference."),
  m("The author leaves Lencho ignorant of the real helper because he:", "wants readers to reflect on the irony|forgot the ending|is in a hurry|dislikes Lencho", "Open irony."),
  m("What does the postmaster's conduct suggest about institutions like the post office?", "They can be vehicles for human kindness|They are cold|They are corrupt|They are useless", "Personal compassion within an institution."),
- m("Which motif connects the opening and the closing of the story?", "letters and money|rivers|animals|festivals", "From hopeful letter to angry one."),
+ m("Which motif connects the opening and the closing of the story?", "letters and money|rivers and mountains|animals and birds|songs and prayers", "From hopeful letter to angry one."),
  m("Which sentence best expresses the theme?", "Faith and goodness exist side by side with misunderstanding|Money is evil|Farmers are lazy|Weather is predictable", "Theme summary."),
  m("Lencho's accusation that the clerks are crooks is a hasty generalisation because:", "he blames the staff without evidence|he knows them well|he saw them steal|they confessed", "Faulty reasoning."),
  m("Which detail would weaken the claim that Lencho is purely naive?", "He sensibly requested an exact sum for a definite need|He addressed God|He wrote a letter|He believed in help", "Practical planning."),
@@ -275,11 +275,11 @@ hA = [
  m("'A pang of compassion' means:", "a sudden sharp feeling of sympathy|a loud noise|a financial loss|a physical illness", "Pang = a sudden sharp feeling."),
  m("The postmaster's discomfort at sending less money suggests that he felt:", "inadequate|proud|guilty of theft|tired", "He wanted to help fully."),
  m("Lencho's belief that God cannot err is his:", "assumption|proof|fact|joke", "Not supported by evidence."),
- m("Which would be the best title for a critical essay on this story?", "Faith, Irony and Human Kindness|A Day at the Market|Journey to the Hills|The Sea and the Sailor", "Fits all themes."),
+ m("Which would be the best title for a critical essay on this story?", "Faith, Irony and Human Kindness|Trust and Doubt in a Village|The Farmer Who Lost a Harvest|A Letter That Never Came", "Fits all themes."),
  m("Which technique gives readers more knowledge than Lencho has?", "dramatic irony|flashback|soliloquy|first-person narration", "We know the postmaster's role; Lencho does not."),
  m("What does the author achieve by keeping the village unnamed?", "universality of the farmer's plight|confusion|speed|local colour", "It could be any rural place."),
  m("Which is the best justification for calling Lencho 'a tragic-comic figure'?", "His misfortune is sad while his ingratitude is comic|He is a king|He is a warrior|He wins everything", "Tone."),
- m("If the postmaster had refused to help, the theme would most likely shift to:", "indifference replacing compassion|more hope|sports|no change", "Counterfactual."),
+ m("If the postmaster had refused to help, the theme would most likely shift to:", "indifference replacing compassion|greater hope|greater wealth|no change", "Counterfactual."),
 ]
 hB = [
  b("How does the opening paragraph prepare readers for the disaster?", "It stresses the ripe corn and Lencho's hope for rain (1) so that the loss feels larger by contrast (1)."),

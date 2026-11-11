@@ -212,7 +212,7 @@ mA = [MC([
  ("The threshold of hearing is about:", "0 dB", "60 dB", "120 dB", "200 dB", "Faintest."),
  ("Sound levels above 120 dB can cause:", "pain and hearing damage", "no effect", "better hearing", "pleasant feeling", "Dangerous."),
  ("Ultrasonic waves are used for cleaning because:", "their high frequency vibrations dislodge dirt", "they heat the object", "they are loud", "they have long wavelengths", "Vibration."),
- ("The unit of the intensity of sound is:", "watt per square metre", "joule", "newton", "hertz", "W/m squared."),
+ ("The SI unit of the time period of a wave is:", "second", "hertz", "metre", "decibel", "T is measured in seconds."),
  ("The structure that converts sound vibrations into electrical signals in the ear is the:", "cochlea", "eardrum", "pinna", "ossicle", "Inner ear."),
  ("The eardrum vibrates because:", "sound waves hit it", "light hits it", "heat", "pressure only", "Sound pressure variations."),
  ("A deaf person can feel the music by:", "vibrations through the floor", "light", "smell", "touch of air only", "Vibrations in solids."),
@@ -310,7 +310,7 @@ hA = [[
  ("A source produces a sound of wavelength 0.34 m in air. Its frequency (v = 340 m/s) is:", "1000 Hz", "0.001 Hz", "115.6 Hz", "340 Hz", "v/lambda."),
  ("The echo of a gunshot is heard 0.6 s after the shot from a hill. The hill is at (v = 340 m/s):", "102 m", "204 m", "34 m", "340 m", "340 x 0.6/2."),
  ("Which of the following sounds is the loudest in intensity level?", "jet engine at 120 dB", "conversation at 60 dB", "whisper at 20 dB", "rustling leaves at 10 dB", "Highest dB."),
- ("The same sound is received 0.5 s earlier through a steel rod than through air over a distance of 170 m. The time in air is 0.5 s; the time in steel is (v steel = 5000 m/s):", "0.034 s", "0.34 s", "0.5 s", "0.0034 s", "170/5000."),
+ ("A sound travels 170 m along a steel rod (v = 5000 m/s). The time taken is:", "0.034 s", "0.34 s", "0.5 s", "0.0034 s", "t = 170/5000."),
  ])]
 hB = [
  Z("A boy standing 85 m in front of a hill claps and hears the echo after 0.5 s. Find the speed of sound.", "Distance = 170 m|1", "v = 170/0.5 = 340 m/s|1"),

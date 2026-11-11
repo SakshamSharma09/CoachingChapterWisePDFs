@@ -15,7 +15,7 @@ N1 = MC([
 "Restoration means | bringing back to the original healthy state | creating completely new things | destroying old forests | storing water | It repairs damage",
 "A mature tree gives about how many litres of oxygen a day? | 275 | 35 | 2750 | 27 | Textbook figure; humans need about 350 litres",
 "Ecosystem services are | benefits that humans get from ecosystem functions | the ways Nature works inside | man-made services | tax services | e.g. clean water, pollination",
-"A forest filtering rain water is an example of an | ecosystem function | ecosystem service only | industry | resource curse | It is how Nature works; the clean water is the service",
+"The clean drinking water that people get from a forest catchment is an ecosystem | service | function | resource curse | restoration | Benefit to humans",
 "Natural resources are distributed | unevenly across the Earth | equally everywhere | only in India | only in cities | Hence trade and sometimes conflict",
 "The Kaveri river water is shared by Karnataka, Tamil Nadu, Kerala and | Puducherry | Goa | Assam | Bihar | Four riparian states or UTs",
 "The 'natural resource curse' refers to | slow growth in some resource-rich regions | too many trees | free resources | resource laws | Resource wealth does not always bring development",

@@ -215,7 +215,7 @@ Give two examples where metal oxides are used as bases. ## Magnesium hydroxide a
 Why does a copper vessel get a green coating over time? ## Reacts with moist air ## Forms basic copper carbonate
 Which has higher reactivity: iron or copper? How do you know? ## Iron ## It displaces copper from copper sulphate
 Write the equation for the reaction of sulphur with oxygen and name the product. ## [[S + O2 -> SO2]] ## Sulphur dioxide
-Why do we store phosphorus under water? ## It catches fire in air ## Water prevents contact
+Why is iron used for making bridges and not sodium? ## Iron is strong and hard ## Sodium is soft and very reactive
 Why is iodine called an exceptional non-metal? ## It is lustrous ## Most non-metals are dull
 Why are lightning conductors made of metal? ## Metals conduct electricity ## They carry the charge to the ground
 Write the reaction of carbon with oxygen. ## [[C + O2 -> CO2]] ## Carbon dioxide formed
@@ -235,7 +235,7 @@ Why are cooking utensils of copper often coated with tin? ## Copper reacts with 
 Why does a lighted candle placed in a jar with carbon dioxide go off? ## CO2 does not support burning|1 ## Oxygen is limited|1 ## Used in fire extinguishers|1
 How do metals help in conduction of heat in cooking? ## Heat spreads|1 ## Food cooks quickly|1 ## Handles remain cool|1
 Why are chemical formulae written as [[MgO]] and [[SO2]]? Write the names. ## [[MgO]]: magnesium oxide|1 ## [[SO2]]: sulphur dioxide|1 ## Formulae show atoms|1
-What happens when acid is added to marble (a carbonate)? Name the gas. ## Bubbles|1 ## Carbon dioxide|1 ## Turns lime water milky|1
+Why can a sulphur rod not be used as a wire? ## Sulphur is a poor conductor|1 ## It is brittle and breaks when bent|1 ## Copper is ductile and conducts well|1
 Why is hydrogen not formed when acid is added to copper? ## Copper does not react|1 ## It is less reactive than hydrogen|1 ## No bubbles|1
 Write two differences between metals and non-metals regarding oxides. ## Metal oxides basic|1 ## Non-metal oxides acidic|1 ## Litmus test|1
 Why are metals recycled? ## Save ores|1 ## Save energy|1 ## Reduce waste|1
@@ -269,21 +269,21 @@ A shiny black solid conducts electricity, is soft and is used as a pencil lead. 
 Why does the green coating of copper form while aluminium forms a thin white layer? ## different reactions with air ## copper is a gas ## aluminium is liquid ## coating is paint ## Different products.
 """), mc("""
 Which of these metals will give a vigorous reaction with dilute HCl? ## magnesium ## copper ## silver ## gold ## Magnesium is highly reactive.
-In [[Fe + CuSO4 -> FeSO4 + Cu]], the reducing agent (the metal that displaces) is: ## Fe ## Cu ## [[CuSO4]] ## [[FeSO4]] ## Iron.
+In [[Fe + CuSO4 -> FeSO4 + Cu]], the metal that displaces copper is: ## Fe ## Cu ## [[CuSO4]] ## [[FeSO4]] ## Iron.
 In the reaction above, the colour of the solution changes from: ## blue to green ## green to blue ## colourless to blue ## blue to colourless ## [[CuSO4]] is blue.
 The mass of the iron nail after being kept in copper sulphate solution for long: ## increases ## decreases ## stays same ## becomes zero ## Copper heavier.
 In [[Zn + CuSO4 -> ZnSO4 + Cu]] the solid left on zinc is: ## copper ## zinc oxide ## zinc sulphate ## carbon ## Brown.
 Which solution will not react with iron? ## [[ZnSO4]] ## [[CuSO4]] ## [[AgNO3]] ## [[HCl]] ## Iron is less reactive than zinc.
-The reaction [[Mg + 2HCl -> MgCl2 + H2]] gives a ___ compound with hydrogen gas. ## salt ## oxide ## base ## acid ## Magnesium chloride.
+The reaction [[Mg + 2HCl -> MgCl2 + H2]] gives hydrogen gas and a ___. ## salt ## metal oxide ## base ## acid ## Magnesium chloride.
 Which one produces a basic solution when dissolved in water? ## calcium oxide ## sulphur dioxide ## carbon dioxide ## nitrogen dioxide ## [[CaO + H2O -> Ca(OH)2]].
-Which of the following produces acidic rain? ## sulphur dioxide ## calcium oxide ## magnesium oxide ## sodium oxide ## Non-metal oxide.
-Which of these is formed when iron rusts in moist air? ## hydrated iron(III) oxide ## iron chloride ## iron sulphide ## iron carbonate only ## Rust.
+Which oxide gives an acidic solution with water? ## sulphur dioxide ## calcium oxide ## magnesium oxide ## sodium oxide ## Non-metal oxide.
+Rust formed on iron in moist air is mainly: ## an oxide of iron ## iron chloride ## iron sulphide ## iron carbonate ## Rust.
 """), mc("""
-Why is it advised not to store pickles in aluminium or iron vessels? ## acids react with the metal ## pickles are metals ## pickles are bases ## pickles are neutral ## Acid reacts.
+Which metal is used to coat iron sheets to protect them from rusting? ## zinc ## sulphur ## coal ## wax ## Acid reacts.
 Which of these metals is most suitable for making a very hot cooking pan? ## copper ## wood ## sulphur ## lead ## Good conductor.
 A student has four metals P, Q, R, S. P and Q react with dilute HCl, R and S do not. Q reacts faster than P. The most reactive is: ## Q ## P ## R ## S ## Reacts fastest.
 In the situation above, R and S are ___ than hydrogen. ## less reactive ## more reactive ## equal ## unreactive gases ## They do not displace hydrogen.
-An iron nail dipped in a solution X becomes coated and the solution loses its colour. X is likely: ## copper sulphate ## sodium chloride ## zinc sulphate ## sugar ## Copper ions replaced.
+An iron nail dipped in a solution X becomes coated with a reddish-brown deposit and the blue colour fades. X is likely: ## copper sulphate ## sodium chloride ## zinc sulphate ## sugar ## Copper ions replaced.
 Which one is not a use of non-metals? ## making electric wires ## fertilisers ## breathing ## fuels ## Wires are of metals.
 Which statement is correct about carbon dioxide? ## it does not support burning ## it supports burning ## it burns ## it is a base ## It is used in fire extinguishers.
 A basic oxide reacts with acid to form: ## salt and water ## salt and hydrogen ## acid and water ## gas and metal ## Neutralisation.
@@ -298,7 +298,7 @@ How can you show that the oxide of magnesium is basic using turmeric? ## Add the
 Why do non-metallic oxides cause acid rain? ## They dissolve in rain to form acids ## Such as [[SO2]] giving sulphurous acid
 Why is the bulb filament made of tungsten, a metal, and not of sulphur? ## Tungsten conducts and has high melting point ## Sulphur is an insulator and melts easily
 Why are lightning conductors made of copper? ## Good conductors ## Carry charge to ground
-Why would you not use aluminium foil to store a lemon pickle for long? ## Acid reacts with it ## May form harmful compounds
+Why are iron nails coated with zinc or paint? ## To protect them from rusting ## The coating keeps air and moisture away
 Why do metals feel cold to the touch? ## They conduct heat away from the hand ## Heat flows quickly
 Why does hydrogen not form when copper reacts with dilute acids? ## Copper is less reactive than hydrogen ## No displacement
 Explain why the copper vessel turns black when heated in air. ## Forms copper oxide ## Black coating
@@ -308,15 +308,15 @@ hC = """
 A student has an unknown sample. It is shiny, ductile, burns in air to a white powder that turns red litmus blue. Identify the class and give a probable example. ## Metal|1 ## Magnesium|1 ## Basic oxide|1
 Describe a test to distinguish a piece of copper from a piece of aluminium without chemicals. ## Colour|1 ## Density (copper is heavier)|1 ## Conductivity|1
 Why can a metal piece placed in acid sometimes show no bubbles? ## It may be an unreactive metal|1 ## Protective oxide coating|1 ## Acid may be too dilute|1
-Write and balance the equation for the burning of aluminium in oxygen to form [[Al2O3]]. ## Skeleton: [[Al + O2 -> Al2O3]]|1 ## Balance atoms|1 ## [[4Al + 3O2 -> 2Al2O3]]|1
-Why are coins made of alloys like cupro-nickel rather than pure copper? ## Harder|1 ## Resist corrosion|1 ## Cost control|1
+Write the word equation for the burning of magnesium in oxygen. ## Magnesium + oxygen gives magnesium oxide|1 ## Magnesium oxide is a white powder|1 ## It is basic in nature|1
+Why are cooking vessels made of steel and not of iron? ## Steel is stronger|1 ## Iron rusts easily|1 ## Steel lasts longer|1
 Explain how you could separate a mixture of iron filings and sulphur powder using a magnet. ## Move magnet over the mixture|1 ## Iron filings stick|1 ## Sulphur is left|1
 Explain with equations how metals and non-metals form acidic and basic solutions with water. ## [[MgO + H2O -> Mg(OH)2]]|1 ## [[SO2 + H2O -> H2SO3]]|1 ## Basic and acidic|1
 Why is a small piece of sodium kept in kerosene reduced in size when cut? ## Soft|1 ## Reactive with air|1 ## Surface tarnishes|1
 Explain why magnesium ribbons are cleaned before burning. ## Oxide layer present|1 ## Prevents burning|1 ## Sand paper removes it|1
 Why should iron tanks used to store rainwater be coated with paint or zinc? ## Iron rusts in water and air|1 ## Coating keeps water and air away|1 ## Tank lasts longer|1
 Why do overhead metal wires sag more in summer than in winter? ## Metals expand on heating|1 ## Wire becomes longer|1 ## Longer wire hangs lower|1
-Why do ships use sacrificial zinc plates? ## Zinc is more reactive|1 ## It corrodes first|1 ## Protects iron|1
+Why is a zinc coating given to iron buckets? ## Zinc protects iron from rusting|1 ## The zinc layer keeps out air and moisture|1 ## Such iron is called galvanised|1
 Why can't we make hammers from sulphur or wax? ## They are brittle or soft|1 ## Hammers need hard metal|1 ## Iron or steel used|1
 Give three differences between sodium and copper. ## Sodium soft, copper hard|1 ## Sodium very reactive|1 ## Copper conducts|1
 Explain why copper sulphate solution turns pale green when iron is added. ## Iron displaces copper|1 ## Iron sulphate is green|1 ## Copper deposits|1
@@ -327,7 +327,7 @@ What are alloys? Give two examples with components. ## Mixtures of metals|1 ## B
 hD = """
 You are given samples of sulphur, iron, carbon (graphite) and aluminium. Plan tests to identify each using properties and chemical reactions. ## Colour and lustre|1 ## Conduction test|1 ## Magnet for iron|1 ## Burning gives acidic or basic oxide|1 ## Reaction with acid|1
 Explain, with equations, the reactions of magnesium with oxygen, acid and copper sulphate solution. ## [[2Mg + O2 -> 2MgO]]|1 ## [[Mg + 2HCl -> MgCl2 + H2]]|1 ## [[Mg + CuSO4 -> MgSO4 + Cu]]|1 ## Mg is reactive|1 ## Products observed|1
-Discuss the reactivity series qualitatively using results of: Zn+CuSO4, Fe+CuSO4, Cu+FeSO4, Mg+ZnSO4. ## Zn displaces Cu|1 ## Fe displaces Cu|1 ## Cu does not displace Fe|1 ## Mg displaces Zn|1 ## Mg > Zn > Fe > Cu|1
+Explain what happens when an iron nail is placed in copper sulphate solution and in zinc sulphate solution. ## In copper sulphate, copper is deposited|1 ## The blue colour fades|1 ## In zinc sulphate there is no reaction|1 ## Iron cannot displace zinc|1 ## Iron is more reactive than copper but less than zinc|1
 Explain the importance of non-metals in nature, living things and industry. ## Oxygen for respiration|1 ## Carbon in organic compounds|1 ## Nitrogen in fertilisers|1 ## Sulphur in medicines|1 ## Chlorine disinfects|1
 Describe the effects of corrosion on metals and structures and how to reduce the loss. ## Rusting of bridges|1 ## Tarnishing of silver|1 ## Loss of money|1 ## Paint and galvanising|1 ## Regular maintenance|1
 Explain why metals conduct heat and electricity but non-metals generally do not, using only observations. ## Tests show metals light the bulb|1 ## Wax melts along a metal rod|1 ## Non-metals do not|1 ## Graphite is an exception|1 ## Use decides|1

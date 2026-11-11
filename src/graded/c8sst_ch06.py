@@ -183,7 +183,7 @@ MA = MC([
 "Shastri's resignation illustrates | ethical responsibility of ministers | corruption | court order | election rule | 1956",
 "A bicameral legislature has | two Houses | one House | three Houses | no House | Upper and Lower",
 "Which statement on the Vidhan Parishad is correct? | It exists in only some states | It exists in all states | It is the lower house | It has no members | Six states",
-"Why is the Union law preferred on the Concurrent List? | To ensure uniformity | To favour states | To reduce laws | To end conflict | Constitutional rule",
+"Why does the Union law prevail on the Concurrent List in case of conflict? | to ensure uniformity of law across the country | to make state laws stronger | to cancel all state laws | to move the subject to the State List | Uniformity",
 "If a law violates the Constitution, the court can | declare it invalid | amend it | pass it | ignore it | Judicial review",
 "Why is the Prime Minister called the 'real executive'? | Leads the government and takes decisions | Is nominal | Is the Speaker | Is judge | De facto head",
 "Why is Question Hour valuable? | It makes ministers answer for their work | It elects the PM | It makes laws | It ends sessions | Accountability",
@@ -199,7 +199,7 @@ MA = MC([
 "Leader of the Opposition's role is | to question and scrutinise government | to rule | to chair committees only | to defend government | Parliamentary opposition",
 "The Judiciary's independence is vital because | it ensures fair interpretation of law | it avoids work | it helps one party | it ends elections | Impartial",
 "Which action is an example of checks and balances? | Court striking down an unconstitutional law | MPs taking oath | Speaker's election | Budget presentation | Judicial check",
-"Which of the following links the three organs? | The Constitution | The weather | Elections only | Sports | Defines powers",
+"Which of the following defines the powers of all three organs of government? | the Constitution | the annual budget | the Election Commission | the Rajya Sabha | Constitutional framework",
 ])
 MB = [
 B2("Why is the President a nominal head?", "Acts on the advice of ministers", "Real power is with PM and Council"),
@@ -269,7 +269,7 @@ HA = MC([
 "If the government wants to levy a new tax, which step is required? | Passage of a Money or Finance Bill | Court order | Governor's will | Speaker's whim | Parliamentary approval",
 "A bill introduced by an MP who is not a minister is called | a private member's bill | a money bill | a government bill | an ordinance | Introduced by non-ministers",
 "A short debate with answers to questions from ministers on the floor takes place in | Question Hour | Zero Hour only | Joint sitting | Budget | Tool of oversight",
-"Which statement best explains why Parliament is called the 'forum of the nation'? | MPs from all regions debate national issues | Only the PM speaks | Only judges speak | No one speaks | Representation",
+"Which statement best explains why Parliament is called the 'forum of the nation'? | MPs from all regions debate national issues | only the Prime Minister may speak in it | only judges may speak in it | it meets only to elect the President | Debate on national issues",
 "If the executive ignores a court's constitutional ruling, which principle is violated? | Rule of law | Federalism | Voting | Secularism only | Judicial authority",
 "Which would NOT improve legislative functioning? | More disruptions | Better attendance | Detailed committee reports | Respect for rules | The others help",
 "The Rajya Sabha provides continuity because | it is never fully dissolved | it has no elections | its members are nominated | it is small | One-third retire every two years",
@@ -280,7 +280,7 @@ HA = MC([
 "Statement: 'Parliament is supreme but not above the Constitution.' This means | it must act within the Constitution | no limits | courts cannot check | no laws | Constitutional supremacy",
 "Which of these ensures that a new law reflects different viewpoints? | Debate and committee stage | Presidential veto | Executive order | Court ban | Deliberation",
 "A question on irregularities in a department is asked in Parliament. This is a means of | oversight of the executive | judicial review | making a law | election | Accountability",
-"Why is the Union government headed by the PM and not the President in practice? | The Constitution adopts the parliamentary system | President is weak | PM is judge | A coup | Cabinet system",
+"Why is the Union government in practice headed by the PM and not the President? | the Constitution adopts the parliamentary system | the President is not a citizen | the President is chosen by the Prime Minister | the Supreme Court has appointed the PM as the head | Parliamentary system",
 "If a state has a Vidhan Parishad, it also has a | Vidhan Sabha | Lok Sabha | Rajya Sabha | Supreme Court | Bicameral",
 "Which pairing shows separation of functions? | Court - interpret | Parliament - interpret | Ministers - judge | Speaker - enforce | Judiciary interprets laws",
 ])

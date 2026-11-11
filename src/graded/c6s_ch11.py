@@ -34,7 +34,7 @@ Minerals like iron ore are obtained by: ## mining ## farming ## fishing ## weavi
 Which of these is a mineral resource? ## iron ore ## wood ## cotton ## grass ## Metals are extracted from ores.
 Sunlight, wind and flowing water are used to produce: ## electricity ## coal ## petrol ## soil ## Renewable energy.
 Forests are important because they: ## give oxygen and wood and prevent erosion ## spoil air ## produce coal quickly ## stop rain ## Many benefits.
-The three Rs for saving resources are: ## reduce, reuse, recycle ## read, write, run ## rest, relax, rise ## rub, roll, rush ## Standard conservation message.
+The three Rs for saving resources are: ## reduce, reuse, recycle ## replace, remove, rest ## repair, rebuild, return ## reject, release, refill ## Standard conservation message.
 Which is an example of reusing? ## using an old bottle as a flower vase ## throwing away bottles ## burning waste ## buying new ones ## Using again.
 Which is an example of recycling? ## making new paper from used paper ## using paper once ## burning paper ## throwing paper ## Reprocessing waste.
 """)]
@@ -94,8 +94,8 @@ Sunlight is a: ## renewable resource ## non-renewable resource ## waste ## miner
 Coal is a: ## non-renewable resource ## renewable resource ## gas ## liquid ## Limited.
 Petrol comes from: ## petroleum ## coal ## wood ## water ## Crude oil.
 Air has more of: ## nitrogen ## oxygen ## hydrogen ## helium ## Nearly four-fifths.
-We breathe in: ## oxygen ## nitrogen only ## smoke ## dust ## Needed for life.
-Plants need: ## carbon dioxide ## smoke ## petrol ## coal ## For food making.
+For breathing, we need the gas ___ from air: ## oxygen ## helium ## hydrogen ## neon ## Needed for life.
+Plants need ___ from the air to make food: ## carbon dioxide ## helium ## hydrogen ## smoke ## For food making.
 Soil is formed from: ## rocks ## plastic ## metal ## glass ## Weathering.
 Humus is found in: ## topsoil ## bedrock ## water ## air ## Fertile part.
 Wind is: ## moving air ## still water ## hot soil ## moving soil ## Air in motion.
@@ -103,8 +103,8 @@ Wind is: ## moving air ## still water ## hot soil ## moving soil ## Air in motio
 Trees give us: ## oxygen ## smoke ## coal only ## petrol ## Give oxygen.
 Smoke from factories causes: ## air pollution ## good air ## rain ## cloud ## Pollution.
 We can save water by: ## closing taps ## leaving taps open ## wasting water ## polluting rivers ## Save water.
-We can save paper by: ## using both sides ## wasting ## tearing ## burning ## Use both sides.
-A plant's roots hold: ## soil ## smoke ## air ## sky ## Hold soil.
+We can save paper by: ## using both sides of a sheet ## using a new sheet each time ## printing in very large fonts ## throwing it after one use ## Use both sides.
+A plant's roots hold: ## soil ## smoke ## sunlight ## clouds ## Hold soil.
 Soil erosion is the: ## washing away of soil ## growing of soil ## making of rocks ## making of metals ## Loss of soil.
 Topsoil is: ## the top layer ## the bottom layer ## the middle ## the rock ## Top.
 Bedrock is: ## solid rock layer ## top soil ## air ## water ## Solid.
@@ -116,11 +116,11 @@ Which is a renewable resource? ## wind ## coal ## petroleum ## natural gas ## Wi
 Which is a non-renewable resource? ## petroleum ## wind ## water flow ## sunlight ## Limited.
 Which is used to make electricity from wind? ## windmill ## stove ## bucket ## fan only ## Windmill.
 Which is a mineral? ## iron ore ## wheat ## cotton ## wood ## From earth.
-Reuse means: ## use again ## throw away ## burn ## waste ## Use again.
-Recycle means: ## make new things from old ## throw ## burn ## waste ## Reprocess.
-Reduce means: ## use less ## use more ## waste ## burn ## Use less.
-Burning plastic causes: ## air pollution ## clean air ## rain ## cold ## Pollution.
-Forests are: ## useful ## useless ## harmful ## unimportant ## They give many things.
+Reuse means: ## using an object again ## throwing it away ## burning it ## making it from new material ## Use again.
+Recycle means: ## making new things from used material ## throwing used things in a drain ## burning used things ## digging for new material ## Reprocess.
+Reduce means: ## using less ## using more ## using again ## making new things from old ones ## Use less.
+Burning plastic causes: ## air pollution ## cleaner air ## more oxygen ## more rain ## Pollution.
+Forests are important because they: ## give oxygen and prevent soil erosion ## cause floods ## spoil the air ## stop rainfall ## They give many things.
 """)]
 eB = """
 Name two natural resources. ## Air ## Water
@@ -190,8 +190,8 @@ Why is recycling metals better than mining new ones? ## it saves ore and energy 
 Which of the following reduces pollution? ## using public transport ## burning waste ## using plastic bags ## cutting trees ## Fewer vehicles.
 Which of the following energy sources is clean? ## solar energy ## coal ## petrol ## diesel ## No smoke.
 Which of the following is a use of natural gas? ## CNG as fuel ## drinking ## making cloth ## making paper ## Fuel.
-Which of these causes acid rain? ## gases from burning fuels ## planting trees ## clean water ## wind ## Oxides combine with water.
-Which of the following protects us from the Sun's harmful rays? ## ozone layer ## water ## soil ## wind ## Part of the atmosphere.
+Which of the following saves the most trees? ## recycling paper ## burning paper ## printing on one side only ## buying more notebooks ## Oxides combine with water.
+Which of the following adds humus to soil? ## decayed leaves and kitchen waste ## plastic bags ## stones ## cement ## Part of the atmosphere.
 Why is it harmful to throw plastic waste in soil? ## it does not decay ## it adds humus ## it feeds worms ## it makes soil fertile ## Plastic persists.
 Why should used cooking oil not be poured in drains? ## it blocks drains and pollutes water ## it makes water pure ## it makes drains clean ## it feeds fish ## Pollution.
 """), mc("""
@@ -210,7 +210,7 @@ mB = """
 Why is soil called a 'living' resource? ## It contains many organisms ## It supports plant growth
 Explain how afforestation helps the soil and the air. ## Roots bind the soil ## Trees give oxygen
 Why is coal called a fossil fuel? ## Formed from ancient plants ## Remains buried for millions of years
-How does deforestation affect rainfall? ## Less transpiration ## Less rain in the area
+How does deforestation affect rainfall? ## Trees release less water vapour into the air ## Less rain in the area
 Differentiate between reduce and reuse. ## Reduce: use less ## Reuse: use again
 Why can't petroleum be made in a laboratory in quantity to replace the demand? ## It forms over millions of years ## Natural processes are slow
 Why is nitrogen not used by humans directly in respiration? ## It is not used by our body ## Oxygen is needed
@@ -233,7 +233,7 @@ Describe the effects of mining on forests and soil. ## Trees are cut|1 ## Soil i
 Explain how air pollution affects health. ## Breathing difficulty|1 ## Eye irritation|1 ## Lung diseases|1
 Why should a village protect its pond? ## Source of water|1 ## Recharges groundwater|1 ## Supports life|1
 How is compost made and why is it useful? ## Plant and kitchen waste decay|1 ## Becomes manure|1 ## Fertilises soil naturally|1
-List some alternatives to fossil fuels. ## Solar|1 ## Wind|1 ## Biogas|1
+List some alternatives to fossil fuels. ## Solar|1 ## Wind|1 ## Flowing water|1
 Explain how the Sun is the ultimate source of energy for most resources. ## Plants use sunlight|1 ## Fossil fuels from plants|1 ## Wind and water cycle driven by Sun|1
 Why should we not waste food? ## Land, water and energy are used|1 ## Wastage harms resources|1 ## Others are hungry|1
 Compare sandy, clayey and loamy soil on water holding. ## Sandy: low|1 ## Clayey: high|1 ## Loamy: moderate|1
@@ -249,8 +249,8 @@ Describe the oxygen-carbon dioxide balance in nature and the role of plants and 
 Describe a project on waste segregation in a school. ## Separate dry and wet waste|1 ## Compost wet waste|1 ## Recycle paper and plastic|1 ## Reduce use|1 ## Monitor|1
 Explain how the demand for energy has increased and what we can do. ## Population and vehicles rise|1 ## Fossil fuels deplete|1 ## Use solar|1 ## Use efficient devices|1 ## Save energy|1
 Explain the formation of coal and how it is used in industry. ## Buried forests|1 ## Heat and pressure|1 ## Coal forms|1 ## Used in power plants|1 ## Used in steel|1
-Explain the concept of sustainable use of resources with examples. ## Use without exhausting|1 ## Crop rotation|1 ## Rain harvesting|1 ## Solar energy|1 ## Protect forests|1
-Compare the layers of the atmosphere in simple terms: near the ground, high above (as discussed), and how air thins with height. ## Dense air near ground|1 ## Air thins upwards|1 ## Mountaineers need oxygen|1 ## Weather near Earth|1 ## Ozone protects|1
+Explain with examples what is meant by using resources wisely. ## Use without exhausting|1 ## Crop rotation|1 ## Rain harvesting|1 ## Solar energy|1 ## Protect forests|1
+Explain how the air near a busy road differs from the air in a park and why. ## More smoke and dust near the road|1 ## Vehicles burn fuel|1 ## Trees in a park take in carbon dioxide|1 ## Trees trap dust|1 ## Park air is cleaner|1
 Discuss the importance of mineral resources and the need to recycle metals. ## Metals from ores|1 ## Used in many products|1 ## Ores are limited|1 ## Recycling saves energy|1 ## Reduces mining|1
 Describe the conservation of forests and wildlife. ## National parks|1 ## Laws against hunting|1 ## Afforestation|1 ## Awareness|1 ## Community involvement|1
 """
@@ -261,7 +261,7 @@ A student collected 10 mL of gas from a jar over water after a candle burnt out.
 In that experiment, water rises in the jar by about one fifth because: ## oxygen forms about one-fifth of air ## nitrogen forms one-fifth ## water is heavy ## jar is wide ## Oxygen is used up.
 Which of the following correctly shows the relative abundance in air? ## nitrogen > oxygen > carbon dioxide ## oxygen > nitrogen > carbon dioxide ## carbon dioxide > oxygen > nitrogen ## nitrogen = oxygen ## 78, 21, 0.04.
 A hill slope is turned into steps and trees planted. The main effect is: ## less soil washed away ## more soil lost ## no rain ## higher hill ## Conservation.
-A dairy farmer converts cow dung into biogas. Which advantage is correct? ## provides fuel and manure ## stops rain ## adds smoke ## increases fossil fuel use ## Renewable energy.
+A family uses a solar cooker instead of firewood. Which advantage is correct? ## no smoke and saves firewood ## more smoke ## uses more fuel ## works only at night ## Renewable energy.
 Which statement about resources is true? ## a resource that regenerates may still be depleted by overuse ## renewable resources can never be exhausted ## non-renewable resources regenerate quickly ## all resources are man-made ## Fishes, forests.
 Which observation indicates air pollution on a white cloth kept outside? ## black particles collect ## cloth stays clean ## cloth gets wet ## cloth turns green ## Soot.
 Why is it important not to burn crop residues? ## causes smoke and pollution ## adds oxygen ## cleans air ## improves soil only ## Harmful smoke.
@@ -282,11 +282,11 @@ Which of the following is a reason to protect wetlands? ## they store water and 
 A town has 1,00,000 vehicles each emitting smoke. Which step reduces the problem most? ## more public transport ## more cars ## more roads only ## less trees ## Fewer vehicles.
 Which of the following resource-use decisions is sustainable? ## planting a tree for every tree cut ## cutting without planting ## burning forests ## wasting water ## Balance.
 A village uses a solar pump instead of a diesel pump. The main benefit is: ## no fuel cost and no smoke ## more smoke ## more fuel ## more noise ## Clean.
-Why would a country with long coastline benefit from tidal and wave power? ## renewable and available ## limited ## polluting ## costly only ## Sea.
+Why would a sunny region benefit from solar panels? ## renewable energy is available there all year ## sunlight is limited there ## sunlight pollutes the air ## panels need no sunlight ## Sea.
 Which pair is correctly matched? ## coal – fossil fuel; wind – renewable ## coal – renewable; wind – fossil fuel ## petrol – renewable ## sun – fossil ## Right.
 Which action best shows the 'reuse' principle? ## using old jars for storing spices ## throwing away ## burning ## buying new ## Reusing.
 A mining company must replant trees on mined land. This promotes: ## restoration of the environment ## more pollution ## more mining ## loss of soil ## Conservation.
-Why is the 'ozone layer' protection discussed with air pollution? ## some gases damage it ## it makes smoke ## it brings rain ## it forms soil ## Chemicals damage ozone.
+Why is burning garbage in the open harmful? ## it fills the air with smoke and harmful gases ## it makes the air cleaner ## it adds oxygen ## it makes soil fertile ## Chemicals damage ozone.
 Soil, water and air resources are interconnected because: ## pollution in one affects the others ## they are separate ## they are the same ## they never change ## Interlinked.
 The best response to an energy crisis is: ## saving energy and using renewables ## burning more coal ## cutting forests ## ignoring ## Combine.
 """)]
@@ -296,8 +296,8 @@ Why does the quality of soil decrease if the same crop is grown again and again?
 Explain why plastics are a problem though they are made from petroleum which is a natural resource. ## They do not decay ## They pollute land and water
 Why is air still considered a renewable resource although it gets polluted? ## Nature recycles gases ## Pollution must be controlled
 Explain why we say forests are the lungs of the Earth. ## Take in carbon dioxide ## Give out oxygen
-How does the burning of fossil fuels affect the Earth's atmosphere? ## Releases carbon dioxide ## Adds heat-trapping gases
-What does 'sustainable development' mean? ## Using resources without harming future needs ## Balanced growth
+How does the burning of fossil fuels affect the air? ## Releases carbon dioxide and smoke ## Makes the air polluted
+What does using resources wisely mean? ## Using them without wasting so that they last ## Leaving enough for the future
 Why are wind farms usually set up in coastal or open areas? ## Steady strong winds ## Better power generation
 How do earthworms and bacteria keep soil fertile? ## They break down wastes ## Mix and aerate soil
 Why do some countries use a deposit system for bottles? ## Encourages reuse ## Reduces waste
@@ -316,10 +316,10 @@ Explain why the burning of plastic is worse than burying it in terms of air qual
 Describe three ways that families can contribute to reducing pollution. ## Use public transport|1 ## Save electricity|1 ## Segregate waste|1
 Explain how overgrazing leads to soil erosion. ## Animals eat all grass|1 ## Soil is bare|1 ## Wind and water remove it|1
 Describe the effects of using too much groundwater. ## Water table falls|1 ## Wells dry|1 ## Land may sink|1
-What are the advantages of biogas? ## Renewable|1 ## Clean fuel|1 ## Leftover is manure|1
+What are the advantages of using solar energy? ## It is renewable|1 ## It is clean|1 ## There is no fuel cost|1
 Explain why hilly areas need special care for erosion. ## Steep slopes|1 ## Fast runoff|1 ## Afforestation|1
 Describe why wetlands, forests and mangroves are important natural treasures. ## Store water|1 ## Support wildlife|1 ## Protect from floods|1
-Explain the term 'carrying capacity' of an environment in simple words. ## Limit of resources|1 ## Can support only so many|1 ## Overuse harms|1
+Why should we not waste electricity? ## Much electricity is made by burning coal|1 ## Burning coal pollutes the air|1 ## Saving electricity saves coal|1
 Explain how increasing population puts pressure on resources. ## More demand for food, water|1 ## Forests cleared|1 ## Pollution rises|1
 Why are old, still working electronic items better reused or properly recycled than thrown? ## Contain metals|1 ## Harmful if dumped|1 ## Recycling recovers materials|1
 Describe an activity to measure how much dust settles in an area. ## Greased slide|1 ## Keep for a day|1 ## Observe under lens|1
@@ -328,13 +328,13 @@ hD = """
 Design a survey to find the use of natural resources in your home for a week and suggest five ways to cut it. ## List water use|1 ## List electricity use|1 ## Record fuel|1 ## Identify wastage|1 ## Suggest five actions|1
 Analyse the case: A town cuts nearby hills for stone, building and farmland. Predict five consequences. ## Soil erosion|1 ## Landslides|1 ## Less rain|1 ## Loss of wildlife|1 ## Water scarcity|1
 Evaluate the use of solar, wind, and coal for electricity on cost, pollution and availability. ## Solar: clean, needs sun|1 ## Wind: clean, needs wind|1 ## Coal: cheap now, polluting|1 ## Coal limited|1 ## Mix of sources|1
-Explain how air quality can be monitored by simple methods (lichens, dust collection, smoke observation). ## Dust on a slide|1 ## Sooty deposit on leaves|1 ## Smoke sources noted|1 ## Compare places|1 ## Conclude|1
+Explain simple ways to check how clean the air is in your area. ## Keep a greased slide outside for a day|1 ## Compare dust on slides from different places|1 ## Look for black soot on leaves|1 ## Note the sources of smoke|1 ## Conclude which place has cleaner air|1
 Describe a conservation project for a pond in the neighbourhood with objectives, steps and outcomes. ## Clean the banks|1 ## Plant trees|1 ## Stop waste dumping|1 ## Make people aware|1 ## Monitor water|1
 Explain how the use of resources changes with civilisation: from stone to metals to fuels and renewable energy. ## Stone tools|1 ## Metals|1 ## Coal-powered industry|1 ## Petroleum transport|1 ## Shift to renewables|1
 Discuss with examples how our daily lifestyle can be made more 'earth-friendly'. ## Reduce plastic|1 ## Walk or cycle|1 ## Save water|1 ## Recycle|1 ## Plant trees|1
 Explain how waste from kitchen and garden can be turned into resources. ## Compost|1 ## Biogas|1 ## Mulch|1 ## Reduce landfill|1 ## Improve soil|1
 Discuss issues related to mining, forests and local communities and suggest balanced solutions. ## Mining gives metals|1 ## Harms forests|1 ## People lose homes|1 ## Replant trees|1 ## Strict rules and rehabilitation|1
-Describe the effects of oil spills on sea life and ways to clean them. ## Oil blocks oxygen|1 ## Birds' feathers coated|1 ## Fish die|1 ## Barriers and skimmers|1 ## Prevent leaks|1
+Describe the harmful effects of plastic waste thrown into rivers. ## It blocks drains and water flow|1 ## It harms fish and other animals|1 ## It does not decay|1 ## It pollutes the water|1 ## Reduce, reuse and recycle plastic|1
 Explain how India can meet energy needs with sunshine and wind and what challenges exist. ## Plenty of sun|1 ## Coastal winds|1 ## Needs storage|1 ## Land and cost|1 ## Need policy support|1
 Compare the life cycle of a paper bag and a plastic bag from raw material to disposal. ## Paper: from trees|1 ## Plastic: from petroleum|1 ## Paper decays|1 ## Plastic persists|1 ## Reuse of both|1
 """

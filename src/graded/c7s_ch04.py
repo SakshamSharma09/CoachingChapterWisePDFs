@@ -246,7 +246,7 @@ Explain the changes that occur in a car's exhaust, the engine, the paint and the
 Describe the activity to show that a chemical change may need heat, with the example of heating sugar and heating a candle. ## Heat sugar|1 ## It melts then turns black|1 ## New substance carbon|1 ## Candle wax melts and burns|1 ## Heating can start chemical change|1
 Discuss how knowledge of chemical changes helps in food preservation. ## Oxidation spoils food|1 ## Germs cause spoilage|1 ## Airtight containers|1 ## Refrigeration slows|1 ## Salt and sugar preserve|1
 Explain with examples how a physical change can be turned into a chemical change by heating. ## Heating wax: melts, then burns|1 ## Heating sugar|1 ## Heating copper|1 ## Initial is physical|1 ## Later new substances|1
-Explain with a labelled description how to prepare a large crystal of alum. ## Prepare a saturated solution|1 ## Filter|1 ## Hang a seed crystal|1 ## Leave undisturbed|1 ## Crystal grows|1
+Explain how to prepare a large crystal of alum. ## Prepare a saturated solution|1 ## Filter|1 ## Hang a seed crystal|1 ## Leave undisturbed|1 ## Crystal grows|1
 Discuss the harmful and useful chemical changes with three examples each. ## Useful: cooking|1 ## Useful: making curd|1 ## Useful: photosynthesis|1 ## Harmful: rusting|1 ## Harmful: food spoiling|1
 Explain how the change of colour of a cut apple can be slowed down. ## Apply lemon juice|1 ## Keep in water|1 ## Cover|1 ## Refrigerate|1 ## Reduce contact with air|1
 Describe how to show that a gas is evolved in a chemical change and identify it. ## Mix baking soda and vinegar|1 ## Fizzing|1 ## Pass gas through lime water|1 ## It turns milky|1 ## Carbon dioxide|1
@@ -260,7 +260,7 @@ hA = [mc("""
 A student heated a blue crystalline solid. It turned white and drops of liquid appeared on the cooler part of the tube. On adding water to the white powder, it turned blue and became warm. This indicates: ## a reversible chemical change ## a physical change ## burning ## an irreversible change ## Hydrated and anhydrous forms.
 An iron nail kept in blue solution X gets reddish-brown coating and the solution turns green. X is likely: ## copper sulphate ## sodium chloride ## sugar ## lime water ## Copper deposits.
 A solution turns milky when a gas is passed. The gas is probably: ## carbon dioxide ## oxygen ## hydrogen ## nitrogen ## Lime water test.
-An experiment shows that the mass of a burnt candle's products (including gases) equals the mass of the candle and oxygen used. This supports: ## conservation of mass ## melting ## rusting ## floating ## Mass is conserved.
+A student says that a burning candle makes the wax vanish. The correct statement is: ## the wax changes into new substances such as carbon dioxide and water vapour ## the wax is destroyed ## the wax only melts ## the wax turns into the wick ## Mass is conserved.
 Which observation would show a chemical change in a mixture of sand and iron filings on heating with sulphur? ## a new black solid not attracted by a magnet ## sand settles ## iron attracted by magnet ## colour same ## New compound.
 Which of the following correctly explains why a rusted nail breaks easily? ## rust is brittle and flakes off ## rust is shiny ## rust is magnetic ## rust is liquid ## Weakens.
 A student claims that boiling an egg is a physical change because the shape remains. Correct reply: ## proteins change irreversibly, so it is chemical ## shape remains so physical ## colour remains so physical ## it is reversible ## New substances.
@@ -310,10 +310,10 @@ Calcium oxide reacts with water and the mixture becomes hot. Is it physical or c
 Explain how ripening of a fruit can be speeded up or slowed and why it is chemical. ## Warm place speeds|1 ## Cold slows|1 ## New substances formed|1
 When ice melts, its temperature stays at 0 °C till all ice melts. Explain whether the process is physical or chemical. ## Physical|1 ## Same substance|1 ## Energy used for change of state|1
 Describe how a chemical change was used in making iron objects durable (galvanising) and in making steel. ## Zinc coating|1 ## Alloy with chromium|1 ## Resist corrosion|1
-Why does a silver chain kept in a cupboard with rubber become black? ## Rubber contains sulphur|1 ## Forms silver sulphide|1 ## Chemical change|1
+Why does a silver spoon turn black when kept in air for a long time? ## Substances in the air react with silver|1 ## A black coating forms|1 ## It is a chemical change|1
 Explain why a mixture of salt and sand is physically separated but a mixture of iron and sulphur on heating is not. ## Salt and sand do not react|1 ## Iron and sulphur react|1 ## New compound formed|1
 Explain with an example how a physical change may accompany a chemical change. ## Burning candle|1 ## Melting is physical|1 ## Burning vapour is chemical|1
-How are rusting and burning similar and different? ## Both are oxidation|1 ## Burning is fast, rusting slow|1 ## Burning gives heat and light|1
+How are rusting and burning similar and different? ## Both need oxygen|1 ## Burning is fast, rusting slow|1 ## Burning gives heat and light|1
 Explain why vinegar can be used to clean a kettle and name the type of change. ## Reacts with chalky carbonate|1 ## Releases carbon dioxide|1 ## Chemical change|1
 Explain why heating of blue copper sulphate crystals produces water droplets in the cooler part. ## Crystals contain water|1 ## Water is released as vapour|1 ## Condenses|1
 Explain with a flow chart the changes in making butter from milk (curd, churning) and mark the type of each. ## Milk to curd: chemical|1 ## Churning: physical|1 ## Butter separated|1

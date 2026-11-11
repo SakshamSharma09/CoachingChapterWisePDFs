@@ -264,7 +264,7 @@ HA = MC([
 "If a mountain range lies north-south across a wind from the west, the eastern side will be | drier | wetter | colder always | the same | Rain shadow",
 "The reason a location at the Equator is not the hottest place on Earth is | cloud cover and rainfall reduce heating | the sun does not shine | there is no land | it is at altitude | Climate factors",
 "Climate change is likely to make the monsoon | more erratic with intense spells | perfectly steady | non-existent | cooler | Observed trend",
-"Which pair describes a correct cause-effect? | high pressure over land in winter - dry winds from land | low pressure in winter - monsoon | low pressure over sea in summer - snow | none | Seasonal winds",
+"Which pair describes a correct cause-effect? | high pressure over land in winter - dry winds from land | low pressure in winter - monsoon | low pressure over sea in summer - snow | high pressure over the sea in summer - heavy snowfall | Seasonal winds",
 "Which place has the largest annual range among the following? | Delhi | Mumbai | Chennai | Thiruvananthapuram | Inland north",
 "A forecast says 'cyclone landfall expected at coast near Puri'. Which state is affected? | Odisha | Gujarat | Kerala | Punjab | Puri is in Odisha",
 "The 'break in monsoon' refers to | a dry spell during the rainy season | end of monsoon | start of monsoon | cyclone | Weak monsoon period",

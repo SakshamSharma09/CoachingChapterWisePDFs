@@ -106,7 +106,7 @@ Ovary develops into a ~~ fruit ~~ seed ~~ pollen ~~ petal ~~ After fertilisation
 Ovule develops into a ~~ seed ~~ fruit ~~ stamen ~~ leaf ~~ Fertilised ovule is a seed.
 Petals are usually ~~ brightly coloured ~~ green only ~~ hard ~~ underground ~~ They attract pollinators.
 Flowers which have both stamens and pistil are called ~~ bisexual ~~ unisexual ~~ sterile ~~ vegetative ~~ Hibiscus is an example.
-Pollen grains are carried by ~~ wind, insects and water ~~ only soil ~~ only roots ~~ none ~~ Pollinating agents.
+Pollen grains are carried by ~~ wind, insects and water ~~ only soil ~~ only roots ~~ only animals ~~ Pollinating agents.
 The embryo in a seed is protected by the ~~ seed coat ~~ petal ~~ sepal ~~ pistil ~~ Outer covering.
 Fusion of gametes forms the ~~ zygote ~~ spore ~~ bud ~~ gamete ~~ Zygote is the first cell of the new organism.
 The pollen tube enters the ovule through ~~ the micropyle ~~ the anther ~~ the petal ~~ the sepal ~~ A tiny opening in the ovule.
@@ -270,8 +270,8 @@ AR ~~ Sperms have tails. ~~ Tails help them swim to the egg. ~~ a ~~ Tails give 
 
 A plant breeder crosses two varieties and also grows a plant by stem cutting. The offspring from the cross show ~~ variation, and those from the cutting are identical to the parent ~~ no variation in either ~~ variation in the cutting only ~~ identical traits in the cross ~~ Sexual gives variation; vegetative does not.
 Rhizopus is grown on bread in a sealed, completely dry, sterile packet. Growth is absent because ~~ spores need moisture to germinate ~~ spores are not produced ~~ sporangia are absent ~~ bread kills them ~~ Water is needed to activate spores.
-A single Amoeba undergoes binary fission every 20 minutes. Starting with one Amoeba, the number after 1 hour is ~~ 8 ~~ 3 ~~ 6 ~~ 16 ~~ Three divisions give 2^3 = 8.
-Starting with one yeast cell, after 4 successive buddings of each cell that each give one new cell (doubling), the number is ~~ 16 ~~ 8 ~~ 4 ~~ 32 ~~ 2^4 = 16.
+A single Amoeba undergoes binary fission every 20 minutes. Starting with one Amoeba, the number after 1 hour is ~~ 8 ~~ 3 ~~ 6 ~~ 16 ~~ Three divisions give <<2^{3}>> = 8.
+Starting with one yeast cell, after 4 successive buddings of each cell that each give one new cell (doubling), the number is ~~ 16 ~~ 8 ~~ 4 ~~ 32 ~~ <<2^{4}>> = 16.
 A pea flower in a bag, before it opens, still sets seeds. This shows ~~ self-pollination can occur within a flower ~~ cross-pollination is the only way ~~ pollination is not needed ~~ gametes are not needed ~~ A bagged flower cannot receive foreign pollen.
 Identify the true statement about pollen tube. ~~ It grows towards the ovule through the style ~~ It grows out of the ovary ~~ It is formed in the anther before landing ~~ It forms the fruit ~~ It develops on the stigma and goes to the ovule.
 A flower with 8 ovules shows fertilisation in 5 of them. The ripe fruit will have ~~ 5 seeds ~~ 8 seeds ~~ 3 seeds ~~ 13 seeds ~~ Only fertilised ovules form seeds.
@@ -292,7 +292,7 @@ The correct arrangement from outside to inside of a flower is ~~ sepals, petals,
 """.strip()
 hB = """
 A tiny part of a Hydra body is used to grow a new Hydra in a lab. Is this regeneration or budding? Justify. ~~ Regeneration|1 ~~ It involves growth of a whole body from a body part, not an outgrowth|1
-Starting with one Amoeba and dividing every 30 minutes, find the number after 3 hours. ~~ Number of divisions = 6|1 ~~ 2^6 = 64 Amoebae|1
+Starting with one Amoeba and dividing every 30 minutes, find the number after 3 hours. ~~ Number of divisions = 6|1 ~~ <<2^{6}>> = 64 Amoebae|1
 Why do plants produced from tissues of the same parent have the same traits but those formed from seeds do not? ~~ Vegetative parts carry copied DNA of one parent|1 ~~ Seeds form by fusion of gametes from two sources giving new gene combinations|1
 A flower is covered with a transparent bag before opening and no insects enter. It still forms fruit. What does this show? ~~ Self-pollination can occur|1 ~~ The flower is bisexual and compatible|1
 In which situation would a plant need a pollinator the most: a unisexual flower or a bisexual flower? Give a reason. ~~ Unisexual flower|1 ~~ Pollen must be moved from the male flower to the female flower|1
@@ -305,7 +305,7 @@ Give the reason that a banana plant cannot be grown from seeds. ~~ Banana is a s
 Why do the daughter cells formed by binary fission in a unicellular organism show very little variation? ~~ One parent cell copies its DNA|1 ~~ Variation arises only from small copying errors|1
 """.strip()
 hC = """
-After 2 hours, the number of Amoebae from one cell that divides every 15 minutes is calculated. Find it and state the type of reproduction. ~~ Divisions in 2 hours = 8|1 ~~ Number = 2^8 = 256|1 ~~ Binary fission (asexual)|1
+After 2 hours, the number of Amoebae from one cell that divides every 15 minutes is calculated. Find it and state the type of reproduction. ~~ Divisions in 2 hours = 8|1 ~~ Number = <<2^{8}>> = 256|1 ~~ Binary fission (asexual)|1
 Explain why a woman who has her ovaries removed will not have menstrual cycles. ~~ Ovaries release the egg and secrete oestrogen|1 ~~ Oestrogen controls thickening of the uterine lining|1 ~~ Without it the lining is not formed or shed|1
 How does the size of a gamete relate to its function in humans? ~~ Egg is large with stored food for the embryo|1 ~~ Sperm is small and has a tail for swimming|1 ~~ This shows division of labour between the gametes|1
 Explain why a group of plants developed from stem cuttings is more prone to a disease outbreak than one raised from seeds. ~~ Cuttings are genetically identical|1 ~~ If one is susceptible all are|1 ~~ Variation in seed-grown plants gives some resistant plants|1

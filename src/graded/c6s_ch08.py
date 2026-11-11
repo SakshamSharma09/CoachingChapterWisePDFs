@@ -102,13 +102,13 @@ Water freezes at: ## 0 °C ## 100 °C ## 50 °C ## 37 °C ## Standard.
 """), mc("""
 Dew is formed by: ## condensation ## evaporation ## melting ## boiling ## Morning drops.
 We get fresh water from: ## rivers ## sea ## salty lakes ## ocean ## Fresh.
-Sea water is: ## salty ## sweet ## sour ## bitter-free ## Salty.
+Sea water is: ## salty ## sweet ## sour ## tasteless ## Salty.
 A well gives us: ## groundwater ## rainwater only ## sea water ## snow ## Underground.
-A hand pump brings up: ## groundwater ## smoke ## air ## ice ## Underground water.
-A dam stores: ## water ## air ## smoke ## fire ## Reservoir.
+A hand pump brings up: ## groundwater ## cloud water ## sea water ## river ice ## Underground water.
+A dam stores: ## water ## air ## coal ## sand ## Reservoir.
 A long period of no rain is: ## drought ## flood ## storm ## monsoon ## Dry.
 Too much rain may cause: ## flood ## drought ## cold ## winter ## Flooding.
-Water is needed by: ## all living things ## only humans ## only plants ## nobody ## Life depends on water.
+Water is needed by: ## all living things ## only humans ## only plants ## only animals ## Life depends on water.
 We should: ## save water ## waste water ## pollute water ## spill water ## Conserve.
 """), mc("""
 Wet clothes dry faster in: ## sun ## shade ## rain ## fog ## Heat.
@@ -120,7 +120,7 @@ Which of these floats on water? ## ice ## stone ## iron ## coin ## Ice floats.
 Which is a way of saving water? ## closing taps ## leaving taps open ## washing cars daily ## leaking pipes ## Close taps.
 Water flowing in the rivers goes to the: ## sea ## sky ## fire ## moon ## Sea.
 The Sun heats the water of the sea causing: ## evaporation ## freezing ## condensation ## melting ## Vapour forms.
-Rainwater harvesting means: ## collecting rain ## losing rain ## polluting rain ## burning rain ## Collection.
+Rainwater harvesting means: ## collecting and storing rainwater ## draining rainwater into the sea ## making rain fall ## filtering sea water ## Collection.
 """)]
 eB = """
 Name three states of water. ## Solid ## Liquid and gas
@@ -184,13 +184,13 @@ The mist you see on a mirror when you breathe onto it is: ## condensed vapour ##
 The disappearance of puddles after rain is mostly due to: ## evaporation and seeping ## freezing ## melting ## boiling ## Water goes to air and soil.
 Why does a pond remain frozen on top and not at the bottom in cold regions? ## ice floats and insulates ## ice is heavy ## water is hot ## ice sinks ## Insulation.
 """), mc("""
-Cloud formation requires: ## evaporation and condensation ## melting and freezing ## boiling only ## nothing ## Water vapour cools.
+Cloud formation requires: ## evaporation and condensation ## melting and freezing ## boiling only ## freezing and melting ## Water vapour cools.
 Which of these is correctly matched? ## ice – solid ## steam – liquid ## water – gas ## vapour – solid ## Ice is solid.
 A student heats ice in a beaker with a thermometer. The temperature stays at 0 °C while the ice melts because: ## heat is used to change the state ## thermometer is wrong ## ice is cold ## heater is off ## Energy is used for melting.
 The temperature of boiling water stays at 100 °C because: ## heat is used for changing water to steam ## thermometer breaks ## the beaker is hot ## water is cold ## Heat used in vaporisation.
 The effect of increased temperature on evaporation is to: ## increase it ## decrease it ## stop it ## no change ## Faster.
 Water on a leaf evaporates faster on: ## a hot, dry day ## a cold, damp day ## a foggy day ## a rainy day ## Dry air.
-The three states of water differ in: ## arrangement and movement of particles ## colour only ## smell ## taste ## States depend on particles.
+The three states of water differ in: ## shape and volume ## colour only ## smell ## taste ## States depend on particles.
 Which has fixed shape and volume? ## ice ## water ## steam ## vapour ## Solid.
 Which has fixed volume but no fixed shape? ## water ## ice ## steam ## stone ## Liquid.
 Which has neither fixed shape nor volume? ## steam ## ice ## water ## wood ## Gas.
@@ -198,12 +198,12 @@ Which has neither fixed shape nor volume? ## steam ## ice ## water ## wood ## Ga
 A farmer in a dry region wants to conserve water for irrigation. A good method is: ## drip irrigation ## flooding the field ## leaving taps open ## cutting trees ## Saves water.
 Which practice increases groundwater? ## rainwater harvesting ## cementing the entire ground ## cutting trees ## polluting rivers ## Water seeps into soil.
 Why should we plant trees to prevent floods and droughts? ## roots hold soil and water ## trees are tall ## trees give wood ## trees are green ## Roots help soak water.
-Why is it better to water plants in the evening? ## less evaporation ## plants sleep ## more heat ## no reason ## Cooler time.
+Why is it better to water plants in the evening? ## less water evaporates in the cooler evening ## plants are asleep at night ## water is warmer in the evening ## plants do not need water in the day ## Cooler time.
 Why do we get water droplets under a vessel's lid while cooking? ## condensation of steam ## leakage ## melting ## rusting ## Steam cools.
 Why is steam burning more severe than hot water burning? ## steam carries extra heat ## it is colourless ## it is cold ## it is wet ## It condenses on skin releasing heat.
 Which of these shows the right order in the water cycle? ## evaporation, condensation, precipitation ## precipitation, condensation, evaporation ## condensation, precipitation, evaporation ## precipitation, evaporation, condensation ## Standard order.
 Where does most of the Earth's water exist? ## oceans ## rivers ## lakes ## clouds ## Oceans hold most.
-Which is an effect of cutting down forests on the water cycle? ## less rain and more run-off ## more rain ## nothing ## more groundwater ## Reduced transpiration.
+Which is an effect of cutting down forests on the water cycle? ## less rain and more run-off ## more rain ## cooler air only ## more groundwater ## Reduced transpiration.
 Which activity pollutes water? ## dumping waste in rivers ## planting trees ## harvesting rain ## repairing taps ## Pollution.
 """)]
 mB = """
@@ -221,7 +221,7 @@ Name two ways in which forests help the water cycle. ## Release water vapour ## 
 Why are leaking taps a problem? ## Water is wasted ## Drops add up
 """
 mC = """
-Draw (in words) the water cycle and label the stages. ## Evaporation from the sea|1 ## Condensation into clouds|1 ## Precipitation and flow back|1
+Describe the water cycle and name its stages. ## Evaporation from the sea|1 ## Condensation into clouds|1 ## Precipitation and flow back|1
 Explain with an experiment that evaporation causes cooling. ## Put a few drops of spirit on the hand|1 ## It evaporates quickly|1 ## Hand feels cool|1
 A beaker of water is heated and the temperature noted every minute: 30, 45, 60, 75, 90, 100, 100, 100. Explain the readings. ## Temperature rises steadily|1 ## Reaches 100 °C boiling|1 ## Stays constant during boiling|1
 Why do clothes dry faster in winter at noon than at night? ## Sun gives heat|1 ## Evaporation faster|1 ## Night is cold and damp|1
@@ -249,7 +249,7 @@ Discuss ways in which a school can conserve water and measure the effect. ## Fix
 Explain why droughts and floods occur in the same country in different areas. ## Rain is uneven|1 ## Hill areas get heavy rain|1 ## Some plains get less|1 ## Poor drainage|1 ## Management needed|1
 Describe how to prepare drinking water in an emergency using boiling and filtering. ## Filter through cloth|1 ## Boil for 10 minutes|1 ## Cool|1 ## Store in a clean covered vessel|1 ## Kills germs|1
 Describe how the sea, rivers, clouds and groundwater are connected in the water cycle. ## Rivers flow to sea|1 ## Sea gives vapour|1 ## Clouds give rain|1 ## Rain recharges groundwater|1 ## Groundwater feeds rivers|1
-Explain, using particle ideas, how ice, water and steam differ. ## Ice: close and fixed|1 ## Water: close and moving|1 ## Steam: far apart and fast|1 ## Heat changes the arrangement|1 ## Same water throughout|1
+Compare the shape and volume of ice, water and steam. ## Ice: fixed shape and volume|1 ## Water: fixed volume, takes the shape of its container|1 ## Steam: no fixed shape or volume|1 ## Heat changes ice to water and water to steam|1 ## It is the same substance throughout|1
 Explain the experiment to prove that water vapour is present in air using ice and a glass. ## Fill glass with ice|1 ## Wipe it dry outside|1 ## Droplets form|1 ## Vapour from air condenses|1 ## Conclusion|1
 Compare evaporation and boiling in five points. ## Surface vs whole|1 ## Any temperature vs 100 °C|1 ## Slow vs fast|1 ## Bubbles absent vs present|1 ## Both give vapour|1
 Describe the role of trees and soil in saving water and preventing floods. ## Roots hold soil|1 ## Soil absorbs water|1 ## Trees reduce runoff|1 ## Recharge groundwater|1 ## Prevent floods|1
@@ -287,7 +287,7 @@ Why do plants release water vapour through leaves? ## transpiration part of the 
 Why do dense forests receive more rain? ## more transpiration adds moisture ## trees attract the sun ## trees produce salt ## wind stops ## Water vapour to the air.
 Which action reduces runoff and raises groundwater? ## building percolation pits ## paving all roads ## cutting forests ## draining wetlands ## Allows seepage.
 What would happen to the water cycle if the Sun's heat decreased? ## less evaporation and rain ## more rain ## no change ## more floods ## Less energy.
-Which of the following correctly shows the change in density when water freezes? ## decreases ## increases ## stays the same ## becomes zero ## Ice is less dense.
+When water freezes into ice, its volume: ## increases ## decreases ## stays the same ## becomes zero ## Ice is less dense.
 Why is it advisable to store water in earthen pots in summer? ## stays cool by evaporation ## clay is heavy ## water becomes salty ## water evaporates fully ## Cool drinking water.
 """)]
 hB = """
@@ -313,11 +313,11 @@ Explain how the clouds are carried by wind and how this affects rain at distant 
 Describe how salt can be obtained from sea water in salt pans. ## Sea water in shallow pans|1 ## Sun evaporates water|1 ## Salt crystals remain|1
 Why do hill stations often receive more rainfall? ## Moist air rises over hills|1 ## It cools and condenses|1 ## Clouds drop rain|1
 Describe how an igloo can survive in cold weather and not melt. ## Temperature is below 0 °C|1 ## Snow is compact|1 ## Insulates inside|1
-Explain how water vapour in the air turns into frost on very cold nights. ## Air temperature below 0 °C|1 ## Vapour changes directly to ice crystals|1 ## Thin white ice layer|1
+Explain why a puddle on the road disappears after some hours of sunshine. ## The Sun heats the water|1 ## Water evaporates into the air|1 ## Some water also seeps into the ground|1
 How can a farmer reduce evaporation losses from the soil of a field? ## Mulching|1 ## Planting trees as windbreaks|1 ## Irrigating in the evening|1
 Why does boiling milk overflow while water does not as easily? ## Milk forms a layer of cream|1 ## Traps steam|1 ## Bubbles push it up|1
 A swimmer's skin feels cold after a swim. Explain with reference to the changes of state. ## Water on skin evaporates|1 ## Evaporation needs heat|1 ## Heat is taken from skin|1
-Describe the effects of climate change on the water cycle (basic). ## More evaporation|1 ## Irregular rain|1 ## Melting glaciers|1
+Describe two ways in which forests help the water cycle. ## Trees release water vapour into the air|1 ## Roots hold the soil and help water to seep into the ground|1 ## Fewer floods and more groundwater|1
 Explain why a layer of oil on a water tank reduces evaporation. ## Forms a barrier|1 ## Stops vapour escaping|1 ## Saves water|1
 Why do clothes dry faster in a dryer than in the open on a cloudy day? ## Heat|1 ## Moving air|1 ## Tumbling increases exposure|1
 How is evaporation used in making papad, pickles or salt? ## Water is removed by drying|1 ## Preserves food|1 ## Sun used|1

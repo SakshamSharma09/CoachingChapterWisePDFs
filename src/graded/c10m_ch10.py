@@ -38,7 +38,7 @@ def angpa(x):
     return sc_(f"$PA$ and $PB$ are tangents from an external point $P$ to a circle with centre $O$, touching it at $A$ and $B$. $\\angle AOB={x}^\\circ$.", "$\\angle APB$", 180 - x, [x, 90 - x // 2 if x % 2 == 0 else 90 - x, 2 * x if 2 * x != 180 - x else 90],
                ["$OA\\perp PA$ and $OB\\perp PB$, so $\\angle OAP=\\angle OBP=90^\\circ$", f"In quadrilateral $OAPB$: $\\angle APB=360^\\circ-90^\\circ-90^\\circ-{x}^\\circ$", f"$\\angle APB={180-x}^\\circ$"], fmt=dg)
 def oab(y):
-    return sc_(f"$PA$ and $PB$ are tangents from an external point $P$ to a circle with centre $O$, touching it at $A$ and $B$. $\\angle APB={y}^\\circ$.", "$\\angle OAB$", y // 2, [y, 90 - y // 2 if y // 2 != 90 - y // 2 else 30, (180 - y) // 2 if (180 - y) // 2 != y // 2 else 20],
+    return sc_(f"$PA$ and $PB$ are tangents from an external point $P$ to a circle with centre $O$, touching it at $A$ and $B$. $\\angle APB={y}^\\circ$.", "$\\angle OAB$", y // 2, [y, 90 - y // 2 if y // 2 != 90 - y // 2 else 30, (180 - y) // 2 if (180 - y) // 2 != y // 2 else 20, 90 - y, 180 - y, 2 * y, y + 30],
                [f"$PA=PB$, so $\\angle PAB=\\frac{{180^\\circ-{y}^\\circ}}{{2}}={90-y//2}^\\circ$", "$\\angle OAP=90^\\circ$ (radius $\\perp$ tangent)", f"$\\angle OAB=90^\\circ-{90-y//2}^\\circ={y//2}^\\circ$"], fmt=dg)
 def apb_from_pab(x):
     return sc_(f"$PA$ and $PB$ are tangents from an external point $P$ to a circle, and $\\angle PAB={x}^\\circ$.", "$\\angle APB$", 180 - 2 * x, [x, 2 * x, 90 - x],
@@ -61,7 +61,7 @@ def inrad(a, b, c):
                [f"$AC={c}$ cm; the incircle touches $AB$, $BC$ at $F$, $D$ and $BDOF$ is a square of side $r$", f"$AF=AB-r={a}-r$, $CD=BC-r={b}-r$ and $AF+CD=AC$ (tangent lengths)", f"$({a}-r)+({b}-r)={c}$ gives $r={r}$ cm"])
 def conc(R, r):
     h = isqrt(R * R - r * r); assert h * h + r * r == R * R
-    return sc_(f"Two concentric circles have radii {R} cm and {r} cm. A chord of the larger circle touches the smaller circle.", "length of the chord", 2 * h, [h, R + r, 2 * (R - r)],
+    return sc_(f"Two concentric circles have radii {R} cm and {r} cm. A chord of the larger circle touches the smaller circle.", "length of the chord", 2 * h, [h, R + r, 2 * (R - r), 2 * r, R - r, 2 * R],
                ["The chord touches the smaller circle at $M$, so $OM\\perp$ chord and $M$ is the midpoint of the chord", f"Half-chord $=\\sqrt{{{R}^2-{r}^2}}={h}$ cm", f"Chord $=2\\times{h}={2*h}$ cm"])
 def eqt(a, b, c, d):
     x = F(d - b, a - c); pa = a * x + b; assert x.denominator == 1

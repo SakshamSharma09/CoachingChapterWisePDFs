@@ -86,6 +86,7 @@ def MC(sc, tail=None):
         try: fw = f(w)
         except AssertionError: continue      # distractor that is not a clean decimal is skipped
         if fw != f(c) and fw not in ws: ws.append(fw)
+    assert len(ws) >= 3, ("MC: need 3 clean hand-written wrong options", sc["stem0"], sc["ask"], c, ws)
     if tail is None: tail = f"The {sc['ask']} is:"
     return M4(f"{sc['stem0']} {tail}", f(c), ws, sc["parts"][1] + "; " + sc["parts"][2])
 def SQ(sc, total):
@@ -101,8 +102,9 @@ def triples(cmax):
             if b * b == b2 and a < b: out.append((a, b, c))
     return out
 def nums_near(c, ex=()):
+    """hand-written wrong values only (no automatic +-1 padding); positive, distinct, not equal to c"""
     c = F(c); out = []
-    for x in list(ex) + [c + 1, c - 1, c + 2, c - 2, c * 2, c + 3, c + 5, c - 3]:
+    for x in ex:
         x = F(x)
         if x != c and x > 0 and x not in out: out.append(x)
     return out

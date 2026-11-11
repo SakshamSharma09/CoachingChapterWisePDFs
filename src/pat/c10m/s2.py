@@ -29,7 +29,7 @@ def make():
      ar("For every angle θ, (sin θ + cos θ)² = 1 + 2 sin θ cos θ.", "sin θ + cos θ = 1 for every angle θ.", 'c', "A is true by expanding; R is false (e.g. θ = 45°)."),
     ]
     B = [
-     OR(S("Use Euclid's division algorithm to find the HCF of 96 and 404.", 2, "404 = 96×4 + 20; 96 = 20×4 + 16 (1); 20 = 16×1 + 4; 16 = 4×4 + 0 ⇒ HCF = 4 (1)."),
+     OR(S("Find the HCF and LCM of 96 and 404 by the prime factorisation method.", 2, "96 = 2⁵ × 3 and 404 = 2² × 101 (1); HCF = 2² = 4; LCM = 2⁵ × 3 × 101 = 9696 (1)."),
         S("Two traffic lights change after every 40 s and 60 s. If they change together at 8:00:00 a.m., when will they next change together?", 2, "LCM(40, 60) = 120 s (1) = 2 minutes ⇒ 8:02:00 a.m. (1).")),
      S("A girl 1.5 m tall casts a shadow 2 m long. At the same time a tree casts a shadow 12 m long. Find the height of the tree.", 2, "Similar right triangles (1): 1.5/2 = h/12 ⇒ h = 9 m (1)."),
      OR(S("In ΔABC, DE ∥ BC with AD = 4<i>x</i> − 3, DB = 3<i>x</i> − 1, AE = 8<i>x</i> − 7 and EC = 5<i>x</i> − 3. Find <i>x</i>.", 2, "BPT: (4x − 3)(5x − 3) = (3x − 1)(8x − 7) ⇒ 2x² − x − 1 = 0 (1) ⇒ x = 1 (x = −½ rejected as lengths would be negative) (1).", fig=fig_tri),

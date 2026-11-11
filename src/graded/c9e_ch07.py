@@ -1,4 +1,4 @@
-"""Class 9 English (Kaleidoscope) Unit 7: Carrier of Words (Khetaram, the Gramin Dak Sevak) + Words (poem). Original paraphrased material."""
+"""Class 9 English (Kaveri) Unit 7: Carrier of Words (Khetaram, the Gramin Dak Sevak) + Words (poem). Original paraphrased material."""
 from engh import *
 SLUG, NAME, CHNO = "Carrier_of_Words_Words", "Carrier of Words; Words (poem)", 7
 
@@ -33,7 +33,7 @@ nA = [
  m("The synonym of 'dedication' is:", "commitment|laziness|anger|pride", "Commitment."),
  m("The antonym of 'trust' is:", "distrust|faith|belief|hope", "Distrust."),
  m("Choose the correct preposition: Khetaram walks ___ the dunes.", "across|between only|against all|among", "Across."),
- m("The theme of the unit is:", "communication and the power of words|space travel|sports|cooking", "Both texts."),
+ m("The theme of the unit is:", "communication and the power of words|rivalry|ambition|adventure", "Both texts."),
 ]
 nB = [
  b("Who is Khetaram?", "A Gramin Dak Sevak (rural postman) (1) who delivers post in a desert area (1)."),
@@ -93,12 +93,12 @@ eA = [
  m("The postman walks over:", "sand|ice|snow|mud only", "Sand dunes."),
  m("The weather in the desert is:", "very hot|very cold only|rainy|foggy", "Hot."),
  m("Khetaram carries a:", "bag of letters|sack of grain|drum|lamp", "Mailbag."),
- m("Villagers can't always:", "read|eat|walk|talk", "Some cannot read."),
+ m("Villagers can't always:", "read|write|walk|talk", "Some cannot read."),
  m("Khetaram sometimes:", "reads letters aloud|sings|cooks|paints", "He helps."),
  m("A 'money order' is sent by:", "post|train only|air|radio", "Postal service."),
  m("People trust Khetaram because he is:", "honest|rude|careless|proud", "Honest."),
- m("The post office is a:", "service|toy|tree|river", "Public service."),
- m("A letter brings:", "news|fruit|water|music", "News."),
+ m("The post office is a:", "service|shop|tree|river", "Public service."),
+ m("A letter brings:", "news|medicine|water|music", "News."),
  m("A synonym of 'hardworking' is:", "diligent|lazy|careless|slow", "Diligent."),
  m("The opposite of 'honest' is:", "dishonest|kind|good|true", "Dishonest."),
  m("The opposite of 'near' is:", "far|close|small|big", "Far."),
@@ -178,7 +178,7 @@ mA = [
  m("The writer's attitude to government postal service is:", "appreciative|critical|neutral|hostile", "Tribute."),
  m("Which is the most likely effect of delay in post in the desert?", "anxiety for families|joy|nothing|a holiday", "Delay hurts."),
  m("The word 'indispensable' describes someone who is:", "absolutely necessary|unwanted|lazy|rich", "Indispensable."),
- m("Which sentence is a fact from the chapter?", "Khetaram delivers post in a desert area.|Postmen are always happy.|Letters are better than phones.|Deserts are boring.", "Fact."),
+ m("Which sentence is a fact from the chapter?", "Khetaram delivers post in a desert area.|Postmen are always happy.|Letters are better than phones.|Postmen are underpaid.", "Fact."),
  m("Which sentence is an opinion?", "Khetaram deserves our highest respect.|Khetaram carries a bag.|Khetaram walks on sand.|Khetaram is a postman.", "Opinion."),
  m("In the poem, words are shown as having:", "power to hurt and heal|no effect|only a cost|only a sound", "Power."),
  m("Read: 'A word once spoken flies like an arrow.' It means that spoken words:", "cannot be called back|are quick to forget|fly in the sky|are weapons only", "Irreversibility."),
@@ -254,7 +254,7 @@ hA = [
  m("The phrase 'carrier of words' is best seen as:", "a metaphor that elevates a routine job|a literal job title only|a joke|a rule", "Elevation."),
  m("Which inference is best supported by villagers' reliance on Khetaram?", "trust is built through consistent service|villagers dislike letters|Khetaram is rich|the post is slow", "Trust."),
  m("A critic says the chapter romanticises hardship. A fair reply is that it also:", "highlights real need for support and recognition|ignores the desert|praises only comfort|is a comedy", "Balanced."),
- m("What is implied by saying a letter can be a 'lifeline'?", "it can sustain emotional and economic survival|it is a rope|it is a toy|it is decoration", "Implied."),
+ m("What is implied by saying a letter can be a 'lifeline'?", "it can sustain emotional and economic survival|it is a rope|it is a rope for climbing|it is decoration", "Implied."),
  m("What does the postman's reading of letters reveal about literacy in the village?", "gaps in access to education|great learning|no interest|good schools", "Inference."),
  m("Which description captures the ethics of Khetaram's work?", "confidentiality and fidelity|fame and fortune|speed and show|cunning", "Ethics."),
  m("Which of these is a possible conflict in the postman's role?", "keeping private news while helping others read|choosing a holiday|buying a stamp|loving rain", "Dilemma."),

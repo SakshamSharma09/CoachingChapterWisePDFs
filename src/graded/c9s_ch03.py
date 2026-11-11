@@ -12,7 +12,7 @@ nA = [MC([
  ("12 g of carbon burns completely in 32 g of oxygen. The mass of carbon dioxide formed is:", "44 g", "20 g", "28 g", "12 g", "12 + 32 = 44."),
  ("In water, hydrogen and oxygen are always present in the mass ratio:", "1 : 8", "8 : 1", "2 : 1", "1 : 16", "Fixed ratio."),
  ("9 g of water is decomposed. The mass of hydrogen obtained is:", "1 g", "8 g", "2 g", "9 g", "1/9 of 9."),
- ("Which postulate of Dalton's atomic theory is correct today?", "Atoms of the same element are identical in properties", "Atoms are indivisible", "Atoms can be created", "Atoms of one element can change into another by chemical reactions", "Only the first is true for a given isotope in chemical terms."),
+ ("Which part of Dalton's atomic theory had to be modified after the discovery of subatomic particles?", "Atoms are indivisible", "Atoms combine in small whole-number ratios", "Atoms of different elements can combine to form compounds", "Chemical reactions are rearrangements of atoms", "Atoms contain electrons, protons and neutrons."),
  ("According to Dalton, atoms combine in:", "small whole-number ratios", "any ratio", "fractional ratios", "decimal ratios", "Small whole numbers."),
  ("A molecule is best described as:", "two or more atoms chemically bonded together that can exist independently", "a single atom only", "a charged atom", "a mixture of atoms", "Group of atoms."),
  ("The atomicity of ozone is:", "3", "2", "1", "4", "[[O3]]."),
@@ -113,7 +113,7 @@ eA = [MC([
  ("The formula of hydrogen sulphide is:", "[[H2S]]", "[[HS]]", "[[HS2]]", "[[H2S2]]", "H+ and S2-."),
  ]), MC([
  ("The bond in [[NaCl]] is:", "ionic", "covalent", "metallic only", "hydrogen", "Transfer."),
- ("The bond in [[H2]] is:", "covalent", "ionic", "metallic", "none", "Sharing."),
+ ("The bond in [[H2]] is:", "covalent", "ionic", "metallic", "hydrogen bond", "Sharing."),
  ("Ionic compounds are usually:", "solids with high melting point", "gases", "low melting liquids", "soft solids", "Crystalline."),
  ("Covalent compounds usually have:", "low melting points", "high melting points", "high conductivity", "hard crystals", "Weak forces."),
  ("Atomic mass unit is written as:", "u", "g only", "kg only", "N", "Unified atomic mass unit."),
@@ -179,7 +179,7 @@ mA = [MC([
  ("A compound has 40 per cent sulphur and 60 per cent oxygen by mass. 20 g of sulphur combines with how much oxygen?", "30 g", "12 g", "40 g", "60 g", "20 x 60/40."),
  ("Carbon monoxide has C : O = 3 : 4. The mass of oxygen that combines with 9 g of carbon is:", "12 g", "9 g", "16 g", "6.75 g", "9 x 4/3."),
  ("In CO2, C : O = 3 : 8. The mass of CO2 formed from 6 g of carbon is:", "22 g", "16 g", "14 g", "11 g", "6 + 16."),
- ("The ratio of the masses of oxygen that combine with a fixed mass of carbon in CO and CO2 is:", "1 : 2", "2 : 1", "1 : 1", "3 : 4", "Law of multiple proportions."),
+ ("The ratio of the masses of carbon to oxygen in [[CO2]] (C = 12, O = 16) is:", "3 : 8", "3 : 4", "1 : 2", "8 : 3", "12 : 32 = 3 : 8."),
  ("46 g of sodium reacts with 71 g of chlorine to form:", "117 g NaCl", "71 g NaCl", "46 g NaCl", "58.5 g NaCl", "46 + 71."),
  ("4.8 g of Mg burns in oxygen to form 8 g of MgO. The mass of oxygen used is:", "3.2 g", "4.8 g", "8 g", "12.8 g", "8 - 4.8."),
  ("Percentage of hydrogen in water is:", "11.1 per cent", "88.9 per cent", "5.5 per cent", "33.3 per cent", "2/18."),
@@ -242,7 +242,7 @@ mC = [
  Z("Explain why the law of conservation of mass is verified in a closed container for the reaction of vinegar and baking soda.", "Gas CO2 is trapped in the container|1", "Total mass before and after is equal|1", "In an open flask CO2 escapes|1"),
 ]
 mD = [
- Z("Verify the law of multiple proportions with carbon and oxygen: CO has 12 g C with 16 g O, CO2 has 12 g C with 32 g O. Explain the ratio and the role of Dalton's theory.", "Fixed mass of C = 12 g|1", "O: 16 g and 32 g|1", "Ratio 1 : 2 (small whole numbers)|1", "Atoms combine in simple ratios|1", "Law of multiple proportions explained by atoms|1"),
+ Z("Verify the law of constant proportions using water: 9 g of water gives 1 g hydrogen and 8 g oxygen, and 18 g of water gives 2 g hydrogen and 16 g oxygen. State the law.", "Ratio H : O in the first sample = 1 : 8|1", "Ratio in the second sample = 2 : 16 = 1 : 8|1", "The ratio is the same for different samples|1", "Law: a pure compound always contains the same elements in a fixed ratio by mass|1", "Proust gave this law; it distinguishes a compound from a mixture|1"),
  Z("Explain how the electronic structure explains the formation of ionic compounds NaCl, MgO and CaF2 with the charges and the formulae.", "Na: 2, 8, 1 loses 1|1", "Mg loses 2, O gains 2: MgO|1", "Ca loses 2; each F gains 1: CaF2|1", "Noble gas arrangement|1", "Formulae by balance of charges|1"),
  Z("Explain covalent bonding in [[CH4]], [[NH3]], [[H2O]] and [[CO2]] with the number of bonds formed by each central atom.", "C forms four single bonds in [[CH4]]|1", "N forms three in [[NH3]]|1", "O forms two in [[H2O]]|1", "C forms two double bonds in [[CO2]]|1", "Octet satisfied|1"),
  Z("Differentiate between ionic and covalent compounds on five properties with examples and explain the reasons for any two.", "Melting points|1", "Conductivity|1", "Solubility|1", "Hardness and brittleness|1", "Reasons: strong lattice vs weak forces|1"),
@@ -271,7 +271,7 @@ hA = [[
  ], MC([
  ("A compound of A and B contains 75 per cent A by mass. A second compound of the same elements contains 60 per cent A. The ratio of the masses of A that combine with a fixed mass of B in the two compounds is:", "2 : 1", "3 : 2", "4 : 3", "3 : 1", "75/25 = 3; 60/40 = 1.5; ratio 2 : 1."),
  ("A sample of a compound contains 2.4 g of carbon and 6.4 g of oxygen. The ratio C : O by mass and the likely formula (C = 12, O = 16) are:", "3 : 8, [[CO2]]", "3 : 4, [[CO]]", "3 : 16, [[CO3]]", "1 : 2, [[CO2]]", "Atoms ratio 2.4/12 : 6.4/16 = 1 : 2."),
- ("An oxide of nitrogen contains 63.6 per cent nitrogen. The empirical formula (N = 14, O = 16) is:", "[[N2O]]", "[[NO]]", "[[NO2]]", "[[N2O3]]", "63.6/14 : 36.4/16 = 4.54 : 2.27 = 2 : 1."),
+ ("The mass of nitrogen in 44 g of [[N2O]] is (N = 14, O = 16):", "28 g", "14 g", "16 g", "44 g", "28/44 of the mass is nitrogen."),
  ("The formula unit mass of the compound [[Ca3(PO4)2]] is (Ca = 40, P = 31, O = 16):", "310 u", "230 u", "278 u", "262 u", "120 + 62 + 128."),
  ("The mass of 3 formula units of [[NaCl]] relative to 1 formula unit of [[MgO]] (Mg = 24) is:", "175.5 : 40", "58.5 : 40", "117 : 40", "58.5 : 24", "3 x 58.5 : 40."),
  ("What mass of oxygen is present in 100 g of [[CaCO3]] (Ca = 40, C = 12, O = 16)?", "48 g", "16 g", "32 g", "12 g", "3 x 16."),
@@ -282,10 +282,10 @@ hA = [[
  ]), MC([
  ("A student heats 10 g of CaCO3. Only 5.6 g of solid CaO is left. The mass of CO2 evolved is:", "4.4 g", "5.6 g", "10 g", "15.6 g", "Mass of gas escaped."),
  ("An element X forms a chloride [[XCl2]] with 52.5 per cent X by mass? (Cl = 35.5) The atomic mass of X is closest to:", "78.5", "40", "24", "56", "52.5/47.5 x 71 = 78.5."),
- ("The simplest ratio of atoms in a compound with 40 per cent C, 6.7 per cent H, 53.3 per cent O is:", "1 : 2 : 1", "1 : 1 : 1", "2 : 1 : 1", "1 : 2 : 2", "CH2O."),
- ("The empirical formula of a compound with C 85.7 per cent and H 14.3 per cent is:", "[[CH2]]", "[[CH]]", "[[CH3]]", "[[C2H]]", "7.14 : 14.3 = 1 : 2."),
+ ("The percentage of carbon in [[CO2]] is about (C = 12, O = 16):", "27.3 per cent", "12 per cent", "72.7 per cent", "50 per cent", "12/44 x 100 = 27.3."),
+ ("The mass of hydrogen in 36 g of water is (H = 1, O = 16):", "4 g", "2 g", "8 g", "32 g", "36 x 2/18 = 4 g."),
  ("When 20 g of sulphur burns in oxygen producing 40 g of sulphur dioxide, the mass of oxygen used is:", "20 g", "40 g", "60 g", "10 g", "40 - 20."),
- ("When sulphur and oxygen react in the ratio 1 : 1 to form [[SO2]] and 1 : 1.5 to form [[SO3]], these ratios illustrate:", "the law of multiple proportions", "the law of conservation of mass", "the law of constant proportions", "none of these", "O masses 1 : 1.5 = 2 : 3."),
+ ("24 g of magnesium burns completely in oxygen to form 40 g of magnesium oxide. The mass of oxygen that combined is:", "16 g", "24 g", "40 g", "64 g", "Mass is conserved: 40 - 24 = 16 g."),
  ("The ionic compound formed between a metal M with valency 3 and the sulphate ion has the formula:", "[[M2(SO4)3]]", "[[MSO4]]", "[[M3SO4]]", "[[M(SO4)3]]", "Criss-cross."),
  ("The ionic compound between a metal of valency 2 and the phosphate ion has the formula:", "[[M3(PO4)2]]", "[[MPO4]]", "[[M2PO4]]", "[[M2(PO4)3]]", "Criss-cross."),
  ("A solid X is hard, brittle, has a high melting point and conducts only when molten. X is:", "an ionic compound", "a covalent molecular compound", "a metal", "a non-metal element", "Ionic."),
@@ -293,7 +293,7 @@ hA = [[
  ])]
 hB = [
  Z("Find the mass of water formed when 4 g of hydrogen reacts with 40 g of oxygen. Which reactant is left over and how much?", "4 g H needs 32 g O|1", "Water = 36 g; 8 g of oxygen left|1"),
- Z("An oxide of copper contains 80 per cent copper by mass. Find its empirical formula (Cu = 64, O = 16).", "Cu: 80/64 = 1.25; O: 20/16 = 1.25|1", "Ratio 1 : 1: [[CuO]]|1"),
+ Z("Find the mass of copper in 80 g of CuO (Cu = 64, O = 16).", "Formula unit mass of CuO = 64 + 16 = 80 u|1", "So 64 g of copper is present in 80 g|1"),
  Z("Calculate the mass of Na in 100 g of [[Na2SO4]] (Na = 23, S = 32, O = 16).", "Mass of Na2SO4 = 142|1", "46/142 x 100 = 32.4 g|1"),
  Z("Explain how the existence of isotopes modifies Dalton's postulate on the identical masses of atoms of an element.", "Isotopes have the same atomic number and different mass numbers|1", "Atoms of one element may have different masses|1"),
  Z("Write the electronic configurations of [[Na+]] and [[F-]] and say what they have in common.", "Na+: 2, 8; F-: 2, 8|1", "Same as neon|1"),
@@ -318,7 +318,7 @@ hC = [
  Z("Calculate the masses of calcium and chlorine present in 55.5 g of [[CaCl2]].", "Ratio Ca : Cl = 40 : 71|1", "Ca = 20 g|1", "Cl = 35.5 g|1"),
  Z("An element Y has the electron arrangement 2, 8, 7 and element Z has 2, 8, 8, 2. Predict the formula and bond in the compound they form.", "Y gains 1 (Cl-)|1", "Z loses 2 (Ca2+)|1", "[[ZY2]] ionic compound|1"),
  Z("Explain why carbon forms four bonds and shows covalent bonding with compounds like methane.", "Four valence electrons|1", "Sharing is easier than transfer of four electrons|1", "Forms [[CH4]]|1"),
- Z("Determine the molecular formula of a compound with empirical formula [[CH2O]] and molecular mass 60 u.", "Empirical mass = 30|1", "60/30 = 2|1", "Molecular formula [[C2H4O2]]|1"),
+ Z("Find the percentage of carbon and of hydrogen in methane, CH4 (C = 12, H = 1).", "Molecular mass = 12 + 4 = 16 u|1", "Carbon = 12/16 x 100 = 75 per cent|1", "Hydrogen = 4/16 x 100 = 25 per cent|1"),
  Z("Explain how the percentage composition shows that water, [[H2O]], is different from hydrogen peroxide, [[H2O2]].", "Water: H 11.1, O 88.9|1", "H2O2: H 5.9, O 94.1|1", "Different compounds, different fixed compositions|1"),
  Z("Explain why the law of conservation of mass is not violated in the burning of a candle even though it seems to lose mass.", "Products are gases (CO2 and water vapour) that escape|1", "Oxygen from air also takes part|1", "A closed set-up would show equal masses|1"),
  Z("Compare the charge on the nucleus, the size and the electronic arrangement of Na and Na+.", "Same nuclear charge +11|1", "Na+ is smaller (loses outer shell)|1", "Na: 2, 8, 1; Na+: 2, 8|1"),
@@ -333,9 +333,9 @@ hD = [
  Z("Explain how an ionic compound forms in each of the cases: (a) Ca and S (b) Al and F (c) K and O, giving the ions and the formulae.", "(a) [[Ca^{2+}]], [[S^{2-}]]: [[CaS]]|1", "(b) [[Al^{3+}]], [[F-]]: [[AlF3]]|1", "(c) [[K+]], [[O^{2-}]]: [[K2O]]|1", "Electron transfer details|1", "Charge balance|1"),
  Z("Compute the molecular masses and the percentage of hydrogen in methane, ethane, ethene and ethyne and explain the trend (C = 12, H = 1).", "CH4: 16 u, 25 per cent|1", "C2H6: 30 u, 20 per cent|1", "C2H4: 28 u, 14.3 per cent|1", "C2H2: 26 u, 7.7 per cent|1", "Hydrogen percentage decreases with unsaturation|1"),
  Z("Explain why equal masses of different elements do not contain equal numbers of atoms. Compare 12 g of carbon with 12 g of magnesium (C = 12, Mg = 24) in terms of the numbers of atoms.", "Atoms of different elements have different masses|1", "12 g of Mg has half as many atoms as 12 g of C|1", "Number of atoms is proportional to mass divided by atomic mass|1", "24 g of Mg has as many atoms as 12 g of C|1", "Atomic masses link mass to number of atoms|1"),
- Z("Analyse the data: elements X and Y form two compounds. Compound I: 1 g X with 1.14 g Y. Compound II: 1 g X with 2.28 g Y. Show that the data illustrate the law of multiple proportions and suggest the formulas if I is XY.", "Y masses per 1 g X: 1.14 and 2.28|1", "Ratio = 1 : 2|1", "Small whole-number ratio|1", "I: XY, II: [[XY2]]|1", "Supports atoms combining in simple ratios|1"),
+ Z("In a decomposition experiment, 36 g of water gives 4 g of hydrogen. Find the mass of oxygen, verify the law of conservation of mass and find the mass ratio H : O.", "Mass of oxygen = 36 - 4 = 32 g|1", "Total mass of products = 4 + 32 = 36 g = mass of reactant|1", "Mass is conserved (Lavoisier)|1", "Ratio H : O = 4 : 32|1", "= 1 : 8|1"),
  Z("Explain how the properties of substances such as table salt, sugar, graphite, diamond and copper depend on the nature of the bonding in them.", "Salt: ionic lattice, brittle|1", "Sugar: molecular covalent, no conduction|1", "Graphite: layers, conducts, soft|1", "Diamond: network, hardest|1", "Copper: metallic, conducts|1"),
- Z("A mixture of two oxides of carbon is analysed. Sample A contains 12 g of carbon and 16 g of oxygen; sample B contains 12 g of carbon and 32 g of oxygen. Name the compounds, explain the law illustrated and predict the mass of oxygen with 12 g of carbon in a third, hypothetical oxide following the same pattern with ratio 1 : 3.", "A is carbon monoxide, B is carbon dioxide|1", "Oxygen masses 16 : 32 = 1 : 2|1", "Law of multiple proportions|1", "Third oxide: 48 g of oxygen|1", "Atoms combine in small whole-number ratios|1"),
+ Z("Calcium carbonate decomposes on heating into CaO and CO2. Using atomic masses (Ca = 40, C = 12, O = 16), find the masses of CaO and CO2 obtained from 100 g of CaCO3 and verify conservation of mass.", "Formula unit mass of CaCO3 = 100 u|1", "CaO = 56 u, so 56 g of CaO|1", "CO2 = 44 u, so 44 g of CO2|1", "Total products = 56 + 44 = 100 g|1", "Equal to the mass of the reactant, so mass is conserved|1"),
  Z("Describe the contribution of Lavoisier and Proust to the development of chemistry, and the experiments that supported their laws, with limitations of a balance in the 18th century.", "Lavoisier: careful weighing in closed vessels|1", "Conservation of mass|1", "Proust: analysed copper carbonate, fixed composition|1", "Dispute with Berthollet|1", "Better balances confirmed the law|1"),
  Z("Plan an investigation to show that the formula of an oxide of copper is CuO: the procedure, the data to be collected, the calculations and the conclusion.", "Weigh a clean copper strip or powder in a crucible|1", "Heat strongly in air and reweigh|1", "Mass of oxygen = difference|1", "Calculate Cu : O ratio 63.5 : 16|1", "Compare with 4 : 1, conclude CuO|1"),
 ]

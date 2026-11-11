@@ -174,10 +174,10 @@ eD = [
 # ============================ MEDIUM ============================
 mA = [MC([
  ("A force of 240 N acts on an area of 0.4 square metre. The pressure is:", "600 Pa", "96 Pa", "240 Pa", "60 Pa", "240 / 0.4 = 600."),
- ("A brick of weight 20 N has faces of 0.1 square metre and 0.04 square metre. The maximum pressure it can exert is:", "500 Pa", "200 Pa", "2 Pa", "0.8 Pa", "20/0.04 = 500 Pa."),
- ("The minimum pressure for the same brick is:", "200 Pa", "500 Pa", "2 Pa", "0.2 Pa", "20/0.1 = 200 Pa."),
+ ("A brick of weight 20 N has faces of areas 0.1 square metre and 0.04 square metre. The maximum pressure it can exert when resting on a face is:", "500 Pa", "200 Pa", "2 Pa", "0.8 Pa", "20/0.04 = 500 Pa."),
+ ("A brick of weight 20 N has faces of areas 0.1 square metre and 0.04 square metre. The minimum pressure it can exert when resting on a face is:", "200 Pa", "500 Pa", "2 Pa", "0.2 Pa", "20/0.1 = 200 Pa."),
  ("A person of weight 600 N stands on both feet, each of area 0.01 square metre. The pressure on the ground is:", "30000 Pa", "60000 Pa", "6000 Pa", "300 Pa", "600/0.02 = 30000 Pa."),
- ("When he lifts one foot, the pressure on the ground:", "doubles", "halves", "stays same", "becomes zero", "Area is halved."),
+ ("A person standing on both feet lifts one foot off the ground. The pressure he exerts on the ground:", "doubles", "halves", "stays the same", "becomes zero", "The area of contact is halved while the weight is unchanged."),
  ("A force of 500 N produces a pressure of 25 Pa. The area is:", "20 square metres", "12500 square metres", "0.05 square metres", "525 square metres", "A = F/P = 500/25."),
  ("A pressure of 1000 Pa acts on an area of 3 square metres. The force is:", "3000 N", "333 N", "1003 N", "0.003 N", "F = P x A."),
  ("A diver goes from 5 m to 10 m depth. The pressure on him:", "increases", "decreases", "stays same", "becomes zero", "Depth increases."),
@@ -188,11 +188,11 @@ mA = [MC([
  ("A sealed bag of chips puffs up on a hilltop because:", "outside pressure is lower than inside", "outside pressure is higher", "air inside cools", "chips expand", "Lower external pressure."),
  ("The sea breeze occurs because:", "land is warmer than sea in the daytime", "land is cooler than sea in the daytime", "sea is warmer at noon", "sea is frozen", "Air rises over land."),
  ("In a low pressure region air is:", "rising", "sinking", "frozen", "stationary", "Warm air rises."),
- ("Winds during monsoon in India blow from:", "the sea to the land in summer", "the land to the sea in summer", "north to south", "none", "Bring rain."),
+ ("Winds during monsoon in India blow from:", "the sea to the land in summer", "the land to the sea in summer", "north to south throughout the year", "the west to the east only in winter", "Bring rain."),
  ("A cyclone weakens after reaching land because:", "it loses the supply of warm moist air", "it gets more water", "land is warmer than the sea", "pressure rises", "Energy source is lost."),
  ("A suction cup fails on a rough wall because:", "air leaks in so pressure equalises", "the wall is heavy", "gravity is stronger", "the cup is too big", "Seal is lost."),
  ("When a syringe plunger is pulled out, liquid rises in it because:", "atmospheric pressure pushes the liquid", "the syringe attracts liquid", "gravity decreases", "liquid expands", "Low pressure inside."),
- ("Which has the most pressure at the bottom of a tank of the same height filled with liquid?", "the liquid with the greatest density", "the widest tank", "the narrowest tank", "tank at any speed", "Pressure depends on density and depth."),
+ ("Which has the most pressure at the bottom of a tank of the same height filled with liquid?", "the liquid with the greatest density", "the widest tank", "the narrowest tank", "the liquid with the least density", "Pressure depends on density and depth."),
  ("A dropper works by:", "squeezing and releasing the bulb to change air pressure", "magnet", "friction", "gravity only", "Air pressure."),
  ]), MC([
  ("A hurricane in the Atlantic and a typhoon in the Pacific are:", "the same type of storm with different names", "different types of storms", "tornadoes", "earthquakes", "Tropical cyclones."),
@@ -273,7 +273,7 @@ hA = [[
  ("A block of weight 60 N rests on a table. The force exerted by the table on it is:", "60 N upward", "0", "30 N", "60 N downward", "Balanced forces."),
  ("A man of weight 800 N exerts 40000 Pa when wearing shoes. The area of contact of both shoes is:", "0.02 square metre", "0.2 square metre", "2 square metres", "32 square metres", "800 / 40000."),
  ("An ice skater of weight 500 N skates on a blade of area 0.0005 square metre. The pressure on the ice is:", "1000000 Pa", "1000 Pa", "250 Pa", "0.1 Pa", "500/0.0005."),
- ("A pool is 2 m deep at one end and 4 m deep at the other. Compared to the shallow end, the pressure at the bottom of the deep end is:", "twice", "half", "the same", "four times", "Proportional to depth."),
+ ("A pool is 2 m deep at one end and 4 m deep at the other. Compared to the shallow end, the pressure due to the water at the bottom of the deep end is:", "twice", "half", "the same", "four times", "Proportional to depth."),
  ("A balloon released from the sea level rises up to a height and bursts. This is because:", "outside pressure falls and the balloon expands", "outside pressure increases", "the balloon gets heavier", "gravity increases", "Balloon swells."),
  ("The air pressure in a car tyre is measured at 200 kPa. The force on 0.01 square metre of the tyre wall is:", "2000 N", "20 N", "20000 N", "200 N", "200000 x 0.01."),
  ("In a barometer the reading at a hill station is lower than at sea level because:", "there is less air above the hill station", "hill air is colder", "hills attract less", "the barometer is faulty", "Air column is shorter."),
@@ -288,7 +288,7 @@ hA = [[
  ("The sudden drop in pressure at the centre of a tornado can cause houses to:", "burst outwards", "stay intact", "become cold", "get magnetised", "Pressure imbalance."),
  ("The windward side of a mountain has more rainfall because:", "moist air rises and cools there", "air sinks there", "it is nearer to the Sun", "it has no clouds", "Orographic rain."),
  ("A person climbing Mount Everest carries oxygen because:", "air pressure and oxygen are low", "oxygen is heavy", "it is warm", "air is dense", "Thin air."),
- ("When air in a closed syringe is compressed to half its volume at constant temperature, its pressure:", "doubles", "halves", "stays same", "becomes zero", "Boyle-type relation."),
+ ("When the air trapped in a closed syringe is compressed by pushing the plunger in, the pressure of the air:", "increases", "decreases", "stays the same", "becomes zero", "Particles collide with the walls more often."),
  ])]
 hB = [
  Z("Calculate the pressure under a 5 kg bag (weight about 50 N) that rests on a 0.1 m by 0.05 m face.", "Area = 0.005 square metre|1", "P = 50/0.005 = 10000 Pa|1"),

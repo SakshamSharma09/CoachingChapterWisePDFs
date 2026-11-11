@@ -266,7 +266,7 @@ HA = MC([
 "If a place is 45 degrees E and another 45 degrees W, the longitude difference is | 90 degrees | 0 degrees | 45 degrees | 180 degrees | 45 + 45",
 "The time difference between 45 degrees E and 45 degrees W is | 6 hours | 3 hours | 0 hours | 12 hours | 90/15",
 "A person flying from east to west across many meridians sets the watch | back | forward | no change | by one day | Moving against rotation",
-"Which pair of lines would cross each other at right angles? | parallels and meridians | two parallels | two meridians | none | Grid",
+"Which pair of lines would cross each other at right angles? | parallels and meridians | two parallels | two meridians | two lines of longitude near the poles | Grid",
 "If a map shows a north arrow pointing to the bottom of the page, then | the top of the page is south | the top of the page is north | the map is wrong | the map has no direction | Orientation",
 "The advantage of GPS over a paper map is | real-time position through satellites | no need of power | no need of signals | no coordinates | Technology",
 "Why do sailors prefer large-scale charts near harbours? | more detail to avoid hazards | less detail | bigger area | easier folding | Safety",
@@ -278,7 +278,7 @@ HA = MC([
 "What does 'orientation' of a map mean? | aligning it with directions | making it smaller | colouring it | folding it | Alignment",
 "A sketch map is drawn from a school gate to a market with a river in between. Which feature is essential? | direction and key | colour only | decoration only | title only | Usability",
 "Why is the term 'flat Earth' contradicted by evidence like ships disappearing hull first? | curved surface of the Earth | straight horizon | no curvature | horizon is a line | Evidence",
-"Why were maps in ancient India often oriented in a different way from modern maps? | cultural conventions of direction | no directions | errors only | no maps | Cultural diversity",
+"A traveller without a map wants to find north. Which instrument helps most? | a magnetic compass | a rain gauge | a thermometer | a barometer | Compass needle points north",
 "Which is the most appropriate use of a political map? | finding state capitals | finding mountains | finding rain | finding soil | Boundaries",
 "Which statement is true of all maps? | they are simplified representations | they are exact copies | they are globes | they show everything | Abstraction",
 ])

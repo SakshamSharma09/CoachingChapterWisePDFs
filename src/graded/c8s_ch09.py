@@ -25,7 +25,7 @@ nA = [MC([
  ("Which can be separated by filtration?", "suspension", "salt solution", "sugar solution", "alloy", "Large particles stay on filter."),
  ("To make a dilute solution from a concentrated one, we:", "add more solvent", "add more solute", "evaporate the solvent", "heat it", "Dilution."),
  ("Concentrated solution has:", "a large amount of solute in a given volume", "very little solute", "no solute", "no solvent", "More solute."),
- ("Particles of a true solution can be seen with:", "no ordinary microscope", "naked eye", "hand lens", "magnet", "Too small."),
+ ("The particles of a true solution:", "cannot be seen even with an ordinary microscope", "can be seen with the naked eye", "can be seen with a hand lens", "settle down on standing", "They are extremely small."),
  ]), MC([
  ("The mass percentage of a solution is:", "(mass of solute / mass of solution) x 100", "(mass of solvent / mass of solute) x 100", "(mass of solution / mass of solute) x 100", "mass of solute x mass of solvent", "Standard definition."),
  ("20 g of salt is dissolved in 80 g of water. The mass percentage of salt is:", "20 per cent", "25 per cent", "80 per cent", "10 per cent", "20/100 x 100."),
@@ -102,7 +102,7 @@ eA = [MC([
  ]), MC([
  ("Sugar dissolves faster in:", "hot water", "cold water", "ice", "oil", "Heat helps."),
  ("Stirring makes dissolving:", "faster", "slower", "impossible", "no change", "Mixing."),
- ("Powdered sugar dissolves than crystals:", "faster", "slower", "never", "equally", "Surface."),
+ ("Compared with sugar crystals, powdered sugar dissolves:", "faster", "slower", "at the same rate", "only in hot water", "A larger surface is exposed to the solvent."),
  ("Tea with more sugar is more:", "concentrated", "dilute", "insoluble", "saturated always", "More solute."),
  ("Tea with less sugar is more:", "dilute", "concentrated", "insoluble", "pure", "Less solute."),
  ("Filtration can separate:", "sand from water", "salt from water", "sugar from water", "alcohol from water", "Insoluble solid."),
@@ -204,7 +204,7 @@ mA = [MC([
  ("A mixture of oil and water is separated using:", "a separating funnel", "filter paper", "sieve", "magnet", "Immiscible."),
  ("Ink on paper is dissolved by:", "alcohol or water", "air", "sand", "stone", "Solvent."),
  ("Rate of dissolving of a solid depends on:", "surface area of the solid", "its colour", "the size of the beaker", "smell", "More surface."),
- ("A powder of copper sulphate dissolves in hot water fully but not cold water. This shows:", "solubility increases with temperature", "powder is magnetic", "water is heavy", "none", "Temperature effect."),
+ ("A powder of copper sulphate dissolves in hot water fully but not cold water. This shows:", "solubility increases with temperature", "powder is magnetic", "water is heavy", "copper sulphate melts in hot water", "Temperature effect."),
  ])]
 mB = [
  Z("Find the mass percentage of a solution made by dissolving 18 g of sugar in 82 g of water.", "Solution = 100 g|1", "Percentage = 18 per cent|1"),

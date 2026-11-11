@@ -30,7 +30,7 @@ The lens power in dioptres for a lens of focal length -50 cm is ~~ -2 D ~~ +2 D 
 Splitting of white light into its seven colours is called ~~ dispersion ~~ reflection ~~ refraction ~~ scattering ~~ Newton's prism experiment.
 Which colour bends least on passing through a glass prism? ~~ Red ~~ Violet ~~ Green ~~ Blue ~~ Red has the longest wavelength.
 Which colour bends most on passing through a prism? ~~ Violet ~~ Red ~~ Yellow ~~ Orange ~~ Shortest wavelength.
-The sequence of colours in the spectrum from top to bottom is ~~ VIBGYOR ~~ ROYGBIV ~~ BGYOR ~~ RGB ~~ Violet at the bottom after dispersion by the prism; commonly written as VIBGYOR.
+When white light passes through a prism, the colours from the least bent to the most bent are ~~ red, orange, yellow, green, blue, indigo, violet ~~ violet, indigo, blue, green, yellow, orange, red ~~ red, yellow, orange, green, blue, indigo, violet ~~ blue, green, red, yellow, orange, indigo, violet ~~ Red bends least and violet bends most.
 A rainbow is formed due to ~~ dispersion, refraction and internal reflection by water droplets ~~ only reflection ~~ only scattering ~~ diffraction ~~ Raindrops act as tiny prisms.
 A rainbow is seen when the Sun is ~~ behind the observer ~~ in front of the observer ~~ overhead only ~~ below the horizon ~~ The observer sees colours from the opposite side.
 The twinkling of stars is due to ~~ atmospheric refraction of starlight ~~ reflection by the moon ~~ dispersion ~~ scattering ~~ Varying density of air.
@@ -268,7 +268,7 @@ AR ~~ The sky appears dark to an astronaut. ~~ There is no atmosphere in outer s
 AR ~~ A bifocal lens has both concave and convex parts. ~~ A person may need correction for both distant and near vision. ~~ a ~~ Presbyopia with myopia.
 AR ~~ A rainbow is seen when the Sun is behind the observer. ~~ Raindrops disperse sunlight and return the coloured light back towards the side from which the sunlight came. ~~ a ~~ The observer must stand between the Sun and the rain to receive the returned light.
 
-A person with a far point at 25 cm requires spectacles to read the 6 m board. The focal length is ~~ -25 cm ~~ -6 m ~~ -31 cm ~~ +25 cm ~~ f = -(far point) = -25 cm.
+A person with a far point at 25 cm requires spectacles to see distant objects clearly. The focal length of the lens is ~~ -25 cm ~~ -6 m ~~ -31 cm ~~ +25 cm ~~ f = -(far point) for objects at infinity.
 A person can see only from 40 cm to 100 cm. The lens power for distance and reading lens power (to read at 25 cm) are respectively ~~ -1 D and +1.5 D ~~ -1 D and +1 D ~~ -2.5 D and +1.5 D ~~ -0.4 D and +3 D ~~ Distance: f = -100 cm. Reading: 1/f = -1/40 + 1/25 = 3/200, P = +1.5 D.
 The ability of the eye to see objects clearly at different distances depends on ~~ the ciliary muscles changing the shape of the lens ~~ the pupil moving the lens ~~ the retina moving back and forth ~~ the cornea changing its colour ~~ Accommodation by the ciliary muscles.
 A second identical prism is placed upside down in contact with the first one, in the path of a narrow white beam. The emergent beam is ~~ white light ~~ a wider spectrum ~~ only red light ~~ only violet light ~~ The second prism reverses the dispersion.
@@ -280,7 +280,7 @@ A person with presbyopia and myopia uses ~~ bifocal lenses ~~ a single concave l
 The ability to see in dim light is due mainly to ~~ rod cells ~~ cone cells ~~ iris muscles ~~ lens ~~ Rods are light-sensitive.
 
 The sky is blue because ~~ smaller wavelengths are scattered more by small particles ~~ larger wavelengths are scattered more by small particles ~~ the sun emits blue only ~~ the sea reflects blue ~~ Rayleigh type scattering.
-A person who sees the Sun's rays as red at sunset at a place in the plains, will see the rays at the top of a high mountain ~~ less red than in the plains at the same time ~~ more red ~~ unchanged ~~ blue ~~ Thinner atmosphere, less scattering.
+The sky appears blue because molecules of the atmosphere scatter ~~ blue light more strongly than red light ~~ red light more strongly than blue light ~~ all colours equally ~~ only yellow light ~~ Shorter wavelengths are scattered more.
 The size of the particles in the atmosphere responsible for the white colour of clouds is ~~ larger than the wavelength of light ~~ much smaller than the wavelength ~~ about the size of an atom ~~ zero ~~ All colours scatter.
 A prism of glass is immersed in a liquid whose refractive index equals that of the glass for all colours. A beam of white light passing through it will ~~ go undeviated ~~ be dispersed ~~ be absorbed ~~ be reflected ~~ No relative refraction.
 A beam of red and violet lights enters a glass slab. In the glass ~~ violet travels slower than red ~~ red travels slower than violet ~~ both travel at the same speed ~~ violet travels faster ~~ n(violet) > n(red).

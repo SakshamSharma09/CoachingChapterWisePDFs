@@ -21,7 +21,13 @@ def why(n, d):
     if d == 11: a, b = alt(n); return f"alternate digit sums {a} and {b} differ by {abs(a-b)}, {'a multiple' if (a-b)%11==0 else 'not a multiple'} of 11"
     if d == 6: return f"{'even' if n%2==0 else 'odd'} and digit sum {dsum(n)} {'is' if dsum(n)%3==0 else 'is not'} a multiple of 3"
 def yn(b): return "Yes" if b else "No"
-def YN(q, b, w): return M4(q, yn(b), [yn(not b), "Only if the last digit is even", "Only if the number is a perfect square"], w)
+def DV(d, good):
+    """Which of the following is divisible by d? One multiple (good) and three near-miss non-multiples."""
+    assert divtest(good, d)
+    bad = []
+    for k in (1, -1, 2, -2, 3, -3, 4):
+        if not divtest(good + k, d) and len(bad) < 3: bad.append(good + k)
+    return M4(f"Which of the following numbers is divisible by {d}?", good, bad, why(good, d))
 def kap(n):
     s = sorted(f"{n:04d}"); return int("".join(reversed(s))) - int("".join(s))
 def ksteps(n):
@@ -45,8 +51,8 @@ def nonmult(n, d, c=3):
     return out
 
 # ================= EASY =================
-eA1 = [YN(f"Is {n} divisible by 3?", divtest(n, 3), why(n, 3)) for n in [2346, 5471, 8205, 3917, 6132, 7048]]
-eA2 = [YN(f"Is {n} divisible by 9?", divtest(n, 9), why(n, 9)) for n in [4527, 6318, 7254, 3809, 5136, 9081]]
+eA1 = [DV(3, n) for n in [2346, 8205, 6132, 5472, 7041, 4509]]
+eA2 = [DV(9, n) for n in [4527, 6318, 7254, 5238, 9081, 3807]]
 eA3 = [M4(f"Which of the following is divisible by {d}?", n, nonmult(n, d), why(n, d) if d in (2, 3, 4, 5, 8, 9, 10) else "") for d, n in [(2, 3846), (4, 5712), (5, 8365), (10, 7240), (3, 6213), (9, 4527 + 9), (8, 3456)]]
 eA4 = [M4(f"The sum of the digits of {n} is:", dsum(n), [dsum(n) + 1, dsum(n) - 1, dsum(n) + 2], "Add all the digits") for n in [2748, 5093, 6184, 3927, 8506]]
 eA5 = [M4("The sum of two odd numbers is always:", "even", ["odd", "a multiple of 3", "a prime number"], "Odd + odd = even"),
@@ -57,7 +63,7 @@ eA5 = [M4("The sum of two odd numbers is always:", "even", ["odd", "a multiple o
        M4("The sum of two consecutive whole numbers is always:", "odd", ["even", "a multiple of 3", "a multiple of 5"], "One of them is even and the other odd")]
 eA6 = [M4(f"The number obtained by reversing the digits of {n} is:", rev(n), [n + 9, rev(n) + 10, rev(n) - 9], "Write the digits in the opposite order") for n in [3472, 5081, 9264, 7315]]
 eA7 = [M4("Which of the following is a palindrome?", p, [p + 1, p + 10, p - 11], "A palindrome reads the same from both ends") for p in [4554, 7227, 12921, 3883]]
-eA8 = [M4(f"The LCM of {a} and {b} is:", lcm(a, b), [a * b if a * b != lcm(a, b) else a * b + a, gcd(a, b) + 1, lcm(a, b) + a], "Smallest common multiple") for a, b in [(4, 6), (6, 9), (10, 15), (8, 12), (5, 7)]]
+eA8 = [M4(f"The LCM of {a} and {b} is:", lcm(a, b), [gcd(a, b), a + b, a * b if a * b != lcm(a, b) else 2 * lcm(a, b)], "Smallest common multiple") for a, b in [(4, 6), (6, 9), (10, 15), (8, 12), (5, 7)]]
 EASY_A = [eA1, eA2, eA3, eA4, eA5, eA6, eA7, eA8]
 EASY_B = ([Q(f"Is {n} divisible by 3? Give a reason.", f"{yn(divtest(n,3))} (1); {why(n,3)} (1).", "1+1") for n in [4821, 7352, 9063, 5419]]
           + [Q(f"Find the smallest digit to put in the blank so that the number {p} is divisible by 9.", f"Known digit sum $={dsum(int(p.replace('_','0')))}$ (1); smallest digit $={blank(p.replace('_','*'),9)[0]}$ (1).", "1+1") for p in ["47_8", "6_25", "31_4", "_839"]]
@@ -69,8 +75,8 @@ EASY_D = ([Q(f"Check whether {n} is divisible by 2, 3, 5, 9 and 10. Give a reaso
           + [Q(f"Find the smallest number that must be added to {n} so that it becomes divisible by {d}.", f"Remainder when {n} is divided by {d} is {n%d} (2); number to add $={d}-{n%d}={(-n)%d}$ (2); new number {n+(-n)%d} (1).", "2+2+1") for n, d in [(4537, 9), (6182, 9), (7345, 3), (2918, 5), (5603, 10), (3874, 9)]])
 
 # ================= NCERT =================
-nA1 = [YN(f"Is {n} divisible by 11?", div11(n), why(n, 11)) for n in [3465, 8239, 5217, 7183, 9372]]
-nA2 = [YN(f"Is {n} divisible by 6?", divtest(n, 6), why(n, 6)) for n in [4518, 3724, 6150, 7298, 5322]]
+nA1 = [DV(11, n) for n in [3465, 8239, 5214, 7183, 9372]]
+nA2 = [DV(6, n) for n in [4518, 6150, 7296, 5322, 8112]]
 nA3 = [M4(f"For the number {n}, (largest 4-digit arrangement of its digits) - (smallest arrangement) is:", kap(n), [kap(n) + 90, kap(n) - 90, kap(n) + 9], "Kaprekar routine: arrange digits in descending and ascending order and subtract") for n in [2538, 4721, 9053, 6184, 3076]]
 nA4 = [M4(f"The sum of the three consecutive numbers {a}, {a+1} and {a+2} is:", 3 * a + 3, [3 * a, 3 * a + 1, 3 * a + 6], "Sum $=3\\times$ middle number") for a in [12, 25, 37, 48, 61]]
 nA5 = [M4(f"The sum of the five consecutive numbers starting from {a} is:", 5 * a + 10, [5 * a, 5 * a + 5, 5 * a + 15], "Sum $=5\\times$ middle number") for a in [14, 29, 33, 40]]
@@ -131,7 +137,7 @@ def pal(d):
 hA4 = [M4(f"The smallest 3-digit palindrome divisible by {d} is:", pal(d), [pal(d) + 10, pal(d) - 10, pal(d) + d], "Test palindromes 101, 111, 121, ...") for d in [3, 4, 6, 7, 9]]
 def ab(t, d):
     return [(a, b) for a in range(10) for b in range(10) if int(t.replace("a", str(a)).replace("b", str(b))) % d == 0]
-hA5 = [M4(f"If the number {t} is divisible by 90, then $a+b$ equals:", sum(ab(t, 90)[0]), [sum(ab(t, 90)[0]) + k for k in (1, 2, 3)], "Divisible by 10 and 9") for t in ["7a2b", "1a4b", "5a8b", "3a6b", "9a1b"]]
+hA5 = [M4(f"If the number {t} is divisible by 90, then $a+b$ equals:", sum(ab(t, 90)[0]), [sum(ab(t, 90)[0]) + k for k in (1, 2, 3)], "Divisible by 10 and 9") for t in ["6a2b", "1a4b", "5a8b", "4a6b", "9a1b"]]
 hA6 = [M4(f"The number of steps the Kaprekar routine needs to reach 6174 starting from {n} is:", len(ksteps(n)) - 1, [len(ksteps(n)), len(ksteps(n)) - 2 if len(ksteps(n)) > 2 else len(ksteps(n)) + 2, len(ksteps(n)) + 1], "Apply the routine and count") for n in [2111, 5555 - 1, 9831, 1004, 7766]]
 hA7 = [M4(f"A number is divisible by both {a} and {b}. It must be divisible by:", a * b, [a + b, a * b * 2, a * b // gcd(a, b) + a], f"{a} and {b} have no common factor") for a, b in [(9, 11), (8, 9), (5, 7), (7, 8), (11, 13)]]
 HARD_A = [hA1, hA2, hA3, hA4, hA5, hA6, hA7]

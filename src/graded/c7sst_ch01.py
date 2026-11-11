@@ -195,7 +195,7 @@ MA = MC([
 "Why do hill stations have a pleasant climate? | high altitude makes them cooler | they are near the sea | they are in the desert | they are in the equator | Temperature falls with altitude",
 "The Eastern Ghats are less continuous because | they are cut by rivers flowing to the Bay of Bengal | they are young | they are volcanic | they are glaciers | Dissected by rivers",
 "Which characteristic suits the peninsular rivers for hydroelectric power? | falls and steep slopes along the plateau | very flat plains | glaciers | deserts | Waterfalls",
-"Which two features together make the Himalayas a climatic barrier? | height and east-west extent | colour and shape | name and age | none | They block cold winds",
+"Which two features together make the Himalayas a climatic barrier? | height and east-west extent | colour and shape | name and age | soil type and river length | They block cold winds",
 "India's relief is varied because | different geological processes shaped different regions | all regions are same | no change occurred | no rivers | Diversity",
 "Why is Meghalaya known for heavy rainfall? | it faces monsoon winds on its hills | it is a desert | it is far from the sea | it is a plain | Mawsynram nearby",
 "Which pair is correctly matched? | Chilika - lagoon | Sundarbans - desert | Thar - delta | Himalaya - plateau | Landform names",

@@ -81,7 +81,7 @@ Explain the concept of solution, solute, solvent and saturated solution. ## Solu
 Write short notes on how a magnet is used to separate. ## Works for iron|1 ## Mix of iron and sand|1 ## Pass magnet|1 ## Iron clings|1 ## Sand remains|1
 How can we get pure water from sea water? Describe a simple method. ## Heat sea water|1 ## Water evaporates|1 ## Condense vapour on a cool surface|1 ## Collect drops|1 ## Salt remains|1
 Describe how mixtures of two solids with different sizes are separated, with three examples. ## Sieving|1 ## Wheat flour|1 ## Sand and gravel|1 ## Tea leaves|1 ## Hole size decides|1
-Explain how a mixture of oil and water can be separated. ## Allow to stand|1 ## Oil floats|1 ## Use a separating funnel|1 ## Or spoon off oil|1 ## Oil is lighter|1
+Explain how a mixture of oil and water can be separated. ## Allow it to stand undisturbed|1 ## Oil is lighter and floats as a separate layer|1 ## Pour or spoon off the oil layer carefully|1 ## This is decantation|1 ## Water is left behind|1
 Explain why different methods are chosen for separating mixtures with examples of three types. ## Solid-solid: sieving|1 ## Solid-liquid: filtration|1 ## Liquid-liquid: decantation|1 ## Dissolved solid: evaporation|1 ## Based on properties|1
 Explain how a water purifier at home uses separation. ## Sediment filter removes dirt|1 ## Carbon filter removes smell|1 ## Membrane or UV for germs|1 ## Safe water|1 ## Steps of separation|1
 Describe how rice is cleaned before cooking. ## Handpick stones|1 ## Wash rice|1 ## Decant dirty water|1 ## Repeat|1 ## Clean rice remains|1
@@ -131,7 +131,7 @@ What is decantation? ## Pouring off the liquid ## Leaves sediment
 What is filtration? ## Separation with filter paper ## Solids stay behind
 What is evaporation? ## Water changing to vapour ## Leaves salt
 What is condensation? ## Vapour changing to water ## On cooling
-What is churning? ## Spinning milk ## Cream separates
+What is churning? ## Beating or stirring cream or curd ## Butter separates
 What is threshing? ## Beating stalks ## Gets grains
 What is a magnet used for here? ## Separating iron ## From mixtures
 What is a solvent? ## Liquid that dissolves ## Water
@@ -177,7 +177,7 @@ A mixture contains chalk powder, salt and iron filings. The first method to use 
 After removing iron and adding water to the mixture of chalk and salt, filtering gives chalk as: ## residue ## filtrate ## solvent ## solute ## It stays on paper.
 After the filtration above, the filtrate contains: ## salt solution ## chalk ## iron ## sand ## Salt dissolved.
 To get salt from the filtrate we use: ## evaporation ## sieving ## magnet ## winnowing ## Heat.
-A mixture of kerosene and water can be separated by: ## separating funnel ## winnowing ## sieving ## magnet ## Immiscible liquids.
+A mixture of kerosene and water can be separated by: ## decantation after two layers form ## winnowing ## sieving ## magnet ## Immiscible liquids.
 Heavier particles in muddy water settle first by: ## sedimentation ## filtration ## evaporation ## condensation ## Gravity.
 Tea powder in a cup of tea is separated using: ## filtration ## winnowing ## magnet ## sieving ## Strainer.
 For separating coarse sand and fine sand, we use: ## sieving ## decantation ## filtration ## evaporation ## Different sizes.
@@ -198,9 +198,9 @@ Which of these is not a method of separating solid from solid? ## evaporation ##
 Why do we heat the salt solution slowly towards the end during evaporation? ## to avoid spurting ## to cool ## to dissolve more ## to freeze ## Splashing.
 Why is the filter paper folded and fitted in the funnel? ## to hold the paper well ## to make it colourful ## to prevent filtration ## to cool ## Good contact.
 What happens to the water in a closed container heated and its vapour cooled? ## pure water is collected ## salt is collected ## sand is collected ## air is collected ## Distillation.
-To separate cream from milk, a dairy uses a: ## centrifuge ## sieve ## magnet ## fan ## Spins.
+To separate cream from milk, we can use: ## churning ## sieving ## a magnet ## winnowing ## Spins.
 A mixture of rice, stones and husk is separated by: ## winnowing and handpicking ## filtration ## magnet ## evaporation ## Combine.
-A student wants to recover copper sulphate crystals from solution. She should: ## evaporate part of water and cool ## filter ## sieve ## magnet ## Crystallisation.
+A student wants to recover salt crystals from a salt solution. She should: ## evaporate the water ## filter the solution ## sieve the solution ## use a magnet ## Crystallisation.
 Why is it better to wash vegetables in running water than in standing water? ## carries away dirt ## makes them hot ## makes them sweet ## makes them cold ## Removes dirt.
 Why does muddy water become clearer when kept overnight? ## particles settle ## water evaporates ## salt dissolves ## air enters ## Sedimentation.
 In a flour mill, bran is separated from flour by: ## sieving ## magnet ## winnowing only ## filtration ## Size.
@@ -213,10 +213,10 @@ How can a mixture of sugar and sand be separated? ## Add water; sugar dissolves 
 Why do we add alum to muddy water? ## Particles clump together ## They settle faster
 Why can we not separate a mixture of salt and sugar by filtration? ## Both dissolve ## They pass through together
 Explain why separation methods depend on the properties of components. ## Size, weight, solubility differ ## A suitable method uses one such property
-Why is the mixture of water and alcohol not separated by decantation? ## They mix completely ## Distillation is needed
+Why is the mixture of water and alcohol not separated by decantation? ## They mix completely ## They form a single layer, so nothing can be poured off
 Why is winnowing done in a place with wind? ## Wind blows away light husk ## Heavy grain falls down
 Why is the mud left on the filter paper called residue? ## It remains behind ## The clear liquid is the filtrate
-How can you separate mustard seeds from sand? ## Sieve with fine holes ## Mustard passes or is retained depending on the sizes
+How can you separate mustard seeds from sand? ## Use a sieve whose holes let sand pass but not the seeds ## Seeds are larger than sand grains
 What is the role of the funnel in filtration? ## Holds the filter paper ## Directs the filtrate
 Describe a method to recover water from salt water. ## Evaporate and condense the vapour ## Collect the droplets
 """
@@ -225,7 +225,7 @@ A mixture contains wheat, stones, iron nails and sand. Suggest a plan to separat
 Describe the experiment to prove that a salt solution has salt even if it looks clear. ## Heat a few drops on a glass slide|1 ## Water evaporates|1 ## White solid remains|1
 Explain how a tea strainer, a sieve and filter paper are similar and different. ## All have holes|1 ## Hole size differs|1 ## Used for different sizes|1
 Why is a mixture of oil and water separated by decantation but not salt and water? ## Oil floats as a separate layer|1 ## Salt dissolves uniformly|1 ## Distillation or evaporation used for salt|1
-What is crystallisation? How can we get salt crystals? ## Slow cooling or evaporation gives crystals|1 ## Evaporate part of the water|1 ## Cool to get crystals|1
+How can you show that sea water contains dissolved salt? ## Heat a little sea water in a dish|1 ## The water evaporates|1 ## White salt is left behind|1
 Give three examples of mixtures in the kitchen and say how each is separated. ## Tea: strainer|1 ## Flour: sieve|1 ## Rice and stones: handpicking|1
 Explain why sea water is evaporated in shallow pans instead of deep ones. ## Large surface area|1 ## Sun heats quickly|1 ## Faster evaporation|1
 What is the difference between a pure substance and a mixture? ## Pure substance has one kind of matter|1 ## Mixture has more|1 ## Examples: gold vs sea water|1
@@ -233,7 +233,7 @@ How does a washing of rice grains separate small stones? ## Stones are heavier a
 Describe how a student can purify a sample of water with sand, gravel and cloth filter. ## Layers of gravel, sand|1 ## Pour water|1 ## Dirt trapped|1
 Explain how the condensation of steam can give pure water. ## Boil the water|1 ## Steam goes to a cool tube|1 ## Condenses|1
 How is rice separated from the water after cooking? ## Use a strainer|1 ## Water passes|1 ## Rice remains|1
-Why is it difficult to separate ink components by evaporation? ## Dyes differ|1 ## Colours stay mixed|1 ## Special methods needed|1
+Why can a sieve not separate chalk powder from water? ## Chalk particles are tiny|1 ## They pass through the holes along with the water|1 ## Sedimentation or filtration is better|1
 How do you decide whether to use filtration or evaporation to separate a solid from water? ## If solid is insoluble: filtration|1 ## If dissolved: evaporation|1 ## Check solubility|1
 Explain how threshing differs from winnowing. ## Threshing frees grain from stalk|1 ## Winnowing removes husk|1 ## Both done in succession|1
 How would you separate a mixture of iron nails and coloured beads? ## Use a magnet|1 ## Nails stick to it|1 ## Beads remain|1
@@ -246,10 +246,10 @@ Describe an experiment to prove that the amount of solute dissolved depends on t
 Explain how the traditional salt-making process in India uses the Sun's heat. ## Sea water let into pans|1 ## Sun evaporates water|1 ## Salt crystals appear|1 ## Collected and dried|1 ## Purified for use|1
 Discuss methods for cleaning a village pond water for drinking. ## Settle|1 ## Alum|1 ## Cloth filter|1 ## Boil|1 ## Store safely|1
 Describe how pure water can be obtained from sea water with a flask, tube and beaker. ## Heat flask|1 ## Steam goes through tube|1 ## Cooled in water|1 ## Condensed|1 ## Collect pure water|1
-Explain the principle of each: winnowing, magnetic separation, sedimentation, evaporation, sieving. ## Winnowing: weight|1 ## Magnet: magnetic property|1 ## Sedimentation: density|1 ## Evaporation: volatility|1 ## Sieving: size|1
+Explain the principle of each: winnowing, magnetic separation, sedimentation, evaporation, sieving. ## Winnowing: weight|1 ## Magnet: magnetic property|1 ## Sedimentation: density|1 ## Evaporation: water turns to vapour but the dissolved solid does not|1 ## Sieving: size|1
 Analyse how the separation methods used in cooking and farming are related. ## Winnowing and sieving|1 ## Straining|1 ## Evaporation|1 ## Churning|1 ## Basic ideas same|1
 Describe how to recover a dissolved solid and the water from a solution at the same time. ## Heat the solution|1 ## Steam to a cool vessel|1 ## Water collected|1 ## Solid remains|1 ## Distillation|1
-Explain the difference between a solution, suspension and mixture of solids using examples. ## Solution: salt in water|1 ## Suspension: chalk in water|1 ## Mixture: sand and sugar|1 ## Suspension settles|1 ## Solution does not|1
+Explain the difference between a salt solution and a mixture of solids such as sand and sugar. ## Solution: salt in water|1 ## The dissolved salt cannot be seen|1 ## Mixture of solids: sand and sugar|1 ## Parts of a solid mixture can be seen|1 ## Parts of a solution do not settle|1
 Describe an activity to show that sand is insoluble but common salt is soluble. ## Stir salt in water|1 ## Disappears|1 ## Stir sand|1 ## Settles|1 ## Salt solution clear, sand residue|1
 Explain the importance of removing impurities from flour and grains in a food factory. ## Stones harm teeth|1 ## Iron bits dangerous|1 ## Sieves and magnets used|1 ## Hygiene|1 ## Quality|1
 Describe how to get pure sugar crystals from sugar cane juice (simple method). ## Filter juice|1 ## Boil to evaporate water|1 ## Cool|1 ## Crystals form|1 ## Separate and dry|1
@@ -260,7 +260,7 @@ hA = [mc("""
 A mixture of iron filings, common salt, and fine sand is given. Which sequence is the most efficient? ## magnet, add water and filter, evaporate filtrate ## add water, evaporate, magnet ## evaporate first, filter, magnet ## filter, magnet, sieve ## Each step removes one component.
 In the mixture above, after the first step the residue on the filter paper is: ## sand ## salt ## iron ## water ## Insoluble.
 Which of these will take the longest to settle in water? ## fine clay ## sand ## gravel ## pebbles ## Smaller particles settle slowest.
-A mixture of two liquids that do not mix is separated using: ## separating funnel ## filter paper ## sieve ## magnet ## Layers form.
+A mixture of two liquids that do not mix is separated by: ## decantation after the layers form ## filtration through paper ## sieving ## winnowing ## Layers form.
 A mixture of water and alcohol cannot be separated by decantation because: ## they mix completely ## alcohol is heavy ## water is solid ## alcohol is magnetic ## One layer only.
 The method of spinning milk rapidly to separate cream is called: ## churning ## winnowing ## sieving ## handpicking ## Churning makes lighter cream separate from milk.
 A student pours a mixture of sand and water through filter paper twice. The second filtrate is clearer because: ## fine particles left from the first pass are trapped ## sand dissolves ## water evaporates ## paper becomes magnetic ## Repeating removes remaining fine particles.
@@ -283,7 +283,7 @@ Why is alum added during water purification before filtration? ## it makes tiny 
 Why does purifying water require both filtration and chlorination or boiling? ## filtration cannot remove all germs ## filtration removes salt ## boiling removes sand ## sedimentation removes germs ## Disinfection is needed.
 Which of the following correctly orders the steps of a municipal water treatment? ## sedimentation, filtration, disinfection ## disinfection, filtration ## filtration, sedimentation ## boiling, magnet ## Standard.
 Which is a reason for decanting slowly? ## to avoid disturbing the sediment ## to save time ## to cool ## to dissolve ## Keeps the sediment.
-Why is a funnel with a pointed tip better than a flat one for filtration? ## directs the liquid into the container ## it is nice ## it is cold ## it is heavy ## Directing.
+Which apparatus is used to hold the filter paper while filtering? ## funnel ## beaker ## watch glass ## tripod stand ## Directing.
 Which of the following is false about solutions? ## they scatter light strongly like muddy water ## they are uniform ## solutes pass filter paper ## they are clear ## True solutions do not scatter much.
 A student wants to dry sea salt. She should: ## spread and heat it in sun ## add water ## filter ## stir ## Drying.
 In a lab, separation of a mixture of salt and water must keep the salt. Which method is correct? ## evaporation ## sieving ## winnowing ## decantation ## Gets salt.
@@ -296,9 +296,9 @@ Why does tea powder pass through a sieve but not through a filter paper in tea? 
 Why does a gold-washing (panning) method use water? ## Gold is heavy and settles ## Lighter sand is washed away
 Explain why hot saturated salt solution gives crystals on cooling. ## Solubility decreases ## Excess solute separates out
 How would you separate a mixture of sugar crystals and wheat grains? ## Dissolve the sugar in water and strain out the grains ## Evaporate the water to recover sugar
-Why is a centrifuge used to separate blood components? ## Spinning separates by density ## Heavy parts go to the bottom
-How can you separate water from a mixture of oil and water? ## Use a separating funnel ## Water is heavier
-Why is separation of a solution from a suspension easier by filtration for the latter? ## Suspension particles are large ## They stay on the paper
+Why does cream rise to the top of milk kept for some time? ## Cream is lighter than the rest of the milk ## It forms a layer on top
+How can you separate oil from a mixture of oil and water? ## Let it stand so the oil floats, then pour it off ## Oil is lighter than water
+Why is filtration useful for muddy water but not for salt water? ## Mud particles are insoluble and stay on the paper ## Salt is dissolved and passes through with the water
 How do we remove insoluble impurities from honey? ## Strain through cloth ## Warm gently
 How can you obtain pure sugar from impure sugar? ## Dissolve, filter and evaporate ## Crystallise
 Why does the filtrate remain cloudy if the filter paper tears? ## Particles pass through ## Fine solids reach the filtrate
@@ -319,16 +319,16 @@ Why is it necessary to dry the residue after filtration? ## Moisture adds mass|1
 Describe the separation of mustard oil from mustard seeds in a simple way. ## Seeds crushed|1 ## Oil pressed out|1 ## Filtered|1
 How does a cotton cloth help separate curd from whey? ## Holds solid|1 ## Whey passes|1 ## Straining|1
 A mixture of oil and sand is given. How will you separate? ## Add water|1 ## Oil floats|1 ## Filter sand|1
-What is the difference between distillation and evaporation? ## Distillation collects vapour|1 ## Evaporation lets vapour go|1 ## Distillation gives pure liquid|1
+How can you show that a salt solution contains water as well as salt? ## Heat the solution in a plate with a cool lid above|1 ## Droplets of water collect on the lid|1 ## White salt is left in the plate|1
 How does a vacuum cleaner separate dust from air? ## Filter bag traps dust|1 ## Air passes|1 ## Similar to filtration|1
 Name the principle used in a washing machine's drain filter. ## Filtration|1 ## Fluff stays|1 ## Water passes|1
 Why do food industries use sieves and magnets? ## Remove unwanted stones|1 ## Iron pieces|1 ## Quality and safety|1
 """
 hD = """
-Two beakers contain salt water and muddy water. Explain with the help of experiments how you would show that one is a solution and the other a suspension. ## Keep both still|1 ## Mud settles, salt water stays clear|1 ## Filter both|1 ## Mud on paper, salt in filtrate|1 ## Evaporate filtrate for salt|1
+Two beakers contain salt water and muddy water. Explain with the help of experiments how you would show that one has dissolved salt and the other has insoluble mud. ## Keep both still|1 ## Mud settles, salt water stays clear|1 ## Filter both|1 ## Mud on paper, salt in filtrate|1 ## Evaporate filtrate for salt|1
 Write a step-wise plan to obtain pure water, pure salt and pure sand from sea-side sandy salt water. ## Let sand settle, decant|1 ## Filter remaining|1 ## Dry the sand|1 ## Evaporate part of the filtrate for salt|1 ## Condense vapour for water|1
 Explain how the properties of substances are used in each stage of a water-treatment plant. ## Sedimentation: density|1 ## Alum: clumping|1 ## Sand filter: size|1 ## Chlorine: kills germs|1 ## Supply|1
-Analyse how a dairy separates cream from milk and makes butter with the methods of separation. ## Centrifuge separates cream|1 ## Cream is churned|1 ## Butter forms|1 ## Buttermilk|1 ## Density difference used|1
+Analyse how cream is separated from milk and made into butter at home. ## Milk is left to stand or boiled and cooled|1 ## Cream forms a layer on top|1 ## The cream is removed and churned|1 ## Butter forms|1 ## Buttermilk is left behind|1
 Describe how to carry out an investigation to find which of three muddy-water samples has the most sediment. ## Take equal volumes in glasses|1 ## Leave undisturbed for an hour|1 ## Measure the depth of settled mud|1 ## Compare the depths|1 ## Conclude with reasons|1
 Explain with an example why a method of separation that works for one mixture may not work for another. ## Filtration works for sand-water|1 ## It fails for salt-water|1 ## Because salt dissolves|1 ## Evaporation works|1 ## Choose by property|1
 Explain how a solar salt pan produces salt in stages and how impurities are removed. ## Sea water collects in pans|1 ## Evaporation in stages|1 ## Brine thickens|1 ## Crystals formed|1 ## Washed and dried|1

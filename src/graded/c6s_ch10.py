@@ -9,7 +9,7 @@ Which of the following is a characteristic of all living things? ## they need fo
 Which of these is a non-living thing? ## a stone ## a bird ## a tree ## a fish ## Stones do not grow or respire.
 Living things respond to changes in their surroundings. These changes are called: ## stimuli ## habitats ## cells ## organs ## A stimulus triggers a response.
 The response of a plant to light is seen when: ## the stem bends towards light ## roots grow upwards ## leaves fall ## flowers close ## Shoots bend towards light.
-The leaves of a touch-me-not (Mimosa) plant fold when: ## touched ## watered ## heated only ## kept in the dark only ## They respond to touch.
+The leaves of a touch-me-not (Mimosa) plant fold when: ## touched ## watered ## fertilised ## kept in a pot ## They respond to touch.
 The process of taking in oxygen and releasing carbon dioxide is: ## respiration ## excretion ## digestion ## reproduction ## Gas exchange for energy.
 Plants take in air mainly through tiny pores in the leaves called: ## stomata ## roots ## flowers ## seeds ## Stomata allow gas exchange.
 Fish breathe in water with the help of: ## gills ## lungs ## skin only ## stomata ## Gills absorb dissolved oxygen.
@@ -21,11 +21,11 @@ A seed grows into a plant. This shows: ## growth ## decay ## melting ## freezing
 Non-living things such as a stone: ## do not grow ## grow in size on their own ## reproduce ## respire ## They do not show life processes.
 Which of these living things moves from place to place? ## a dog ## a mango tree ## a rose plant ## a cactus ## Animals can move.
 Plants show movement in the form of: ## bending towards light ## walking ## swimming ## running ## Parts move slowly.
-The basic unit of life is the: ## cell ## organ ## tissue ## atom ## All organisms are made of cells.
-Living things made of just one cell are: ## unicellular ## multicellular ## non-living ## extinct ## E.g. amoeba.
-Living things made of many cells are called: ## multicellular ## unicellular ## non-living ## uniform ## E.g. humans.
-An amoeba is a: ## unicellular organism ## multicellular organism ## non-living thing ## plant ## It is a single-celled organism.
-Which of these is made of many cells? ## a human ## an amoeba ## a bacterium ## a stone ## Humans are multicellular.
+The correct order of the life stages of a butterfly is: ## egg, larva (caterpillar), pupa, adult ## egg, pupa, larva, adult ## larva, egg, adult, pupa ## adult, egg, pupa, larva ## All organisms are made of cells.
+Which of these animals lays eggs? ## hen ## cow ## goat ## dog ## E.g. amoeba.
+Which of these animals gives birth to young ones? ## cow ## hen ## frog ## snake ## E.g. humans.
+Which of these plants folds its leaves when touched? ## touch-me-not (Mimosa) ## banyan ## mango ## wheat ## It is a single-celled organism.
+Which of these needs food for energy? ## a human ## a stone ## a table ## a pebble ## Humans are multicellular.
 """), mc("""
 Which of the following do all living things need? ## food, water and air ## only sunlight ## only soil ## only wood ## Basic needs.
 Green plants make their food by: ## photosynthesis ## respiration ## excretion ## digestion ## Using sunlight.
@@ -46,10 +46,10 @@ How do plants respond to light? Give an example. ## Stems bend towards light ## 
 How do fish and earthworms breathe? ## Fish: gills ## Earthworm: moist skin
 What is excretion? ## Removal of wastes from the body ## Done by kidneys or skin
 Why do living things need food? ## For energy ## For growth and repair
-What are unicellular organisms? Give an example. ## Organisms made of one cell ## Amoeba
+What is meant by life span? Give an example. ## The time for which a living thing lives ## A house fly lives for days but a banyan for hundreds of years
 Why do we say that a flowing river is non-living though it moves? ## It does not grow or reproduce ## It does not respire
 Explain how a plant shows growth. ## Increases in size ## New leaves and roots appear
-What is a cell? ## Basic structural unit of life ## All organisms are made of cells
+What is meant by a response? ## The reaction of a living thing to a stimulus ## Mimosa folding its leaves on touch is a response
 How do seeds help in reproduction of plants? ## New plants grow from them ## They are produced by flowers
 """
 nC = """
@@ -57,18 +57,18 @@ Explain why a stone is non-living though it exists around us. ## It does not nee
 Describe how plants respire. ## Take in oxygen through stomata|1 ## Release carbon dioxide|1 ## Also by roots in soil|1
 Describe the responses of a touch-me-not plant. ## Leaves fold on touch|1 ## Open after some time|1 ## It shows response to stimulus|1
 Explain how animals get their food. ## Herbivores eat plants|1 ## Carnivores eat animals|1 ## Omnivores eat both|1
-Differentiate between unicellular and multicellular organisms. ## Unicellular: one cell, amoeba|1 ## Multicellular: many cells, humans|1 ## Different complexity|1
+Differentiate between plants and animals in the way they move. ## Animals move from place to place|1 ## Plants are fixed in the soil|1 ## Plants show slow movement such as bending towards light|1
 How do organisms reproduce? Give three examples. ## Plants through seeds|1 ## Hens lay eggs|1 ## Cows give birth to young|1
 Why is it difficult to classify a few things as living or non-living? Give an example. ## Some seeds appear dry and inactive|1 ## Dry seeds sprout later|1 ## They show life only in suitable conditions|1
 Explain how plants and animals are different in their way of getting food. ## Plants make food|1 ## Animals depend on plants|1 ## Plants use sunlight|1
 Why do plants bend towards light? ## Stems respond to light|1 ## It helps leaves get more light|1 ## Better photosynthesis|1
 Why do all living things excrete? ## Wastes are harmful|1 ## They must be removed|1 ## Keep the body healthy|1
 List the stages of life of a butterfly. ## Egg|1 ## Larva and pupa|1 ## Adult|1
-Give three differences between a plant and an animal. ## Plants make food, animals do not|1 ## Plants fixed, animals move|1 ## Plants have cell walls|1
+Give three differences between a plant and an animal. ## Plants make food, animals do not|1 ## Plants fixed, animals move|1 ## Plants respond slowly while animals respond quickly|1
 How does a fish respond to danger? ## Swims away|1 ## Hides|1 ## Responds to stimuli|1
 Write three examples each of living and non-living things. ## Living: cow, neem, bird|1 ## Non-living: chair, stone, water|1 ## Based on characteristics|1
 Why do living organisms have different life spans? Give three examples. ## House fly: a few days|1 ## Dog: about 12 years|1 ## Banyan: hundreds of years|1
-Explain why growth in living things differs from growth of non-living things. ## Living growth is from inside by cell division|1 ## Non-living increase by adding material outside|1 ## Example: plant vs a sand heap|1
+Explain why growth in living things differs from growth of non-living things. ## Living things grow from within using food|1 ## Non-living things increase by adding material outside|1 ## Example: plant vs a sand heap|1
 Describe how the seed and the egg are similar. ## Both produce new life|1 ## Both contain food for the young one|1 ## Both start development|1
 Describe three kinds of movement shown by animals. ## Walking|1 ## Flying|1 ## Swimming|1
 """
@@ -77,7 +77,7 @@ Explain the characteristics of living things with examples. ## Need food|1 ## Re
 Describe how plants and animals respire, with three examples of breathing organs. ## Plants: stomata|1 ## Fish: gills|1 ## Humans: lungs|1 ## Earthworm: skin|1 ## All take oxygen|1
 Explain the term stimulus and response with five examples. ## Light: stem bends|1 ## Touch: Mimosa folds|1 ## Noise: animal turns|1 ## Heat: moves away|1 ## Hunger: search for food|1
 Differentiate between living and non-living things on five points with examples. ## Food|1 ## Growth|1 ## Respiration|1 ## Reproduction|1 ## Response|1
-Describe the cell as the unit of life and compare unicellular and multicellular organisms. ## Cell is the basic unit|1 ## Amoeba: one cell|1 ## Humans: many cells|1 ## Cells form tissues|1 ## Tissues form organs|1
+Describe the life cycles of a butterfly and a frog. ## Butterfly: egg|1 ## Butterfly: larva (caterpillar), then pupa|1 ## Butterfly: adult|1 ## Frog: egg in water, then tadpole|1 ## Frog: adult frog|1
 Explain how animals move and why movement is important. ## Search food|1 ## Escape danger|1 ## Find mates|1 ## Fish swim|1 ## Birds fly|1
 Describe how plants respond to environmental stimuli with three examples. ## Light|1 ## Touch|1 ## Water|1 ## Roots grow downward|1 ## Shoots grow upward|1
 Explain how growth, reproduction and death are part of the life cycle, with the example of a plant. ## Seed germinates|1 ## Plant grows|1 ## Flowers and fruits|1 ## New seeds|1 ## Old plants die|1
@@ -91,7 +91,7 @@ Write a note on the life span of different organisms. ## Insects: days|1 ## Dogs
 eA = [mc("""
 Which of these is living? ## a dog ## a stone ## a chair ## a book ## Dogs are alive.
 Which of these is non-living? ## a table ## a cat ## a tree ## a bird ## Table does not live.
-Living things need: ## food ## nothing ## only stones ## only chairs ## Food.
+Living things need: ## food, water and air ## only stones ## only sand ## only metal ## Food.
 Living things breathe: ## air ## stones ## paper ## wood ## Air.
 Plants make food in their: ## leaves ## roots ## flowers ## stems only ## Photosynthesis.
 Animals cannot make their own: ## food ## shelter ## noise ## breathing ## They depend on plants.
@@ -106,14 +106,14 @@ Plants breathe through: ## stomata ## gills ## lungs ## nose ## Stomata.
 Our waste urine is removed by the: ## kidneys ## brain ## heart ## stomach ## Excretion.
 A growing child shows: ## growth ## decay ## melting ## burning ## Growth.
 A plant bends towards: ## light ## stone ## sound ## dust ## Light.
-Which one is a unicellular organism? ## amoeba ## dog ## tree ## fish ## Single cell.
+Which one of these gives birth to its young ones? ## dog ## hen ## fish ## lizard ## Single cell.
 A touch-me-not plant folds its leaves on: ## touch ## sound ## light ## smell ## Touch.
 Which one moves from place to place? ## dog ## tree ## stone ## book ## Animals move.
 A tree grows: ## slowly ## never ## backwards ## by itself disappearing ## Slow growth.
 """), mc("""
 A stone: ## does not grow ## grows ## breathes ## eats ## Non-living.
 A car moves but is not alive because it: ## does not grow ## sleeps ## eats ## sees ## Machines.
-The basic unit of life is: ## cell ## stone ## brick ## book ## Cell.
+The first stage in the life of a hen is the: ## egg ## chick ## feather ## nest ## Cell.
 The living thing with a short life of days is: ## fly ## banyan ## tortoise ## human ## Short.
 A butterfly begins life as an: ## egg ## adult ## pupa ## flower ## Egg.
 Living things respond to: ## stimuli ## stones ## chairs ## desks ## Stimuli.
@@ -129,12 +129,12 @@ What do living things need? ## Food ## Water and air
 What do plants make? ## Food ## By photosynthesis
 Name the organ of breathing in fish. ## Gills ## Take oxygen from water
 Name the organ of breathing in humans. ## Lungs ## In the chest
-What is a cell? ## Basic unit of life ## Makes up all organisms
+What is movement? ## Change of place or position of the body ## Animals walk, fly or swim
 What is excretion? ## Removal of wastes ## From the body
 What is growth? ## Increase in size ## Of living beings
 What is reproduction? ## Making new ones ## Of their kind
 What is a stimulus? ## A change around ## Causes a response
-Name one unicellular organism. ## Amoeba ## Single cell
+Name one animal that lays eggs. ## Hen ## Frog or snake
 """
 eC = """
 Write three characteristics of living things. ## Need food|1 ## Respire|1 ## Grow|1
@@ -152,7 +152,7 @@ Write three life stages of a butterfly. ## Egg|1 ## Larva|1 ## Adult|1
 Name three living things in a garden. ## Plant|1 ## Bee|1 ## Bird|1
 Name three non-living things in a garden. ## Soil|1 ## Stone|1 ## Water|1
 Write three ways living things get food. ## Plants make it|1 ## Animals eat plants|1 ## Animals eat animals|1
-Write three examples of multicellular organisms. ## Human|1 ## Tree|1 ## Dog|1
+Name three animals that live in water. ## Fish|1 ## Turtle|1 ## Octopus|1
 Write three things that happen when we breathe. ## Take in oxygen|1 ## Give out carbon dioxide|1 ## Get energy|1
 Write three differences between a plant and a stone. ## Plant grows|1 ## Plant respires|1 ## Plant reproduces|1
 """
@@ -165,7 +165,7 @@ Write five examples of how plants respond. ## Bends to light|1 ## Roots go down|
 Write five animals and their breathing organs. ## Human: lungs|1 ## Fish: gills|1 ## Earthworm: skin|1 ## Bird: lungs|1 ## Frog: lungs and skin|1
 Explain why plants are living. ## Need food|1 ## Grow|1 ## Breathe|1 ## Reproduce|1 ## Respond|1
 Explain why a stone is non-living. ## Does not eat|1 ## Does not grow|1 ## Does not breathe|1 ## Does not reproduce|1 ## Does not respond|1
-Describe the activities of a living cell in five points. ## Takes food|1 ## Produces energy|1 ## Grows|1 ## Divides|1 ## Removes wastes|1
+Write five needs of living things. ## Food|1 ## Water|1 ## Air|1 ## Shelter|1 ## Space to live|1
 Write five examples of living things in water. ## Fish|1 ## Frog|1 ## Lotus|1 ## Turtle|1 ## Algae|1
 Explain the use of food for living things in five points. ## Gives energy|1 ## Helps growth|1 ## Repairs body|1 ## Protects from disease|1 ## Keeps warm|1
 Write five life processes. ## Nutrition|1 ## Respiration|1 ## Excretion|1 ## Reproduction|1 ## Movement|1
@@ -178,10 +178,10 @@ A pebble kept in water for days does not change but a seed swells and sprouts. T
 A robot dog moves, barks and responds to commands. Is it living? ## no, it cannot grow, respire or reproduce ## yes, it moves ## yes, it barks ## yes, it responds ## Machines lack life processes.
 A dry seed shows no activity but is considered alive because: ## it can germinate in suitable conditions ## it is hard ## it is small ## it is brown ## Dormancy.
 Which of the following is the best proof that a plant respires? ## it releases carbon dioxide ## it has leaves ## it has flowers ## it is green ## Gas exchange.
-Which characteristic is common to all of: tree, bird, bacterium? ## they respire ## they walk ## they fly ## they make food ## Respiration is universal.
+Which characteristic is common to all of: tree, bird, ant? ## they respire ## they walk ## they fly ## they make food ## Respiration is universal.
 Which is not a living organism? ## fire ## mushroom ## moss ## amoeba ## Fire moves and consumes but is not alive.
 Which of the following 'grows' but is non-living? ## a crystal of salt ## a seedling ## a baby ## a calf ## Crystals grow by external deposition.
-How does the growth of a plant differ from that of a growing sand heap? ## plant grows from within by cell division ## sand heap grows from within ## both grow same ## plant grows by deposit ## Biological growth.
+How does the growth of a plant differ from that of a growing sand heap? ## plant grows from within by making new parts ## sand heap grows from within ## both grow in the same way ## plant grows by deposit ## Biological growth.
 Which of these actions by an animal is a response to a stimulus? ## a cat jumping at a sound ## a cat sleeping ## a cat being born ## a cat's tail ## Response.
 """), mc("""
 A caterpillar changes to a butterfly through a stage called: ## pupa ## egg ## adult ## seed ## Metamorphosis.
@@ -196,11 +196,11 @@ A plant kept in the dark for a week turns yellow. This shows: ## light is needed
 Why do plants kept in a closed cupboard bend toward a small gap? ## they respond to light ## they like air ## they need dust ## they move legs ## Phototropism.
 """), mc("""
 A flower produces seeds. Seeds on sowing give plants. This shows: ## reproduction ## excretion ## digestion ## respiration ## Life continues.
-An amoeba, a bacterium and a human are alike because all are made of: ## cells ## bones ## muscles ## blood ## Cellular.
-Which of the following correctly shows the order from simple to complex? ## cell, tissue, organ, organism ## organ, cell, tissue ## tissue, cell, organ ## organism, organ, cell ## Standard order.
+A cow, a hen and a human are alike because all of them: ## need food and air ## make their own food ## live only in water ## cannot reproduce ## Cellular.
+Which stage comes after the egg in the life of a frog? ## tadpole ## adult frog ## pupa ## seed ## Standard order.
 Which of the following helps organisms in removing wastes? ## kidney ## stomata ## gills ## roots only ## Kidneys excrete.
 Plants excrete wastes by: ## shedding leaves ## kidneys ## sweating ## gills ## Old leaves carry waste.
-Which of these processes takes place in all living cells? ## respiration ## photosynthesis ## digestion by stomach ## flying ## Energy release.
+Which of these processes takes place in all living things? ## respiration ## photosynthesis ## digestion by stomach ## flying ## Energy release.
 What is common between a germinating seed and a growing baby? ## both show growth ## both fly ## both are green ## both are hard ## Growth.
 Which one of the following is an adaptation to find food? ## a spider's web ## a tree's bark ## a stone's shape ## a rainbow ## Traps insects.
 An animal that can live both in water and on land is a(n): ## amphibian ## fish ## bird ## insect ## Frogs.
@@ -211,17 +211,17 @@ Why is a dry seed considered living although it shows no activity? ## It germina
 Why is a car not considered living although it moves and uses fuel? ## It does not grow or reproduce ## It is made, not born
 Why do the leaves of Mimosa fold on touch? ## They respond to the stimulus ## It may protect them from harm
 How do plants get rid of waste? ## Shed leaves and bark ## Store wastes in parts
-Why do plants kept in the dark become pale? ## No light for food making ## Chlorophyll fails to form
+Why do plants kept in the dark become pale? ## No light for food making ## Green colour fails to form
 Differentiate between a seed and an egg in terms of development. ## Seed grows into a plant ## Egg grows into an animal
 Why does a pet dog wag its tail when it sees its owner? ## It responds to the stimulus ## It shows a reaction
-Why is growth of a crystal different from growth of a plant? ## Crystal grows by adding material outside ## Plant grows by cell division
+Why is growth of a crystal different from growth of a plant? ## Crystal grows by adding material outside ## Plant grows from within
 Why can a fish not live out of water? ## Gills work in water ## It cannot take oxygen from air
 Name three life processes seen in a tree. ## Respiration ## Growth and reproduction
-Why does an amoeba count as a living thing? ## It feeds and respires ## It grows and reproduces
+Why do we say a mango tree is living? ## It needs food, water and air ## It grows and reproduces
 Why do living things need energy? ## For all life processes ## Obtained from food
 """
 mC = """
-Explain why fire is not living though it grows, needs air and gives out waste. ## Fire does not have cells|1 ## It does not reproduce on its own|1 ## It cannot respond or repair itself|1
+Explain why fire is not living though it grows, needs air and gives out waste. ## Fire does not grow from within|1 ## It does not reproduce on its own|1 ## It cannot respond or repair itself|1
 Give reasons: (a) Seeds are living, (b) Rock is non-living, (c) Mushroom is living. ## (a) Germinate and grow|1 ## (b) No life process|1 ## (c) Grows and reproduces by spores|1
 Describe the experiment to show that a germinating seed respires. ## Place germinating seeds in a closed jar|1 ## After some time lower a lighted candle|1 ## Candle goes out as oxygen is used|1
 How do animals respond to hot, cold and loud noise? Give examples. ## Hot: move away|1 ## Cold: huddle together|1 ## Loud noise: run or fly|1
@@ -229,49 +229,49 @@ Compare reproduction in plants and animals with examples. ## Plants: seeds, cutt
 Why do mushroom and moss count as living things? ## They grow|1 ## They reproduce|1 ## They respire|1
 Explain why plants do not need food from outside while animals do. ## Plants make food in leaves|1 ## Animals cannot|1 ## They depend on plants|1
 Explain with examples how plants show movement. ## Sunflower follows the Sun|1 ## Flowers open and close|1 ## Roots grow towards water|1
-What is an organism? Give examples of unicellular and multicellular organisms. ## A living being|1 ## Unicellular: amoeba|1 ## Multicellular: tree, human|1
+What is an organism? Give examples of animals and plants. ## A living being|1 ## Animals: dog, hen|1 ## Plants: neem, rose|1
 Describe the sequence of changes in the life of a frog. ## Egg|1 ## Tadpole|1 ## Adult frog|1
 Why do living things show differences in life span? Give two examples. ## Depends on the species|1 ## Fly: days|1 ## Tortoise: over 100 years|1
 Differentiate between breathing and respiration. ## Breathing: taking air in and out|1 ## Respiration: release of energy from food|1 ## Breathing is the first step|1
 Why do you sweat when you exercise? ## Body gets hot|1 ## Sweat removes waste and heat|1 ## Helps cooling|1
 Explain why living organisms cannot survive without water. ## Needed in all life processes|1 ## Body is mostly water|1 ## Helps dissolve food|1
 Describe how Mimosa and sunflower respond differently to stimuli. ## Mimosa: touch|1 ## Sunflower: light|1 ## Both show stimulus-response|1
-How does the cell help the organism to live? ## Each cell does life functions|1 ## Cells form tissues|1 ## Together they form the body|1
+Why do living things need air? ## Air contains oxygen|1 ## Oxygen is used to release energy from food|1 ## Energy is used for all life processes|1
 Why is movement not a sure test of life? ## Machines and rivers move|1 ## Plants show slow movement|1 ## Use many characteristics|1
 Explain the term adaptation using the example of a fish. ## Gills|1 ## Fins|1 ## Streamlined body|1
 """
 mD = """
 Plan an experiment to show that plants respond to light and describe expected observations. ## Place a potted plant near a window|1 ## Rotate it after some days|1 ## It bends towards light|1 ## Rotate again|1 ## It bends again|1
-Describe the common features and differences among a plant, an animal and a fungus (mushroom). ## All grow and reproduce|1 ## Plant makes food|1 ## Animal eats others|1 ## Mushroom absorbs from dead matter|1 ## Only animals move around|1
+Describe the common features and differences among a plant, an animal and a mushroom. ## All grow and reproduce|1 ## Plant makes food|1 ## Animal eats others|1 ## Mushroom absorbs from dead matter|1 ## Only animals move around|1
 Compare living and non-living things for five examples and give reasons. ## Dog: living|1 ## Tree: living|1 ## Stone: non-living|1 ## Car: non-living|1 ## Reasons by life processes|1
 Explain how the characteristics of life are seen in a germinating seed. ## Takes water|1 ## Respires|1 ## Grows|1 ## Responds|1 ## Becomes a plant|1
-Describe the structure and life processes of a unicellular organism like amoeba. ## One cell|1 ## Takes food|1 ## Respires|1 ## Excretes|1 ## Reproduces by splitting|1
+Describe how a goat shows the characteristics of living things. ## Eats grass for food|1 ## Breathes air|1 ## Grows|1 ## Responds to danger|1 ## Gives birth to young ones|1
 Explain the role of respiration in providing energy for all the other life processes. ## Releases energy from food|1 ## Used for movement|1 ## Used for growth|1 ## Used for reproduction|1 ## Used for repair|1
 Differentiate between respiration in plants, fish and humans. ## Plants: stomata|1 ## Fish: gills|1 ## Humans: lungs|1 ## All take in oxygen|1 ## Release carbon dioxide|1
 Describe how a student can distinguish a living from a non-living thing by observing for a week. ## Observe growth|1 ## Check for movement|1 ## Check response|1 ## Check food use|1 ## Conclude|1
-Discuss why a viral or dormant spore is hard to classify, and how scientists decide. ## Show life only in some conditions|1 ## Seeds and spores survive dry|1 ## Wake up when water comes|1 ## Many criteria used|1 ## Not by one character|1
-Explain why we call tissues, organs and organ systems the 'levels of organisation' with human examples. ## Cells form tissues|1 ## Tissues form organs|1 ## Organs make systems|1 ## Heart: organ|1 ## Circulatory system|1
+Discuss why a dry seed is hard to classify as living or non-living, and how we decide. ## It shows no activity when dry|1 ## It germinates when water is available|1 ## It is alive but dormant|1 ## Many characteristics are used|1 ## One character is not enough|1
+Describe the life cycles of a frog and a hen. ## Frog: eggs are laid in water|1 ## Frog: tadpole grows into an adult frog|1 ## Hen: egg is laid|1 ## Hen: egg hatches into a chick|1 ## Hen: chick grows into an adult hen|1
 Explain the role of reproduction in maintaining life on Earth. ## Produces new organisms|1 ## Replaces those that die|1 ## Species continue|1 ## Seeds|1 ## Eggs|1
 Give an account of the life cycle of a flowering plant. ## Seed|1 ## Germination|1 ## Seedling|1 ## Flowering|1 ## Fruit and seeds|1
 """
 
 # ============================ HARD ============================
 hA = [mc("""
-A candle burns, melts, gives out waste gases and its flame responds to wind. Why is it still non-living? ## it has no cells and no growth or reproduction ## it makes light ## it is hot ## it melts ## Many characteristics are absent.
-A student observes a crystal growing in a saturated solution. Which statement is true? ## the crystal grows by outside deposition, not by cell division ## it is living ## it respires ## it reproduces ## Non-living.
+A candle burns, melts, gives out waste gases and its flame responds to wind. Why is it still non-living? ## it does not grow or reproduce on its own ## it makes light ## it is hot ## it melts ## Many characteristics are absent.
+A student observes a crystal growing in a saturated solution. Which statement is true? ## the crystal grows by outside deposition, not from within ## it is living ## it respires ## it reproduces ## Non-living.
 Which pair of observations would suggest that a dry-looking object is a living seed? ## it swells and sprouts in water ## it is hard and dry ## it is brown and small ## it breaks when pressed ## Growth suggests life.
 Which of these cannot be taken as proof of life when used alone? ## movement ## growth from inside ## reproduction ## respiration ## Machines and rivers move.
 In an experiment, germinating seeds in a closed flask make lime water milky. This shows: ## seeds release carbon dioxide ## seeds absorb carbon dioxide ## seeds release oxygen ## seeds are dead ## Respiration gives CO2.
 A flask without seeds as a control shows no change in lime water. The control: ## proves the change is caused by seeds ## is a waste ## shows oxygen ## has seeds ## Controls matter.
 In a plant kept in the dark and a plant in light, only the latter forms starch. This shows: ## light is needed for making food ## water is not needed ## starch is a gas ## the dark plant is dead ## Light is needed.
 Which of the following best explains why plants are able to survive without moving? ## they make their own food ## they eat soil ## they eat animals ## they are heavy ## Autotrophs.
-Which of the following organisms is a decomposer that feeds on dead matter? ## mushroom ## rose ## cow ## lion ## Fungi feed on dead matter.
+Which of these feeds on dead and decaying matter? ## mushroom ## rose ## cow ## lion ## Fungi feed on dead matter.
 Organisms like amoeba reproduce mainly by: ## splitting into two ## laying eggs ## seeds ## giving birth ## Binary fission.
 """), mc("""
-A tree, a bird and a bacterium are given. Which is a unicellular organism? ## bacterium ## bird ## tree ## none ## It has one cell.
+Out of a tree, a bird and a pebble, which one is non-living? ## pebble ## bird ## tree ## both bird and tree ## It has one cell.
 Two groups of seeds are kept: Group A in water, group B dry. Only A sprouts. What is the conclusion? ## water is needed for germination ## seeds do not need water ## dry seeds are dead ## sprouting is random ## Controlled comparison.
 In the experiment above, what is the controlled variable? ## type of seeds and temperature ## water ## germination ## dry state ## Same seeds and temperature.
-A calf grows into a cow. Its growth involves: ## increase in number of cells ## addition of stones ## absorption of sand ## melting ## Cell division.
+A calf grows into a cow. Its growth involves: ## growth from within using food ## addition of stones ## absorption of sand ## melting ## Cell division.
 Why do older leaves turn yellow and fall? ## they carry stored wastes and die ## they get bored ## they shrink in light ## they fly ## Excretion in plants.
 A tadpole has a tail but a frog does not. This shows: ## change during the life cycle ## tails are useless ## frogs are plants ## tadpoles are birds ## Metamorphosis.
 Which would you use to show that animals respond to stimuli? ## shine a torch near earthworms and watch ## weigh the worms ## dry the worms ## cool the worms ## They move away from light.
@@ -283,7 +283,7 @@ A dry seed lies unchanged in a packet for months but sprouts after being watered
 A tadpole's tail disappears as it grows. This is an example of: ## change in body during growth ## death ## response to light ## reproduction ## Life cycle.
 Which characteristic makes 'excretion' essential for life? ## accumulated wastes are toxic ## it makes food ## it makes light ## it helps in growth ## Removal of harmful substances.
 Which organ in a plant takes in carbon dioxide for food making? ## leaf ## flower ## seed ## root ## Stomata.
-Which of the following can survive without light for long? ## fungus ## green plant ## algae ## grass ## Fungi do not need photosynthesis.
+Which of the following can survive without light for long? ## mushroom ## green plant ## water plant ## grass ## Fungi do not need photosynthesis.
 Why do flowering plants need to reproduce even though individual plants can live many years? ## to continue the species after death ## to grow tall ## to make fruit for animals ## to get light ## Continuation of species.
 In which of the following does the development take place inside the mother's body? ## dog ## hen ## frog ## snake ## Mammals.
 Which characteristic is best used to differentiate a young plant from a toy plant? ## growth ## colour ## shape ## size ## Real plants grow.
@@ -294,15 +294,15 @@ hB = """
 A student claims that a river is living because it flows and changes shape. Rebut the claim. ## It does not grow or reproduce ## It does not respire or respond
 Why do biologists use several characteristics rather than one to define life? ## One feature may be seen in non-living things ## Combination makes the test reliable
 How can the dry seed in a packet show evidence of life? ## It germinates with water ## It shows growth afterwards
-Why are some plants like the Venus flytrap said to respond quickly? ## Leaves close on touch of insects ## It shows fast response to touch
+Why does a lizard run away when we move towards it? ## It senses danger ## It responds to the stimulus
 Why do dead leaves carry out no life process? ## Cells have died ## No respiration or growth
 Why do plants usually not move from place to place like animals? ## They make their own food ## They need not search for food
 Explain why a rolling ball is not a response to a stimulus. ## It moves because of force ## It does not sense
-Explain why plants usually do not move from place to place. ## They make their own food ## They need not search for food
+Why do animals need to move from place to place? ## To search for food and water ## To escape from danger
 A student says 'all moving things are living'. Give two counterexamples. ## River, clouds ## Car, wind
-Why do cells need food and oxygen? ## For energy release ## For growth and repair
+Why do living things need food and oxygen? ## For release of energy ## For growth and repair
 How is the sleeping of a seed dormancy different from death? ## Dormant seeds can germinate ## Dead ones cannot
-Explain why a human baby grows but a toy doesn't. ## Baby has cells that divide ## Toy has no life processes
+Explain why a human baby grows but a toy doesn't. ## Baby grows from within using food ## Toy has no life processes
 """
 hC = """
 A student claims that mushrooms are plants. Give three reasons why they are not. ## No chlorophyll|1 ## Do not make their own food|1 ## Absorb food from dead matter|1
@@ -314,11 +314,11 @@ Describe the observations that tell you a beetle larva is living. ## It feeds|1 
 Why can't we say that a seed is dead because it does not respire visibly? ## Respiration is very slow|1 ## It germinates later|1 ## So it is alive but dormant|1
 A potted plant placed sideways soon curves upward. What does this show? ## Plants respond to gravity|1 ## Shoots grow upward|1 ## Roots grow downward|1
 Describe three differences between the growth of a plant and the growth of an animal. ## Plants grow throughout life in some parts|1 ## Animals grow to a limit|1 ## Plants grow at tips|1
-Discuss why we cannot call a robot living even if it can learn and talk. ## No cells|1 ## No growth or reproduction|1 ## No respiration|1
+Discuss why we cannot call a robot living even if it can learn and talk. ## No growth from within|1 ## No reproduction|1 ## No respiration|1
 How is movement of a snail different from that of a car? ## Snail uses muscles|1 ## Car uses an engine|1 ## Snail is living|1
-Explain the role of excretion in aquatic and land animals. ## Fish excrete ammonia in water|1 ## Land animals use kidneys|1 ## Wastes are removed|1
+Explain the need for removing wastes from the body with two examples. ## Wastes harm the body if they stay|1 ## Humans pass urine and sweat|1 ## Plants shed old leaves|1
 Give three examples of how living things depend on each other. ## Plants give oxygen|1 ## Animals give CO2|1 ## Bees pollinate flowers|1
-How does the study of cells help us to define life? ## All living things have cells|1 ## Cells carry out life processes|1 ## Non-living things do not|1
+Name three characteristics that a pebble lacks but a pea seedling has. ## Growth|1 ## Respiration|1 ## Response to light|1
 Explain with two examples how responses help in survival. ## Fleeing from danger|1 ## Plants bending to light|1 ## Find food and shelter|1
 How would you test whether an unknown specimen from a pond is living? ## Observe under a lens|1 ## Look for movement|1 ## Provide food and see growth|1
 Why do many organisms die when environments change too fast? ## Cannot adapt|1 ## Food or habitat lost|1 ## Life processes fail|1
@@ -328,13 +328,13 @@ hD = """
 Design an investigation to show that seeds need water, air and suitable temperature to germinate. Describe set-ups and results. ## Set A: dry seeds|1 ## Set B: seeds in water without air (boiled water with oil)|1 ## Set C: seeds in moist cotton at room temperature|1 ## Set D: moist seeds in the fridge|1 ## Only C germinates well|1
 Discuss with examples why it can be hard to decide whether a dry seed, a crystal and a flowing river are living. ## Dry seed: inactive but germinates|1 ## Crystal: grows from outside|1 ## River: moves but does not grow or respire|1 ## Need many criteria|1 ## Cells decide|1
 Explain how the life processes of nutrition, respiration, excretion, response, growth and reproduction occur in a plant like pea. ## Nutrition: photosynthesis|1 ## Respiration: stomata|1 ## Excretion: leaf fall|1 ## Response: tendrils climb|1 ## Reproduction: seeds|1
-Compare the life processes of an amoeba and a human being. ## Amoeba: single cell does all|1 ## Human: organs do jobs|1 ## Amoeba splits|1 ## Humans give birth|1 ## Both need food and oxygen|1
+Compare the life processes of a plant and an animal. ## Both respire and reproduce|1 ## Plant makes its own food but animal eats food|1 ## Plants are fixed but animals move|1 ## Both respond to stimuli|1 ## Both give out wastes|1
 Analyse the table: Object A grows, respires, responds, reproduces. B moves, uses fuel, makes noise. C grows by deposit, nothing else. Classify each with reasons. ## A: living|1 ## B: non-living machine|1 ## C: non-living crystal|1 ## Reasons from life processes|1 ## Combined characteristics used|1
 Describe an experiment to show that plants respire at night and discuss the result. ## Cover a potted plant in a dark bag|1 ## Bring out gas into lime water|1 ## Lime water turns milky|1 ## Plants respire all the time|1 ## In light photosynthesis hides it|1
 Discuss the importance of responses to stimuli in the survival of plants and animals with five examples. ## Roots to water|1 ## Shoots to light|1 ## Camouflage|1 ## Fleeing predators|1 ## Hibernation or migration|1
-Explain the cell theory in simple words and its importance in biology. ## All living things are made of cells|1 ## Cell is the basic unit|1 ## New cells come from older cells|1 ## It unites biology|1 ## Helps study diseases|1
+Explain with examples why living things need food, water and air. ## Food gives energy|1 ## Food helps growth and repair|1 ## Water is needed in all life processes|1 ## Air gives oxygen for respiration|1 ## Without them living things die|1
 Describe how the life span of organisms is related to their size and complexity with five examples. ## Fly: short|1 ## Rat: 2 to 3 years|1 ## Dog: about 12 years|1 ## Elephant: about 70|1 ## Tree: centuries|1
-Explain, with examples, how organisms need each other for survival. ## Plants give food and oxygen|1 ## Animals give carbon dioxide|1 ## Bees pollinate|1 ## Decomposers clean the wastes|1 ## Interdependence|1
+Explain, with examples, how organisms need each other for survival. ## Plants give food and oxygen|1 ## Animals give carbon dioxide|1 ## Bees pollinate|1 ## Some organisms clean up dead matter|1 ## Interdependence|1
 Describe how one can use observations and simple tools to compare the growth of two plants over two weeks. ## Measure height with a ruler|1 ## Note leaf numbers|1 ## Record in a table|1 ## Draw a graph|1 ## Compare|1
 Evaluate the statement: 'Everything that grows is living.' ## Crystals grow|1 ## Sand heaps grow|1 ## Not by cell division|1 ## So statement is false|1 ## Other life processes also needed|1
 """

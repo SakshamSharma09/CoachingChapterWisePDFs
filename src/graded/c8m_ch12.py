@@ -84,7 +84,7 @@ for s in range(240, 246):
     rng = random.Random(s); fr_ = {k: rng.randint(1, 9) for k in range(3, 9)}
     top = max(fr_, key=fr_.get)
     if list(fr_.values()).count(fr_[top]) > 1: fr_[top] += 1
-    ds = ", ".join(f"{fr_[k]} dots at {k}" for k in fr_)
+    ds = ", ".join(f"{fr_[k]} dot{'s' if fr_[k] > 1 else ''} at {k}" for k in fr_)
     n5.append(M4(f"A dot plot shows: {ds}. The mode of the data is:", top, [k for k in fr_ if k != top][:3], f"The value with most dots is {top}"))
 n6 = []
 for s in range(250, 300):
@@ -143,7 +143,7 @@ h7 = [ND(f"The mean of {n} numbers is {m}. If every number is multiplied by {k} 
 HARD_A = [h1, h2, h3, h4, h5, h6, h7]
 HARD_B = ([Q(f"The mean of 6 numbers is {m}. When one number is removed, the mean of the remaining 5 numbers is {m2}. Find the removed number.", f"Total $=6\\times{m}={6*m}$ (1); rest $=5\\times{m2}={5*m2}$, removed $={6*m-5*m2}$ (1).", "1+1") for m, m2 in [(20, 18), (35, 32), (14, 12), (48, 45)]]
          + [Q(f"The mean of the first {n} even natural numbers is {n+1}. Verify this for n = {n}.", f"Sum $=2+4+\\dots+{2*n}={n*(n+1)}$ (1); mean $={n*(n+1)}\\div{n}={n+1}$ (1).", "1+1") for n in [8, 11, 14, 20]]
-         + [Q(f"In a data set {L(d)} the value {d[0]} was wrongly copied as {d[0]+6}. Find the correct mean.", f"Wrong sum $={sum(d)}$ (1); correct sum $={sum(d)-6}$; mean $={g(Fr(sum(d)-6,len(d)))}$ (1).", "1+1") for d in [gen(s, 6, 12, 50) for s in range(560, 580) if gen(s, 6, 12, 50)][:20] if (sum(d) - 6) % len(d) == 0][:4])
+         + [Q(f"A data set was recorded as {L([d[0] + 6] + d[1:])}, but the first value should have been {d[0]}. Find the correct mean.", f"Wrong sum $={sum(d)+6}$ (1); correct sum $={sum(d)}$; mean $={g(Fr(sum(d),len(d)))}$ (1).", "1+1") for d in [gen(s, 6, 12, 50) for s in range(560, 640) if gen(s, 6, 12, 50)] if sum(d) % len(d) == 0][:4])
 HARD_C = ([Q(f"A class of {n} students has mean mark {m}. After rechecking, a score of {b} was corrected to {a}. Find the new mean.", f"New sum $={n*m}-{b}+{a}={n*m-b+a}$ (2); mean $={g(Fr(n*m-b+a,n))}$ (1).", "2+1") for n, m, a, b in [(40, 62, 80, 38), (25, 48, 70, 20), (30, 55, 66, 36), (20, 72, 92, 52), (50, 41, 60, 30), (35, 44, 70, 35)]]
          + [Q(f"The mean of {n} numbers is {m}. When {x} is added, the mean becomes {m+1}. Find {x} if {n} = {n}.", "", "") for n, m, x in []]
          + [Q(f"The mean age of {n} players is {m} years. When the coach is included the mean becomes {m+2}. Find the age of the coach.", f"Total age of players $={n*m}$ (1); total with coach $={(n+1)*(m+2)}$ (1); coach $={(n+1)*(m+2)-n*m}$ years (1).", "1+1+1") for n, m in [(11, 23), (15, 20), (14, 25), (9, 30), (19, 17), (24, 28)]]

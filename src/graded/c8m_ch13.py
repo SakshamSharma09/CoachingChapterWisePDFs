@@ -83,7 +83,7 @@ h7 = [ND(f"A three-digit number with digits $a,b,c$ is reversed. If $a-c={d}$, t
 HARD_A = [h1, h2, h3, h4, h5, h6, h7]
 HARD_B = ([Q(f"The sum of the digits of a two-digit number is {s} and the tens digit exceeds the ones digit by {d}. Find the number.", f"$a+b={s}$, $a-b={d}$ (1); $a={(s+d)//2}$, $b={(s-d)//2}$, number ${10*((s+d)//2)+(s-d)//2}$ (1).", "1+1") for s, d in [(9, 3), (11, 5), (13, 1), (8, 4)]]
          + [Q(f"If $x+y={s}$ and $x-y={d}$, find $x^2-y^2$.", f"$x^2-y^2=(x+y)(x-y)$ (1) $={s*d}$ (1).", "1+1") for s, d in [(17, 5), (23, 7), (31, 4), (45, 6)]]
-         + [Q(f"Show that $({n}+3)^2-({n}-3)^2$ is a multiple of {12} for $n={n}$, and find the value.", f"Identity $(n+3)^2-(n-3)^2=12n$ (1); $=12\\times{n}={12*n}$ (1).", "1+1") for n in [5, 8, 13, 20]])
+         + [Q(f"Prove that $(n+3)^2-(n-3)^2=12n$ and use it to find the value of $({n}+3)^2-({n}-3)^2$.", f"Identity $(n+3)^2-(n-3)^2=12n$ (1); $=12\\times{n}={12*n}$ (1).", "1+1") for n in [5, 8, 13, 20]])
 HARD_C = ([Q(f"The sum of a two-digit number and its reverse is {11*s} and the digits differ by {d}. Find the number (tens digit larger).", f"$11(a+b)={11*s}$ so $a+b={s}$ (1); $a-b={d}$ gives $a={(s+d)//2}$, $b={(s-d)//2}$ (1); number $={10*((s+d)//2)+(s-d)//2}$ (1).", "1+1+1") for s, d in [(10, 4), (12, 2), (14, 2), (8, 2), (16, 2), (9, 3)]]
          + [Q(f"If $x+\\frac1x={s}$, find $x^2+\\frac1{{x^2}}$ and $x^4+\\frac1{{x^4}}$.", f"$x^2+1/x^2={s}^2-2={s*s-2}$ (1); $x^4+1/x^4=({s*s-2})^2-2={(s*s-2)**2-2}$ (2).", "1+2") for s in [3, 4, 5, 6, 7, 8]]
          + [Q(f"The sum of the dates of a $2\\times2$ block in a calendar is {4*d+16}. Find the four dates and show that the block's sum is always $4\\times$(smallest date)$+16$.", f"$4d+16={4*d+16}$ gives $d={d}$ (1); dates {d}, {d+1}, {d+7}, {d+8} (1); sum $=4d+16$ for any $d$ (1).", "1+1+1") for d in [5, 9, 13, 16, 21, 8]])
@@ -93,3 +93,6 @@ HARD_D = ([Q(f"Prove that $({a}n+{b})^2-({a}n-{b})^2={4*a*b}n$ and use it to eva
 def T(A, B, C, D): return dict(A=A, B=grp(B, 4), C=grp(C, 6), D=grp(D, 6))
 TIERS = {"NCERT": T(NCERT_A, NCERT_B, NCERT_C, NCERT_D), "Easy": T(EASY_A, EASY_B, EASY_C, EASY_D),
          "Medium": T(MED_A, MED_B, MED_C, MED_D), "Hard": T(HARD_A, HARD_B, HARD_C, HARD_D)}
+
+from c8m_fix import tidy
+tidy(TIERS)

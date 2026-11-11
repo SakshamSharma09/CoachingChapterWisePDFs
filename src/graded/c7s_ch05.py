@@ -28,7 +28,7 @@ The menstrual cycle repeats about every: ## 28 to 30 days ## 7 days ## 100 days 
 During pregnancy the menstrual cycle: ## stops ## doubles ## continues normally ## becomes faster ## Uterus lining is retained.
 """), mc("""
 Rapid growth of height at puberty is called: ## growth spurt ## stagnation ## decline ## gestation ## Sudden increase.
-In which of the following does girls' growth spurt start earlier than boys'? ## in general girls ## in general boys ## no difference ## never ## Girls begin earlier.
+In general, the growth spurt starts earlier in: ## girls ## boys ## both at exactly the same age ## neither of them ## Girls begin earlier.
 Sweat glands become more active in adolescence. This makes it important to: ## bathe and keep clean ## avoid water ## avoid school ## avoid food ## Hygiene.
 Pimples on the face in adolescents are caused by: ## oil glands becoming more active ## lack of sleep only ## eating fruits ## drinking water ## Hormones increase oil.
 The best food for adolescents is: ## a balanced diet ## junk food ## only sweets ## only fried food ## Needs more nutrients.
@@ -106,16 +106,16 @@ Which food helps girls prevent anaemia? ## spinach ## sugar ## chips ## soda ## 
 Iodised salt prevents: ## goitre ## anaemia ## rickets ## scurvy ## Iodine.
 Which should adolescents avoid? ## tobacco ## fruits ## exercise ## sleep ## Harmful.
 Which is a good habit? ## balanced diet ## skipping meals ## eating junk ## no sleep ## Healthy.
-Why do we bathe daily? ## to stay clean ## to get sick ## to get dirty ## to get tired ## Hygiene.
+Why do we bathe daily? ## to stay clean and healthy ## to produce more sweat ## to avoid drinking water ## to grow taller ## Hygiene.
 Pimples appear on the: ## face ## foot ## teeth ## nails ## Oil glands.
 Sweating increases in: ## adolescence ## infancy ## sleeping only ## old age only ## Glands active.
 Exercise gives: ## strong body ## weak body ## disease ## sleep only ## Healthy.
 """), mc("""
-Who can guide a teenager? ## parents and teachers ## strangers ## drug dealers ## nobody ## Trusted adults.
+Who can best guide a teenager? ## parents and teachers ## unknown people online ## people who offer drugs ## no one ## Trusted adults.
 Peer pressure is influence of: ## friends ## animals ## weather ## plants ## Same age.
-A good friend asks you to try smoking. You should: ## say no ## agree ## hide ## run away only ## Refuse.
+A friend asks you to try smoking. You should: ## say no firmly ## agree to look cool ## try it once secretly ## laugh and take it ## Refuse.
 Emotions during adolescence: ## change often ## never change ## disappear ## are fixed ## Mood swings.
-Sleep needed for teenagers is about: ## 8 to 9 hours ## 2 hours ## 15 hours ## none ## Enough rest.
+Sleep needed for teenagers is about: ## 8 to 9 hours ## 3 to 4 hours ## 12 to 14 hours ## 1 to 2 hours ## Enough rest.
 Which gland is in the neck? ## thyroid ## pancreas ## adrenal ## pituitary ## Thyroid.
 Which gland is in the brain? ## pituitary ## thyroid ## pancreas ## adrenal ## At the base.
 Hormones travel through: ## blood ## nerves only ## bones ## skin ## Circulation.
@@ -190,7 +190,7 @@ Which is the best snack for an adolescent? ## fruit and nuts ## chips ## cola ##
 Which is not a symptom of puberty? ## loss of milk teeth at 5 ## growth spurt ## change of voice ## pimples ## Teeth shedding starts earlier.
 A student feels sad often for weeks. The best step is: ## talk to a trusted adult or counsellor ## ignore it ## skip school ## hide ## Seek help.
 Which of the following reduces stress? ## regular exercise ## all-night gaming ## drugs ## skipping meals ## Healthy way.
-Why should a girl change sanitary products regularly? ## prevent infection ## look good ## save time ## no reason ## Hygiene.
+Why should a girl change sanitary products regularly? ## to prevent infection and stay clean ## to look good ## to save time ## because the school asks ## Hygiene.
 Peer pressure to try tobacco is best handled by: ## saying no firmly ## agreeing ## hiding ## ignoring parents ## Make a healthy decision.
 Which food gives energy to a growing teenager? ## roti and rice ## water only ## tea only ## salt ## Carbohydrates.
 Which of these is a dietary source of calcium? ## milk ## sugar ## tea ## oil ## Bone growth.
@@ -286,14 +286,14 @@ A girl's period is irregular during the first year. This is: ## common as cycles
 A teenager sees a friend using drugs. What should he do? ## inform a trusted adult ## try it ## laugh ## hide it ## Seek help.
 Why are early marriage and pregnancy harmful to teenage girls? ## body is not fully ready ## they are healthy ## they get stronger ## they have more money ## Health risks.
 Which of the following is a rule of safe use of the internet? ## do not share personal details with strangers ## share passwords ## meet strangers alone ## accept all requests ## Safety.
-The age at which girls and boys are legally and physically ready for responsibilities is different from the age at puberty because: ## maturity involves more than body changes ## laws are random ## puberty ends at 30 ## puberty is a disease ## Social and emotional maturity.
+Being physically mature at puberty does not mean a teenager is ready for all adult responsibilities because: ## maturity also needs emotional and mental growth ## puberty ends at 30 ## laws are random ## puberty is a disease ## Social and emotional maturity.
 Which skill helps most in resisting peer pressure? ## assertive communication ## shouting ## silence ## copying ## Firmly and kindly say no.
 Which of these provides the best support during stressful times? ## talking with family and friends ## isolation ## drugs ## skipping meals ## Support network.
 """)]
 hB = """
 Explain why the endocrine system is called the 'chemical messenger system'. ## Hormones carry messages through blood ## They control growth and mood
 Why do two persons of the same age show different features of puberty? ## Heredity and nutrition differ ## Normal variation
-How does the pituitary gland coordinate other glands? ## It secretes tropic hormones ## They stimulate other glands
+How does the pituitary gland coordinate other glands? ## It secretes hormones ## These hormones control other glands
 Why do adolescents require more calcium and iron than adults in general? ## Rapid bone growth ## Blood formation in menstruation
 Why do boys have a higher proportion of muscle growth during adolescence? ## Testosterone promotes muscle growth ## Greater rise in boys
 How would you explain to a friend that body odour is normal but needs care? ## Sweat glands are active ## Regular bathing and clean clothes
@@ -313,7 +313,7 @@ Why is adolescence called 'a bridge between childhood and adulthood'? ## Body gr
 Suggest three ways a school can create awareness about adolescent health. ## Health talks|1 ## Counselling|1 ## Sports and nutrition programmes|1
 A diabetic friend wants to join a picnic. What advice would you give about food and medicines? ## Avoid excess sweets|1 ## Carry medicine|1 ## Eat at regular times|1
 Explain the importance of exercising in daylight for bones. ## Sunlight gives vitamin D|1 ## Helps calcium absorption|1 ## Strong bones|1
-Why does heredity matter in puberty timing? ## Family patterns|1 ## Genes affect hormones|1 ## Time varies|1
+Why does heredity matter in puberty timing? ## Family patterns|1 ## Inherited traits affect growth|1 ## Time varies|1
 How do teenagers misuse mobile phones and what is the effect on sleep and studies? ## Late-night usage|1 ## Sleep loss|1 ## Poor concentration|1
 Explain why a calm talk with an elder is better than reacting angrily when a teenager faces conflict. ## Reduces misunderstanding|1 ## Solves problem|1 ## Builds trust|1
 Give three myths about puberty and the correct facts. ## Menstruation is impure: false, natural|1 ## Voice cracking is a disease: false|1 ## Pimples due to dirt only: false, hormones|1

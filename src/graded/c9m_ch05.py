@@ -100,3 +100,6 @@ HARD_D = ([QQ(f"In a cyclic quadrilateral $ABCD$, $\\angle A=({p}x+{b})^\\circ$,
           + [QQ(f"A circle of radius ${r}$ cm has a chord $AB$ of length ${2 * h}$ cm. Find the distance of $AB$ from the centre $O$, the area of $\\triangle OAB$ and the perimeter of $\\triangle OAB$.", f"Half-chord $={h}$ cm, $d=\\sqrt{{{r}^2-{h}^2}}={d}$ cm", f"Area $=\\frac12\\times{2 * h}\\times{d}={h * d}$ cm$^2$", f"$OA=OB={r}$ cm", f"Perimeter $={r}+{r}+{2 * h}={2 * r + 2 * h}$ cm", "Distance, area and perimeter obtained") for r, h, d in [RHD[i] for i in (5, 7, 9, 13, 15, 17)]])
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

@@ -269,7 +269,7 @@ HA = MC([
 "Which statement about Maratha navy is accurate? | It challenged European powers on the west coast | It ruled the Pacific | It had no forts | It was never used | Angre",
 "The Maratha Empire is called a confederacy because | regional chiefs ruled under the Peshwa's leadership | one ruler governed all | no leaders | Mughals ruled | Shared power",
 "Which factor was NOT a reason for the decline of the Marathas? | Strong unity among chiefs | Disunity | British technology | Succession disputes | Unity would have helped",
-"A sword hidden inside a handshake is an act of | surprise tactics | diplomacy | trade | farming | Afzal Khan episode",
+"At the meeting at Pratapgad, Shivaji used the wagh nakh against Afzal Khan, who had come to the meeting armed. This was an act of | surprise tactics suited to the weaker side | formal diplomacy that ended the war | a trade agreement | a religious ritual | Afzal Khan episode",
 "The significance of the cultural revival under Shivaji was | local language and identity | end of language | foreign adoption | ban | Marathi promotion",
 "If a coastal fort resists European and Mughal ships, it shows | strong sea defence | peace | neglect | trade | Sindhudurg-like forts",
 "A letter from a Maratha chief asks the Peshwa for orders; it shows | authority of the Peshwa | no central power | Mughal rule | British rule | Peshwa leadership",
@@ -285,7 +285,7 @@ HAR = AR([
 "Shivaji built a navy. | He needed to protect the west coast and its trade. | a | R explains A",
 "Maratha forts were central to their power. | They controlled routes and sheltered the army in guerrilla wars. | a | R explains A",
 "Shivaji's officials could easily gain power over the king. | He abolished hereditary posts and transferred officials regularly. | d | A is false; R is true",
-"The British took India more from the Marathas than from the Mughals. | The Marathas were the chief rivals of the British in the late 18th century. | a | R explains A",
+"The Marathas fought three wars with the British. | The Marathas were the chief rivals of the British in the late 18th century. | a | R explains A",
 ])
 HB = [
 B2("Why did Shivaji not allow cutting of mango and jackfruit trees?", "They take years to grow", "Farmers depended on them"),

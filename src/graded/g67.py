@@ -128,3 +128,17 @@ def intl(n):
     return f"{int(n):,}"
 
 def rnd(n, p): return (n + p // 2) // p * p
+
+FAILS = []
+
+def nw(q, c, wrongs, why=""):
+    """Numeric MCQ with hand-chosen distractors (each a typical student mistake); wrongs must give >=3 distinct values != c."""
+    out = []
+    for x in wrongs:
+        s = fmt(x)
+        if s != fmt(c) and s not in out and not (isinstance(x, (int, float, Dc, Fr)) and (x < 0 or (x == 0 and c != 0)) and c >= 0): out.append(s)
+    if len(out) < 3:
+        FAILS.append((q, fmt(c), out))
+        for x in (c + 1, c + 2, c + 3):
+            if fmt(x) not in out and fmt(x) != fmt(c): out.append(fmt(x))
+    return M4(q, fmt(c), out[:3], why)

@@ -29,7 +29,7 @@ def make():
     for a in A[18:]:
         pass
     B = [
-     OR(S("Find the HCF of 396 and 1080 using Euclid's division algorithm.", 2, "1080 = 396 × 2 + 288; 396 = 288 × 1 + 108 (1); 288 = 108 × 2 + 72; 108 = 72 × 1 + 36; 72 = 36 × 2 + 0 ⇒ HCF = 36 (1)."),
+     OR(S("Find the HCF and LCM of 396 and 1080 by the prime factorisation method.", 2, "396 = 2² × 3² × 11 and 1080 = 2³ × 3³ × 5 (1); HCF = 2² × 3² = 36; LCM = 2³ × 3³ × 5 × 11 = 11880 (1)."),
         S("Three bells toll at intervals of 9, 12 and 15 minutes. If they toll together at 8 a.m., when will they next toll together?", 2, "LCM(9, 12, 15) = 180 min (1) ⇒ 11:00 a.m. (1).")),
      S("A pole 6 m high casts a shadow 4 m long. At the same time a tower casts a shadow 50 m long. Find the height of the tower.", 2, "6/4 = h/50 (1) ⇒ h = 75 m (1)."),
      OR(S("In ΔABC, DE ∥ BC with AD = 4 cm, DB = 6 cm and AE = 6 cm. Find EC.", 2, "AD/DB = AE/EC ⇒ 4/6 = 6/EC (1) ⇒ EC = 9 cm (1)."),

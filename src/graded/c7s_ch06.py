@@ -192,13 +192,13 @@ A kite flies high on a hot day because: ## warm air rises and carries it ## wind
 Smoke from a chimney goes up because: ## hot gases rise ## smoke is heavy ## wind is below ## fire is cold ## Convection.
 Pot of water is heated from below, not from the top, because: ## convection spreads heat through the water ## it saves fuel ## top is cold ## the lid is hot ## Convection.
 Which part of a room is warmest? ## near the ceiling ## near the floor ## middle ## outside ## Warm air rises.
-Air conditioners are fixed high on the wall because: ## cold air sinks and cools the room ## it looks good ## warm air sinks ## no reason ## Convection.
-In a refrigerator, why is the freezer compartment at the top? ## cold air sinks to cool below ## cold air rises ## the door is heavy ## no reason ## Convection.
+Air conditioners are fixed high on the wall because: ## cold air sinks and cools the room ## it looks good ## warm air sinks and cools the room ## it saves wiring ## Convection.
+In a refrigerator, why is the freezer compartment at the top? ## cold air sinks to cool below ## cold air rises ## the door is heavy ## it saves electricity ## Convection.
 """), mc("""
 Which of these clothes would be best on a very hot, sunny day? ## white loose cotton ## black polyester ## woollen ## leather ## Reflect and breathe.
 Which of these would be best on a cold day? ## layers of woollen clothes ## one thin shirt ## sleeveless ## net cloth ## Trapped air.
-Two layers of thin clothes keep you warmer than one thick layer because: ## air gets trapped between layers ## thin clothes are heavy ## thick clothes are cold ## no reason ## Insulation.
-Why do desert people wear loose white robes? ## reflect sun and let air circulate ## absorb heat ## look good ## no reason ## Keep cool.
+Two layers of thin clothes keep you warmer than one thick layer because: ## air gets trapped between layers ## thin clothes are heavy ## thick clothes are cold ## the clothes make their own heat ## Insulation.
+Why do desert people wear loose white robes? ## reflect sun and let air circulate ## absorb heat ## look good ## keep out the dust ## Keep cool.
 Why are ice boxes painted white or silver? ## reflect heat ## absorb heat ## look nice ## protect from cold ## Reduce heat gain.
 Why do houses in hot regions have white roofs? ## reflect sunlight ## absorb heat ## look dull ## are cheaper ## Keep cool.
 Why are the radiators of vehicles painted black? ## good emitter of heat ## good reflector ## cheap ## looks nice ## Dull black emits better.
@@ -207,7 +207,7 @@ Why do we keep a lid on a pan while cooking? ## to reduce heat loss ## to cool f
 Why do we prefer thermocol boxes for ice cream? ## thermocol is an insulator ## it is a conductor ## it is shiny ## it is hard ## Reduces heat flow.
 """)]
 mB = """
-Why does a metal rod conduct heat faster than a wooden stick? ## Metals have free movement of energy carriers ## Wood is an insulator
+Why does a metal rod conduct heat faster than a wooden stick? ## Metals are good conductors of heat ## Wood is an insulator
 How does a hot-air balloon rise? ## Hot air inside is lighter than the surrounding air ## Convection lifts it
 Why do we feel the heat when we stand near a bonfire but not above it? ## Radiation reaches us sideways ## Hot gases rise above
 Why does a land breeze blow towards the sea at night? ## Sea air is warmer and rises ## Cooler land air moves in
@@ -215,7 +215,7 @@ Why are cooking pots with copper bottoms common? ## Copper is a good conductor #
 Why do we apply a shiny coat on roofs in hot places? ## Reflects sunlight ## Keeps the house cool
 Why do two thin blankets keep a person warmer than one thick one? ## Air layer between them ## Air is an insulator
 Why do penguins huddle together? ## Reduce heat loss ## Conserve body heat
-Why do doctors use ice packs for fever? ## Ice absorbs heat from the body ## Heat flows to ice
+Why does ice keep fish fresh in a box? ## Heat flows from the fish to the ice ## The fish stays cold
 Why is the bottom of a pan blackened with soot but the inside is not? ## Soot comes from the flame ## It absorbs heat better but conducts poorly
 Why do trucks carrying ice-cream have white shiny covers? ## Reflect radiation ## Keep contents cold
 Why do thick walls keep houses cool in summer? ## Poor conductors ## Heat takes time to pass
@@ -237,13 +237,13 @@ Describe the role of radiation in cooking on a charcoal grill. ## Hot coal radia
 Why does the handle of a mug become hot when hot tea is poured? ## Conduction through the mug|1 ## Ceramics conduct slowly|1 ## Metal would be worse|1
 Explain why ceramic or glass mugs keep tea warm longer than metal. ## Poor conductors|1 ## Less heat loss|1 ## Metal loses quickly|1
 Why do we blow on hot soup? ## Moves warm air|1 ## Evaporation cools|1 ## Brings cool air|1
-Why is the underside of a car engine's hood shiny? ## Reflects heat|1 ## Protects paint|1 ## Reduces radiation|1
+Why does a shiny steel kettle stay hot longer than a dull black one? ## A shiny surface radiates less heat|1 ## A dull black surface radiates more heat|1 ## So the shiny kettle loses heat slowly|1
 Why do objects in the shade stay cooler? ## No direct radiation|1 ## Less absorption|1 ## Air circulates|1
 """
 mD = """
 Describe the three experiments to demonstrate conduction, convection and radiation. ## Conduction: wax pins on rod|1 ## Convection: permanganate crystals in water|1 ## Radiation: hand near a lamp|1 ## Observations noted|1 ## Conclusions drawn|1
 Explain how the combined effects of conduction, convection and radiation work in a thermos flask and what could happen if the vacuum is lost. ## Vacuum prevents conduction and convection|1 ## Silvered walls prevent radiation|1 ## Loss of vacuum lets air carry heat|1 ## Contents lose heat faster|1 ## Flask useless|1
-Explain with diagrams in words how sea breeze and land breeze form and why coastal places are pleasant. ## Day: land hotter|1 ## Air rises over land|1 ## Cool air from sea|1 ## Night: reverse|1 ## Cool breezes|1
+Explain how sea breeze and land breeze form and why coastal places are pleasant. ## Day: land hotter|1 ## Air rises over land|1 ## Cool air from sea|1 ## Night: reverse|1 ## Cool breezes|1
 Discuss the importance of using different colours and fabrics for clothing and wall paint according to climate. ## Light colours in summer|1 ## Dark in winter|1 ## Cotton breathes|1 ## Wool insulates|1 ## White walls reflect|1
 Compare heat transfer in solids, liquids and gases, using examples. ## Solids: conduction|1 ## Liquids: convection|1 ## Gases: convection|1 ## Radiation in all|1 ## Examples for each|1
 Explain how a hot water geyser, an iron and a refrigerator use properties of heat transfer. ## Geyser: element heats water|1 ## Convection circulates|1 ## Iron: plate conducts|1 ## Fridge: insulation|1 ## Freezer at top|1
@@ -266,7 +266,7 @@ At the same temperature, a metal chair feels colder than a wooden chair because:
 In winter, an iron railing feels colder than a wooden bench. If both are at 5 °C, a thermometer would show: ## the same temperature ## lower for iron ## lower for wood ## nothing ## Same temperature.
 A metal bowl on a table loses heat to the cold floor by: ## conduction ## radiation only ## convection only ## evaporation ## Contact.
 Why does the water in the middle layers of a heated beaker move in circular paths? ## convection currents ## radiation ## conduction ## evaporation ## Hot rises, cold sinks.
-In a vacuum flask, which transfer is still partly possible without special silvering? ## radiation ## conduction ## convection ## none ## Vacuum cannot stop radiation.
+In a vacuum flask, which transfer is still partly possible without special silvering? ## radiation ## conduction ## convection ## evaporation ## Vacuum cannot stop radiation.
 """), mc("""
 At a seaside at noon, the sea breeze blows. At 11 p.m. the breeze direction is: ## reversed ## same ## zero always ## upward ## Land breeze.
 At the junction between the two breezes at around dusk, the wind: ## nearly stops ## doubles ## reverses at once strongly ## becomes a storm ## Temperatures equalise.
@@ -276,14 +276,14 @@ Water in tanks near the sea stays warm at night because: ## water cools slowly #
 Clouds at night keep the ground warmer because: ## they reduce loss of radiation ## they heat the sun ## they cool the ground ## they carry light ## Trap heat.
 Clear nights are colder than cloudy nights because: ## heat radiates out unhindered ## clouds are cold ## air is hot ## stars are cold ## Radiation escapes.
 Which activity illustrates only radiation? ## feeling warmth from a lit bulb in a closed glass jar ## stirring soup ## heating a pan ## boiling water ## Through vacuum or glass.
-A pan on a stove loses heat from its sides by: ## convection and radiation ## conduction only ## none ## evaporation only ## Air movement and radiation.
+A pan on a stove loses heat from its sides by: ## convection and radiation ## conduction only ## melting ## evaporation only ## Air movement and radiation.
 A blacksmith holds a red-hot iron with tongs because: ## iron conducts heat to his hand ## wood is cold ## iron is hard ## iron is shiny ## Poor insulator.
 """), mc("""
 Which of the following shows a correct application of convection? ## sea breeze ## spoon heating ## cloth drying ## sunlight on skin ## Fluid motion.
 Which of the following is a correct application of conduction? ## heating iron rod ## sea breeze ## sunlight ## ceiling fan ## Solid transfer.
 Which of the following is a correct application of radiation? ## solar cooker ## heating of milk ## melting of ice ## spoon in tea ## Absorbs sunlight.
-A chimney is made tall so that: ## hot gases rise and draw fresh air ## smoke is hidden ## bricks cool ## no reason ## Draught by convection.
-A house in a hot area should have windows high up because: ## hot air can escape ## cold air escapes ## light enters ## no reason ## Hot air rises.
+A chimney is made tall so that: ## hot gases rise and draw fresh air ## smoke is hidden ## bricks cool ## rain cannot enter ## Draught by convection.
+A house in a hot area should have windows high up because: ## hot air can escape ## cold air escapes ## light enters ## dust is kept out ## Hot air rises.
 The temperature near the ceiling of a closed room with a heater is: ## higher than near the floor ## lower ## same ## zero ## Hot air rises.
 Which pair of materials would make the best flask lid? ## cork and plastic ## iron and copper ## silver and gold ## glass and steel ## Both insulators.
 A student wants a quick and even heating of water. She should: ## heat it from below ## heat it from above ## heat it from the sides only ## not heat ## Convection.
@@ -326,7 +326,7 @@ Why do some animals like elephants flap their ears? ## Increase heat loss|1 ## M
 """
 hD = """
 Design a project to compare the heat insulation of three materials (wool, aluminium foil, paper) using identical beakers of hot water. Describe the variables, procedure and expected result. ## Same volume and initial temperature|1 ## Wrap each beaker|1 ## Measure every 5 min|1 ## Same room conditions|1 ## Wool keeps heat longest|1
-Explain, with a labelled description, how a solar cooker works and why each part is designed as it is. ## Reflector concentrates light|1 ## Black inner surface absorbs|1 ## Glass lid traps heat|1 ## Insulated box reduces loss|1 ## Food cooks slowly|1
+Explain how a solar cooker works and why each part is designed as it is. ## Reflector concentrates light|1 ## Black inner surface absorbs|1 ## Glass lid traps heat|1 ## Insulated box reduces loss|1 ## Food cooks slowly|1
 Discuss the heat transfer when you boil water in a metal vessel on a gas stove: flame to vessel, vessel to water, water to air. ## Flame to base: radiation and convection|1 ## Base conducts|1 ## Water: convection|1 ## Surface loses heat|1 ## Steam leaves|1
 Explain the heating of the Earth by the Sun and the role of the atmosphere, land and sea in producing winds. ## Radiation reaches the Earth|1 ## Land heats faster|1 ## Sea slower|1 ## Pressure differences|1 ## Winds blow|1
 Analyse why a tea kettle's handle is made of plastic and the body of metal, whereas a cooler box is made of plastic and foam. ## Kettle body conducts|1 ## Handle insulates|1 ## Cooler box needs insulation|1 ## Foam traps air|1 ## Purposes differ|1

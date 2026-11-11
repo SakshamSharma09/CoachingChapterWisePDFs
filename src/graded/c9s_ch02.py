@@ -18,7 +18,7 @@ nA = [MC([
  ]), MC([
  ("A suspension is:", "a heterogeneous mixture whose particles settle on standing", "a clear solution", "a pure substance", "a compound", "Large particles."),
  ("Which of the following is a colloid?", "fog", "sugar in water", "salt in water", "air", "Water droplets in air."),
- ("Particles of a colloid cannot be separated by:", "ordinary filtration", "centrifugation", "coagulation", "dialysis", "Pass through filter paper."),
+ ("Colloidal particles pass through ordinary filter paper because they are:", "smaller than the pores of the paper", "larger than the pores of the paper", "heavier than water", "magnetic", "Colloidal particles are small."),
  ("The separation of cream from milk is done by:", "centrifugation", "filtration", "distillation", "sublimation", "Spinning."),
  ("The process used to separate a mixture of salt and ammonium chloride is:", "sublimation", "filtration", "decantation", "winnowing", "Ammonium chloride sublimes."),
  ("Which technique separates a mixture of two miscible liquids with different boiling points?", "distillation", "filtration", "sedimentation", "magnetic separation", "Boiling points differ."),
@@ -35,7 +35,7 @@ nA = [MC([
  ("Winnowing separates:", "husk from grain using wind", "salt from water", "iron from sand", "gases", "Density difference."),
  ("A magnet can separate:", "iron filings from sulphur", "sand from salt", "sugar from water", "oil from water", "Magnetic material."),
  ("The solubility of most solids in water:", "increases with temperature", "decreases with temperature", "does not change", "becomes zero", "Warm water dissolves more."),
- ("Aeration of drinking water and removing suspended impurities is done by:", "sedimentation and filtration", "chromatography", "sublimation", "winnowing", "Water treatment."),
+ ("Suspended impurities are removed from muddy river water by:", "sedimentation, decantation and filtration", "chromatography", "sublimation", "winnowing", "Water treatment."),
  ("Air can be separated into its gases by:", "fractional distillation of liquid air", "filtration", "sublimation", "decantation", "Different boiling points."),
  ])]
 nB = [
@@ -116,7 +116,7 @@ eA = [MC([
  ("The percentage of solute in 10 g salt + 90 g water:", "10 per cent", "90 per cent", "9 per cent", "100 per cent", "10/100."),
  ("The solubility of solids with temperature usually:", "increases", "decreases", "stays same", "becomes zero", "Warm."),
  ("A saturated solution can dissolve:", "no more solute", "more solute", "any amount", "gas only", "Limit."),
- ("An unsaturated solution can dissolve:", "more solute", "no more solute", "only gases", "nothing", "Capacity."),
+ ("An unsaturated solution can dissolve:", "more solute", "no more solute", "only gases", "more solvent", "Capacity."),
  ("Dilute solution has:", "less solute", "more solute", "no solvent", "no solute", "Weak."),
  ("Concentrated solution has:", "more solute", "less solute", "no solute", "no solvent", "Strong."),
  ("Air can be liquefied by:", "pressure and cooling", "heating", "filtration", "sublimation", "Compression."),
@@ -279,15 +279,15 @@ hA = [[
  ("A colloid in which a liquid is dispersed in a liquid is called:", "an emulsion", "a sol", "a foam", "an aerosol", "e.g. milk."),
  ("A colloid in which a gas is dispersed in a liquid is a:", "foam", "emulsion", "sol", "gel", "e.g. whipped cream."),
  ]), MC([
- ("A mixture can be separated by sublimation if:", "only one component sublimes", "both sublime at equal rates", "none sublime", "both melt", "Different behaviour on heating."),
+ ("A mixture can be separated by sublimation if:", "only one component sublimes", "both sublime at equal rates", "neither component melts", "both melt", "Different behaviour on heating."),
  ("Which of the following combinations can be separated by magnetic separation?", "iron and sulphur", "salt and sugar", "sand and chalk", "water and oil", "Only iron is magnetic."),
  ("A student mixes sand and powdered sugar. The best method of separation is:", "dissolve in water, filter, evaporate", "magnet", "sublimation", "winnowing", "Sugar dissolves."),
- ("Which of the following does not use the difference in particle size?", "distillation", "filtration", "sieving", "centrifugation", "Boiling point."),
+ ("Which of the following separates a mixture using the difference in boiling points?", "distillation", "filtration", "sieving", "winnowing", "Boiling point."),
  ("A sample of water boils at 102 degrees Celsius at normal pressure. This indicates:", "dissolved impurities", "pure water", "a gas", "an alloy", "Boiling point elevation."),
  ("A student separates two components A and B by shaking with a solvent in which only A is soluble. This method is called:", "solvent extraction", "sublimation", "winnowing", "chromatography only", "Selective solubility."),
  ("Water flowing in the outer jacket of a condenser flows from the bottom to the top because:", "it keeps the jacket full for efficient cooling", "it is easier", "to avoid noise", "to save water", "Complete cooling."),
  ("Why are boiling chips added to the flask in distillation?", "to prevent bumping and give smooth boiling", "to increase temperature", "to dissolve", "to clean", "Smooth boiling."),
- ("A liquid mixture of three components with boiling points 60, 80 and 120 degrees Celsius is separated by fractional distillation. The fraction collected at 80 degrees Celsius is:", "the second component", "the first", "the third", "none", "Ascending order."),
+ ("A liquid mixture of three components with boiling points 60, 80 and 120 degrees Celsius is separated by fractional distillation. The fraction collected at 80 degrees Celsius is:", "the second component", "the first", "the third", "a mixture of all three", "Ascending order."),
  ("Which of these properties is the same for all samples of pure water but not for sea water?", "boiling point at a given pressure", "colour", "state", "transparency", "Fixed for pure."),
  ])]
 hB = [

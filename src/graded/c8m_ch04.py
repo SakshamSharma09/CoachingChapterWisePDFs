@@ -53,7 +53,7 @@ nA7 = [M4("Which property holds for every parallelogram?", "The diagonals bisect
        M4("In which quadrilateral does exactly one diagonal bisect the other?", "kite", ["rhombus", "rectangle", "parallelogram"], "In a kite the axis diagonal bisects the other"),
        M4("The sum of two adjacent angles of a parallelogram is:", "$180^\\circ$", ["$90^\\circ$", "$360^\\circ$", "$270^\\circ$"], "Co-interior angles"),
        M4("A trapezium whose non-parallel sides are equal is called:", "an isosceles trapezium", ["a kite", "a rhombus", "a parallelogram"], "Isosceles trapezium"),
-       M4("A quadrilateral with all sides equal is called a:", "rhombus", ["kite only", "trapezium", "rectangle"], "Equal sides")]
+       M4("A quadrilateral with all sides equal is called a:", "rhombus", ["rectangle", "trapezium", "isosceles trapezium"], "Equal sides")]
 NCERT_A = [nA1, nA2, nA3, nA4, nA5, nA6, nA7]
 NCERT_B = ([Q(f"The angles of a quadrilateral are in the ratio {':'.join(map(str,r))}. Find the smallest angle.", rf"Total parts ${sum(r)}$, one part $=360\div{sum(r)}={360//sum(r)}^\circ$ (1); smallest angle $={min(rat_ang(r))}^\circ$ (1).", "1+1") for r in [(1, 3, 5, 3), (2, 3, 3, 4), (2, 4, 5, 9), (1, 2, 4, 5)]]
            + [Q(f"In a parallelogram ABCD, $\\angle A=({lin(p,q)})^\\circ$ and $\\angle B=({lin(r,s)})^\\circ$. Find $x$ and $\\angle A$.", rf"Adjacent angles are supplementary: ${lin(p,q)}+{lin(r,s,'x')}=180$ gives $x={(180-q-s)//(p+r)}$ (1); $\angle A={p*((180-q-s)//(p+r))+q}^\circ$ (1).".replace("+-", "-"), "1+1") for p, q, r, s in [(3, 10, 2, -10), (2, 20, 3, -10), (4, 5, 2, 25), (5, 10, 4, -10)]]
@@ -69,12 +69,12 @@ mA1 = [M4(f"The angles of a quadrilateral are $x^\\circ$, $(x+{a})^\\circ$, $(x+
 mA2 = [M4(f"The adjacent sides of a parallelogram are in the ratio {a}:{b} and its perimeter is {2*k*(a+b)} cm. The longer side is:", cm(k * max(a, b)), [cm(k * min(a, b)), cm(k * (a + b)), cm(2 * k * max(a, b))], f"$2k({a}+{b})={2*k*(a+b)}$ gives $k={k}$") for a, b, k in [(3, 5, 4), (2, 3, 6), (4, 7, 3), (5, 6, 5), (1, 4, 9)]]
 mA3 = [M4(rf"The diagonals of a parallelogram ABCD meet at O. If AO $=({lin(p,q)})$ cm and OC $=({lin(r,s)})$ cm, then AC is:", cm(2 * (p * sol(p, q, r, s) + q)), [cm(p * sol(p, q, r, s) + q), cm(2 * (p * sol(p, q, r, s) + q) + 2), cm(sol(p, q, r, s))], "AO = OC; find $x$ first, then AC = 2 AO") for p, q, r, s in [(2, 3, 3, -4), (3, 1, 5, -5), (4, 2, 3, 9), (5, -3, 3, 7), (6, 1, 4, 9)]]
 def solA(p, q, r, x): return 180 - (p * x + q) - r * x
-mA4 = [M4(f"In a rhombus ABCD, $\angle A=({lin(p,q)})^\circ$ and $\angle B=({lin(r,solA(p,q,r,x))})^\circ$. The value of $x$ is:", x, n3(x, (1, -1, 4)), "Adjacent angles are supplementary") for p, q, r, x in [(4, 10, 5, 17), (3, 15, 6, 14), (2, 40, 3, 18), (5, 20, 3, 16), (7, 5, 2, 9)]]
+mA4 = [M4(f"In a rhombus ABCD, $\\angle A=({lin(p,q)})^\\circ$ and $\\angle B=({lin(r,solA(p,q,r,x))})^\circ$. The value of $x$ is:", x, n3(x, (1, -1, 4)), "Adjacent angles are supplementary") for p, q, r, x in [(4, 10, 5, 17), (3, 15, 6, 14), (2, 40, 3, 18), (5, 20, 3, 16), (7, 5, 2, 9)]]
 mA5 = [M4(f"In a kite ABCD with AB = AD and CB = CD, $\\angle A={y}^\\circ$ and $\\angle C={z}^\\circ$. The angle $\\angle B$ is:", Dg((360 - y - z) // 2), [Dg(360 - y - z), Dg((360 - y - z) // 2 + 10), Dg((360 - y - z) // 2 - 10)], "$\\angle B=\\angle D$ and the angle sum is $360^\\circ$") for y, z in [(60, 130), (72, 98), (90, 66), (50, 120), (84, 112)]]
 mA6 = [M4(f"Three exterior angles of a quadrilateral are ${a}^\\circ$, ${b}^\\circ$ and ${c}^\\circ$. The fourth exterior angle is:", Dg(360 - a - b - c), [Dg(360 - a - b - c + 10), Dg(360 - a - b - c - 10), Dg(360 - a - b - c + 25)], "Exterior angles of a quadrilateral add up to $360^\\circ$") for a, b, c in [(80, 100, 95), (70, 110, 85), (92, 88, 105), (60, 125, 90), (75, 105, 110)]]
 mA7 = [M4("A quadrilateral whose diagonals bisect each other and are equal is a:", "rectangle", ["rhombus", "kite", "trapezium"], "A parallelogram with equal diagonals"),
        M4("In which quadrilateral are the diagonals perpendicular but do not bisect each other?", "kite", ["rectangle", "parallelogram", "square"], "Only one diagonal is bisected"),
-       M4("A parallelogram is a rhombus if its diagonals are:", "perpendicular", ["equal", "parallel", "unequal in length only"], "Perpendicular diagonals"),
+       M4("A parallelogram is a rhombus if its diagonals:", "are perpendicular", ["are equal in length", "are in the ratio 1:2", "make an angle of $60^\\circ$"], "Perpendicular diagonals"),
        M4("Which statement is true?", "Every rhombus is a parallelogram", ["Every parallelogram is a rectangle", "Every kite is a rhombus", "Every trapezium is a parallelogram"], "A rhombus has both pairs of opposite sides parallel"),
        M4("The number of pairs of equal adjacent sides in a kite is:", "2", ["1", "3", "4"], "Two pairs"),
        M4("A quadrilateral with four right angles must be a:", "rectangle", ["rhombus", "kite", "trapezium"], "Every angle $90^\\circ$ gives a rectangle")]
@@ -113,7 +113,7 @@ HARD_B = ([Q(f"In a parallelogram ABCD, $\\angle A=({lin(p,q)})^\\circ$ and $\\a
           + [Q(f"The angles of a quadrilateral are in the ratio {':'.join(map(str,r))}. Find the largest angle and say whether it is acute, right or obtuse.", rf"One part $=360\div{sum(r)}={360//sum(r)}^\circ$ (1); largest $={max(rat_ang(r))}^\circ$, which is {'obtuse' if max(rat_ang(r))>90 else 'acute'} (1).", "1+1") for r in [(2, 5, 6, 7), (4, 4, 4, 8), (5, 5, 6, 8), (3, 4, 4, 9)]]
           + [Q(f"In a kite ABCD, AB = AD, CB = CD, $\\angle A={a}^\\circ$ and $\\angle B={b}^\\circ$. Find $\\angle C$ and $\\angle D$.", rf"$\angle D=\angle B={b}^\circ$ (1); $\angle C=360-{a}-2\times{b}={360-a-2*b}^\circ$ (1).", "1+1") for a, b in [(70, 100), (84, 96), (55, 115), (100, 80)]])
 HARD_C = ([Q(f"In a parallelogram ABCD with $\\angle A={x}^\\circ$, the bisectors of $\\angle A$ and $\\angle B$ meet at P. Find $\\angle APB$.", rf"$\angle B={180-x}^\circ$ (1); $\angle PAB={x/2:g}^\circ$ and $\angle PBA={(180-x)/2:g}^\circ$ (1); $\angle APB=180-({x/2:g}+{(180-x)/2:g})=90^\circ$ (1).", "1+1+1") for x in [50, 70, 84, 96, 110, 124]]
-          + [Q(f"The angles of a quadrilateral are $x^\\circ$, $({lin(1,-a)})^\\circ$... ".replace("... ", "") if False else f"The angles of a quadrilateral are $x^\\circ$, $(2x-{a})^\\circ$, $(3x-{2*a})^\\circ$ and $(4x-{3*a})^\\circ$. Find all four angles.", rf"$10x-{6*a}=360$ (1); $x={(360+6*a)//10}$ (1); angles {AL([(360+6*a)//10, 2*((360+6*a)//10)-a, 3*((360+6*a)//10)-2*a, 4*((360+6*a)//10)-3*a])} (1).", "1+1+1") for a in [10, 20, 5, 15, 25, 30]]
+          + [Q(f"The angles of a quadrilateral are $x^\\circ$, $(2x-{a})^\\circ$, $(3x-{2*a})^\\circ$ and $(4x-{3*a})^\\circ$. Find all four angles.", rf"$10x-{6*a}=360$ (1); $x={(360+6*a)//10}$ (1); angles {AL([(360+6*a)//10, 2*((360+6*a)//10)-a, 3*((360+6*a)//10)-2*a, 4*((360+6*a)//10)-3*a])} (1).", "1+1+1") for a in [10, 20, 5, 15, 25, 30]]
           + [Q(f"One angle of a parallelogram is {k} times its adjacent angle. Find all the angles of the parallelogram.", rf"Let the smaller be $x$: $x+{k}x=180$ (1); $x={180//(k+1)}^\circ$ (1); angles ${180//(k+1)}^\circ$, ${k*(180//(k+1))}^\circ$, ${180//(k+1)}^\circ$, ${k*(180//(k+1))}^\circ$ (1).", "1+1+1") for k in [2, 3, 4, 5, 8, 11]])
 def hd1(r):
     k = 360 // sum(r); an = [k * t for t in r]
@@ -127,3 +127,6 @@ HARD_D = [hd1(r) for r in [(1, 2, 3, 4), (2, 3, 3, 4), (3, 4, 5, 6), (4, 5, 5, 6
 
 TIERS = {"NCERT": T(NCERT_A, NCERT_B, NCERT_C, NCERT_D), "Easy": T(EASY_A, EASY_B, EASY_C, EASY_D),
          "Medium": T(MED_A, MED_B, MED_C, MED_D), "Hard": T(HARD_A, HARD_B, HARD_C, HARD_D)}
+
+from c8m_fix import tidy
+tidy(TIERS)

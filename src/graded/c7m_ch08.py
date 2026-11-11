@@ -82,7 +82,7 @@ nA3 = [tm(t, c, w, "Use the meaning of multiplying and dividing fractions.") for
     ("The number of $\\frac13$s in $\\frac23$ is:", "$2$", ["$3$", "$\\frac29$", "$1$"]),
     ("$\\frac34$ of $\\frac23$ is:", R(1, 2), [R(1, 3), R(5, 7), R(9, 8)]),
     ("Which is larger: $4\\times\\frac12$ or $4\\div\\frac12$?", "$4\\div\\frac12$", ["$4\\times\\frac12$", "they are equal", "cannot say"]),
-    ("When a number is multiplied by $\\frac32$, the result is:", "greater than the number", ["less than the number", "equal to the number", "zero"])]]
+    ("When a positive number is multiplied by $\\frac32$, the result is:", "greater than the number", ["less than the number", "equal to the number", "zero"])]]
 nA4 = [fo(f"{MX(w, r, d)} $\\times {n}$ equals:", mixed(w, r, d) * n, "Convert to an improper fraction and multiply.", bad=[Fr(w * n) + Fr(r, d)])
        for w, r, d, n in [(1, 1, 2, 4), (2, 1, 3, 6), (3, 3, 4, 8), (1, 2, 5, 5)]]
 nA5 = [fo(f"The reciprocal of {MX(w, r, d)} (as a fraction) is:", Fr(d, w * d + r), "Write as an improper fraction, then invert.", bad=[Fr(d, w * d + r) * 2])
@@ -185,7 +185,7 @@ hA2 = [fo(f"{R(a, b)} of a number is {n}. Three times the number is:", F(n) * 3 
        for a, b, n in [(2, 5, 18), (3, 7, 12), (4, 9, 20), (2, 3, 14)]]
 hA3 = [fo(f"A pipe fills {R(a, b)} of a tank in {c} minutes. The time to fill the whole tank (minutes) is:", F(c) / F(a, b), "Time for the whole $=$ time for the part $\\div$ fraction.")
        for a, b, c in [(2, 5, 12), (3, 4, 15), (5, 6, 20), (3, 8, 9)]]
-hA4 = [fo(f"A wall is {R(a, b)} painted. After {R(c, d)} of the remaining part is painted, the fraction of the whole still unpainted is:", (1 - F(a, b)) * (1 - F(c, d)), "Unpainted = (unpainted before) $\\times$ (what is not painted of it).")
+hA4 = [fo(f"{R(a, b)} of a wall is already painted. Then {R(c, d)} of the remaining part is painted. The fraction of the whole wall still unpainted is:", (1 - F(a, b)) * (1 - F(c, d)), "Unpainted = (unpainted before) $\\times$ (what is not painted of it).")
        for a, b, c, d in [(1, 3, 1, 2), (2, 5, 2, 3), (3, 8, 3, 5), (1, 4, 4, 9)]]
 hA5 = [tm(t, c, w, "Reason about the size of products and quotients.") for t, c, w in [
     ("If $0<x<1$, then $\\frac{1}{x}$ is:", "greater than 1", ["less than 1", "equal to 1", "negative"]),
@@ -195,7 +195,7 @@ hA5 = [tm(t, c, w, "Reason about the size of products and quotients.") for t, c,
     ("$\\frac{1}{\\frac{2}{5}}$ is equal to:", R(5, 2), [R(2, 5), "$2$", R(1, 5)])]]
 hA6 = [fo(f"{R(a, b)} of {MX(w, r, d)} is:", F(a, b) * mixed(w, r, d), "Multiply the fraction by the mixed number.", bad=[F(a, b) + mixed(w, r, d)])
        for a, b, w, r, d in [(3, 5, 3, 1, 3), (5, 7, 2, 4, 5), (7, 9, 4, 1, 2), (5, 12, 2, 2, 5)]]
-hA7 = [fo(f"If $x\\times{R(a, b)}={R(c, d)}$, then $x\\div{R(e, f)}$ is:", F(c, d) / F(a, b) / F(e, f), "Find $x$ first.")
+hA7 = [fo(f"If $x\\times{raw(a, b)}={raw(c, d)}$, then $x\\div{raw(e, f)}$ is:", F(c, d) / F(a, b) / F(e, f), "Find $x$ first.")
        for a, b, c, d, e, f in [(3, 4, 9, 16, 3, 4), (2, 5, 4, 15, 2, 3), (5, 6, 5, 9, 5, 12), (7, 9, 7, 6, 3, 1)]]
 HARD_A = [hA1, hA2, hA3, hA4, hA5, hA6, hA7]
 

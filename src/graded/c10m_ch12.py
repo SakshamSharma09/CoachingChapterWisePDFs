@@ -1,4 +1,4 @@
-"""Class 10 Maths Ch 12 - Surface Areas and Volumes (graded banks). Combinations of two solids and conversion of solids; no frustum. pi = 22/7."""
+"""Class 10 Maths Ch 12 - Surface Areas and Volumes (graded banks). Combinations of two solids and conversion of solids. pi = 22/7."""
 from c10m_x import *
 
 SLUG, NAME, CHNO = "Surface_Areas_and_Volumes", "Surface Areas and Volumes", 12

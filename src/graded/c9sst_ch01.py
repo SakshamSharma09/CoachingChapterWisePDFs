@@ -80,7 +80,7 @@ N_D = [
 ]
 
 E_A = [
-"Economics is the study of | choices made with limited resources | stars and planets | plant life | rocks | Core idea of economics",
+"Economics is the study of | choices made with limited resources | the structure of rocks and soils | the movement of stars | the life cycle of plants | Core idea of economics",
 "Food, water and shelter are | needs | wants | luxuries | public goods | Essentials of life",
 "A bicycle changing to a motorbike and then a car shows that | wants keep changing | needs are unlimited | resources are free | prices fall | Wants grow",
 "Land, labour, capital and technology are | factors of production | public goods | government taxes | economic systems | Inputs of production",
@@ -90,12 +90,12 @@ E_A = [
 "The PPC is drawn | sloping downward | sloping upward | as a horizontal line | as a circle | Trade-off between goods",
 "A firm using many workers and few machines is | labour-intensive | capital-intensive | monopolistic | planned | Technique of production",
 "A firm using many machines and few workers is | capital-intensive | labour-intensive | traditional | subsistence | Technique of production",
-"The three types of economic systems are planned, market and | mixed | traditional only | tribal | barter | Complete the list",
+"The three types of economic systems are planned, market and | mixed | colonial | tribal | feudal | Complete the list",
 "Which economy is controlled mainly by a central planning authority? | Planned economy | Market economy | Mixed economy | Open economy | Government decisions",
 "In a market economy prices are set by | demand and supply | the planning commission | the court | the army | Free markets",
 "India is regarded as a | mixed economy | planned economy only | pure market economy | barter economy | Public and private sectors both exist",
 "Which is an example of a public good? | Street light | Designer shoes | A private car | A cinema ticket | Used by all",
-"Economic Survey is released by | the Ministry of Finance | the Supreme Court | the Election Commission | the Planning school | Annual review of economy",
+"The Economic Survey is released by the | Ministry of Finance | Supreme Court | Election Commission | Reserve Bank of India | Annual review of economy",
 "Major economic reforms in India began in | 1991 | 1950 | 1971 | 2010 | Liberalisation year",
 "The word 'oikos' in Greek means | household | market | trade | money | Origin of economics",
 "A place where buying and selling takes place is a | market | school | forest | museum | Definition",
@@ -159,7 +159,7 @@ M_A = [
 "Which statement correctly shows scarcity? | A school has funds for either a lab or a playground, not both | Water is free everywhere | Everyone has everything | A shop has unlimited stock | Limited funds with alternative uses",
 "On a PPC, a point lying inside the curve represents | resources not fully or efficiently used | the best output | impossible output | maximum profit | Wastage",
 "Moving along a PPC from more wheat to more barley, the wheat given up shows | opportunity cost of barley | profit from wheat | total demand | price of barley | Trade-off",
-"In the table the cost of the 4th 25 kg of barley (D to E) is 40 kg wheat while the 1st is 10 kg. This shows | opportunity cost rises as more barley is produced | cost is constant | wheat is free | barley is a want | Increasing cost",
+"On a PPC, the first 25 kg of barley costs 10 kg of wheat, but the last 25 kg of barley costs 40 kg of wheat. This shows | opportunity cost rises as more barley is produced | opportunity cost stays constant | wheat becomes free as barley rises | barley is a want while wheat is a need | Increasing cost",
 "A government must choose between building a flyover and a hospital with the same funds. This is best described as | a problem of choice due to scarcity | a public good | a market failure | a barter | Alternatives with limited funds",
 "A tailor can sew 10 school uniforms or 5 wedding outfits in a day. Sewing 1 wedding outfit costs | 2 uniforms | 5 uniforms | 10 uniforms | 1 uniform | 10/5 = 2",
 "Rising wages make labour costly. A firm would most likely | shift to machines | hire more labour | close down | ignore costs | Cost of labour affects technique",
@@ -203,7 +203,7 @@ M_B = [
 ]
 M_C = [
 "A potter can make 20 pots or 10 plates daily. Find the opportunity cost of one plate and explain. @ 20 pots for 10 plates @ One plate costs 2 pots @ Using the same resources for plates means fewer pots",
-"A farmer's land can grow 100 kg wheat or 50 kg barley. If he grows 20 kg barley and 60 kg wheat, is the land fully used? Explain. @ Full use of barley rate is 2 kg wheat per kg barley @ 20 kg barley would reduce wheat to 60 @ Yes, it lies on the PPC",
+"A farmer's land can grow 100 kg wheat or 50 kg barley. If he grows 20 kg barley and 60 kg wheat, is the land fully used? Explain. @ Each kg of barley costs 2 kg of wheat on this frontier @ 20 kg barley would reduce wheat from 100 to 60 @ Yes, it lies on the PPC",
 "A school has Rs 2 lakh for a lab or a library. Discuss the choice. @ Funds are scarce @ Each use has an opportunity cost @ Decide by needs of students",
 "Explain how cost of capital changes the way garments are made. @ Costly machines favour labour @ Cheap machines encourage automation @ Firm picks the lower-cost mix",
 "Compare how a planned economy and a market economy decide what to produce. @ Planned: central authority sets targets @ Market: demand and supply guide producers @ Result is government priorities versus consumer preferences",
@@ -254,11 +254,11 @@ H_A = [
 "In India before 1991 a firm needed a licence to expand. A likely effect was | limited competition | quick growth of many firms | cheap imports | more consumer choice | Restrictions",
 "Which pair BEST shows opportunity cost for a government? | Hospital built - school not built | Tax collected - tax paid | Budget presented - survey read | Loan taken - loan repaid | Choice between projects",
 "Given PPC points D (75,40) and E (100,0), the opportunity cost of one more kg barley in this step is | 1.6 kg wheat | 0.4 kg wheat | 40 kg wheat | 25 kg wheat | 40/25 = 1.6",
-"For C to D, the opportunity cost of 1 kg barley is | 1.2 kg wheat | 0.8 kg wheat | 30 kg wheat | 25 kg wheat | 30/25 = 1.2",
+"Moving from C (50 barley, 70 wheat) to D (75 barley, 40 wheat), the opportunity cost of 1 kg barley is | 1.2 kg wheat | 0.8 kg wheat | 30 kg wheat | 25 kg wheat | 30/25 = 1.2",
 "If the cost of machines falls sharply, which sector shift is most likely? | More capital-intensive production | More labour-intensive production | Closure of all factories | No change | Cheaper capital",
 "Which of these is NOT an example of a scarce resource? | Air available freely in an open field | Fertile land | Clean drinking water | Skilled labour | Scarce means limited",
 "A market economy produces mostly goods which are profitable. Hence it may under-provide | public goods | luxury goods | gadgets | branded shoes | Profit motive",
-"Which of the following BEST explains why economists use data instead of guesswork? | Choices involve costs, so facts reduce waste | Data is free | Guesses are illegal | Data creates resources | Evidence-based choice",
+"Which of the following BEST explains why economists use data instead of guesswork? | Choices involve costs, so facts reduce waste | Data makes resources unlimited | Data removes the need to choose | Guesses are always correct if made by experts | Evidence-based choice",
 "Which statement is most accurate? | Opportunity cost exists for every choice made under scarcity | Opportunity cost applies only to firms | Rich people face no opportunity cost | Opportunity cost is always monetary | Universal",
 "A shoe company makes cheap school shoes and costly office shoes. It is deciding | for whom to produce | when to retire | where to export | only price | Different groups",
 ]

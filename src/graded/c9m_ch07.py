@@ -120,3 +120,6 @@ HARD_D = ([QQ(f"Two dice are rolled together. Find the probability that (i) the 
           + [QQ(f"A bag has {r} red, {b} blue and {g} green balls. Some green balls are removed so that $P(\\text{{green}})$ becomes $\\frac{{{p}}}{{{q}}}$. How many green balls were removed?", f"Let $x$ be removed: $\\frac{{{g}-x}}{{{r + b + g}-x}}={fx(Fr(p, q))}$", f"${q}({g}-x)={p}({r + b + g}-x)$", f"${q * g}-{q}x={p * (r + b + g)}-{p}x$", f"$x={fx(Fr(q * g - p * (r + b + g), q - p))}$") for r, b, g, p, q in [(7, 8, 12, 1, 4), (9, 9, 15, 1, 4), (10, 11, 20, 1, 4), (6, 8, 12, 1, 3), (5, 9, 16, 1, 3), (8, 8, 14, 1, 5)]])
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

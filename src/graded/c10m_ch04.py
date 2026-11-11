@@ -17,7 +17,7 @@ def split(cs):
     return None
 def rts(r1, r2): return f"{t(r1)}, {t(r2)}" if r1 != r2 else t(r1)
 def nature(D): return "two distinct real roots" if D > 0 else ("two equal real roots" if D == 0 else "no real roots")
-NAT = ["two distinct real roots", "two equal real roots", "no real roots", "one real root and one imaginary root"]
+NAT = ["two distinct real roots", "two equal real roots", "no real roots", "three real roots"]
 def MNAT(cs, why=""):
     D = DD(cs); return MS(f"The nature of the roots of ${EQ(cs)}$ is:", nature(D), [x for x in NAT if x != nature(D)], f"$D=b^2-4ac={D}$")
 
@@ -35,8 +35,7 @@ def SOLQ(cs):
         res = f"$D=({b})^2-4({a})({c})={D}<0$ (2); no real roots (1)."
     return Q(f"Find the roots of ${EQ(cs)}$ using the quadratic formula (if they exist).", res, "1+1+1")
 def SOLC(r1, r2):
-    cs = QI(r1, r2); a, b, c = cs
-    return Q(f"Solve by completing the square: ${EQ(cs)}$.", f"Divide by ${a}$: $x^2{sg(F(b,a))}x{sg(F(c,a))}=0$ (1); $\\left(x{sg(F(b,2*a))}\\right)^2={t(F(b*b,4*a*a)-F(c,a))}$ (1); $x{sg(F(b,2*a))}=\\pm{t(abs(r1-r2)/2)}$, so $x={rts(r1,r2)}$ (1).", "1+1+1")
+    return SOLQ(QI(r1, r2))
 def CONS(n):
     return Q(f"The product of two consecutive positive integers is {n*(n+1)}. Find the integers.", f"Let integers be $x$ and $x+1$: $x(x+1)={n*(n+1)}$ (1); $x^2+x-{n*(n+1)}=0$ (1); $(x-{n})(x+{n+1})=0$, $x={n}$ (1); integers ${n}$ and ${n+1}$ (1).", "1+1+1+1")
 def RECT(b, d):
@@ -49,18 +48,18 @@ def SPEED(m, s, h):
     return Q(f"A train travels {D} km at a uniform speed. If the speed had been {s} km/h more, it would have taken {h} hour{'s' if h>1 else ''} less for the journey. Find the original speed.", f"Speed $x$: $\\dfrac{{{D}}}{{x}}-\\dfrac{{{D}}}{{x+{s}}}={h}$ (1); ${D*s}={h}x(x+{s})$ so $x^2+{s}x-{D*s//h}=0$ (2); $(x-{v})(x+{v+s})=0$ (1); speed ${v}$ km/h (1).", "1+2+1+1")
 def TRI(a, b, c):
     d = b - a
-    return Q(f"The altitude of a right triangle is {d} cm less than its base and the hypotenuse is {c} cm. Find the base and altitude.", f"Base $x$, altitude $x-{d}$: $x^2+(x-{d})^2={c*c}$ (1); $2x^2-{2*d}x+{d*d-c*c}=0$, i.e. $x^2-{d}x-{F(c*c-d*d,2)}=0$ (2); $(x-{b})(x+{a})=0$ (1); base ${b}$ cm, altitude ${a}$ cm (1).", "1+2+1+1")
+    return Q(f"The altitude of a right triangle is {d} cm less than its base and the hypotenuse is {c} cm. Find the base and altitude.", f"Base $x$, altitude $x-{d}$: $x^2+(x-{d})^2={c*c}$ (1); $2x^2-{2*d}x{sg(d*d-c*c)}=0$, i.e. $x^2-{d}x-{F(c*c-d*d,2)}=0$ (2); $(x-{b})(x+{a})=0$ (1); base ${b}$ cm, altitude ${a}$ cm (1).", "1+2+1+1")
 def STREAM(v, w, d1):
     T = F(d1, v - w) + F(d1, v + w)
-    return Q(f"A motorboat goes {d1} km upstream and {d1} km downstream in {t(T)} hours. If the speed of the stream is {w} km/h, find the speed of the boat in still water.", f"Boat speed $x$: $\\dfrac{{{d1}}}{{x-{w}}}+\\dfrac{{{d1}}}{{x+{w}}}={t(T)}$ (1); ${d1}(2x)={t(T)}(x^2-{w*w})$ (1); roots of the resulting quadratic: $x={v}$ or negative (1); speed ${v}$ km/h (1).", "1+1+1+1")
+    return Q(f"A motorboat goes {d1} km upstream and {d1} km downstream in ${t(T)}$ hours. If the speed of the stream is {w} km/h, find the speed of the boat in still water.", f"Boat speed $x$: $\\dfrac{{{d1}}}{{x-{w}}}+\\dfrac{{{d1}}}{{x+{w}}}={t(T)}$ (1); ${d1}(2x)={t(T)}(x^2-{w*w})$ (1); roots of the resulting quadratic: $x={v}$ or negative (1); speed ${v}$ km/h (1).", "1+1+1+1")
 
 # ---------------- EASY ----------------
 E1 = [(2, 3), (-1, 4), (3, 5), (-2, 6), (1, 7), (4, 5), (-3, -4), (2, -5), (6, -1), (-2, 3)]
 eA = [[MS("Which of the following is a quadratic equation?", f"$x^2{sg(b)}x{sg(c)}=0$", [f"$x^3{sg(b)}x{sg(c)}=0$", f"${b}x{sg(c)}=0$", f"$x{sg(b)}={c}$"], "Degree must be 2") for b, c in [(3, 2), (-5, 6), (4, 1), (7, -2), (2, 9), (-1, 3)]],
-      [MS(f"Is $x={k}$ a root of ${EQ(cs)}$?", "Yes" if ev(cs, k) == 0 else "No", ["No" if ev(cs, k) == 0 else "Yes", "Cannot say", "Only for $x>0$"], f"LHS $={t(ev(cs,k))}$ at $x={k}$") for cs, k in [([1, -5, 6], 2), ([1, -5, 6], 4), ([1, 2, -8], 2), ([1, 3, 2], -1), ([1, -3, 4], 1)]],
-      [MN(f"In ${EQ([a,b,c])}$, the value of $b$ is:", b, why="Compare with $ax^2+bx+c=0$") for a, b, c in [(2, -3, 5), (3, 7, -2), (1, -4, 9), (5, 6, 1), (4, -8, 3)]],
+      [MN(f"Which of the following is a root of ${EQ(cs)}$?", k, [x for x in (-k, k + 1, k - 1, 2 * k + 1, k * k + 1, 3 * k) if ev(cs, x) != 0], f"At $x={k}$ the left side equals $0$, so ${k}$ is a root") for cs, k in [([1, -5, 6], 2), ([1, -5, 6], 3), ([1, 2, -8], 2), ([1, 3, 2], -1), ([1, -4, 3], 1)]],
+      [MN(f"In ${EQ([a,b,c])}$, the value of $b$ is:", b, [-b, a, c, 2 * b], why="Compare with $ax^2+bx+c=0$") for a, b, c in [(2, -3, 5), (3, 7, -2), (1, -4, 9), (5, 6, 1), (4, -8, 3)]],
       [MS(f"The roots of $(x{sg(-r1)})(x{sg(-r2)})=0$ are:", rts(r1, r2).replace(", ", " and "), [f"{t(-r1)} and {t(-r2)}" if r1 != -r2 else "1 and 2", f"{t(r1)} and {t(-r2)}" if r2 != 0 else "0 and 1", f"{t(r1+r2)} and {t(r1*r2)}"], "Put each factor equal to zero") for r1, r2 in E1[:5]],
-      [MN(f"The discriminant of ${EQ(cs)}$ is:", DD(cs), why="$D=b^2-4ac$") for cs in [[1, -5, 6], [2, 3, 1], [1, 4, 4], [3, -2, -1], [1, 1, 3]]],
+      [MN(f"The discriminant of ${EQ(cs)}$ is:", DD(cs), [cs[1] ** 2 + 4 * cs[0] * cs[2], cs[1] ** 2 - 2 * cs[0] * cs[2], 4 * cs[0] * cs[2] - cs[1] ** 2, cs[1] ** 2 - cs[0] * cs[2]], why="$D=b^2-4ac$") for cs in [[1, -5, 6], [2, 3, 1], [1, 4, 4], [3, -2, -1], [1, 1, 3]]],
       [MNAT(cs) for cs in [[1, -5, 6], [1, 2, 1], [1, 1, 3], [2, -4, 2]]]]
 eB = ([Q(f"Check whether $x={k}$ is a root of ${EQ(cs)}$.", f"Put $x={k}$: LHS $={t(ev(cs,k))}$ (1); " + ("equals RHS 0, so it is a root (1)." if ev(cs, k) == 0 else "not equal to 0, so it is not a root (1)."), "1+1") for cs, k in [([1, -7, 10], 2), ([1, -7, 10], 3), ([2, -5, 3], 1), ([1, 0, -16], -4)]]
       + [Q(f"Find the roots of $(x{sg(-r1)})(x{sg(-r2)})=0$.", f"$x{sg(-r1)}=0$ or $x{sg(-r2)}=0$ (1); $x={t(r1)}$ or $x={t(r2)}$ (1).", "1+1") for r1, r2 in E1[5:9]]
@@ -73,17 +72,17 @@ eD = ([SOLF(*r) for r in [(F(1, 2), 3), (F(-2, 3), 1), (F(3, 2), -2), (F(1, 3), 
 
 # ---------------- NCERT ----------------
 N1 = [(3, 5), (-4, 6), (2, 9), (-5, 3), (1, 10), (7, -2), (4, 8)]
-nA = [[MN(f"For the equation ${EQ([1,-b,c])}$, the sum of the roots is:", b, why="Sum $=-b/a$") for b, c in [(7, 12), (9, 20), (11, 28), (8, 15), (13, 36)]],
-      [MN(f"For $x^2-{2*m}x+k=0$ to have equal roots, $k=$", m * m, why="$D=0$: $4m^2-4k=0$") for m in [3, 4, 5, 6, 7]],
-      [MN(f"If one root of $x^2-{r1+r2}x+k=0$ is {r1}, then $k$ is:", r1 * r2, why=f"Other root ${r2}$; product $=k$") for r1, r2 in [(2, 7), (3, 8), (4, 9), (5, 6), (6, 10)]],
+nA = [[MN(f"For the equation ${EQ([1,-b,c])}$, the sum of the roots is:", b, [-b, c, b - c, 2 * b], why="Sum $=-b/a$") for b, c in [(7, 12), (9, 20), (11, 28), (8, 15), (13, 36)]],
+      [MN(f"For $x^2-{2*m}x+k=0$ to have equal roots, $k=$", m * m, [2 * m, 4 * m * m, m, m * m + 1], why="$D=0$: $4m^2-4k=0$") for m in [3, 4, 5, 6, 7]],
+      [MN(f"If one root of $x^2-{r1+r2}x+k=0$ is {r1}, then $k$ is:", r1 * r2, [r1 + r2, r2, r1 * r2 + r1, 2 * r1 * r2], why=f"Other root ${r2}$; product $=k$") for r1, r2 in [(2, 7), (3, 8), (4, 9), (5, 6), (6, 10)]],
       [MS(f"The roots of $x^2{sg(-(r1+r2))}x{sg(r1*r2)}=0$ are:", f"{t(r1)} and {t(r2)}", [f"{t(-r1)} and {t(-r2)}", f"{t(r1)} and {t(-r2)}", f"{t(-r1)} and {t(r2)}"], "Factorise") for r1, r2 in N1[:5]],
-      [MN(f"The discriminant of ${EQ(cs)}$ is:", DD(cs), why="$D=b^2-4ac$") for cs in [[2, -7, 3], [3, 2, 5], [1, -9, 20], [4, 4, 1], [5, 3, -1]]],
+      [MN(f"The discriminant of ${EQ(cs)}$ is:", DD(cs), [cs[1] ** 2 + 4 * cs[0] * cs[2], cs[1] ** 2 - 2 * cs[0] * cs[2], 4 * cs[0] * cs[2] - cs[1] ** 2, cs[1] ** 2 - cs[0] * cs[2]], why="$D=b^2-4ac$") for cs in [[2, -7, 3], [3, 2, 5], [1, -9, 20], [4, 4, 1], [5, 3, -1]]],
       [MNAT(cs) for cs in [[2, -6, 3], [3, 2, 1], [1, -10, 25], [4, -4, 1], [2, 5, 4]]]]
 nB = ([Q(f"Represent the situation as a quadratic equation: The product of two consecutive positive integers is {n*(n+1)}.", f"Integers $x,x+1$: $x(x+1)={n*(n+1)}$ (1); $x^2+x-{n*(n+1)}=0$ (1).", "1+1") for n in [8, 9, 10, 12]]
       + [Q(f"Find the roots of ${EQ(QI(*r))}$ by factorisation.", f"Split the middle term and factorise (1); roots ${rts(*r)}$ (1).", "1+1") for r in [(F(3, 2), 2), (F(-1, 2), 3), (F(2, 3), -1), (F(-5, 2), 1)]]
       + [Q(f"Find $k$ for which $x^2-{2*m}x+k=0$ has two equal roots.", f"$D=0$: $({2*m})^2-4k=0$ (1); $k={m*m}$ (1).", "1+1") for m in [4, 5, 6, 8]])
 nC = ([SOLQ(cs) for cs in [[2, -7, 3], [1, -6, 4], [3, -5, 1], [2, 5, -3], [1, 2, 5], [5, -3, -2]]]
-      + [SOLC(*r) for r in [(2, 4), (-3, 5), (F(1, 2), 3), (-2, 6), (1, -7), (F(-1, 3), 2)]]
+      + [SOLC(*r) for r in [(2, 4), (-3, 5), (F(3, 2), 4), (-2, 6), (1, -7), (F(-1, 3), 2)]]
       + [Q(f"Find the values of $k$ for which $x^2+kx+{m*m}=0$ has equal roots.", f"$D=k^2-4({m*m})=0$ (1); $k^2={4*m*m}$ (1); $k=\\pm{2*m}$ (1).", "1+1+1") for m in [2, 3, 4, 5, 6, 7]])
 nD = ([SPEED(*p) for p in [(8, 5, 1), (6, 10, 1), (5, 4, 2)]] + [TRI(*p) for p in [(8, 15, 17), (12, 16, 20), (9, 12, 15)]]
       + [RECT(b, d) for b, d in [(15, 7), (11, 9), (20, 5)]] + [AGEQ(*p) for p in [(30, 12, 5), (27, 9, 6), (35, 14, 7)]])
@@ -95,12 +94,12 @@ def SOLR(r1, r2):
     return Q(f"Solve for $x$: ${EQ(cs)}$ by the quadratic formula.", f"$D=({cs[1]})^2-4({cs[0]})({cs[2]})={DD(cs)}$ (1); $x=\\dfrac{{{-cs[1]}\\pm{isqrt(DD(cs))}}}{{{2*cs[0]}}}$ (1); roots ${rts(r1,r2)}$ (1).", "1+1+1")
 def KEQ(m, p):
     return Q(f"If $x={p}$ is a root of $x^2-{m}x+k=0$, find $k$ and the other root.", f"Put $x={p}$: ${p*p}-{m*p}+k=0$ (1); $k={m*p-p*p}$ (1); other root $={m}-{p}={m-p}$ (1).", "1+1+1")
-mA = [[MN(f"The sum of the roots of ${EQ(cs)}$ is:", F(-cs[1], cs[0]), why="Sum $=-b/a$") for cs in [QI(*r) for r in M1[:5]]],
-      [MN(f"The product of the roots of ${EQ(cs)}$ is:", F(cs[2], cs[0]), why="Product $=c/a$") for cs in [QI(*r) for r in M1[:5]]],
-      [MN(f"The roots of ${EQ(QI(r1,r2))}$ differ by:", abs(r1 - r2), why="Roots are " + rts(r1, r2)) for r1, r2 in [(2, 9), (-3, 5), (4, 11), (-6, 2), (1, 8)]],
-      [MN(f"If $x={p}$ is a root of $x^2-{m}x+k=0$, then $k=$", m * p - p * p, why=f"${p*p}-{m*p}+k=0$") for m, p in [(9, 4), (11, 5), (10, 3), (13, 6), (12, 7)]],
+mA = [[MN(f"The sum of the roots of ${EQ(cs)}$ is:", F(-cs[1], cs[0]), [F(cs[1], cs[0]), F(cs[2], cs[0]), F(-cs[2], cs[0]), -cs[1]], why="Sum $=-b/a$") for cs in [QI(*r) for r in M1[:5]]],
+      [MN(f"The product of the roots of ${EQ(cs)}$ is:", F(cs[2], cs[0]), [F(-cs[2], cs[0]), F(cs[1], cs[0]), F(-cs[1], cs[0]), cs[2]], why="Product $=c/a$") for cs in [QI(*r) for r in M1[:5]]],
+      [MN(f"The roots of ${EQ(QI(r1,r2))}$ differ by:", abs(r1 - r2), [abs(r1 + r2), abs(r1 * r2), abs(r1 - r2) + 1, 2 * abs(r1 - r2)], why="Roots are " + rts(r1, r2)) for r1, r2 in [(2, 9), (-3, 5), (4, 11), (-6, 2), (1, 8)]],
+      [MN(f"If $x={p}$ is a root of $x^2-{m}x+k=0$, then $k=$", m * p - p * p, [p * p - m * p, m * p + p * p, m - p, m * p], why=f"${p*p}-{m*p}+k=0$") for m, p in [(9, 4), (11, 5), (10, 3), (13, 6), (12, 7)]],
       [MS(f"The equation $x^2+{b}x+{c}=0$ has:", nature(b * b - 4 * c), [x for x in NAT if x != nature(b * b - 4 * c)], f"$D={b*b-4*c}$") for b, c in [(6, 8), (4, 4), (3, 5), (7, 10), (2, 9), (8, 16)]],
-      [MN(f"The larger root of $x^2-{r1+r2}x+{r1*r2}=0$ is:", max(r1, r2), why="Factorise") for r1, r2 in [(3, 8), (5, 9), (4, 12), (6, 7), (2, 13)]]]
+      [MN(f"The larger root of $x^2-{r1+r2}x+{r1*r2}=0$ is:", max(r1, r2), [min(r1, r2), r1 + r2, r1 * r2, -max(r1, r2)], why="Factorise") for r1, r2 in [(3, 8), (5, 9), (4, 12), (6, 7), (2, 13)]]]
 mB = ([SOLR(*r) for r in M1[:4]] + [KEQ(*p) for p in [(9, 4), (11, 5), (10, 3), (13, 6)]]
       + [Q(f"Find $k$ so that $kx^2-{2*m}x+{n}=0$ has equal roots.", f"$D=0$: $({2*m})^2-4k({n})=0$ (1); $k={t(F(m*m,n))}$ (1).", "1+1") for m, n in [(3, 1), (4, 2), (6, 3), (5, 5)]])
 mC = ([Q(f"Solve for $x$: $\\dfrac{{1}}{{x}}+\\dfrac{{1}}{{x+{d}}}={t(F(1,r1)+F(1,r1+d))}$.", f"Multiply by $x(x+{d})$: $2x+{d}={t(F(1,r1)+F(1,r1+d))}x(x+{d})$ (1); form the quadratic with integer coefficients (1); positive root $x={r1}$ (1).", "1+1+1") for r1, d in [(2, 1), (3, 1), (3, 2), (4, 1), (4, 2), (5, 1)]]
@@ -110,12 +109,12 @@ mD = ([SPEED(*p) for p in [(4, 5, 2), (7, 5, 1), (6, 5, 2), (5, 8, 1)]] + [TRI(*
 
 # ---------------- HARD ----------------
 def PQ(p, q): return QI(p, q)
-hA = [[MN(f"If the roots of $x^2-{s}x+{pp}=0$ are $\\alpha,\\beta$, then $\\alpha^2+\\beta^2=$", s * s - 2 * pp, why="$(\\alpha+\\beta)^2-2\\alpha\\beta$") for s, pp in [(7, 10), (9, 14), (10, 21), (11, 24), (8, 12)]],
-      [MN(f"If the roots of $x^2-{s}x+k=0$ differ by {d}, then $k=$", F(s * s - d * d, 4), why="$(\\alpha-\\beta)^2=(\\alpha+\\beta)^2-4\\alpha\\beta$") for s, d in [(10, 2), (12, 4), (14, 6), (16, 2), (18, 8)]],
-      [MN(f"For which value of $k$ does $x^2+kx+{m}=0$ have equal roots (take $k>0$)?", F(2 * isqrt(m), 1), why="$D=0$ gives $k^2=4m$") for m in [9, 16, 25, 36, 49]],
-      [MN(f"The value of $k$ for which $x={r}$ is a root of $kx^2+{b}x{sg(c)}=0$ with $b={b}$, $c={c}$ is:", F(-(b * r + c), r * r), why="Substitute the root") for r, b, c in [(1, 3, -5), (2, -3, -2), (-1, 4, 6), (3, -5, -3), (2, 1, -10)]],
+hA = [[MN(f"If the roots of $x^2-{s}x+{pp}=0$ are $\\alpha,\\beta$, then $\\alpha^2+\\beta^2=$", s * s - 2 * pp, [s * s, s * s + 2 * pp, s * s - pp, 2 * pp], why="$(\\alpha+\\beta)^2-2\\alpha\\beta$") for s, pp in [(7, 10), (9, 14), (10, 21), (11, 24), (8, 12)]],
+      [MN(f"If the roots of $x^2-{s}x+k=0$ differ by {d}, then $k=$", F(s * s - d * d, 4), [F(s * s - d * d, 2), F(s * s + d * d, 4), F(s * s, 4) - d, s * s - d * d], why="$(\\alpha-\\beta)^2=(\\alpha+\\beta)^2-4\\alpha\\beta$") for s, d in [(10, 2), (12, 4), (14, 6), (16, 2), (18, 8)]],
+      [MN(f"For which value of $k$ does $x^2+kx+{m}=0$ have equal roots (take $k>0$)?", F(2 * isqrt(m), 1), [m, isqrt(m), 4 * isqrt(m), 2 * m], why="$D=0$ gives $k^2=4m$") for m in [9, 16, 25, 36, 49]],
+      [MN(f"If $x={r}$ is a root of $kx^2{sg(b)}x{sg(c)}=0$, then $k=$", F(-(b * r + c), r * r), [F(b * r + c, r * r), F(-(b * r - c), r * r), F(-c, r * r), F(b, r)], why="Substitute the root") for r, b, c in [(1, 3, -5), (2, -3, -2), (-1, 4, 6), (3, -5, -3), (2, 1, -10)]],
       [MS(f"The equation $kx^2+{b}x+{c}=0$ has real roots when:", f"$k\\le{t(F(b*b,4*c))}$ and $k\\ne0$", [f"$k\\ge{t(F(b*b,4*c))}$", f"$k<{t(F(b*b,4*c))}$ only", f"$k>0$"], f"$D={b*b}-{4*c}k\\ge0$") for b, c in [(6, 3), (4, 2), (8, 4), (10, 5), (2, 1)]],
-      [MN(f"If $\\alpha,\\beta$ are roots of $x^2-{s}x+{pp}=0$, then $\\dfrac{{1}}{{\\alpha}}+\\dfrac{{1}}{{\\beta}}=$", F(s, pp), why="$\\dfrac{\\alpha+\\beta}{\\alpha\\beta}$") for s, pp in [(5, 6), (7, 12), (9, 20), (8, 15), (11, 18)]]]
+      [MN(f"If $\\alpha,\\beta$ are roots of $x^2-{s}x+{pp}=0$, then $\\dfrac{{1}}{{\\alpha}}+\\dfrac{{1}}{{\\beta}}=$", F(s, pp), [F(pp, s), s * pp, F(-s, pp), s + pp], why="$\\dfrac{\\alpha+\\beta}{\\alpha\\beta}$") for s, pp in [(5, 6), (7, 12), (9, 20), (8, 15), (11, 18)]]]
 def KDIS(a, c):
     return Q(f"Find the values of $k$ for which $kx^2+{2*a}x+{c}=0$ has real and equal roots.", f"$D=({2*a})^2-4k({c})=0$ (1); $k={t(F(a*a,c))}$ (1).", "1+1")
 hB = ([KDIS(*p) for p in [(2, 1), (3, 3), (4, 8), (5, 5)]]

@@ -91,7 +91,7 @@ Explain a solar eclipse and a lunar eclipse with the type of shadow formed, and 
 Explain the equinoxes and solstices with dates and day-night lengths. ## 21 March, 23 September: equal|1 ## 21 June: longest day (north)|1 ## 22 December: shortest|1 ## Sun's overhead position changes|1 ## Seasons|1
 Explain why the seasons are not caused by the Earth's distance from the Sun. ## Earth is closest in January|1 ## Yet north is cold|1 ## Tilt is the cause|1 ## Opposite seasons in two hemispheres|1 ## Distance varies little|1
 Describe the features of the Moon and compare with the Earth. ## No atmosphere|1 ## Craters|1 ## Weaker gravity|1 ## Extreme temperatures|1 ## No water seen on surface|1
-Describe the effect of Earth's rotation on the direction of the Sun's apparent movement and time zones (basic). ## Sun rises in east|1 ## West to east rotation|1 ## 24 hours for 360°|1 ## Different times in places|1 ## Time zones|1
+Describe the effect of the Earth's rotation on the apparent movement of the Sun. ## The Sun rises in the east|1 ## The Earth rotates from west to east|1 ## The Sun appears to move from east to west|1 ## One rotation takes 24 hours|1 ## Day and night repeat|1
 Explain the importance of the Sun, the Moon and the Earth's motions for life, calendars and festivals. ## Sun: light and heat|1 ## Day-night cycles|1 ## Seasons for crops|1 ## Moon: lunar calendar|1 ## Festivals by phases|1
 Explain how the day length varies with latitude and season using examples of the equator and the poles. ## Equator: about 12 h|1 ## Higher latitudes vary|1 ## Poles: months of day/night|1 ## Tilt effect|1 ## Summer longer|1
 Describe an activity to show the cause of day and night using a globe and a torch. ## Torch as Sun|1 ## Rotate globe|1 ## Lit side is day|1 ## Dark side is night|1 ## Mark a place and follow|1
@@ -165,7 +165,7 @@ How long is a year? ## 365 days|1 ## One revolution|1 ## Plus quarter day|1
 Why do we need leap years? ## Quarter days|1 ## Add up to one day|1 ## Calendar fits|1
 Why does the Moon change shape? ## We see different parts|1 ## It orbits|1 ## Reflects light|1
 How can we make a model of day and night? ## Use a globe|1 ## Use a torch|1 ## Rotate the globe|1
-What is the use of the Moon to us? ## Light at night|1 ## Calendar|1 ## Tides|1
+What is the use of the Moon to us? ## Light at night|1 ## Calendar|1 ## Festivals|1
 """
 eD = """
 Explain day and night in five points. ## Earth is a sphere|1 ## Spins on its axis|1 ## Faces the Sun: day|1 ## Away: night|1 ## 24 hours cycle|1
@@ -179,7 +179,7 @@ Write five precautions during a solar eclipse. ## Do not look at the Sun|1 ## Us
 Explain the leap year in five points. ## Year is 365.25 days|1 ## Quarter day extra|1 ## Four years make a day|1 ## Added to February|1 ## 366 days|1
 Write five differences between summer and winter. ## Summer is hot|1 ## Winter is cold|1 ## Long days in summer|1 ## Short days in winter|1 ## Different clothes|1
 Describe a model for day and night. ## Take a globe|1 ## Take a torch|1 ## Rotate the globe|1 ## Lit part day|1 ## Dark part night|1
-Describe how the Sun and Moon help us. ## Light|1 ## Heat|1 ## Calendar|1 ## Tides|1 ## Seasons|1
+Describe how the Sun and Moon help us. ## Light|1 ## Heat|1 ## Calendar|1 ## Festivals|1 ## Seasons|1
 """
 
 # ============================ MEDIUM ============================
@@ -195,10 +195,10 @@ The Sun appears to be directly overhead at the Tropic of Cancer on: ## 21 June #
 The Sun is directly overhead at the Tropic of Capricorn on: ## 22 December ## 21 June ## 21 March ## 23 September ## Winter solstice.
 The Sun is directly overhead at the equator on: ## equinoxes ## solstices ## 1 January ## 15 August ## 21 March and 23 September.
 """), mc("""
-The Moon's phases when seen from the northern hemisphere: waxing crescent appears in the: ## evening sky (west) ## morning sky only ## midnight ## noon ## Soon after sunset.
+In the northern hemisphere a waxing crescent Moon is seen in the: ## evening sky, in the west ## morning sky only ## sky at midnight ## sky at noon ## Soon after sunset.
 A full moon rises at about: ## sunset ## sunrise ## noon ## midnight ## Opposite the Sun.
 A new moon rises at about: ## sunrise ## sunset ## midnight ## 3 p.m. ## Along with the Sun.
-The first quarter moon is seen as: ## half disc, right half lit (northern hemisphere) ## full ## nothing ## crescent ## Quarter of the way.
+The first quarter moon is seen as: ## half disc, right half lit (northern hemisphere) ## full disc ## a dark disc ## thin crescent ## Quarter of the way.
 Half the Moon's surface is always lit by the Sun because: ## the Sun always shines on half of it ## it makes light ## the Earth shines on it ## stars light it ## One side faces Sun.
 The number of days between a new moon and the next full moon is about: ## 15 ## 29 ## 7 ## 30 ## Half of the cycle.
 The number of days from a new moon to the first quarter is about: ## 7 ## 15 ## 29 ## 1 ## A quarter of the cycle.
@@ -210,7 +210,7 @@ During a total solar eclipse, the observer is in the Moon's: ## umbra ## penumbr
 In a partial eclipse, the observer is in the: ## penumbra ## umbra ## full sunlight ## total darkness ## Partial shadow.
 A lunar eclipse lasts longer than a solar eclipse because: ## the Earth's shadow is large ## the Moon is large ## the Sun is small ## the Moon moves fast ## Larger shadow.
 During a total lunar eclipse the Moon appears: ## dark reddish ## bright white ## green ## blue ## Sunlight bends through atmosphere.
-Which eclipse can be watched safely with the naked eye? ## lunar ## solar ## both ## none ## Only lunar.
+Which eclipse can be watched safely with the naked eye? ## lunar ## solar ## both of them ## partial solar only ## Only lunar.
 The solar eclipse observed on the Earth is visible only: ## in a narrow region ## all over Earth ## on the Moon ## at the equator only ## Small shadow.
 The lunar eclipse is visible: ## wherever the Moon is above the horizon ## only in India ## only at the poles ## only in the day ## Night side.
 A solar eclipse can occur only at new moon, but not every new moon because: ## the Moon's orbit is tilted ## the Moon stops ## the Sun hides ## the Earth tilts ## Alignment not exact.
@@ -237,7 +237,7 @@ Explain how the Moon's phases can be shown with a ball and a lamp. ## Lamp as Su
 Compare the day length in Delhi in June and December and give the reason. ## June longer|1 ## December shorter|1 ## Axis tilt|1
 Explain why Earth experiences four main seasons in temperate regions but only two or three in tropical India. ## Tilt gives variation|1 ## Tropics have less change|1 ## India has monsoon seasons|1
 Why is the Moon visible during the day sometimes? ## Moon is above the horizon|1 ## Sun not too bright to see it|1 ## Orbit causes it|1
-Explain why the Earth is slightly warmer in January in the southern hemisphere though it is closest to the Sun then. ## Tilt toward Sun|1 ## South has summer|1 ## Distance not the cause|1
+Explain why January is a summer month in the southern hemisphere. ## The southern hemisphere is tilted towards the Sun|1 ## Rays are more direct and days are longer|1 ## Distance from the Sun is not the cause|1
 Describe the phenomenon of midnight Sun. ## Near the poles|1 ## Sun above horizon at midnight|1 ## During summer|1
 Explain how seasons affect agriculture in India. ## Kharif in rains|1 ## Rabi in winter|1 ## Temperature and water matter|1
 Why is the full moon bright but not blinding? ## Reflects only part of sunlight|1 ## Dark surface|1 ## Far away|1
@@ -257,8 +257,8 @@ Explain with a labelled description how the phases of the Moon are caused and na
 Explain why solar eclipses happen at new moon and lunar eclipses at full moon, and why they do not happen every month. ## Solar: Moon between|1 ## Lunar: Earth between|1 ## Alignment needed|1 ## Moon's orbit tilted|1 ## Rare|1
 Describe the experiment to show the cause of seasons using a globe, a lamp and a tilted axis. ## Lamp as Sun|1 ## Tilted globe|1 ## Move around keeping the tilt|1 ## Observe sunlight on each hemisphere|1 ## Seasons seen|1
 Discuss the effect of Earth's rotation and revolution on time, calendar and agriculture. ## Day from rotation|1 ## Year from revolution|1 ## Seasons for crops|1 ## Calendars|1 ## Leap year|1
-Explain with data why Mumbai and Srinagar differ in day length in June and December. ## Higher latitude has more variation|1 ## Srinagar longer in June|1 ## Shorter in December|1 ## Mumbai close to equator|1 ## Tilt|1
-Explain why the Earth is slightly flattened at the poles (qualitative) and the effect of rotation. ## Rotation causes bulge|1 ## Equator bulges|1 ## Poles flatten|1 ## Effect small|1 ## Rotation important|1
+Explain why Srinagar has a bigger change in day length than Mumbai between June and December. ## Higher latitude has more variation|1 ## Srinagar longer in June|1 ## Shorter in December|1 ## Mumbai close to equator|1 ## Tilt|1
+Explain why we always see the same face of the Moon. ## The Moon turns once on its axis in about 27 days|1 ## It also goes round the Earth in about 27 days|1 ## So the same face points towards the Earth|1 ## The far side is never seen from the Earth|1 ## The far side still gets sunlight|1
 Discuss the importance of the Moon for Earth: night light, calendars, festivals and study of space. ## Night light|1 ## Lunar calendar|1 ## Festivals|1 ## Moon missions|1 ## Phases teach geometry of light|1
 Describe how ancient Indian astronomers observed the Sun and Moon and made calendars. ## Observed shadows|1 ## Noted phases|1 ## Eclipses predicted|1 ## Panchang|1 ## Aryabhata|1
 Explain a pinhole method to observe a solar eclipse with the steps and safety. ## Make a small hole in a card|1 ## Hold it with its shadow on paper|1 ## See crescent image|1 ## Do not look at the Sun|1 ## Adults supervise|1
@@ -319,11 +319,11 @@ hC = """
 The Earth rotates 360° in 24 h. Find how many degrees it rotates in 1 h and 4 min, and the time for 15° of rotation. ## 15° in 1 hour|1 ## 1° in 4 minutes|1 ## 15° takes 1 hour|1
 If the new moon occurs on 1 March, estimate the dates of first quarter, full moon and last quarter. ## First quarter about 8 March|1 ## Full moon about 16 March|1 ## Last quarter about 23 March|1
 A shadow stick 1 m long casts a shadow of 0.5 m at noon in summer and 1.5 m in winter. Compare the Sun's height and explain. ## Summer shadow shorter|1 ## Sun higher|1 ## Winter Sun lower|1
-Explain why the number of leap years in 400 years is 97 not 100. ## Year is slightly less than 365.25|1 ## Century years not divisible by 400 skipped|1 ## 100 - 3 = 97|1
+Find the total number of days in four consecutive years that include one leap year. ## 3 normal years: 3 x 365 = 1095|1 ## 1 leap year = 366|1 ## Total = 1461 days|1
 Explain how seasons would differ in the southern hemisphere in the month of June. ## Winter|1 ## Short days|1 ## Slanting rays|1
 Calculate the number of days between full moon on 12 Jan and the next one, taking the lunar month as 29.5 days. ## Day 12 + 29.5|1 ## About 10 February (after 29-30 days)|1 ## Rounding|1
 Explain how a total lunar eclipse might last over an hour but a total solar eclipse only minutes. ## Earth's shadow is bigger|1 ## Moon's shadow small|1 ## Speeds|1
-Why does the Sun appear red near the horizon at sunrise? ## Light travels through more air|1 ## Blue scatters|1 ## Red remains|1
+Why does the Sun rise earlier in eastern India than in western India? ## The Earth rotates from west to east|1 ## Places in the east face the Sun earlier|1 ## So sunrise time differs|1
 Describe two methods of finding true north using the Sun or the Pole star. ## Stick shadow at noon|1 ## Pole star near north|1 ## Compass|1
 Explain what causes the sky to turn dark during a total solar eclipse. ## Moon blocks the light|1 ## Umbra|1 ## Temperature drops|1
 Explain why the Moon is visible in the day sometimes but not Venus. ## Moon is large and nearby|1 ## Venus is small and far|1 ## Sky is bright|1
@@ -333,7 +333,7 @@ Explain what happens to day and night at the equator through the year. ## About 
 Explain with a reason why a place on the equator never experiences polar day. ## Sun rises and sets daily|1 ## Tilt effect small|1 ## Day about 12 h|1
 Why do hill stations have cooler weather than plains even in summer? ## Altitude|1 ## Thin air holds less heat|1 ## Temperature falls with height|1
 Explain the relationship between the Moon and the Indian calendar (Purnima, Amavasya). ## Months by lunar phases|1 ## Purnima is the full moon|1 ## Amavasya is new moon|1
-Explain why the Moon is smaller than the Earth but affects ocean waters. ## Gravity pulls water|1 ## Close to Earth|1 ## Tidal bulge|1
+Explain why the Moon looks about as big as the Sun although the Sun is much larger. ## The Sun is much farther away|1 ## The Moon is much nearer|1 ## Distance changes how large an object looks|1
 """
 hD = """
 Design an experiment using a globe, a lamp and a stick to demonstrate the length of the shadow and the Sun's height at different latitudes. ## Fix a stick on the globe|1 ## Place lamp at the Sun's position|1 ## Tilt the globe|1 ## Measure shadows at two latitudes|1 ## Shadow longer at higher latitudes|1

@@ -207,3 +207,6 @@ HARD_D = ([QQ(f"Prove that the product of three consecutive integers is divisibl
           + [QQ(f"Prove that the square of any odd integer is $1$ more than a multiple of $8$. Verify it for ${n}$.", f"${n}^2={n*n}={(n*n-1)//8}\\times8+1$", "Let the odd integer be $2m+1$", "Square $=4m^2+4m+1=4m(m+1)+1$", "$m(m+1)$ is even, so $4m(m+1)$ is a multiple of 8", "Hence $8k+1$") for n in (9, 13, 17, 21, 27, 33)])
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

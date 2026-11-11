@@ -37,7 +37,7 @@ nA = [MC([
  ("The SI unit of velocity is:", "m/s", "m", "m/s squared", "km", "Metre per second."),
  ("The SI unit of acceleration is:", "m/s squared", "m/s", "m", "kg", "Rate of change of velocity."),
  ("A boy walks 3 m east and then 4 m north. The distance covered is:", "7 m", "5 m", "1 m", "12 m", "3 + 4."),
- ("For the same boy, the magnitude of displacement is:", "5 m", "7 m", "1 m", "12 m", "Pythagoras: sqrt(9 + 16)."),
+ ("A boy walks 3 m east and then 4 m north. The magnitude of his displacement is:", "5 m", "7 m", "1 m", "12 m", "Pythagoras: sqrt(9 + 16)."),
  ("A body moves with uniform velocity if it covers:", "equal displacements in equal intervals of time in the same direction", "equal distances in equal times in a circle", "unequal distances", "zero distance", "Constant magnitude and direction."),
  ("The slope of a distance-time graph gives:", "speed", "acceleration", "displacement", "force", "Distance divided by time."),
  ]), MC([
@@ -213,12 +213,12 @@ mA = [MC([
  ("A car travels half the distance at 40 km/h and the other half at 60 km/h. The average speed is:", "48 km/h", "50 km/h", "45 km/h", "52 km/h", "Harmonic mean 2 x 40 x 60/100."),
  ("A graph of velocity against time is a straight line passing through the origin. The body has:", "uniform acceleration from rest", "uniform velocity", "zero acceleration", "retardation", "v proportional to t."),
  ("In a v-t graph, a line sloping downward from 20 m/s to 0 in 4 s shows retardation of:", "5 m/s squared", "20 m/s squared", "80 m/s squared", "4 m/s squared", "20/4."),
- ("The area under the v-t graph for the above is:", "40 m", "80 m", "20 m", "5 m", "Triangle: 0.5 x 4 x 20."),
+ ("A car brakes uniformly from 20 m/s to rest in 4 s. The area under its v-t graph, which is the distance covered, is:", "40 m", "80 m", "20 m", "5 m", "Triangle: 0.5 x 4 x 20."),
  ("A car moves with uniform acceleration. The distance covered in the nth second is proportional to:", "(2n - 1)", "n squared", "n", "1/n", "Ratio 1 : 3 : 5."),
  ("The distances covered in successive seconds by a freely falling body from rest are in the ratio:", "1 : 3 : 5", "1 : 2 : 3", "1 : 4 : 9", "1 : 1 : 1", "Odd numbers."),
  ("The total distances covered in 1 s, 2 s, 3 s by a body falling from rest are in the ratio:", "1 : 4 : 9", "1 : 3 : 5", "1 : 2 : 3", "1 : 8 : 27", "Proportional to t squared."),
  ("A ball is thrown upward at 30 m/s. The time to reach the highest point (g = 10) is:", "3 s", "30 s", "6 s", "1.5 s", "u/g."),
- ("For the above, the maximum height is:", "45 m", "90 m", "30 m", "15 m", "u squared/2g."),
+ ("A ball is thrown vertically upward at 30 m/s. The maximum height reached (g = 10 m/s squared) is:", "45 m", "90 m", "30 m", "15 m", "u squared/2g."),
  ]), MC([
  ("A stone thrown vertically up returns to the thrower's hand after 6 s. The velocity of throw is (g = 10):", "30 m/s", "60 m/s", "15 m/s", "10 m/s", "t up = 3 s; u = gt."),
  ("A body in circular motion of radius 2 m makes 1 revolution in 4 s. Speed is (pi = 3.14):", "3.14 m/s", "6.28 m/s", "1.57 m/s", "12.56 m/s", "2 pi r/T = 12.56/4."),
@@ -302,7 +302,7 @@ hA = [[
  ("Two bodies are thrown up with speeds u and 2u. The ratio of their maximum heights is:", "1 : 4", "1 : 2", "2 : 1", "1 : 8", "h proportional to u squared."),
  ("A particle moving with uniform acceleration covers 20 m in the first 2 s and 60 m in the next 2 s. Its acceleration is:", "10 m/s squared", "5 m/s squared", "20 m/s squared", "2.5 m/s squared", "60 - 20 = a x t squared = 4a, so a = 10."),
  ("The displacement of a body is given by s = 5t + 2t squared (SI). Its acceleration is:", "4 m/s squared", "2 m/s squared", "5 m/s squared", "9 m/s squared", "Compare with ut + (1/2)at squared."),
- ("In the above case the initial velocity is:", "5 m/s", "2 m/s", "4 m/s", "0", "Coefficient of t."),
+ ("The displacement of a body is s = 5t + 2t squared (SI units). Its initial velocity is:", "5 m/s", "2 m/s", "4 m/s", "9 m/s", "Coefficient of t."),
  ]), MC([
  ("A boat goes 12 km downstream in 1 hour and returns upstream in 2 hours. The average speed for the round trip is:", "8 km/h", "9 km/h", "6 km/h", "12 km/h", "24 km/ 3 h."),
  ("A man walks to a market at 4 km/h and returns at 6 km/h. The average speed is:", "4.8 km/h", "5 km/h", "4.5 km/h", "5.5 km/h", "Harmonic mean."),

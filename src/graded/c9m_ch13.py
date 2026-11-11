@@ -117,14 +117,11 @@ def g_collin(lo, hi):
 
 def g_num_sol():
     def f(r):
-        a, b, c = r.randint(1, 7), r.randint(1, 7), r.randint(1, 9); m = r.randint(2, 4); w = r.choice(["inf", "none", "one"])
-        if w == "inf": a2, b2, c2 = m * a, m * b, m * c; ans = "infinitely many"
-        elif w == "none": a2, b2, c2 = m * a, m * b, m * c + r.randint(1, 5); ans = "no solution"
-        else:
-            a2, b2 = r.randint(1, 8), r.randint(1, 8)
-            if a * b2 == a2 * b: return None
-            c2 = r.randint(1, 9); ans = "exactly one solution"
-        return M4(f"The pair of equations ${lin(a, b, c)}$ and ${lin(a2, b2, c2)}$ has:", ans, [x for x in ("exactly one solution", "no solution", "infinitely many solutions", "exactly two solutions") if x != ans][:3], f"Compare $\\frac{{{a}}}{{{a2}}}$, $\\frac{{{b}}}{{{b2}}}$, $\\frac{{{c}}}{{{c2}}}$.".replace("infinitely many solutions", "infinitely many"))
+        a, b = r.randint(2, 9), r.randint(2, 9); x0, y0 = r.randint(-5, 8), r.randint(-5, 8); c = a * x0 + b * y0
+        pts = [(x0, y0), (x0 + 1, y0), (x0, y0 + 1), (y0, x0)]
+        if len(set(pts)) < 4 or any(a * u + b * v == c for u, v in pts[1:]): return None
+        t = lambda q: f"$({q[0]},{q[1]})$"
+        return M4(f"Which of the following points lies on the line ${lin(a, b, c)}$?", t(pts[0]), [t(q) for q in pts[1:]], f"${a}({x0})+{b}({y0})={c}$".replace("+-", "-"))
     return f
 
 def g_area(lo, hi):
@@ -282,14 +279,15 @@ def q_print(lo, hi):
         return QQ(f"A printing shop charges ₹{fixed + rate*n1} for {n1} pages and ₹{fixed + rate*n2} for {n2} pages (linear charge). Find the equation of the charge $y$ in terms of the number of pages $x$, the charge for {n3} pages and the number of pages for which the charge is ₹{amt + 10*rate}.", f"Slope $=\\dfrac{{{rate*(n2-n1)}}}{{{n2-n1}}}={rate}$", f"Intercept $={fixed+rate*n1}-{rate}\\times{n1}={fixed}$, so $y={rate}x+{fixed}$", f"$x={n3}$: $y={amt}$", f"${amt+10*rate}={rate}x+{fixed}$ gives $x={n3+10}$")
     return f
 def q_pairtype(r):
-    a, b, c = r.randint(1, 7), r.randint(1, 7), r.randint(1, 9); m = r.randint(2, 4)
-    return QQ(f"Without solving, state how many solutions the pairs ${lin(a, b, c)},\\ {lin(m*a, m*b, m*c)}$ and ${lin(a, b, c)},\\ {lin(m*a, m*b, m*c+r.randint(1, 5))}$ have.", f"First pair: $\\frac{{{a}}}{{{m*a}}}=\\frac{{{b}}}{{{m*b}}}=\\frac{{{c}}}{{{m*c}}}$, so the second equation is a multiple of the first: infinitely many solutions", "Second pair: the coefficient ratios are equal but the constant ratio differs", "The lines are parallel and distinct: no solution")
+    m = r.choice([2, 3, 4, 5, -2, -3]); k = r.randint(1, 6); x0 = r.randint(1, 5); y0 = m * x0 + m * k; t = r.randint(2, 6)
+    c = y0 - m * x0
+    return QQ(f"A line has slope ${m}$ and passes through $({x0},{y0})$. Find its equation in the form $y=mx+c$, its $x$-intercept and the value of $y$ when $x={t}$.", f"$y=mx+c$ with $m={m}$: ${y0}={m}({x0})+c$ gives $c={c}$", f"Equation: $y={m}x+{c}$".replace("+-", "-"), f"$x$-intercept: $0={m}x+{c}$ gives $x={-k}$".replace("+-", "-"), f"At $x={t}$: $y={m*t+c}$")
 MED_D = draw(316, 6, q_print((10, 40), (2, 9))) + draw(317, 6, q_pairtype)
 
 # =============================== HARD ===============================
 def g_inf_k(r):
-    p = r.randint(2, 9); k = 2 * p
-    return nn(f"The pair $kx+{p}y=k-{p}$ and ${4*p}x+ky=k$ has infinitely many solutions. The value of $k$ is:", k, f"Need $\\frac{{k}}{{{4*p}}}=\\frac{{{p}}}{{k}}=\\frac{{k-{p}}}{{k}}$; the last two give $k-{p}={p}$, so $k={k}$.", offs=(p, -p, 1, -1, 2 * k, 3))
+    b = r.randint(2, 6); sl = r.randint(1, 5); x0, y0 = r.randint(1, 6), r.randint(-4, 6); k = sl * b; c = k * x0 + b * y0
+    return nn(f"The line $kx+{b}y={c}$ passes through $({x0},{y0})$. Its slope is:", -sl, f"${k}({x0})+{b}({y0})={c}$ gives $k={k}$; slope $=-\\frac{{k}}{{{b}}}={-sl}$.", offs=(1, -1, 2, -2, sl, 3), pos=False)
 def g_sum_int(lo, hi):
     def f(r):
         p, q = r.randint(lo, hi), r.randint(lo, hi)
@@ -299,8 +297,8 @@ def g_sum_int(lo, hi):
 HARD_A = [draw(400, 4, g_area(9, 25)), draw(401, 4, g_taxi((50, 150), (20, 60))), draw(402, 4, g_par_c(7, 16)), draw(403, 4, g_collin(-20, 20)),
           draw(404, 4, g_inf_k), draw(405, 4, g_sum_int(4, 20)), draw(406, 4, g_temp(5, 24)), draw(407, 4, g_slope2(-30, 30))]
 def q_inf_k(r):
-    p = r.randint(2, 9); k = 2 * p
-    return QQ(f"For what value of $k$ does the pair $kx+{p}y=k-{p}$ and ${4*p}x+ky=k$ have infinitely many solutions?", f"Need $\\frac{{k}}{{{4*p}}}=\\frac{{{p}}}{{k}}=\\frac{{k-{p}}}{{k}}$", f"From $\\frac{{{p}}}{{k}}=\\frac{{k-{p}}}{{k}}$: $k-{p}={p}$, so $k={k}$", f"Check: $\\frac{{{k}}}{{{4*p}}}=\\frac12$ and $\\frac{{{p}}}{{{k}}}=\\frac12$, so all three ratios are equal when $k={k}$")
+    b = r.randint(2, 6); sl = r.randint(1, 5); x0, y0 = r.randint(1, 6), r.randint(-4, 6); k = sl * b; c = k * x0 + b * y0
+    return QQ(f"The line $kx+{b}y={c}$ passes through the point $({x0},{y0})$. Find $k$, the slope and the $y$-intercept of the line.", f"Substitute: $k({x0})+{b}({y0})={c}$ gives $k={k}$", f"Line: ${lin(k, b, c)}$; $y=-{sl}x+\\frac{{{c}}}{{{b}}}$".replace("+-", "-"), f"Slope $=-\\frac{{{k}}}{{{b}}}=-{sl}$", f"$y$-intercept $=\\frac{{{c}}}{{{b}}}$")
 HARD_B = draw(410, 4, q_inf_k) + draw(411, 4, q_area(9, 25)) + draw(412, 4, q_line2(-15, 15))
 def q_two_area(lo, hi):
     def f(r):
@@ -320,3 +318,6 @@ def q_midpoint_line(r):
 HARD_D = draw(416, 6, q_midpoint_line) + draw(417, 6, q_taxi2((50, 150), (20, 60)))
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

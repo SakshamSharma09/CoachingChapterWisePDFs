@@ -174,13 +174,13 @@ eD = [
 # ============================ MEDIUM ============================
 mA = [MC([
  ("A student tests the effect of the mass of a bob on the time period of a pendulum. Which is the dependent variable?", "time period", "mass of the bob", "length of the string", "place of testing", "Time period is measured."),
- ("In the above test, which must be kept constant?", "length of the string", "mass of the bob", "time period", "number of masses", "Only mass is changed."),
+ ("In a pendulum test of the effect of the mass of the bob on the time period, which must be kept constant?", "length of the string", "mass of the bob", "time period", "number of masses", "Only mass is changed."),
  ("A student gets times of 12.1 s, 11.9 s, 12.0 s for 20 swings. The mean is:", "12.0 s", "11.9 s", "36.0 s", "12.1 s", "(12.1 + 11.9 + 12.0)/3 = 12.0."),
  ("If 20 swings take 36 s, the time period of one swing is:", "1.8 s", "18 s", "0.18 s", "720 s", "36/20 = 1.8 s."),
  ("Which graph is best to show how temperature changes with time?", "line graph", "pie chart only", "no graph", "list of names", "A line graph shows variation with time."),
  ("Reading 25.4 cm is measured with a ruler marked in mm. The precision of the instrument is:", "1 mm", "1 cm", "1 m", "0.1 mm", "Least count = 1 mm."),
  ("An investigator changes both the amount of water and the amount of sunlight for plants. This is:", "not a fair test", "a fair test", "a hypothesis", "a conclusion", "Two factors are changed."),
- ("Which hypothesis is testable?", "Salt dissolves faster in hot water than in cold water.", "Hot water is nicer.", "Salt is good.", "Water is wet in a mystic way.", "It can be tested by measurement."),
+ ("Which hypothesis is testable?", "Salt dissolves faster in hot water than in cold water.", "Hot water is nicer.", "Salt is good.", "Salt tastes better than sugar.", "It can be tested by measurement."),
  ("A table has columns for temperature (degree C) and time (s). The best title for the second column is:", "Time taken (s)", "Time", "Seconds taken by me", "Measurement", "Quantity with unit is stated."),
  ("An outlier in a data set is:", "a value far from the others", "the average", "the largest unit", "a conclusion", "It differs greatly."),
  ]), MC([
@@ -202,9 +202,9 @@ mA = [MC([
  ("A lab report includes the following in the order:", "aim, apparatus, procedure, observations, conclusion", "conclusion, aim, apparatus, observation", "observation, aim, conclusion, apparatus", "apparatus, conclusion, aim", "Standard reporting order."),
  ("If a thermometer reads 2 degrees C when kept in melting ice, it has:", "zero error", "parallax error", "time error", "no error", "Should read 0 degrees C."),
  ("A student concludes that 'all metals are heavy' after testing iron and lead. This is:", "an over-generalisation from few examples", "a correct conclusion", "a hypothesis", "a law", "Few examples are not enough."),
- ("The best way to display marks scored by 5 students in a test is:", "a bar graph", "a map", "a line passing through names", "a pie chart of time", "Categories compared in bars."),
+ ("The best way to display marks scored by 5 students in a test is:", "a bar graph", "a map", "a line graph of marks against names", "a pie chart of time", "Categories compared in bars."),
  ("Which of the following is NOT needed to repeat an experiment?", "personal opinion of the investigator", "method", "apparatus used", "recorded observations", "Procedure and data are what matter."),
- ("Taking readings in a hurry and writing from memory causes:", "recording errors", "better results", "safety", "none", "Record immediately."),
+ ("Taking readings in a hurry and writing from memory causes:", "recording errors", "better results", "greater precision", "a longer experiment", "Record immediately."),
  ])]
 mB = [
  Z("Why are the independent and dependent variables different in an investigation?", "Independent variable is changed by us|1", "Dependent variable changes as a result and is measured|1"),

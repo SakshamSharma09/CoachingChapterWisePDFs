@@ -235,7 +235,7 @@ CONC = [tx("The concentration of juice in a drink is $12\\%$. The amount of juic
         tx("A 800 g mixture has $35\\%$ nuts. The nuts present are:", "280 g", ["35 g", "350 g", "28 g"], "$\\frac{35}{100}\\times800=280$.")]
 CONCEPT = [tx(q, c, w, why) for q, c, w, why in [
     ("When two groups of different sizes are combined, the combined average is found by:", "total of all values divided by the total number of values", ["adding the two averages and halving", "multiplying the two averages", "subtracting the smaller average from the larger"], "Use totals, not the plain mean of the two averages."),
-    ("The plain mean of two group averages equals the combined average only when:", "the two groups have the same size", ["the groups have different sizes", "one average is zero", "the averages are equal only"], "Equal weights."),
+    ("The plain mean of two group averages is certain to equal the combined average when:", "the two groups have the same size", ["the first group is larger", "one average is zero", "the second group is larger"], "Equal weights."),
     ("In a stacked bar chart, the length of the whole bar shows:", "the total of all the components", ["only the largest component", "the average of the components", "the percentage of the first component"], "Whole bar = total."),
     ("In a 100% stacked bar chart, every bar has the same length because:", "each bar shows shares of its own total as percentages", ["every total is equal", "only one component is plotted", "the bars show averages"], "Bars show proportions."),
     ("The weighted average of values $x_1, x_2$ with weights $w_1, w_2$ is:", "$\\dfrac{w_1x_1+w_2x_2}{w_1+w_2}$", ["$\\dfrac{x_1+x_2}{w_1+w_2}$", "$\\dfrac{w_1+w_2}{x_1+x_2}$", "$w_1x_1+w_2x_2$"], "Formula."),
@@ -354,3 +354,6 @@ HARD_C = draw(413, 6, q_findn((20, 80), (40, 98))) + draw(414, 6, q_wt((2, 8), (
 HARD_D = draw(416, 6, q_cost((10, 40))) + draw(417, 6, q_stackcmp((30, 80), (15, 70)))
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

@@ -227,7 +227,7 @@ M_C = [
 "Describe the changes in the Indian market after the 1990s. @ More foreign brands became available @ Quality improved @ Competition lowered prices",
 "Why do firms in SEZs not pay tax for five years? @ To attract investment @ To promote exports @ To create jobs",
 "Discuss why labour laws may be relaxed in SEZs and its effect. @ To attract investors who want flexibility @ Workers' rights may suffer as a result @ A balance between investment and workers' rights is needed",
-"How do small producers compete with MNCs? @ By improving the quality of their goods @ By working together in clusters @ By taking help from the government",
+"How do small producers compete with MNCs? @ By improving the quality of their goods @ By improving technology with credit support @ By taking help from the government",
 "How does foreign investment help the host country? @ It brings capital @ It creates jobs @ It brings new technology",
 "How do MNCs affect domestic firms? @ They compete with them @ They may cooperate through joint production @ They may take over local firms",
 "Why is a rise in trade not necessarily a rise in welfare for all? @ Benefits are shared unevenly @ Some people lose their jobs @ Policies are needed to protect them",
@@ -328,7 +328,7 @@ H_D = [
 "Analyse the role of ICT in services-led globalisation. @ Call centres can serve customers abroad @ Data processing can be done anywhere @ Skilled English speakers are available @ Employment grows @ Exports of services rise",
 "Discuss the effect of globalisation on employment in India. @ Jobs have grown in services @ Small industries have lost jobs @ Many jobs are temporary @ Job security has fallen @ Skills have become important",
 "Explain the process of fragmented production across countries and who gains. @ Design, parts, assembly in different locations @ MNCs gain cost advantage @ Host countries gain jobs @ Small suppliers face pressure @ Workers' wages vary",
-"Examine the criticism that globalisation is not fair. @ Rules favour developed countries @ Benefits are uneven @ Jobs are insecure @ Critics raise environmental concerns @ Reforms are demanded",
+"Examine the criticism that globalisation is not fair. @ Rules favour developed countries @ Benefits are uneven @ Jobs are insecure @ Critics point to the unequal power of developed countries in trade rules @ Reforms are demanded",
 "What changes would you suggest to the policy of liberalisation? @ Protect small producers @ Enforce labour laws @ Provide technology support @ Seek fair trade rules @ Open up gradually",
 "Explain how foreign trade integrates markets and affects consumers and producers. @ Producers can sell abroad @ Consumers get choice @ Prices of goods move closer across countries @ Competition increases @ Domestic producers must adjust",
 ]

@@ -1,4 +1,4 @@
-"""Class 9 Maths Ch 11 - World of Algorithms (column addition, divisors, gcd by Euclid's methods, mod, tracing procedures)."""
+"""Class 9 Maths Ch 11 - World of Algorithms (column addition, divisors, gcd by Euclid's subtraction method, mod, tracing procedures)."""
 from g9m import *
 
 SLUG, NAME, CHNO = "World_of_Algorithms", "World of Algorithms", 11
@@ -68,13 +68,9 @@ def g_gsteps(lo, hi, kind="sub", cap=9):
     def f(r):
         m, n = r.randint(lo, hi), r.randint(lo, hi)
         if m <= n or gcd(m, n) == n: return None
-        if kind == "sub":
-            seq = gcd_sub(m, n); k = len(seq) - 1
-            if k > cap or k < 3: return None
-            return nn(f"Using Euclid's subtraction algorithm for gcd(${m}$, ${n}$), the number of subtraction steps needed is:", k, f"Pairs: ${pairs_txt(seq)}$.", offs=(1, -1, 2, -2, 3), pos=True)
-        rows, g = gcd_div(m, n)
-        if len(rows) > 7: return None
-        return nn(f"Using the division form of Euclid's algorithm for gcd(${m}$, ${n}$), the number of divisions needed is:", len(rows), div_txt(rows) + ".", offs=(1, -1, 2, -2, 3), pos=True)
+        seq = gcd_sub(m, n); k = len(seq) - 1
+        if k > cap or k < 3: return None
+        return nn(f"Using Euclid's subtraction algorithm for gcd(${m}$, ${n}$), the number of subtraction steps needed is:", k, f"Pairs: ${pairs_txt(seq)}$.", offs=(1, -1, 2, -2, 3), pos=True)
     return f
 
 def g_gval(lo, hi, kind="sub"):
@@ -83,8 +79,8 @@ def g_gval(lo, hi, kind="sub"):
         if m <= n: return None
         g = gcd(m, n)
         if g == 1 and r.random() < 0.7: return None
-        if (len(gcd_sub(m, n)) > 16) if kind == "sub" else (len(gcd_div(m, n)[0]) > 7): return None
-        return nn(f"By Euclid's algorithm, gcd(${m}$, ${n}$) is:", g, (f"Pairs: ${pairs_txt(gcd_sub(m, n))}$." if kind == "sub" else div_txt(gcd_div(m, n)[0]) + "."), offs=(1, -1, 2, -2, g, 3), pos=True)
+        if len(gcd_sub(m, n)) > 16: return None
+        return nn(f"By Euclid's algorithm, gcd(${m}$, ${n}$) is:", g, f"Pairs: ${pairs_txt(gcd_sub(m, n))}$.", offs=(1, -1, 2, -2, g, 3), pos=True)
     return f
 
 def g_trace(kind, ar):
@@ -133,9 +129,10 @@ def g_col(lo, hi):
 def g_pcount(lo, hi):
     def f(r):
         m, n = r.randint(lo, hi), r.randint(lo, hi)
-        if m <= n or n * 3 > m: return None
-        k = len(gcd_div(m, n)[0])
-        return nn(f"The division form of Euclid's algorithm is applied to find gcd(${m}$, ${n}$). The number of divisions performed (the last remainder being 0) is:", len(gcd_div(m, n)[0]), div_txt(gcd_div(m, n)[0]) + ".", offs=(1, -1, 2, -2, k), pos=True)
+        if m <= n or gcd(m, n) == n: return None
+        seq = gcd_sub(m, n); k = len(seq) - 1
+        if k < 4 or k > 13: return None
+        return nn(f"Euclid's subtraction algorithm is applied to find gcd(${m}$, ${n}$). The number of subtractions performed (until a pair with 0 appears) is:", k, f"Pairs: ${pairs_txt(seq)}$.", offs=(1, -1, 2, -2, 3), pos=True)
     return f
 
 DEFS = [tx(q, c, w, why) for q, c, w, why in [
@@ -151,7 +148,7 @@ DEFS = [tx(q, c, w, why) for q, c, w, why in [
 DEFS2 = [tx(q, c, w, why) for q, c, w, why in [
     ("In the divisor algorithm for $n$, the numbers $j$ that are checked are:", "$1, 2, \\ldots, n$", ["only the primes up to $n$", "only the even numbers up to $n$", "$2, 3, \\ldots, n-1$ only"], "Every $j$ from 1 to $n$ is tested."),
     ("gcd(48, 0) equals:", "48", ["0", "1", "24"], "gcd(g, 0) = g."),
-    ("In Euclid's division algorithm, the pair $(m, n)$ is replaced by:", "$(n,\\ m \\bmod n)$", ["$(m+n,\\ n)$", "$(m,\\ n+1)$", "$(n,\\ m\\times n)$"], "Replace by divisor and remainder."),
+    ("In Euclid's subtraction algorithm, the pair $(m, n)$ with $m\\ge n$ is replaced by:", "the numbers $n$ and $m-n$", ["$(m+n,\\ n)$", "$(m,\\ n+1)$", "$(n,\\ m\\times n)$"], "Replace by the smaller number and the difference."),
     ("Every algorithm has input, output and:", "a finite sequence of well-defined steps", ["an unlimited number of steps", "random choices", "no stopping rule"], "Finiteness.")]]
 
 # =============================== EASY ===============================
@@ -186,14 +183,7 @@ def q_gsub(lo, hi, cap=8):
         if not 3 <= len(seq) - 1 <= cap: return None
         return QQ(f"Apply Euclid's subtraction algorithm to find gcd({m}, {n}). Write the sequence of pairs and count the subtractions.", "Replace $(m,n)$ by $(n, m-n)$ re-ordered so the larger is first", f"${pairs_txt(seq)}$", f"{len(seq)-1} subtractions, gcd $={gcd(m, n)}$")
     return f
-def q_gdiv(lo, hi):
-    def f(r):
-        m, n = r.randint(lo, hi), r.randint(lo, hi)
-        if m <= n or gcd(m, n) == n: return None
-        rows, g = gcd_div(m, n)
-        if len(rows) > 6: return None
-        return QQ(f"Find gcd({m}, {n}) using the division form of Euclid's algorithm. Show every division.", "Divide, then replace $(m,n)$ by $(n, \\text{remainder})$", div_txt(rows), f"Last non-zero remainder: gcd $={g}$")
-    return f
+def q_gdiv(lo, hi): return q_gsub(lo, hi, 9)
 EASY_B = draw(110, 4, q_sumadd(120, 480)) + draw(111, 4, q_divl(8, 28)) + draw(112, 4, q_modl(20, 90))
 EASY_C = draw(113, 6, q_gcdl(10, 40)) + draw(114, 6, q_gsub(24, 60, 7)) + draw(115, 6, q_sumadd(1200, 9800))
 def q_sumeven(r):
@@ -223,10 +213,11 @@ MED_A = [draw(300, 4, g_gsteps(150, 400, "sub")), draw(301, 4, g_gsteps(150, 500
 def q_lcm(lo, hi):
     def f(r):
         m, n = r.randint(lo, hi), r.randint(lo, hi)
-        if m == n or gcd(m, n) == 1: return None
-        rows, g = gcd_div(m, n)
-        if len(rows) > 6: return None
-        return QQ(f"Find the gcd of {m} and {n} by the division form of Euclid's algorithm and use it to find their LCM.", div_txt(rows), f"gcd $={g}$", f"LCM $=\\dfrac{{{m}\\times{n}}}{{{g}}}={m*n//g}$")
+        if m <= n or gcd(m, n) == 1 or gcd(m, n) == n: return None
+        seq = gcd_sub(m, n)
+        if len(seq) - 1 > 12: return None
+        g = gcd(m, n)
+        return QQ(f"Find the gcd of {m} and {n} by Euclid's subtraction algorithm and use it to find their LCM.", f"${pairs_txt(seq)}$", f"gcd $={g}$", f"LCM $=\\dfrac{{{m}\\times{n}}}{{{g}}}={m*n//g}$")
     return f
 def q_prime(lo, hi):
     def f(r):
@@ -238,14 +229,15 @@ def q_cmp(lo, hi):
     def f(r):
         m, n = r.randint(lo, hi), r.randint(lo, hi)
         if m <= n or gcd(m, n) == n: return None
-        s_ = len(gcd_sub(m, n)) - 1; d_ = len(gcd_div(m, n)[0])
-        if s_ <= d_ + 2 or s_ > 14: return None
-        return QQ(f"Compute gcd({m}, {n}) by both Euclid's subtraction algorithm and the division algorithm. Compare the number of steps.", f"Subtraction: ${pairs_txt(gcd_sub(m, n))}$, {s_} steps", f"Division: {div_txt(gcd_div(m, n)[0])}, {d_} steps", f"gcd $={gcd(m, n)}$ and the division form is shorter")
+        s_ = len(gcd_sub(m, n)) - 1
+        if s_ < 3 or s_ > 9: return None
+        g = gcd(m, n)
+        return QQ(f"Find gcd({m}, {n}) in two ways: (i) by listing the divisors of both numbers, (ii) by Euclid's subtraction algorithm. Check that the answers agree.", f"divisors({m}) $={divisors(m)}$, divisors({n}) $={divisors(n)}$", f"Greatest common divisor from the lists $={g}$", f"Subtraction: ${pairs_txt(gcd_sub(m, n))}$, {s_} subtractions", f"gcd $={g}$ by both methods")
     return f
 def q_mult(r):
     n = r.randint(20, 40); a = n // 3; b = n // 5; c = n // 15
     return QQ(f"A counter starts at 0 and for i = 1, 2, …, {n} increases by 1 whenever i is a multiple of 3 or of 5. Find the final count without listing everything.", f"Multiples of 3: {a}; multiples of 5: {b}", f"Multiples of both (counted twice): {c}", f"Count $={a}+{b}-{c}={a+b-c}$")
-MED_C = draw(313, 6, q_cmp(300, 900)) + draw(314, 6, q_mult) + draw(315, 6, q_trace_double(10, 30))
+MED_C = draw(313, 6, q_cmp(40, 120)) + draw(314, 6, q_mult) + draw(315, 6, q_trace_double(10, 30))
 def q_rev(r):
     n = r.randint(1000, 9999)
     if n % 10 == 0: return None
@@ -261,24 +253,24 @@ def q_col(lo, hi):
 MED_D = draw(316, 6, q_rev) + draw(317, 6, q_col(6, 12))
 
 # =============================== HARD ===============================
-HARD_A = [draw(400, 4, g_col(7, 40)), draw(401, 4, g_gsteps(500, 2000, "sub", 14)), draw(402, 4, g_gsteps(500, 3000, "div")), draw(403, 4, g_trace("rev", (1, 2))),
+HARD_A = [draw(400, 4, g_col(7, 40)), draw(401, 4, g_gsteps(500, 2000, "sub", 14)), draw(402, 4, g_gsteps(300, 1500, "sub", 13)), draw(403, 4, g_trace("rev", (1, 2))),
           draw(404, 4, g_lcm(60, 300)), draw(405, 4, g_prime(500, 3000)), draw(406, 4, g_trace("mult3", (1, 2))), draw(407, 4, g_gval(900, 5000, "div"))]
 def q_hard_gcd3(lo, hi):
     def f(r):
         a, b, c = r.randint(lo, hi), r.randint(lo, hi), r.randint(lo, hi)
         g1 = gcd(a, b); g = gcd(g1, c)
-        if g == 1 or len({a, b, c}) < 3 or len(gcd_div(max(a, b), min(a, b))[0]) > 6: return None
-        return QQ(f"Find the gcd of {a}, {b} and {c} by applying Euclid's division algorithm twice: first to two numbers and then to the result and the third.", f"gcd({a}, {b}): {div_txt(gcd_div(max(a, b), min(a, b))[0])} giving ${g1}$", f"gcd({g1}, {c}): " + (div_txt(gcd_div(max(g1, c), min(g1, c))[0]) if g1 != c else f"${g1}=${c}"), f"gcd of the three numbers $={g}$")
+        if g == 1 or len({a, b, c}) < 3 or g1 == c or g1 == min(a, b) or len(gcd_sub(max(a, b), min(a, b))) > 12 or len(gcd_sub(max(g1, c), min(g1, c))) > 12: return None
+        return QQ(f"Find the gcd of {a}, {b} and {c} by applying Euclid's subtraction algorithm twice: first to two numbers and then to the result and the third.", f"gcd({a}, {b}): ${pairs_txt(gcd_sub(max(a, b), min(a, b)))}$ giving ${g1}$", f"gcd({g1}, {c}): ${pairs_txt(gcd_sub(max(g1, c), min(g1, c)))}$", f"gcd of the three numbers $={g}$")
     return f
 def q_grid(lo, hi):
     def f(r):
         a, b = r.randint(lo, hi), r.randint(lo, hi)
-        if a == b or gcd(a, b) < 4: return None
+        if a == b or gcd(a, b) < 4 or gcd(a, b) == min(a, b): return None
         g = gcd(a, b)
-        if len(gcd_div(max(a, b), min(a, b))[0]) > 6: return None
-        return QQ(f"A floor of {a} cm by {b} cm is to be covered by identical square tiles, as large as possible, with no cutting. Use Euclid's algorithm to find the tile side and the number of tiles.", f"Tile side $=\\gcd({a},{b})$", div_txt(gcd_div(max(a, b), min(a, b))[0]), f"Side ${g}$ cm", f"Number of tiles $=\\dfrac{{{a}\\times{b}}}{{{g}^2}}={a*b//g**2}$")
+        if len(gcd_sub(max(a, b), min(a, b))) > 12: return None
+        return QQ(f"A floor of {a} cm by {b} cm is to be covered by identical square tiles, as large as possible, with no cutting. Use Euclid's subtraction algorithm to find the tile side and the number of tiles.", f"Tile side $=\\gcd({a},{b})$", f"${pairs_txt(gcd_sub(max(a, b), min(a, b)))}$", f"Side ${g}$ cm", f"Number of tiles $=\\dfrac{{{a}\\times{b}}}{{{g}^2}}={a*b//g**2}$")
     return f
-HARD_B = draw(410, 4, q_hard_gcd3(120, 900)) + draw(411, 4, q_grid(120, 600)) + draw(412, 4, q_lcm(150, 700))
+HARD_B = draw(410, 4, q_hard_gcd3(100, 600)) + draw(411, 4, q_grid(100, 500)) + draw(412, 4, q_lcm(100, 400))
 def q_nested(r):
     n = r.randint(4, 12)
     cnt = sum(1 for i in range(1, n + 1) for j in range(i, n + 1))
@@ -294,11 +286,14 @@ def q_chain(lo, hi):
     def f(r):
         m, n = r.randint(lo, hi), r.randint(lo, hi)
         if m <= n or gcd(m, n) < 6 or gcd(m, n) == n: return None
-        rows, g = gcd_div(m, n)
-        if len(rows) > 6: return None
-        dv = divisors(g)
-        return QQ(f"Find the largest number that divides both {m} and {n} exactly, using the division algorithm. Hence list all the common divisors of the two numbers.", div_txt(rows), f"Largest common divisor $=\\gcd={g}$", f"Every common divisor divides {g}", f"Common divisors: {', '.join(map(str, dv))}")
+        seq = gcd_sub(m, n)
+        if len(seq) - 1 > 12: return None
+        g = gcd(m, n); dv = divisors(g)
+        return QQ(f"Find the largest number that divides both {m} and {n} exactly, using Euclid's subtraction algorithm. Hence list all the common divisors of the two numbers.", f"${pairs_txt(seq)}$", f"Largest common divisor $=\\gcd={g}$", f"Every common divisor divides {g}", f"Common divisors: {', '.join(map(str, dv))}")
     return f
-HARD_D = draw(416, 6, q_chain(200, 2500)) + draw(417, 6, q_hard_gcd3(300, 3000))
+HARD_D = draw(416, 6, q_chain(120, 700)) + draw(417, 6, q_hard_gcd3(150, 900))
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

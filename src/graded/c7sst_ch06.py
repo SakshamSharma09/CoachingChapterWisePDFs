@@ -170,7 +170,7 @@ D5("Write about the trade of the period.", "Goods", "Routes", "Guilds", "Coins",
 # ---------------- MEDIUM ----------------
 MA = MC([
 "Why did Magadha's rulers shift the capital from Rajagriha to Pataliputra? | to control the Ganga trade and land | for no reason | to be near desert | to avoid rivers | Strategic move",
-"Why did Alexander's soldiers refuse to go further east? | they were tired after long campaigns and heavy battles | they were afraid of nothing | they won | they were paid | Weary army",
+"Why did Alexander's soldiers refuse to march further east? | they were tired after long campaigns and heavy battles | they had reached Pataliputra and won | they had been paid to stop | they had lost their weapons in the Ganga | Exhaustion",
 "Why was Chandragupta able to defeat the Nanda ruler? | support of Kautilya and a strong army | Nanda's strength | foreign help only | lack of army | Combination",
 "What does the saptanga theory teach? | all seven parts of a state depend on each other | only the king matters | only the army matters | only the treasury matters | Interdependence",
 "Megasthenes' account is useful because | it gives an outsider's view of Mauryan society | it is a Mauryan record | it is fiction | it is an inscription | Foreign source",

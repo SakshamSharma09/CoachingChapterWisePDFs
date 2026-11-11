@@ -27,7 +27,7 @@ nA = [MC([
  ("Bright half of the Moon is always facing the:", "Sun", "Earth", "Mars", "Pole Star", "Sunlit half."),
  ("The Moon is waxing when its lit part is:", "increasing", "decreasing", "constant", "zero", "Growing."),
  ]), MC([
- ("The calendar based on the motion of the Earth around the Sun is the:", "solar calendar", "lunar calendar", "no calendar", "star calendar", "Gregorian."),
+ ("The calendar based on the motion of the Earth around the Sun is the:", "solar calendar", "lunar calendar", "lunisolar calendar", "weekly calendar", "Gregorian."),
  ("The calendar based on the phases of the Moon is the:", "lunar calendar", "solar calendar", "weekly calendar", "daily", "Months follow the Moon."),
  ("A year of the Gregorian calendar has:", "365 days (366 in a leap year)", "354 days", "360 days", "400 days", "Solar."),
  ("A lunar year of 12 months has about:", "354 days", "365 days", "360 days", "400 days", "12 x 29.5."),
@@ -100,7 +100,7 @@ eA = [MC([
  ("The shadow at noon is:", "shortest", "longest", "absent always", "reversed", "Sun is high."),
  ("The Moon reflects the light of the:", "Sun", "stars", "Earth", "Mars", "Not luminous."),
  ]), MC([
- ("The Moon is full on:", "Purnima", "Amavasya", "Ekadashi only", "Sunday", "Full moon day."),
+ ("The Moon is full on:", "Purnima", "Amavasya", "Ashtami", "Chaturthi", "Full moon day."),
  ("The Moon is not seen on:", "Amavasya", "Purnima", "Ekadashi", "Monday", "New moon."),
  ("The time between two full moons is about:", "29.5 days", "15 days", "365 days", "7 days", "Lunar month."),
  ("The Moon goes around the Earth in about:", "27 days", "1 day", "365 days", "7 days", "Orbit."),
@@ -117,10 +117,10 @@ eA = [MC([
  ("Saptarishi is also called the:", "Big Dipper or Ursa Major", "Orion", "Cassiopeia", "Southern Cross", "Seven stars."),
  ("A famous observatory in Jaipur is the:", "Jantar Mantar", "Red Fort", "Qutub Minar", "Charminar", "Built by Jai Singh."),
  ("The Sun is the nearest:", "star", "planet", "moon", "comet", "Our star."),
- ("The day and night are equal on:", "equinox", "solstice", "birthday", "eclipse", "Equal length."),
+ ("The day and night are equal on:", "equinox", "solstice", "full moon", "eclipse", "Equal length."),
  ("A month in a lunar calendar follows the:", "Moon's phases", "Sun's path", "stars only", "winds", "Moon."),
  ("The Earth rotates from:", "west to east", "east to west", "north to south", "south to north", "Spinning direction."),
- ("The Earth moves around the Sun in:", "an orbit", "a straight line", "a square", "a circle that is smaller than the Moon's", "Elliptical path."),
+ ("The Earth moves around the Sun in:", "an orbit", "a straight line", "a square path", "a spiral path", "Elliptical path."),
  ])]
 eB = [
  Z("What causes day and night?", "Rotation of the Earth|2"),
@@ -199,7 +199,7 @@ mA = [MC([
  ("The full Moon rises at about:", "sunset", "noon", "midnight", "sunrise", "Opposite to the Sun."),
  ("The new Moon rises at about:", "sunrise", "sunset", "midnight", "noon", "Near the Sun."),
  ("The first-quarter Moon is visible in the evening sky and rises at about:", "noon", "midnight", "sunrise", "sunset", "Half-lit and a quarter way round."),
- ("The Moon is in its waning gibbous phase just after:", "full moon", "new moon", "first quarter", "no phase", "Decreasing after full."),
+ ("The Moon is in its waning gibbous phase just after:", "full moon", "new moon", "first quarter", "waxing crescent", "Decreasing after full."),
  ("A solar eclipse can occur only on:", "a new moon day", "a full moon day", "first quarter", "any day", "Moon between the Sun and the Earth."),
  ("A lunar eclipse can occur only on:", "a full moon day", "a new moon day", "first quarter", "any day", "Earth between the Sun and the Moon."),
  ("A lunar eclipse is visible from:", "the whole night side of the Earth", "a narrow strip only", "only the equator", "only the poles", "Wide visibility."),
@@ -270,7 +270,7 @@ hA = [[
  ], MC([
  ("A pole of height 3 m has a shadow of 4 m and a nearby tree has a shadow of 20 m at the same time. The height of the tree is:", "15 m", "20 m", "10 m", "26 m", "3/4 = h/20."),
  ("A student measures the shadow of a 1 m stick as 0.5 m at noon on one day and 1 m a few months later. This shows the Sun's noon elevation has:", "decreased", "increased", "stayed same", "become zero", "Longer shadow means a lower Sun."),
- ("The lunar eclipse of the Moon would be visible in a place at midnight, then:", "the Moon is high in the sky (full moon)", "the Moon is below the horizon", "the Sun is overhead", "eclipse is impossible", "Full moon at midnight is high."),
+ ("A total lunar eclipse is seen at midnight from a place. At that time the Moon is:", "high in the sky", "below the horizon", "not present in the sky", "close to the Sun", "Lunar eclipse occurs on a full moon, which is high in the sky at midnight."),
  ("The new moon of 1 January 2024 is followed by a full moon after about:", "15 days", "30 days", "7 days", "60 days", "Half month."),
  ("If today is the first quarter, the Moon will be full in about:", "7 days", "14 days", "21 days", "1 day", "A quarter of a month more."),
  ("A year has 365 days. How many weeks and extra days does it have?", "52 weeks and 1 day", "52 weeks", "53 weeks", "51 weeks and 3 days", "365 = 52 x 7 + 1."),
@@ -318,7 +318,7 @@ hC = [
  Z("Explain why the lunar eclipse occurs only on a full moon and how long it may last.", "Earth lies between the Sun and Moon|1", "Moon passes into the Earth's shadow|1", "Totality up to about an hour or more|1"),
  Z("Explain why Indian astronomers named days of the week after the Sun, the Moon and planets.", "Seven bodies visible to the naked eye|1", "Each given a day|1", "Used in calendars|1"),
  Z("Explain the length of the Earth's orbit and the speed of the Earth in orbit (use 150 million km radius, circumference 2 pi r) in km/s approx.", "Circumference about 940 million km|1", "Time = 365.25 x 24 x 3600 s = 3.16 x 10^7 s|1", "Speed about 30 km/s|1"),
- Z("How do the shadows of a pole at the equator and at a high latitude differ at noon in June?", "Equator: Sun nearly overhead, short shadow|1", "High latitude: Sun lower, longer shadow|1", "Tilt and latitude decide|1"),
+ Z("How do the shadows of a pole at the equator and at a high latitude differ at noon in June?", "Equator: Sun high in the sky, short shadow|1", "High latitude: Sun lower, longer shadow|1", "Tilt and latitude decide|1"),
  Z("Why does the Moon seem to follow us as we travel?", "Moon is very far away|1", "Angle changes very little as we move|1", "Hence it appears to keep pace|1"),
  Z("How can the passing of the lunar months be observed in a village without a calendar?", "Observe the Moon's phases|1", "Count days from new moon|1", "Festivals mark dates|1"),
  Z("Why were the temples and towers of old India often aligned with the cardinal directions?", "Helped in observing the Sun and stars|1", "Use of the shadow of a gnomon to find directions|1", "Alignment gave symbolic and practical use|1"),

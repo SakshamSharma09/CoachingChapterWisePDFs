@@ -53,7 +53,7 @@ Why is a pendulum used in clocks? ## Its swings take equal time ## Gives regular
 Find the time taken to cover 90 km at 45 km/h. ## Time = distance / speed ## 90/45 = 2 h
 """
 nC = """
-A pendulum completes 30 oscillations in 60 s. Find its time period and frequency. ## T = 60/30 = 2 s|1 ## Frequency = 30/60|1 ## 0.5 per second|1
+A pendulum completes 30 oscillations in 60 s. Find its time period and the number of oscillations in 1 minute. ## T = 60/30 = 2 s|1 ## Oscillations in 1 minute = 30|1 ## Time for one oscillation is 2 s|1
 A bus covers 180 km in 4 h. Find its speed in km/h and m/s. ## 180/4 = 45 km/h|1 ## 45 x 5/18|1 ## 12.5 m/s|1
 Describe an activity to find the time period of a simple pendulum. ## Hang a bob from a thread|1 ## Count 20 oscillations with a stopwatch|1 ## Divide the time by 20|1
 Explain why we measure the time for 20 oscillations rather than for 1. ## Reduces error in starting and stopping|1 ## Larger time measured|1 ## Divide to get one|1
@@ -116,8 +116,8 @@ Motion at changing speed is: ## non-uniform ## uniform ## constant ## zero ## No
 A car in heavy traffic moves with: ## non-uniform motion ## uniform motion ## no motion ## periodic motion ## Stops and starts.
 A straight line in a distance-time graph means: ## uniform speed ## changing speed ## no motion ## zero speed ## Uniform.
 A horizontal line in a distance-time graph means: ## rest ## fast speed ## slow speed ## falling ## No change in distance.
-The axis for time in a distance-time graph is: ## x-axis ## y-axis ## z-axis ## none ## Horizontal.
-The axis for distance in a distance-time graph is: ## y-axis ## x-axis ## z-axis ## none ## Vertical.
+The axis for time in a distance-time graph is: ## x-axis (horizontal) ## y-axis (vertical) ## z-axis ## the diagonal ## Horizontal.
+The axis for distance in a distance-time graph is: ## y-axis (vertical) ## x-axis (horizontal) ## z-axis ## the diagonal ## Vertical.
 Which of the following is periodic? ## swinging swing ## falling ball ## running boy ## flying bird ## Repeats.
 Which of the following is non-periodic? ## falling stone ## clock hand ## pendulum ## moon revolving ## Does not repeat.
 Which instrument measures time? ## stopwatch ## ruler ## balance ## thermometer ## Time.
@@ -258,18 +258,18 @@ Describe the use of the distance-time graph in analysing a cyclist's ride from t
 # ============================ HARD ============================
 hA = [mc("""
 A train 150 m long crosses a platform 250 m long in 20 s. The speed of the train is: ## 20 m/s ## 7.5 m/s ## 12.5 m/s ## 8 m/s ## (150+250)/20.
-Two trains 100 m and 200 m long move in opposite directions at 20 m/s and 10 m/s. They cross in: ## 10 s ## 15 s ## 30 s ## 5 s ## 300/30.
+A train moving at a steady 15 m/s runs for 20 s. The distance covered is: ## 300 m ## 35 m ## 75 m ## 0.75 m ## 300/30.
 A man runs round a circular track of length 400 m in 100 s. His average speed is: ## 4 m/s ## 0 m/s ## 40 m/s ## 400 m/s ## 400/100.
-His displacement after one full round is: ## 0 ## 400 m ## 100 m ## 4 m ## Back at the start.
+In 50 s he covers: ## 200 m ## 400 m ## 100 m ## 20 m ## Back at the start.
 A car goes uphill at 20 km/h and downhill at 60 km/h over the same distance. The average speed is: ## 30 km/h ## 40 km/h ## 80 km/h ## 20 km/h ## 2x/(x/20 + x/60) = 30.
 A sprinter takes 10 s for 100 m and a cheetah 4 s for 100 m. The ratio of speeds sprinter : cheetah is: ## 2 : 5 ## 5 : 2 ## 1 : 1 ## 4 : 10 ## 10 : 25.
 A pendulum clock loses 2 minutes a day. To correct it, the pendulum should be: ## shortened ## lengthened ## made heavier ## made lighter ## A shorter pendulum has a smaller time period, so the clock speeds up.
 A pendulum clock runs fast. A mechanic wishes to correct it. He should: ## lengthen the pendulum slightly ## shorten the pendulum ## reduce the bob's mass ## stop the clock ## A longer pendulum has a larger time period, so the clock slows.
 If a body covers distances in the ratio 1 : 3 : 5 in successive equal seconds, the motion is: ## non-uniform ## uniform ## at rest ## periodic ## Speeds differ.
-Which of these cannot be negative? ## speed ## position coordinate ## displacement along an axis ## velocity ## Speed is non-negative.
+Which of these quantities is measured in m/s? ## speed ## time period ## distance ## time ## Speed is non-negative.
 """), mc("""
 Two cyclists A and B start from the same point. A goes at 15 km/h and B at 20 km/h. After 3 h, B is ahead of A by: ## 15 km ## 5 km ## 35 km ## 60 km ## 60 - 45.
-A train leaves at 6 a.m. at 60 km/h. A second train leaves at 8 a.m. at 90 km/h on the same track. It catches the first at: ## 12 noon ## 10 a.m. ## 2 p.m. ## 8 a.m. ## Gap 120 km, closing 30 km/h in 4 h.
+A train leaves at 6 a.m. and runs at a steady 60 km/h. By 12 noon it has covered: ## 360 km ## 60 km ## 120 km ## 720 km ## Gap 120 km, closing 30 km/h in 4 h.
 A man goes from A to B at 4 km/h and returns at 6 km/h. The time taken in the round trip is 5 h. The distance AB is: ## 12 km ## 24 km ## 6 km ## 5 km ## x/4 + x/6 = 5 gives x = 12.
 A boat sails 24 km in 3 h with a steady speed. In 5 h it travels: ## 40 km ## 15 km ## 120 km ## 8 km ## 8 km/h x 5.
 A child on a merry-go-round has a speed of 3 m/s at a radius of 4 m. Which statement is correct? ## the speed is constant but the direction changes ## speed changes ## it is at rest ## it moves along a straight line ## Uniform circular motion.
@@ -283,7 +283,7 @@ A pendulum was timed for 10 oscillations: 18.2 s, 18.0 s, 18.4 s. The best estim
 A sprinter's reaction time is 0.2 s and a stopwatch is started after seeing the start. The measured 10 s may be: ## less than true by about 0.2 s ## more than true ## exact ## double ## Late start.
 A student measures one oscillation of a pendulum with a stopwatch of reading to 0.1 s and gets 2.0 s. The error is about: ## up to 5 per cent ## up to 0.5 per cent ## nil ## 50 per cent ## 0.1/2.
 Timing 20 oscillations in 40.0 s reduces the percentage error to about: ## 0.25 per cent ## 5 per cent ## 50 per cent ## 2.5 per cent ## 0.1/40.
-The least count of a stopwatch reading 0.01 s means: ## smallest division it can show is 0.01 s ## it is 0.01 m ## it runs 0.01 s slow ## nothing ## Resolution.
+A stopwatch that shows readings up to 0.01 s means: ## the smallest time it can show is 0.01 s ## it runs 0.01 s slow ## it can measure only 0.01 s ## it measures distance in 0.01 m ## Resolution.
 Which of the following is the fundamental reason for using a pendulum as a clock? ## equal-time swings ## it is heavy ## it is shiny ## it is long ## Isochronism for small angles.
 The motion of the tip of a vibrating guitar string is: ## to-and-fro periodic ## uniform linear ## circular ## rest ## Vibrates.
 The motion of the moon around the Earth takes about: ## 27 days ## 1 day ## 365 days ## 60 days ## Orbital period.
@@ -299,8 +299,8 @@ Why can't the average speed of a round trip be the average of two speeds? ## Tim
 A bike moves 30 km/h for 20 minutes. Find the distance. ## 20 min = 1/3 h ## 30 x 1/3 = 10 km
 How many seconds in a day? ## 24 x 60 x 60 ## 86400 s
 Express a speed of 340 m/s in km/h. ## 340 x 18/5 ## 1224 km/h
-Why is acceleration not required to solve problems on uniform speed? ## Speed is constant ## No change in speed
-A swing makes 15 oscillations in 45 s. Find the time period and frequency. ## T = 3 s ## f = 1/3 per second
+Why can we use speed = distance/time directly for uniform motion? ## The speed stays constant ## Equal distances are covered in equal times
+A swing makes 15 oscillations in 45 s. Find the time period and the number of oscillations in 3 minutes. ## T = 45/15 = 3 s ## 180/3 = 60 oscillations
 A pendulum takes 40 s for 25 oscillations. Find its time period. ## T = 40/25 ## 1.6 s
 How would you check if a toy car moves uniformly? ## Mark equal intervals of time and measure distances ## Equal distances show uniform
 """
@@ -311,7 +311,7 @@ A car of speed 54 km/h and a bike of speed 12 m/s start together. Who goes farth
 The distance-time graph of an object has slope 3 m/s for 4 s, then horizontal for 2 s, then slope 6 m/s for 2 s. Find total distance and average speed. ## 12 m|1 ## 0 m then 12 m|1 ## Total 24 m in 8 s: 3 m/s|1
 A pendulum clock loses 10 minutes in a day. How many oscillations does it lose if its period is 1 s? ## 10 min = 600 s|1 ## 600 oscillations|1 ## T = 1 s|1
 A swimmer swims 50 m in 40 s one way and returns in 50 s. Find average speed for the round trip. ## 100 m in 90 s|1 ## 100/90|1 ## 1.11 m/s|1
-At 5 a.m. a bus leaves a town at 40 km/h. A car leaves the same town on the same road at 6 a.m. at 60 km/h. When does the car catch up? ## Gap 40 km|1 ## Closing 20 km/h|1 ## After 2 h, at 8 a.m.|1
+A bus leaves a town at 5 a.m. and runs at 40 km/h until 8 a.m. Find the distance covered. ## Time = 3 h|1 ## Distance = speed x time|1 ## 40 x 3 = 120 km|1
 Explain the use of the 'seconds pendulum' in old clocks. ## Time period 2 s|1 ## Each swing 1 s|1 ## Counting swings|1
 A boy cycles 6 km in 20 min and 9 km in 30 min. Find the average speed and say if the motion is uniform. ## 15 km in 50 min|1 ## 18 km/h|1 ## Both parts 18 km/h: uniform|1
 Why is a stopwatch always started and stopped by the same person in an experiment? ## Reaction time equal|1 ## Systematic error cancels|1 ## Better comparisons|1
@@ -327,12 +327,12 @@ A scooter moves at 36 km/h for 30 minutes. Find the distance covered in km and i
 hD = """
 A student plots the following data: time (s): 0, 5, 10, 15, 20; distance (m): 0, 10, 20, 20, 50. Describe the stages of motion, find the speed in each stage and the average speed. ## 0-10 s: 2 m/s|1 ## 10-15 s: rest|1 ## 15-20 s: 6 m/s|1 ## Average 50/20 = 2.5 m/s|1 ## Graph has a flat part|1
 Design an experiment to show how the time period of a pendulum varies with its length. Specify measurements, tables and expected relation. ## Lengths 25, 50, 75, 100 cm|1 ## 20 oscillations timed each|1 ## T = t/20|1 ## T increases with length|1 ## Mass kept same|1
-Two trains A and B 300 km apart move towards each other at 50 km/h and 70 km/h. When and where do they meet? ## Relative speed 120 km/h|1 ## Time = 300/120 = 2.5 h|1 ## A covers 125 km|1 ## B covers 175 km|1 ## Total 300 km|1
+Two cyclists A and B ride for 3 h at 15 km/h and 20 km/h. Find the distance covered by each and the difference. ## A: 15 x 3 = 45 km|1 ## B: 20 x 3 = 60 km|1 ## Difference = 15 km|1 ## B is faster|1 ## Distance = speed x time|1
 A cyclist rides 20 km at 10 km/h, then 30 km at 15 km/h. Find the total time and average speed. Compare with the simple average of the speeds. ## 2 h and 2 h = 4 h|1 ## 50 km total|1 ## 12.5 km/h|1 ## Simple average 12.5|1 ## Equal here because time equal|1
 Explain how a modern quartz watch measures time and why it is more accurate than a pendulum clock. ## Quartz vibrates at fixed frequency|1 ## Circuit counts vibrations|1 ## Not affected by amplitude or length|1 ## Temperature effect small|1 ## Digital display|1
 Describe the history of timekeeping in India, naming ancient methods and their principles. ## Shadow-based sundials|1 ## Water clocks (ghati)|1 ## Sand and other timers|1 ## Astronomical observations|1 ## Calendars|1
 A car's odometer reads 25 340 km at 9:00 a.m. and 25 420 km at 11:00 a.m. Its speedometer reads 60 km/h at 9:30 a.m. and 20 km/h at 10:30. Explain the difference between average and instantaneous speeds. ## Distance 80 km in 2 h|1 ## Average 40 km/h|1 ## Speedometer shows instantaneous|1 ## Values differ|1 ## Both useful|1
-A race track is 400 m. A runner completes 5 laps in 10 minutes. Find the speed in m/s and km/h and the displacement. ## Distance 2000 m|1 ## Speed 2000/600 = 3.33 m/s|1 ## 12 km/h|1 ## Displacement 0|1 ## Distance differs from displacement|1
+A race track is 400 m. A runner completes 5 laps in 10 minutes. Find the speed in m/s and km/h. ## Distance 5 x 400 = 2000 m|1 ## Time 10 min = 600 s|1 ## Speed 2000/600 = 3.33 m/s|1 ## 3.33 x 18/5 = 12 km/h|1 ## Speed = distance / time|1
 Analyse the sources of error in measuring the time period of a pendulum and ways to reduce them. ## Reaction time|1 ## Large amplitude|1 ## Counting errors|1 ## Time many oscillations|1 ## Repeat and average|1
 A satellite takes 90 minutes to circle the Earth. Find the number of orbits in a day and the time period in seconds. ## 90 min = 5400 s|1 ## 1440/90 = 16 orbits|1 ## T = 5400 s|1 ## Periodic motion|1 ## Orbits per day 16|1
 Discuss how knowing speed and time helps in planning journeys, with a train timetable example. ## Distance/speed gives time|1 ## Include stops|1 ## Average speed|1 ## Safety margins|1 ## Delays|1

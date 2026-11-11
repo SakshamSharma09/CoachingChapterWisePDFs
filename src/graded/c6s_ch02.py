@@ -6,7 +6,7 @@ SLUG, NAME, CHNO = "Diversity_in_Living_World", "Diversity in the Living World",
 # ============================ NCERT-TYPE ============================
 nA = [mc("""
 The variety of living organisms found on the Earth is called: ## biodiversity ## geology ## climate ## habitat ## Biodiversity means diversity of life.
-The place where an organism normally lives is its: ## habitat ## niche only ## adaptation ## cell ## A habitat provides food and shelter.
+The place where an organism normally lives is its: ## habitat ## adaptation ## species ## migration ## A habitat provides food and shelter.
 Plants with soft green stems that are small in size are called: ## herbs ## trees ## shrubs ## climbers ## Herbs have tender stems.
 Plants with a hard woody stem that branch near the base and are of medium height are: ## shrubs ## herbs ## trees ## creepers ## Rose and hibiscus are shrubs.
 Tall plants with a thick, hard trunk and branches high above the ground are: ## trees ## herbs ## creepers ## shrubs ## Mango and neem are trees.
@@ -33,7 +33,7 @@ Animals that eat both plants and animals are called: ## omnivores ## herbivores 
 Which of the following is an omnivore? ## crow ## cow ## tiger ## goat ## Crows eat grains and flesh.
 Which of these is a carnivore? ## lion ## deer ## rabbit ## buffalo ## Lions hunt other animals.
 Birds have hollow bones and feathers, which help them to: ## fly ## swim only ## burrow ## crawl ## They reduce weight and aid flight.
-Animals living in water are called: ## aquatic animals ## terrestrial animals ## aerial animals ## arboreal animals only ## Aquatic means water-living.
+Animals living in water are called: ## aquatic animals ## terrestrial animals ## aerial animals ## arboreal animals ## Aquatic means water-living.
 Animals that live on land are: ## terrestrial animals ## aquatic animals ## amphibians only ## insects only ## Terrestrial means land-dwelling.
 The ability of an organism to survive in its surroundings because of special features is: ## adaptation ## reproduction ## migration ## germination ## Adaptation helps survival.
 The thick fur of a polar bear helps it to: ## stay warm in the cold ## swim only ## fly ## climb trees ## Fur insulates from cold.
@@ -150,23 +150,23 @@ Name three animals that are carnivores. ## Lion|1 ## Tiger|1 ## Wolf|1
 Give three examples of animals that live in the Arctic or Antarctic. ## Polar bear|1 ## Penguin|1 ## Seal|1
 How does a fish breathe, move and what covers its body? ## Breathes by gills|1 ## Moves by fins|1 ## Covered with scales|1
 Give three differences between a herb and a tree. ## Herb is short|1 ## Tree is tall|1 ## Tree has hard trunk|1
-Name three kinds of root. ## Tap root|1 ## Fibrous root|1 ## Aerial root|1
+Name the two types of root systems and give one example of a plant for each. ## Tap root system|1 ## Fibrous root system|1 ## Examples: carrot and wheat|1
 Write three features of a bird. ## Has feathers|1 ## Has wings|1 ## Has a beak|1
 Name three kinds of plants found in water. ## Lotus|1 ## Water lily|1 ## Hydrilla|1
 Write three features of a camel. ## Hump|1 ## Long legs|1 ## Long eyelashes|1
 Why do we keep different animals as groups? ## To study them easily|1 ## To see their likeness|1 ## To know their differences|1
 """
 eD = """
-Write five examples each of herbs, shrubs and trees (any five in total with groups). ## Herb: tomato|1 ## Herb: mint|1 ## Shrub: rose|1 ## Shrub: hibiscus|1 ## Tree: mango|1
+Write two examples each of herbs and shrubs and one example of a tree. ## Herb: tomato|1 ## Herb: mint|1 ## Shrub: rose|1 ## Shrub: hibiscus|1 ## Tree: mango|1
 Name the parts of a leaf and write what each does. ## Blade: broad part makes food|1 ## Petiole: stalk holding blade|1 ## Midrib: main vein|1 ## Veins: carry water|1 ## Pores: give out gases|1
 Write five features of fish that help it live in water. ## Streamlined body|1 ## Fins|1 ## Gills|1 ## Scales|1 ## Tail|1
 Write five features of birds. ## Feathers|1 ## Wings|1 ## Beak|1 ## Light bones|1 ## Lay eggs|1
 Write the names of five animals and say whether each is a herbivore, carnivore or omnivore. ## Cow: herbivore|1 ## Goat: herbivore|1 ## Lion: carnivore|1 ## Crow: omnivore|1 ## Bear: omnivore|1
-Draw and label the parts of a flowering plant (write the names in order). ## Root|1 ## Stem|1 ## Leaf|1 ## Flower|1 ## Fruit|1
+Name, in order from the soil upward, the five parts of a flowering plant. ## Root|1 ## Stem|1 ## Leaf|1 ## Flower|1 ## Fruit|1
 Describe how a camel lives in the desert. ## Hump stores fat|1 ## Can go long without water|1 ## Long legs|1 ## Wide feet|1 ## Long eyelashes|1
 Describe how a polar bear lives in cold regions. ## Thick fur|1 ## Layer of fat|1 ## Strong swimmer|1 ## White colour blends with snow|1 ## Lives in the Arctic|1
-Explain what biodiversity means and give five living things. ## Variety of life|1 ## Plant: mango|1 ## Animal: tiger|1 ## Bird: parrot|1 ## Insect: bee|1
-Distinguish between tap root and fibrous root. Give two examples each. ## Tap root: single main root|1 ## Fibrous: many equal roots|1 ## Tap: carrot|1 ## Tap: radish|1 ## Fibrous: wheat|1
+Explain what biodiversity means and give four living things. ## Variety of life|1 ## Plant: mango|1 ## Animal: tiger|1 ## Bird: parrot|1 ## Insect: bee|1
+Distinguish between tap root and fibrous root. Give two examples of tap roots and one of fibrous roots. ## Tap root: single main root|1 ## Fibrous: many equal roots|1 ## Tap: carrot|1 ## Tap: radish|1 ## Fibrous: wheat|1
 Write five things we get from plants. ## Food|1 ## Wood|1 ## Medicine|1 ## Oxygen|1 ## Fibre|1
 Write five things we get from animals. ## Milk|1 ## Meat|1 ## Wool|1 ## Honey|1 ## Silk|1
 """
@@ -186,7 +186,7 @@ The shape of a bird's beak depends on its: ## food ## colour ## size of egg ## a
 """), mc("""
 Which of these animals is both a land and water animal? ## crocodile ## horse ## goat ## camel ## Crocodiles live both in water and land.
 Why do animals living in snowy regions have thick fur or fat? ## to reduce heat loss ## to swim better ## to find food ## to fly ## Insulation.
-Which of these helps desert plants conserve water? ## thick stem and spiny leaves ## large leaves ## shallow roots only ## many stomata open all day ## Reduces water loss.
+Which of these helps desert plants conserve water? ## thick fleshy stem and spiny leaves ## large soft leaves ## thin watery stem ## broad leaves with many pores open all day ## Reduces water loss.
 The roots of water plants like hydrilla are: ## small or reduced ## very long ## thick tap roots ## woody ## They absorb water directly.
 The stems of aquatic plants like lotus are: ## long and flexible ## short and woody ## thick and hard ## buried deep in soil ## Long stalks bring leaves to the surface.
 Which of these features helps a fish stay balanced and move? ## fins ## horns ## claws ## beak ## Fins.
@@ -198,10 +198,10 @@ Which of these animals has flat grinding teeth? ## cow ## tiger ## wolf ## eagle
 Which is the correct order of size, smallest to largest? ## herb, shrub, tree ## tree, shrub, herb ## shrub, herb, tree ## tree, herb, shrub ## Herbs are smallest.
 Grouping organisms based on similarities is called: ## classification ## digestion ## respiration ## adaptation ## It helps to organise.
 Which of these is NOT a basis for classifying animals? ## the name given by a person ## where they live ## what they eat ## body covering ## Names are labels not features.
-Which pair of animals is classified together as mammals? ## cow and bat ## fish and frog ## snake and lizard ## crow and kite ## Both feed their young on milk.
-Which of these is a flowering plant? ## rose ## moss ## fern ## algae ## Rose bears flowers.
-Which of these is a non-flowering plant? ## fern ## mango ## sunflower ## rose ## Ferns do not bear flowers.
-Plants that live in water and are rooted at the bottom with leaves floating are called: ## floating plants ## desert plants ## shrubs ## climbers ## E.g. lotus.
+Which pair of animals can both fly? ## crow and bat ## fish and frog ## snake and lizard ## cow and horse ## Both feed their young on milk.
+Which of these plants has a weak stem that spreads along the ground? ## pumpkin ## mango ## neem ## rose ## Rose bears flowers.
+Which of these plants has a fibrous root system? ## maize ## carrot ## mango ## radish ## Ferns do not bear flowers.
+Plants such as lotus and hydrilla that live in water are called: ## aquatic plants ## desert plants ## shrubs ## climbers ## E.g. lotus.
 Which of these animals walks on four legs and eats flesh? ## leopard ## camel ## cow ## horse ## Leopards are carnivores.
 The ability of chameleons to change colour helps them to: ## hide from enemies ## fly ## swim ## sleep ## Camouflage.
 A butterfly belongs to which group? ## insects ## birds ## mammals ## fish ## Insects have six legs.
@@ -211,8 +211,8 @@ Why are cactus leaves modified into spines? ## To reduce loss of water ## The gr
 Explain why polar bears have white fur. ## Camouflage in snow helps hunting ## Thick fur keeps them warm
 How do the teeth of herbivores differ from those of carnivores? ## Herbivores have broad flat teeth for grinding ## Carnivores have sharp canines for tearing
 Why do climbers need support? ## Their stems are weak ## They use tendrils or hooks to climb up
-How is a bat different from a bird? ## A bat is a mammal, which gives birth and feeds milk ## A bat has skin wings rather than feathers
-Why is a frog called an amphibian? ## It lives both on land and in water ## It breathes with gills when young and lungs when adult
+Why do fish have scales on their bodies? ## Scales protect the body ## Scales help the body to move smoothly through water
+Why do ducks have webbed feet? ## They push against water while swimming ## The skin between the toes increases the surface that pushes the water
 Explain why there is a hump in a camel. ## It stores fat ## Fat gives energy when food is scarce
 How is a mango leaf's venation different from a grass leaf's? ## Mango: reticulate ## Grass: parallel
 What is the use of fibrous roots in grasses? ## Hold the soil firmly ## Prevent soil erosion
@@ -237,7 +237,7 @@ Explain how the feathers of birds help them. ## Help in flight|1 ## Keep the bod
 Why do aquatic animals not need legs for walking? ## They swim using fins|1 ## Water supports the body|1 ## Legs would increase water resistance|1
 Why do animals need different kinds of habitats? Give two examples. ## Each habitat gives suitable food and shelter|1 ## Fish need water|1 ## Camels need dry desert|1
 Describe three ways in which humans depend on biodiversity. ## Food from plants and animals|1 ## Medicines from herbs|1 ## Materials like wood and wool|1
-How can you identify a plant as a monocot-like or dicot-like from its leaf and root? ## Parallel venation, fibrous root: grass-like|1 ## Net venation, tap root: mango-like|1 ## Leaf and root features go together|1
+How can the leaf and root show whether a plant is grass-like or mango-like? ## Parallel venation and fibrous roots: grass-like|1 ## Net venation and tap root: mango-like|1 ## Leaf and root features go together|1
 Explain the term 'camouflage' with two examples. ## Blending with surroundings|1 ## Chameleon changes colour|1 ## Stick insect looks like a twig|1
 """
 mD = """
@@ -249,7 +249,7 @@ A student found the following: Plant A has tap root, net veins, tall trunk; plan
 Explain the function of each part of a flowering plant. ## Root: absorption and anchorage|1 ## Stem: support|1 ## Leaf: food making|1 ## Flower: reproduction|1 ## Fruit: protects seeds|1
 Why do some animals live in groups and others alone? Give examples and reasons. ## Groups give protection, e.g. deer|1 ## Group hunting, e.g. wolves|1 ## Some animals live alone, e.g. tiger|1 ## Need large territory|1 ## Depends on food and safety|1
 Explain what would happen if all green plants disappeared. ## No food production|1 ## No oxygen release|1 ## Herbivores would starve|1 ## Carnivores would starve next|1 ## Life would end|1
-Differentiate between mammals, birds and reptiles on body covering and movement. ## Mammals: hair, walk|1 ## Birds: feathers, fly|1 ## Reptiles: scales, crawl|1 ## Mammals feed milk|1 ## Birds and reptiles lay eggs|1
+Compare a fish, a bird and a snake on body covering and movement. ## Fish: scales, moves with fins|1 ## Bird: feathers, moves with wings|1 ## Snake: scales, moves without legs|1 ## Body covering protects the animal|1 ## Movement suits the habitat|1
 Describe the features of animals that live in trees and in burrows. ## Tree: strong grip, tail|1 ## Tree: monkey, squirrel|1 ## Burrow: strong claws|1 ## Burrow: rabbit, rat|1 ## Safe shelter|1
 Explain with examples why diversity is useful for human life. ## Food crops|1 ## Medicinal plants|1 ## Wool and silk|1 ## Pollinators like bees|1 ## Balance in nature|1
 Compare a pond and a forest habitat on the basis of plants and animals found there. ## Pond: lotus, hydrilla|1 ## Pond: fish, frog|1 ## Forest: trees, shrubs|1 ## Forest: deer, tiger|1 ## Different conditions support different life|1
@@ -258,11 +258,11 @@ Compare a pond and a forest habitat on the basis of plants and animals found the
 # ============================ HARD ============================
 hA = [mc("""
 A scientist finds a plant with parallel veins, fibrous roots and a soft stem. Which is most probable? ## a grass ## a mango tree ## a peepal tree ## a rose bush ## Grasses show these features.
-If an animal has webbed feet, gills in young stage and lungs in adult stage, it is a(n): ## amphibian ## reptile ## bird ## mammal ## Frogs show this.
+An animal with webbed feet, lungs and moist skin that lives near ponds and jumps on land is most likely a: ## frog ## crow ## camel ## lion ## Frogs show this.
 Which statement explains why camels have broad feet? ## to avoid sinking in sand ## to swim ## to dig for water ## to climb ## Large area reduces pressure.
 Which group of features suits an animal living in the polar region? ## thick fur, fat layer, white colour ## thin skin, long legs, hump ## gills, fins, scales ## feathers, hollow bones, beak ## Cold adaptation.
 A fish placed on land dies quickly because: ## its gills cannot take oxygen from air ## it is too cold ## it is too bright ## it needs a lot of salt ## Gills work in water.
-Bats are considered mammals because they: ## give birth to young and feed them milk ## can fly ## live in caves ## have wings ## Milk feeding defines mammals.
+Which of these flying animals is NOT a bird? ## bat ## eagle ## crow ## sparrow ## Milk feeding defines mammals.
 A student classifies a whale as a fish as it lives in water. The error is: ## whale is a mammal breathing with lungs ## whale has gills ## whale is a bird ## whale lays eggs ## It breathes air.
 Which plant would survive best with very little water? ## cactus ## lotus ## water lily ## hydrilla ## Cactus has water-saving features.
 Which characteristic helps trees to withstand strong winds? ## a thick trunk and deep roots ## thin stem ## soft stem ## shallow roots only ## Strong anchorage.
@@ -274,12 +274,12 @@ Which behaviour is an adaptation to a hot desert? ## being active at night ## be
 The roots of a banyan hanging from branches are called: ## prop roots ## tap roots ## fibrous roots ## tuberous roots ## They support the tree.
 Why does the lotus leaf have a waxy upper surface? ## to repel water ## to attract insects ## to store food ## to hold roots ## Water rolls off.
 Which of the following is the main reason why species are grouped into classes? ## to show similarities useful for study ## to count them ## to name them ## to colour them ## Classification organises.
-Which animal pair shows convergent body shape for swimming? ## fish and dolphin ## fish and frog ## cow and horse ## crow and bat ## Similar streamlined shape in different groups.
+Which two animals both have a streamlined body for swimming? ## fish and penguin ## cow and horse ## monkey and squirrel ## camel and goat ## Similar streamlined shape in different groups.
 Which is not an adaptation for flight? ## webbed feet ## hollow bones ## wings ## feathers ## Webbed feet are for swimming.
 Which of these shows that a shrub differs from a herb? ## woody stem branching near the base ## green stem ## no leaves ## no flowers ## Woody and branched.
 Which of these is the correct pair of animal and its body covering? ## fish: scales ## bird: scales ## mammal: feathers ## frog: hair ## Fish have scales.
 """), mc("""
-In a forest, if all insects vanish, what is most likely to happen? ## many plants will fail to pollinate ## nothing will change ## animals will grow bigger ## forest will grow faster ## Pollination would fall.
+In a forest, if all insects vanish, what is most likely to happen? ## many plants will fail to pollinate ## all plants will grow faster ## animals will grow bigger ## forest will grow faster ## Pollination would fall.
 A jungle has more kinds of organisms than a desert because: ## it provides more food, water and shelter ## it has no animals ## it is colder ## it has no plants ## Rich resources support life.
 Which of these shows interdependence between plants and animals? ## animals use oxygen produced by plants ## animals make plants ## plants eat animals ## plants hunt ## Plants give oxygen.
 The most likely reason that a cactus has thick, fleshy stem is: ## to store water ## to make food in the dark ## to attract birds ## to hold soil ## Stem stores water.
@@ -298,8 +298,8 @@ How is the beak of a hawk different from that of a duck and why? ## Hawk has hoo
 Why does a dolphin look like a fish but is classified as a mammal? ## It breathes air through lungs ## It gives birth to young and feeds milk
 What advantage does a creeper have over a tree in using sunlight? ## It spreads along the ground quickly ## It needs less energy for making a trunk
 Explain how a polar bear's colour and fur help it. ## White colour helps in hunting unseen ## Fur and fat keep it warm
-Why do you see more variety of plant leaves in a rain forest? ## More rain and warmth allow many species ## Different plants occupy different niches
-Why do roots of mangroves grow upward out of the mud? ## To take in air ## Mud around them has little oxygen
+Why do you see more variety of plant leaves in a rain forest? ## More rain and warmth allow many kinds of plants to grow ## Different plants find suitable conditions in different parts of the forest
+Why do aquatic plants such as hydrilla have thin, flexible stems? ## Water supports them ## Flexible stems bend with the flow of water without breaking
 Why do frogs live near ponds even though they have lungs? ## Moist skin needs water ## They lay eggs in water
 How do you tell the difference between a shrub and a young tree? ## Shrub branches near the base ## Tree has a single main trunk
 Why must we protect forests for biodiversity? ## Many species live there ## Destroying habitats leads to extinction
@@ -309,7 +309,7 @@ A plant has leaves with net veins, a tap root, a thick woody trunk 15 m tall. Cl
 Compare the adaptations of a duck and a fish for movement in water. ## Duck: webbed feet|1 ## Fish: fins and tail|1 ## Fish: streamlined; duck: oily feathers|1
 Why do mountain trees such as pine have conical shape and needle-like leaves? ## Snow slides off|1 ## Needles lose less water|1 ## Withstand strong cold winds|1
 Give reasons: (a) leaves of aquatic plants are thin or floating, (b) roots are reduced, (c) stems are flexible. ## Thin leaves absorb gases from water|1 ## Roots absorb water directly so are small|1 ## Flexible stems bend with water flow|1
-Describe how to find out whether a given leaf belongs to a monocot-like plant. ## Observe veins|1 ## Parallel veins suggest monocot-like|1 ## Check the root type if available|1
+Describe how to find out whether a given leaf belongs to a grass-like plant. ## Observe the veins|1 ## Parallel veins suggest a grass-like plant|1 ## Check the root type if available|1
 Why is it harmful to remove the plants from a pond? ## Fish lose food and shelter|1 ## Oxygen supply reduces|1 ## Food chain breaks|1
 A student suggests classifying animals by colour. Why is this not a good method? ## Colour can vary within a group|1 ## Unrelated animals may have the same colour|1 ## Features like body covering and habitat are better|1
 Explain how the hump of a camel benefits it in the desert. ## Stores fat|1 ## Fat gives energy when food is scarce|1 ## Body fat in one place keeps the rest cooler|1
@@ -320,21 +320,21 @@ Give three examples of plants that show the importance of herbs in food. ## Spin
 Explain with an example how animals show adaptation in feeding. ## Beak shape matches food|1 ## Woodpecker has strong beak for wood|1 ## Hummingbird has thin beak for nectar|1
 Analyse why not all plants with flowers are trees. ## Flowering is a feature of many types|1 ## Herbs, shrubs, trees all flower|1 ## Size and stem differ|1
 What happens if the population of herbivores in a forest increases suddenly? ## Plants are overeaten|1 ## Food shortage follows|1 ## Carnivores may increase|1
-Why do we say organisms are 'adapted' instead of 'designed'? ## Adaptation developed over time|1 ## Features suit environment|1 ## Individuals with useful features survive|1
+Why do we say a camel is adapted to the desert? ## Its body features help it survive heat and shortage of water|1 ## Hump stores fat|1 ## Wide feet do not sink in sand|1
 Differentiate the gills of a fish and the lungs of a frog. ## Gills take oxygen dissolved in water|1 ## Lungs take oxygen from air|1 ## Frog also uses its skin|1
 Why do roots grow downward while stems grow upward? ## Roots seek water|1 ## Stems seek light|1 ## This helps survival|1
 """
 hD = """
 Design a chart classifying 10 organisms by (i) habitat and (ii) food habit, and explain how features match. ## Aquatic: fish, whale|1 ## Terrestrial: cow, lion|1 ## Aerial: crow, eagle|1 ## Herbivore/carnivore/omnivore assigned|1 ## Features such as fins, legs, wings explained|1
 Describe how the structure of a bird's body (including beak, feet, bones, feathers) is adapted for its way of life with examples. ## Hollow bones: lightness|1 ## Feathers: flight and warmth|1 ## Beak: food type|1 ## Feet: perching, swimming or hunting|1 ## Examples: duck, eagle, parrot|1
-Explain how a mangrove plant is adapted to life in salty, muddy water. ## Prop roots support|1 ## Breathing roots rise above mud|1 ## Salt is removed through leaves|1 ## Seeds germinate on the plant|1 ## Suited to salt water|1
+Explain how a cactus is adapted to survive in a desert. ## Thick fleshy stem stores water|1 ## Leaves are reduced to spines|1 ## Spines reduce loss of water|1 ## Green stem makes food|1 ## Waxy coating cuts water loss|1
 Explain the importance of biodiversity with respect to food chains, medicine, climate and tourism. ## Food chains|1 ## Medicines from plants|1 ## Forests influence rainfall|1 ## Tourism|1 ## Loss leads to imbalance|1
 A student collects five leaves: grass, mango, maize, peepal, bamboo. Classify by venation and relate it to root type. ## Grass: parallel|1 ## Maize: parallel|1 ## Bamboo: parallel|1 ## Mango and peepal: reticulate|1 ## Parallel go with fibrous; reticulate with tap|1
 Compare the Arctic and desert in terms of weather and the animals living there, with their special features. ## Arctic: very cold|1 ## Polar bear: fur and fat|1 ## Desert: hot, dry|1 ## Camel: hump, wide feet|1 ## Different adaptations|1
 Explain how the loss of habitat leads to loss of biodiversity. Suggest five ways to conserve it. ## Animals lose food and shelter|1 ## Plant cover declines|1 ## Plant more trees|1 ## Create national parks|1 ## Avoid pollution and hunting|1
 Describe the differences among herbs, shrubs and trees using stem, height, branching, lifespan and uses. ## Stem: soft, woody, thick|1 ## Height: low, medium, tall|1 ## Branching differs|1 ## Lifespan generally longer in trees|1 ## Uses such as vegetables, hedges, timber|1
-Explain with reasons why animals of the same habitat may have different body shapes. ## Feeding methods differ|1 ## Movement methods differ|1 ## Fish, turtle and crab live in water|1 ## They look different|1 ## Each has its own niche|1
-Using examples explain the difference between camouflage, mimicry-like resemblance and warning colours in protecting animals. ## Camouflage hides animal|1 ## Chameleon blends with leaves|1 ## Stick insect looks like twig|1 ## Bright colours warn predators|1 ## Examples: poison frog|1
+Explain with reasons why animals of the same habitat may have different body shapes. ## Feeding methods differ|1 ## Movement methods differ|1 ## Fish, turtle and crab live in water|1 ## They look different|1 ## Body shape suits each way of living|1
+Using examples explain how camouflage protects animals. ## Camouflage hides the animal in its surroundings|1 ## Chameleon blends with leaves|1 ## Stick insect looks like a twig|1 ## Predators fail to notice the animal|1 ## So it survives|1
 Explain the role of leaves, roots and stems in survival of a plant and what happens if each is removed. ## No leaves: no food|1 ## No roots: no water|1 ## No stem: no support|1 ## Plant would die|1 ## Parts depend on each other|1
 Describe an activity to study the diversity of plants in your school garden. ## Walk and note plants|1 ## Classify into herbs, shrubs, trees|1 ## Note leaves and roots|1 ## Record in a table|1 ## Draw a conclusion about diversity|1
 """

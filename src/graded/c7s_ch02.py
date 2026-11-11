@@ -34,7 +34,7 @@ The safety device which melts and breaks the circuit when current is too high is
 A fuse wire is made of a material with a: ## low melting point ## high melting point ## no melting point ## high density ## It melts easily.
 A device which switches off automatically when current is too high is an: ## MCB ## LED ## cell ## switch only ## Miniature circuit breaker.
 Overloading of a circuit can cause: ## fire ## rain ## wind ## cold ## Too much current heats wires.
-Short circuit happens when: ## live and neutral wires touch ## the switch is off ## the bulb is fused ## the cell is dead ## A path of low resistance forms.
+Short circuit happens when: ## two bare wires of the circuit touch each other ## the switch is off ## the bulb is fused ## the cell is dead ## A path of low resistance forms.
 An LED glows when current passes through it in: ## only one direction ## either direction ## no direction ## all directions ## It has polarity.
 Compared to an ordinary bulb, an LED: ## uses much less energy ## uses more energy ## gets very hot ## has a filament ## It saves power.
 """)]
@@ -60,7 +60,7 @@ List three precautions to be taken while using electrical appliances. ## Do not 
 Why are the handles of electrician's tools covered with rubber or plastic? ## They are insulators|1 ## Prevent shocks|1 ## Safe use|1
 Describe the activity to test conductors and insulators using a circuit. ## Connect cell, bulb and two free ends|1 ## Touch object across the ends|1 ## Bulb glows for a conductor and not for an insulator|1
 How does a fuse protect an electrical appliance? ## Wire melts on excess current|1 ## Circuit breaks|1 ## Appliance saved|1
-Why are heating coils made of nichrome? ## High resistance|1 ## Gets very hot|1 ## Does not melt or oxidise easily|1
+Why are heating coils made of nichrome? ## It gets very hot when current passes|1 ## It has a high melting point|1 ## It does not burn or rust easily|1
 Write three applications of the heating effect of current. ## Electric iron|1 ## Heater|1 ## Geyser|1
 What are the differences between a fuse and an MCB? ## Fuse wire melts, must be replaced|1 ## MCB trips and can be reset|1 ## Both protect|1
 Explain what happens if a fuse of too high rating is used. ## It will not melt on a small overload|1 ## Wires may overheat|1 ## Fire risk|1
@@ -69,21 +69,21 @@ What happens when two cells are connected in series with the same polarity? ## V
 Explain why we should not use a damaged wire. ## Insulation worn|1 ## Short circuit|1 ## Shock or fire|1
 Give three examples where the heating effect of current is unwanted. ## Computer heating|1 ## Mobile phone|1 ## Wires overheating|1
 Why is a bulb connected to a battery brighter than to a single cell? ## Battery gives more voltage|1 ## More current flows|1 ## Filament glows brighter|1
-Name three safety devices used in homes. ## Fuse|1 ## MCB|1 ## Earth wire|1
+Name three safety devices used in homes. ## Fuse|1 ## MCB|1 ## Insulating gloves|1
 Why is the human body a conductor? ## Contains salty water|1 ## Current may flow|1 ## So avoid live wires|1
 """
 nD = """
 Describe an activity to show that some materials conduct electricity and others do not. Name five objects. ## Make a circuit with a gap|1 ## Place objects in the gap|1 ## Copper wire, iron nail, coin: bulb glows|1 ## Rubber, plastic: no glow|1 ## Record in a table|1
 Explain the working of a simple electric circuit and the function of cell, bulb, switch and wires. ## Cell: gives energy|1 ## Wires: path|1 ## Switch: control|1 ## Bulb: glows|1 ## Closed circuit needed|1
-Explain the heating effect of current and its applications and disadvantages. ## Current heats a wire|1 ## Iron, heater|1 ## High resistance wires used|1 ## Wires may overheat|1 ## Cause of fire|1
-Describe the electrical safety measures at home. ## Insulated wires|1 ## Fuse and MCB|1 ## Earthing|1 ## Dry hands|1 ## Avoid overloading|1
+Explain the heating effect of current and its applications and disadvantages. ## Current heats a wire|1 ## Iron, heater|1 ## Special wires used for heating|1 ## Wires may overheat|1 ## Cause of fire|1
+Describe the electrical safety measures at home. ## Insulated wires|1 ## Fuse and MCB|1 ## Switch off before repairs|1 ## Dry hands|1 ## Avoid overloading|1
 Describe the structure of a fuse and an MCB, and explain why they are used. ## Fuse wire in a holder|1 ## Melts on high current|1 ## MCB: switch trips|1 ## Reset easily|1 ## Protect the circuit|1
 Explain the use of symbols and draw (describe) a circuit diagram with two cells, a bulb and a switch. ## Symbols simplify|1 ## Cell, battery|1 ## Bulb, switch|1 ## Connected in series|1 ## Closed switch lights the bulb|1
 What is a battery? Explain how three 1.5 V cells in series produce 4.5 V and what happens to bulb brightness. ## Battery is two or more cells|1 ## Join + of one to - of next|1 ## 1.5 x 3 = 4.5 V|1 ## More voltage|1 ## Brighter bulb|1
 Compare conductors and insulators on five points with examples. ## Conductors allow current|1 ## Insulators do not|1 ## Copper, aluminium|1 ## Rubber, plastic|1 ## Uses in wires and covers|1
 Describe the construction of an electric bulb and why the filament glows. ## Glass bulb|1 ## Tungsten filament|1 ## Inert gas|1 ## Current heats filament|1 ## It glows|1
 Explain the causes of short circuit and overloading and how to prevent them. ## Short circuit: wires touch|1 ## Overload: too many appliances|1 ## Large current flows|1 ## Fuse or MCB|1 ## Careful wiring|1
-Explain why an electric iron becomes hot but the cord does not. ## Heating element has high resistance|1 ## Copper cord has low resistance|1 ## Same current flows|1 ## Heat depends on resistance|1 ## Cord stays cool|1
+Explain why an electric iron becomes hot but the cord does not. ## The heating element is made of nichrome which gets very hot|1 ## The copper cord is a good conductor and stays cool|1 ## The same current flows through both|1 ## Different materials heat differently|1 ## So the cord stays cool|1
 Describe the role of LED lights in saving energy. ## Use less power|1 ## Last longer|1 ## Little heat|1 ## Less electricity bill|1 ## Reduce fossil fuel use|1
 """
 
@@ -116,10 +116,10 @@ The negative terminal of a cell is the: ## flat base ## cap ## switch ## bulb ##
 A circuit diagram shows: ## connections using symbols ## a photo ## a map ## a poster ## Standard drawing.
 A switch in the off position makes the circuit: ## open ## closed ## short ## parallel ## No path.
 Electricity must be used: ## carefully ## carelessly ## with wet hands ## with damaged wires ## Safety.
-We should switch off appliances when: ## not in use ## in use ## always ## never ## Save energy.
+We should switch off appliances: ## when they are not in use ## while they are working ## only at night ## only after repair ## Save energy.
 A bulb glows when the switch is: ## on ## off ## removed ## broken ## Closed.
 Current can pass through: ## metal ## plastic ## rubber ## glass ## Metal.
-A cell is a source of electrical ___. ## energy ## water ## sand ## light ## Electric energy.
+A cell is a source of electrical ___. ## energy ## water ## heat only ## sound ## Electric energy.
 A MCB is a: ## safety switch ## battery ## bulb ## wire ## Automatic.
 """)]
 eB = """
@@ -153,12 +153,12 @@ Why do we use switches? ## To turn on|1 ## To turn off|1 ## To save energy|1
 Write three things that conduct electricity. ## Copper wire|1 ## Iron nail|1 ## Graphite|1
 Write three things that do not conduct electricity. ## Eraser|1 ## Plastic comb|1 ## Wooden spoon|1
 Why is a thick wire used for heavy appliances? ## Carries more current|1 ## Does not heat|1 ## Safe|1
-Name three safety devices. ## Fuse|1 ## MCB|1 ## Earth wire|1
+Name three safety devices. ## Fuse|1 ## MCB|1 ## Insulating gloves|1
 Why must water be kept away from switches? ## Water conducts|1 ## Shock risk|1 ## Short circuit|1
 """
 eD = """
 Describe how to light a bulb with a cell and wires. ## Take a cell, a bulb and wires|1 ## Join one end of the bulb to + of the cell|1 ## Join the other end to - of the cell|1 ## The circuit is complete|1 ## The bulb glows|1
-Write five conductors and five insulators (five in total). ## Copper|1 ## Iron|1 ## Aluminium|1 ## Rubber|1 ## Plastic|1
+Write three conductors and two insulators. ## Copper|1 ## Iron|1 ## Aluminium|1 ## Rubber|1 ## Plastic|1
 Write five safety rules for electricity. ## Dry hands|1 ## Do not overload|1 ## No damaged wires|1 ## Use a fuse|1 ## Switch off|1
 Explain the working of an electric iron. ## Has a heating coil|1 ## Current flows|1 ## Coil gets hot|1 ## Heat passes to the plate|1 ## Clothes are pressed|1
 Explain open and closed circuits with a bulb. ## Open: broken|1 ## No current|1 ## Closed: complete|1 ## Current flows|1 ## Bulb glows|1
@@ -184,15 +184,15 @@ Which of these is not a good conductor? ## distilled water ## tap water ## salt 
 Which of the following devices converts electrical energy to heat? ## immersion heater ## fan ## bell ## radio ## Heater.
 A high rating fuse is replaced by a thick copper wire. This is dangerous because: ## it will not break the circuit on overload ## it will melt too soon ## it will not conduct ## it will not heat ## No protection.
 """), mc("""
-Which of the following is not a safety measure? ## using damaged wires ## using MCB ## using earth wire ## using insulated tools ## Damaged wires are dangerous.
+Which of the following is not a safety measure? ## using damaged wires ## using MCB ## using rubber mats ## using insulated tools ## Damaged wires are dangerous.
 An electrician wears rubber gloves because they: ## are insulators ## are conductors ## are costly ## are heavy ## Block current.
 Which arrangement correctly connects a cell and bulb? ## each bulb terminal connected to a different cell terminal ## both bulb terminals to the same cell terminal ## only one terminal connected ## no wires ## Complete path.
 The brightness of a bulb increases if: ## more cells are added in series ## a cell is removed ## the switch is opened ## the wire is cut ## More voltage.
-What happens if one of two bulbs connected in series burns out? ## the other goes off too ## the other glows more ## the other glows normally ## nothing ## Break in the single path.
+What happens if one of two bulbs connected in series burns out? ## the other goes off too ## the other glows more ## the other glows normally ## the cell is drained ## Break in the single path.
 In which device is the heating effect not wanted? ## laptop ## geyser ## iron ## toaster ## Heat is waste.
 Why are filament bulbs becoming less popular? ## waste much energy as heat ## too bright ## too cold ## too cheap ## Replaced by LEDs.
 A short circuit can be prevented by: ## proper insulation of wires ## using bare wires ## overloading ## wet hands ## Insulation.
-Which of these should be switched off before cleaning an appliance? ## the main switch ## nothing ## only the light ## only the plug ## Disconnect from supply.
+Which of these should be done before cleaning an electrical appliance? ## switch off the supply and remove the plug ## keep the switch on ## wet the plug ## touch the wires ## Disconnect from supply.
 A bulb needs the current through its filament because: ## the current heats it until it glows ## the filament needs water ## air makes it glow ## cell makes it cold ## Electrical energy converts to heat and light.
 """), mc("""
 A bulb uses a battery of two cells. If a third cell is added in series, the bulb: ## becomes brighter ## becomes dimmer ## goes off ## becomes cold ## More voltage.
@@ -204,12 +204,12 @@ A fuse wire should have ___ melting point than the copper wire. ## a lower ## a 
 The reason that coils in heaters are wound is to: ## fit a long wire in a small space ## look good ## save electricity ## give light ## Compact heating.
 A chain of fairy lights is arranged so that one fused bulb causes all lights to go off. This is because the bulbs are in: ## series ## parallel ## open circuit ## short circuit ## One path.
 Which of these is a sign of overheating of a socket? ## burning smell ## sweet smell ## cool feel ## green light ## Warning.
-Why is the earth wire provided in plugs? ## to carry leakage current safely to the ground ## to power appliances ## to heat appliances ## to light a bulb ## Safety.
+A fuse is connected in series with an appliance so that: ## the whole current passes through it ## it can light the bulb ## the cell gets charged ## the appliance gets double current ## Safety.
 """)]
 mB = """
 A student builds a tester with a cell, bulb and two wires. The bulb glows when a coin is placed but not with a plastic cap. Explain. ## Coin is a conductor, completing the circuit ## Plastic is an insulator
 Why is a coiled heating element better than a straight wire in a heater? ## Long wire fits in a small space ## More heat in a small region
-Why does a thin wire get hotter than a thick wire with the same current? ## Thin wire has higher resistance ## More heat is produced
+Why does a thin wire get hotter than a thick wire with the same current? ## A thin wire carries current less easily ## More heat is produced in a thin wire
 Why is a bulb with a broken filament called fused? ## Circuit breaks ## No current flows
 Why are cells not connected to opposite polarity in series? ## Voltages cancel ## Bulb does not glow
 How is an LED different from a filament bulb in the way it glows? ## LED emits light directly without heating a filament ## It wastes less energy
@@ -218,7 +218,7 @@ How does a fuse differ from an ordinary wire in a circuit? ## Has a low melting 
 What precaution should you take while replacing a fuse? ## Switch off the main supply ## Use the same rating
 Why do birds sitting on a bare power line not get a shock? ## No complete path through them to the ground ## They touch only one wire
 Why is it dangerous to fly kites near electric wires? ## Wet manja can conduct ## Can cause a shock
-Why is the heating coil of an iron made of an alloy instead of pure copper? ## Alloy has higher resistance ## Does not melt easily
+Why is the heating coil of an iron made of an alloy instead of pure copper? ## Alloy gets hot without melting ## Alloy does not rust easily
 """
 mC = """
 Four 1.5 V cells are joined in series to light a 6 V bulb. Does the bulb glow normally? Explain. ## Total voltage 6 V|1 ## Matches bulb rating|1 ## Bulb glows normally|1
@@ -246,11 +246,11 @@ Explain the heating effect of current with a simple experiment using a nichrome 
 Explain how a fuse and an MCB protect a home and why a wrong fuse is dangerous. ## Fuse melts on overload|1 ## MCB trips|1 ## Wrong fuse does not melt|1 ## Wires overheat|1 ## Fire risk|1
 Describe the construction of a torch, its circuit and why it stops working. ## Cells, bulb, switch, reflector|1 ## Closed switch completes circuit|1 ## Dead cells|1 ## Broken filament|1 ## Loose contacts|1
 Explain how batteries of cells are made and calculate the voltage for 3 and 5 cells of 1.5 V. ## Join + to - in series|1 ## 3 cells: 4.5 V|1 ## 5 cells: 7.5 V|1 ## Bulb brighter|1 ## Excess voltage can fuse a bulb|1
-Compare LED, filament bulb and CFL in energy use and heat produced. ## Filament: much heat|1 ## CFL: less|1 ## LED: least|1 ## LED lasts longer|1 ## Choose LED|1
+Compare LED and filament bulb in energy use and heat produced. ## Filament bulb: much heat|1 ## Filament bulb uses more energy|1 ## LED: least heat|1 ## LED lasts longer|1 ## Choose LED|1
 Describe how an electrician stays safe while repairing a socket. ## Switch off main supply|1 ## Use insulated tools|1 ## Wear rubber gloves|1 ## Check with a tester|1 ## Stand on dry insulated mat|1
-Explain what happens in a short circuit and why it is dangerous. ## Live and neutral wires touch|1 ## Very large current flows|1 ## Wires get very hot|1 ## Sparks and fire|1 ## Fuse or MCB cuts off|1
+Explain what happens in a short circuit and why it is dangerous. ## The two wires of the circuit touch|1 ## Very large current flows|1 ## Wires get very hot|1 ## Sparks and fire|1 ## Fuse or MCB cuts off|1
 Describe the factors that affect heating in a wire when current passes. ## Length|1 ## Thickness|1 ## Material|1 ## Amount of current|1 ## Time|1
-Explain how electricity reaches our homes from the power station in simple steps. ## Power station generates|1 ## Transmission lines|1 ## Transformers|1 ## Home meter|1 ## Main switch and fuse|1
+Describe the path of electricity inside a house from the main switch to an appliance. ## Main switch and fuse or MCB at the entry|1 ## Meter records the energy used|1 ## Wires carry electricity to sockets|1 ## Plug connects the appliance to the socket|1 ## Switch controls the appliance|1
 Explain why circuits at home have fuses or MCBs in different ratings for lights, geysers and ACs. ## Different appliances need different current|1 ## Rating suits the appliance|1 ## Protects from overload|1 ## Prevents false cut-offs|1 ## Safety|1
 Describe a circuit with a cell, a bulb, a switch and a fuse and explain the path of current. ## Cell to switch|1 ## Switch to fuse|1 ## Fuse to bulb|1 ## Bulb back to cell|1 ## If the fuse blows, the circuit breaks|1
 """
@@ -258,7 +258,7 @@ Describe a circuit with a cell, a bulb, a switch and a fuse and explain the path
 # ============================ HARD ============================
 hA = [mc("""
 A bulb rated 6 V is connected to a battery of three 1.5 V cells in series. The bulb will: ## glow dimly ## glow normally ## fuse ## not glow at all ## 4.5 V is less than the rated 6 V.
-A student connects five 1.5 V cells in series to a 6 V bulb. The bulb will: ## likely fuse due to 7.5 V ## glow normally ## not glow ## be dim ## Exceeds rating.
+A student connects five 1.5 V cells in series to a 6 V bulb. The bulb will: ## glow very bright and may fuse ## glow normally ## not glow ## be dim ## Exceeds rating.
 A chain of 10 decorative bulbs goes off when one bulb burns out. The bulbs are connected in: ## series ## parallel ## open circuit ## no circuit ## Single path.
 When a student removes one bulb from a string of decorative bulbs, all the bulbs go off. This shows that the circuit has: ## a single path for the current ## many separate paths ## no cell ## no wire ## The loop is broken.
 Which statement about a fuse wire is correct? ## its melting point is lower than that of the connecting wires ## its melting point is higher ## it never melts ## it is made of rubber ## Low melting.
@@ -292,15 +292,15 @@ Which of these is a good habit? ## replacing a blown fuse of the same rating aft
 """)]
 hB = """
 Explain why the filament of a bulb is made of a thin tungsten wire and not of copper. ## Tungsten has a very high melting point ## Copper would melt before glowing
-Why is the heating element usually a coil of nichrome and not of copper? ## Nichrome has high resistance ## It does not oxidise at high temperatures
+Why is the heating element usually a coil of nichrome and not of copper? ## Nichrome gets very hot when current passes ## It does not melt or oxidise easily at high temperatures
 Why can a 5 A fuse not be replaced with a 15 A fuse in a lighting circuit? ## 15 A fuse will not protect thin wires ## They may overheat
 How are cells connected to increase the voltage? Show with an example. ## Positive of one to negative of next ## 3 x 1.5 V = 4.5 V
 Why are the pins of a plug made of brass or copper? ## Metals are good conductors ## They carry current to the appliance
 Why does a bulb connected to a battery of three cells glow brighter than with one cell? ## Cells in series add their voltages ## Higher voltage drives more current through the filament
-Why is the switch always placed in the live wire at home? ## The appliance is not live when switched off ## It reduces the risk of shock
+Why is a switch connected in series with an appliance? ## It can cut off the current to the appliance ## It controls the appliance
 Why is it important that wires of the right thickness are used in the house wiring? ## Thin wires overheat ## Safe current carrying
 Why do electric sockets have covers for children's safety? ## Prevent touching live parts ## Avoid shocks
-Why is a house earthed? ## To carry current safely to the earth in a fault ## Prevent shock
+Why are the bodies of plugs and switches made of plastic? ## Plastic is an insulator ## It protects the user from shocks
 Why does a bulb in a circuit glow immediately when the switch is on? ## Current flows quickly through the circuit ## All parts conduct
 Explain why metals are used for making heating plates in toasters. ## Conduct and heat ## Can be shaped as coils
 """
@@ -311,11 +311,11 @@ A student wants to make a battery of 9 V using 1.5 V cells. How many cells are n
 Why does a bulb connected to a battery of cells in the wrong order not glow? ## Opposing cells reduce voltage|1 ## Little or no current|1 ## Filament does not heat|1
 Explain how a short circuit can start a fire. ## Large current|1 ## Wires heat|1 ## Insulation burns|1
 Describe a method to identify the conductors among liquids like lemon juice, sugar solution and salt solution. ## Dip tester ends|1 ## Bulb glows for conducting liquids|1 ## Lemon and salt solution conduct, sugar does not|1
-Why should an iron be used on a socket meant for heavy appliances rather than a thin wire? ## It needs a large current|1 ## Thin wiring may overheat|1 ## Risk of fire|1
+Why should heavy appliances be connected through thick wiring and not thin wiring? ## They need a large current|1 ## Thin wiring may overheat|1 ## Risk of fire|1
 Explain why a tungsten filament bulb glows white hot but an iron wire would not last. ## Iron would melt or burn|1 ## Tungsten has a high melting point|1 ## Bulb has inert gas|1
 A fuse of 10 A blew while using many appliances. Explain what to do. ## Switch off appliances|1 ## Replace the fuse with the same rating|1 ## Avoid overloading|1
 Explain how LED bulbs help reduce power plants' pollution. ## Use less energy|1 ## Less fuel burnt|1 ## Fewer emissions|1
-Why is distilled water not used for the tester but tap water works? ## Distilled has no ions|1 ## Tap water has dissolved salts|1 ## So it conducts|1
+Why is distilled water not used for the tester but tap water works? ## Distilled water has no dissolved salts|1 ## Tap water has dissolved salts|1 ## So it conducts|1
 Explain why a current of 4 A makes a wire hotter than 1 A in the same wire. ## More current more heat|1 ## Heat increases with current|1 ## Fuse chosen accordingly|1
 Describe the safe way of fixing a bulb in a holder. ## Switch off the supply|1 ## Dry hands|1 ## Use proper bulb|1
 Explain what a series circuit is, giving one disadvantage. ## One path|1 ## Same current|1 ## If one fails all stop|1
@@ -327,8 +327,8 @@ Why must we not use a bulb of higher wattage than the holder's rating? ## Overhe
 hD = """
 A string of ten small bulbs in series is connected to a battery and one bulb is fused. Explain what happens and how to find the faulty bulb. ## All bulbs go off|1 ## Only one path|1 ## Test each bulb with a tester|1 ## Replace the faulty one|1 ## Use a fresh bulb for check|1
 Plan an energy-saving programme for a home with five measures and say why each helps. ## Switch off unused devices|1 ## Use LED bulbs|1 ## Use daylight|1 ## Do not overload|1 ## Service appliances|1
-Design an experiment to show how the heating of a wire depends on its length or thickness. ## Same cells, wires of different length|1 ## Hold match heads or wax on wire|1 ## Observe time to heat|1 ## Compare|1 ## Safe handling|1
-Explain electrical safety in a school laboratory including wiring, fuse, earthing and first aid. ## Insulated wiring|1 ## Fuse and MCB|1 ## Earthing|1 ## Dry hands|1 ## Switch off and call help|1
+Design an experiment to show how the heating of a wire depends on its length or thickness. ## Same cells, wires of different length|1 ## Fix a small piece of wax on each wire|1 ## Observe how soon the wax melts|1 ## Compare|1 ## Safe handling|1
+Explain electrical safety in a school laboratory including wiring, fuse, switches and first aid. ## Insulated wiring|1 ## Fuse and MCB|1 ## Switches in good condition|1 ## Dry hands|1 ## Switch off and call help|1
 A bulb rated 4.5 V is to be lit with 1.5 V cells. Describe the circuit, voltage, and what happens if only 2 cells are used. ## 3 cells in series|1 ## Total 4.5 V|1 ## Bulb glows normally|1 ## 2 cells give 3 V|1 ## Bulb dim|1
 Discuss the working of a simple tester that can be made with a cell, a bulb and wires, and its use in finding conductors, including limitations. ## Tester shows conduction|1 ## Metals light the bulb|1 ## Poor conductors give a weak current|1 ## Needs good contacts|1 ## Cannot measure resistance|1
 Explain why electrical appliances carry safety marks such as ISI and how to read the cell and fuse ratings. ## Marks show quality|1 ## Safer products|1 ## Fuse rating matches use|1 ## Do not use higher rating|1 ## Check before buying|1
@@ -336,7 +336,7 @@ Discuss the causes of electrical fires and ways to prevent them. ## Overloading|
 Evaluate whether we should use metal or plastic for the body of a hair dryer and the heating plate. ## Heating plate: metal alloy|1 ## Body: plastic insulator|1 ## Reason: shock safety|1 ## Light weight|1 ## Heat resistant plastic|1
 Describe how the invention of electric cell and bulb changed life, and the role of safety rules. ## Light at night|1 ## Machines run|1 ## Communication|1 ## Rules prevent accidents|1 ## Careful use|1
 Discuss the advantages and limitations of heating effect of current. ## Used in iron, heater|1 ## Easy to control|1 ## Energy wasted in devices|1 ## Wire heating hazard|1 ## Use fuse|1
-Explain with a circuit diagram description how a fuse is connected and why in the live wire. ## In series with the appliance|1 ## In the live wire|1 ## Current passes through it|1 ## Melts on overload|1 ## Appliance isolated|1
+Explain how a fuse is connected in a circuit and why. ## In series with the appliance|1 ## Not across the appliance|1 ## Current passes through it|1 ## Melts on overload|1 ## Appliance isolated|1
 """
 
 TIERS = {"NCERT": tier(nA, nB, nC, nD), "Easy": tier(eA, eB, eC, eD), "Medium": tier(mA, mB, mC, mD), "Hard": tier(hA, hB, hC, hD)}

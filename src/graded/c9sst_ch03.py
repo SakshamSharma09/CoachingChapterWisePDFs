@@ -177,7 +177,7 @@ M_A = [
 "A fold mountain chain is most likely at a | convergent boundary between two continental plates | mid-ocean ridge | transform boundary | desert | Collision",
 "A rift or ridge in the middle of an ocean indicates | plates moving apart | plates colliding | plates sliding | hot desert | New crust",
 "Why are earthquakes common in Japan? | It lies along the Pacific Ring of Fire | It lies far from any plate boundary | It is built on thick glacial ice | It lies on a stable continental core | Plate boundaries",
-"How does oceanic crust differ from continental crust? | It is thinner, about 5-7 km | It is thicker, about 30-70 km | It is entirely liquid | It is made only of loose sediment | Oceanic crust",
+"How does oceanic crust differ from continental crust? | It is thinner, about 5-7 km | It is thicker, about 30-40 km | It is entirely liquid | It is made only of loose sediment | Oceanic crust",
 "The asthenosphere is important because it | is a partly molten layer that allows plates to move | forms the rigid top of the plates | is the solid inner core | produces ocean tides | Partially molten",
 "A tourist notes rock peeling in a hot desert after day-night temperature swings. This is | physical weathering | chemical weathering | biological weathering | deposition | Expansion and contraction",
 "Cracks widened by a banyan's roots represent | biological weathering | chemical weathering | glacial erosion | wind erosion | Living roots",

@@ -133,7 +133,7 @@ hA8 = [M4(t, c, w, "Reason with coordinates.") for t, c, w in [
 HARD_A = [hA1, hA2, hA3, hA4, hA5, hA6, hA7, hA8]
 HARD_B = ([QQ(f"The vertices of a right triangle are $O{P(0, 0)}$, $A{P(2*a, 0)}$ and $B{P(0, 2*b)}$. Find the circumcentre and the circumradius.", f"Circumcentre is the midpoint of $AB={P(a, b)}$", f"Radius $=OM=\\sqrt{{{a*a}+{b*b}}}={c}$") for a, b, c in TRI[:4]]
           + [QQ(f"The end points of a diameter of a circle are $A{P(*p)}$ and $B{P(p[0] + 2*a, p[1] + 2*b)}$. Find the centre and the radius.", f"Centre $={P(p[0] + a, p[1] + b)}$", f"$AB=2\\sqrt{{{a*a}+{b*b}}}={2*c}$, radius $={c}$") for (a, b, c), p in zip(TRI[4:8], [(1, 1), (-4, 2), (0, -5), (3, -3)])]
-          + [QQ(f"Find the distance between the points ${P(*p)}$ and ${P(*q)}$ and its square root form.", f"$d^2=({q[0]-p[0]})^2+({q[1]-p[1]})^2={d2(p, q)}$", f"$d={sur(d2(p, q))}$") for p, q in [((-7, 4), (2, -8)), ((5, -9), (-1, 2)), ((-3, -6), (6, 6)), ((8, 8), (-8, -4))]])
+          + [QQ(f"Find the distance between the points ${P(*p)}$ and ${P(*q)}$.", f"$d^2=({q[0]-p[0]})^2+({q[1]-p[1]})^2={d2(p, q)}$", f"$d={sur(d2(p, q))}$") for p, q in [((-7, 4), (2, -8)), ((5, -9), (-1, 2)), ((-3, -6), (6, 6)), ((8, 8), (-8, -4))]])
 HARD_C = ([QQ(f"Find the points on the $x$-axis whose distance from $A{P(a0, b)}$ is ${c}$ units.", f"Let the point be $(x,0)$: $(x{sgn(-a0)})^2+{b*b}={c*c}$", f"$(x{sgn(-a0)})^2={a*a}$", f"$x={a0 + a}$ or $x={a0 - a}$") for (a, b, c), a0 in zip(TRI[8:14], [2, -1, 4, 0, -5, 3])]
           + [QQ(f"Three vertices of a rectangle $ABCD$ are $A{P(*A)}$, $B{P(A[0] + m*3, A[1] + m*4)}$ and $D{P(A[0] - n*4, A[1] + n*3)}$. Find $C$ and the diagonal $AC$.",
                 f"$C=B+D-A={P(A[0] + 3*m - 4*n, A[1] + 4*m + 3*n)}$", f"$AB={5*m}$, $AD={5*n}$", f"$AC=\\sqrt{{{25*m*m}+{25*n*n}}}={5 * rt(m*m + n*n)}$")
@@ -146,3 +146,6 @@ HARD_D = ([QQ(f"Show that $A{P(*A)}$, $B{P(A[0] + a, A[1] + b)}$, $C{P(A[0] + a 
              for x0, p, q in [(6, 3, 4), (-5, 5, 12), (7, 8, 6), (-8, 7, 24), (10, 4, 3), (-3, 12, 5)]])
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

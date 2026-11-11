@@ -23,7 +23,7 @@ nA = [MC([
  ("In the food chain grass, deer, tiger, the primary consumer is:", "deer", "grass", "tiger", "bacteria", "Eats producers."),
  ("In the food chain grass, deer, tiger, the top carnivore is:", "tiger", "deer", "grass", "fungi", "Top of the chain."),
  ("Energy flows in a food chain:", "from producers to consumers", "from consumers to producers", "in a cycle", "from decomposers to the Sun", "One way."),
- ("Of the energy available at one trophic level, about how much passes to the next?", "10 per cent", "90 per cent", "50 per cent", "100 per cent", "Rest is lost as heat."),
+ ("Compared with the energy available at one trophic level, the energy that passes to the next level is:", "much less", "slightly more", "equal", "much more", "Most of the energy is lost as heat in life processes."),
  ("Food chains are usually short because:", "much energy is lost at each step", "animals are lazy", "plants are few", "space is short", "Energy loss."),
  ("An organism that depends on another and harms it is a:", "parasite", "producer", "decomposer", "herbivore", "Lives at the cost of the host."),
  ]), MC([
@@ -56,7 +56,7 @@ nC = [
  Z("Draw in words a pond ecosystem and name its biotic and abiotic components.", "Biotic: algae, fish, frogs, bacteria|1", "Abiotic: water, light, temperature, minerals|1", "They interact with each other|1"),
  Z("Explain the role of producers, consumers and decomposers in an ecosystem.", "Producers make food|1", "Consumers eat producers or other consumers|1", "Decomposers recycle nutrients|1"),
  Z("Explain the flow of energy in an ecosystem. Why is it called one-way?", "Energy enters through sunlight and producers|1", "Passes to consumers|1", "Lost as heat; cannot be reused by producers|1"),
- Z("Explain the 10 per cent rule with an example.", "Only about 10 per cent energy passes to the next level|1", "1000 J in grass gives about 100 J in deer|1", "Then about 10 J in tiger|1"),
+ Z("Why does the amount of energy decrease along a food chain? Give three points.", "Organisms use energy in life activities|1", "Much energy is lost as heat|1", "Only a small part passes to the next level|1"),
  Z("Explain the water cycle in brief.", "Evaporation from water bodies and transpiration|1", "Condensation forms clouds|1", "Rain returns water to land and sea|1"),
  Z("Explain how carbon dioxide is exchanged between plants and animals.", "Plants take CO2 in photosynthesis|1", "Animals and plants release CO2 in respiration|1", "Balance is maintained|1"),
  Z("Explain nitrogen fixation and its importance.", "Bacteria convert atmospheric nitrogen to usable form|1", "Rhizobium in root nodules|1", "Plants use it to make proteins|1"),
@@ -75,7 +75,7 @@ nC = [
 nD = [
  Z("Describe the components of an ecosystem with examples and show how they are interdependent.", "Biotic: producers, consumers, decomposers|1", "Abiotic: light, water, air, soil|1", "Producers need abiotic factors|1", "Consumers depend on producers|1", "Decomposers recycle matter|1"),
  Z("Describe food chains and food webs with two examples and explain why a food web is more stable than a food chain.", "Chain: grass, deer, tiger|1", "Chain: algae, small fish, big fish|1", "Web has many links|1", "If one organism is lost, alternatives exist|1", "Energy passes at each trophic level|1"),
- Z("Explain the flow of energy through the trophic levels using a pyramid and the 10 per cent rule. Calculate energy at each level starting with 10000 J in producers.", "Producers 10000 J|1", "Primary consumers 1000 J|1", "Secondary consumers 100 J|1", "Tertiary consumers 10 J|1", "Energy is lost as heat|1"),
+ Z("Explain the flow of energy through the food chain grass, grasshopper, frog, snake. Why do such chains rarely have more than four or five links?", "Sun is the source of energy|1", "Grass (producer) traps it by photosynthesis|1", "Energy passes to grasshopper, frog and snake|1", "Part is lost as heat at every step|1", "So too little energy is left for further links|1"),
  Z("Explain the carbon cycle with the processes involved.", "Photosynthesis removes CO2|1", "Respiration adds CO2|1", "Decomposition releases CO2|1", "Burning fuels adds CO2|1", "Oceans and forests are sinks|1"),
  Z("Explain the nitrogen cycle in brief and the role of bacteria, lightning and the farmer.", "Nitrogen fixation by bacteria|1", "Lightning also fixes nitrogen|1", "Plants absorb nitrates|1", "Animals get it by eating plants|1", "Decomposers return nitrogen to the soil|1"),
  Z("Describe the effects of human activities on ecosystems such as deforestation, pollution, overfishing and urbanisation.", "Deforestation|1", "Pollution|1", "Overfishing|1", "Urbanisation|1", "Climate change|1"),
@@ -105,7 +105,7 @@ eA = [MC([
  ("The first organism in a food chain is a:", "producer", "consumer", "decomposer", "predator", "Plants."),
  ("The top animal in a food chain is a:", "top carnivore", "producer", "herbivore", "decomposer", "Eaten by none."),
  ("Energy lost in the food chain is as:", "heat", "light only", "sound", "magnet", "Heat."),
- ("Percentage of energy passed on is:", "10 per cent", "50 per cent", "90 per cent", "100 per cent", "Rule."),
+ ("Of the energy at one trophic level, most is:", "used and lost as heat", "passed on to the next level", "returned to the Sun", "stored in the soil", "Only a small part is passed on."),
  ("Plants take in:", "carbon dioxide", "only oxygen", "only nitrogen", "helium", "For photosynthesis."),
  ("Plants give out:", "oxygen", "only CO2", "only nitrogen", "helium", "During photosynthesis."),
  ("Bees help flowers in:", "pollination", "photosynthesis", "respiration", "digestion", "Transfer of pollen."),
@@ -115,7 +115,7 @@ eA = [MC([
  ("Planting of trees is:", "afforestation", "deforestation", "pollution", "erosion", "Adds forests."),
  ("Dumping of waste in rivers causes:", "water pollution", "air pollution", "soil erosion only", "rain", "Pollution."),
  ("Burning of fuels causes:", "air pollution", "water pollution only", "more rain", "no change", "Smoke and CO2."),
- ("A place where a national park exists protects:", "wildlife", "no one", "only humans", "machines", "Conservation."),
+ ("A place where a national park exists protects:", "wildlife", "only crops", "only humans", "only machines", "Conservation."),
  ("Plastic waste is harmful because it is:", "non-biodegradable", "biodegradable", "a nutrient", "a producer", "Does not decompose."),
  ("Biodegradable waste is broken down by:", "decomposers", "producers", "consumers", "wind", "Microbes."),
  ("Rhizobium is found in the root nodules of:", "pulses", "wheat", "rice", "cotton", "Nitrogen fixers."),
@@ -159,7 +159,7 @@ eC = [
 eD = [
  Z("Describe the components of an ecosystem.", "Biotic|1", "Abiotic|1", "Producers|1", "Consumers|1", "Decomposers|1"),
  Z("Explain the food chain with examples.", "Definition|1", "Grass-deer-tiger|1", "Trophic levels|1", "Energy flow|1", "Decomposers|1"),
- Z("Explain the flow of energy in an ecosystem.", "Sun|1", "Producers|1", "Consumers|1", "10 per cent|1", "Heat loss|1"),
+ Z("Explain the flow of energy in an ecosystem.", "Sun is the source|1", "Producers trap solar energy|1", "Consumers get energy by eating|1", "Energy is lost as heat at each level|1", "The flow is one-way|1"),
  Z("Describe the effects of deforestation.", "Loss of habitat|1", "Soil erosion|1", "Floods|1", "Climate change|1", "Less oxygen|1"),
  Z("Describe the water cycle.", "Evaporation|1", "Transpiration|1", "Condensation|1", "Rain|1", "Run-off|1"),
  Z("Describe the carbon cycle.", "Photosynthesis|1", "Respiration|1", "Decay|1", "Burning|1", "Balance|1"),
@@ -175,7 +175,7 @@ eD = [
 mA = [MC([
  ("In the food chain: phytoplankton, zooplankton, small fish, big fish, the secondary consumer is:", "small fish", "zooplankton", "big fish", "phytoplankton", "Third level."),
  ("A sudden increase in the population of rabbits in a grassland may occur if:", "foxes are removed", "grass is removed", "rains are heavy", "owls are added", "Fewer predators."),
- ("If 5000 J of energy is available to producers, the energy reaching secondary consumers is about:", "50 J", "500 J", "5 J", "2500 J", "5000 x 10% x 10%."),
+ ("In a food chain, the amount of energy available is greatest at the:", "producer level", "primary consumer level", "secondary consumer level", "top carnivore level", "Energy decreases at each step."),
  ("In the food web, an organism that eats both plants and animals occupies:", "more than one trophic level", "only the first", "only the third", "no level", "Omnivore."),
  ("The greatest number of individuals in a food chain is usually of:", "producers", "herbivores", "carnivores", "top carnivores", "Pyramid of numbers."),
  ("Which of the following would be a secondary consumer?", "a frog eating insects", "a cow eating grass", "a plant", "a decomposer", "Eats a herbivore."),
@@ -189,7 +189,7 @@ mA = [MC([
  ("Which is the main cause of the rise in the CO2 level in the atmosphere?", "burning of fossil fuels and deforestation", "photosynthesis", "pollination", "rainfall", "Human activity."),
  ("Plants lose water vapour through tiny pores called:", "stomata", "roots", "nodules", "petals", "Transpiration."),
  ("Which process returns CO2 to the air?", "respiration", "photosynthesis", "pollination", "fertilisation", "Oxidation of food."),
- ("Legume plants enrich the soil with:", "nitrogen compounds", "carbon", "phosphorus only", "lead", "Rhizobium."),
+ ("Legume plants enrich the soil with:", "nitrogen compounds", "carbon", "phosphorus only", "sulphur only", "Rhizobium."),
  ("Crop rotation with legumes helps to:", "restore soil nitrogen", "reduce rain", "kill all insects", "increase salt", "Replenishes nitrogen."),
  ("Lightning contributes to the nitrogen cycle by:", "converting nitrogen to oxides", "making sugar", "fixing CO2", "cooling", "Natural fixation."),
  ("Acid rain is caused mainly by:", "oxides of sulphur and nitrogen", "oxygen", "carbon only", "hydrogen", "Pollutants."),
@@ -208,7 +208,7 @@ mA = [MC([
  ])]
 mB = [
  Z("Why are there fewer top carnivores than herbivores in an ecosystem?", "Energy decreases at each trophic level|1", "Less energy is available to support them|1"),
- Z("If a grass field has 20000 J of energy, find the energy available to the tertiary consumer by the 10 per cent rule.", "Primary 2000 J, secondary 200 J|1", "Tertiary = 20 J|1"),
+ Z("Why is the flow of energy in an ecosystem called one-way?", "Energy passes from the Sun to producers and then to consumers|1", "Energy lost as heat cannot be used again by producers|1"),
  Z("Why do aquarium owners keep green plants in the tank?", "Plants release oxygen|1", "Take in carbon dioxide|1"),
  Z("Why is a food web more stable than a food chain?", "Organisms have alternative food sources|1", "Loss of one species does not collapse the system|1"),
  Z("Why does overuse of pesticides harm an ecosystem?", "Kills useful insects as well|1", "Passes along the food chain|1"),
@@ -224,7 +224,7 @@ mC = [
  Z("Construct a food chain of four organisms in a pond and identify the trophic level of each.", "Algae: producer|1", "Zooplankton: primary consumer|1", "Fish and heron: secondary and tertiary consumers|1"),
  Z("Explain what happens to a food web if the population of grasshoppers decreases sharply. Use frogs and snakes.", "Frogs lose food and decrease|1", "Snakes get less food from frogs|1", "Plants may increase|1"),
  Z("A student says 'decomposers are the enemies of living things.' Respond using three points.", "Decompose only dead matter|1", "Return nutrients to soil|1", "Keep environment clean|1"),
- Z("Explain how eating lower in the food chain can feed more people. Use the 10 per cent rule.", "Plants hold more energy than animals|1", "Energy loses 90 per cent at every step|1", "Eating plants is more efficient|1"),
+ Z("Explain how eating lower in the food chain can feed more people.", "Plants (producers) hold more energy than animals|1", "A lot of energy is lost at every step from plants to animals|1", "So eating plants directly is more efficient|1"),
  Z("Explain why the carbon dioxide level rises in a closed jar with an animal but falls with a plant in light.", "Animal respires giving out CO2|1", "Plant in light photosynthesises using CO2|1", "Balance can occur|1"),
  Z("Explain how bacteria and fungi help in making compost and why compost is good for plants.", "They decompose kitchen and garden waste|1", "Release nutrients|1", "Improves soil structure|1"),
  Z("State how excessive hunting of wolves in a forest would affect deer and the forest vegetation.", "Deer population rises|1", "Overgrazing destroys vegetation|1", "Ecosystem degraded|1"),
@@ -242,7 +242,7 @@ mC = [
 ]
 mD = [
  Z("A grassland has grass, grasshoppers, mice, frogs, snakes and hawks. Draw the food web in words, list the chains, and predict the effect of removing the snakes.", "Grass to grasshopper to frog to snake to hawk|1", "Grass to mouse to snake to hawk|1", "Hawk eats mice and snakes|1", "Without snakes mice and frogs increase|1", "Hawks have fewer prey; grass is overgrazed|1"),
- Z("Explain the energy flow using a pyramid with 20000 J in producers. Compute each level, state the assumption and explain why chains are short.", "Producer 20000 J|1", "Herbivore 2000 J|1", "Carnivore 200 J, top carnivore 20 J|1", "10 per cent rule assumption|1", "Energy lost as heat limits chain length|1"),
+ Z("Draw (in words) an energy pyramid for a grassland and explain why a food chain cannot have many links.", "Producers (grass) form the broad base with most energy|1", "Herbivores form the next level with less energy|1", "Carnivores and top carnivores form higher, narrower levels|1", "Energy is lost as heat at every step|1", "So little energy remains for many more links|1"),
  Z("Explain the carbon and oxygen balance in the biosphere including photosynthesis, respiration, decomposition and burning. What happens if deforestation continues?", "Photosynthesis takes CO2 and gives oxygen|1", "Respiration gives CO2|1", "Decomposition and burning give CO2|1", "Deforestation reduces CO2 uptake|1", "CO2 rises, global warming|1"),
  Z("Explain the nitrogen cycle with the processes of fixation, absorption, passage along food chains, and return, and the role of legumes in farming.", "Nitrogen gas in air|1", "Bacteria and lightning fix it|1", "Plants absorb nitrates|1", "Animals eat plants|1", "Decomposers return nitrogen; legumes enrich soil|1"),
  Z("Describe the causes and effects of water pollution on a river ecosystem and measures to reduce it.", "Sewage, industrial waste|1", "Fertiliser run-off|1", "Dissolved oxygen falls|1", "Fish die, disease spreads|1", "Treatment plants, no dumping|1"),
@@ -259,7 +259,7 @@ mD = [
 hA = [[
  AR("Removing top carnivores from a forest can harm the whole ecosystem.", "Herbivore numbers increase and overgraze the vegetation.", "a", "R explains A."),
  AR("Energy flow in an ecosystem is unidirectional.", "Energy lost as heat cannot be reused by producers.", "a", "R explains A."),
- AR("Food chains rarely have more than four or five trophic levels.", "About 90 per cent of energy is lost at each trophic level.", "a", "R explains A."),
+ AR("Food chains rarely have more than four or five trophic levels.", "Most of the energy is lost as heat at each trophic level.", "a", "R explains A."),
  AR("Decomposers are essential for the recycling of nutrients.", "They convert dead organic matter into simple inorganic substances.", "a", "R explains A."),
  AR("Plants are called producers.", "They obtain food by eating other organisms.", "c", "A is true; R is false."),
  AR("A food web is more stable than a food chain.", "A food web has alternate pathways for energy flow.", "a", "R explains A."),
@@ -268,8 +268,8 @@ hA = [[
  AR("Deforestation increases the CO2 concentration in the atmosphere.", "Trees take in CO2 during photosynthesis.", "a", "Fewer trees, less CO2 uptake."),
  AR("Wolves were reintroduced into a national park to restore balance.", "Wolves control the numbers of herbivores like elk.", "a", "R explains A."),
  ], MC([
- ("A food chain has producers with 50000 J. If it has 5 levels (producers, primary, secondary, tertiary, quaternary), the energy at the quaternary level is:", "5 J", "50 J", "500 J", "0.5 J", "Divide by 10 four times."),
- ("In a sample ecosystem, 1 kg of tertiary consumer needs about how many kg of producers, using 10 per cent rule on biomass?", "1000 kg", "100 kg", "10 kg", "10000 kg", "Three steps of 10."),
+ ("In the food chain grass, grasshopper, frog, snake, the energy available is least at the level of the:", "snake", "grass", "grasshopper", "frog", "Energy decreases at each step."),
+ ("Producers form the broad base of an ecosystem pyramid because they:", "support all the other levels and hold the most energy", "are the largest animals", "eat the consumers", "do not need sunlight", "All other organisms depend on producers."),
  ("If a pesticide kills all the frogs in a field, the number of insects will most likely:", "increase", "decrease", "stay zero", "become constant", "Fewer predators."),
  ("A lake in which the algae grow excessively after fertiliser run-off will show:", "a decrease in dissolved oxygen after the algae die", "increase in fishes", "clear water", "cool water", "Eutrophication."),
  ("The population of an herbivore falls in a grassland. Which change is LEAST likely?", "increase of the predators", "decrease of the predators", "increase of grass", "decline in energy at the next level", "Predators lose food."),
@@ -291,7 +291,7 @@ hA = [[
  ("A sustainable development goal is to:", "meet present needs without harming the future", "use all resources now", "stop all development", "build on forests", "Definition."),
  ])]
 hB = [
- Z("Calculate the energy available to the primary consumer, secondary and tertiary if producers have 100000 J (10 per cent rule).", "Primary 10000 J, secondary 1000 J|1", "Tertiary = 100 J|1"),
+ Z("Name the trophic levels in the food chain grass, deer, tiger and state the level that has the least energy.", "Grass is the producer; deer the primary consumer; tiger the secondary consumer (top carnivore)|1", "The tiger level has the least energy|1"),
  Z("Why can heavy use of pesticides in fields harm the birds that feed on insects there?", "Birds eat poisoned insects|1", "Poison passes along the food chain|1"),
  Z("Why are the grassland and forest food chains in the tropics longer than in the polar regions?", "More producer energy in the tropics|1", "More niches and species|1"),
  Z("State why green plants in a pond are more in number than fish.", "Energy decreases up the chain|1", "Fish need many plants|1"),
@@ -305,7 +305,7 @@ hB = [
  Z("What is meant by the term 'sustainable use of resources'? Give one example.", "Using resources without exhausting them|1", "Rainwater harvesting|1"),
 ]
 hC = [
- Z("A pond has 1000 kg of algae. By the 10 per cent biomass rule, find the maximum mass of tertiary consumers it can support.", "Zooplankton 100 kg|1", "Small fish 10 kg|1", "Big fish 1 kg|1"),
+ Z("Why are there fewer top carnivores than herbivores in an ecosystem? Give three points.", "Energy decreases at each trophic level|1", "A small amount of energy reaches the top level|1", "So only a few top carnivores can be supported|1"),
  Z("A farmer sprays an insecticide that kills all insects in a field. Predict three consequences.", "Pollinators die, less crop yield|1", "Predators of pests die|1", "Birds starve|1"),
  Z("Explain how the loss of habitat leads to the extinction of species with the example of the tiger.", "Forest cut reduces space|1", "Prey decreases|1", "Fewer tigers|1"),
  Z("Explain the role of top predators in controlling herbivore populations and their effect on vegetation.", "Predators eat herbivores|1", "Herbivore numbers kept stable|1", "Vegetation is preserved|1"),

@@ -27,13 +27,13 @@ Magnetic materials include: ## iron, nickel, cobalt ## copper, gold, silver ## w
 Which is NOT a magnetic material? ## aluminium foil ## iron nail ## steel spoon ## nickel ## Aluminium is not attracted.
 A magnet attracts an iron pin through a sheet of paper because: ## magnetic force acts through paper ## paper is magnetic ## the pin is light ## paper is iron ## Magnetic force acts across non-magnetic materials.
 """), mc("""
-Why are bar magnets stored in pairs with their unlike poles on the same side and iron pieces across the ends? ## to keep them from losing magnetism ## to make them heavier ## to rust them ## to cool them ## Keepers preserve magnetism.
+Why are bar magnets stored in pairs with opposite poles side by side and iron pieces (keepers) across the ends? ## to keep them from losing magnetism ## to make them heavier ## to rust them ## to cool them ## Keepers preserve magnetism.
 Magnets should be kept away from: ## mobile phones and credit cards ## books ## chairs ## pillows ## They may damage magnetic data.
 A magnetic compass is used by: ## sailors ## chefs ## weavers ## potters ## They find directions at sea.
 Which of these tells you that an object is a magnet? ## it repels a known magnet ## it is attracted to a magnet ## it is heavy ## it is shiny ## Only a magnet can repel another magnet.
-Attraction between a magnet and a piece of iron happens: ## always ## never ## only in the dark ## only at night ## Magnetic force attracts iron.
+A magnet attracts a piece of iron: ## even without touching it ## only when touching it ## only in the dark ## only when the iron is hot ## Magnetic force attracts iron.
 Which of these is the strongest part of a bar magnet? ## the poles ## the middle ## the surface ## the label ## Poles attract most iron filings.
-Iron filings sprinkled on a magnet gather mostly at: ## the ends ## the middle ## nowhere ## the sides only ## They cluster at the poles.
+Iron filings sprinkled on a magnet gather mostly at: ## the ends ## the middle ## uniformly all along it ## the sides only ## They cluster at the poles.
 Early sailors found a naturally occurring stone with magnetic properties called: ## lodestone ## limestone ## sandstone ## soapstone ## Lodestone is a natural magnet.
 Which statement about magnetic force is true? ## it can act from a distance ## it needs contact always ## it works only on plastics ## it acts only in water ## Non-contact force.
 Which of these items can be picked up by a magnet? ## steel paper clip ## wooden pencil ## glass beads ## plastic cap ## Steel contains iron.
@@ -65,7 +65,7 @@ What would happen if you bring the north pole of a magnet near the south pole of
 Why is a magnetic needle used in a compass? ## It is a small magnet|1 ## It turns freely|1 ## It settles in the north-south direction|1
 Explain how an iron nail and a magnet can be distinguished using another magnet. ## Magnet repels one end of another magnet|1 ## Iron nail is only attracted|1 ## Repulsion shows a magnet|1
 How can you show that magnetic force acts through other materials? ## Place paper between magnet and pin|1 ## Pin is still attracted|1 ## Force passes through non-magnetic sheets|1
-Describe how iron filings help us see a magnetic field. ## Sprinkle filings around the magnet|1 ## They line up in curved lines|1 ## Lines are densest near the poles|1
+How do iron filings help us find the poles of a magnet? ## Roll the magnet in iron filings|1 ## Filings cling mostly at the ends|1 ## The ends are the poles|1
 Why does the magnetic compass needle not point to the north exactly in the presence of a magnet nearby? ## The nearby magnet attracts the needle|1 ## Its force is stronger than Earth's|1 ## Needle is deflected|1
 Give three examples of how magnets are used at home. ## Refrigerator door|1 ## Pencil box closer|1 ## Speaker|1
 Explain what a magnetic force is. ## A force by a magnet|1 ## Acts without touching|1 ## Can attract or repel|1
@@ -80,7 +80,7 @@ Explain the laws of attraction and repulsion with a suitable activity. ## Suspen
 Describe the different ways of losing magnetism and the proper storage of magnets. ## Heating|1 ## Hammering|1 ## Dropping|1 ## Keep in pairs|1 ## Place keepers|1
 Explain the uses of magnets in daily life and in industry with five examples. ## Compass|1 ## Fridge door|1 ## Loudspeaker|1 ## Cranes lifting scrap iron|1 ## Magnetic toys|1
 What is a magnetic compass? Describe its parts and how to use it to find directions. ## Magnetised needle on a pivot|1 ## Dial with directions|1 ## Hold it flat|1 ## Needle points north|1 ## Rotate the dial to match N|1
-Describe how iron filings show the pattern around a bar magnet. ## Place paper on the magnet|1 ## Sprinkle iron filings|1 ## Tap the paper|1 ## Filings arrange in curves|1 ## They crowd near the poles|1
+Describe an activity to show that the poles are the strongest parts of a bar magnet, using iron filings. ## Spread iron filings on a sheet|1 ## Roll the bar magnet in them|1 ## Lift the magnet|1 ## Filings cling thickly near the ends|1 ## Very few cling to the middle|1
 Explain the discovery of magnets by ancient people and their use. ## Natural magnet called lodestone|1 ## It attracted iron|1 ## It pointed north-south when hung|1 ## Used for navigation|1 ## Led to the compass|1
 Explain with examples how magnets can be used to separate materials. ## Iron from sand|1 ## Iron from waste|1 ## Steel from scrap|1 ## Magnet picks only magnetic items|1 ## Others are left behind|1
 Explain what happens when a bar magnet is cut into pieces. Describe poles formed. ## Each piece is a magnet|1 ## Each has N and S pole|1 ## Smaller pieces remain magnets|1 ## Poles cannot be isolated|1 ## Strength decreases|1
@@ -113,13 +113,13 @@ Hammering a magnet makes it: ## weak ## strong ## shine ## bigger ## Hammering w
 """), mc("""
 Which one of these will be picked by a magnet? ## iron nail ## rubber ## stone ## cloth ## Iron.
 Which one will not be picked by a magnet? ## coin of aluminium ## steel clip ## iron pin ## iron nail ## Aluminium is non-magnetic.
-A magnet is used to separate iron from: ## sand ## iron ## steel ## nickel ## Sand is non-magnetic.
+A magnet can be used to separate iron filings from: ## sand ## steel nails ## nickel pieces ## cobalt pieces ## Sand is non-magnetic.
 A freely hanging magnet stays in the: ## north-south direction ## east-west direction ## any direction ## up-down ## North-south.
 The north pole of a magnet points towards the: ## geographic north ## geographic south ## east ## west ## North-seeking.
 Magnets should be stored with: ## keepers ## flames ## water ## salt ## Keepers help.
 Magnets can affect a: ## mobile phone ## wooden table ## cotton cloth ## paper ## May damage electronics.
-A magnetic compass can be used by: ## a traveller ## a baby ## a fish only ## a plant ## Travellers.
-A magnet attracts through: ## paper ## nothing ## nowhere ## only metal ## Paper does not block.
+A magnetic compass helps a trekker to find: ## direction ## time ## speed ## temperature ## Travellers.
+Can a magnet attract an iron pin through a sheet of paper? ## yes, the force acts through paper ## no, paper blocks it completely ## only if the paper is wet ## only if the paper is black ## Paper does not block.
 Magnet sticks to the fridge as the door is made of: ## iron or steel ## wood ## plastic ## glass ## Steel body.
 """)]
 eB = """
@@ -157,7 +157,7 @@ What is meant by attraction? ## Pulling together|1 ## Magnet pulls iron|1 ## Opp
 What is repulsion? ## Pushing away|1 ## Like poles repel|1 ## It tells a magnet from iron|1
 """
 eD = """
-Write five magnetic objects and five non-magnetic objects (any five in total with groups). ## Magnetic: nail|1 ## Magnetic: pin|1 ## Non-magnetic: wood|1 ## Non-magnetic: plastic|1 ## Non-magnetic: rubber|1
+Write two magnetic objects and three non-magnetic objects. ## Magnetic: nail|1 ## Magnetic: pin|1 ## Non-magnetic: wood|1 ## Non-magnetic: plastic|1 ## Non-magnetic: rubber|1
 Describe an activity to test magnetic and non-magnetic materials. ## Take objects|1 ## Bring magnet near each|1 ## See which stick|1 ## Note in a table|1 ## Conclude|1
 Write five uses of magnets. ## Compass|1 ## Fridge door|1 ## Magnetic board|1 ## Toys|1 ## Cranes|1
 Explain how to find directions with a compass. ## Keep it flat|1 ## Wait for needle to rest|1 ## Needle points north|1 ## Turn dial N to the needle|1 ## Read other directions|1
@@ -168,7 +168,7 @@ Explain the repulsion and attraction between magnets. ## Hang one magnet|1 ## Br
 Explain what happens when you break a magnet. ## Two magnets form|1 ## Each has two poles|1 ## They still attract iron|1 ## Cutting does not give single poles|1 ## They are weaker|1
 Describe the discovery of magnets. ## A stone attracted iron|1 ## Called lodestone|1 ## People hung it|1 ## It pointed north-south|1 ## Used for sailing|1
 Describe how to separate iron pins from sand. ## Mix them|1 ## Move magnet over mixture|1 ## Pins stick|1 ## Remove pins|1 ## Sand stays|1
-Describe how iron filings show the poles of a magnet. ## Place magnet under paper|1 ## Sprinkle filings|1 ## Tap|1 ## Filings gather at the ends|1 ## Ends are poles|1
+Describe how iron filings show the poles of a magnet. ## Spread filings on a sheet|1 ## Roll the magnet in them|1 ## Lift the magnet|1 ## Filings cling at the ends|1 ## Ends are poles|1
 """
 
 # ============================ MEDIUM ============================
@@ -177,9 +177,9 @@ A magnet is brought near an unknown rod. It is attracted at both ends. The rod i
 A rod repels the north pole of a magnet. The end of the rod near the north pole is: ## north pole ## south pole ## neutral ## non-magnetic ## Like poles repel.
 Two magnets attract when their poles face each other. The poles are: ## unlike ## like ## both north ## both south ## Opposite poles attract.
 A bar magnet suspended by a thread rests with its marked end pointing north. That end is its: ## north-seeking pole ## south pole ## centre ## neutral ## North pole.
-If one end of a needle attracts the north pole of a bar magnet, that end is a: ## south pole ## north pole ## neutral ## demagnetised ## Unlike poles attract.
-Iron filings arrange themselves around a bar magnet along: ## curved lines ## straight lines only ## circles around the pole ## no pattern ## Field lines.
-The magnetic lines of force around a bar magnet are closest together near the: ## poles ## middle ## outside ## paper ## Field is strongest there.
+A magnetised needle has one end that is attracted by the north pole of a bar magnet. That end is a: ## south pole ## north pole ## neutral ## demagnetised ## Unlike poles attract.
+A bar magnet is rolled in iron filings. Which part picks up the fewest filings? ## the middle ## the north pole ## the south pole ## both ends equally ## Field lines.
+Which part of a bar magnet picks up the most iron pins? ## the poles ## the middle ## the label ## the flat sides near the middle ## Field is strongest there.
 Which of these is a way to magnetise a steel needle? ## stroke it with a magnet in one direction ## hit it ## heat it ## paint it ## Stroking aligns small magnets.
 A compass needle placed near a bar magnet is deflected because: ## the magnet's field acts on it ## air pushes it ## wind blows it ## heat moves it ## Magnetic force.
 Why do we use steel in making permanent magnets? ## it holds magnetism for long ## it is soft ## it is cheap ## it is transparent ## Steel retains magnetism.
@@ -212,7 +212,7 @@ How can you tell whether a bar of iron or a magnet has been given to you without
 Why do magnets of strong strength stick together? ## Opposite poles attract ## Force is large when close
 Describe why a freely suspended magnet is used as a compass. ## It turns to north-south ## We can mark directions
 What would happen if two south poles are brought together? ## They repel ## Like poles repel
-Why does an iron nail kept near a magnet for a long time become weakly magnetic? ## It gets magnetised by induction ## Its tiny magnets align
+Why does an iron nail kept near a magnet for a long time become weakly magnetic? ## The magnet makes it a weak magnet ## Contact with the magnet gives it magnetism
 Why are electronic gadgets kept away from magnets? ## Magnetic force can erase data ## It disturbs circuits
 Why is a keeper placed on magnets? ## It closes the poles ## Prevents loss of magnetism
 Which is stronger, a magnet's pull at the pole or at the middle? Explain. ## Pole ## Magnetic force is concentrated there
@@ -229,7 +229,7 @@ Draw (by words) the pattern of iron filings around a bar magnet. ## Curves from 
 A magnet loses its strength after being heated. Explain. ## Heat disturbs alignment|1 ## Tiny magnets become random|1 ## So the magnet weakens|1
 How can the poles of an unmarked bar magnet be identified with another marked magnet? ## Bring the marked N pole near an end|1 ## If attracted, that end is S|1 ## If repelled, that end is N|1
 Why does a suspended bar magnet oscillate before settling? ## It is pushed by Earth's field|1 ## Overshoots north-south|1 ## Friction stops it finally|1
-Why are cranes with electromagnets (strong magnets) used in scrapyards? ## They lift iron scrap|1 ## Non-magnetic scrap stays|1 ## They separate scrap easily|1
+Why are cranes with powerful magnets used in scrapyards? ## They lift iron scrap|1 ## Non-magnetic scrap stays|1 ## They separate scrap easily|1
 Explain how magnetic force differs from a push or pull by contact. ## Magnetic force acts at a distance|1 ## Contact force needs touch|1 ## Example: magnet and nail|1
 How are magnets used in the speaker? ## Speaker has a magnet|1 ## Moves a coil|1 ## Produces sound|1
 Why is a freely hanging magnet useful for finding the direction in a ship? ## It aligns with Earth's field|1 ## North-south direction known|1 ## Other directions found|1
@@ -248,7 +248,7 @@ Explain why heating, hammering and dropping weakens a magnet. Suggest a way to p
 Describe how magnets are used for separating magnetic from non-magnetic waste in a recycling plant. ## Waste moves on a belt|1 ## Magnet above lifts steel|1 ## Non-magnetic items move on|1 ## Aluminium separated separately|1 ## Recovery of iron|1
 Explain the significance of the north-south property of a freely suspended magnet and how it led to the compass. ## Lodestone pointed north-south|1 ## Sailors used it|1 ## Made into needle|1 ## Compass invented|1 ## Used in navigation|1
 Compare the behaviour of a magnet and an iron piece when brought near a bar magnet. ## Both attracted by the bar|1 ## Magnet may be repelled|1 ## Iron is not repelled|1 ## Test confirms magnet|1 ## Iron may become magnetised|1
-Explain how iron filings can be used to find the shape of the magnetic field and its strength. ## Sprinkle on paper|1 ## Tap|1 ## Curved lines show field|1 ## Closer lines mean stronger field|1 ## Strong near poles|1
+Describe an activity to compare the pull of different parts of a bar magnet using paper clips. ## Spread paper clips on a table|1 ## Bring the north pole, the middle and the south pole near them in turn|1 ## Count the clips lifted each time|1 ## The ends lift the most clips|1 ## The middle lifts the fewest|1
 A bar magnet is cut in half. Write the result and test it with filings. ## Two magnets|1 ## Each has N and S|1 ## Filings gather at ends of each piece|1 ## No middle clustering|1 ## Strength is less|1
 Why are credit cards and phones damaged near magnets? Suggest safety rules. ## Magnetic strip stores data|1 ## Magnets can erase it|1 ## Keep away|1 ## Store magnets separately|1 ## Do not carry in pockets|1
 Describe how a magnetic compass is used to find direction in a forest. ## Hold flat|1 ## Needle settles|1 ## Rotate dial|1 ## Find the north|1 ## Plan the path|1
@@ -259,8 +259,8 @@ How would you design a test to find which of three unlabelled bars is a magnet, 
 hA = [mc("""
 Three identical-looking bars P, Q, R: P attracts Q at both ends, Q attracts R at both ends, R repels P at one end. Which can be concluded? ## P and R are magnets, Q is magnetic material ## all are magnets ## all are iron ## all are plastic ## Repulsion is seen only between magnets.
 A freely hung bar magnet has one end painted red; the red end settles pointing towards the geographic south. The red end is the: ## south-seeking pole ## north-seeking pole ## neutral centre ## non-magnetic part ## The end that points south is the south-seeking pole.
-Two magnets, each with poles marked, are placed in a line with N of A facing S of B and they attract. If B is reversed, they will: ## repel ## attract more ## stay same ## melt ## N facing N.
-A compass kept on a table shows north in a wrong direction. The best explanation is: ## a magnet or iron object nearby ## the table is wooden ## sunlight ## noise ## Local magnetic influence.
+Two magnets, each with poles marked, are placed in a line with N of A facing S of B and they attract. If B is reversed, they will: ## repel ## attract more strongly ## attract as before ## lose their magnetism ## N facing N.
+A compass kept on a table shows north in a wrong direction. The best explanation is: ## a magnet or iron object nearby ## the table is made of wood ## the compass is in sunlight ## the compass needle is too light ## Local magnetic influence.
 An iron nail dangling from a magnet picks up another nail. The second nail is held because: ## the first nail became temporarily magnetised ## glue is present ## air presses ## gravity ## Induced magnetism.
 After removing the magnet, the chain of nails falls apart. This shows the nails: ## were temporary magnets ## were permanent magnets ## were plastic ## were heavy ## Iron loses magnetism easily.
 Why is soft iron not used to make a permanent magnet? ## it loses magnetism easily ## it is costly ## it is shiny ## it is brittle ## Steel retains.
@@ -270,7 +270,7 @@ A bar attracts the north end of a compass needle at one end and the south end of
 """), mc("""
 Which of the following is the best argument for using a magnet to separate iron from copper turnings? ## iron is magnetic and copper is not ## both are shiny ## both are metals ## both rust ## Only iron is attracted.
 A mixture contains aluminium, iron and wooden pieces. A magnet separates: ## iron only ## iron and aluminium ## all metals ## wood ## Only iron is magnetic.
-Why does a steel almirah become slightly magnetic over many years? ## Earth's field aligns the tiny magnets ## it sees the sun ## it gets heated ## it rusts ## Induction by Earth's field.
+Why does a steel almirah become slightly magnetic over many years? ## Earth's magnetism slowly magnetises it ## it is exposed to sunlight ## it is painted ## it is kept dry ## Induction by Earth's field.
 A pin stuck to a magnet can also pick up another pin because: ## the pin acts as a temporary magnet ## the pin is sticky ## pins have glue ## air presses them ## Induced magnetism.
 Which method would give the strongest magnet from an iron nail? ## stroking in one direction repeatedly ## stroking back and forth ## heating ## painting ## Consistent direction aligns.
 Which graph-like description fits the pull of a magnet on a pin as distance increases? ## pull decreases rapidly ## pull stays same ## pull increases ## pull becomes infinite ## Pull weakens with distance.
@@ -279,7 +279,7 @@ The strength of a compass reading is best when it is placed: ## away from iron a
 Which of the following devices works because of magnets? ## a loudspeaker ## a candle ## a spoon ## a plastic pen ## It contains a magnet.
 Which statement about a bar magnet suspended in a gap between two other magnets is correct? ## it turns to align with the field ## it stays still ## it flies ## it melts ## It aligns with the combined field.
 """), mc("""
-An iron nail is rubbed with the north pole of a magnet in one direction many times. The end where the stroke ends becomes a: ## south pole ## north pole ## neutral ## no pole ## Opposite pole forms at the lifting end.
+To make a magnet from an iron bar by the single-touch method, the bar should be stroked: ## always in the same direction with the same pole of a magnet ## back and forth with both poles ## in a circle with the magnet ## by hitting it with the magnet ## Opposite pole forms at the lifting end.
 A student suspends magnet A and brings magnet B's north pole near A's north-seeking end. A turns away. This shows: ## B's north repels A's north ## B's north attracts A's north ## B has no poles ## A is iron ## Like poles repel.
 If the Earth's geographic north pole region behaves like a magnetic south pole, a compass's north needle is attracted to it because: ## unlike poles attract ## like poles attract ## gravity ## wind ## Earth's north is magnetic south.
 Which of these is the correct way to hold a compass while taking a reading? ## flat on the palm, away from iron objects ## tilted near a steel desk ## close to a speaker ## in a metal box ## Keep it level and away from magnets.
@@ -300,7 +300,7 @@ Why do ships carry more than one compass? ## To check each other's readings ## I
 Describe how a magnet helps in removing iron splinters from the eye safely. ## Doctors use a magnet ## It pulls out iron fragments
 Why is a ceramic or plastic container used for storing magnets in a lab? ## They are non-magnetic ## They do not disturb the magnets
 Why do we say 'magnets act through non-magnetic materials'? ## A pin can be moved through paper by a magnet ## Non-magnetic sheets do not block force
-A plastic comb rubbed on dry hair picks paper but not iron nails, whereas a magnet picks nails. Explain. ## Comb: static electricity ## Magnet: magnetic force on iron
+Why does a magnet pick up nails but not a wooden pencil? ## Nails are made of iron, which is magnetic ## Wood is not a magnetic material
 Give reasons why a magnet is kept on the tabletop away from iron objects when not used. ## Prevents unwanted sticking ## Prevents loss of strength
 Why can a magnet pick a pin from a pile faster than hands? ## It attracts all pins at once ## It saves time
 """
@@ -317,17 +317,17 @@ Three coins look the same. One is iron, one copper, one aluminium. How would you
 Why do some magnets have a coating? ## To prevent rust|1 ## To protect from damage|1 ## To give better look|1
 How are magnets useful in the kitchen? ## Knife holders|1 ## Spice tins|1 ## Fridge doors|1
 What happens when a very strong magnet is brought near a compass? ## Needle deflects strongly|1 ## May reverse|1 ## Needle may lose accuracy|1
-Explain the term 'magnetic field'. ## Region around a magnet|1 ## Where force can be felt|1 ## Shown by iron filings|1
+How would a magnet help sort iron nails from a mixture of iron nails and brass screws? ## Iron nails are magnetic|1 ## Brass screws are not magnetic|1 ## The magnet picks up only the nails|1
 Describe the effect of a steel sheet kept between a magnet and an iron nail. ## Steel can carry magnetism|1 ## Nail may be pulled less|1 ## Magnetic materials change the field|1
 Why is it unsafe to have powerful magnets near children? ## They may swallow small magnets|1 ## Magnets can pinch skin|1 ## They harm gadgets|1
 Compare the magnetic force and the force of gravity on a pin near a magnet. ## Magnet pulls pin up|1 ## Gravity pulls down|1 ## Pin rises if magnetic force is larger|1
 How can you demonstrate that magnets lose power on heating? ## Heat a weak magnet gently|1 ## Test with pins before and after|1 ## It picks fewer pins|1
-Explain why a hanging magnet turns slowly. ## Thread twist|1 ## Weak force near the equilibrium|1 ## Friction|1
+Why should a suspended magnet be kept away from a steel table when finding directions? ## Steel is attracted by the magnet|1 ## The magnet turns towards the table|1 ## It gives a wrong direction|1
 """
 hD = """
 Design an investigation to compare the strength of two magnets using paper clips and describe how to make it a fair test. ## Same type of clips|1 ## Same method to approach|1 ## Count clips lifted by each pole|1 ## Repeat three times|1 ## Compare averages|1
 A box has three unlabelled bars: a magnet, an iron bar and a copper bar. Describe a method with only the bars to identify each. ## Test each pair for attraction|1 ## Copper is attracted by none|1 ## The magnet may repel another bar's end|1 ## Iron is attracted by the magnet but not repelled|1 ## All three identified|1
-Explain how magnetic induction makes a chain of paper clips hang from a magnet and why the chain collapses when the magnet is removed. ## Magnet induces magnetism in the first clip|1 ## It then magnetises the next clip|1 ## Chain forms|1 ## On removal, clips lose magnetism|1 ## They fall|1
+Explain why a chain of paper clips hangs from a magnet and why the chain collapses when the magnet is removed. ## The magnet makes the first clip a temporary magnet|1 ## That clip makes the next clip a temporary magnet|1 ## Chain forms|1 ## On removal, clips lose magnetism|1 ## They fall|1
 Discuss the importance of magnets in modern life and give examples from home, hospital and industry. ## Home: fridge door|1 ## Home: speakers|1 ## Hospital: scanning devices|1 ## Industry: separating scrap|1 ## Transport: motors|1
 A student says: 'Magnet attracts all metals, so it can be used to separate gold from sand.' Evaluate and suggest the right method. ## Magnet does not attract gold|1 ## Gold is non-magnetic|1 ## Magnet cannot separate it|1 ## Use water to wash away sand (panning)|1 ## Gold is heavier and settles|1
 Explain how the compass was an important invention and how its working relates to the Earth's magnetism. ## Needle is a tiny magnet|1 ## Earth is like a giant magnet|1 ## Needle aligns with Earth's field|1 ## Gives direction|1 ## Used in ships and planes|1
@@ -335,7 +335,7 @@ Describe an activity to show that the strength of a magnet is highest at the pol
 Analyse why magnets lose strength and design a storage plan. ## Heat, impact and time|1 ## Poor storage|1 ## Keepers at the poles|1 ## Pair with unlike poles side by side|1 ## Cool dry box|1
 Explain how a toy that uses magnets may fail and how to correct it. ## Weakening of magnet|1 ## Wrongly placed poles|1 ## Dirt reduces grip|1 ## Check polarity and replace|1 ## Store properly|1
 Discuss how we know the Earth has a magnetic field using three pieces of evidence. ## Compass points north|1 ## Freely hung magnet aligns|1 ## Iron objects acquire magnetism|1 ## Animals navigate by it|1 ## Evidence is consistent|1
-Describe how to distinguish between poles of a magnet using a magnetic needle, with a diagram in words. ## Place needle near one end|1 ## Needle's north end is attracted|1 ## That end is S pole|1 ## Check the other end similarly|1 ## Record|1
+Describe how to distinguish between poles of a magnet using a magnetic needle. ## Place needle near one end|1 ## Needle's north end is attracted|1 ## That end is S pole|1 ## Check the other end similarly|1 ## Record|1
 Explain the following with examples: temporary magnet, permanent magnet, natural magnet. ## Temporary: soft iron near magnet|1 ## Permanent: steel bar magnet|1 ## Natural: lodestone|1 ## Differences in retention|1 ## Uses differ|1
 """
 

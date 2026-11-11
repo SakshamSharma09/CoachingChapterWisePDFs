@@ -184,8 +184,8 @@ mA = [MC([
  ("Which gas is formed on burning carbon in air?", "carbon dioxide", "oxygen", "nitrogen", "hydrogen", "Carbon burns to CO2."),
  ("A mixture of oil and water can be separated by:", "separating funnel", "sieving", "magnet", "sublimation", "Immiscible liquids."),
  ]), MC([
- ("Which of the following is the odd one out?", "mercury", "iron", "copper", "sulphur", "Sulphur is the non-metal."),
- ("Which of the following is the odd one out?", "brass", "bronze", "steel", "copper", "Copper is an element."),
+ ("Which of the following is NOT a metal?", "sulphur", "mercury", "iron", "copper", "Sulphur is a non-metal; mercury is a metal that is liquid at room temperature."),
+ ("Which of the following is NOT an alloy?", "copper", "brass", "bronze", "steel", "Copper is an element; the others are mixtures of metals."),
  ("Which element is both lustrous and brittle?", "silicon", "iron", "copper", "gold", "Metalloid features."),
  ("Which element conducts electricity but is a non-metal?", "graphite (carbon)", "sulphur", "phosphorus", "bromine", "Exception."),
  ("The number of atoms in a molecule of [[H2SO4]] is:", "7", "4", "6", "3", "2 + 1 + 4."),
@@ -272,10 +272,10 @@ hA = [[
  ("9 g of water is decomposed. The masses of hydrogen and oxygen obtained are:", "1 g and 8 g", "8 g and 1 g", "4.5 g and 4.5 g", "2 g and 7 g", "Ratio 1 : 8."),
  ("The total number of atoms in 2 molecules of [[H2SO4]] is:", "14", "7", "4", "28", "2 x 7."),
  ("Which of the following represents 3 molecules of oxygen?", "3[[O2]]", "[[O6]]", "6[[O]]", "[[3O]]", "Coefficient before formula."),
- ("A student heated copper powder and the colour changed to black. Which statement is correct?", "a compound copper oxide formed", "copper became a mixture", "an alloy was formed", "no change", "Copper reacts with oxygen."),
+ ("A student heated copper powder and the colour changed to black. Which statement is correct?", "a compound copper oxide formed", "copper became a mixture", "an alloy was formed", "copper turned into carbon", "Copper reacts with oxygen."),
  ("A substance X conducts electricity in the solid state and is malleable. X is most likely:", "a metal", "a non-metal", "a compound of non-metals", "an inert gas", "Metallic properties."),
  ("A metal oxide is dissolved in water and turns red litmus blue. The metal oxide is:", "basic in nature", "acidic", "neutral", "inert", "Metal oxides are basic."),
- ("A non-metal oxide dissolved in water generally gives a solution that turns:", "blue litmus red", "red litmus blue", "no change", "turmeric red", "Acidic."),
+ ("A non-metal oxide dissolved in water generally gives a solution that turns:", "blue litmus red", "red litmus blue", "red litmus red", "turmeric red", "Acidic."),
  ("Which of the following will be a good thermal insulator?", "wood", "copper", "aluminium", "iron", "Non-metal."),
  ("Which is a heterogeneous mixture?", "a salad", "brass", "sugar solution", "air", "Components visible."),
  ]), MC([

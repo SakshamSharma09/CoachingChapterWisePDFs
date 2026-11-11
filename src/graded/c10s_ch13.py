@@ -295,7 +295,7 @@ In a food chain, grass, grasshopper, frog and snake, the energy in the frog is 5
 If the grass in a field has 8000 J of energy, find the energy in the tertiary consumer in the chain grass, rabbit, fox, wolf. ~~ Fox (T3) 80 J|1 ~~ Wolf (T4) = 8 J|1
 Why is it unsafe to feed on the top level of the food chain of a polluted lake? ~~ Pesticides get biomagnified|1 ~~ Top consumers hold the greatest concentration|1
 How does the loss of ozone in Antarctica affect marine ecosystems there? ~~ More UV reaches the surface|1 ~~ Harms phytoplankton, the producers, and the food chains|1
-Why is it not possible to have a food chain with 10 trophic levels? ~~ Energy decreases to 10^-9 of the original at the 10th level|1 ~~ Too little energy to sustain organisms|1
+Why is it not possible to have a food chain with 10 trophic levels? ~~ Energy decreases to <<10^{-9}>> of the original at the 10th level|1 ~~ Too little energy to sustain organisms|1
 What is meant by decomposers acting as the 'nature's recyclers'? ~~ They convert dead organisms into simple inorganic substances|1 ~~ These are used again by plants|1
 One per cent of the sunlight falling on a field, 1,000,000 J, is captured by plants. Find the energy at the herbivore level (use the 10 per cent law). ~~ Producers: 10,000 J|1 ~~ Herbivores: 1000 J|1
 Why does the amount of usable energy decrease at each higher trophic level? ~~ Part is used in life processes like respiration|1 ~~ Part is lost as heat, so only 10% is passed on|1

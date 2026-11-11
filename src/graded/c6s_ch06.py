@@ -33,8 +33,8 @@ Which of the following is a natural material? ## wool ## plastic ## nylon ## gla
 Which material is man-made? ## plastic ## cotton ## wood ## jute ## Plastic is synthetic.
 Materials such as cotton, wool and silk are called: ## natural fibres ## synthetic fibres ## metals ## minerals ## They come from plants and animals.
 Windows are made of glass because it is: ## transparent ## opaque ## soluble ## soft ## We can see through it.
-Curtains are made of opaque or translucent materials to: ## control light entering ## make rooms hot ## stop gravity ## dissolve dust ## They reduce glare and give privacy.
-Raincoats are made of a material that is: ## waterproof ## soluble ## transparent only ## soft only ## They do not let water pass through.
+Curtains are made of opaque or translucent materials to: ## control the light entering a room ## make the room hotter ## make the walls stronger ## keep out all sounds ## They reduce glare and give privacy.
+Raincoats are made of a material that is: ## waterproof ## soluble in water ## highly absorbent ## a good conductor of heat ## They do not let water pass through.
 Which of these is used to make a wire? ## copper ## wood ## chalk ## paper ## Metals can be drawn into wires.
 Which of these is a lustrous material? ## gold ## chalk ## cotton ## paper ## Gold shines.
 """)]
@@ -89,8 +89,8 @@ Describe the sorting of the materials in your classroom into at least three grou
 
 # ============================ EASY ============================
 eA = [mc("""
-A pencil box can be made of: ## plastic ## water ## air ## smoke ## Plastic is a material.
-A wooden table is made of: ## wood ## glass ## water ## paper ## Wood.
+A pencil box can be made of: ## plastic ## cotton wool ## wax ## sand ## Plastic is a material.
+A wooden table is made of: ## wood ## cloth ## clay ## rubber ## Wood.
 A glass window is: ## transparent ## opaque ## translucent ## rough ## Clear glass.
 A brick wall is: ## opaque ## transparent ## translucent ## soluble ## Blocks light.
 Sugar in water is: ## soluble ## insoluble ## opaque ## hard ## Dissolves.
@@ -109,7 +109,7 @@ Which is used to make wires? ## copper ## wood ## clay ## paper ## Copper.
 Which is used for making windowpanes? ## glass ## wood ## iron ## clay ## Glass.
 Which is used for making raincoats? ## plastic ## paper ## cotton ## chalk ## Plastic.
 Which is used for making tyres? ## rubber ## wood ## paper ## chalk ## Rubber.
-Which is used for making pots? ## clay ## air ## water ## smoke ## Clay.
+Which is used for making pots? ## clay ## paper ## cotton ## wax ## Clay.
 """), mc("""
 Butter paper is: ## translucent ## transparent ## opaque ## shiny ## Partly light.
 Air is: ## transparent ## opaque ## translucent ## hard ## We can see through it.
@@ -119,7 +119,7 @@ Which one is smooth? ## mirror ## sandpaper ## brick ## bark ## Mirror.
 Salt in water is: ## soluble ## insoluble ## opaque ## heavy ## Dissolves.
 Chalk powder in water is: ## insoluble ## soluble ## transparent ## hard ## Settles.
 A magnet attracts: ## iron ## wood ## glass ## plastic ## Iron.
-A utensil is made of: ## metal ## smoke ## air ## water ## Steel.
+A cooking vessel is usually made of: ## metal ## paper ## cloth ## wax ## Steel.
 A stone is: ## hard ## soft ## soluble ## transparent ## Hard.
 """)]
 eB = """
@@ -153,7 +153,7 @@ Write three uses of glass. ## Windows|1 ## Bottles|1 ## Mirrors|1
 Write three uses of rubber. ## Tyres|1 ## Erasers|1 ## Gloves|1
 Write three uses of plastic. ## Toys|1 ## Buckets|1 ## Bottles|1
 Write three properties of glass. ## Transparent|1 ## Hard|1 ## Breakable|1
-Write three properties of wood. ## Opaque|1 ## Floats|1 ## Poor conductor|1
+Write three properties of wood. ## Opaque|1 ## Can be cut and shaped easily|1 ## Poor conductor of heat|1
 Write three natural fibres. ## Cotton|1 ## Wool|1 ## Silk|1
 """
 eD = """
@@ -166,7 +166,7 @@ Write five uses of plastic. ## Toys|1 ## Bags|1 ## Bottles|1 ## Pipes|1 ## Chair
 Describe the float and sink activity with five objects. ## Place cork|1 ## Place nail|1 ## Place leaf|1 ## Place stone|1 ## Note which float|1
 Why are wooden handles on pans useful? ## Wood is a poor conductor|1 ## We can hold the pan|1 ## They do not get hot|1 ## Safe for hands|1 ## Handles do not melt|1
 Write five differences between hard and soft materials. ## Hard: iron|1 ## Soft: cotton|1 ## Hard is difficult to scratch|1 ## Soft is easily pressed|1 ## Uses differ|1
-Explain what is meant by lustre. Give five lustrous objects. ## Shiny appearance|1 ## Gold ring|1 ## Silver coin|1 ## Steel spoon|1 ## Copper vessel|1
+Explain what is meant by lustre. Give four lustrous objects. ## Shiny appearance|1 ## Gold ring|1 ## Silver coin|1 ## Steel spoon|1 ## Copper vessel|1
 Write the materials used for five parts of a bicycle. ## Frame: metal|1 ## Tyre: rubber|1 ## Seat: plastic or leather|1 ## Chain: steel|1 ## Bell: metal|1
 Describe how to separate iron nails from a mix with sand. ## Use a magnet|1 ## Move over the mix|1 ## Nails stick|1 ## Remove nails|1 ## Sand remains|1
 """
@@ -177,7 +177,7 @@ A student places a stone, a cork, an iron nail and a leaf in water. Which pair f
 Which of the following pairs includes only soluble substances? ## salt and sugar ## sand and salt ## chalk and sugar ## sand and chalk ## Both dissolve.
 A material is hard, shiny and a good conductor of heat. It is probably a: ## metal ## wood ## plastic ## paper ## Metals have these properties.
 Which of the following would be a suitable material for making a window curtain which lets in some light? ## thin cotton cloth ## thick metal sheet ## wood ## brick ## Translucent cloth.
-Which of the following cannot be used to make a cooking vessel? ## wood ## steel ## aluminium ## copper ## Wood burns.
+Which of the following is unsuitable for making a vessel to be heated on a flame? ## wood ## steel ## aluminium ## copper ## Wood burns.
 A material that is transparent, hard and brittle is: ## glass ## rubber ## wood ## cotton ## Glass breaks when hit.
 An object is made of a material that is waterproof and light. It is probably made of: ## plastic ## paper ## cloth ## wood ## Plastic.
 Which of the following is the best material for a pair of electrician's gloves? ## rubber ## iron ## copper ## wire ## Rubber does not conduct electricity.
@@ -188,7 +188,7 @@ Why does a stone sink in water but a boat made of iron float? ## the boat's shap
 Which test would show that a metal rod is a good conductor of heat? ## wax melts quickly along the rod when one end is heated ## it floats ## it dissolves ## it breaks ## Heat travels along it.
 Which of the following should be used to hold a hot kettle handle? ## a thick wooden handle ## an iron rod ## a copper rod ## a steel handle ## Wood does not conduct heat.
 A magnet can separate iron nails from: ## wooden chips ## iron filings ## steel pins ## nickel rods ## Wood is non-magnetic.
-Three liquids are labelled X, Y, Z. X mixes with water completely, Y forms a separate layer, Z is oily. Which is likely oil? ## Y or Z ## X ## none ## X and Y only ## Oils do not mix.
+Liquid X mixes completely with water, while liquid Y forms a separate layer on top of the water. Y is most likely: ## cooking oil ## sugar solution ## salt solution ## lemon juice ## Oils do not mix.
 Which statement about opaque objects is correct? ## they form shadows ## light goes through them completely ## they are always black ## they are always shiny ## They block light.
 A transparent material is used for: ## spectacles ## curtains ## doors ## walls ## Clear view.
 A translucent material is best for: ## bathroom windows ## telescopes ## mirrors ## spectacles ## Provides privacy with some light.
@@ -201,14 +201,14 @@ Which of the following would you choose for making a water bottle? ## steel ## p
 What property of aluminium foil makes it useful for wrapping food? ## can be made into thin sheets ## it is transparent ## it is soluble ## it is soft like cotton ## Metals are malleable.
 A material is brittle if it: ## breaks easily on hitting ## bends easily ## floats ## dissolves ## Glass.
 Rubber is used for making erasers because it is: ## elastic and soft ## hard ## transparent ## brittle ## Rubber rubs off marks.
-Materials that burn easily are called: ## combustible ## incombustible ## insoluble ## transparent ## Paper, wood.
+A material that bends easily without breaking is: ## flexible ## brittle ## rigid ## opaque ## Paper, wood.
 Why is a paper cup not suitable for hot soup for a long time? ## it gets soggy and weak ## it is transparent ## it is magnetic ## it is hard ## Paper absorbs water.
 In which of these is the choice of material most suitable? ## a rubber tyre ## a paper tyre ## a glass tyre ## a wooden tyre ## Rubber is elastic and strong.
 Materials used for making ropes are: ## jute, nylon ## glass, steel wool ## stone, clay ## chalk, sand ## Fibres are flexible.
 """)]
 mB = """
 Why do boats made of iron float while iron nails sink? ## The boat has a large hollow shape with air ## Water supports it as its average density is low
-Why is steel preferred over iron for making bridges and cars? ## Steel is stronger ## It resists rusting better
+Why is steel preferred over iron for making bridges and cars? ## Steel is stronger and harder than pure iron ## Stainless steel does not rust easily
 Why do winter clothes of wool keep us warm? ## Wool traps air ## Air is a poor conductor of heat
 Give one example each of material used for: container, cloth, vehicle tyre. ## Container: steel or plastic ## Cloth: cotton; tyre: rubber
 Why is a transparent glass not used for bathroom windows? ## No privacy ## Frosted translucent glass is better
@@ -231,9 +231,9 @@ Give reasons: (a) a doormat is rough; (b) a tabletop is smooth; (c) a window is 
 How can one prove that a cork floats because it is lighter than water and not because it is hollow? ## Cut a piece of cork|1 ## Even small solid pieces float|1 ## Hence lighter material|1
 Explain why a thick cloth is used as a curtain at a window. ## Blocks light|1 ## Keeps heat out|1 ## Gives privacy|1
 How does the suitability of material depend on an object's use? Give two examples. ## Raincoat needs a waterproof material|1 ## Cooking pan needs a heat-conducting metal|1 ## Properties decide use|1
-Explain why a plastic ruler floats and a steel ruler sinks. ## Plastic is lighter than water|1 ## Steel is heavier|1 ## Shape plays a smaller role|1
+Explain why a wooden ruler floats and a steel ruler sinks. ## Wood is lighter than the same volume of water|1 ## Steel is heavier than the same volume of water|1 ## So the wooden ruler floats and the steel ruler sinks|1
 How would you identify an unknown white powder as sugar or chalk using water? ## Add water and stir|1 ## Sugar dissolves|1 ## Chalk remains as sediment|1
-Why can a stone sink but a stone piece tied to a large piece of thermocol floats? ## Thermocol is light|1 ## Combined object has low overall density|1 ## It floats|1
+Why does a small stone tied to a large piece of thermocol float in water? ## Thermocol is light|1 ## Combined object has low overall density|1 ## It floats|1
 Why are electrical appliances' pins made of metals and body of plastic? ## Pins conduct|1 ## Plastic insulates|1 ## Safe for users|1
 Explain how your school bag's materials are chosen for various parts. ## Cloth for body|1 ## Plastic zip|1 ## Metal buckle|1
 Why are fabrics like polyester dry faster than cotton? ## Polyester absorbs less water|1 ## Water stays on the surface|1 ## Evaporates quickly|1
@@ -273,7 +273,7 @@ If material C is an opaque metal and D is opaque wood, how would you distinguish
 In an experiment, a mixture of sand, salt and iron filings is given. The first step of separation should be: ## using a magnet ## adding water ## heating ## filtering ## Magnet only affects iron; keeps others intact.
 After removing iron filings, adding water to the mixture and filtering separates: ## sand on the filter paper ## salt on the filter paper ## both on the filter ## nothing ## Sand is insoluble.
 To recover salt from the filtrate we should: ## evaporate the water ## add sand ## use a magnet ## add iron ## Evaporation leaves salt.
-A scientist wants a material for a space suit that is light, strong and heat-resistant. This depends on: ## properties of materials ## colour only ## name only ## smell ## Choose by properties.
+A designer chooses rubber for a tyre and glass for a window. These choices are based on: ## the properties of the materials ## the colours of the materials ## the names of the materials ## the smell of the materials ## Choose by properties.
 Which of these is not an advantage of metals in cooking? ## transparent ## good heat conductors ## strong ## can be shaped ## Metals are opaque.
 Why is aluminium foil used to wrap food? ## it can be rolled into thin sheets and is non-toxic ## it is transparent ## it is magnetic ## it dissolves ## Malleable.
 Which property is common to a mirror and a polished steel plate? ## lustre ## transparency ## floating ## solubility ## Both reflect.
@@ -297,12 +297,12 @@ How would you test which of two white powders is sugar and which is chalk, witho
 Name the property used to separate iron filings from sand and the property used to separate sand from salt. ## Magnetic property for iron ## Solubility for salt
 Why do we choose rubber for the handle of an electrician's tools? ## Rubber is an electrical insulator ## Prevents electric shock
 Why is it risky to use a thick glass tumbler for very hot liquid? ## Uneven expansion cracks glass ## Glass is a poor conductor so heats unevenly
-Which property of metals allows them to be made into utensils of different shapes? ## Malleability ## They can be beaten into sheets
+Which property of metals allows them to be made into utensils of different shapes? ## They can be beaten into thin sheets ## They can be bent and shaped
 Why can't we make a pot from sugar? ## Sugar dissolves in water ## Pot would not hold water
 How can the same material produce different objects? ## Shaping changes the object ## E.g. steel gives spoon, pan or bridge parts
 Why is wool used for sweaters but not for raincoats? ## Wool traps air and keeps heat ## It absorbs water
 Why do we call cork a 'light' material? ## It is less dense than water ## It floats
-Why are dark-coloured utensils sometimes used in cooking? ## They absorb heat better ## Dull black surface takes in heat
+Why is a paper bag unsuitable for carrying water? ## Paper absorbs water and becomes weak ## Water leaks through the soggy paper
 """
 hC = """
 Substance X is a shiny solid that does not dissolve in water, sinks in water and becomes hot at the other end when one end is heated. Name its class of material and give two reasons. ## It is a metal|1 ## Shiny (lustrous) and sinks|1 ## Conducts heat along its length|1
@@ -310,14 +310,14 @@ Describe an experiment to show that air is a poor conductor of heat using materi
 A mixture contains sand, salt, iron filings and sawdust. Outline steps to separate all four. ## Magnet removes iron|1 ## Water: sawdust floats, skim off|1 ## Filter sand, evaporate salt water|1
 Why does a wooden spoon not get hot in boiling soup but a steel spoon does? ## Wood is a poor conductor|1 ## Steel conducts quickly|1 ## Used for stirring safely|1
 How would you test whether a cloth is cotton or nylon without using fire? ## Check absorbency with water|1 ## Cotton absorbs water|1 ## Nylon does not|1
-Explain why materials like diamond and graphite, both made of carbon, differ in hardness and use. ## Diamond is hardest|1 ## Graphite is soft|1 ## Atoms arranged differently|1
+Why is iron used for making a plough while cotton is used for making clothes? ## Iron is strong and hard|1 ## Cotton is soft and absorbs sweat|1 ## The use depends on the property|1
 Explain the importance of non-conducting handles in electrical tools. ## Prevent shock|1 ## Rubber or plastic|1 ## Insulate the hand|1
 Give three reasons why plastic has replaced many materials in daily life. ## Light|1 ## Cheap|1 ## Waterproof and can be moulded|1
 Two beakers contain equal volumes of water. A contains sugar and B salt (same amount). Which dissolves faster? Design a fair test. ## Same temperature|1 ## Same stirring|1 ## Time taken to dissolve|1
 A packet is labelled 'translucent'. What does this mean and give an example. ## Allows part of light|1 ## Image seen blurred|1 ## Frosted glass|1
 Why must the same amount of water and heat be used when comparing rods for conduction? ## For a fair test|1 ## Different conditions change results|1 ## Valid comparison|1
 Explain with examples why lustre alone cannot identify a metal. ## Glass and some plastics also shine|1 ## Metals also conduct heat|1 ## So several properties are needed|1
-Why are bells and utensils often made of alloys like brass? ## Strong|1 ## Resist corrosion|1 ## Good sound and look|1
+Why are bells and utensils made of metals? ## Metals are strong|1 ## Metals give a ringing sound when struck|1 ## Metals can be shaped|1
 A fabric absorbs 20 mL of water, another 5 mL. Which is better for a towel? ## First|1 ## It absorbs more|1 ## Larger absorbency|1
 How would you separate wax from a mixture of wax and sand? ## Heat gently|1 ## Wax melts|1 ## Pour off or filter hot|1
 Explain how the properties of materials guided the choice of a pressure cooker. ## Metal body conducts heat|1 ## Strong to hold pressure|1 ## Plastic handles insulate|1

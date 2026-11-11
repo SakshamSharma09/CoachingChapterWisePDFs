@@ -108,7 +108,7 @@ A wooden door is: ## opaque ## transparent ## translucent ## luminous ## Blocks 
 Butter paper is: ## translucent ## transparent ## opaque ## luminous ## Partly.
 A shadow is formed by: ## opaque objects ## transparent objects ## the Sun only ## air ## Block light.
 A shadow is: ## dark ## bright ## coloured ## shiny ## Absence of light.
-A shadow needs a: ## screen ## nothing ## water ## sound ## Surface.
+A shadow is seen clearly on a: ## screen ## sound ## flame ## puff of smoke ## Surface.
 Shadows are seen: ## in light ## in complete darkness ## never ## only by day ## Need light.
 """), mc("""
 A mirror shows: ## image ## shadow ## sound ## heat ## Reflection.
@@ -190,7 +190,7 @@ A ray falls along the normal. The angle of reflection is: ## 0° ## 90° ## 45°
 A girl stands 1.5 m from a mirror. She walks 0.5 m towards it. The distance between her and her image now is: ## 2 m ## 3 m ## 1 m ## 1.5 m ## 1 m from the mirror, so 2 m.
 A boy 1.2 m tall stands before a plane mirror. His image is: ## 1.2 m tall ## 0.6 m tall ## 2.4 m tall ## 0 m ## Same size.
 A person's image is 6 m from her. How far is she from the mirror? ## 3 m ## 6 m ## 12 m ## 1.5 m ## Half.
-If a mirror is rotated by 10° keeping the incident ray fixed, the reflected ray turns by (basic idea): ## 20° ## 10° ## 5° ## 0° ## Twice.
+A ray falls on a plane mirror at an angle of incidence of 30°. The angle between the incident ray and the reflected ray is: ## 60° ## 30° ## 90° ## 15° ## Twice.
 Which word looks exactly the same in a plane mirror (when the left and right are interchanged)? ## MOM ## BOB ## MAD ## DAD ## M and O are symmetric letters.
 A clock in a mirror reads 3:00. The mirror image looks like the real time of: ## 9:00 ## 3:00 ## 6:00 ## 12:00 ## Lateral inversion.
 Which letter looks the same in a plane mirror? ## A ## B ## F ## R ## Symmetric letter.
@@ -210,12 +210,12 @@ In a pinhole camera, if the object distance is doubled, the image size becomes: 
 In a pinhole camera, the size of image increases when the screen is moved: ## away from the hole ## towards the hole ## sideways ## upside down ## Longer distance.
 A bigger hole in a pinhole camera makes the image: ## blurred and brighter ## sharper and dimmer ## inverted ## smaller ## Wide beam.
 A pinhole camera cannot form an image if: ## the hole is covered ## the hole is small ## the object is bright ## the screen is translucent ## No light enters.
-Which of these is formed on the screen of a pinhole camera? ## real image ## virtual image ## shadow ## nothing ## Light actually reaches.
+Which of these is formed on the screen of a pinhole camera? ## real image ## virtual image ## shadow of the hole ## a reflection ## Light actually reaches.
 The image of the Sun by a small gap in leaves on the ground is: ## a round spot ## square ## a shadow ## no image ## Pinhole effect.
 During a solar eclipse, small gaps in leaves form: ## crescent images of the Sun ## full round images ## square images ## no images ## Shape matches.
 The size of a shadow does not depend on: ## the colour of the object ## distance from source ## size of the source ## distance from screen ## Colour is irrelevant.
 In which of the following will you see a shadow? ## a sunny field ## a dark room ## a foggy night ## underwater at depth ## Light present.
-A kaleidoscope with two mirrors inclined at 60° forms ___ images of an object (basic). ## 5 ## 6 ## 2 ## 1 ## 360/60 - 1.
+Two plane mirrors facing each other in parallel form: ## many images of an object ## only one image ## no image ## only a shadow ## 360/60 - 1.
 """)]
 mB = """
 The angle of incidence of a ray on a plane mirror is 35°. Find the angle of reflection and the angle between incident and reflected rays. ## Reflection 35° ## Between rays 70°
@@ -246,9 +246,9 @@ Explain the term 'real image' and say whether the image in a pinhole camera is r
 Why does a book appear white when illuminated by white light but we see its text black? ## White paper reflects|1 ## Ink absorbs|1 ## Contrast|1
 Explain why we see a smooth and bright image in a plane mirror but not in a wall. ## Regular reflection in mirror|1 ## Diffused in wall|1 ## Rough surface scatters|1
 Describe the use of a periscope in submarines. ## Look above water|1 ## While submerged|1 ## Two mirrors|1
-Why are the mirrors in a car made slightly convex? (Hint: wider field of view) ## Wider view|1 ## See more traffic|1 ## Image smaller|1
+Why do dentists use a small plane mirror? ## To see the back of the teeth|1 ## The mirror reflects light into the mouth|1 ## The image shows hidden parts|1
 How does a kaleidoscope use reflections to form patterns? ## Mirrors inclined|1 ## Multiple images|1 ## Symmetry|1
-Explain why we see a rainbow-coloured sky glare on a wet road. ## Water reflects light|1 ## Smooth surface|1 ## Bright reflection|1
+Why can a puddle on a road show the image of a building? ## A smooth water surface reflects regularly|1 ## Light bounces back in an orderly way|1 ## So an image is seen|1
 What is the nature of a shadow of a transparent glass plate? ## Very faint|1 ## Most light passes|1 ## Edges may cast faint|1
 """
 mD = """
@@ -259,7 +259,7 @@ Describe an experiment to verify that the angle of incidence equals the angle of
 Discuss the use of mirrors at home, in vehicles, in instruments and in nature with examples. ## Dressing mirror|1 ## Rear-view mirror|1 ## Periscope|1 ## Still water|1 ## Torch reflectors|1
 Explain how umbra and penumbra form when a ball is placed between a large lamp and a screen. ## Large lamp has many points|1 ## Umbra gets no light|1 ## Penumbra partial|1 ## Edges blurred|1 ## Small lamp gives sharp edge|1
 Explain how a solar and a lunar eclipse occur using the ideas of shadow. ## Solar: Moon between Sun and Earth|1 ## Lunar: Earth between|1 ## Umbra and penumbra|1 ## Straight travel of light|1 ## Occurs rarely|1
-A girl walks towards a mirror at 1 m/s. At what speed does she approach her image? ## Image moves towards the mirror at 1 m/s|1 ## Relative speed 2 m/s|1 ## Distances equal|1 ## Both distances shrink|1 ## So 2 m/s|1
+A girl stands 2 m in front of a mirror and steps back by 1 m. Find the new distance between her and her image. ## New distance from the mirror = 3 m|1 ## The image is 3 m behind the mirror|1 ## Distance between her and image = 6 m|1 ## Image distance equals object distance|1 ## The image is virtual|1
 Explain how reflection helps us see the Moon, planets and everyday objects. ## Non-luminous|1 ## Reflect sunlight|1 ## Enter eyes|1 ## Rough reflection|1 ## Visible from all directions|1
 Describe how a kaleidoscope is made at home and why patterns change. ## Three mirror strips|1 ## Tube and cap|1 ## Coloured beads|1 ## Reflections|1 ## Rotation shifts beads|1
 Explain what happens to the shadow of a person walking away from a street lamp. ## Shadow lengthens|1 ## Then another lamp|1 ## Shadows rotate|1 ## Position of lamp matters|1 ## Light travels straight|1
@@ -268,9 +268,9 @@ Describe how mirrors can be used in a solar cooker or solar torch. ## Reflect su
 
 # ============================ HARD ============================
 hA = [mc("""
-Two plane mirrors are placed at 90° to each other. A ray falls on one mirror at 30° to its surface. After two reflections the ray is: ## parallel to the incident ray but opposite in direction ## perpendicular to the incident ray ## along the same direction ## absorbed ## For 90°, reversed.
-A ray is incident on a plane mirror at 25° to the normal. If the mirror is turned so that the angle of incidence becomes 35°, the reflected ray turns by: ## 20° ## 10° ## 35° ## 60° ## Twice the turn of the mirror (10 x 2).
-A person 1.6 m tall wishes to see a full-length view in a plane mirror. The minimum mirror length is: ## 0.8 m ## 1.6 m ## 3.2 m ## 0.4 m ## Half.
+A ray of light falls on a plane mirror along the normal. The ray: ## returns along the same path ## passes through the mirror ## is absorbed ## travels along the mirror surface ## For 90°, reversed.
+If the angle of incidence of a ray on a plane mirror is increased by 15°, the angle of reflection: ## increases by 15° ## decreases by 15° ## stays the same ## doubles ## Twice the turn of the mirror (10 x 2).
+The image formed by a plane mirror of a person 1.6 m tall is: ## 1.6 m tall ## 0.8 m tall ## 3.2 m tall ## 0.4 m tall ## Half.
 A girl walks away from a mirror at 2 m/s for 3 s. How far has the distance between her and her image increased? ## 12 m ## 6 m ## 3 m ## 2 m ## 2 x 6.
 A girl stands 2 m from a mirror and a wall is 5 m behind her. The image appears: ## 2 m behind the mirror ## 5 m behind the mirror ## 7 m behind ## on the wall ## Equal distance.
 A ray reflected by a plane mirror makes an angle of 100° with the incident ray. The angle of incidence is: ## 50° ## 100° ## 25° ## 80° ## Half.
@@ -291,10 +291,10 @@ If the object distance is halved, the image height in the above becomes: ## doub
 Which of these shows that light travels in straight lines? ## sharp shadow ## rainbow ## mirage ## echo ## Straight.
 """), mc("""
 Why does the image in a mirror appear to be as far behind as the object is in front? ## virtual image position follows the law of reflection ## mirror is thick ## mirror is smaller ## light bends ## Geometric consequence.
-A mirror reflects the colours of objects. A red rose in white light viewed in a plane mirror appears: ## red ## white ## black ## green ## Same colour.
+A red rose in white light is viewed in a plane mirror. The image of the rose appears: ## red ## white ## black ## green ## Same colour.
 The colour of the shadow of a red ball in white light is: ## black ## red ## white ## green ## Absence of light.
-In a dark room with a red light, a blue paper appears: ## black ## blue ## red ## white ## Absorbs red.
-A white shirt in the red light appears: ## red ## white ## blue ## black ## Reflects red.
+Which of these helps us to see a non-luminous book? ## light from a lamp reflecting from the book ## the book giving its own light ## light passing through the book ## the shadow of the book ## Absorbs red.
+Which surface gives a clear image of a tree? ## a still pond ## a rough road ## a woollen blanket ## a rough stone wall ## Reflects red.
 Why can we read a book by the reflected light from a lamp? ## paper reflects light diffusely ## paper emits light ## paper is a mirror ## paper is transparent ## Diffused reflection.
 Why can we not see our image in a sheet of paper? ## diffused reflection ## paper is transparent ## regular reflection ## paper absorbs all ## Scatters.
 A calm pond shows an inverted image of a tree. This is due to: ## regular reflection ## refraction ## diffused reflection ## absorption ## Water acts as a mirror.
@@ -305,10 +305,10 @@ hB = """
 A ray is incident at 90° to a plane mirror. State the angle of incidence and the path of the reflected ray. ## Angle of incidence is 0° ## The ray retraces its path
 A plane mirror forms an image of a 5 cm tall object. What are the image height and nature? ## 5 cm ## Virtual, erect and laterally inverted
 A student at 3 m from a plane mirror moves to 5 m. By how much does the distance between her and her image change? ## From 6 m to 10 m ## Increases by 4 m
-Why do we get a large black shadow of a ball under a small lamp but a blurred small shadow under a tube-light? ## A small source gives a sharp shadow ## Extended source gives penumbra
+Why is the shadow of a ball sharp under a small lamp but blurred under a tube-light? ## A small source gives a sharp shadow ## A large source gives an umbra and a penumbra
 Why is the shadow of a tall pole longer in the evening than at noon? ## The Sun is low in the evening ## Rays fall at a smaller angle so the shadow stretches
 Explain how a pinhole camera could be used to observe a solar eclipse safely. ## Image of the Sun on a screen ## Do not look at the Sun directly
-A girl wishes to see her full image in a plane mirror. What is the least mirror height needed? ## Half her height ## Independent of her distance from the mirror
+Why is the image formed by a plane mirror called virtual? ## The rays do not actually meet at the image ## It cannot be taken on a screen
 Why is it important to keep roads clear of glare reflecting surfaces? ## Glare dazzles drivers ## Reduces visibility
 Explain why the Moon looks bright at night but is not a luminous body. ## It reflects sunlight ## Surface scatters light
 Give a reason why a periscope's mirrors are plane. ## They give an erect image of the same size ## Convex or concave would distort
@@ -324,11 +324,11 @@ A small lamp casts a shadow of a book 12 cm wide into a screen. The book is 6 cm
 Explain why the sun's image formed by a pinhole appears circular even if the hole is square. ## Image is of the Sun, not the hole|1 ## Small hole|1 ## Circular Sun|1
 Describe how to use a stick and its shadow to find the time of noon. ## Fix a stick vertically|1 ## Mark shadow lengths|1 ## Shortest shadow is at noon|1
 Why are reflecting surfaces on roads and bicycles used? ## Reflect headlights|1 ## Improve visibility|1 ## Safety|1
-Why do you see your face upside down in the inner side of a polished spoon? ## Curved surface forms a different image|1 ## It is not a plane mirror|1 ## Image is inverted and smaller|1
+Why does a polished steel plate show a clearer image than a rusty one? ## The polished surface is smooth|1 ## It reflects light regularly|1 ## A rusty surface scatters light|1
 Explain how a teacher can show that the image in a plane mirror is virtual. ## Place a screen behind the mirror|1 ## No image forms on it|1 ## Image seen only in the mirror|1
 Explain the working of a simple periscope made from a cardboard tube and two small mirrors. ## Cut windows|1 ## Fix mirrors at 45°|1 ## Look in the lower window|1
 What happens to the angle of reflection if the incident ray is rotated by 20° about the point of incidence? ## i changes by 20°|1 ## r also changes by 20°|1 ## Angle between rays changes by 40°|1
-Why do you see your face in a steel spoon but not as clearly as in a mirror? ## Slightly curved|1 ## Less polished|1 ## Distorted image|1
+Why does a wet black road at night show the lights of vehicles? ## Water gives regular reflection|1 ## Light from headlights bounces back|1 ## An image of the lights is seen|1
 Explain why a mirror placed in a dark room cannot be seen. ## No light|1 ## Nothing to reflect|1 ## Need a source|1
 How would you demonstrate lateral inversion with a piece of paper? ## Write a word|1 ## Hold before a mirror|1 ## Letters reversed|1
 Explain why a shadow is not formed by a perfectly transparent glass but a clear glass may produce a faint shadow. ## Most light passes|1 ## A little is reflected and absorbed|1 ## Faint shadow|1
@@ -336,17 +336,17 @@ Describe a simple activity to find the position of image using two pins and a mi
 Describe the effect of moving a screen away from the pinhole on the brightness and size of the image. ## Image larger|1 ## Dimmer|1 ## Same inversion|1
 """
 hD = """
-Two plane mirrors are inclined at 60° with an object between them. Find the number of images, explain how they form, and describe how you could verify it. ## Number = 360/60 - 1 = 5|1 ## Each mirror forms images|1 ## Images reflected again|1 ## Place object and count|1 ## Vary angle|1
+Two plane mirrors are placed at right angles to each other with an object between them. Explain how three images are seen. ## Each mirror forms one image|1 ## That gives two images|1 ## The image in one mirror acts as an object for the other|1 ## It forms a third image|1 ## Total 3 images|1
 Design an experiment to find the relation between the object distance and the image distance in a plane mirror, with a table and conclusion. ## Place object at several distances|1 ## Find image position by parallax with pin|1 ## Record distances|1 ## Compare in a table|1 ## Equal|1
-A boy 1.6 m tall stands 3 m from a vertical plane mirror. Find the minimum height of mirror required to see his full image and where its top edge must be, relative to the boy's eyes (eyes 10 cm below top of head). ## Half of height: 0.8 m|1 ## Top edge halfway between eyes and top of head: 5 cm above eyes|1 ## Bottom edge halfway between eyes and feet|1 ## Mirror distance does not matter|1 ## Verify with diagram|1
+A boy 1.6 m tall stands 3 m from a plane mirror. State the height of his image and the distance between him and his image. ## Height of image 1.6 m|1 ## Image is 3 m behind the mirror|1 ## Distance from him is 6 m|1 ## Image is virtual and erect|1 ## Image is laterally inverted|1
 Explain, with the help of the laws of reflection and ray diagrams (in words), how a periscope gives an erect image and how the length of the tube may be changed. ## Ray enters top mirror|1 ## Reflects at 45°|1 ## Goes down to second mirror|1 ## Reflects to eye|1 ## Longer tube sees further|1
 Discuss how shadows are used in sundials, shadow-puppets and in the study of eclipses. ## Sundial uses shadow of gnomon|1 ## Puppets use opaque cut-outs|1 ## Eclipses use Earth and Moon shadows|1 ## Rectilinear propagation|1 ## Different sizes|1
-A 1.5 m tall person stands 5 m from a lamp-post and casts a 2.4 m long shadow on the ground. Find the height of the lamp (similar triangles). ## Shadow tip is 5 + 2.4 = 7.4 m from the pole|1 ## Heights are in the ratio of distances: H/7.4 = 1.5/2.4|1 ## H = 1.5 x 7.4/2.4|1 ## About 4.6 m|1 ## Check the units|1
+Explain why the length of a person's shadow is greatest in the early morning and late evening. ## The Sun is low in the sky|1 ## Rays fall at a small angle|1 ## The shadow stretches|1 ## At noon the Sun is high|1 ## The shadow is shortest|1
 Compare a pinhole camera and a plane mirror as image forming devices. ## Pinhole real inverted|1 ## Mirror virtual erect|1 ## Pinhole needs a screen|1 ## Mirror image behind|1 ## Both use straight-line light|1
 Explain how a plane mirror in a barber's shop shows the back of a customer's head, using a second mirror. ## First mirror shows front|1 ## Second mirror behind|1 ## Reflect image of back|1 ## Repeated images|1 ## Customer sees the back|1
 Explain how reflection and shadows are used in photography (e.g. umbrella reflectors) and traffic safety (reflectors). ## Umbrella reflects light|1 ## Reduces harsh shadows|1 ## Road reflectors|1 ## Cat's-eye|1 ## Helps visibility|1
 A circular disc of diameter 5 cm is placed 30 cm from a point source and a screen is 90 cm from the source. Find the diameter of the shadow, and the area ratio of shadow to disc. ## Magnification = 90/30 = 3|1 ## Diameter 15 cm|1 ## Area ratio 9:1|1 ## Rays straight|1 ## Check|1
-Explain the relative speed of a person and her image in a plane mirror if the person walks towards the mirror at 1.5 m/s. ## Image moves at 1.5 m/s towards mirror|1 ## Relative 3 m/s|1 ## Distances equal|1 ## Both approach|1 ## Check with time|1
+A person stands 1.5 m from a plane mirror. Describe the image in terms of size, nature and position. ## Same size as the person|1 ## Virtual and erect|1 ## 1.5 m behind the mirror|1 ## Laterally inverted|1 ## Cannot be taken on a screen|1
 Write a short project report on 'Light and its reflections in my home' with observations and examples. ## Mirrors|1 ## Shiny utensils|1 ## Windows|1 ## Shadow on the wall|1 ## Conclusions|1
 """
 

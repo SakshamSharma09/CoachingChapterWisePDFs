@@ -111,7 +111,7 @@ eA = [MC([
  ("The number of protons in carbon is:", "6", "12", "4", "8", "Z = 6."),
  ("The number of electrons in a neutral oxygen atom is:", "8", "16", "6", "2", "Z = 8."),
  ]), MC([
- ("Isotopes have the same:", "atomic number", "mass number", "number of neutrons", "none", "Z."),
+ ("Isotopes have the same:", "atomic number", "mass number", "number of neutrons", "number of nucleons", "Z."),
  ("Isobars have the same:", "mass number", "atomic number", "number of protons", "valency", "A."),
  ("Hydrogen has:", "three isotopes", "two isotopes", "four isotopes", "no isotope", "Protium, deuterium, tritium."),
  ("The isotope used for cancer treatment is:", "cobalt-60", "carbon-12", "chlorine-35", "oxygen-16", "Gamma rays."),
@@ -281,7 +281,7 @@ hA = [[
  ]), MC([
  ("An unknown element has isotopes 24 (79 per cent), 25 (10 per cent) and 26 (11 per cent). The average atomic mass is:", "24.3 u", "25 u", "24 u", "24.9 u", "(1896 + 250 + 286)/100 = 24.32."),
  ("A sample of boron (average mass 10.8 u) has isotopes 10 and 11. The percentage of the lighter isotope is:", "20", "80", "50", "10.8", "10x + 11(100 - x) = 1080."),
- ("A radioactive isotope loses half of its atoms every 5 days. The fraction remaining after 15 days is:", "1/8", "1/4", "1/2", "1/16", "Three half-lives."),
+ ("Which sub-atomic particle has a negligible mass compared with the other two?", "electron", "proton", "neutron", "none of them has a negligible mass", "An electron is about 1/1836 of the mass of a proton."),
  ("A nucleus with 82 protons and 125 neutrons has mass number:", "207", "82", "125", "43", "Sum."),
  ("The ratio of the number of neutrons to protons is greatest in:", "tritium", "protium", "deuterium", "helium-3", "2 : 1."),
  ("Which of the following has 8 neutrons?", "[[^{14}_{6}C]]", "[[^{14}_{7}N]]", "[[^{14}_{8}O]]", "[[^{12}_{6}C]]", "14 - 6 = 8."),

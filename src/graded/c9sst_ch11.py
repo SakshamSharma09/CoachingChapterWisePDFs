@@ -187,7 +187,7 @@ M_A = [
 "Why did Rana Sanga lose at Khanua in 1527? | Babur's tactics and artillery | He had no army | A plague broke out | He had no allies | Mughal strategy",
 "Chaitanya Mahaprabhu led a sankirtan in defiance of | a Qazi's restriction | a temple tax | a Mughal army | a land law | Public singing",
 "Through which system did Rajputs like the Kachhwahas get Mughal service? | Mansab | Iqta | Paik | Waqf | Ranks",
-"Why did plain havelis-style temples in lanes, such as the Jagat Shiromani Temple in Amer, escape destruction? | They did not look like grand temples | They were hidden underground | They were fortified like forts | They had their own armies | Avoid destruction",
+"Why did plain haveli-style temples in lanes, such as the Jagat Shiromani Temple in Amer, escape destruction? | they did not look like grand temples | they were hidden underground | they were fortified like forts | they were guarded by private armies | Avoid destruction",
 "Why were temples rebuilt repeatedly after destruction? | Faith and support from rulers, guilds and communities | Orders of invaders | Government tax rules | Boredom of priests | Resilience",
 "Kashi Vishwanath's present temple was built by | Ahilyabai Holkar | Todar Mal | Akbar | Shivaji | 1780",
 "Rope pulleys and the Persian wheel helped raise | agricultural output | tax rates | the number of forts | the number of wars | Technology",
@@ -198,7 +198,7 @@ M_A = [
 "Which tradition spread among people of all classes? | Bhakti | Iqta | Mansab | Jagir | Open to all",
 "Why was the Battle of Haldighati (1576) not a decisive Mughal victory? | Pratap escaped and continued guerrilla war | Pratap surrendered | The battle never took place | The Mughals left India | Later victory at Dewair",
 "Kumara Kampana, who ended the Madurai Sultanate, was a | Vijayanagara prince | Mughal general | Maratha chief | Ahom general | Vijayanagara",
-"At which place did Kumara Kampana restore images, showing temple restoration? | Srirangam | Taj Mahal | Red Fort | Agra Fort | Restored images",
+"Kumara Kampana, after ending the Madurai Sultanate, restored images at | Kanchipuram and Srirangam | Chittor and Ranthambore | Amer and Jaipur | Khanua and Haldighati | Restored images",
 ]
 M_B = [
 "How did geography help the Ahoms? @ Rivers and monsoon @ Forests protect",
@@ -264,7 +264,7 @@ H_A = [
 "A ruler is exempted from attending the Mughal court while keeping peace. The best parallel is the | Mewar treaty | Battle of Khanua | Battle of Talikota | Second Battle of Tarain | Exemption",
 "A caravan leader uses a hundi to send money. This reflects | credit systems | barter | war | tax | Trade finance",
 "The peasant movement of 1669 in the Doab under Gokul Jat is called the | Jat revolt | Ahom resistance | Maratha rule | Rajput war | 1669",
-"Poet Dursa Arha praised the ruler who never joined the Nauroz festival. He was | Maharana Pratap | Akbar | Shivaji | Babur | Dursa Arha",
+"Which Mewar ruler regained control of his kingdom at Dewair in 1582 after Haldighati? | Maharana Pratap | Rana Sanga | Rana Hammir | Rana Kumbha | Dewair 1582",
 "A leader signs treaties to save his state while protecting his culture. This is | resilience through diplomacy | complete defeat | absence of resistance | loss of the state | Combined approach",
 "The ruler crowned at Raigad in 1674 with the title Chhatrapati was | Shivaji | Pratap | Babur | Krishnadevaraya | Chhatrapati",
 "A saint who opposes ritual barriers and writes in the local language is best described as | a Bhakti saint like Kabir or Eknath | a Sultanate general like Alauddin | a Mughal officer | a Portuguese trader | Nirguna and Saguna",

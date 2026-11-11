@@ -119,7 +119,7 @@ Which planet is farthest from the Sun? ## Neptune ## Jupiter ## Mars ## Saturn #
 The Sun gives us: ## heat and light ## only noise ## only wind ## rain ## Energy.
 A group of stars forming a pattern is a: ## constellation ## planet ## comet ## galaxy ## Pattern.
 The Saptarishi has: ## seven stars ## six stars ## ten stars ## two stars ## Seven.
-Planets go round the Sun in: ## orbits ## lines ## circles of Moon ## squares ## Orbits.
+Planets go round the Sun in fixed paths called: ## orbits ## straight lines ## zigzag paths ## circles around the Moon ## Orbits.
 A comet has a: ## tail ## wing ## fin ## leg ## A tail.
 """)]
 eB = """
@@ -235,7 +235,7 @@ Describe how the planets and the Sun are held together. ## Gravity of the Sun|1 
 What are the differences between rotation of Earth and its revolution? ## Rotation: spin about axis, 24 hours|1 ## Revolution: orbit the Sun, 365 days|1 ## Day and year result|1
 Explain the working of the telescope in observing stars. ## Collects light|1 ## Focuses it|1 ## Magnifies image|1
 Describe two features of Jupiter and Saturn. ## Jupiter: largest, Great Red Spot|1 ## Saturn: rings|1 ## Both gaseous|1
-Why is the sky dark at night in space but blue on Earth during the day? ## Earth's air scatters sunlight|1 ## No air in space|1 ## Space looks dark|1
+Why does the Moon look bright at night? ## It reflects sunlight|1 ## It has no light of its own|1 ## The Sun lights up half of it|1
 How do scientists study the planets without going there? ## Telescopes|1 ## Space probes|1 ## Rovers and orbiters|1
 Why are asteroid belts present between Mars and Jupiter? ## Leftover rocky material|1 ## Could not form a planet|1 ## Orbit the Sun|1
 Explain how space technology helps us in everyday life. ## GPS and maps|1 ## TV and phone|1 ## Weather forecast|1
@@ -244,7 +244,7 @@ mD = """
 Explain how to find the north direction at night using Saptarishi and Pole star, and also use the Moon's phases to estimate the date in the lunar month. ## Locate Saptarishi|1 ## Extend line from the bowl|1 ## Pole star gives north|1 ## New moon starts month|1 ## Full moon near mid-month|1
 Compare the Earth, Moon, Mars, Venus and Jupiter in a table-like list (size, atmosphere, temperature, life). ## Earth: life, water|1 ## Moon: no air|1 ## Mars: thin air, cold|1 ## Venus: hot|1 ## Jupiter: gas, no surface|1
 Describe an activity to show how day and night happen and how phases of the Moon form. ## Torch as the Sun|1 ## Globe rotates|1 ## Day on the lit side|1 ## Ball as the Moon|1 ## Lit portion changes|1
-Explain the movement of the Earth and its consequences: day, night, year, seasons (basic). ## Rotation: day and night|1 ## Revolution: year|1 ## Tilt: seasons|1 ## Sun appears to rise|1 ## Stars shift|1
+Explain the movement of the Earth and its consequences: day, night and year. ## Rotation: day and night|1 ## Revolution: year|1 ## Rotation takes about 24 hours|1 ## Revolution takes about 365 days|1 ## The Sun appears to rise and set|1
 Explain the roles of ISRO's satellites in communication, remote sensing and navigation. ## Communication: INSAT|1 ## Remote sensing: crops, forests|1 ## Navigation: NavIC|1 ## Weather|1 ## Disasters|1
 Describe the Moon in detail: features, atmosphere, gravity, distance, and exploration by India. ## Craters|1 ## No air|1 ## Less gravity|1 ## Distance about 3.8 lakh km|1 ## Chandrayaan|1
 Explain why the Earth is the only known planet with life. ## Water in liquid form|1 ## Oxygen|1 ## Right temperature|1 ## Protection by atmosphere|1 ## Distance from the Sun|1
@@ -259,10 +259,10 @@ Compare the Sun, Earth and Moon in terms of size, light, and heat. ## Sun: huge,
 hA = [mc("""
 If sunlight takes 8 minutes to reach the Earth, the Sun's distance in terms of light travel time is: ## 8 light-minutes ## 8 light-seconds ## 8 light-years ## 8 light-hours ## Approx.
 A student draws the Moon at the same time each night and sees the bright part grows. The Moon is: ## waxing ## waning ## new ## missing ## Increasing.
-If the new moon occurs on 1 March, the next new moon will be about: ## 30 March ## 15 March ## 1 April + 5 days ## 8 March ## About 29.5 days.
+If the new moon occurs on 1 March, the next new moon will be about: ## 30 March ## 15 March ## 8 March ## 22 March ## About 29.5 days.
 On a full-moon night the Moon rises roughly at: ## sunset ## midnight ## sunrise ## noon ## Opposite the Sun.
 The Moon is seen as a thin crescent shortly after sunset in the: ## west ## east ## north ## south ## Near the setting Sun.
-A planet appears in the evening sky near the western horizon after sunset and is very bright. It is probably: ## Venus ## Neptune ## Mercury only ## a comet ## Evening star.
+A planet appears in the evening sky near the western horizon after sunset and is very bright. It is probably: ## Venus ## Neptune ## Uranus ## a comet ## Evening star.
 Which of the following determines the length of a planet's year? ## its distance from the Sun ## its colour ## its moons ## its size only ## Farther means longer.
 A planet that has a day shorter than that of the Earth would: ## rotate faster ## rotate slower ## not rotate ## orbit faster ## Rotation period.
 Which of these statements about the Earth's axis is true? ## Pole star lies almost along its extension ## it points to the Sun ## it points to the Moon ## it changes daily ## So the Pole star appears fixed.
@@ -271,7 +271,7 @@ Which of the following is the best reason why a star seen at night may not be pr
 Mass of an object is 60 kg on Earth. On the Moon (gravity one-sixth), its mass is: ## 60 kg ## 10 kg ## 360 kg ## 6 kg ## Mass does not change.
 The weight of the same object on the Moon compared with Earth is: ## one sixth ## six times ## equal ## zero ## Weaker gravity.
 If a satellite takes 90 minutes for one orbit, the number of orbits in 24 hours is: ## 16 ## 24 ## 8 ## 90 ## 1440/90.
-The speed of an object is distance divided by time. A satellite covers 42000 km in 90 minutes. Its speed in km/min is about: ## 467 ## 90 ## 42 ## 1000 ## 42000/90.
+A satellite completes 16 orbits in one day (24 hours). The time taken for one orbit is: ## 90 minutes ## 60 minutes ## 120 minutes ## 24 hours ## 42000/90.
 Which of the following missions was India's first to reach Mars orbit? ## Mangalyaan ## Chandrayaan-1 ## Aditya ## Aryabhata ## Mars Orbiter Mission.
 Which mission placed the lander near the Moon's south polar region in 2023? ## Chandrayaan-3 ## Chandrayaan-1 ## Mangalyaan ## Aryabhata ## India's success.
 Which of the following needs both a rocket and a satellite? ## weather forecasting by space ## baking ## sewing ## reading ## Satellite launched by rocket.
@@ -279,8 +279,8 @@ Which of these is a limitation of observing the sky from the Earth's surface? ##
 Why are space telescopes placed outside the atmosphere? ## clear view without air disturbance ## to be near the Sun ## to cool them ## to save fuel ## Better images.
 A rover on Mars sends data that takes about 12 minutes to reach Earth. This is because: ## radio waves take time to travel the distance ## the rover is slow ## Mars is a star ## Earth is blocked ## Finite speed.
 """), mc("""
-Which statement correctly explains the seasons? ## Earth's axis is tilted as it goes around the Sun ## Earth's distance changes by thousands km ## Moon moves ## Sun moves ## Tilt.
-Which observation proves that the Earth rotates? ## stars appear to move across the night sky ## the Moon is round ## the Sun is hot ## planets are bright ## Apparent motion.
+Which of the following explains day and night on Earth? ## Earth rotates on its axis ## Earth revolves around the Sun once a day ## the Sun moves around the Earth ## the Moon blocks the Sun daily ## Tilt.
+Which observation suggests that the Earth rotates? ## stars appear to move across the night sky ## the Moon is round ## the Sun is hot ## planets are bright ## Apparent motion.
 How would the length of day change if the Earth rotated twice as fast? ## halve ## double ## stay the same ## vanish ## 12 hours.
 Which two planets can be seen crossing the Sun's disc from Earth? ## Mercury and Venus ## Mars and Jupiter ## Saturn and Neptune ## Uranus and Pluto ## Inner planets.
 The Great Red Spot is a feature of: ## Jupiter ## Mars ## Saturn ## Venus ## A storm.
@@ -293,15 +293,15 @@ Which of the following is a renewable power source for a satellite? ## solar pan
 hB = """
 On a map of the solar system, 1 cm shows 150 million km. If the Sun-Earth distance is 150 million km, how far away is Mars at about 228 million km? ## 228/150 ## about 1.5 cm
 A satellite goes round the Earth once in 100 minutes. How many orbits are completed in one day? ## 24 hours = 1440 minutes ## 1440/100 = 14.4 orbits
-A person weighs 600 N on Earth. On the Moon (one sixth), what is the weight? ## 600/6 ## 100 N
-Why do we get day and night on the Earth but not seasons on the Moon in the same way? ## Earth rotates and has a tilt ## The Moon rotates slowly
+The Earth-Moon distance is about 3,80,000 km. On a model where 1 cm stands for 10,000 km, find this distance in cm. ## 380000/10000 ## 38 cm
+Why do we get day and night on the Earth? ## Earth rotates on its axis ## Only the half facing the Sun is lit
 Why do planets appear to move against the background of stars? ## They orbit the Sun ## Closer than the stars
 Why can't we see the dark side of the Moon with our eyes? ## It faces away from the Earth ## It is not lit
 Explain why a person feels lighter on the Moon. ## Gravity is weaker ## Mass stays the same
 What causes the twinkling of stars but not of planets? ## Atmospheric motion ## Planets are discs
 Why is a launch near the equator more efficient for satellites? ## Earth's rotation speed is highest ## Gives extra boost
 Why do countries share space data and run joint space missions? ## Cost and knowledge ## Safety and cooperation
-Why is Venus's surface hotter than Mercury's though it is farther from the Sun? ## Thick carbon dioxide atmosphere ## Greenhouse effect
+Why is Venus's surface hotter than Mercury's though it is farther from the Sun? ## Thick carbon dioxide atmosphere ## The atmosphere traps heat
 Explain why the Pole star will not be exactly overhead at the equator. ## It lies near the northern horizon ## Earth's shape and latitude
 """
 hC = """
@@ -316,8 +316,8 @@ Why do some comets appear only once in many years? ## Long orbits|1 ## Take deca
 Why are the outer planets very cold? ## Far from the Sun|1 ## Less sunlight|1 ## Thick gases|1
 Describe the experiment to model the distance of planets using a string. ## Scale the distances|1 ## Mark positions on a rope|1 ## Compare the spacing|1
 Explain why a satellite does not fall to Earth. ## It moves fast sideways|1 ## Falls around the Earth|1 ## Orbit|1
-How do astronomers find the age of stars (idea)? ## From the light and colour|1 ## From size and brightness|1 ## Compared with models|1
-Explain with a diagram in words how the phases occur for the first quarter Moon. ## Moon is a quarter of the way around|1 ## Half of the lit side visible|1 ## Looks like a half disc|1
+Why do planets look like bright stars in the night sky? ## They reflect sunlight|1 ## They are much closer than the stars|1 ## They shine steadily without twinkling much|1
+Explain how the first quarter Moon is seen from the Earth. ## Moon is a quarter of the way around|1 ## Half of the lit side visible|1 ## Looks like a half disc|1
 Why are craters on the Moon preserved for long while Earth's are not? ## Moon has no air or water|1 ## Little erosion|1 ## Earth's weather erases them|1
 What are the dangers of space debris? ## Collisions with satellites|1 ## Damage to space stations|1 ## Cost of replacement|1
 Describe the role of the Indian Space Research Organisation in national development. ## Communications|1 ## Remote sensing|1 ## Disaster warnings|1
@@ -330,8 +330,8 @@ A student records the Moon's shape for 30 days and finds it was a thin crescent 
 Discuss how light pollution affects star gazing and how it can be reduced. ## Bright city lights|1 ## Hide faint stars|1 ## Shielded lamps|1 ## Switch off unnecessary lights|1 ## Dark-sky areas|1
 Evaluate a proposal to settle humans on Mars with advantages and challenges. ## Backup for humanity|1 ## Scientific research|1 ## No breathable air|1 ## Cold and radiation|1 ## Costly|1
 Explain how the knowledge of the solar system developed from naked-eye observations to space probes. ## Early sky watching|1 ## Telescope|1 ## Space probes|1 ## Rovers|1 ## Space telescopes|1
-A satellite's orbit time is 2 hours and its altitude is 20,000 km. Describe the reasoning for choosing orbits for communication, weather and navigation. ## Low orbits for imaging|1 ## High geostationary for TV|1 ## Medium for navigation|1 ## Different coverage|1 ## Different speeds|1
-Explain, using the Earth-Moon-Sun positions, why the same Moon phase can be seen all over the world on the same day but at different times. ## Moon's phase depends on position|1 ## Not on place|1 ## Rise times differ with longitude|1 ## Earth rotates|1 ## Same shape seen|1
+Describe why satellites for communication, weather and navigation are placed in different orbits. ## Low orbits for imaging|1 ## High geostationary for TV|1 ## Medium for navigation|1 ## Different coverage|1 ## Different speeds|1
+Explain, using the Earth-Moon-Sun positions, why the same Moon phase can be seen all over the world on the same day but at different times. ## Moon's phase depends on position|1 ## Not on place|1 ## Rise times differ from place to place|1 ## Earth rotates|1 ## The same phase is seen everywhere|1
 Discuss the technological spin-offs of space research for daily life and health. ## GPS|1 ## Medical imaging|1 ## Water purifiers|1 ## Materials|1 ## Weather prediction|1
 Write a report comparing inner and outer planets on size, composition, atmosphere and number of moons. ## Inner small and rocky|1 ## Outer large and gaseous|1 ## Outer have rings|1 ## Few moons for inner|1 ## Many for outer|1
 Explain the importance of the Pole star and the constellations to ancient Indian astronomers. ## Used for direction|1 ## Calendar and seasons|1 ## Saptarishi|1 ## Observation records|1 ## Aryabhata used observations|1

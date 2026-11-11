@@ -22,8 +22,9 @@ def kap_path(n):
     return path
 def rac(n):
     sums = []
-    while str(n) != str(n)[::-1] and len(sums) < 30:
+    while str(n) != str(n)[::-1]:
         n = n + rev(n); sums.append(n)
+        assert len(sums) <= 10, n
     return sums
 def seq(xs): return "$" + ", ".join(map(str, xs)) + "$"
 def par(n): return "even" if n % 2 == 0 else "odd"
@@ -185,7 +186,7 @@ def small_k(k): return next(n for n in range(10 ** (k - 1), 10 ** k) if n % 9 ==
 hA1 = [nn(f"The smallest {k}-digit number divisible by 9 is:", small_k(k), "Find the first multiple of 9.", offs=(1, -1, 9, -9, 18, 10)) for k in (3, 4, 5)]
 def largest_distinct(div):
     return max(int("".join(p)) for p in permutations("0123456789", 4) if p[0] != "0" and int("".join(p)) % div == 0)
-hA2 = [nn(f"The largest 4-digit number with all digits different that is divisible by {d} is:", largest_distinct(d), "Start from 9876 and test downwards.", offs=(1, -1, 3, -3, 9, 10)) for d in (9, 5, 10, 3)]
+hA2 = [nn(f"The largest 4-digit number with all digits different that is divisible by {d} is:", largest_distinct(d), "Start from 9876 and test downwards.", offs=(1, -1, 2, -2, 10, -10)) for d in (9, 5, 10, 3)]
 hA3 = [nn(f"Kaprekar's routine on ${n}$ reaches 6174 after how many steps?", len(kap_path(n)) - 1, "Repeat the routine and count.") for n in (2111, 6321, 1459, 4176)]
 hA4 = [nn(f"The Collatz sequence from ${n}$ needs how many steps to reach 1?", len(collatz(n)) - 1, "Follow the rule term by term.") for n in (12, 15, 17, 19)]
 hA5 = [tm(t, c, w, "Test with small values.") for t, c, w in [
@@ -194,7 +195,7 @@ hA5 = [tm(t, c, w, "Test with small values.") for t, c, w in [
     ("For every whole number $n$, $6n+3$ is:", "an odd multiple of 3", ["even", "a multiple of 6", "a multiple of 9"]),
     ("A two-digit number plus its reverse is always a multiple of:", "11", ["9", "10", "7"])]]
 hA6 = [nn(f"If $1+2+3+\\dots+n={tri(n)}$, then $n$ is:", n, "Triangular numbers: $n(n+1)/2$.", offs=(1, -1, 2, -2, 5, 10)) for n in (21, 28, 36, 45, 15)]
-hA7 = [nn(f"The number of reverse-and-add steps for ${n}$ to become a palindrome is:", len(rac(n)), "Add the reverse each time.") for n in (59, 79, 89, 68)]
+hA7 = [nn(f"The number of reverse-and-add steps for ${n}$ to become a palindrome is:", len(rac(n)), "Add the reverse each time.") for n in (59, 79, 69, 68)]
 hA8 = [tm("Which expression is a multiple of 9 for every digit pair $(a,b)$ with $a>b$?", "$(10a+b)-(10b+a)$", ["$(10a+b)+(10b+a)$", "$10a+b$", "$a+b$"], "Difference of a number and its reverse is $9(a-b)$.")]
 hA8 += [tm("Which expression is a multiple of 11 for every digit pair $(a,b)$?", "$(10a+b)+(10b+a)$", ["$(10a+b)-(10b+a)$", "$10a+b$", "$a-b$"], "The sum is $11(a+b)$.")]
 HARD_A = [hA1, hA2, hA3, hA4, hA5, hA6, hA7, hA8]

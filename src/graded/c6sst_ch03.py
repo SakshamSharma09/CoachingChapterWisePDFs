@@ -113,7 +113,7 @@ EA = MC([
 "The Aravallis are in | Rajasthan | Kerala | Assam | Punjab | Old mountains",
 "People in mountains wear | woollen clothes | thin clothes | no clothes | cotton only | Cold climate",
 "A road in hilly areas is | winding | straight | wide | short | Zig-zag",
-"Rainfall on hills is | heavy | nil | very little | none | Often",
+"Windward slopes of hills in the monsoon often receive | heavy rainfall | no rainfall at all | only snow in all seasons | rain only in winter | Often",
 "An avalanche is a fall of | snow | water | sand | air | Danger",
 "A landslide is a fall of | rocks and soil | water | air | light | Danger",
 ])
@@ -196,7 +196,7 @@ MA = MC([
 "Why do many cities develop on river plains? | water, land and trade | no water | steep slopes | no land | Settlement",
 "Which landform would be best for large-scale wheat farming? | plain | peak | glacier | steep hill | Level land",
 "Why are plateaus less populated than plains? | rocky, less fertile soil and fewer water sources | flat | fertile | well watered | Limits",
-"Which landform often has a river valley? | mountains | none | deserts only | sea | Rivers cut valleys",
+"Which landform often has a river valley? | mountains | coral reefs | deserts only | sea | Rivers cut valleys",
 "Which statement correctly explains 'storehouse of minerals'? | plateaus contain deposits like coal and iron | plateaus store water | plateaus store grain | plateaus store snow | Mineral deposits",
 ])
 MB = [

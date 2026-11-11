@@ -95,7 +95,7 @@ EA = MC([
 "A decade has | 10 years | 100 years | 1,000 years | 1 year | Ten",
 "A millennium has | 1,000 years | 100 years | 10 years | 500 years | Thousand",
 "BCE means | before the Common Era | after the Common Era | before Christ's birth only | before the century | Backward counting",
-"CE means | Common Era | Cultural Era | Cultural Evening | Common Evening | Forward counting",
+"CE means | Common Era | Cultural Era | Central Era | Christian Epoch | Forward counting",
 "A timeline shows | events in order | recipes | maps | weather | Chronology",
 "A coin is an | archaeological source | oral source | literary source only | modern source | Found in digs",
 "A book is a | literary source | archaeological source | oral source | rock art | Written",
@@ -187,7 +187,7 @@ MA = MC([
 "How did domestication of animals help people? | milk, wool and help in farming | no use | only food | only toys | Livelihood",
 "Why are tools made of metal better than stone? | stronger and shape easily | weaker | heavier only | rarer | Technology",
 "Why is the Gregorian calendar used worldwide? | it was widely adopted for common use | it is the oldest | it is the only | it is compulsory by law | Standard",
-"Which source tells us about the daily life of ancient people better? | everyday objects found in excavations | royal orders | kings' names | none | Material evidence",
+"Which source tells us about the daily life of ancient people better? | everyday objects found in excavations | royal orders | kings' names | a king's title | Material evidence",
 "A temple inscription is a | written archaeological source | oral source | painting | coin | Epigraphic",
 "What can paintings in caves tell us? | what animals people saw and hunted | their phone numbers | their cars | their jobs only | Rock art",
 "Why do scientists use carbon dating? | to estimate the age of ancient objects | to measure heights | to find temperature | to make coins | Dating",
@@ -246,7 +246,7 @@ D5("Compare the Gregorian calendar and the Indian panchanga.", "Basis", "Use", "
 D5("Discuss the role of metals in the development of early societies.", "Copper", "Bronze", "Iron", "Tools", "Trade"),
 D5("Explain why early settlements developed near rivers with examples.", "Water", "Soil", "Transport", "Harappa", "Ganga"),
 D5("Describe the work of different scientists who study the past.", "Archaeologists", "Geologists", "Palaeontologists", "Anthropologists", "Historians"),
-D5("Solve and explain: How many years between 1,200 BCE and 300 BCE, and which centuries do they belong to?", "Difference 900", "13th century BCE", "4th century BCE", "Working", "Check"),
+D5("Solve and explain: How many years between 1,200 BCE and 300 BCE, and which centuries do they belong to?", "Difference 1200 - 300 = 900", "1200 BCE is in the 12th century BCE", "300 BCE is in the 3rd century BCE", "Working", "Check"),
 D5("Describe how evidence can change our understanding of history with an example.", "New discovery", "Old view", "New view", "Method", "Importance"),
 ]
 
@@ -326,7 +326,7 @@ C3("Discuss how time is conceptualised differently in various cultures.", "Calen
 HD = [
 D5("Critically examine how historians use different types of evidence to build a picture of early human societies.", "Archaeology", "Art", "Oral", "Texts", "Cross-checking"),
 D5("Explain the connection between climate change after the Ice Age and the beginning of farming and settlement.", "Warming", "Plants", "Animals", "Settlements", "Effects"),
-D5("Solve and explain: A civilisation flourished from 2600 BCE to 1900 BCE. Find the span in years and identify centuries.", "Span 700 years", "27th BCE to 20th BCE", "Method", "Check", "Interpretation"),
+D5("Solve and explain: A civilisation flourished from 2600 BCE to 1900 BCE. Find the span in years and identify centuries.", "Span 2600 - 1900 = 700 years", "26th century BCE (2600 BCE) to 19th century BCE (1900 BCE)", "Method", "Check", "Interpretation"),
 D5("Discuss the strengths and weaknesses of primary and secondary sources with examples.", "Primary", "Secondary", "Bias", "Reliability", "Use"),
 D5("Evaluate the importance of archaeological sites and the need to protect them.", "Evidence", "Context", "Threats", "Laws", "Citizens"),
 D5("Describe a project on 'my family history' using different types of sources.", "Interviews", "Photographs", "Documents", "Objects", "Timeline"),

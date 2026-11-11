@@ -92,7 +92,7 @@ Explain the role of stomata in transpiration, photosynthesis and respiration. ##
 Describe the experiment to show transpiration in a plant. ## Cover a potted plant's leaves with a polythene bag|1 ## Tie around the stem|1 ## Keep in sunlight|1 ## Droplets collect inside|1 ## Water vapour from leaves|1
 Describe how plants respire and excrete. ## Take in oxygen|1 ## Give out carbon dioxide|1 ## Roots respire in soil air|1 ## Shed leaves|1 ## Store gums, resins|1
 Explain the importance of plants for the ecosystem. ## Make food|1 ## Release oxygen|1 ## Absorb CO2|1 ## Give habitat|1 ## Prevent soil erosion|1
-Describe the nitrogen cycle in simple terms with the role of bacteria and plants. ## Nitrogen in air|1 ## Rhizobium fixes it|1 ## Plants take nitrates|1 ## Animals eat plants|1 ## Decomposers return nitrogen|1
+Describe how nitrogen gets from the air to the plants, with the role of bacteria. ## Nitrogen is present in air|1 ## Rhizobium fixes it|1 ## Plants take nitrogen compounds from the soil|1 ## Animals eat plants|1 ## Decay returns nitrogen to the soil|1
 Explain how plants make proteins and fats from glucose and minerals. ## Glucose is the base|1 ## Nitrogen from nitrates|1 ## Fats made from glucose|1 ## Proteins from amino acids|1 ## Stored in seeds|1
 Describe how to prepare a leaf for the starch test. ## Boil leaf in water|1 ## Boil in alcohol to remove chlorophyll|1 ## Wash and spread|1 ## Add iodine|1 ## Observe the colour|1
 Explain why plants in dense forests grow tall and thin and their leaves are broad. ## Compete for light|1 ## Tall to reach sunlight|1 ## Broad leaves catch light|1 ## More photosynthesis|1 ## Shade-adapted|1
@@ -127,7 +127,7 @@ Stomata open mostly in the: ## day ## night ## winter only ## rain only ## For C
 Plants shed old leaves to remove: ## wastes ## water ## light ## air ## Excretion.
 Plants respire: ## day and night ## only day ## only night ## never ## Always.
 Photosynthesis happens in: ## chloroplasts ## nucleus only ## roots ## bones ## Cell part.
-A plant in the dark for many days becomes: ## pale ## greener ## taller only ## bigger leaves ## No food.
+A plant in the dark for many days becomes: ## pale ## darker green ## full of starch ## bigger leaves ## No food.
 The sun is the source of: ## energy ## water ## air ## soil ## Light.
 Carbon dioxide is taken in by: ## plants ## fish only ## stones ## water only ## For food.
 A leaf with starch turns iodine: ## blue-black ## yellow ## red ## green ## Positive test.
@@ -198,7 +198,7 @@ Transpiration is faster on: ## a hot, dry, windy day ## a cold, damp day ## a fo
 A potted plant is covered with a polythene bag and kept in sunlight. After some time water droplets are seen inside the bag. This shows: ## transpiration ## respiration ## photosynthesis ## digestion ## Water vapour condenses.
 Which plant cell part controls the opening of stomata? ## guard cells ## root hair ## xylem ## phloem ## Guard cells swell.
 The root hairs increase the surface for absorption of: ## water and minerals ## food ## light ## oxygen only ## Large area.
-A plant wilts when it loses more water than it absorbs. This is because: ## cells lose turgidity ## it makes more food ## it gets more light ## it grows ## Water loss.
+A plant wilts when it loses more water than it absorbs. This is because: ## cells lose water and become limp ## it makes more food ## it gets more light ## it grows ## Water loss.
 Plants that grow in deserts have fewer stomata or spines to: ## reduce water loss ## increase light ## increase food ## increase CO2 ## Conserve water.
 Which of these helps a tall tree to lift water to the top? ## transpiration pull ## pumping by heart ## wind only ## gravity ## Suction.
 Stomata mostly close at night because: ## no photosynthesis and water is saved ## no air ## no water ## no roots ## Prevent water loss.
@@ -252,17 +252,17 @@ How do plants adapt in a pond to get gases and light? ## Floating leaves|1 ## St
 Explain the role of vein in a leaf. ## Xylem brings water|1 ## Phloem carries food|1 ## Supports the leaf|1
 """
 mD = """
-Explain, with a labelled description, how a leaf is adapted for photosynthesis. ## Broad flat surface|1 ## Thin|1 ## Stomata for gases|1 ## Veins for transport|1 ## Chloroplasts with chlorophyll|1
+Explain how a leaf is adapted for photosynthesis. ## Broad flat surface|1 ## Thin|1 ## Stomata for gases|1 ## Veins for transport|1 ## Chloroplasts with chlorophyll|1
 Describe the experiment to show that light is necessary for photosynthesis, with the steps, observation and conclusion. ## Potted plant kept in dark 48 h|1 ## Cover part of a leaf with black paper|1 ## Expose to sunlight|1 ## Test with iodine|1 ## Only uncovered part blue-black|1
 Describe the movement of water from soil to leaf and then to the atmosphere. ## Root hair absorbs|1 ## Xylem lifts|1 ## Reaches leaves|1 ## Evaporates at stomata|1 ## Transpiration|1
-Explain how nitrogen cycle links the atmosphere, bacteria, plants and animals. ## Nitrogen fixed by bacteria|1 ## Plants take nitrates|1 ## Animals eat plants|1 ## Decay returns nitrogen|1 ## Some back to air|1
+Explain how nitrogen from the air becomes available to plants and animals. ## Rhizobium in root nodules fixes nitrogen|1 ## Nitrogen compounds enter the soil|1 ## Plants absorb them through roots|1 ## Animals get nitrogen by eating plants|1 ## Decay returns nitrogen to the soil|1
 Compare autotrophic and heterotrophic nutrition in plants with five examples. ## Mango: autotroph|1 ## Cuscuta: parasite|1 ## Mushroom: saprotroph|1 ## Pitcher plant: partly heterotroph|1 ## Lichen: symbiotic|1
 Describe how photosynthesis supplies the world with food and oxygen, and the problems if forests shrink. ## Plants base of food chains|1 ## Oxygen release|1 ## Carbon dioxide absorbed|1 ## Deforestation reduces both|1 ## Climate impact|1
 Describe the experiment on transpiration with a polythene bag and the precautions. ## Water the plant|1 ## Cover branch with a clear bag|1 ## Seal the stem|1 ## Place in sunlight|1 ## Droplets inside show transpiration|1
 Explain the relationship of lichen and Rhizobium as examples of symbiosis. ## Lichen: alga and fungus|1 ## Alga food, fungus shelter|1 ## Rhizobium and legumes|1 ## Plant gives sugar|1 ## Bacteria fix nitrogen|1
 Describe how plants can be grown with less water and what they teach about stomata. ## Drip irrigation|1 ## Mulching|1 ## Fewer stomata in desert plants|1 ## Spiny leaves|1 ## Reduce transpiration|1
 Explain the storage of food in different plant parts with examples. ## Root: carrot|1 ## Stem: potato|1 ## Leaf: cabbage|1 ## Seed: wheat|1 ## Fruit: mango|1
-Explain how the respiration in plants compares with respiration in animals. ## Both use glucose|1 ## Both give CO2|1 ## Plants have no lungs|1 ## Use stomata, lenticels|1 ## Energy for life|1
+Explain how the respiration in plants compares with respiration in animals. ## Both use glucose|1 ## Both give CO2|1 ## Plants have no lungs|1 ## Use stomata and root surfaces|1 ## Energy for life|1
 Discuss how knowledge of photosynthesis helps farmers in greenhouses. ## Control light|1 ## Increase CO2|1 ## Control temperature|1 ## Water supply|1 ## Better yield|1
 """
 
@@ -274,15 +274,15 @@ In a set-up with a plant in a bell jar with NaOH solution, starch is absent in t
 In an experiment, aquatic plant produces 10 bubbles per minute at 30 cm from a lamp and 40 at 10 cm. This shows photosynthesis rate: ## increases with light intensity ## decreases with light ## is independent of light ## stops at night ## Closer lamp.
 Which of the following does not increase the rate of transpiration? ## high humidity ## high temperature ## wind ## dry air ## Humid air reduces.
 Which of the following will be the first to wilt in hot weather? ## a plant with many large leaves ## a cactus ## a plant with small waxy leaves ## a pine ## More surface for water loss.
-A plant kept in a closed room with a lamp but no air supply eventually: ## dies due to lack of CO2 ## grows more ## makes starch always ## gets more oxygen ## CO2 runs out.
-Why is the colour of the oxygen bubbles from hydrilla not green? ## oxygen is colourless ## bubbles are white ## hydrilla is white ## it is dim ## Gas.
-Lichens are indicators of: ## clean air ## polluted air ## dry land only ## hot places only ## They are sensitive to pollutants.
+A potted plant is kept in light in a sealed box from which all carbon dioxide has been removed. Eventually it: ## stops making food and starves ## grows faster ## makes more starch ## makes more oxygen than usual ## CO2 runs out.
+The gas that collects as bubbles from hydrilla in sunlight is: ## oxygen ## carbon dioxide ## nitrogen ## hydrogen ## Gas.
+In the starch test, the chlorophyll of the leaf is removed by boiling it in: ## alcohol ## vinegar ## oil ## milk ## They are sensitive to pollutants.
 Which statement about plant roots is correct? ## roots absorb dissolved minerals and need oxygen ## roots make food ## roots release oxygen ## roots have stomata on tips ## Respiration needed.
 """), mc("""
 Which of these energy changes occurs in photosynthesis? ## light energy to chemical energy ## chemical to light ## heat to light ## sound to light ## Stored in glucose.
 Which energy change occurs in respiration? ## chemical energy to usable energy ## light to chemical ## heat to chemical ## sound to chemical ## Released.
 Which of these is a net result of photosynthesis in a day? ## more glucose than used in respiration ## less glucose ## no glucose ## only oxygen ## Growth.
-At the compensation point, the plant: ## uses as much oxygen in respiration as it produces in photosynthesis ## stops respiring ## makes no food ## dies ## Balanced gas exchange.
+Which observation shows that a plant is making more food than it uses? ## it gains mass and grows ## it loses mass ## it stops growing ## it turns pale ## Balanced gas exchange.
 A plant in deep shade may not grow since: ## photosynthesis is less than respiration ## it gets more light ## it gets more CO2 ## roots are weak ## Low light.
 Yellowing of leaves can be due to a shortage of: ## nitrogen or magnesium ## carbon dioxide ## sand ## oxygen ## Chlorophyll needs them.
 Leaves are broad in plants of rain forests because: ## they need to capture light under tall canopy ## they need less water ## they lack stomata ## they have more roots ## Light is limited.
@@ -305,7 +305,7 @@ hB = """
 Why does a plant in a closed jar with a burning candle and plant show that plants restore the air? ## The plant uses CO2 produced and gives oxygen ## The candle can burn longer
 Explain why the leaf in the dark does not show starch though it is green. ## No light for photosynthesis ## Stored starch was used
 Why are insectivorous plants usually found in marshy soil? ## Soil is poor in nitrogen ## They trap insects for nitrogen
-Why does the plant bend towards light? ## Light is needed for photosynthesis ## Growth is faster on the dark side
+Why do potted plants near a window lean towards it? ## They grow towards light ## More light reaches the leaves for making food
 Explain why the roots of water-logged plants rot. ## Lack of oxygen ## They cannot respire
 Why is alcohol used to remove chlorophyll in the starch test? ## Dissolves chlorophyll ## Makes colour change clearer
 Why does a plant in sunlight produce more oxygen than it uses? ## Photosynthesis is faster than respiration ## Net release of oxygen
@@ -313,7 +313,7 @@ Why is plant growth reduced when the leaves are covered with dust? ## Dust block
 How do plants adapt to deserts to reduce transpiration? ## Spines and thick cuticle ## Fewer stomata
 Explain the mutual benefit in the lichen association. ## Alga provides food ## Fungus provides water and protection
 Why do farmers use green manure of legumes? ## Adds nitrogen ## Improves soil
-Why are stomata mostly present on the lower surface of dicot leaves? ## Reduce water loss ## Protected from direct sunlight
+Why are stomata mostly present on the lower surface of most leaves? ## Reduce water loss ## Protected from direct sunlight
 """
 hC = """
 Design an experiment to show that oxygen is released during photosynthesis, with controls. ## Hydrilla in water under funnel|1 ## Test tube collects gas|1 ## Control in dark|1
@@ -323,9 +323,9 @@ Explain why spinach grown in magnesium-poor soil appears yellowish. ## Magnesium
 Explain why the surface area of leaves and of root hairs is large. ## Leaves catch light and gases|1 ## Root hairs absorb water|1 ## Large area helps both|1
 A plant is kept in the dark for 3 days and then for 3 days in light. Predict starch tests on a leaf after each period. ## After dark: no starch|1 ## After light: starch present|1 ## Photosynthesis restarts|1
 Why do trees in a dense forest have most of their leaves at the top? ## Light is available at the top|1 ## Competition for sunlight|1 ## More photosynthesis|1
-Explain with examples how plants help in controlling global warming. ## Absorb CO2|1 ## Store carbon in wood|1 ## Release oxygen|1
+Explain with examples how plants help in keeping the air clean. ## They absorb carbon dioxide|1 ## They release oxygen|1 ## They trap dust on their leaves|1
 How does Rhizobium help to make plant protein without fertiliser? ## Fixes nitrogen to nitrates|1 ## Plant makes amino acids|1 ## Proteins formed|1
-Explain why plants growing near a window grow towards light and what it shows. ## They respond to light|1 ## More light for food making|1 ## Phototropism|1
+Explain why plants growing near a window grow towards light and what it shows. ## They respond to light|1 ## More light for food making|1 ## Plants respond to stimuli|1
 Describe the role of guard cells in conserving water at night. ## Close stomata|1 ## Prevent water loss|1 ## No photosynthesis at night|1
 A student placed a plant in a bell jar with an oxygen-free atmosphere in the dark. Predict the effect on the plant. ## Respiration cannot occur|1 ## No photosynthesis|1 ## Plant dies|1
 Why does an aquatic plant show more bubbles on a bright day? ## Faster photosynthesis|1 ## More oxygen|1 ## Gas escapes|1
@@ -346,7 +346,7 @@ Describe an investigation using three potted plants (light/dark, with/without wa
 Compare the roles of respiration and photosynthesis in the carbon-oxygen cycle. ## Photosynthesis takes CO2, gives O2|1 ## Respiration reverse|1 ## Balance in nature|1 ## Burning adds CO2|1 ## Plants reduce it|1
 Evaluate the statement: 'Plants do not respire at night as they make food only in the day.' ## Plants respire all the time|1 ## Photosynthesis only in light|1 ## Both occur in day|1 ## Respiration continues at night|1 ## Statement false|1
 Explain how a pitcher plant, a Venus flytrap and a sundew are adapted to catch insects and why this does not make them animals. ## Modified leaves|1 ## Digestive juices|1 ## They still photosynthesise|1 ## Need extra nitrogen|1 ## Rooted, have chlorophyll|1
-Explain the importance of symbiotic relationships in agriculture and forestry. ## Rhizobium in legumes|1 ## Mycorrhiza helps roots|1 ## Reduces fertiliser use|1 ## Healthier forests|1 ## Sustainable farming|1
+Explain the importance of symbiotic relationships in agriculture. ## Rhizobium lives in legume roots|1 ## It fixes nitrogen for the crop|1 ## Fertiliser use is reduced|1 ## Soil becomes fertile|1 ## Farming becomes cheaper|1
 Design a plan for a school garden that uses plant processes (photosynthesis, transpiration, nitrogen fixation) to grow healthy vegetables. ## Sunny spot|1 ## Compost|1 ## Pulses in rotation|1 ## Mulch to reduce transpiration|1 ## Regular watering|1
 """
 

@@ -1,7 +1,21 @@
 """Helpers for Class 9/10 Maths graded banks (mine). All numbers exact via Fraction."""
 from fractions import Fraction as F
 from math import gcd, isqrt, sqrt, comb, factorial, pi
-from common import M4, Q, grp
+import re as _re
+from common import M4 as _M4, Q as _Q, grp
+
+_ONE = _re.compile(r"(?<![\d.{\\A-Za-z])1(?=[xyz]\b|[xyz](?![A-Za-z]))")
+def _tidy(s):
+    """drop a stray coefficient 1 in text such as '+1y' -> '+y' (math only)"""
+    if not isinstance(s, str): return s
+    return _ONE.sub("", s)
+def M4(q, c, w, why=""):
+    def o(x):
+        x = _tidy(str(x))
+        return f"${x}$" if "\\" in x and "$" not in x else x
+    return _M4(_tidy(q), o(c), [o(x) for x in w], _tidy(why))
+def Q(q, ans, split="", fig=None):
+    return _Q(_tidy(q), _tidy(ans), split, fig)
 
 def t(x):
     """tex (no $) of int/Fraction"""
@@ -64,16 +78,14 @@ def pad(c, extra=()):
         if x != c and x not in out: out.append(x)
     return out
 
-def MN(q, c, w=(), why="", tex=None):
-    """numeric MCQ: c correct value, w wrong values (auto padded)"""
-    c = F(c); ws = pad(c, w)[:3] if len(set(map(F, w)) - {c}) >= 3 else None
-    if ws is None:
-        ws = []
-        for x in list(w) + pad(c):
-            x = F(x)
-            if x != c and x not in ws: ws.append(x)
-        ws = ws[:3]
-    return M4(q, n(c), [n(x) for x in ws], why)
+def MN(q, c, w, why="", tex=None):
+    """numeric MCQ: c correct value, w = hand-written wrong values (>= 3 distinct, none equal to c). No auto-padding."""
+    c = F(c); ws = []
+    for x in w:
+        x = F(x)
+        if x != c and x not in ws: ws.append(x)
+    assert len(ws) >= 3, ("MN needs 3 hand-written distinct wrong values", q, c, list(w))
+    return M4(q, n(c), [n(x) for x in ws[:3]], why)
 
 def MS(q, c, w, why=""):
     return M4(q, c, w, why)
@@ -140,7 +152,7 @@ def AGE(m, n, y):
              f"Son $x$, father ${m}x$ (1); ${m}x+{y}={n}(x+{y})$ (2); $x={t(x)}$ (1); son {t(x)} years, father {t(m*x)} years (1).", "1+2+1+1")
 def BOAT(u, v, d1, d2, d3, d4):
     h1 = F(d1, u) + F(d2, v); h2 = F(d3, u) + F(d4, v)
-    return Q(f"A boat goes {d1} km upstream and {d2} km downstream in {t(h1)} hours, and {d3} km upstream and {d4} km downstream in {t(h2)} hours. Find the speed of the boat in still water and the speed of the stream.",
+    return Q(f"A boat goes {d1} km upstream and {d2} km downstream in ${t(h1)}$ hours, and {d3} km upstream and {d4} km downstream in ${t(h2)}$ hours. Find the speed of the boat in still water and the speed of the stream.",
              f"Let boat $x$ km/h, stream $y$ km/h; put $p=\\frac{{1}}{{x-y}}$, $q=\\frac{{1}}{{x+y}}$: ${d1}p+{d2}q={t(h1)}$, ${d3}p+{d4}q={t(h2)}$ (2); $p=\\frac{{1}}{{{u}}}$, $q=\\frac{{1}}{{{v}}}$ (1); $x-y={u}$, $x+y={v}$ (1); boat ${t(F(u+v,2))}$ km/h, stream ${t(F(v-u,2))}$ km/h (1).", "2+1+1+1")
 def FRAC(x, y, a, b):
     f1 = F(x + a, y + a); f2 = F(x + b, y + b)
@@ -155,7 +167,7 @@ def RECT(l, w, a, c, e, f):
              f"Length $x$, breadth $y$: $(x-{a})(y+{c})=xy{sg(-k1)}$ gives ${c}x-{a}y={a*c-k1}$ (1.5); $(x+{e})(y+{f})=xy+{k2}$ gives ${f}x+{e}y={k2-e*f}$ (1.5); solving, $x={l}$, $y={w}$ (2).", "1.5+1.5+2")
 def TRAIN(u, v, D, a, b):
     h1 = F(a, u) + F(D - a, v); h2 = F(b, u) + F(D - b, v)
-    return Q(f"A man travels {D} km partly by train and partly by bus. If he travels {a} km by train and the rest by bus, he takes {t(h1)} hours; if he travels {b} km by train and the rest by bus, he takes {t(h2)} hours. Find the speeds of the train and the bus.",
+    return Q(f"A man travels {D} km partly by train and partly by bus. If he travels {a} km by train and the rest by bus, he takes ${t(h1)}$ hours; if he travels {b} km by train and the rest by bus, he takes ${t(h2)}$ hours. Find the speeds of the train and the bus.",
              f"Let train $u$, bus $v$ km/h; $p=\\frac{{1}}{{u}}$, $q=\\frac{{1}}{{v}}$: ${a}p+{D-a}q={t(h1)}$, ${b}p+{D-b}q={t(h2)}$ (2); $p=\\frac{{1}}{{{u}}}$, $q=\\frac{{1}}{{{v}}}$ (2); train {u} km/h, bus {v} km/h (1).", "2+2+1")
 def KTRI(a1, b1, c1, a2, b2, c2):
     x0, y0 = sol_cost(a1, b1, c1, a2, b2, c2)

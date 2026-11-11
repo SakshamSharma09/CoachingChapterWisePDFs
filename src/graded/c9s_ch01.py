@@ -186,7 +186,7 @@ mA = [MC([
  ]), MC([
  ("A pendulum model assumes no friction. The actual pendulum:", "slowly stops swinging", "swings forever", "speeds up", "stops at once", "Friction at the pivot and air resistance."),
  ("The predictions of Newton's law of gravitation matched the observed motion of planets. This:", "supports the law", "proves it forever", "refutes it", "has no effect", "Agreement supports it."),
- ("The 'ideal gas' model works best at:", "low pressure and high temperature", "high pressure and low temperature", "any condition", "none", "Real gases approach ideal behaviour."),
+ ("The 'ideal gas' model works best at:", "low pressure and high temperature", "high pressure and low temperature", "any condition", "high pressure and high temperature", "Real gases approach ideal behaviour."),
  ("When a model fails in some situation, the scientist:", "defines its limits and develops a better model", "discards all science", "ignores the failure", "blames observers", "Model improvement."),
  ("Which of the following is NOT a testable hypothesis?", "'Beauty is the best colour of a flower.'", "'More light increases plant growth.'", "'Heated gas expands.'", "'Salt dissolves faster in hot water.'", "Cannot be measured."),
  ("Which one is a quantitative observation?", "The liquid has a mass of 30 g.", "The liquid is blue.", "The liquid smells sweet.", "The liquid is clear.", "Has a number."),

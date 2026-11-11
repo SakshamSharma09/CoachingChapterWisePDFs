@@ -26,7 +26,7 @@ NA = MC([
 "Jauhar was | self-immolation by Rajput women to avoid capture | a tax | a coin | a fort | Preserving honour",
 "The Mahabharata translated into Persian under Akbar was called | Razmnama | Baburnama | Akbarnama | Panchatantra | Book of Wars",
 "The Taj Mahal was built by | Shah Jahan | Jahangir | Akbar | Aurangzeb | At Agra",
-"Aurangzeb took the title | Alamgir | Sikander Sani | Akbar-i-Azam | Padshah Ghazi | Conqueror of the world",
+"Aurangzeb took the title | Alamgir | Sikander Sani | Akbar-i-Azam | Jahangir | Conqueror of the world",
 "Rani Durgavati was ruler of | Garha | Mewar | Marwar | Ahom | Gond kingdom",
 "The Battle of Haldighati (1576) was fought between Maharana Pratap and the | Mughals | Marathas | British | Ahoms | In the Aravallis",
 "The Battle of Saraighat (1671) was won by | the Ahoms under Lachit Borphukan | the Mughals | the Sikhs | the Marathas | On the Brahmaputra",

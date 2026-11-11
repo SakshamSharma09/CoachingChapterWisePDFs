@@ -1,4 +1,4 @@
-"""Class 9 English (Kaleidoscope) Unit 1: How I Taught My Grandmother to Read (Sudha Murty) + Bharat Our Land (Subramania Bharati). Original paraphrased material."""
+"""Class 9 English (Kaveri) Unit 1: How I Taught My Grandmother to Read (Sudha Murty) + Bharat Our Land (Subramania Bharati). Original paraphrased material."""
 from engh import *
 SLUG, NAME, CHNO = "How_I_Taught_My_Grandmother_to_Read_Bharat_Our_Land", "How I Taught My Grandmother to Read; Bharat Our Land", 1
 
@@ -14,7 +14,7 @@ nA = [
  m("On the festival day the grandmother touched the narrator's feet. This shows that she:", "respected a teacher whatever her age|was ashamed|was afraid|wished to tease her", "A teacher deserves respect at any age."),
  m("'The student passed with flying colours.' The phrase means the student:", "did exceptionally well|barely passed|failed|cheated", "Flying colours = great success."),
  m("What lesson does the story give about learning?", "It can begin at any age|only children learn|it needs a school|it is for rich people", "A sixty-two-year-old learner succeeded."),
- m("The narrator's attitude to her grandmother's wish was at first:", "amused and doubtful|angry|fearful|bored", "Teaching someone so old seemed a joke, but she began."),
+ m("The narrator's attitude to her grandmother's wish was at first:", "amused and doubtful|angry|fearful|hostile", "Teaching someone so old seemed a joke, but she began."),
  m("The grandmother's character is best described as:", "determined and humble|lazy and proud|careless and rude|timid and silent", "She worked hard and honoured her young teacher."),
  m("Which word from the story best matches 'a person who teaches'?", "teacher|pupil|writer|reader", "A teacher instructs."),
  m("The poet of 'Bharat Our Land' is:", "Subramania Bharati|Rabindranath Tagore|Kalidasa|Harindranath Chattopadhyay", "A Tamil poet and patriot."),
@@ -24,16 +24,16 @@ nA = [
  m("A line repeated at the end of each stanza is called a:", "refrain|couplet|stanza|footnote", "It stresses the main idea."),
  m("The mood of 'Bharat Our Land' is mainly:", "proud and celebratory|sorrowful|fearful|humorous", "It sings the glory of the land."),
  m("'Peerless' in 'a land that is peerless' means:", "without equal|very old|very small|noisy", "Peerless = no one equal."),
- m("Read: 'Sages sat in her forests and sang of truth.' The extract refers to India's:", "spiritual tradition|army|trade|sports", "Sages and truth show spiritual heritage."),
+ m("Read: 'Sages sat in her forests and sang of truth.' The extract refers to India's:", "spiritual tradition|army|trade|film industry", "Sages and truth show spiritual heritage."),
  m("The poet urges all to sing her glory. This is an example of:", "an appeal to the reader|a complaint|a threat|a joke", "He invites everyone to praise the land."),
- m("Which of the following best states the theme of the poem?", "pride in the motherland's greatness|fear of war|love of cities|pain of exile", "A tribute to land, rivers, wisdom."),
+ m("Which of the following best states the theme of the poem?", "pride in the motherland's greatness|longing for foreign lands|love of cities|pain of exile", "A tribute to land, rivers, wisdom."),
  m("Choose the correct reported form: The grandmother said, 'I will read the novel.'", "The grandmother said that she would read the novel.|The grandmother said that I will read the novel.|The grandmother says she would read the novel.|The grandmother said she will read the novel.", "Will becomes would; I becomes she."),
  m("Choose the correct sentence:", "She learnt to read at sixty-two.|She learn to read at sixty-two.|She learning to read at sixty-two.|She learns to read at sixty-two yesterday.", "Simple past is needed."),
  m("The opposite of 'dependent' is:", "independent|helpless|weak|ready", "Independent = self-reliant."),
  m("The story is told by:", "the granddaughter, in first person|the grandmother, in first person|a teacher, in third person|the postman", "The narrator is the granddaughter."),
  m("Which quality of the narrator is shown by teaching her grandmother daily after school?", "patience|greed|anger|pride", "She taught with patience."),
  m("'Illiterate' means:", "unable to read and write|very clever|rich|aged", "Il- means not."),
- m("The story is based on the narrator's:", "real family memory|space adventure|imagined kingdom|war memory", "It is a memoir-style narrative."),
+ m("The story is based on the narrator's:", "real family memory|space adventure|imagined kingdom|dream", "It is a memoir-style narrative."),
 ]
 nB = [
  b("Why did the narrator's grandmother cry when she could not read the new episode?", "She felt helpless (1) because she depended on others to read the serial she loved (1)."),
@@ -98,7 +98,7 @@ eA = [
  m("The grandmother learnt to read a:", "novel|map|menu|bill", "Her target was a novel."),
  m("'Passed with flying colours' means:", "did very well|failed|was late|ran away", "A great result."),
  m("The grandmother cried because she:", "could not read the serial|lost her bag|missed a bus|was punished", "Helplessness."),
- m("The story is mainly about:", "learning|war|sports|cooking", "A late learner."),
+ m("The story is mainly about:", "learning|a lost treasure|a village fair|a wedding", "A late learner."),
  m("Which word means 'a person who studies under a teacher'?", "pupil|queen|doctor|farmer", "A pupil studies."),
  m("The opposite of 'young' is:", "old|small|new|tall", "Old = not young."),
  m("The plural of 'story' is:", "stories|storys|storyes|story's", "Y changes to ies."),
@@ -169,7 +169,7 @@ eD = [
 # ---------------- Medium ----------------
 mA = [
  m("The grandmother's regret at being unable to read shows that she:", "valued independence|disliked stories|feared school|lacked interest", "She wanted to read herself."),
- m("Why did the narrator not refuse to teach her grandmother despite her doubts?", "She saw her sincere wish|she was ordered|she was paid|she was bored", "The wish was genuine."),
+ m("Why did the narrator not refuse to teach her grandmother despite her doubts?", "She saw her sincere wish|she was ordered|she was paid|she wanted a reward", "The wish was genuine."),
  m("Which statement reflects the grandmother's attitude to learning?", "She treated her young granddaughter as a teacher|She felt she was too old|She disliked homework|She stopped lessons after a week", "She accepted a teacher's authority."),
  m("The decision of the old lady in the serial reveals that she valued:", "another's happiness over her own wish|money above all|travel above duty|fame", "She funded a girl's marriage."),
  m("The story challenges the belief that:", "old people cannot learn|children cannot teach|novels are costly|villages lack schools", "A sixty-two-year-old learnt."),
@@ -178,7 +178,7 @@ mA = [
  m("'Dependent on others' suggests the grandmother had to:", "ask others to read for her|travel alone|earn a living|run a school", "That was her limit."),
  m("The tone of the narration is:", "warm and affectionate|bitter|mocking|fearful", "A loving memory."),
  m("The word 'novel' in the story is used as a:", "noun meaning a long story|adjective meaning new|verb|adverb", "A book of fiction."),
- m("'Novel' used as an adjective (as in 'a novel idea') means:", "new and original|long|boring|ancient", "Another sense of the word."),
+ m("'Novel' used as an adjective (as in 'a novel idea') means:", "new and original|long|fictional|ancient", "Another sense of the word."),
  m("'Though old, she was keen to learn.' The word 'though' shows:", "contrast|reason|time|place", "Old vs keen."),
  m("Choose the correctly punctuated sentence:", "She said, \"I will learn to read.\"|She said \"I will learn to read\".|She said I will learn to read.|She said, I will learn to read\"", "Comma before the quotation, quotes around speech."),
  m("Choose the sentence in the passive voice:", "The novel was read by the grandmother.|The grandmother read the novel.|The grandmother reads novels.|The grandmother will read.", "Object becomes subject."),
@@ -189,15 +189,15 @@ mA = [
  m("Read: 'Her rivers sing as they run to the sea.' The device is:", "personification|hyperbole|oxymoron|irony", "Rivers are said to sing."),
  m("The phrase 'sing her glory' is most likely:", "a call to praise|a music lesson|a threat|a question", "An invitation."),
  m("The poet's view of India's past is:", "full of pride|critical|fearful|indifferent", "He celebrates it."),
- m("The poem moves from:", "natural beauty to cultural greatness|war to peace|city to village|dawn to night", "Land first, then wisdom and heritage."),
+ m("The poem moves from:", "natural beauty to cultural greatness|dawn to dusk|city to village|dawn to night", "Land first, then wisdom and heritage."),
  m("'Heritage' means:", "what is handed down from the past|new buildings|a vehicle|a tax", "Inherited traditions."),
  m("An ode generally uses:", "elevated language and feeling|slang|jokes|numbers", "Lofty tone."),
  m("Which pair is a correct synonym match?", "peerless - unmatched|glory - shame|humble - proud|ancient - modern", "Peerless = unmatched."),
  m("The central idea linking the story and the poem is:", "respect and devotion|fear and revenge|trade|travel", "Respect for a teacher; devotion to the land."),
  m("Which sentence uses 'whose' correctly?", "The woman whose dream came true is my grandmother.|The woman whose came true her dream is my grandmother.|Whose the woman is my grandmother.|The woman who's dream came true.", "Whose shows possession."),
- m("The message 'Never give up' is best supported by:", "the grandmother's steady practice|the festival|the serial|the novel's price", "She kept working."),
+ m("The message 'Never give up' is best supported by:", "the grandmother's steady practice|the weather|the serial|the novel's price", "She kept working."),
  m("If the narrator had refused to teach, the likely effect would have been:", "the grandmother would remain dependent|nothing would change|she would learn at once|the serial would end", "Her wish needed a teacher."),
- m("Which is a fact, not an opinion, about the story?", "The grandmother began to learn at sixty-two|Learning is easy for the old|Serials are boring|Teachers are strict", "Age is a fact in the text."),
+ m("Which is a fact, not an opinion, about the story?", "The grandmother began to learn at sixty-two|Learning is easy for the old|Grandmothers are wise|Teachers are strict", "Age is a fact in the text."),
 ]
 mB = [
  b("Why is the grandmother's decision to learn called brave?", "She was old and had never studied (1), yet she faced the challenge and a young teacher (1)."),
@@ -206,7 +206,7 @@ mB = [
  b("Why does the narrator, after the lessons, look at her grandmother with new respect?", "She saw the grandmother's effort and humility (1). She learnt that determination matters more than age (1)."),
  b("How does the story reverse the usual roles of teacher and learner?", "The young girl teaches the old woman (1). The old woman bows to the child (1)."),
  b("What does the old lady's decision in the serial reflect about her values?", "She cared for another person's happiness (1) more than her own pilgrimage (1)."),
- b("Explain the line 'Mountains guard her north' as a figure of speech.", "It is personification (1). Mountains do an action of living guards (1)."),
+ b("Name the figure of speech in the illustrative phrase 'mountains guard the land'.", "It is personification (1). Mountains do an action of living guards (1)."),
  b("How does repetition help the poem?", "It reinforces the poet's praise (1) and makes the poem musical (1)."),
  b("What emotions does the poet want readers to feel?", "Pride and love for the nation (1) and a wish to join in praise (1)."),
  b("Which two aspects of India does the poet balance?", "Natural beauty (1) and cultural wisdom (1)."),
@@ -264,7 +264,7 @@ hA = [
  m("'Her eyes were lamps of joy.' This is a:", "metaphor|simile|hyperbole|alliteration", "Direct comparison without 'like'."),
  m("Which sentence is an example of hyperbole?", "I have told you a thousand times to read.|She read a book.|He went home.|They talked.", "Deliberate exaggeration."),
  m("'Slow and steady wins the race' best fits the grandmother because:", "her gradual practice led to success|she ran fast|she took shortcuts|she avoided practice", "Persistence."),
- m("Which alternative title would best preserve the story's theme?", "A Teacher at Any Age|A Dreadful Serial|The Festival Menu|A Journey to Kashi", "Teacher at any age."),
+ m("Which alternative title would best preserve the story's theme?", "A Teacher at Any Age|A Dreadful Serial|The Cost of a Novel|A Journey to Kashi", "Teacher at any age."),
  m("'Peerless' and 'matchless' are:", "synonyms|antonyms|homophones|homonyms", "Same meaning."),
  m("In the poem, the refrain affects the reader mainly by:", "building cumulative devotion|breaking the rhythm|adding humour|confusing the plot", "It adds up the praise."),
  m("'Her peaks kiss the clouds.' The device is:", "personification|onomatopoeia|understatement|irony", "Peaks kiss like a person."),
@@ -278,7 +278,7 @@ hA = [
  m("Choose the sentence with correct subject-verb agreement:", "Neither the grandmother nor the children were late.|Neither the grandmother nor the children was late.|Neither grandmother nor children is late yesterday.|Neither were the grandmother late.", "The verb agrees with the nearer subject."),
  m("The closest meaning of 'resolve' as used in 'her resolve grew' is:", "firm decision|solution of a puzzle|sorrow|payment", "Determination."),
  m("The relationship of 'literate' to 'illiterate' is the same as:", "capable : incapable|big : large|hot : warm|run : ran", "Prefix gives the opposite."),
- m("Which element of the story is a frame for the whole narration?", "a granddaughter's memory|a courtroom|a market|a journey abroad", "The memoir is the frame."),
+ m("Which element of the story is a frame for the whole narration?", "a granddaughter's memory|a courtroom|a school inspection|a journey abroad", "The memoir is the frame."),
  m("A critic says the story is 'sentimental'. A fair reply is that it:", "balances emotion with humour and detail|has no emotion|is a thriller|is a lecture", "The tone mixes feeling and wit."),
 ]
 hB = [

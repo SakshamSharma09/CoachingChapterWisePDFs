@@ -23,7 +23,7 @@ A clinical thermometer should not be held by the: ## bulb ## stem ## top ## scal
 A laboratory thermometer is read: ## while the bulb is in the liquid ## after removing it ## after shaking ## after heating it ## It has no kink.
 While measuring temperature of a liquid in a beaker, the thermometer bulb should: ## be immersed in the liquid without touching the bottom ## touch the bottom ## be outside ## be held in the air ## Avoid wall or bottom.
 The thermometer's reading must be taken with the eye: ## level with the mercury thread ## below ## above only ## closed ## Avoid parallax.
-Heat flows from: ## hot to cold objects ## cold to hot objects ## both ways always ## neither ## Heat moves towards lower temperature.
+Heat flows from: ## hot to cold objects ## cold to hot objects ## both ways always ## larger objects to smaller objects ## Heat moves towards lower temperature.
 When a hot object and a cold object are kept in contact, finally: ## they reach the same temperature ## hot object gets hotter ## cold object gets colder ## no change ## Thermal equilibrium.
 The transfer of heat through a solid from the hotter part to the colder part is: ## conduction ## radiation ## evaporation ## melting ## Conduction in solids.
 """), mc("""
@@ -60,7 +60,7 @@ Why does an iron rod feel colder than wood in a cold room though both are at the
 Describe an experiment to show that metals are good conductors of heat. ## Heat one end of a metal rod|1 ## Pins fixed with wax along it|1 ## Pins fall one after another|1
 Mention three examples of good conductors and three of insulators. ## Conductors: iron, copper, aluminium|1 ## Insulators: wood, plastic, rubber|1 ## Use as handles|1
 Why do cooks use a cloth to hold hot vessels? ## Cloth is a poor conductor|1 ## Prevents burns|1 ## Heat is not transferred to the hand|1
-What happens when hot water is mixed with cold water? ## Heat flows from hot to cold|1 ## Mixture has intermediate temperature|1 ## Thermal equilibrium|1
+What happens when hot water is mixed with cold water? ## Heat flows from hot to cold|1 ## Mixture has an intermediate temperature|1 ## Both finally have the same temperature|1
 Compare a clinical and a laboratory thermometer. ## Clinical: 35-42 °C, kink|1 ## Laboratory: -10 to 110 °C, no kink|1 ## Different uses|1
 How does the thermos flask keep tea hot? ## Double-walled with vacuum|1 ## Reduces conduction|1 ## Silvered walls reflect heat|1
 Why does a sick child need her body temperature measured instead of being estimated by touch? ## Touch is unreliable|1 ## A thermometer gives exact value|1 ## Fever can be known|1
@@ -96,27 +96,27 @@ Water boils at: ## 100 °C ## 0 °C ## 37 °C ## 25 °C ## Boiling point.
 Normal body temperature is: ## 37 °C ## 17 °C ## 57 °C ## 77 °C ## Human body.
 A clinical thermometer is used for: ## body temperature ## boiling water ## ice ## room only ## Used by doctors.
 The liquid inside many thermometers is: ## mercury ## water ## milk ## ink ## Mercury.
-Heat flows from a: ## hot body to a cold body ## cold to hot ## ice to fire ## nothing ## Hot to cold.
+Heat flows from a: ## hot body to a cold body ## cold body to a hot body ## heavy body to a light body ## big body to a small body ## Hot to cold.
 A good conductor of heat is: ## iron ## wood ## plastic ## rubber ## Metals.
 A poor conductor of heat is: ## wood ## copper ## iron ## aluminium ## Wood.
 """), mc("""
-We shake the clinical thermometer before use so that the mercury goes: ## below 35 °C ## above 42 °C ## to 100 °C ## nowhere ## To reset.
+We shake the clinical thermometer before use so that the mercury goes: ## below 35 °C ## above 42 °C ## to 100 °C ## to the middle of the scale ## To reset.
 A thermometer should be read with the eye: ## level with the mercury ## above ## below ## closed ## Avoid error.
 Ice melts at: ## 0 °C ## 100 °C ## 37 °C ## 10 °C ## Melting point.
-Cooking vessels are made of: ## metals ## paper ## glass thin ## wood ## Conduct heat.
+Cooking vessels are made of: ## metals ## paper ## cotton ## wax ## Conduct heat.
 Handles of vessels are made of: ## plastic ## iron ## copper ## silver ## Insulators.
 Wool is a: ## poor conductor ## good conductor ## metal ## liquid ## It keeps us warm.
-In winter we wear: ## woollen clothes ## cotton thin clothes ## no clothes ## plastic sheets ## Warmth.
-A hot cup of tea becomes: ## cold after some time ## hotter ## ice ## solid ## It loses heat.
-A cold drink in a warm room becomes: ## warm ## colder ## ice ## solid ## Heat enters it.
-Our sense of touch is: ## not reliable for temperature ## always reliable ## a thermometer ## exact ## Can mislead.
+In winter we wear: ## woollen clothes ## thin cotton clothes ## sleeveless vests only ## wet clothes ## Warmth.
+A hot cup of tea kept on a table becomes: ## cooler after some time ## hotter after some time ## frozen into ice ## unchanged for ever ## It loses heat.
+A cold drink kept in a warm room becomes: ## warmer ## colder ## frozen ## boiling ## Heat enters it.
+Our sense of touch is: ## not reliable for judging temperature ## always reliable ## as accurate as a thermometer ## exact to 0.1 °C ## Can mislead.
 """), mc("""
 Which has the highest temperature? ## boiling water ## ice ## tap water ## ice cream ## 100 °C.
 Which has the lowest temperature? ## ice ## boiling water ## tea ## warm milk ## 0 °C.
 A fever means body temperature is: ## above normal ## below normal ## 37 °C ## 0 °C ## Higher than 37 °C.
-A thermos flask keeps tea: ## hot ## cold only ## spoilt ## changed ## Stays hot.
-A steel spoon in hot milk becomes: ## hot ## cold ## wet only ## soft ## Conduction.
-A wooden spoon in hot milk stays: ## cool ## very hot ## melting ## soft ## Wood is an insulator.
+A thermos flask keeps hot tea: ## hot for a long time ## cold in a few minutes ## spoilt ## boiling ## Stays hot.
+A steel spoon in hot milk becomes: ## hot ## cold ## frozen ## soft ## Conduction.
+A wooden spoon in hot milk stays: ## much cooler at the free end ## very hot at the free end ## melting ## cold ## Wood is an insulator.
 A laboratory thermometer is used to measure: ## temperature of liquids ## time ## mass ## length ## Lab use.
 A digital thermometer shows temperature on a: ## display ## scale of mercury only ## flame ## balance ## Digital.
 Weather reports tell us: ## temperature ## mass ## volume ## length ## Temperature.
@@ -179,15 +179,15 @@ A hot iron rod and a hot wooden rod, both at 60 °C, are touched. Which feels ho
 A student measures water temperature as 95 °C and later 60 °C. The heat flows from water to: ## surroundings ## water from surroundings ## nowhere ## the thermometer to the water ## Heat flows from higher temperature.
 A hot spoon and a cold glass are placed together. The final temperature of the spoon will: ## fall ## rise above the glass ## stay constant ## become 100 °C ## Heat goes from spoon to glass.
 Which of these will conduct heat the fastest? ## copper rod ## wooden rod ## glass rod ## plastic rod ## Copper is an excellent conductor.
-Why is mercury preferred to water as a thermometric liquid? ## it expands uniformly and does not wet glass ## it is cheap ## it is transparent ## it is cold ## Mercury properties.
+Why is mercury preferred to water as a thermometric liquid? ## it expands uniformly and does not wet glass ## it is cheaper than water ## it is colourless ## it freezes at 0 °C ## Mercury properties.
 Why can a clinical thermometer not be used outside 35-42 °C? ## it is designed for body range ## it is too big ## it is made of plastic ## it has no scale ## Range limit.
-Which thermometer is best to measure the temperature of boiling water? ## laboratory thermometer ## clinical thermometer ## digital clinical thermometer only ## none ## Range up to 110 °C.
+Which thermometer is best to measure the temperature of boiling water? ## laboratory thermometer ## clinical thermometer ## a digital clinical thermometer ## a thermometer meant for the body ## Range up to 110 °C.
 A thermometer reads 0 °C when placed in: ## melting ice ## boiling water ## warm water ## sunlight ## Ice-water mixture.
 """), mc("""
 Why does the reading of a clinical thermometer stay after it is removed from the mouth? ## because of the kink ## because of the scale ## because of the glass ## because of the bulb ## Kink holds mercury.
 Why should a lab thermometer not be held by the bulb while reading? ## bulb is sensitive to body heat ## it will break ## it is slippery ## it is cold ## Hand heat changes the reading.
-Why does a person feel colder after bathing in air than in water? ## evaporation takes heat away ## water is cold ## air is wet ## clothes are tight ## Evaporation cools.
-Why is it risky to put a mercury thermometer in the oven? ## it can break ## it will show correct reading ## it is cold ## it becomes plastic ## High temperature breaks it.
+Why do we feel cold when we come out of water after a bath? ## water evaporating from the skin takes heat away ## water is colder than the air ## air is wet ## clothes are tight ## Evaporation cools.
+Why is it risky to put a mercury thermometer in the oven? ## it can break ## it will always show the correct reading ## it will read zero ## it will become lighter ## High temperature breaks it.
 Which of the following is the best heat insulator? ## air ## iron ## aluminium ## copper ## Air is a poor conductor.
 A woollen blanket keeps us warm in winter mainly because: ## trapped air reduces heat loss ## wool produces heat ## wool is a metal ## wool is hot ## Trapped air.
 Why do we use two thin blankets instead of one thick one for more warmth? ## air layer between them insulates ## blankets are cheap ## blankets produce heat ## easy to wash ## Trapped air.
@@ -201,7 +201,7 @@ In summer, a metal door handle feels hotter than a wooden door because: ## the m
 Which of the following cannot be measured by a thermometer? ## mass ## temperature of milk ## temperature of a room ## temperature of a body ## It measures temperature only.
 A student tabulates the temperature of water every minute as it cools: 90, 80, 72, 66, 61, 57. The cooling is: ## faster at first then slower ## constant ## increases ## stops ## The difference decreases.
 The reading 36.9 °C of a child is: ## normal ## high fever ## low ## dangerous ## About normal.
-A clinical thermometer reads 41 °C. The person should: ## see a doctor immediately ## play ## wait for a week ## do nothing ## High fever.
+A clinical thermometer reads 41 °C. The person should: ## see a doctor immediately ## continue school normally ## take a cold bath ## wait a week before telling anyone ## High fever.
 Which scale marks are found on the thermometer in a refrigerator? ## below and above 0 °C ## only 100 °C ## only 37 °C ## 200 °C ## Range of a fridge.
 If a thermometer reads 0 °C in melting ice, then in boiling water it should read: ## 100 °C ## 0 °C ## 50 °C ## 37 °C ## Fixed points.
 What is the effect of adding ice to water in a glass? ## temperature of water falls ## temperature rises ## no change ## becomes steam ## Ice absorbs heat.
@@ -212,7 +212,7 @@ Why should the bulb of a laboratory thermometer not touch the bottom of the beak
 Why does the temperature of a hot cup of tea fall while that of the surroundings rises slightly? ## Heat flows from tea to surroundings ## Surroundings gain heat
 Explain why a metal spoon feels cold in the fridge when touched. ## Metal conducts heat from the hand quickly ## Hand loses heat so it feels cold
 Why do we wear several layers instead of one thick layer in winter? ## Air trapped between layers ## Air insulates
-Explain why a mercury thermometer is slow to rise when a large cold block is placed with it. ## Bulb needs to gain heat ## Time is needed to reach the same temperature
+Why should we wait for some time before reading a thermometer placed in a liquid? ## The mercury needs time to reach the temperature of the liquid ## An early reading may be wrong
 Why is a thermometer kept in the shade to read air temperature? ## Direct sunlight heats the bulb ## So reading is of air only
 What happens to the temperature of a hot object placed in cold water? ## Hot object cools ## Water warms up
 Describe two uses of the thermos flask. ## Keeping tea hot ## Keeping cold drinks cool
@@ -227,18 +227,18 @@ Explain why water in an earthen pot (matka) remains cool in summer. ## Water see
 A person measures a 38 °C temperature at morning and 39.5 °C in the evening. What would you conclude and suggest? ## Fever is rising|1 ## Doctor must be consulted|1 ## Monitor regularly|1
 Explain why we should read the thermometer after the mercury level becomes steady. ## It needs time to reach the same temperature|1 ## Early reading is incorrect|1 ## Steady reading is reliable|1
 Why do the vessels used for boiling have flat bases of metal? ## Conducts heat from flame|1 ## Spreads heat evenly|1 ## Cooks quickly|1
-Why are the walls of a thermos flask silvered? ## Reduces heat loss by radiation|1 ## Reflects heat|1 ## Keeps drink hot or cold|1
+Why are the walls of a thermos flask silvered? ## Shiny walls reflect heat back into the flask|1 ## Less heat escapes|1 ## Keeps drink hot or cold|1
 Explain why an iron nail sunk in hot water feels hot at once but a wooden stick feels warm slowly. ## Iron conducts heat quickly|1 ## Wood conducts poorly|1 ## Rate differs|1
 Compare the reading time of a mercury and a digital thermometer. ## Mercury takes about a minute|1 ## Digital beeps in seconds|1 ## Digital is safer|1
 Why is it advised that a clinical thermometer should not be washed in hot water? ## Mercury would expand|1 ## Thermometer may break|1 ## Use cold or lukewarm|1
 How do you check the accuracy of a thermometer using ice and boiling water? ## Dip in melting ice: should read 0 °C|1 ## Dip in boiling water: should read 100 °C|1 ## Compare|1
-Explain why we use ice to reduce a high fever (cold compress). ## Heat flows from forehead to ice|1 ## The body temperature goes down|1 ## Helps to cool|1
+Why should a person with fever be checked with a thermometer rather than by touching the forehead? ## Touch is unreliable|1 ## A thermometer gives the exact temperature|1 ## A doctor can then decide the treatment|1
 Why is a thin cotton cloth preferred in summer? ## Allows heat to escape|1 ## Absorbs sweat|1 ## Keeps cool|1
 Why does a hot iron plate burn the hand but a hot wooden plate at the same temperature may not? ## Iron gives heat faster|1 ## Wood gives slowly|1 ## Rate of heat transfer differs|1
 List the three states of water at different temperatures and what happens at 0 °C and 100 °C. ## Below 0 °C ice|1 ## Between 0 and 100 °C liquid|1 ## Above 100 °C steam|1
 Why does a spoon placed in a hot cup become warm at the top? ## Heat conducts upward|1 ## Metal conducts|1 ## Plastic spoon would stay cool|1
 Explain why igloos are warm inside. ## Snow traps air|1 ## Air is a poor conductor|1 ## Body heat stays|1
-Why is the handle of an iron kept of wood or plastic? ## Not to burn the hand|1 ## Poor conductor|1 ## Safe use|1
+Why is the handle of a frying pan made of wood or plastic? ## Not to burn the hand|1 ## Poor conductor|1 ## Safe use|1
 """
 mD = """
 A student heats water in a beaker and records the temperature every 2 minutes: 30, 38, 46, 54, 62 °C. Find the rise per 2 minutes and the likely temperature after 10 minutes. ## Rise = 8 °C each|1 ## After 2 min: 38|1 ## After 4 min: 46|1 ## After 10 min = 30 + 5 x 8|1 ## 70 °C|1
@@ -246,11 +246,11 @@ Explain how a clinical thermometer works, why it has a kink and why it should no
 Explain how we can show that heat flows from hot to cold using hot water in a metal can and a thermometer, with observations. ## Pour hot water in can|1 ## Place on a table|1 ## Measure every few minutes|1 ## Temperature falls|1 ## Tends to room temperature|1
 Compare conductors and insulators and select materials for (a) a saucepan, (b) its handle, (c) an oven glove, (d) an electric kettle body. ## Saucepan: aluminium|1 ## Handle: plastic or wood|1 ## Glove: thick cotton|1 ## Kettle body: steel|1 ## Choice by conduction|1
 Discuss the importance of recording temperature in daily life: weather, health and cooking. ## Weather: forecasts|1 ## Health: fever|1 ## Cooking: right temperature|1 ## Storage: fridge|1 ## Industry: control|1
-Explain with a labelled description how to measure the temperature of a cup of milk. ## Take milk in a cup|1 ## Hold the thermometer vertically|1 ## Do not touch the bottom|1 ## Wait|1 ## Read level|1
-Explain the idea of thermal equilibrium with the example of mixing hot and cold water. ## Hot at 70 °C, cold at 20 °C|1 ## Heat flows from hot to cold|1 ## Final in between|1 ## No more flow once equal|1 ## Same temperature|1
+Explain how to measure the temperature of a cup of milk. ## Take milk in a cup|1 ## Hold the thermometer vertically|1 ## Do not touch the bottom|1 ## Wait|1 ## Read level|1
+Explain what happens when hot water and cold water are mixed. ## Hot water at 70 °C, cold water at 20 °C|1 ## Heat flows from hot to cold|1 ## Final in between|1 ## No more flow once equal|1 ## Same temperature|1
 Why is it unsafe to use a lab thermometer in the mouth? ## Mercury can leak|1 ## Glass may break|1 ## It has no kink|1 ## Not for body|1 ## Use clinical or digital|1
 Describe in steps the experiment to test three materials (iron, wood, plastic) as conductors using hot water. ## Place each spoon in hot water|1 ## Same depth|1 ## Touch the free ends after 2 min|1 ## Iron is hottest|1 ## Wood and plastic remain cool|1
-Why are some utensils like pressure cookers made with a thin base but a thick lid? ## Thin base conducts heat|1 ## Thick lid conserves heat|1 ## Safe design|1 ## Handles of plastic|1 ## Reduces loss|1
+Explain why the body of an electric kettle is made of metal but its handle of plastic. ## Metal conducts heat to the water|1 ## Water heats quickly|1 ## Plastic is a poor conductor of heat|1 ## The handle stays cool|1 ## It is safe to hold|1
 Explain how winter clothes, quilts and tea cosies all use the same principle. ## They trap air|1 ## Air is an insulator|1 ## Heat loss reduces|1 ## Body or tea stays warm|1 ## Principle: insulation|1
 Describe the construction of a thermos flask and how it reduces heat transfer by conduction. ## Double glass wall|1 ## Vacuum in between|1 ## Cork stopper|1 ## No medium for conduction|1 ## Outer plastic case|1
 """
@@ -260,7 +260,7 @@ hA = [mc("""
 Thermometer A reads 0 °C in melting ice and 100 °C in boiling water. Thermometer B reads 2 °C and 98 °C. For the same hot water at actual 50 °C, B would most likely read: ## 50 °C ## 52 °C ## 48 °C ## 54 °C ## Linear scale with equal spacing gives 50 °C.
 Hot water at 80 °C is poured into three cups: metal, ceramic and plastic. After 5 minutes the water is coolest in the: ## metal cup ## ceramic cup ## plastic cup ## all equal ## Metal conducts heat away fastest.
 Which conclusion follows if the temperature of an object is not changing though heat is flowing in and out? ## heat in equals heat out ## no heat flow ## object is cold ## object is hot ## Balance.
-A student records water temperature in the evening: 20 °C, 20 °C, 20 °C after placing in a room at 20 °C. This shows: ## thermal equilibrium ## heating ## cooling ## boiling ## Same as surroundings.
+A student records water temperature in the evening: 20 °C, 20 °C, 20 °C after placing in a room at 20 °C. This shows: ## the water is at the same temperature as the room ## the water is being heated ## the water is cooling ## the water is boiling ## Same as surroundings.
 Which statement is correct? ## a bigger object is not always hotter ## a larger object always has higher temperature ## temperature depends on size ## cold objects have no heat ## Temperature is independent of size.
 A pan of boiling water and a bathtub of warm water: which has higher temperature? ## boiling water ## bathtub ## equal ## cannot say ## Temperature is about hotness.
 A thermometer placed in direct sunlight shows a higher reading than in the shade because: ## the bulb absorbs sunlight ## the air is hotter ## the scale changes ## mercury increases ## Direct heating.
@@ -296,7 +296,7 @@ A metal spoon and a wooden spoon at room temperature feel different to touch. Do
 Why can the temperature of boiling water not be raised above 100 °C in an open vessel on heating continuously? ## It changes to steam ## Heat is used for the change of state
 A clinical thermometer shows 37.5 °C and the doctor says 'slight temperature'. Explain. ## Slightly above 37 °C ## Mild fever
 Why do some thermometers use alcohol coloured red instead of mercury, especially at low temperatures? ## Alcohol does not freeze easily ## It is safer
-Describe why a cloth soaked in cold water on the forehead helps reduce fever. ## Heat flows from the forehead ## Water evaporates, taking heat
+Why is a clinical thermometer kept under the tongue or in the armpit for about a minute? ## The mercury must reach the body temperature ## An early reading would be too low
 Why is it necessary to dry the lab thermometer after dipping in a hot liquid before putting in cold? ## Sudden change can crack the glass ## Gives a wrong reading
 Why does the mercury level fall suddenly when a clinical thermometer is shaken, but not when removed from the mouth? ## Kink stops fall when removed ## Shaking forces mercury through the kink
 Which has more heat: a bucket of water at 40 °C or a cup at 90 °C? Explain. ## The bucket can have more heat ## Temperature shows hotness, not amount
@@ -310,7 +310,7 @@ Plan a fair test to find which material keeps water hot longest: wool, cotton, a
 A cup of tea was cooled from 80 °C to 40 °C in 10 minutes. It cooled faster in the first 5 minutes than in the next. Explain. ## Larger temperature difference at first|1 ## Rate of heat loss reduces|1 ## Approaches room temperature slowly|1
 Explain, with reasons, why we should not place a mercury thermometer in boiling water directly without checking its range. ## Clinical has a limited range|1 ## Mercury would burst the bulb|1 ## Use a laboratory thermometer|1
 Why can ice float in a drink and make it cold? ## Ice is at lower temperature|1 ## Heat flows from drink to ice|1 ## Ice melts and the drink cools|1
-Explain why a thermometer in a bucket of hot water reads higher than the reading of the room before and settles to a reading. ## Bulb receives heat from water|1 ## Mercury expands|1 ## Becomes steady at water's temperature|1
+Explain why the thermometer reading rises when the bulb is dipped in hot water and then becomes steady. ## Bulb receives heat from water|1 ## Mercury expands|1 ## Becomes steady at water's temperature|1
 Describe why the lid of a tiffin box should be airtight to keep food warm. ## Reduces loss of hot air|1 ## Stops steam escaping|1 ## Keeps heat|1
 Explain how a daily temperature chart can help predict the next day's weather (basic idea). ## Record patterns|1 ## Notice rise or fall|1 ## Use trends for prediction|1
 Why do metals feel colder than wood at 15 °C but warmer than wood at 50 °C? ## At 15 °C they take heat from the hand|1 ## At 50 °C they give heat to hand|1 ## Metal conducts quickly in both|1

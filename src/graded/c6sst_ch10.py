@@ -86,7 +86,7 @@ D5("Discuss how governance affects our daily life.", "Roads", "Schools", "Health
 
 # ---------------- EASY ----------------
 EA = MC([
-"The government makes | laws | toys | songs | roads of gold | Rules for all",
+"The government of a country makes | laws | festivals | crops | monsoon rains | Rules for society",
 "The head of the government of India is the | Prime Minister | President | Chief Justice | Speaker | Leader",
 "The head of the state of India is the | President | Prime Minister | Chief Minister | Governor | Elected",
 "The Parliament of India is in | New Delhi | Mumbai | Jaipur | Patna | Capital",
@@ -105,7 +105,7 @@ EA = MC([
 "An MLA is elected to the | State Assembly | Parliament | Panchayat | Court | State",
 "An MP is elected to | Parliament | Panchayat | State Assembly | School | Centre",
 "A minister heads a | department | school | market | field | Work area",
-"Democracy gives people | power | no rights | fear | silence | Equal rights",
+"Democracy gives people | the power to choose their government | a right to rule without elections | freedom from all laws | an army of their own | Rule of the people",
 "A leader of the class is called the | class monitor | principal | teacher | peon | Elected by class",
 "The Governor is the head of a | State | Country | District | Village | Appointed",
 "The President lives in | Rashtrapati Bhavan | Red Fort | Taj Mahal | Gateway of India | Delhi",
@@ -114,7 +114,7 @@ EA = MC([
 "The Constitution is the | supreme law | storybook | diary | map | Rules",
 "The government of a city is run by | local body | President | army | court | Municipality",
 "The government of a village is run by | Panchayat | Municipality | Parliament | court | Local body",
-"Public property belongs to | everyone | one person | the king | none | Shared",
+"Public property belongs to | everyone | one person | the king | the local police chief | Shared",
 "Taxes are used for | public services | personal use only | gifts | games | Roads and schools",
 ])
 EB = [

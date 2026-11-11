@@ -1,12 +1,12 @@
-"""Class 9 English (Kaleidoscope) Unit 3: Winds of Change (the hand fan, pankha) + Canvas of Soil (poem). Original paraphrased material."""
+"""Class 9 English (Kaveri) Unit 3: Winds of Change (the hand fan, pankha) + Canvas of Soil (poem). Original paraphrased material."""
 from engh import *
 SLUG, NAME, CHNO = "Winds_of_Change_Canvas_of_Soil", "Winds of Change; Canvas of Soil", 3
 
 # ---------------- NCERT-type ----------------
 nA = [
  m("The word 'pankha' is linked to the word 'pankh', which means:", "a bird's feather|a river|a cloth|a wheel", "Early fans were made from feathers."),
- m("In 'Winds of Change', the humble hand fan is shown as:", "an object that carries culture and history|only a toy|a modern machine|a weapon", "It reflects art and traditions."),
- m("Read: 'In temples and courts, attendants waved fans to cool the deity or the king.' This shows the fan was used for:", "comfort and ceremony|trade only|war|cooking", "Ritual and royal use."),
+ m("In 'Winds of Change', the humble hand fan is shown as:", "an object that carries culture and history|a weapon of war|a modern machine|a weapon", "It reflects art and traditions."),
+ m("Read: 'In temples and courts, attendants waved fans to cool the deity or the king.' This shows the fan was used for:", "comfort and ceremony|trade only|fashion|gardening", "Ritual and royal use."),
  m("Hand fans differ from region to region because craftspeople used:", "local materials and designs|the same factory|one pattern|plastic only", "Local resources shaped each fan."),
  m("Which of these is a natural material used for traditional fans?", "palm leaf|plastic|steel|rubber", "Palm leaf is a natural material."),
  m("'Humble' in 'the humble hand fan' means:", "simple and modest|expensive|noisy|ancient", "Humble = unassuming."),
@@ -22,10 +22,10 @@ nA = [
  m("In the poem, the gardener is shown as:", "an artist|a king|a teacher|a thief", "Gardener paints with plants."),
  m("Read: 'Seeds are brushstrokes on the brown canvas.' The figure of speech is:", "metaphor|simile|irony|onomatopoeia", "Direct comparison without 'like'."),
  m("In the poem, flowers stand for:", "colours of the painting|bricks|machines|coins", "Colours on the canvas."),
- m("The poem celebrates:", "the beauty of nature and care of the gardener|city life|war|trade", "Garden as art."),
+ m("The poem celebrates:", "the beauty of nature and care of the gardener|city life|wealth|trade", "Garden as art."),
  m("A poem in which lines end in matching sounds has:", "rhyme|prose|dialogue|plot", "Rhyme."),
  m("'Canvas' in the title literally means:", "a cloth for painting|a tent only|a field|a book", "A painting surface."),
- m("The mood of the poem is:", "joyful and admiring|fearful|angry|bored", "It admires the garden."),
+ m("The mood of the poem is:", "joyful and admiring|fearful|angry|bitter", "It admires the garden."),
  m("The word 'soil' is closest in meaning to:", "earth|cloud|ice|metal", "Earth."),
  m("Which of the following is an example of personification?", "The garden smiled at the morning sun.|The garden is green.|The garden has flowers.|The garden is big.", "The garden is given a smile."),
  m("Choose the correct sentence:", "Craftspeople have kept the art alive.|Craftspeople has keep the art alive.|Craftspeople kept the art alives.|Craftspeople keeping alive art.", "Correct form."),
@@ -34,7 +34,7 @@ nA = [
  m("The antonym of 'ancient' is:", "modern|old|large|rare", "Modern."),
  m("Which word can be used both as a noun and as a verb?", "fan|garden-like|colourful|ancient", "Fan (a fan / to fan the fire)."),
  m("Choose the correct reported speech: She said, 'Fans are beautiful.'", "She said that fans were beautiful.|She said that fans are beautiful yesterday.|She says that fans were beautiful.|She said fans being beautiful.", "Backshift."),
- m("The theme of the unit is:", "art, craft and nature as heritage|space travel|sports|cooking", "Both pieces value creative traditions."),
+ m("The theme of the unit is:", "art, craft and nature as heritage|politics|trade rivalry|exploration", "Both pieces value creative traditions."),
 ]
 nB = [
  b("What is the origin of the word 'pankha'?", "It comes from 'pankh' meaning feather (1) because early fans were made of feathers (1)."),
@@ -92,17 +92,17 @@ eA = [
  m("The hand fan was first made from:", "feathers|steel|plastic|glass", "Pankh = feather."),
  m("Fans were used in temples to:", "cool the deity|cook food|write letters|dig wells", "Ritual use."),
  m("Who used fans in court?", "kings|robots|pilots|divers", "Royal use."),
- m("A fan helps to feel:", "cool|hungry|sleepy only|thirsty only", "Moves air."),
+ m("A fan helps to feel:", "cool|hungry|angry|thirsty only", "Moves air."),
  m("A fan can be made from:", "palm leaves|iron only|glass|stone", "Palm leaf."),
  m("Fans differ across:", "regions|planets|oceans|seasons only", "Each region."),
  m("A person who makes fans by hand is an:", "artisan|pilot|banker|judge", "Craftsperson."),
- m("Today fans are often used as:", "decoration|weapons|money|toys only", "Decoration."),
+ m("Today fans are often used as:", "decoration|weapons|money|machines", "Decoration."),
  m("Electric fans have reduced the use of:", "hand fans|books|pens|shoes", "Fewer hand fans."),
  m("A fair is a place where we can:", "see and buy crafts|plant trees|take exams|catch fish", "Crafts are sold."),
  m("The opposite of 'ancient' is:", "modern|old|large|tall", "Modern."),
  m("The plural of 'fan' is:", "fans|fanes|fen|fanies", "Add s."),
- m("The poem 'Canvas of Soil' is about a:", "garden|market|school|temple", "A garden."),
- m("A canvas is used for:", "painting|cooking|flying|digging", "Painting."),
+ m("The poem 'Canvas of Soil' is about a:", "garden|railway line|school|temple", "A garden."),
+ m("A canvas is used for:", "painting|weaving|flying|digging", "Painting."),
  m("In the poem the artist is the:", "gardener|baker|doctor|sailor", "Gardener."),
  m("Seeds are compared to:", "brushstrokes|stones|coins|clouds", "Brushstrokes."),
  m("Flowers in the poem are like:", "colours|bricks|clocks|nails", "Colours."),
@@ -169,7 +169,7 @@ eD = [
 
 # ---------------- Medium ----------------
 mA = [
- m("The phrase 'winds of change' in the title suggests that the fan:", "has itself changed as times changed|is a storm|is a weather report|is a toy", "It uses both senses."),
+ m("The phrase 'winds of change' in the title suggests that the fan:", "has itself changed as times changed|is a storm|is a weather report|has stopped working", "It uses both senses."),
  m("The writer's statement that fans reflect regional identity is supported by the fact that:", "materials and designs differ|all fans look alike|fans came from one factory|fans are made of plastic", "Local variation."),
  m("Which situation most threatens traditional artisans?", "cheap machine-made substitutes|a village fair|a school workshop|a museum", "Competition from cheap goods."),
  m("Read: 'Though modern gadgets cool us faster, a hand-painted fan cools with grace.' The writer implies that handmade fans offer:", "beauty besides use|speed|cheapness|noise", "Aesthetic value."),
@@ -198,7 +198,7 @@ mA = [
  m("The word 'tradition' is a noun; its adjective form is:", "traditional|traditionally|traditioning|traditioned", "Add -al."),
  m("Which of the following is a collocation?", "preserve heritage|cook heritage|drive heritage|sing heritage", "Natural pairing."),
  m("The idiom 'a breath of fresh air' used for a new craft idea means:", "a refreshing change|a storm|bad weather|a disease", "Something new and welcome."),
- m("An appropriate heading for a newspaper report on a fan exhibition is:", "Fans find fresh admirers at craft fair|Fans fall in price|War on fans|Factory closed", "Relevant."),
+ m("An appropriate heading for a newspaper report on a fan exhibition is:", "Fans find fresh admirers at craft fair|Fans fall in price|Fans banned at fairs|Factory closed", "Relevant."),
 ]
 mB = [
  b("How does the writer link the fan's wind to social change?", "A fan moves air and has itself moved through changing times (1). The pun in the title joins both ideas (1)."),
@@ -252,16 +252,16 @@ mD = [
 # ---------------- Hard ----------------
 hA = [
  m("The writer's real concern in 'Winds of Change' is best described as:", "loss of cultural memory along with the craft|dislike of electricity|fear of weather|trade regulations", "Craft carries memory."),
- m("The pun in the title works because 'wind' relates to the fan and 'change' to:", "history and society|a storm|a mood|a market price", "Double meaning."),
+ m("The pun in the title works because 'wind' relates to the fan and 'change' to:", "history and society|a storm|a mood|a rainy season", "Double meaning."),
  m("Which inference is best supported by the claim that fans differed by region?", "craft grew from local conditions|trade stopped|all fans were royal|fans were not used", "Local roots."),
  m("A critic says, 'Craft revival is nostalgia.' A fair response is that revival also:", "creates livelihood and keeps skills alive|is useless|ends technology|is cruel", "Practical benefit."),
  m("What assumption underlies the writer's call to value hand-made objects?", "that heritage has worth beyond utility|that machines are bad|that fans are expensive|that artisans are rich", "Heritage."),
  m("Which sentence best captures the writer's stance?", "Progress should not erase heritage.|Progress is a mistake.|Heritage is worthless.|Fans are modern.", "Balanced view."),
  m("'Cultural erosion' in this context means:", "gradual loss of traditions|an earthquake|sand storms|trade growth", "Slow loss."),
- m("The shift of the fan from a tool to decoration is an example of:", "change of function|change of weather|decline of art|a trade war", "Role changed."),
+ m("The shift of the fan from a tool to decoration is an example of:", "change of function|change of weather|decline of art|an industrial shift", "Role changed."),
  m("Which is a counter-argument to 'hand fans are obsolete'?", "they have cultural and aesthetic value|they are heavy|they cost nothing|they are old", "Beyond utility."),
  m("Read: 'The artisan's craft hangs by a thread.' The idiom means the craft is:", "in danger|beautiful|new|cheap", "Precarious."),
- m("'Canvas of Soil' can be read as a poem about:", "creativity found in ordinary labour|trade|politics|war", "Gardening as creation."),
+ m("'Canvas of Soil' can be read as a poem about:", "creativity found in ordinary labour|trade|politics|machine design", "Gardening as creation."),
  m("The poet's choice of 'canvas' over 'field' signals:", "a view of the garden as art|a love of farming machines|a dislike of art|a complaint", "Artistic framing."),
  m("The effect of the extended metaphor is to:", "make the garden and painting overlap|confuse the reader|end the poem|criticise gardens", "Overlap of ideas."),
  m("Which line best shows personification?", "The seeds whisper secrets to the soil.|The soil is brown.|Seeds are small.|The garden is big.", "Seeds whisper."),

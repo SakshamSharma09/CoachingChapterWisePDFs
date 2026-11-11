@@ -18,7 +18,7 @@ nA = [MC([
  ]), MC([
  ("Friction is greater between:", "rough surfaces", "smooth surfaces", "oiled surfaces", "polished surfaces", "Rough surfaces interlock."),
  ("Which of these reduces friction?", "lubricants", "sand", "rough paper", "dust", "Oil forms a layer."),
- ("Rolling friction is than sliding friction:", "less", "more", "same", "twice", "Wheels reduce friction."),
+ ("Compared with sliding friction, rolling friction is:", "less", "more", "the same", "twice as much", "Rolling friction is smaller than sliding friction."),
  ("Ball bearings are used to:", "change sliding into rolling friction", "increase sliding friction", "increase weight", "stop motion", "Reduce friction."),
  ("Friction produces:", "heat", "light only", "sound only", "cold", "Rubbing hands warm them."),
  ("Static friction acts when:", "an object is at rest but tends to move", "an object is sliding", "an object is rolling", "an object is falling", "Prevents the start of motion."),
@@ -275,7 +275,7 @@ hA = [[
  ("A charged glass rod attracts a suspended light ball. Which conclusion is certain?", "the ball is either negatively charged or neutral", "the ball is positively charged", "the ball is a magnet", "the ball is heavier", "Neutral bodies are also attracted."),
  ("A charged rod repels a suspended ball. Which conclusion is certain?", "the ball has the same type of charge", "the ball is neutral", "the ball has opposite charge", "the ball is a magnet", "Repulsion needs like charges."),
  ("A student rubs a balloon on hair and sticks it to a wall. After a long, humid day it falls. The likely reason is:", "charge leaks away through moist air", "gravity increased", "wall became magnetic", "balloon became heavier", "Humidity discharges."),
- ("A 2 N force acts at right angles to a 2 N force on a body. Compared to 4 N, the net force is:", "smaller than 4 N", "equal to 4 N", "greater than 4 N", "0 N", "Perpendicular forces do not add directly."),
+ ("Two forces of 2 N each act on a body along the same straight line. The net force is 4 N when they act:", "in the same direction", "in opposite directions", "on different bodies", "at different times", "Forces in the same direction add."),
  ("An astronaut releases a hammer and a feather on the Moon. They land together because:", "there is no air resistance", "gravity is zero", "the feather is heavy", "the hammer is light", "No air."),
  ("A force of 1 N is roughly the weight of an object of mass about:", "100 g", "1 kg", "10 kg", "1 g", "10 N is about the weight of 1 kg."),
  ]), MC([
@@ -286,7 +286,7 @@ hA = [[
  ("A boy of weight 400 N stands on a floor. The reaction from the floor is:", "400 N upward", "400 N downward", "200 N upward", "0 N", "Balanced."),
  ("Which of the following will increase the friction between a box and the floor?", "putting a heavy load on the box", "polishing the floor", "oiling the floor", "using a smoother box", "Greater force pressing surfaces."),
  ("A bicycle wheel is spun in the air; it stops after a while without brakes. This is due to:", "friction at the axle and air resistance", "gravity pulling it horizontally", "magnetic force", "its mass", "Opposing forces."),
- ("Static electricity cannot be produced on:", "a very humid day with a metal rod held in the hand", "a dry day with a comb", "a dry day with a balloon", "a dry day with a glass rod", "Charge leaks away through the hand."),
+ ("Which of these will NOT stay charged after being rubbed?", "a metal rod held in the bare hand", "a dry plastic comb", "a dry balloon", "a glass rod rubbed with silk", "Charge on the metal rod flows through the hand to the earth."),
  ("Which statement about weight and mass is correct?", "Weight depends on location but mass does not", "Mass depends on location but weight does not", "Both are the same", "Both change on the Moon", "Mass is constant."),
  ("Two iron nails are suspended from a magnet's pole and they move apart. This is because:", "both become like poles and repel", "gravity pushes them apart", "friction increases", "air pushes them", "Induced like poles."),
  ])]

@@ -25,7 +25,7 @@ eA5 = [nm(f"The slope of the line {eq(m, c)} is:", m, "In $y=mx+c$ the slope is 
 eA6 = [M4(t, c, w, "Recall the definition.") for t, c, w in [
     ("The graph of a linear polynomial is a:", "straight line", ["parabola", "circle", "pair of points"]),
     ("A linear polynomial $ax+b$ ($a\\ne0$) has exactly:", "one zero", ["two zeros", "no zero", "infinitely many zeros"]),
-    ("A polynomial of degree $0$ is called a:", "constant polynomial", ["linear polynomial", "quadratic polynomial", "zero-degree line"]),
+    ("A polynomial of degree $0$ is called a:", "constant polynomial", ["linear polynomial", "quadratic polynomial", "cubic polynomial"]),
     ("A polynomial of degree $1$ is called a:", "linear polynomial", ["constant polynomial", "quadratic polynomial", "cubic polynomial"])]]
 eA7 = [mq(f"The $n$th term of the pattern {', '.join(str(a1 + d * i) for i in range(4))}, ... is:", d, a1 - d, "$a_n=a_1+(n-1)d$.") for a1, d in [(5, 3), (4, 2), (7, 5), (2, 4)]]
 eA8 = [M4(f"The graph of {eq(m, c)} cuts the $y$-axis at:", TP(0, c), optpts(0, c), "At $x=0$, $y=c$.") for m, c in [(2, 4), (3, -2), (-1, 6), (5, 3)]]
@@ -114,3 +114,6 @@ HARD_D = ([QQ(f"Two taxi services: A charges ₹{a1} plus ₹{b1} per km; B char
              for m, c, x1, x2 in [(3, 12, 1, 4), (5, -10, 2, 6), (4, 16, 0, 3), (6, -12, 1, 5), (2, 14, 3, 7), (7, 21, 2, 8)]])
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

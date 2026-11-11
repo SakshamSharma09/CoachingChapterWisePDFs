@@ -6,7 +6,7 @@ SLUG, NAME, CHNO = "Mindful_Eating", "Mindful Eating: A Path to a Healthy Body",
 # ============================ NCERT-TYPE ============================
 nA = [mc("""
 The main source of energy in our food is: ## carbohydrates ## minerals ## vitamins ## water ## Carbohydrates give quick energy.
-Which nutrient helps in growth and repair of the body? ## proteins ## carbohydrates only ## fibre ## water only ## Proteins build and repair tissues.
+Which nutrient helps in growth and repair of the body? ## proteins ## carbohydrates ## fibre ## water ## Proteins build and repair tissues.
 Which of the following is rich in protein? ## pulses ## sugar ## butter ## salt ## Pulses and dals are protein-rich.
 Which nutrient gives the most energy per gram? ## fats ## proteins ## vitamins ## minerals ## Fats give about twice the energy of carbohydrates.
 Vitamin C is found in: ## amla and lemon ## rice ## butter ## sugar ## Citrus fruits are rich in vitamin C.
@@ -17,7 +17,7 @@ Deficiency of iron causes: ## anaemia ## goitre ## rickets ## scurvy ## Iron is 
 Deficiency of iodine causes: ## goitre ## anaemia ## scurvy ## rickets ## Swelling of the thyroid gland.
 """), mc("""
 Which mineral is required for strong bones and teeth? ## calcium ## iodine ## iron ## sodium ## Calcium builds bones.
-Milk is a good source of: ## calcium ## fibre ## only starch ## only sugar ## Milk contains calcium and protein.
+Milk is a good source of: ## calcium ## fibre ## starch ## vitamin C ## Milk contains calcium and protein.
 Roughage is also called: ## dietary fibre ## protein ## fat ## vitamin ## It is the undigested plant material.
 Which of these helps in preventing constipation? ## roughage ## sugar ## fat ## salt ## Fibre helps bowel movement.
 Which of these is rich in fibre? ## whole grains and vegetables ## sweets ## oil ## ghee ## Plant foods have fibre.
@@ -29,13 +29,13 @@ Which of these is a fat-rich food? ## butter ## apple ## rice ## lemon ## Butter
 """), mc("""
 Foods like wheat, rice and potatoes are rich in: ## carbohydrates ## proteins ## fats ## vitamins ## They contain starch.
 The best source of vitamin D is: ## sunlight ## stones ## salt ## water ## Skin makes vitamin D in sunlight.
-Eating too much junk food can lead to: ## obesity ## stronger bones ## better eyesight ## nothing ## It has excess fat and sugar.
+Eating too much junk food can lead to: ## obesity ## stronger teeth ## better eyesight ## taller bones ## It has excess fat and sugar.
 Which of the following should be avoided in excess? ## sugar and salt ## fruits ## vegetables ## water ## They harm health when eaten in excess.
 Mindful eating means: ## paying attention to what and how we eat ## eating while watching TV ## skipping meals ## eating quickly ## Careful and aware eating.
 Which habit is part of mindful eating? ## chewing food well ## skipping breakfast ## eating junk daily ## drinking no water ## Chewing aids digestion.
 Eating local and seasonal food is good because it: ## is fresh and nutritious ## is costly ## is always sweet ## is imported ## It needs less storage.
-Wasting food is: ## harmful for society and nature ## a good habit ## sensible ## useful ## Food is a resource.
-Before eating, we should: ## wash hands ## run ## throw things ## play in mud ## Hygiene prevents infections.
+Throwing away cooked food that could have been eaten is: ## wasteful and harmful for society and nature ## a good way to keep the kitchen clean ## a sign of mindful eating ## helpful to farmers ## Food is a resource.
+Before eating, we should: ## wash our hands ## comb our hair ## change our clothes ## wipe the plate ## Hygiene prevents infections.
 Fruits and vegetables should be washed because they may carry: ## dirt and germs ## vitamins ## minerals ## water ## Washing removes them.
 """)]
 nB = """
@@ -75,7 +75,7 @@ How can food be kept safe from germs? ## Cover food|1 ## Wash hands|1 ## Store i
 nD = """
 Describe the different nutrients, their sources and functions in a table-like list. ## Carbohydrates: energy, rice|1 ## Proteins: growth, pulses|1 ## Fats: energy, butter|1 ## Vitamins: protection, fruits|1 ## Minerals: bones and blood, milk and spinach|1
 Explain the deficiency diseases caused by lack of vitamins and minerals with symptoms. ## Scurvy: bleeding gums|1 ## Rickets: bent legs|1 ## Night blindness: poor dim-light vision|1 ## Anaemia: tiredness|1 ## Goitre: swelling in the neck|1
-Describe the activity to test for starch, protein and fat in food, naming the reagent and result. ## Starch: iodine turns blue-black|1 ## Fat: oily patch on paper|1 ## Protein: test with copper sulphate and sodium hydroxide gives violet colour|1 ## Take small samples of each food|1 ## Record the observations|1
+Describe the activity to test for starch and fat in food, naming the reagent and result. ## Starch: add a few drops of iodine to the sample|1 ## Starch is present if it turns blue-black|1 ## Fat: rub a little of the sample on paper|1 ## Fat is present if an oily patch remains|1 ## Record the observations|1
 What is a balanced diet? Plan a one-day balanced menu for a school child. ## Balanced diet has all nutrients|1 ## Breakfast: milk and fruits|1 ## Lunch: roti, dal, vegetables|1 ## Evening: sprouts or fruit|1 ## Dinner: rice, curd, vegetables|1
 Explain the role of water and roughage in our diet. ## Water carries nutrients|1 ## Water removes wastes|1 ## Roughage helps digestion|1 ## Prevents constipation|1 ## Sources: fruits and whole grains|1
 What are the health problems of junk food and how can we reduce its use? ## High in fat and sugar|1 ## Leads to obesity|1 ## Low in vitamins|1 ## Eat home-cooked food|1 ## Choose fruits as snacks|1
@@ -109,7 +109,7 @@ Weak bones in children are a sign of lack of: ## vitamin D ## vitamin C ## iodin
 Anaemia is caused by lack of: ## iron ## iodine ## calcium ## vitamin C ## Iron.
 Goitre is caused by lack of: ## iodine ## iron ## calcium ## vitamin D ## Iodine.
 A balanced diet should have: ## all nutrients ## only sweets ## only oil ## only fruits ## All nutrients.
-We should eat: ## fresh food ## stale food ## only fried food ## no food ## Fresh food is safe.
+We should eat: ## fresh food ## stale food ## only fried food ## only sweet food ## Fresh food is safe.
 """), mc("""
 Iodine solution turns starch: ## blue-black ## red ## green ## yellow ## Starch test.
 The oily patch on paper shows the presence of: ## fat ## starch ## protein ## fibre ## Fat test.
@@ -117,8 +117,8 @@ Which of these is a pulse? ## moong ## wheat ## rice ## maize ## Moong is a puls
 Which of these is a cereal? ## wheat ## moong ## peas ## soya ## Wheat is a cereal.
 Which is a good snack? ## fruit ## chips ## sweets ## soda ## Fruit is healthy.
 Which is a junk food? ## burger ## fruit ## sprouts ## dal ## Burger has fat and salt.
-We should wash our hands: ## before eating ## after sleeping only ## never ## only on Sundays ## Hygiene.
-We should chew food: ## well ## little ## never ## after swallowing ## Chewing is part of digestion.
+We should wash our hands: ## before eating ## only after the meal ## only when they look dirty ## only on Sundays ## Hygiene.
+We should chew food: ## well before swallowing ## once before swallowing ## only when it is hard ## only when it is sweet ## Chewing is part of digestion.
 We should drink: ## enough water ## no water ## only soda ## only tea ## Water is essential.
 We should not: ## waste food ## share food ## cook food ## eat fruits ## Food is valuable.
 """)]
@@ -173,7 +173,7 @@ Write the steps to avoid wasting food at home. ## Take only what you need|1 ## S
 
 # ============================ MEDIUM ============================
 mA = [mc("""
-A child eating mostly polished rice and no other food may lack: ## protein and vitamins ## sugar ## water ## calories ## Polished rice mostly has starch.
+A child eating mostly polished rice and no other food may lack: ## protein and vitamins ## carbohydrates ## starch ## energy ## Polished rice mostly has starch.
 Which combination gives a more balanced meal? ## roti, dal, vegetables and curd ## only rice ## only sweets ## only chips ## Variety of nutrients.
 Two nutrients that do not give energy are: ## vitamins and minerals ## carbohydrates and fats ## fats and proteins ## starch and sugar ## Vitamins and minerals regulate body functions.
 A person feels tired and looks pale. A likely deficiency is that of: ## iron ## iodine ## vitamin C ## vitamin D ## Anaemia gives paleness and tiredness.
@@ -187,7 +187,7 @@ Which one has the highest energy per gram? ## ghee ## rice ## fruit ## spinach #
 Which should be eaten more in a daily diet? ## vegetables and fruits ## sweets ## fried snacks ## sweet drinks ## They are protective foods.
 Which of the following is a protective food? ## spinach ## sugar ## oil ## white rice ## It provides iron and vitamins.
 Why should vegetables be cooked for a short time? ## to retain vitamins ## to make them harder ## to remove all water ## to remove colour ## Heat destroys vitamins.
-Why is it better to eat whole fruits than just fruit juice with added sugar? ## whole fruits have fibre ## juice is costly ## juice has no taste ## fruit has no water ## Fibre is retained.
+Why is it better to eat whole fruits than just fruit juice with added sugar? ## whole fruits have fibre and no added sugar ## juice has more fibre than fruit ## whole fruits contain no sugar ## juice contains all the vitamins of the fruit ## Fibre is retained.
 Why is sprouting of pulses useful? ## it increases vitamins and makes digestion easier ## it makes them poisonous ## it removes protein ## it makes them hard ## Sprouts have more vitamins.
 Which group contains only plant-based protein sources? ## dal, soya, peas ## egg, fish, meat ## milk, curd, paneer ## butter, ghee, cream ## All are plant sources.
 Which of the following is the best choice for an evening snack? ## roasted chana ## chips ## cola ## sweets ## Healthy and has protein.
@@ -195,7 +195,7 @@ Which food items should be eaten in smaller amounts? ## those with lots of sugar
 Which mineral is added to common salt in India to prevent goitre? ## iodine ## iron ## calcium ## zinc ## Iodised salt.
 Which mineral is added to some flours and foods to prevent anaemia? ## iron ## iodine ## sodium ## fluorine ## Fortification.
 """), mc("""
-Which item shows that a food label contains useful information? ## list of ingredients ## the colour of the packet only ## the shape ## the price only ## Ingredients tell what we eat.
+Which part of a food label tells us what the food is made of? ## the list of ingredients ## the colour of the packet ## the shape of the packet ## the brand logo ## Ingredients tell what we eat.
 Which information should we check on a packaged food? ## expiry date ## shape of the packet ## brand colour ## shop name ## Eating expired food is unsafe.
 Eating while watching TV is not mindful as: ## we may eat too much without noticing ## it is nice ## it improves digestion ## it saves time ## Attention is on the screen.
 Which practice reduces food waste? ## planning meals and portions ## cooking extra always ## throwing leftovers ## buying extra ## Planning prevents waste.
@@ -203,7 +203,7 @@ Why are fibre-rich foods useful? ## they help digestion ## they give strong bone
 A student takes more oil and sugar. Which problem is likely? ## obesity ## scurvy ## anaemia only ## night blindness ## Excess energy foods.
 The deficiency of proteins in children causes: ## stunted growth ## goitre ## scurvy ## rickets ## Poor growth.
 In which food is starch absent? ## butter ## bread ## potato ## rice ## Butter is a fat.
-Which food group is missing in a diet of rice, potatoes and bread only? ## protein, vitamins, minerals ## carbohydrates ## energy ## starch ## It lacks protective and body-building foods.
+Which nutrient is mostly missing in a diet of only rice, potatoes and bread? ## proteins ## carbohydrates ## starch ## energy ## It lacks protective and body-building foods.
 Which statement about water is true? ## it is needed for all body functions ## it provides lots of energy ## it contains vitamins ## it builds muscles ## Water is vital.
 """)]
 mB = """
@@ -214,11 +214,11 @@ Distinguish between starch and fibre. ## Starch gives energy ## Fibre aids diges
 How does a lack of vitamin A affect vision? ## Difficulty seeing in dim light ## It may lead to night blindness
 Why is ghee not given as the main food for a growing child? ## It gives only fat ## Child needs proteins and others
 Why is milk called a complete food for infants? ## Has protein, fat, carbohydrate ## Has vitamins and minerals
-How do we test for protein in a sample? ## Add copper sulphate and caustic soda solution ## Violet colour indicates protein
+Why should we wash our hands with soap before eating? ## Soap removes dirt and germs ## Germs entering with food can cause stomach infections
 Why is it better to eat different coloured vegetables? ## They give different vitamins and minerals ## They give variety
 Why does cooking in excess oil reduce the health value? ## Adds more fat ## Excess fat can cause obesity
 Why do athletes need more carbohydrates? ## They spend more energy ## Carbohydrates are the quick fuel
-Why do pregnant women need extra iron and calcium? ## For baby's growth ## To prevent anaemia in mother
+Why do growing children need extra calcium in their food? ## For strong bones and teeth ## To grow taller with healthy bones
 """
 mC = """
 A student says 'Junk food saves time and so it is good'. How would you reply? ## It saves time but lacks nutrients|1 ## It has too much fat, sugar and salt|1 ## Regular use harms health|1
@@ -242,7 +242,7 @@ Why should we take small portions at a feast? ## Prevent overeating|1 ## Avoid w
 """
 mD = """
 Prepare a plan to correct the diet of a child who eats chips, soda and noodles daily. ## Reduce junk food|1 ## Add fruits and vegetables|1 ## Add dal or eggs for protein|1 ## Add milk for calcium|1 ## Encourage water and exercise|1
-Describe an experiment to test the presence of starch, fat and protein in three foods and record the result. ## Starch: iodine on potato blue-black|1 ## Fat: paper test with butter|1 ## Protein: copper sulphate and sodium hydroxide with egg white|1 ## Observe each|1 ## Record in a table|1
+Describe an experiment to test for starch and fat in potato and butter and record the result. ## Starch: iodine on potato turns blue-black|1 ## Fat: butter leaves an oily patch on paper|1 ## Iodine on butter stays brown|1 ## Potato leaves no oily patch|1 ## Record in a table|1
 Explain the relationship between nutrients, deficiency diseases and sources using any four examples. ## Vitamin C: scurvy: amla|1 ## Vitamin D: rickets: sunlight|1 ## Iron: anaemia: spinach|1 ## Iodine: goitre: iodised salt|1 ## All shown in diet|1
 Why is a balanced diet different for a growing child, a labourer and a patient? Explain with examples. ## Child: more protein and calcium|1 ## Labourer: more energy foods|1 ## Patient: easily digestible food|1 ## Needs depend on age and work|1 ## Illness changes needs|1
 Explain how our diet affects our health in the short and long run. ## Poor diet causes tiredness|1 ## Deficiency diseases develop|1 ## Excess causes obesity|1 ## Good diet gives energy|1 ## Healthy habits last for life|1
@@ -258,12 +258,12 @@ Design a three-day plan for healthy snacks. ## Day 1: fruit chaat|1 ## Day 2: ro
 # ============================ HARD ============================
 hA = [mc("""
 A food gives a blue-black colour with iodine and an oily patch on paper. It contains: ## starch and fat ## starch only ## fat only ## protein and fibre ## Both tests are positive.
-A student tested three foods P, Q, R with iodine. Only Q turned blue-black. Which statement is correct? ## Q contains starch ## P and R contain starch ## All contain starch ## None contain anything ## Iodine tests starch only.
+A student tested three foods P, Q, R with iodine. Only Q turned blue-black. Which statement is correct? ## Q contains starch ## P and R contain starch ## All three contain starch ## Q contains fat ## Iodine tests starch only.
 A child gets tired quickly, has pale skin and breathlessness. Which food should the doctor suggest? ## spinach and jaggery ## butter ## sugar ## chips ## Iron-rich foods.
 Which pair correctly matches the deficiency and disease? ## vitamin A, night blindness ## vitamin C, rickets ## iron, scurvy ## iodine, anaemia ## Vitamin A deficiency affects dim-light vision.
 Why can a diet only of rice cause weakness even though it has plenty of energy? ## it lacks protein and many vitamins ## it has too much fibre ## it has no starch ## it contains poison ## Single food lacks many nutrients.
 Which statement is correct about fats? ## they are needed in small amounts and excess leads to obesity ## they are never needed ## they build bones ## they give no energy ## They give energy and insulation.
-Which of these is not a function of proteins? ## quick source of energy ## growth ## repair ## making enzymes ## Carbohydrates are the quick source.
+Which nutrient is mainly meant for growth and repair rather than quick energy? ## proteins ## sugars ## starch ## water ## Carbohydrates are the quick source.
 Which of the following foods would best prevent a person from getting goitre? ## iodised salt ## sugar ## butter ## rice ## Iodised salt.
 A food labelled 'no added sugar' is: ## free from added sugar but may still have natural sugar ## completely sugar-free always ## made of sugar ## a fat ## Natural sugar may remain.
 A packet of chips contains high amounts of: ## fat and salt ## vitamins ## fibre ## water ## Chips are fried and salted.
@@ -279,8 +279,8 @@ Which of the following is the best way of getting vitamin C from food? ## eating
 A food item that has no nutrients but only calories is called: ## empty calories food ## balanced food ## protective food ## complete food ## Sweets and fizzy drinks.
 Which of these is a reason for eating a variety of coloured fruits? ## each colour often shows a different vitamin or mineral ## colour has no use ## it looks nice only ## it has no vitamins ## Variety helps.
 """), mc("""
-The test: a food sample is crushed, mixed with water, and copper sulphate and caustic soda are added. A violet colour appears. This shows: ## protein ## starch ## fat ## fibre ## Protein test.
-An experiment gave these results: Food X – blue-black with iodine; Food Y – oily patch; Food Z – violet. Which is correct? ## X starch, Y fat, Z protein ## X fat, Y protein, Z starch ## X protein, Y starch, Z fat ## all are starch ## Match tests with nutrients.
+A paper rubbed with a food sample shows a translucent oily patch that stays even after drying. The food contains: ## fat ## starch ## fibre ## sugar ## Protein test.
+An experiment gave these results: Food X – blue-black with iodine; Food Y – oily patch; Food Z – no change in either test. Which is correct? ## X has starch, Y has fat, Z has neither starch nor fat ## X has fat, Y has starch, Z has both ## X has no starch, Y has starch, Z has fat ## all three contain starch ## Match tests with nutrients.
 Which type of food would best help recovery after a long illness? ## easily digestible, nutritious food ## spicy fried food ## only sweets ## no food ## Recovery needs nutrients.
 A mother wishes to improve her child's diet cheaply. Best advice: ## include pulses, seasonal vegetables and local fruits ## buy imported snacks ## give only milk ## give only sweets ## Local foods are cheap and nutritious.
 Why is mixing pulses with cereals in a meal useful? ## makes proteins more complete ## removes starch ## makes food spoil ## reduces vitamins ## Amino acid balance.
@@ -292,7 +292,7 @@ Why is water called a nutrient even though it gives no energy? ## it is essentia
 """)]
 hB = """
 A food sample turns blue-black with iodine and leaves an oily spot on paper. What conclusions can you draw? ## It contains starch ## It also contains fat
-Why do children living near the poles with long dark winters need extra care for vitamin D? ## Little sunlight reduces vitamin D making ## They can use milk, eggs or supplements
+Why is playing in sunlight good for children's bones? ## The skin makes vitamin D in sunlight ## Vitamin D helps the body use calcium
 How would you design a meal for a person who needs a high-protein diet? ## Pulses, eggs, milk ## Soya, nuts and fish
 Why do doctors advise iodised salt but caution against excess salt? ## Iodine prevents goitre ## Excess sodium raises blood pressure
 Why is a diet rich only in proteins and fats not balanced? ## Lacks carbohydrates and fibre ## Lacks many vitamins
@@ -308,7 +308,7 @@ hC = """
 A girl's diet: breakfast - bread and jam, lunch - noodles, dinner - fried snacks. Evaluate it and suggest changes. ## Lacks protein and vitamins|1 ## High in refined carbohydrates and fat|1 ## Add milk, dal, vegetables and fruit|1
 Explain why a mixture of cereal and pulse such as dal-rice gives a better meal than rice alone. ## Dal adds protein|1 ## Dal adds minerals|1 ## Together they give a more balanced intake|1
 Compare the effects of lack of calcium and lack of vitamin D on bones. ## Lack of calcium weakens bones|1 ## Lack of D prevents calcium absorption|1 ## Both can cause rickets|1
-A food sample was tested and gave no colour with iodine and no oily spot, but violet colour with copper sulphate and caustic soda test. What does it contain? ## No starch|1 ## No fat|1 ## It contains protein|1
+A food sample gave no colour change with iodine and left no oily spot on paper. What can you say about it? ## It has no starch|1 ## It has no fat|1 ## It may still contain other nutrients such as vitamins or minerals|1
 Explain why we should avoid skipping breakfast and eating late-night snacks. ## Breakfast gives energy for the day|1 ## Late snacks add excess calories|1 ## Regular timings keep digestion healthy|1
 Describe how the lack of water in the body affects health. ## Body becomes dehydrated|1 ## Wastes are not removed|1 ## Headache and tiredness|1
 Why should dairy foods be included in a school child's diet? ## Calcium for bones|1 ## Proteins for growth|1 ## Vitamins like A and D|1

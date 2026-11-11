@@ -77,7 +77,7 @@ mA3 = [fq(f"$0.\\overline{{{ab:02d}}}$ in lowest terms is:", Fr(ab, 99), "$x=\\f
 mA4 = [nm(f"The length of the repeating block in the decimal expansion of $\\frac{{1}}{{{q}}}$ is:", period(q), "Find how many digits repeat.") for q in [7, 11, 13, 37, 101]]
 mA5 = [nm(f"$\\sqrt{{{a}}}\\times\\sqrt{{{b}}}=$", isqrt(a * b), "Multiply under the root.") for a, b in [(3, 12), (5, 20), (2, 18), (7, 28), (8, 50)]]
 mA6 = [M4(t, c, w, "Collect the rational and irrational parts.") for t, c, w in [
-    ("$\\sqrt{3}+(5-\\sqrt{3})$ is:", "rational", ["irrational", "zero", "imaginary"]),
+    ("$\\sqrt{3}+(5-\\sqrt{3})$ is:", "rational", ["irrational", "zero", "negative"]),
     ("$(2+\\sqrt{5})+(2-\\sqrt{5})$ is:", "rational", ["irrational", "zero", "negative"]),
     ("$\\sqrt{7}+\\sqrt{7}$ is:", "irrational", ["rational", "zero", "an integer"]),
     ("$3\\times\\sqrt{2}$ is:", "irrational", ["rational", "an integer", "zero"])]]
@@ -97,7 +97,7 @@ MED_D = ([QQ(f"Express ${ip}.{n}\\overline{{{r}}}$ as $\\frac{{p}}{{q}}$ and ver
 hA1 = [fq(f"The value of $0.\\overline{{{a}}}+0.\\overline{{{b}}}$ is:", Fr(a + b, 9), "Each is $\\frac{d}{9}$.") for a, b in [(2, 5), (4, 8), (3, 7), (1, 4)]]
 hA2 = [fq(f"$0.\\overline{{{a}{b}}}+0.\\overline{{{b}{a}}}$ equals:", Fr((a + b) * 11, 99), "Add the numerators over $99$.") for a, b in [(1, 3), (2, 6), (4, 5), (3, 8)]]
 hA3 = [nm(f"The smallest natural number $n$ for which $\\frac{{n}}{{{d}}}$ has a terminating decimal expansion is:", n, "Cancel every prime factor other than $2$ and $5$.") for d, n in [(2 ** 3 * 3 * 5, 3), (2 * 5 * 7 * 7, 49), (2 ** 2 * 3 * 7, 21), (5 ** 2 * 11, 11)]]
-hA4 = [nm(f"If $x={a}+\\sqrt{{{b}}}$ with ${a}^2-{b}=1$, then $x+\\frac{{1}}{{x}}=$", 2 * a, "$\\frac1x={a}-\\sqrt{{b}}$.".replace("{b}", str(b))) for a, b in [(2, 3), (3, 8), (4, 15), (5, 24)]]
+hA4 = [nm(f"If $x={a}+\\sqrt{{{b}}}$ with ${a}^2-{b}=1$, then $x+\\frac{{1}}{{x}}=$", 2 * a, f"$\\frac1x={a}-\\sqrt{{{b}}}$, so the sum is $2\\times{a}$.") for a, b in [(2, 3), (3, 8), (4, 15), (5, 24)]]
 hA5 = [fq(f"$1.\\overline{{{ab:02d}}}$ in the form $\\frac{{p}}{{q}}$ is:", rep_frac(1, "", f"{ab:02d}"), "Write as $1+0.\\overline{ab}$.") for ab in [27, 36, 45, 63]]
 hA6 = [M4(t, c, w, "Reason about decimal expansions.") for t, c, w in [
     ("The value of $0.\\overline{9}$ is:", "$1$", ["$0.9$", "$0.99$", "just less than $1$"]),
@@ -118,3 +118,6 @@ HARD_D = ([QQ(f"Find the decimal expansion of $\\frac{{{p}}}{{{q}}}$ by long div
           + [QQ(f"Simplify $(\\sqrt{{{a}}}+\\sqrt{{{b}}})^2+(\\sqrt{{{a}}}-\\sqrt{{{b}}})^2$ and $(\\sqrt{{{a}}}+\\sqrt{{{b}}})(\\sqrt{{{a}}}-\\sqrt{{{b}}})$. Which are rational?", f"First $=2({a}+{b})={2 * (a + b)}$", f"Second $={a}-{b}={a - b}$", "Both are rational", f"In the first, the cross terms $\\pm2\\sqrt{{{a * b}}}$ cancel") for a, b in [(7, 5), (11, 3), (13, 2), (10, 6), (17, 8), (19, 7)]])
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

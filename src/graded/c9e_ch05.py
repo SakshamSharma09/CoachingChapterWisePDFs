@@ -1,4 +1,4 @@
-"""Class 9 English (Kaleidoscope) Unit 5: The World of Limitless Possibilities (interview with Dr Deepa Malik) + Nine Gold Medals (poem). Original paraphrased material."""
+"""Class 9 English (Kaveri) Unit 5: The World of Limitless Possibilities (interview with Dr Deepa Malik) + Nine Gold Medals (poem). Original paraphrased material."""
 from engh import *
 SLUG, NAME, CHNO = "The_World_of_Limitless_Possibilities_Nine_Gold_Medals", "The World of Limitless Possibilities; Nine Gold Medals", 5
 
@@ -20,7 +20,7 @@ nA = [
  m("'Resilience' means:", "the ability to recover from difficulty|great wealth|speed|silence", "Bounce back."),
  m("The 'Paralympic Games' are for:", "athletes with disabilities|only children|only the old|animals", "International sports event."),
  m("'Nine Gold Medals' is a:", "poem|play|letter|map", "Verse."),
- m("In the poem, the nine contestants are running a:", "race|debate|exam|cooking contest", "A foot race."),
+ m("In the poem, the nine contestants are running a:", "race|debate|exam|spelling contest", "A foot race."),
  m("In the poem, what happens at the start of the race?", "the youngest runner falls|everyone sits|the race is cancelled|the referee leaves", "Triggers the scene."),
  m("The other eight runners:", "turn back to help|run ahead|laugh|leave", "They show care."),
  m("Read: 'They linked arms and walked across the line.' This shows:", "unity and sportsmanship|rivalry|anger|selfishness", "All finish together."),
@@ -88,10 +88,10 @@ nD = [
 eA = [
  m("Who is interviewed in the first text?", "Dr Deepa Malik|a doctor|a pilot|a poet", "A Paralympic athlete."),
  m("Dr Malik is a:", "Paralympian|singer|painter|chef", "Para-athlete."),
- m("She won a silver medal in:", "shot put|football|cricket|chess", "At Rio."),
+ m("She won a silver medal in:", "shot put|archery|swimming|javelin throw", "At Rio."),
  m("The Rio Paralympics were held in:", "2016|1990|2030|1950", "2016."),
  m("The interview is a:", "conversation|poem|map|diary", "Question-answer."),
- m("Dr Malik says disability does not stop:", "ability|breathing|sleeping|eating", "Ability beyond disability."),
+ m("Dr Malik says disability does not stop:", "ability|breathing|reading|travelling", "Ability beyond disability."),
  m("Sport helps to build:", "confidence|rain|clothes|rooms", "Confidence."),
  m("A person who plays sport is an:", "athlete|actor|farmer|banker", "Athlete."),
  m("A Paralympian is an athlete with a:", "disability|new car|cap|bag", "Para = for disability."),
@@ -171,7 +171,7 @@ mA = [
  m("Dr Malik's phrase 'a world of limitless possibilities' suggests a mindset of:", "hope and open choice|fear|regret|laziness", "Opportunity."),
  m("The interview mainly serves to:", "inspire readers through lived experience|sell goods|teach grammar|describe a city", "Purpose."),
  m("Which statement best explains why sports can change attitudes?", "they display strength and skill publicly|they are expensive|they are short|they are easy", "Visibility."),
- m("Dr Malik's use of the word 'disability' is balanced with 'ability', suggesting that she:", "wants focus on strengths|denies any difficulty|dislikes sport|avoids the topic", "Positive framing."),
+ m("Dr Malik's use of the word 'disability' is balanced with 'ability', suggesting that she:", "wants focus on strengths|denies any difficulty|is proud of her disability|avoids the topic", "Positive framing."),
  m("What does 'setback' mean?", "a difficulty that delays progress|a victory|a medal|a plan", "A hindrance."),
  m("Which of the following best shows resilience?", "returning to training after failure|giving up|blaming others|hiding", "Bounce back."),
  m("The interviewer's questions about advice aim to:", "extend the message to the reader|test her|end the talk|avoid the topic", "Guidance."),
@@ -195,9 +195,9 @@ mA = [
  m("Choose the correct sentence:", "Neither of the runners was late.|Neither of the runners were late.|Neither runners was late.|Neither runner were late.", "Neither + singular."),
  m("'Spirit of the game' means:", "fair and generous approach to play|the speed of the game|the cost of the game|the venue", "Idiom-like phrase."),
  m("The prefix in 'inclusive' / 'exclusive' shows:", "opposite meaning|same meaning|past tense|plural", "In/ex."),
- m("Which is a fact about the interview?", "Dr Malik won a silver medal at Rio.|Sport is the best career.|Everyone should compete.|Medals are important.", "Fact vs opinion."),
+ m("Which is a fact about the interview?", "Dr Malik won a silver medal at Rio.|Disabled people should avoid sport.|Everyone should compete.|Medals are important.", "Fact vs opinion."),
  m("Which is an opinion from the unit?", "Kindness is worth more than a medal.|The race had nine runners.|One runner fell.|The crowd cheered.", "A view."),
- m("An apt title for a news report on the race in the poem is:", "Nine Runners, One Finish|Rain Delays Match|Market Slumps|Storm Warning", "Relevant."),
+ m("An apt title for a news report on the race in the poem is:", "Nine Runners, One Finish|Rain Delays Match|Fall of a Champion|Referee Disqualifies Runner", "Relevant."),
 ]
 mB = [
  b("Why does Dr Malik refuse to define herself by her disability?", "She believes ability is about mind and effort (1) so she focuses on what she can do (1)."),
@@ -252,12 +252,12 @@ mD = [
 hA = [
  m("The writer's choice to end the interview with advice rather than achievement suggests that the aim is to:", "inspire action in readers|boast|criticise|inform of dates", "Purpose."),
  m("Which sentence best captures the paradox in Dr Malik's life story?", "loss of mobility led to new freedom|wealth led to poverty|silence led to noise|fear led to fame", "Disability to possibilities."),
- m("A critic says, 'Triumph stories can make ordinary struggles invisible.' A fair reply is that:", "they also challenge low expectations and need balanced support|they are false|they are boring|they are short", "Balanced view."),
+ m("A critic says, 'Triumph stories can make ordinary struggles invisible.' A fair reply is that:", "they also challenge low expectations and need balanced support|they are false|they are rare|they are short", "Balanced view."),
  m("The phrase 'ability beyond disability' implies:", "rejection of a deficit view|denial of difficulty|pity|fear", "Reframing."),
  m("Which of these is an assumption behind Dr Malik's advice?", "mindset can change what a person achieves|luck decides all|money is everything|age matters most", "Premise."),
  m("What is the most likely reason the text uses an interview rather than a biography?", "to let the subject frame her own story|to save space|to avoid facts|to entertain", "Voice."),
- m("Which of the following is an implicit message of the text?", "inclusion needs both individual grit and social change|disability is rare|sports are easy|medals are all", "Both."),
- m("'Barrier' in the interview can be both:", "physical and attitudinal|only physical|only legal|none", "Two kinds."),
+ m("Which of the following is an implicit message of the text?", "inclusion needs both individual grit and social change|disability is rare|success comes without effort|medals are all", "Both."),
+ m("'Barrier' in the interview can be both:", "physical and attitudinal|only physical|only legal|only financial", "Two kinds."),
  m("A suitable counter-example to the claim 'only the strongest win' from the unit is:", "the runners who finished together|a lonely runner|a closed gate|a lost map", "Cooperation."),
  m("Which pair shows contrast in the unit?", "individual triumph vs collective triumph|day vs night|north vs south|old vs new", "Interview vs poem."),
  m("Which best explains why the poem uses a story in verse?", "a story makes values memorable|poems must tell stories|stories are shorter|stories are facts", "Narrative."),
@@ -275,8 +275,8 @@ hA = [
  m("Choose the correct participle: ___ her fear, she stepped onto the track.", "Overcoming|Overcame|Overcomes|Overcome by", "Participial phrase."),
  m("Which sentence has a relative clause?", "The runner who fell was helped by others.|The runner fell.|He fell and cried.|Fallen, he cried.", "Who fell."),
  m("The word 'inclusive' is closest in meaning to:", "open to all|closed to some|loud|fast", "Open."),
- m("The most apt heading for a newspaper editorial on this unit is:", "Redefining the Finish Line|A Rainy Day|The Price of Fuel|Market Watch", "Theme."),
- m("The best conclusion from reading both texts together is that:", "greatness lies in resilience and compassion|only fast people matter|sports are for few|luck is all", "Synthesis."),
+ m("The most apt heading for a newspaper editorial on this unit is:", "Redefining the Finish Line|A Rainy Day|The Price of Fuel|Winning at Any Cost", "Theme."),
+ m("The best conclusion from reading both texts together is that:", "greatness lies in resilience and compassion|only fast people matter|winning is everything|luck is all", "Synthesis."),
  m("Which stylistic feature do both texts share?", "a positive, encouraging tone|a humorous tone|a threatening tone|a technical tone", "Tone."),
  m("A suitable rhetorical device for a speech on inclusion is:", "anaphora, repeating 'We can...'|only numbers|slang|silence", "Persuasion."),
  m("If the runners had not turned back, the poem would lose its:", "central moral|rhyme only|title only|setting only", "Moral."),

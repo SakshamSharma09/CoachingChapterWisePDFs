@@ -259,7 +259,7 @@ H_A = [
 "AR: Planting trees reduces carbon footprint. | Trees absorb carbon dioxide. | 1 | Carbon sink",
 "AR: Weak embankments and building near rivers worsened the Punjab floods. | Human activities can increase flood damage. | 1 | Human factors",
 "In a news bulletin: 'An aurora lit the skies over Norway.' Which layer is responsible? | Thermosphere | Troposphere | Stratosphere | Mesosphere | Ionosphere",
-"A weather station reports 6 km/hr wind with leaves rustling. The wind category is | light breeze | calm | strong breeze | storm | 6-11 km/hr",
+"Rainfall, humidity and wind speed recorded at a weather station each day describe the | weather of the place | climate of the place | geology of the place | soils of the place | Short-term state of the atmosphere",
 "A city near the sea has 32C by day and sea breeze at 3 pm. The cause is | land warmer than sea | sea warmer than land | no pressure difference | wind from desert | Day",
 "A fisherman sails out at night using the | land breeze | sea breeze | monsoon | storm | Land to sea",
 "Which statement correctly explains why the temperature falls from equator to poles? | Insolation decreases | Pressure increases | Humidity increases | Rain increases | Sun angle",
@@ -267,7 +267,7 @@ H_A = [
 "Which activity contributes MOST to a household carbon footprint? | Frequent use of petrol car | Walking | Planting trees | Switching off lights | Fossil fuels",
 "If the temperature in a layer reaches highest at about 700 km and radio waves reflect there, it is | thermosphere | troposphere | stratosphere | mesosphere | Ionosphere",
 "The reason why we do not feel air pressure is | internal pressure equals external | no air presses | gravity absent | air is light | Balanced",
-"Which lists the layers in correct order? | Troposphere, stratosphere, mesosphere, thermosphere, exosphere | Stratosphere, troposphere, mesosphere, exosphere, thermosphere | Mesosphere, stratosphere, troposphere | Exosphere first | Order from the surface",
+"Which lists the layers of the atmosphere in order from the surface upward? | Troposphere, stratosphere, mesosphere, thermosphere, exosphere | Stratosphere, troposphere, mesosphere, exosphere, thermosphere | Troposphere, mesosphere, stratosphere, exosphere, thermosphere | Exosphere, thermosphere, mesosphere, troposphere, stratosphere | Order from the surface",
 "The south-west monsoon first reaches the Indian mainland over | Kerala | Punjab | Rajasthan | Assam | Starts in the south",
 "The south-west monsoon begins to withdraw first from | north-west India (Rajasthan) | Kerala | Tamil Nadu | Assam | Retreat",
 "A drought year is most likely when | the monsoon is weak | the monsoon is heavy | there is no winter | winds are strong | Low rain",
@@ -276,7 +276,7 @@ H_A = [
 "Which of the following is a renewable action to cut footprint? | Using solar energy | Burning wood | Using diesel | Burning plastics | Clean energy",
 "Which would reduce flood risk in Punjab MOST? | Strengthening embankments and desilting | Building closer to rivers | Cutting trees | Blocking drains | Flood management",
 "Which choice produces the highest transport emissions per person for a 10 km trip? | Driving alone in a petrol car | Cycling | Walking | Travelling by electric metro | Fossil fuels",
-"Why do Himalayan states have six seasons rather than four? | Altitude brings autumn and spring | No monsoon | Equator | Desert | Local climates",
+"Why do Himalayan states have autumn and spring in addition to the four IMD seasons? | their altitude gives them a different local climate | they receive no sunlight in winter | they lie on the equator | they are in the rain shadow of the Western Ghats | Local climates",
 "Nakshatras are traditionally used to | divide the Moon's path into 27 parts | measure rainfall | find the ozone layer | track aurora | Traditional astronomy",
 ]
 H_B = [

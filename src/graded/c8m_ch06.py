@@ -30,7 +30,7 @@ def split100(n):
     return b, n - b
 
 # ================= EASY =================
-eA1 = [M4(f"The value of ${a}\\times{b}$ is:", a * b, [a * b + b, a * b - b, a * b + 10], f"${a}\\times{b}=({100+a-100 if False else (100 if a>100 else 100)}{'+' if a>100 else '-'}{abs(a-100)})\\times{b}$") for a, b in [(99, 13), (101, 24), (98, 15), (102, 18), (97, 20), (103, 12)]]
+eA1 = [M4(f"The value of ${a}\\times{b}$ is:", a * b, [a * b + b, a * b - b, a * b + 10], f"${a}\\times{b}=(100{'+' if a>100 else '-'}{abs(a-100)})\\times{b}$") for a, b in [(99, 13), (101, 24), (98, 15), (102, 18), (97, 20), (103, 12)]]
 eA2 = [M4(f"The value of ${a}\\times({b}+{c})$ is:", a * (b + c), [a * b + c, a * b * c, a * (b + c) + a], f"${a}\\times{b}+{a}\\times{c}$") for a, b, c in [(7, 10, 3), (6, 50, 4), (8, 20, 5), (9, 30, 2), (5, 40, 7)]]
 eA3 = [M4(f"Expanding ${p}(x+{q})$ gives:", T_(PL(p, p * q)), [T_(PL(p, q)), T_(PL(1, p * q)), T_(PL(p, p + q))], "Multiply each term inside by the outside number") for p, q in [(3, 4), (5, 2), (4, 6), (2, 9), (6, 3)]]
 eA4 = [M4("$(a+b)^2$ equals:", "$a^2+2ab+b^2$", ["$a^2+b^2$", "$a^2+ab+b^2$", "$2a+2b$"], "Standard identity"),
@@ -65,7 +65,7 @@ NCERT_B = ([Q(f"Expand $(x+{p})^2$ using an identity.", f"$x^2+2\\times x\\times
            + [Q(f"Expand $({lin(p,q)})({lin(r,s)})$.", f"${p*r}x^2+{p*s}x+{q*r}x+{q*s}$ (1) $={P2(*mul(p,q,r,s))}$ (1).", "1+1") for p, q, r, s in [(2, 1, 3, 4), (3, 2, 1, 5), (4, 3, 2, 1), (5, 2, 3, 2)]]
            + [Q(f"Find ${a}\\times{b}$ using $(a+b)(a-b)$.", f"${a}\\times{b}=({(a+b)//2}-{(b-a)//2})({(a+b)//2}+{(b-a)//2})$ (1) $={((a+b)//2)**2}-{((b-a)//2)**2}={a*b}$ (1).", "1+1") for a, b in [(48, 52), (97, 103), (45, 55), (86, 94)]])
 NCERT_C = ([Q(f"Expand $({lin(p,q)})^2$.", f"$({p}x)^2+2({p}x)({q})+{q}^2$ (2); $={P2(p*p,2*p*q,q*q)}$ (1).", "2+1") for p, q in [(2, 3), (3, 4), (5, 1), (4, 5), (2, 7), (3, 2)]]
-           + [Q(f"Find ${a}\\times{b}$ using the identity $(a+b)(a-b)=a^2-b^2$.", f"${a}={(a+b)//2}-{(b-a)//2}$, ${b}={(a+b)//2}+{(b-a)//2}$ (1); product $={((a+b)//2)**2}-{((b-a)//2)**2}$ (1); $={a*b}$ (1).", "1+1+1") for a, b in [(53, 47), (68, 72), (91, 109), (35, 45), (74, 86), (118, 122)]]
+           + [Q(f"Find ${a}\\times{b}$ using the identity $(a+b)(a-b)=a^2-b^2$.", f"${a}={(a+b)//2}{'+' if a>b else '-'}{abs(a-b)//2}$, ${b}={(a+b)//2}{'-' if a>b else '+'}{abs(a-b)//2}$ (1); product $={((a+b)//2)**2}-{(abs(a-b)//2)**2}$ (1); $={a*b}$ (1).", "1+1+1") for a, b in [(53, 47), (68, 72), (91, 109), (35, 45), (74, 86), (118, 122)]]
            + [Q(f"Simplify $(x+{p})(x+{q})+(x-{p})(x-{q})$.", f"$(x+{p})(x+{q})={P2(1,p+q,p*q)}$ (1); $(x-{p})(x-{q})={P2(1,-(p+q),p*q)}$ (1); sum $={P2(2,0,2*p*q)}$ (1).", "1+1+1") for p, q in [(2, 3), (4, 5), (1, 7), (3, 6), (2, 8), (5, 4)]])
 NCERT_D = ([Q(f"A rectangle has length $(x+{p})$ cm and breadth $(x+{q})$ cm. Write an expression for its area and find the area when $x={k}$.", f"Area $=(x+{p})(x+{q})$ (1); $={P2(1,p+q,p*q)}$ (2); at $x={k}$: ${ev((1,p+q,p*q),k)}$ cm$^2$ (2).", "1+2+2") for p, q, k in [(3, 5, 4), (2, 6, 5), (4, 7, 3), (1, 9, 6), (5, 8, 2), (3, 4, 10)]]
            + [Q(f"Prove that $(a+b)^2-(a-b)^2=4ab$ and verify it for $a={a}$, $b={b}$.", f"$(a+b)^2=a^2+2ab+b^2$, $(a-b)^2=a^2-2ab+b^2$ (2); difference $=4ab$ (1); for $a={a}$, $b={b}$: ${(a+b)**2}-{(a-b)**2}={(a+b)**2-(a-b)**2}$ and $4ab={4*a*b}$ (2).", "2+1+2") for a, b in [(7, 3), (9, 4), (8, 5), (6, 2), (10, 3), (12, 5)]])
@@ -76,7 +76,7 @@ mA2 = [M4(f"$({p}x-{q}y)^2$ equals:", f"${p*p}x^{{2}}-{2*p*q}xy+{q*q}y^{{2}}$", 
 mA3 = [M4(f"The value of ${a}^2-{b}^2$ is:", a * a - b * b, [(a - b) ** 2, a * a + b * b, (a + b) ** 2], f"$({a}+{b})({a}-{b})={a+b}\\times{a-b}$") for a, b in [(63, 37), (78, 22), (91, 9), (55, 45), (84, 16)]]
 mA4 = [M4(f"The value of $(x+{p})^2$ when $x={k}$ is:", (k + p) ** 2, [k * k + p * p, (k + p) ** 2 + 2 * p, k * k + p * k + p * p], f"$({k}+{p})^2$") for p, k in [(3, 7), (4, 6), (5, 8), (2, 9), (6, 5)]]
 mA5 = [M4(f"The value of $(x+{p})(x+{q})$ when $x={k}$ is:", (k + p) * (k + q), [k * k + p * q, (k + p) * (k + q) + k, k * k + (p + q) * k], f"$({k}+{p})({k}+{q})$") for p, q, k in [(2, 5, 4), (3, 4, 6), (1, 6, 5), (4, 7, 2)]]
-mA6 = [M4(f"$(x+{p})^2-(x-{p})^2$ equals:", T_(PL(4 * p, 0)), [T_(P2(2, 0, 2 * p * p)), T_(PL(2 * p, 0)), T_(P2(0, 0, 4 * p * p)) if False else T_(PL(4 * p, p * p))], "The $x^2$ and constant terms cancel") for p in [2, 3, 5, 7]]
+mA6 = [M4(f"$(x+{p})^2-(x-{p})^2$ equals:", T_(PL(4 * p, 0)), [T_(P2(2, 0, 2 * p * p)), T_(PL(2 * p, 0)), T_(PL(4 * p, p * p))], "The $x^2$ and constant terms cancel") for p in [2, 3, 5, 7]]
 mA7 = [M4(f"Simplifying ${p}(x+{q})-{r}(x-{s})$ gives:", T_(PL(p - r, p * q + r * s)), [T_(PL(p - r, p * q - r * s)), T_(PL(p + r, p * q + r * s)), T_(PL(p - r, p + q + r + s))], "Expand each bracket and collect like terms") for p, q, r, s in [(5, 2, 3, 4), (6, 1, 2, 5), (7, 3, 4, 2), (4, 6, 1, 3), (8, 2, 5, 7)]]
 MED_A = [mA1, mA2, mA3, mA4, mA5, mA6, mA7]
 MED_B = ([Q(f"Expand $({p}x+{q}y)^2$.", f"$({p}x)^2+2({p}x)({q}y)+({q}y)^2$ (1) $={p*p}x^2+{2*p*q}xy+{q*q}y^2$ (1).", "1+1") for p, q in [(2, 5), (3, 2), (4, 3), (5, 4)]]
@@ -121,3 +121,6 @@ HARD_D = [hd1(*r) for r in [(3, 2, 5), (4, 3, 6), (5, 4, 2), (2, 7, 8), (6, 5, 3
 
 TIERS = {"NCERT": T(NCERT_A, NCERT_B, NCERT_C, NCERT_D), "Easy": T(EASY_A, EASY_B, EASY_C, EASY_D),
          "Medium": T(MED_A, MED_B, MED_C, MED_D), "Hard": T(HARD_A, HARD_B, HARD_C, HARD_D)}
+
+from c8m_fix import tidy
+tidy(TIERS)

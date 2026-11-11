@@ -15,15 +15,15 @@ def X(*ts): return "$" + ex(*ts) + "$"
 def num(q, c, why="", offs=(1, -1, 2, -2, 3, 5, 10)): return nm(q, c, why, offs=offs, pos=False)
 
 # ---------------------------------------------------------------- EASY
-eA1 = [num(f"If $x={x}$, the value of ${a}x+{b}$ is:", a * x + b, "Replace $x$ by its value and calculate.") for a, b, x in [(2, 3, 4), (3, 1, 5), (5, 2, 3), (4, 6, 2), (6, 5, 1)]]
-eA2 = [num(f"If $y={y}$, the value of ${a}y-{b}$ is:", a * y - b, "Replace $y$ by its value and subtract.") for a, b, y in [(3, 4, 5), (2, 7, 6), (4, 3, 4), (5, 8, 3)]]
+eA1 = [nw(f"If $x={x}$, the value of ${a}x+{b}$ is:", a * x + b, [int(f"{a}{x}") + b, (a + b) * x, a + x + b, a * x + b + a], "Replace $x$ by its value and calculate.") for a, b, x in [(2, 3, 4), (3, 1, 5), (5, 2, 3), (4, 6, 2), (6, 5, 1)]]
+eA2 = [nw(f"If $y={y}$, the value of ${a}y-{b}$ is:", a * y - b, [int(f"{a}{y}") - b, a * y + b, a + y - b, a * y - b + a], "Replace $y$ by its value and subtract.") for a, b, y in [(3, 4, 5), (2, 7, 6), (4, 3, 4), (5, 8, 3)]]
 eA3 = [tm(q, c, w, "Translate the words into a letter-number expression.") for q, c, w in [
     ("5 more than a number $n$ is:", "$n+5$", ["$5n$", "$n-5$", "$5-n$"]),
     ("3 times a number $m$ is:", "$3m$", ["$m+3$", "$m-3$", "$m/3$"]),
     ("7 less than a number $p$ is:", "$p-7$", ["$7-p$", "$7p$", "$p+7$"]),
     ("A number $k$ divided by 4 is:", "$k/4$", ["$4k$", "$k+4$", "$4/k$"]),
     ("Twice a number $t$ increased by 1 is:", "$2t+1$", ["$2(t+1)$", "$t+2$", "$2t-1$"])]]
-eA4 = [tm(f"The number of terms in the expression {X(*ts)} is:", str(len(ts)), [str(len(ts) + 1), str(len(ts) + 2), str(len(ts) + 3)], "Terms are separated by + or - signs.")
+eA4 = [tm(f"The number of terms in the expression {X(*ts)} is:", str(len(ts)), [str(len(ts) - 1), str(len(ts) + 1), str(len(ts) + 2)], "Terms are separated by + or - signs.")
        for ts in [((3, "x"), (2, "y"), (5, "")), ((4, "a"), (7, "")), ((1, "p"), (1, "q"), (1, "r"), (9, "")), ((6, "m"), (2, "n"))]]
 eA5 = [tm(f"The coefficient of $x$ in {X(*ts)} is:", str(ts[0][0]), [str(ts[0][0] + 1), str(ts[0][0] + 2), str(ts[0][0] - 1)], "The coefficient is the number multiplying the letter.")
        for ts in [((7, "x"), (2, "")), ((3, "x"), (4, "y")), ((9, "x"), (5, "")), ((12, "x"), (1, "z"))]]

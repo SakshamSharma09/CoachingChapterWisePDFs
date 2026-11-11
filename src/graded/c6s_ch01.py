@@ -174,7 +174,7 @@ Why do scientists repeat their experiments? Describe the process in five points.
 # ============================ MEDIUM ============================
 mA = [mc("""
 A student claims that heavier objects fall faster. A good way to test it is to: ## drop objects of different masses from the same height ## ask ten friends ## look at pictures ## wait for rain ## Test by a controlled experiment.
-In an experiment on seed germination, which variable must be changed? ## the presence of water only ## the seed type, water, and light all together ## the day of the week ## the colour of the pot ## Only one variable changes at a time.
+To test whether seeds need water to germinate, which variable should be changed? ## the presence of water ## the type of seed, water and light all together ## the day of the week ## the colour of the pot ## Only one variable changes at a time.
 In a fair test on the effect of fertiliser on plant growth, which should be the same for all plants? ## amount of water and sunlight ## amount of fertiliser ## the date of noting ## nothing ## Other conditions are kept constant.
 Which of the following correctly orders the steps? ## observation, hypothesis, experiment, conclusion ## conclusion, experiment, hypothesis, observation ## experiment, observation, conclusion, hypothesis ## hypothesis, conclusion, observation, experiment ## Standard order of the scientific method.
 Which one is a hypothesis? ## Plants kept in the dark will turn yellow. ## The Sun is hot. ## A tree is tall. ## I like plants. ## A prediction that can be tested.
@@ -182,7 +182,7 @@ Which is an inference rather than an observation? ## The pitch is wet, so it mus
 Which of the following cannot be tested in a science lab? ## Which song is the sweetest? ## Does salt dissolve faster in warm water? ## Do plants need light? ## Does ice melt faster in sunlight? ## It is a matter of opinion.
 Which statement describes technology best? ## Using scientific knowledge to solve practical problems ## Collecting rocks ## Reading science stories ## Memorising facts ## Technology is applied science.
 Which instrument is most suitable to look at the surface of the Moon? ## telescope ## microscope ## stethoscope ## balance ## Telescope gathers light from far objects.
-If a result of an experiment does not match the hypothesis, the scientist should: ## accept the result and revise the hypothesis ## hide the result ## change the data ## repeat nothing ## Honesty with data is essential.
+If a result of an experiment does not match the hypothesis, the scientist should: ## accept the result and revise the hypothesis ## hide the result and keep the hypothesis ## change the data to fit the hypothesis ## stop experimenting for ever ## Honesty with data is essential.
 """), mc("""
 Priya's plants kept in a dark cupboard became pale. The conclusion is: ## plants need light for healthy growth ## plants like cupboards ## water is harmful ## soil is not needed ## Without light, plants turn pale.
 Which of these helps make the measurement of a pencil's length more accurate? ## placing the ruler's zero mark at one end and reading straight on ## measuring from a broken end ## reading from the side ## guessing ## Correct use of the scale.
@@ -257,7 +257,7 @@ Write a short note on the importance of curiosity, with an example of a discover
 
 # ============================ HARD ============================
 hA = [mc("""
-A student heats two beakers: one with 100 mL and one with 200 mL of water and notes the time to boil. Which statement about fairness is true? ## the volume of water is changed along with the time, so the test has two changing things ## it is a perfectly fair test ## the beakers must differ in colour ## time is the cause ## Volume of water is a variable.
+To find whether the volume of water affects its boiling time, a student boils 100 mL in a steel pot on a strong flame and 200 mL in a glass beaker on a weak flame. Why is this test unfair? ## the container and the flame also differ along with the volume ## the volumes of water are different ## the water is heated at all ## time is measured with a clock ## Volume of water is a variable.
 In an experiment on how salt affects the boiling point, two things were changed: salt amount and heater power. The error is: ## more than one variable was changed ## too many readings ## salt is a solid ## water is cold ## Only one variable should vary.
 A scientist is convinced that her hypothesis is right, but the data shows otherwise. The correct action is to: ## revise the hypothesis ## discard the data ## repeat until the data matches ## change the readings ## Data must be respected.
 Which of these is the best example of a testable question? ## Does temperature affect how fast sugar dissolves? ## Is blue a better colour than red? ## Which sport is exciting? ## Is a mango tastier than a pear? ## Testable questions have measurable answers.
@@ -271,7 +271,7 @@ Which one is a limitation of the scientific method? ## it can only answer questi
 A study found that more ice cream is sold when more people get sunburnt. The best explanation is: ## both depend on hot weather ## ice cream causes sunburn ## sunburn causes ice cream sales ## it is magic ## A third factor links them.
 Plants A, B, C are given 100 mL, 200 mL, and 300 mL of water in same soil and light, and A grows least. Which is the changed variable? ## amount of water ## amount of soil ## amount of light ## type of plant ## Water amount varies.
 In the above experiment, which variable is measured as the outcome? ## growth of the plant ## amount of water ## sunlight ## soil ## Growth is the dependent variable.
-Raman used a simple setup to study light and received a Nobel Prize. This shows that: ## careful observation matters more than costly equipment alone ## Nobel prizes are easy ## science is only for the rich ## experiments are not needed ## Simple tools with careful thinking can lead to discoveries.
+C.V. Raman's work on the scattering of light began with his curiosity about why the sea looks blue. This shows that: ## curiosity about everyday things can lead to great discoveries ## great discoveries need no observation ## only costly equipment can lead to discoveries ## experiments are unnecessary in science ## Simple tools with careful thinking can lead to discoveries.
 A conclusion is 'valid' when: ## it follows from the data collected under fair conditions ## it is liked by many ## it is stated confidently ## it is old ## Validity depends on evidence.
 Which of these is an example of a quantitative observation? ## The rod is 25 cm long ## The rod looks shiny ## The rod feels smooth ## The rod is nice ## It involves a number.
 Which of these is a qualitative observation? ## The solution is blue ## The solution has a volume of 50 mL ## The solution has a mass of 60 g ## It was heated for 5 min ## Colour is a quality.

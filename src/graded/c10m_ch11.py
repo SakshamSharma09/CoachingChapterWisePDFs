@@ -24,7 +24,7 @@ def c_circ(r, u="cm"):
     return sc(f"The radius of a circle is {nd(r)} {u}.", "circumference of the circle", v, [PI * r, PI * r * r, 4 * PI * r], ["Circumference $=2\\pi r$", f"$2\\times\\frac{{22}}{{7}}\\times{ts(r)}$", f"Circumference $={nd(v)}$ {u}"], Lf(u))
 def r_circ(C, u="cm"):
     r = F(C) / (2 * PI)
-    return sc(f"The circumference of a circle is {nd(C)} {u}.", "radius of the circle", r, [C / PI, F(C) / (4 * PI), r * 2], ["Circumference $=2\\pi r$", f"$r=\\frac{{{nd(C)}\\times7}}{{2\\times22}}$", f"$r={nd(r)}$ {u}"], Lf(u))
+    return sc(f"The circumference of a circle is {nd(C)} {u}.", "radius of the circle", r, [C / PI, F(C) / (4 * PI), r * 2, F(C, 2), r * 4], ["Circumference $=2\\pi r$", f"$r=\\frac{{{nd(C)}\\times7}}{{2\\times22}}$", f"$r={nd(r)}$ {u}"], Lf(u))
 def r_area(A, u="cm"):
     r2 = F(A) / PI; r = F(isqrt(r2.numerator), isqrt(r2.denominator)); assert r * r == r2, A
     return sc(f"The area of a circle is {nd(A)} {u}$^2$.", "radius of the circle", r, [r2, r * 2, F(A) / (2 * PI)], ["Area $=\\pi r^2$", f"$r^2=\\frac{{{nd(A)}\\times7}}{{22}}={nd(r2)}$", f"$r={nd(r)}$ {u}"], Lf(u))
@@ -33,16 +33,16 @@ def arc(r, th, u="cm"):
     return sc(f"A sector of a circle of radius {nd(r)} {u} has central angle ${th}^\\circ$.", "length of its arc", v, [F(th, 360) * PI * r * r, F(th, 180) * 2 * PI * r, v + 2 * r], ["Arc length $=\\frac{\\theta}{360}\\times2\\pi r$", f"$\\frac{{{th}}}{{360}}\\times2\\times\\frac{{22}}{{7}}\\times{ts(r)}$", f"Arc $={nd(v)}$ {u}"], Lf(u))
 def sec_area(r, th, u="cm"):
     v = F(th, 360) * PI * r * r
-    return sc(f"A sector of a circle of radius {nd(r)} {u} has central angle ${th}^\\circ$.", "area of the sector", v, [F(th, 360) * 2 * PI * r, PI * r * r, v * 2], ["Area of sector $=\\frac{\\theta}{360}\\times\\pi r^2$", f"$\\frac{{{th}}}{{360}}\\times\\frac{{22}}{{7}}\\times{ts(r)}^2$", f"Area $={nd(v)}$ {u}$^2$"], Af(u))
+    return sc(f"A sector of a circle of radius {nd(r)} {u} has central angle ${th}^\\circ$.", "area of the sector", v, [F(th, 360) * 2 * PI * r, PI * r * r, v * 2, 3 * v, v / 2, F(th, 360) * PI * r], ["Area of sector $=\\frac{\\theta}{360}\\times\\pi r^2$", f"$\\frac{{{th}}}{{360}}\\times\\frac{{22}}{{7}}\\times{ts(r)}^2$", f"Area $={nd(v)}$ {u}$^2$"], Af(u))
 def sec_perim(r, th, u="cm"):
     v = F(th, 360) * 2 * PI * r + 2 * r
     return sc(f"A sector of a circle of radius {nd(r)} {u} has central angle ${th}^\\circ$.", "perimeter of the sector", v, [F(th, 360) * 2 * PI * r, v + r, F(th, 360) * 2 * PI * r + r], ["Perimeter $=$ arc $+\\,2r$", f"Arc $=\\frac{{{th}}}{{360}}\\times2\\pi\\times{ts(r)}={nd(F(th,360)*2*PI*r)}$ {u}", f"Perimeter $={nd(F(th,360)*2*PI*r)}+{ts(2*r)}={nd(v)}$ {u}"], Lf(u))
 def ang_arc(r, L, u="cm"):
     th = F(L) * 360 / (2 * PI * r); assert th.denominator == 1
-    return sc(f"An arc of length {nd(L)} {u} subtends an angle at the centre of a circle of radius {nd(r)} {u}.", "angle subtended by the arc at the centre", th, [th * 2, th / 2 if th % 2 == 0 else th + 10, 180 - th], ["Arc $=\\frac{\\theta}{360}\\times2\\pi r$", f"$\\theta=\\frac{{{nd(L)}\\times360}}{{2\\times\\frac{{22}}{{7}}\\times{ts(r)}}}$", f"$\\theta={nd(th)}^\\circ$"], Df)
+    return sc(f"An arc of length {nd(L)} {u} subtends an angle at the centre of a circle of radius {nd(r)} {u}.", "angle subtended by the arc at the centre", th, [th * 2, th / 2 if th % 2 == 0 else th + 10, 180 - th, th + 30, 360 - th], ["Arc $=\\frac{\\theta}{360}\\times2\\pi r$", f"$\\theta=\\frac{{{nd(L)}\\times360}}{{2\\times\\frac{{22}}{{7}}\\times{ts(r)}}}$", f"$\\theta={nd(th)}^\\circ$"], Df)
 def ang_area(r, A, u="cm"):
     th = F(A) * 360 / (PI * r * r); assert th.denominator == 1
-    return sc(f"The area of a sector of a circle of radius {nd(r)} {u} is {nd(A)} {u}$^2$.", "central angle of the sector", th, [th * 2, th + 30, 180 - th], ["Sector area $=\\frac{\\theta}{360}\\times\\pi r^2$", f"$\\theta=\\frac{{{nd(A)}\\times360}}{{\\frac{{22}}{{7}}\\times{ts(r)}^2}}$", f"$\\theta={nd(th)}^\\circ$"], Df)
+    return sc(f"The area of a sector of a circle of radius {nd(r)} {u} is {nd(A)} {u}$^2$.", "central angle of the sector", th, [th * 2, th + 30, 180 - th, th / 2, th + 90, 360 - th], ["Sector area $=\\frac{\\theta}{360}\\times\\pi r^2$", f"$\\theta=\\frac{{{nd(A)}\\times360}}{{\\frac{{22}}{{7}}\\times{ts(r)}^2}}$", f"$\\theta={nd(th)}^\\circ$"], Df)
 def seg90(r, u="cm"):
     sec = PI * r * r / 4; tri = F(r * r, 2); v = sec - tri
     return sc(f"A chord of a circle of radius {nd(r)} {u} subtends a right angle at the centre.", "area of the minor segment", v, [sec, tri, v + tri / 2], ["Segment $=$ sector $-$ triangle", f"Sector $={nd(sec)}$ {u}$^2$, triangle $=\\frac12\\times{ts(r)}\\times{ts(r)}={nd(tri)}$ {u}$^2$", f"Segment $={nd(sec)}-{nd(tri)}={nd(v)}$ {u}$^2$"], Af(u))
@@ -59,16 +59,16 @@ def quad_perim(r, u="cm"):
     return sc(f"A quadrant of a circle has radius {nd(r)} {u}.", "perimeter of the quadrant", v, [PI * r / 2, PI * r + 2 * r, PI * r / 2 + r], ["Perimeter $=$ quarter arc $+\\,2r$", f"Quarter arc $=\\frac{{\\pi r}}{{2}}={nd(PI*r/2)}$ {u}; $2r={nd(2*r)}$ {u}", f"Perimeter $={nd(v)}$ {u}"], Lf(u))
 def sq_circ(s, u="cm"):
     v = F(s) ** 2 - PI * F(s) ** 2 / 4
-    return sc(f"The largest possible circle is cut from a square sheet of side {nd(s)} {u}.", "area of the sheet left over", v, [PI * F(s) ** 2 / 4, F(s) ** 2, F(s) ** 2 - PI * F(s) ** 2 / 2], ["The largest circle has diameter equal to the side, so $r=\\frac{s}{2}$", f"Circle area $=\\frac{{22}}{{7}}\\times{ts(F(s)/2)}^2={nd(PI*F(s)**2/4)}$ {u}$^2$; square $={nd(F(s)**2)}$ {u}$^2$", f"Left over $={nd(v)}$ {u}$^2$"], Af(u))
+    return sc(f"The largest possible circle is cut from a square sheet of side {nd(s)} {u}.", "area of the sheet left over", v, [PI * F(s) ** 2 / 4, F(s) ** 2, F(s) ** 2 - PI * F(s) ** 2 / 2, 2 * v, 3 * v], ["The largest circle has diameter equal to the side, so $r=\\frac{s}{2}$", f"Circle area $=\\frac{{22}}{{7}}\\times{ts(F(s)/2)}^2={nd(PI*F(s)**2/4)}$ {u}$^2$; square $={nd(F(s)**2)}$ {u}$^2$", f"Left over $={nd(v)}$ {u}$^2$"], Af(u))
 def circ_sq(r, u="cm"):
     v = PI * r * r - 2 * r * r
-    return sc(f"A square is inscribed in a circle of radius {nd(r)} {u}.", "area of the circle outside the square", v, [PI * r * r, 2 * r * r, PI * r * r - 4 * r * r], ["The diagonal of the square is the diameter $2r$, so its area is $\\frac{(2r)^2}{2}=2r^2$", f"Circle $={nd(PI*r*r)}$ {u}$^2$; square $={nd(2*r*r)}$ {u}$^2$", f"Difference $={nd(v)}$ {u}$^2$"], Af(u))
+    return sc(f"A square is inscribed in a circle of radius {nd(r)} {u}.", "area of the circle outside the square", v, [PI * r * r, 2 * r * r, PI * r * r - 4 * r * r, PI * r * r - r * r, PI * r * r / 2, 4 * r * r], ["The diagonal of the square is the diameter $2r$, so its area is $\\frac{(2r)^2}{2}=2r^2$", f"Circle $={nd(PI*r*r)}$ {u}$^2$; square $={nd(2*r*r)}$ {u}$^2$", f"Difference $={nd(v)}$ {u}$^2$"], Af(u))
 def path(r, w, u="m"):
     R = r + w; v = PI * (R * R - r * r)
     return sc(f"A circular park of radius {nd(r)} {u} is surrounded by a path {nd(w)} {u} wide.", "area of the path", v, [PI * w * 2 * r, v * 2, v / 2], [f"Outer radius $={nd(R)}$ {u}", f"Area $=\\pi(R^2-r^2)=\\frac{{22}}{{7}}({nd(R)}^2-{nd(r)}^2)$", f"Area of path $={nd(v)}$ {u}$^2$"], Af(u))
 def sec_diff(R, r, th):
     v = F(th, 360) * PI * (R * R - r * r)
-    return sc(f"Two concentric circles have radii {R} cm and {r} cm. A sector of angle ${th}^\\circ$ is marked in both.", "area of the region between the two arcs within the sector", v, [PI * (R * R - r * r), v * 2, v / 2], ["Required area $=\\frac{\\theta}{360}\\times\\pi(R^2-r^2)$", f"$\\frac{{{th}}}{{360}}\\times\\frac{{22}}{{7}}\\times({R}^2-{r}^2)$", f"Area $={nd(v)}$ cm$^2$"], Af("cm"))
+    return sc(f"Two concentric circles have radii {R} cm and {r} cm. A sector of angle ${th}^\\circ$ is marked in both.", "area of the region between the two arcs within the sector", v, [PI * (R * R - r * r), v * 2, v / 2, F(th, 360) * PI * R * R, F(th, 360) * PI * (R + r) ** 2, F(th, 360) * PI * (R - r) ** 2], ["Required area $=\\frac{\\theta}{360}\\times\\pi(R^2-r^2)$", f"$\\frac{{{th}}}{{360}}\\times\\frac{{22}}{{7}}\\times({R}^2-{r}^2)$", f"Area $={nd(v)}$ cm$^2$"], Af("cm"))
 def clock_area(r, tm):
     v = F(tm, 60) * PI * r * r
     return sc(f"The minute hand of a clock is {nd(r)} cm long.", f"area swept by the minute hand in {tm} minutes", v, [F(tm, 60) * 2 * PI * r, PI * r * r, F(tm, 30) * PI * r * r], [f"In {tm} minutes the hand turns through $6^\\circ\\times{tm}={6*tm}^\\circ$", f"Area $=\\frac{{{6*tm}}}{{360}}\\times\\frac{{22}}{{7}}\\times{ts(r)}^2$", f"Area $={nd(v)}$ cm$^2$"], Af("cm"))
@@ -78,13 +78,13 @@ def clock_tip(r, tm):
 def cow(r, th=90):
     v = F(th, 360) * PI * r * r
     where = "at a corner of" if th == 90 else "at the midpoint of one side of"
-    return sc(f"A horse is tied {where} a large square field with a rope {nd(r)} m long.", "area of the field it can graze", v, [PI * r * r, v * 2, F(th, 360) * 2 * PI * r], [f"The horse can graze a sector of angle ${th}^\\circ$ and radius {nd(r)} m", f"Area $=\\frac{{{th}}}{{360}}\\times\\frac{{22}}{{7}}\\times{ts(r)}^2$", f"Area $={nd(v)}$ m$^2$"], Af("m"))
+    return sc(f"A horse is tied {where} a large square field with a rope {nd(r)} m long.", "area of the field it can graze", v, [PI * r * r, v * 2, F(th, 360) * 2 * PI * r, PI * r * r - v, F(th, 360) * PI * r, 4 * v], [f"The horse can graze a sector of angle ${th}^\\circ$ and radius {nd(r)} m", f"Area $=\\frac{{{th}}}{{360}}\\times\\frac{{22}}{{7}}\\times{ts(r)}^2$", f"Area $={nd(v)}$ m$^2$"], Af("m"))
 def cow_inc(r1, r2):
     v = PI * (r2 * r2 - r1 * r1) / 4
     return sc(f"A horse is tied at a corner of a large square field. The rope is first {r1} m long and then lengthened to {r2} m.", "increase in the area it can graze", v, [PI * r2 * r2 / 4, PI * (r2 - r1) ** 2 / 4, PI * (r2 * r2 - r1 * r1)], ["Grazed area is a quadrant: $\\frac14\\pi r^2$", f"Increase $=\\frac14\\times\\frac{{22}}{{7}}({r2}^2-{r1}^2)$", f"Increase $={nd(v)}$ m$^2$"], Af("m"))
 def wheel(r, D):
     C = 2 * PI * r; n = F(D * 100) / C; assert n.denominator == 1
-    return sc(f"A wheel has radius {nd(r)} cm.", f"number of complete revolutions it makes to cover {D} m", n, [n * 2, n + 10, F(D * 100) / (PI * r)], [f"Circumference $=2\\times\\frac{{22}}{{7}}\\times{ts(r)}={nd(C)}$ cm", f"Distance ${D}$ m $={D*100}$ cm; revolutions $=\\frac{{{D*100}}}{{{nd(C)}}}$", f"Revolutions $={nd(n)}$"], Nf)
+    return sc(f"A wheel has radius {nd(r)} cm.", f"number of complete revolutions it makes to cover {D} m", n, [n * 2, n + 10, F(D * 100) / (PI * r), n / 2, n * 10], [f"Circumference $=2\\times\\frac{{22}}{{7}}\\times{ts(r)}={nd(C)}$ cm", f"Distance ${D}$ m $={D*100}$ cm; revolutions $=\\frac{{{D*100}}}{{{nd(C)}}}$", f"Revolutions $={nd(n)}$"], Nf)
 def fence(r, rate):
     C = 2 * PI * r; v = C * rate
     return sc(f"A circular field has radius {nd(r)} m. Fencing costs ₹ {rate} per metre.", "cost (in ₹) of fencing the field once", v, [C, PI * r * r * rate, C * rate / 2], [f"Circumference $=2\\pi r=2\\times\\frac{{22}}{{7}}\\times{ts(r)}={nd(C)}$ m", f"Cost $={nd(C)}\\times{rate}$", f"Cost $=$ ₹ {nd(v)}"], lambda x: f"₹ {nd(x)}")
@@ -93,10 +93,10 @@ def wire_sq(r):
     return sc(f"A wire in the form of a circle of radius {nd(r)} cm is bent into a square.", "area of the square", v, [side, 4 * v, PI * r * r], [f"Perimeter of the square $=$ circumference $=2\\pi r={nd(2*PI*r)}$ cm", f"Side $={nd(2*PI*r)}\\div4={nd(side)}$ cm", f"Area $={nd(side)}^2={nd(v)}$ cm$^2$"], Af("cm"))
 def sum_r(r1, r2):
     r = r1 + r2
-    return sc(f"The radii of two circles are {r1} cm and {r2} cm.", "radius of the circle whose circumference equals the sum of their circumferences", r, [isqrt(r1 * r1 + r2 * r2) if isqrt(r1 * r1 + r2 * r2) ** 2 == r1 * r1 + r2 * r2 else r + 2, r2 - r1, 2 * r], ["Let the new radius be $R$; $2\\pi R=2\\pi r_1+2\\pi r_2$", f"$R=r_1+r_2={r1}+{r2}$", f"$R={r}$ cm"], Lf("cm"))
+    return sc(f"The radii of two circles are {r1} cm and {r2} cm.", "radius of the circle whose circumference equals the sum of their circumferences", r, [isqrt(r1 * r1 + r2 * r2) if isqrt(r1 * r1 + r2 * r2) ** 2 == r1 * r1 + r2 * r2 else r + 2, r2 - r1, 2 * r, F(r, 2), max(r1, r2)], ["Let the new radius be $R$; $2\\pi R=2\\pi r_1+2\\pi r_2$", f"$R=r_1+r_2={r1}+{r2}$", f"$R={r}$ cm"], Lf("cm"))
 def sum_a(r1, r2):
     r = isqrt(r1 * r1 + r2 * r2); assert r * r == r1 * r1 + r2 * r2
-    return sc(f"The radii of two circles are {r1} cm and {r2} cm.", "radius of the circle whose area equals the sum of their areas", r, [r1 + r2, r2 - r1, r + 2], ["Let the new radius be $R$; $\\pi R^2=\\pi r_1^2+\\pi r_2^2$", f"$R^2={r1}^2+{r2}^2={r1*r1+r2*r2}$", f"$R={r}$ cm"], Lf("cm"))
+    return sc(f"The radii of two circles are {r1} cm and {r2} cm.", "radius of the circle whose area equals the sum of their areas", r, [r1 + r2, r2 - r1, r + 2, F(r1 + r2, 2), max(r1, r2)], ["Let the new radius be $R$; $\\pi R^2=\\pi r_1^2+\\pi r_2^2$", f"$R^2={r1}^2+{r2}^2={r1*r1+r2*r2}$", f"$R={r}$ cm"], Lf("cm"))
 def umbrella(r, n):
     v = PI * r * r / n
     return sc(f"An umbrella has {n} ribs which are equally spaced and the umbrella, when opened flat, is a circle of radius {nd(r)} cm.", "area between two consecutive ribs", v, [PI * r * r, PI * r * r / (n - 1), 2 * PI * r / n], [f"The {n} ribs divide the circle into {n} equal sectors", f"Area of the circle $=\\frac{{22}}{{7}}\\times{ts(r)}^2={nd(PI*r*r)}$ cm$^2$", f"Area between ribs $={nd(PI*r*r)}\\div{n}={nd(v)}$ cm$^2$"], Af("cm"))
@@ -105,7 +105,7 @@ def brooch(d, n):
     return sc(f"A brooch is a circular piece of silver wire of diameter {d} mm. The wire is also used for {n} equal diameters that divide the brooch into {2*n} sectors.", "total length of wire required (in mm)", v, [2 * PI * r, PI * r * r, 2 * PI * r + n * r], ["Wire $=$ circumference $+$ the diameters", f"Circumference $=\\pi d={nd(PI*d)}$ mm; diameters $={n}\\times{d}={n*d}$ mm", f"Total $={nd(v)}$ mm"], Lf("mm"))
 def lens_sq(s):
     v = F(s) ** 2 - PI * F(s) ** 2 / 4
-    return sc(f"A quadrant of a circle of radius {s} cm is cut from a square of side {s} cm, with the centre of the quadrant at one corner of the square.", "area of the remaining part of the square", v, [PI * F(s) ** 2 / 4, F(s) ** 2, F(s) ** 2 - PI * F(s) ** 2 / 2], ["The quadrant has radius $s$, so its area is $\\frac14\\pi s^2$", f"Quadrant $={nd(PI*F(s)**2/4)}$ cm$^2$; square $={nd(F(s)**2)}$ cm$^2$", f"Remaining $={nd(v)}$ cm$^2$"], Af("cm"))
+    return sc(f"A quadrant of a circle of radius {s} cm is cut from a square of side {s} cm, with the centre of the quadrant at one corner of the square.", "area of the remaining part of the square", v, [PI * F(s) ** 2 / 4, F(s) ** 2, F(s) ** 2 - PI * F(s) ** 2 / 2, 2 * v, F(s) ** 2 / 2], ["The quadrant has radius $s$, so its area is $\\frac14\\pi s^2$", f"Quadrant $={nd(PI*F(s)**2/4)}$ cm$^2$; square $={nd(F(s)**2)}$ cm$^2$", f"Remaining $={nd(v)}$ cm$^2$"], Af("cm"))
 def semi_area(r, u="cm"):
     v = PI * r * r / 2
     return sc(f"A semicircle has radius {nd(r)} {u}.", "area of the semicircle", v, [PI * r * r, PI * r, PI * r * r / 4], ["Area of semicircle $=\\frac12\\pi r^2$", f"$\\frac12\\times\\frac{{22}}{{7}}\\times{ts(r)}^2$", f"Area $={nd(v)}$ {u}$^2$"], Af(u))

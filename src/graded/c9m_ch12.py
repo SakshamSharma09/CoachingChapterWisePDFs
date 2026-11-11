@@ -341,3 +341,6 @@ HARD_C = draw(413, 6, q_diag(10, 40)) + draw(414, 6, q_rhomb_ang(34, 146)) + dra
 HARD_D = draw(416, 6, q_rect_mid([TRIP[1], TRIP[2], TRIP[3], TRIP[4]], (1, 2, 3))) + draw(417, 6, q_rh_proof([TRIP[0], TRIP[1], TRIP[2], TRIP[3], TRIP[4], TRIP[5]], (1, 2, 3)))
 
 TIERS = T4((NCERT_A, NCERT_B, NCERT_C, NCERT_D), (EASY_A, EASY_B, EASY_C, EASY_D), (MED_A, MED_B, MED_C, MED_D), (HARD_A, HARD_B, HARD_C, HARD_D))
+
+from c8m_fix import tidy
+tidy(TIERS)

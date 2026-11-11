@@ -25,34 +25,33 @@ src/pat/ src/c6build..c9build/  school-pattern and earlier practice-paper source
 |---|---|---|---|---|---|---|
 | 5 | English | 0/0 | 0 | no | 0 | 41/41 |
 | 6 | Maths | 10/10 | 2 | no | 2 | 278/278 |
-| 6 | Science | 12/12 | 3 | no | 2 | 277/341 |
-| 6 | Social_Science | 14/14 | 3 | no | 2 | 112/384 |
+| 6 | Science | 12/12 | 3 | no | 2 | 341/341 |
+| 6 | Social_Science | 14/14 | 3 | no | 2 | 384/384 |
 | 6 | English | 0/0 | 0 | no | 0 | 41/41 |
-| 7 | Maths | 8/8 | 2 | no | 2 | 203/235 |
-| 7 | Science | 11/11 | 3 | no | 2 | 93/317 |
-| 7 | Social_Science | 12/12 | 3 | no | 2 | 181/341 |
+| 7 | Maths | 8/8 | 2 | no | 2 | 235/235 |
+| 7 | Science | 11/11 | 3 | no | 2 | 317/317 |
+| 7 | Social_Science | 12/12 | 3 | no | 2 | 341/341 |
 | 7 | English | 0/0 | 0 | no | 0 | 41/41 |
 | 8 | Maths | 14/14 | 3 | no | 2 | 394/394 |
-| 8 | Science | 13/13 | 3 | no | 2 | 263/375 |
+| 8 | Science | 13/13 | 3 | no | 2 | 375/375 |
 | 8 | Social_Science | 15/15 | 2 | no | 2 | 451/451 |
 | 8 | English | 0/0 | 0 | no | 0 | 51/51 |
 | 8 | Hindi | 0/0 | 0 | no | 0 | 10/10 |
-| 9 | Maths | 14/14 | 2 | no | 2 | 378/410 |
-| 9 | Science | 13/13 | 3 | no | 2 | 114/370 |
-| 9 | Social_Science | 14/14 | 2 | no | 2 | 319/410 |
-| 9 | English | 8/8 | 0 | no | 0 | 135/263 |
-| 9 | Hindi | 7/0 | 0 | no | 0 | 89/201 |
-| 10 | Maths | 14/14 | 4 | no | 3 | 321/418 |
-| 10 | Science | 13/13 | 3 | no | 3 | 368/371 |
-| 10 | Social_Science | 22/22 | 0 | no | 5 | 175/516 |
-| 10 | English | 28/28 | 0 | no | 0 | 241/657 |
-| 10 | Hindi | 15/15 | 0 | no | 0 | 119/343 |
+| 9 | Maths | 14/14 | 2 | no | 2 | 410/410 |
+| 9 | Science | 13/13 | 3 | no | 2 | 370/370 |
+| 9 | Social_Science | 14/14 | 2 | no | 2 | 410/410 |
+| 9 | English | 8/8 | 0 | no | 0 | 263/263 |
+| 9 | Hindi | 7/0 | 0 | no | 0 | 201/201 |
+| 10 | Maths | 14/14 | 4 | no | 3 | 418/418 |
+| 10 | Science | 13/13 | 3 | no | 3 | 371/371 |
+| 10 | Social_Science | 22/22 | 0 | no | 5 | 516/516 |
+| 10 | English | 28/28 | 0 | no | 0 | 657/657 |
+| 10 | Hindi | 15/15 | 0 | no | 0 | 343/343 |
 
-NCERT_Books: 0/5 files on GitHub.
+NCERT_Books: 5/5 files on GitHub.
 
 ## Incomplete on GitHub (partial uploads; re-push these)
-- Class_09/Social_Science/Graded_Papers/Ch11_Resistance_and_Resilience: GitHub has 5/16 (local has 16/16)
-- Class_10/Maths/Graded_Papers/Ch13_Statistics: GitHub has 2/16 (local has 16/16)
+- none
 
 ## What remains
 - Class 6 Maths: graded full-year paper not built

@@ -1,5 +1,5 @@
 """Class 10 Maths Ch 13 - Statistics (graded banks). Mean (direct / assumed mean / step-deviation), median and mode of grouped data.
-Cumulative frequency graphs (ogives) and the empirical relation are not used."""
+Graph-drawing questions and the empirical relation are not used."""
 import random
 from c10m_x import *
 
