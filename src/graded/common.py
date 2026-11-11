@@ -31,6 +31,28 @@ def M4(q, c, w, why=""):
     assert len(seen) >= 3, (q, c, w)
     return mcq(q, [c] + seen[:3], "a", why)
 
+AR_OPTS = ["Both A and R are true and R is the correct explanation of A.",
+           "Both A and R are true but R is not the correct explanation of A.",
+           "A is true but R is false.", "A is false but R is true."]
+def AR4(assertion, reason, key, why=""):
+    """CBSE assertion-reason MCQ. key: 'a' both true & R explains A; 'b' both true, R does not explain A; 'c' A true R false; 'd' A false R true."""
+    assert key in "abcd"
+    return dict(kind="mcq", q=f"<b>Assertion (A):</b> {assertion}<br><b>Reason (R):</b> {reason}<br>Choose the correct option:",
+                opts=list(AR_OPTS), ans=key, why=why, fig=None)
+
+def load_extras(modname):
+    import importlib
+    try: return importlib.import_module(f"x.{modname}_x")
+    except ModuleNotFoundError as e:
+        if e.name and e.name.startswith("x"): return None
+        raise
+
+def mistakes_box(items):
+    if not items: return ""
+    lis = "".join(f"<li>{i}</li>" for i in items)
+    return ("<div style='border-left:3px solid #b3261e;background:#fdf1f0;padding:3px 8px;font-size:8.2pt;margin:6px 0'>"
+            f"<b>Mistakes to avoid:</b><ul style='margin:2px 0 0 14px;padding:0'>{lis}</ul></div>")
+
 # --- Windows-safe asset paths (lib builds file:// + path) ---
 def _uri_path(p):
     p = str(p).replace("\\", "/")
@@ -73,7 +95,7 @@ def interleave(groups):
         i += 1
     return out
 
-def make_sets(tier, tag):
+def make_sets(tier, tag, ex=None):
     """tier: dict(A=[groups..] or flat, B, C, D). Returns [set dicts]."""
     flat = {}
     for k in "ABCD":
@@ -90,7 +112,13 @@ def make_sets(tier, tag):
         C = flat["C"][6 * s:6 * s + 6]; D = flat["D"][4 * s:4 * s + 4]
         rng = random.Random(f"{tag}{s}")
         A = [shuffle_mcq(i, rng) for i in A]
-        sets.append(dict(A=A, B=B, C=[C[0], C[1], OR(C[2], C[3]), OR(C[4], C[5])], D=[OR(D[0], D[1]), OR(D[2], D[3])]))
+        Dq = [OR(D[0], D[1]), OR(D[2], D[3])]
+        ar = list(getattr(ex, "AR", []) or []); cs = list(getattr(ex, "CASE", []) or [])
+        if ex is not None and len(ar) >= 2 * NSETS:
+            A = A[:8] + [shuffle_mcq(i, rng) for i in ar[2 * s:2 * s + 2]]
+        if ex is not None and len(cs) >= NSETS:
+            Dq = [cs[s], OR(D[2], D[3])]
+        sets.append(dict(A=A, B=B, C=[C[0], C[1], OR(C[2], C[3]), OR(C[4], C[5])], D=Dq))
     return sets
 
 # ---- rendering ----
@@ -111,7 +139,7 @@ def npages(pdf):
     from pypdf import PdfReader
     return len(PdfReader(str(pdf)).pages)
 
-def fit(pg, html_fn, out, foot, target=2, fmin=9.4):
+def fit(pg, html_fn, out, foot, target=2, fmin=8.8):
     fs = 11.8
     while True:
         to_pdf(pg, html_fn(fs), out, foot)
@@ -138,16 +166,19 @@ def instr(tier):
             "Q. 19–20 are Long Answer Type (5 marks each).", "Internal choice is given in Q. 17 to 20.",
             "Write the question number before each answer.", TIER_BLURB[tier] + "."]
 
-def build_chapter(pg, root, cls, subject, chno, slug, name, tiers, only=None):
+def build_chapter(pg, root, cls, subject, chno, slug, name, tiers, only=None, extras=None):
     """root = repo path of .../Graded_Papers"""
     lib.CHAPTERS.clear(); lib.CHAPTERS[chno] = name; lib.SUBJECT[0] = subject
     log = []
     _gk = lib.generic_key
-    gk = lambda meta, data: _gk(meta, data).replace("Class 8 ", f"Class {cls} ", 1)
+    mb = mistakes_box(getattr(extras, "MISTAKES", None))
+    def gk(meta, data):
+        h = _gk(meta, data).replace("Class 8 ", f"Class {cls} ", 1)
+        return h.replace("<div class='note'>", mb + "<div class='note'>", 1) if mb else h
     for tier in TIER_ORDER:
         if only and tier not in only: continue
         d = Path(root) / f"Ch{chno:02d}_{slug}" / TIER_FOLDER[tier]; d.mkdir(parents=True, exist_ok=True)
-        sets = make_sets(tiers[tier], f"{subject}{chno}{tier}")
+        sets = make_sets(tiers[tier], f"{subject}{chno}{tier}", extras if tier == "Hard" else None)
         keys = []
         for s, data in enumerate(sets, 1):
             base = f"Ch{chno:02d}_{slug}_{tier}_Set_{s}"

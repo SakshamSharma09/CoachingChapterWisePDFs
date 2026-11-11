@@ -5,14 +5,20 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import common, os
 def _chrome():
+    import glob
     c='/opt/pw-browsers/chromium-1243/chrome-linux64/chrome'
-    return c if os.path.exists(c) else None
+    if os.path.exists(c): return c
+    if os.environ.get("CHROMIUM_PATH"): return os.environ["CHROMIUM_PATH"]
+    g = sorted(glob.glob(os.path.expanduser("~/AppData/Local/ms-playwright/chromium-*/chrome-win*/chrome.exe")))
+    return g[-1] if g else None
 mod = importlib.import_module(sys.argv[1]); cls = int(sys.argv[2]); subject = sys.argv[3]
 check = "--check" in sys.argv
 only = None
 if "--tier" in sys.argv: only = sys.argv[sys.argv.index("--tier") + 1].split(",")
+ex = common.load_extras(sys.argv[1])
 for t in common.TIER_ORDER:
-    common.make_sets(mod.TIERS[t], f"{subject}{mod.CHNO}{t}")
+    common.make_sets(mod.TIERS[t], f"{subject}{mod.CHNO}{t}", ex if t == "Hard" else None)
+print("extras:", "none" if ex is None else {k: len(getattr(ex, k, []) or []) for k in ("AR", "CASE", "FORMULAS", "MISTAKES")})
 print("bank OK:", {t: {k: sum(len(g) if g and isinstance(g[0], list) else 1 for g in ([mod.TIERS[t][k]] if not isinstance(mod.TIERS[t][k][0], list) else mod.TIERS[t][k])) for k in "ABCD"} for t in common.TIER_ORDER} if False else "counts and duplicates passed")
 if check: sys.exit(0)
 from playwright.sync_api import sync_playwright
@@ -20,6 +26,6 @@ repo = Path(__file__).resolve().parents[2]
 root = repo / f"Class_{cls:02d}" / subject.replace(" ", "_") / "Graded_Papers"
 with sync_playwright() as p:
     br = p.chromium.launch(executable_path=_chrome()); pg = br.new_page()
-    log = common.build_chapter(pg, root, cls, subject, mod.CHNO, mod.SLUG, mod.NAME, mod.TIERS, only)
+    log = common.build_chapter(pg, root, cls, subject, mod.CHNO, mod.SLUG, mod.NAME, mod.TIERS, only, ex)
     br.close()
 for n, pgs, fs in log: print(f"{n}: {pgs} pages @ {fs}pt")

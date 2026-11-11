@@ -21,6 +21,7 @@ EXTRA_UNITS = {
 dry = "--dry" in sys.argv
 with_full = "--with-full" in sys.argv
 with_mcq = "--with-mcq" in sys.argv
+rebuild_hard = "--rebuild-hard" in sys.argv   # re-render only the Hard tier (after AR/case extras changed) for Maths/Science/SST
 workers = int(sys.argv[sys.argv.index("--workers") + 1]) if "--workers" in sys.argv else 1
 fc = int(sys.argv[sys.argv.index("--class") + 1]) if "--class" in sys.argv else None
 fs = sys.argv[sys.argv.index("--subject") + 1] if "--subject" in sys.argv else None
@@ -51,7 +52,7 @@ for cls in range(6, 11):
 
 def run(job):
     cls, subj, kind, label, chs, out = job
-    r = subprocess.run([sys.executable, "-W", "ignore", str(here / "exam.py"), str(cls), subj, kind, label, prefix(cls, subj), ",".join(map(str, chs))],
+    r = subprocess.run([sys.executable, "-W", "ignore", str(here / "exam.py"), str(cls), subj, kind, label, prefix(cls, subj), ",".join(map(str, chs))] + (["--tier", "Hard"] if rebuild_hard else []),
                        capture_output=True, text=True)
     ok = r.returncode == 0 and complete(out)
     return job, ok, "" if ok else (r.stderr or r.stdout)[-400:]
@@ -64,6 +65,9 @@ for job in jobs:
     print(f"Class {cls} {subj:15s} {kind:4s} {label:22s} chapters {chs[0]}-{chs[-1]}: {state}", flush=True)
     if kind == "full" and not with_full: continue
     if kind == "mcq" and not with_mcq: continue
+    if rebuild_hard:
+        if subj in ("Maths", "Science", "Social_Science") and state in ("DONE", "READY") and not dry: todo.append(job)
+        continue
     if state == "READY" and not dry: todo.append(job)
 built = 0
 with ThreadPoolExecutor(max_workers=workers) as ex:

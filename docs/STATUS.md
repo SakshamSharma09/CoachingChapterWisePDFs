@@ -24,29 +24,29 @@ src/pat/ src/c6build..c9build/  school-pattern and earlier practice-paper source
 | Class | Subject | Graded chapters done | Units done | Full-year | Notes PDFs | Files on GitHub / local (committed) |
 |---|---|---|---|---|---|---|
 | 5 | English | 0/0 | 0 | no | 0 | 41/41 |
-| 6 | Maths | 10/10 | 2 | yes | 2 | 278/278 |
-| 6 | Science | 12/12 | 3 | yes | 2 | 341/341 |
-| 6 | Social_Science | 14/14 | 3 | yes | 2 | 384/384 |
+| 6 | Maths | 10/10 | 2 | yes | 2 | 310/310 |
+| 6 | Science | 12/12 | 3 | yes | 2 | 373/373 |
+| 6 | Social_Science | 14/14 | 3 | yes | 2 | 416/416 |
 | 6 | English | 0/0 | 0 | no | 0 | 41/41 |
-| 7 | Maths | 8/8 | 2 | yes | 2 | 235/235 |
-| 7 | Science | 11/11 | 3 | yes | 2 | 317/317 |
-| 7 | Social_Science | 12/12 | 3 | yes | 2 | 341/341 |
+| 7 | Maths | 8/8 | 2 | yes | 2 | 267/267 |
+| 7 | Science | 11/11 | 3 | yes | 2 | 349/349 |
+| 7 | Social_Science | 12/12 | 3 | yes | 2 | 373/373 |
 | 7 | English | 0/0 | 0 | no | 0 | 41/41 |
-| 8 | Maths | 14/14 | 3 | yes | 2 | 394/394 |
-| 8 | Science | 13/13 | 3 | yes | 2 | 375/375 |
-| 8 | Social_Science | 15/15 | 2 | yes | 2 | 451/451 |
+| 8 | Maths | 14/14 | 3 | yes | 2 | 426/426 |
+| 8 | Science | 13/13 | 3 | yes | 2 | 407/407 |
+| 8 | Social_Science | 15/15 | 2 | yes | 2 | 483/483 |
 | 8 | English | 0/0 | 0 | no | 0 | 51/51 |
 | 8 | Hindi | 0/0 | 0 | no | 0 | 10/10 |
-| 9 | Maths | 14/14 | 2 | yes | 2 | 410/410 |
-| 9 | Science | 13/13 | 3 | yes | 2 | 370/370 |
-| 9 | Social_Science | 14/14 | 2 | yes | 2 | 410/410 |
-| 9 | English | 8/8 | 2 | yes | 0 | 263/263 |
-| 9 | Hindi | 7/0 | 1 | no | 0 | 237/237 |
-| 10 | Maths | 14/14 | 4 | yes | 3 | 418/418 |
-| 10 | Science | 13/13 | 3 | yes | 3 | 371/371 |
-| 10 | Social_Science | 22/22 | 5 | yes | 5 | 516/516 |
-| 10 | English | 28/28 | 3 | yes | 0 | 657/657 |
-| 10 | Hindi | 15/15 | 3 | yes | 0 | 388/388 |
+| 9 | Maths | 14/14 | 2 | yes | 2 | 442/442 |
+| 9 | Science | 13/13 | 3 | yes | 2 | 402/402 |
+| 9 | Social_Science | 14/14 | 2 | yes | 2 | 442/442 |
+| 9 | English | 8/8 | 2 | yes | 0 | 327/327 |
+| 9 | Hindi | 7/0 | 1 | no | 0 | 253/253 |
+| 10 | Maths | 12/14 | 4 | yes | 3 | 450/450 |
+| 10 | Science | 13/13 | 3 | yes | 3 | 403/403 |
+| 10 | Social_Science | 22/22 | 5 | yes | 5 | 628/628 |
+| 10 | English | 28/28 | 3 | yes | 0 | 737/737 |
+| 10 | Hindi | 15/15 | 3 | yes | 0 | 468/468 |
 
 NCERT_Books: 255/255 files on GitHub.
 
@@ -54,6 +54,8 @@ NCERT_Books: 255/255 files on GitHub.
 - none
 
 ## What remains
+- Class 10 Maths: graded chapters missing [9, 13]
 - Not started: English graded papers (Classes 6-8), Hindi graded papers (Classes 6-8, Class 9 chapters 2-6), Class 5 graded papers
-- Not started: case-based/assertion-reason hard-tier additions, formula sheets, 'mistakes to avoid' boxes, school-pattern full-year papers for Classes 6-7, reviewer audit pass (unit, full-year and MCQ-only tests are built for every class/subject that has complete chapter banks)
+- Done: Hard-tier assertion-reason + case-based items, formula sheets (Maths/Science), 'mistakes to avoid' boxes in chapter answer keys, MCQ-only tests, school-pattern papers for Classes 6-7 (3 sets each of Maths/Science/Social_Science)
+- Not started: reviewer audit pass of the new extras (src/graded/x/*.py), school-pattern papers for English/Hindi Classes 6-7, Class 6-8 English/Hindi graded papers, Class 5
 - NCERT chapter PDFs for Classes 6-10 are in NCERT_Books/ (organised ChNN_Title.pdf)

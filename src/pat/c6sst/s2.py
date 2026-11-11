@@ -1,0 +1,58 @@
+from h8 import *
+META = meta(2, "Set 02")
+# Set 2: emphasis Geography (globe, maps, continents, landforms) and rural/urban governance
+A = [
+ m("India lies in which pair of hemispheres?", "Northern and Eastern", ["Southern and Western", "Northern and Western", "Southern and Eastern"], "India is north of the Equator and east of the Prime Meridian."),
+ st("Asia is the largest continent of the world in both area and population.", "The Southern Ocean surrounds the continent of Africa.", True, False, "The Southern Ocean surrounds Antarctica, not Africa."),
+ m("A broad, flat-topped, elevated land with steep sides, such as the Deccan, is a —", "plateau", ["plain", "valley", "delta"], "Plateaus are raised flat lands."),
+ m("Which of the following is a written source of history?", "A palm-leaf manuscript", ["A clay pot dug out from a mound", "A fossil bone", "A stone tool"], "Manuscripts and books are literary sources; the others are archaeological sources."),
+ m("Jambudvipa, an old name for the Indian subcontinent, means —", "the island of the jamun tree", ["the land of seven rivers", "the country of the Bharatas", "the land of snow"], "Jambu = jamun; dvipa = island/continent."),
+ m("The covered drains found along the streets of Harappan cities show that its people had —", "a system of planned sanitation", ["no knowledge of building", "only mud houses", "no trade"], "Drains and soak pits show planning for waste water."),
+ ar("Vedic hymns were preserved for many centuries without being written down.", "Students memorised the hymns and chanted them very carefully, passing them on to the next generation.", 'exp', "R explains A: careful oral learning preserved the Vedas."),
+ m("Which of the following helps link people from different parts of India?", "Pilgrimages to sacred places all over the country", ["Staying only within one's village", "Speaking only one language", "Avoiding festivals"], "Journeys to places like Varanasi, Rameswaram and Dwarka link regions."),
+ m("A family in which several generations live together in one household is a —", "joint family", ["nuclear family", "single-parent family", "community"], "Grandparents, parents and children together form a joint family."),
+ m("The part of government that makes laws for the country is the —", "legislature", ["executive", "judiciary", "police"], "Parliament and state assemblies are legislatures."),
+ m("The elected head of a Gram Panchayat is called the —", "Sarpanch", ["Mayor", "District Collector", "Chairperson of the Zila Parishad"], "The Sarpanch is elected by the villagers."),
+ m("The elected head of a Municipal Corporation is called the —", "Mayor", ["Sarpanch", "Governor", "Block Development Officer"], "Cities have Mayors; villages have Sarpanches."),
+ fill("Respecting every kind of honest work, whether done by a doctor or a street sweeper, is known as the ...........", "dignity of labour", ["division of labour", "child labour", "barter system"], "Every honest work deserves respect."),
+ m("Which of the following is a tertiary-sector (service) activity?", "Teaching in a school", ["Farming", "Mining", "Making furniture"], "Services such as teaching, banking and transport are tertiary activities."),
+ m("On a map the scale is 1 cm = 20 km. A distance of 3 cm on the map represents how many kilometres on the ground?", "60 km", ["23 km", "6 km", "600 km"], "3 × 20 = 60 km."),
+]
+B = [
+ vsa("Name the five oceans of the world (any four correct for full marks).", "Pacific, Atlantic, Indian, Southern (Antarctic) and Arctic — 2 marks (any four = 2; any two or three = 1)", head="Marking points:"),
+ OR(vsa("Why is India also called Bharat? Name one more old name of the land.", "Bharat comes from the ancient Bharata people / Bharatavarsha — 1 mark", "Other names: Sapta Sindhava, Jambudvipa, Hindustan, India — 1 mark", head="Marking points:"),
+    vsa("What was Sapta Sindhava? Where is it mentioned?", "Sapta Sindhava means the 'land of seven rivers' — 1 mark", "It is mentioned in the Rig Veda for the north-west region — 1 mark", head="Marking points:")),
+ vsa("State any two functions of a family.", "Provides food, shelter, care and security", "Teaches values, language and customs to children", "Gives emotional support (any two, 1 mark each)"),
+ vsa("Why should all kinds of work be respected? Give two reasons.", "Every honest work serves society's needs", "Respect avoids discrimination and builds equality", "Workers earn their living through hard work (any two, 1 mark each)"),
+]
+C = [
+ OR(sa("Explain any three ways in which India is an example of 'unity in diversity'.", 3, sol("Marking points (any three, 1 mark each):", "People speak many languages (22 languages in the Eighth Schedule) but share a common Constitution", "Different foods, dresses and festivals, yet festivals like Diwali, Eid, Christmas and Baisakhi are shared by all", "Many religions live together side by side", "Pilgrimage places and cultural traditions link all parts of the country", "Common history and shared values of tolerance")),
+    sa("Explain how festivals and shared traditions bring members of a community together.", 3, sol("Marking points (any three, 1 mark each):", "People meet, cook, share food and celebrate together", "Festivals teach values such as sharing, giving and gratitude", "They pass on customs, songs and stories to the young", "They give a chance to help the poor and the needy", "They create a feeling of belonging and respect for others' festivals"))),
+ sa("Describe any three functions of the Gram Panchayat.", 3, sol("Marking points (any three, 1 mark each):", "Preparing development plans for the village", "Providing drinking water and keeping the village clean", "Building and repairing village roads, drains and street lights", "Running schools, anganwadis and health sub-centres with government help", "Collecting local taxes and maintaining village records")),
+]
+D = [
+ OR(sa("Distinguish between a globe and a map in any five points.", 5, sol("Marking points (any five, 1 mark each):", "A globe is a model of the Earth, a map is a drawing on a flat surface", "A globe shows the shape of the Earth correctly; a map distorts shapes/areas a little", "A globe cannot be folded or carried easily; a map can be", "A globe shows the whole Earth at once; a map can show a small area in detail", "Maps can have a scale, directions and symbols; a globe has a small scale", "Maps are cheaper to prepare and are available for a city, state or country")),
+    sa("Explain any five facts about latitudes and longitudes.", 5, sol("Marking points (any five, 1 mark each):", "Latitudes are imaginary east–west circles parallel to the Equator", "Equator is 0° latitude and divides the Earth into Northern and Southern Hemispheres", "Longitudes are imaginary north–south lines from pole to pole", "Prime Meridian (0°) passes through Greenwich and divides Eastern and Western Hemispheres", "The Tropic of Cancer (23.5° N) passes through India", "Latitudes and longitudes together help locate any place exactly"))),
+ OR(sa("Describe any five features of the Harappan civilisation.", 5, sol("Marking points (any five, 1 mark each):", "Flourished about 2600–1900 BCE along the Indus and nearby rivers", "Well-planned cities such as Harappa, Mohenjo-daro, Dholavira and Lothal", "Brick houses, wide streets and covered drains", "Farming of wheat, barley and cotton; domesticated animals", "Skilled crafts such as bead-making, pottery and metalwork", "Trade with distant lands, standard weights and seals with a script that is yet to be deciphered")),
+    sa("Explain the importance of Dholavira and Lothal in the story of Harappan civilisation (five points).", 5, sol("Marking points (any five, 1 mark each):", "Both are Harappan sites in Gujarat", "Dholavira had a fortified citadel, middle and lower town", "Dholavira built reservoirs, stepped wells and channels to conserve rainwater in a dry area", "Lothal had a dockyard-like structure showing sea trade", "Lothal made beads and ornaments that were traded", "Both show planning, engineering and long-distance contacts"))),
+]
+E = [
+ src("Aarav's class visited the museum, where they saw a copper plate and a stone pillar carrying carved writing, some old coins, and a palm-leaf manuscript. The guide explained that historians read these sources to learn about kings, trade and people's lives. She said, \"Dates are written as BCE for the years before the Common Era and CE for the years after.\"",
+     [s("Name one written source of history that the children saw.", 1, "Palm-leaf manuscript (or inscriptions on the copper plate or pillar)."),
+      s("What does BCE stand for?", 1, "Before the Common Era."),
+      s("Why do historians study more than one kind of source? Give two reasons.", 2, "(1) A single source may give only a part of the picture; (1) different sources (coins, inscriptions, texts, buildings) can confirm or correct each other.")]),
+ src("Nandini is a ward councillor in her city. During the monsoon, she found that garbage bins were overflowing and water was collecting on the roads in her ward. She called a meeting with the ward committee and asked the Municipal Corporation to send more garbage trucks and to clear the drains. Within a week, the roads were clean, and the committee thanked her.",
+     [s("Who is Nandini?", 1, "A ward councillor (elected member of the urban local body)."),
+      s("Name any one civic service mentioned in the passage.", 1, "Garbage collection / drainage / cleaning of roads."),
+      s("Why is it important to have elected representatives at the ward level? Give two points.", 2, "(1) They know the local problems closely; (1) citizens can reach them easily and hold them accountable for local services.")]),
+ src("In the village of Chandanpur, Ramesh gave 10 kg of wheat to the potter and took back 5 pots. The potter, however, needed rice and not wheat on that day, so he first had to trade the wheat for rice with another villager. Later, the villagers began to use coins to buy and sell. Now Ramesh simply sells his wheat for money and uses the money to buy whatever he needs.",
+     [s("Name the system of exchange used by Ramesh at first.", 1, "Barter system."),
+      s("Name one difficulty faced by the potter in the barter system.", 1, "He had to find someone who wanted his goods and had what he wanted (double coincidence of wants)."),
+      s("How did the use of money make exchange easier? Give any two points.", 2, "(1) Money is accepted by everyone, so no need to find matching wants; (1) it gives a common measure of value and can be saved for later.")]),
+ src("In the high Himalayan region of Uttarakhand, farmers cut the steep slopes into steps called terraces to grow rice, millets and vegetables. Many families also rear sheep and goats, and some villagers run guest houses for tourists who come to see the snow-capped peaks. The winters are very cold, so many people store food and wood before the snow.",
+     [s("What are the steps cut into the hillsides called?", 1, "Terraces."),
+      s("Name any one source of income in this region apart from farming.", 1, "Rearing sheep/goats or running guest houses for tourists."),
+      s("Why do mountain people practise terrace farming? Give two reasons.", 2, "(1) Steep slopes cannot be farmed directly; (1) terraces hold the soil and water and prevent erosion/ create flat land.")]),
+]
+F = mapq([("Jaipur", 75.79, 26.91, "Rajasthan"), ("Mumbai", 72.88, 19.08, "Maharashtra"), ("Kolkata", 88.36, 22.57, "West Bengal"), ("Chennai", 80.27, 13.08, "Tamil Nadu"), ("Varanasi", 82.99, 25.32, "Uttar Pradesh"), ("Leh", 77.58, 34.15, "Ladakh (UT)")])
+SECTIONS = assemble(A, B, C, D, E, F)

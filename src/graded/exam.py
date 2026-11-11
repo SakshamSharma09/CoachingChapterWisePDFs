@@ -41,15 +41,24 @@ def make_exam_sets(mods, tier, kind, tag):
     for k in "ABCD":
         need = P[k][1] * NSETS
         assert len(pools[k]) >= need, f"{tag}: section {k} has {len(pools[k])}, need {need}"
+    ars, cases = [], []
+    if tier == "Hard":
+        exs = [common.load_extras(m.__name__) for m in mods]
+        ars = interleave([list(getattr(e, "AR", []) or []) for e in exs if e])
+        cases = interleave([list(getattr(e, "CASE", []) or []) for e in exs if e])
+    nar = P["A"][0] // 5 if kind != "mcq" else 10
+    ncase = {"unit": 1, "full": 2}.get(kind, 0)
     sets = []
     for s in range(NSETS):
         take = {k: pools[k][P[k][1] * s:P[k][1] * (s + 1)] for k in "ABCD"}
         rng = random.Random(f"{tag}{s}")
         A = [shuffle_mcq(i, rng) for i in take["A"]]
+        if len(ars) >= nar * NSETS: A = A[:len(A) - nar] + [shuffle_mcq(i, rng) for i in ars[nar * s:nar * (s + 1)]]
         C = take["C"]; nC = P["C"][0]; orc = P["c_or"]; single = nC - orc
         Cq = C[:single] + [OR(C[single + 2 * i], C[single + 2 * i + 1]) for i in range(orc)]
         D = take["D"]; nD = P["D"][0]; ord_ = P["d_or"]; sd = nD - ord_
         Dq = D[:sd] + [OR(D[sd + 2 * i], D[sd + 2 * i + 1]) for i in range(ord_)]
+        if ncase and len(cases) >= ncase * NSETS: Dq = cases[ncase * s:ncase * (s + 1)] + Dq[ncase:]
         sets.append(dict(A=A, B=take["B"], C=Cq, D=Dq))
     return sets
 

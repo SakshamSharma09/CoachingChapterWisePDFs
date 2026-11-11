@@ -68,7 +68,8 @@ out += ["", f"NCERT_Books: {sum(1 for f in nfiles if f in remote)}/{len(nfiles)}
         "## Incomplete on GitHub (partial uploads; re-push these)", *(partial or ["- none"]), "",
         "## What remains", *[f"- {r}" for r in remain],
         "- Not started: English graded papers (Classes 6-8), Hindi graded papers (Classes 6-8, Class 9 chapters 2-6), Class 5 graded papers",
-        "- Not started: case-based/assertion-reason hard-tier additions, formula sheets, 'mistakes to avoid' boxes, school-pattern full-year papers for Classes 6-7, reviewer audit pass (unit, full-year and MCQ-only tests are built for every class/subject that has complete chapter banks)",
+        "- Done: Hard-tier assertion-reason + case-based items, formula sheets (Maths/Science), 'mistakes to avoid' boxes in chapter answer keys, MCQ-only tests, school-pattern papers for Classes 6-7 (3 sets each of Maths/Science/Social_Science)",
+        "- Not started: reviewer audit pass of the new extras (src/graded/x/*.py), school-pattern papers for English/Hindi Classes 6-7, Class 6-8 English/Hindi graded papers, Class 5",
         "- NCERT chapter PDFs for Classes 6-10 are in NCERT_Books/ (organised ChNN_Title.pdf)"]
 Path("docs").mkdir(exist_ok=True); Path("docs/STATUS.md").write_text("\n".join(out) + "\n", encoding="utf-8")
 print("\n".join(out[len(out) - len(remain) - 12:]) if False else "\n".join(out[28:]))
