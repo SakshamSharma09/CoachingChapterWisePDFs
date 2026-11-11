@@ -6,8 +6,8 @@ repo = Path(__file__).resolve().parents[2]; os.chdir(repo)
 if "--no-fetch" not in sys.argv: subprocess.run(["git", "fetch", "-q", "origin", "master"], capture_output=True)
 PFX = {"Maths": "m", "Science": "s", "Social_Science": "sst", "English": "e", "Hindi": "h"}
 def complete(p): return len(glob.glob(str(p / "*" / "*.pdf"))) == 16
-remote = set(subprocess.run(["git", "ls-tree", "-r", "--name-only", "origin/master"], capture_output=True, text=True).stdout.split("\n"))
-local = set(subprocess.run(["git", "ls-files"], capture_output=True, text=True).stdout.split("\n"))
+remote = set(subprocess.run(["git", "-c", "core.quotepath=false", "ls-tree", "-r", "--name-only", "origin/master"], capture_output=True, text=True, encoding="utf-8").stdout.split("\n"))
+local = set(subprocess.run(["git", "-c", "core.quotepath=false", "ls-files"], capture_output=True, text=True, encoding="utf-8").stdout.split("\n"))
 rows = []; remain = []
 for cls in range(5, 11):
     for subj in PFX:
@@ -27,7 +27,7 @@ for cls in range(5, 11):
         units = [u for u in glob.glob(str(gp / "Unit_Tests" / "*")) if complete(Path(u))]
         full = complete(gp / "Full_Year") if (gp / "Full_Year").exists() else False
         notes = len(glob.glob(str(root / "Revision_Notes" / "*.pdf")))
-        files = [f for f in local if f.startswith(str(root) + "/")]
+        files = [f for f in local if f.startswith(root.as_posix() + "/")]
         onrem = sum(1 for f in files if f in remote)
         missing = sorted(exp - set(done))
         rows.append((cls, subj, len(done), len(exp), len(units), full, notes, onrem, len(files)))
@@ -67,8 +67,8 @@ nr = Path("NCERT_Books"); nfiles = [f for f in local if f.startswith("NCERT_Book
 out += ["", f"NCERT_Books: {sum(1 for f in nfiles if f in remote)}/{len(nfiles)} files on GitHub.", "",
         "## Incomplete on GitHub (partial uploads; re-push these)", *(partial or ["- none"]), "",
         "## What remains", *[f"- {r}" for r in remain],
-        "- Not started: English graded papers (Classes 6-10), Hindi graded papers (Classes 8-10), Class 5 graded papers",
-        "- Not started: case-based/assertion-reason hard-tier additions, formula sheets, 'mistakes to avoid' boxes, school-pattern full-year papers for Classes 6-7, reviewer audit pass",
-        "- Waiting on owner: NCERT book PDFs (network access to ncert.nic.in is blocked in the cloud environment)"]
+        "- Not started: English graded papers (Classes 6-8), Hindi graded papers (Classes 6-8, Class 9 chapters 2-6), Class 5 graded papers",
+        "- Not started: case-based/assertion-reason hard-tier additions, formula sheets, 'mistakes to avoid' boxes, school-pattern full-year papers for Classes 6-7, reviewer audit pass (unit, full-year and MCQ-only tests are built for every class/subject that has complete chapter banks)",
+        "- NCERT chapter PDFs for Classes 6-10 are in NCERT_Books/ (organised ChNN_Title.pdf)"]
 Path("docs").mkdir(exist_ok=True); Path("docs/STATUS.md").write_text("\n".join(out) + "\n", encoding="utf-8")
 print("\n".join(out[len(out) - len(remain) - 12:]) if False else "\n".join(out[28:]))

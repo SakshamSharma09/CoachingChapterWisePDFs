@@ -17,6 +17,8 @@ from common import interleave, shuffle_mcq, OR, lib, TIER_ORDER, TIER_FOLDER, TI
 PLAN = {  # per section: (questions shown, items consumed per set)
     "unit": dict(A=(15, 15), B=(5, 5), C=(5, 7), D=(2, 4), marks=50, time="2 Hours", pages=3, c_or=2, d_or=2, name="UNIT TEST"),
     "full": dict(A=(20, 20), B=(6, 6), C=(6, 8), D=(6, 9), marks=80, time="3 Hours", pages=5, c_or=2, d_or=3, name="FULL-YEAR PAPER"),
+    # MCQ-only test: 50 objective questions x 1 mark across the whole syllabus
+    "mcq": dict(A=(50, 50), B=(0, 0), C=(0, 0), D=(0, 0), marks=50, time="1 Hour", pages=4, c_or=0, d_or=0, name="MCQ TEST"),
 }
 
 def flat(tier_bank):
@@ -52,6 +54,10 @@ def make_exam_sets(mods, tier, kind, tag):
     return sets
 
 def instr(kind, tier):
+    if kind == "mcq":
+        return ["All questions are compulsory.", "Q. 1–50 are Multiple Choice Questions (1 mark each); there is no negative marking.",
+                "Choose the correct option and write its letter (a, b, c or d) against the question number.",
+                "Questions cover the whole syllabus of the class.", TIER_BLURB[tier] + "."]
     P = PLAN[kind]; a, b, c, d = P["A"][0], P["B"][0], P["C"][0], P["D"][0]
     n1 = a; n2 = n1 + b; n3 = n2 + c; n4 = n3 + d
     return ["All questions are compulsory.", f"Q. 1–{n1} are Objective Type (1 mark each).",
@@ -61,8 +67,12 @@ def instr(kind, tier):
             "Write the question number before each answer.", TIER_BLURB[tier] + "."]
 
 def _chrome():
+    import os, glob
     c = "/opt/pw-browsers/chromium-1243/chrome-linux64/chrome"
-    return c if Path(c).exists() else None
+    if Path(c).exists(): return c
+    if os.environ.get("CHROMIUM_PATH"): return os.environ["CHROMIUM_PATH"]
+    g = sorted(glob.glob(os.path.expanduser("~/AppData/Local/ms-playwright/chromium-*/chrome-win*/chrome.exe")))
+    return g[-1] if g else None
 
 if __name__ == "__main__":
     cls = int(sys.argv[1]); subject = sys.argv[2]; kind = sys.argv[3]; label = sys.argv[4]; prefix = sys.argv[5]
@@ -77,7 +87,7 @@ if __name__ == "__main__":
     if check: sys.exit(0)
     from playwright.sync_api import sync_playwright
     repo = Path(__file__).resolve().parents[2]
-    base = repo / f"Class_{cls:02d}" / subject.replace(" ", "_") / "Graded_Papers" / ("Unit_Tests" if kind == "unit" else "Full_Year")
+    base = repo / f"Class_{cls:02d}" / subject.replace(" ", "_") / "Graded_Papers" / {"unit": "Unit_Tests", "full": "Full_Year", "mcq": "MCQ_Tests"}[kind]
     if kind == "unit": base = base / label
     lib.CHAPTERS.clear(); lib.CHAPTERS.update({c: m.NAME for c, m in zip(chs, mods)}); lib.SUBJECT[0] = subject
     if kind == "unit":
@@ -87,11 +97,12 @@ if __name__ == "__main__":
         lib.ch_label = _lab
     _gk = lib.generic_key
     gk = lambda meta, data: _gk(meta, data).replace("Class 8 ", f"Class {cls} ", 1)
-    secs = [("A", "SECTION — A (Objective Type Questions)", 1, "Choose the correct option and write it in your answer book."),
+    secs = [("A", "SECTION — A (Objective Type Questions)" if kind != "mcq" else "MULTIPLE CHOICE QUESTIONS", 1, "Choose the correct option and write it in your answer book."),
             ("B", "SECTION — B (Very Short Answer Type)", 2, "Answer in about 20–30 words each."),
             ("C", "SECTION — C (Short Answer Type)", 3, "Answer in about 40–60 words each."),
             ("D", "SECTION — D (Long Answer Type)", 5, "Answer in about 100–150 words each.")]
-    chosen = tuple(chs) if len(chs) <= 6 else (chs[0], chs[-1])
+    if kind == "mcq": secs = secs[:1]
+    chosen = tuple(chs) if (len(chs) <= 6 or kind != "unit") else (chs[0], chs[-1])
     with sync_playwright() as p:
         br = p.chromium.launch(executable_path=_chrome())
         pg = br.new_page()
@@ -102,7 +113,7 @@ if __name__ == "__main__":
             keys = []
             for s, data in enumerate(sets, 1):
                 stem = f"{label}_{tier}_Set_{s}"
-                meta = dict(doc=stem, title=f"CLASS {cls} — {subject.upper()} · {TIER_LABEL[tier]} {P['name']}", set=str(s), chs=chosen,
+                meta = dict(doc=stem, title=f"CLASS {cls} — {subject.replace('_', ' ').upper()} · {TIER_LABEL[tier]} {P['name']}", set=str(s), chs=chosen,
                             time=P["time"], marks=P["marks"], secs=secs, instr=instr(kind, tier))
                 n, fs = fit(pg, lambda f: generic_paper(meta, data, f), d / f"{stem}.pdf",
                             f"Mastermind Coaching Classes — Class {cls} {subject} · {label} · {TIER_NICE[tier]} · Set {s}", target=P["pages"])

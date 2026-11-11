@@ -24,54 +24,36 @@ src/pat/ src/c6build..c9build/  school-pattern and earlier practice-paper source
 | Class | Subject | Graded chapters done | Units done | Full-year | Notes PDFs | Files on GitHub / local (committed) |
 |---|---|---|---|---|---|---|
 | 5 | English | 0/0 | 0 | no | 0 | 41/41 |
-| 6 | Maths | 10/10 | 2 | no | 2 | 278/278 |
-| 6 | Science | 12/12 | 3 | no | 2 | 341/341 |
-| 6 | Social_Science | 14/14 | 3 | no | 2 | 384/384 |
+| 6 | Maths | 10/10 | 2 | yes | 2 | 278/278 |
+| 6 | Science | 12/12 | 3 | yes | 2 | 341/341 |
+| 6 | Social_Science | 14/14 | 3 | yes | 2 | 384/384 |
 | 6 | English | 0/0 | 0 | no | 0 | 41/41 |
-| 7 | Maths | 8/8 | 2 | no | 2 | 235/235 |
-| 7 | Science | 11/11 | 3 | no | 2 | 317/317 |
-| 7 | Social_Science | 12/12 | 3 | no | 2 | 341/341 |
+| 7 | Maths | 8/8 | 2 | yes | 2 | 235/235 |
+| 7 | Science | 11/11 | 3 | yes | 2 | 317/317 |
+| 7 | Social_Science | 12/12 | 3 | yes | 2 | 341/341 |
 | 7 | English | 0/0 | 0 | no | 0 | 41/41 |
-| 8 | Maths | 14/14 | 3 | no | 2 | 394/394 |
-| 8 | Science | 13/13 | 3 | no | 2 | 375/375 |
-| 8 | Social_Science | 15/15 | 2 | no | 2 | 451/451 |
+| 8 | Maths | 14/14 | 3 | yes | 2 | 394/394 |
+| 8 | Science | 13/13 | 3 | yes | 2 | 375/375 |
+| 8 | Social_Science | 15/15 | 2 | yes | 2 | 451/451 |
 | 8 | English | 0/0 | 0 | no | 0 | 51/51 |
 | 8 | Hindi | 0/0 | 0 | no | 0 | 10/10 |
-| 9 | Maths | 14/14 | 2 | no | 2 | 410/410 |
-| 9 | Science | 13/13 | 3 | no | 2 | 370/370 |
-| 9 | Social_Science | 14/14 | 2 | no | 2 | 410/410 |
-| 9 | English | 8/8 | 0 | no | 0 | 263/263 |
-| 9 | Hindi | 7/0 | 0 | no | 0 | 201/201 |
-| 10 | Maths | 14/14 | 4 | no | 3 | 418/418 |
-| 10 | Science | 13/13 | 3 | no | 3 | 371/371 |
-| 10 | Social_Science | 22/22 | 0 | no | 5 | 516/516 |
-| 10 | English | 28/28 | 0 | no | 0 | 657/657 |
-| 10 | Hindi | 15/15 | 0 | no | 0 | 343/343 |
+| 9 | Maths | 14/14 | 2 | yes | 2 | 410/410 |
+| 9 | Science | 13/13 | 3 | yes | 2 | 370/370 |
+| 9 | Social_Science | 14/14 | 2 | yes | 2 | 410/410 |
+| 9 | English | 8/8 | 2 | yes | 0 | 263/263 |
+| 9 | Hindi | 7/0 | 1 | no | 0 | 237/237 |
+| 10 | Maths | 14/14 | 4 | yes | 3 | 418/418 |
+| 10 | Science | 13/13 | 3 | yes | 3 | 371/371 |
+| 10 | Social_Science | 22/22 | 5 | yes | 5 | 516/516 |
+| 10 | English | 28/28 | 3 | yes | 0 | 657/657 |
+| 10 | Hindi | 15/15 | 3 | yes | 0 | 388/388 |
 
-NCERT_Books: 5/5 files on GitHub.
+NCERT_Books: 255/255 files on GitHub.
 
 ## Incomplete on GitHub (partial uploads; re-push these)
 - none
 
 ## What remains
-- Class 6 Maths: graded full-year paper not built
-- Class 6 Science: graded full-year paper not built
-- Class 6 Social_Science: graded full-year paper not built
-- Class 7 Maths: graded full-year paper not built
-- Class 7 Science: graded full-year paper not built
-- Class 7 Social_Science: graded full-year paper not built
-- Class 8 Maths: graded full-year paper not built
-- Class 8 Science: graded full-year paper not built
-- Class 8 Social_Science: graded full-year paper not built
-- Class 9 Maths: graded full-year paper not built
-- Class 9 Science: graded full-year paper not built
-- Class 9 Social_Science: graded full-year paper not built
-- Class 9 English: graded full-year paper not built
-- Class 10 Maths: graded full-year paper not built
-- Class 10 Science: graded full-year paper not built
-- Class 10 Social_Science: graded full-year paper not built
-- Class 10 English: graded full-year paper not built
-- Class 10 Hindi: graded full-year paper not built
-- Not started: English graded papers (Classes 6-10), Hindi graded papers (Classes 8-10), Class 5 graded papers
-- Not started: case-based/assertion-reason hard-tier additions, formula sheets, 'mistakes to avoid' boxes, school-pattern full-year papers for Classes 6-7, reviewer audit pass
-- Waiting on owner: NCERT book PDFs (network access to ncert.nic.in is blocked in the cloud environment)
+- Not started: English graded papers (Classes 6-8), Hindi graded papers (Classes 6-8, Class 9 chapters 2-6), Class 5 graded papers
+- Not started: case-based/assertion-reason hard-tier additions, formula sheets, 'mistakes to avoid' boxes, school-pattern full-year papers for Classes 6-7, reviewer audit pass (unit, full-year and MCQ-only tests are built for every class/subject that has complete chapter banks)
+- NCERT chapter PDFs for Classes 6-10 are in NCERT_Books/ (organised ChNN_Title.pdf)

@@ -42,7 +42,8 @@ EASY_A = [eA1, eA2, eA3, eA4, eA5, eA6, eA7]
 
 def mulB(a, b, c, d):
     p = F(a, b) * F(c, d)
-    return QQ(f"Multiply {R(a, b)} by {R(c, d)} and write in the lowest terms.", f"${raw(a, b)}\\times{raw(c, d)}={raw(f"{a}\\times{c}", f"{b}\\times{d}")}$", f"$={raw(a * c, b * d)}$", f"Lowest terms: {X(p)}")
+    _n = f"{a}\\times{c}"; _d = f"{b}\\times{d}"
+    return QQ(f"Multiply {R(a, b)} by {R(c, d)} and write in the lowest terms.", f"${raw(a, b)}\\times{raw(c, d)}={raw(_n, _d)}$", f"$={raw(a * c, b * d)}$", f"Lowest terms: {X(p)}")
 def divB(a, b, c, d):
     p = F(a, b) / F(c, d)
     return QQ(f"Divide {R(a, b)} by {R(c, d)}.", f"Reciprocal of {R(c, d)} is {R(d, c)}", f"${raw(a, b)}\\times{raw(d, c)}={raw(a * d, b * c)}$", f"Answer {X(p)}")

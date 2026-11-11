@@ -20,7 +20,7 @@ def LASTN(a, d, n):
     l = an(a, d, n)
     return Q(f"How many terms are there in the AP ${t(a)}, {t(an(a,d,2))}, {t(an(a,d,3))}, \\dots, {t(l)}$?", f"$a={t(a)}$, $d={t(d)}$, $l={t(l)}$ (1); $l=a+(n-1)d$ gives $n-1={n-1}$ (1); $n={n}$ (1).", "1+1+1")
 def TWO(a, d, p, q, r):
-    return Q(f"In an AP, the {og(p)} term is {t(an(a,d,p))} and the {og(q)} term is {t(an(a,d,q))}. Find the AP and its {og(r)} term.", f"$a+{co(p-1,"d")}={t(an(a,d,p))}$, $a+{co(q-1,"d")}={t(an(a,d,q))}$ (2); subtracting, $d={t(d)}$, $a={t(a)}$ (2); $a_{{{r}}}={t(an(a,d,r))}$ (1).", "2+2+1")
+    return Q(f"In an AP, the {og(p)} term is {t(an(a,d,p))} and the {og(q)} term is {t(an(a,d,q))}. Find the AP and its {og(r)} term.", f"$a+{co(p-1,'d')}={t(an(a,d,p))}$, $a+{co(q-1,'d')}={t(an(a,d,q))}$ (2); subtracting, $d={t(d)}$, $a={t(a)}$ (2); $a_{{{r}}}={t(an(a,d,r))}$ (1).", "2+2+1")
 def SFIND(a, d, n):
     S = sn(a, d, n)
     return Q(f"How many terms of the AP {AP(a,d)} must be taken so that the sum is {t(S)}?", f"$S_n=\\frac{{n}}{{2}}[2({t(a)})+(n-1)({t(d)})]={t(S)}$ (1); form quadratic in $n$ (2); $n={n}$ (the other root is rejected) (2).", "1+2+2")

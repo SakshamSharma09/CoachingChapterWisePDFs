@@ -140,8 +140,9 @@ def rat(a, b, kind):
     def red(x, y): g = gcd(x, y); return (x // g, y // g)
     ans = red(a ** k, b ** k); other = 3 if kind == "sa" else 2
     nm = "surface areas" if kind == "sa" else "volumes"
+    _form = 'Surface area $=4\\pi r^2$' if kind == 'sa' else 'Volume $=\\frac43\\pi r^3$'
     return SCG(f"The radii of two solid spheres are in the ratio {a} : {b}.", f"ratio of their {nm}", [ans], [red(a, b), red(a ** other, b ** other), red(a ** k * 2, b ** k)],
-               [f"{'Surface area $=4\\pi r^2$' if kind == 'sa' else 'Volume $=\\frac43\\pi r^3$'}, so the ratio is the ratio of the {'squares' if kind == 'sa' else 'cubes'} of the radii", f"${a}^{k}:{b}^{k}={a**k}:{b**k}$", f"Ratio $={ans[0]}:{ans[1]}$"], lambda x: f"{x[0]} : {x[1]}")
+               [f"{_form}, so the ratio is the ratio of the {'squares' if kind == 'sa' else 'cubes'} of the radii", f"${a}^{k}:{b}^{k}={a**k}:{b**k}$", f"Ratio $={ans[0]}:{ans[1]}$"], lambda x: f"{x[0]} : {x[1]}")
 
 h2 = lambda n: F(n, 2)
 # ================= EASY =================
