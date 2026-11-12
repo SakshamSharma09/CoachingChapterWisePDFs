@@ -182,7 +182,7 @@ def build_chapter(pg, root, cls, subject, chno, slug, name, tiers, only=None, ex
         keys = []
         for s, data in enumerate(sets, 1):
             base = f"Ch{chno:02d}_{slug}_{tier}_Set_{s}"
-            meta = dict(doc=f"{base}", title=f"CLASS {cls} — {subject.upper()} · {TIER_LABEL[tier]} CHAPTER TEST", set=str(s), chs=(chno,),
+            meta = dict(doc=f"{base}", title=f"CLASS {cls} — {subject.replace('_', ' ').upper()} · {TIER_LABEL[tier]} CHAPTER TEST", set=str(s), chs=(chno,),
                         time="1 Hour 30 Minutes", marks=40, secs=SECS, instr=instr(tier))
             n, fs = fit(pg, lambda f: generic_paper(meta, data, f), d / f"{base}.pdf",
                         f"Mastermind Coaching Classes — Class {cls} {subject} · Ch {chno}: {name} · {TIER_NICE[tier]} · Set {s}")
