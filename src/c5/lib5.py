@@ -96,6 +96,40 @@ def page_html(meta, sections, solved):
     h += f"<div class='end'><span>END OF QUESTION PAPER</span><span class='pill'>Total: {meta['marks']} Marks</span></div>"
     return h + lib.TAIL
 
+import re as _re
+def _plain(t, n=90):
+    t = _re.sub(r"<[^>]+>", " ", t or ""); t = _h.unescape(_re.sub(r"\s+", " ", t)).strip()
+    return (t[:n] + "…") if len(t) > n else t
+
+def key_html(meta, sections):
+    """Stand-alone answer key: question number, marks, short question stem, model answer."""
+    hi = meta["subject"] == "Hindi"
+    h = lib.head(f"Class 5 {meta['subject']} Model Paper {meta['set_no']} Answer Key").replace("<style>", "<style>" + CSS5, 1)
+    h = h.replace("<main>", "<main class='hi'>" if hi else "<main>", 1) + lib.BRAND
+    name = {"Maths": "MATHEMATICS", "English": "ENGLISH", "Hindi": "HINDI", "EVS": "ENVIRONMENTAL STUDIES"}[meta["subject"]]
+    h += (f"<div class='ttl'><div class='t'>CLASS V — {name} · MODEL PAPER {meta['set_no']:02d} <span class='setpill'>ANSWER KEY</span></div>"
+          f"<div class='c'>Answers and marking points &nbsp;|&nbsp; Maximum Marks: {meta['marks']}</div></div>")
+    rows = lambda it, n, ans_only=False: ""
+    n = 1
+    for s in sections:
+        h += f"<div class='sec'><span>{s['title']}</span><span class='pill'>Marks {s['marks']}</span></div>"
+        h += "<table class='ak'><tr><th style='width:30px'>Q.</th><th style='width:34px'>Marks</th><th>Answer / marking points</th></tr>"
+        for it in s["items"]:
+            def block(x, num, tag=""):
+                out = f"<tr><td class='n'>{num}</td><td class='m'>{x['marks']}</td><td>{tag}<span style='color:#777;font-size:.9em'>{esc(_plain(x['q']))}</span>"
+                if x.get("opts") and x.get("ans"): out += f"<div><b>{x['ans']}</b></div>"
+                elif x.get("ans") and not x.get("parts"): out += f"<div>{x['ans']}</div>"
+                for p in x.get("parts") or []:
+                    out += f"<div style='margin-top:2px'><b>{esc(p['label'])}</b> <span style='color:#777;font-size:.9em'>{esc(_plain(p['q'], 60))}</span> <span style='color:#c49a3c'>[{p['marks']}]</span><div style='color:#0b6b2c'>{p['ans']}</div></div>"
+                if x.get("parts") and x.get("ans"): out += f"<div style='color:#0b6b2c'>{x['ans']}</div>"
+                return out + "</td></tr>"
+            h += block(it, n)
+            if it.get("alt"): h += block(it["alt"], "OR", "<span class='orlab'>OR </span>")
+            n += 1
+        h += "</table>"
+    h += f"<div class='end'><span>END OF ANSWER KEY</span><span class='pill'>Total: {meta['marks']} Marks</span></div>"
+    return h + lib.TAIL
+
 SEQ = {  # marks of Q1..Q22 per subject (RSCERT PELLE blueprint read from the supplied sample papers)
     "Maths":   [1, 6, 6, 8, 1, 1, 1, 6, 1, 3, 3, 6, 6, 6, 3, 3, 3, 8, 1, 1, 3, 3],
     "English": [1] * 7 + [2, 2, 3, 5, 8, 5, 2] + [5] * 6 + [8, 8],
@@ -133,6 +167,8 @@ def build(meta, sections, outdir=None):
                     stem = f"Model_Paper_{meta['set_no']:02d}" + ("_Solved" if solved else "")
                     to_pdf(pg, page_html(meta, sections, solved), out / f"{stem}.pdf",
                            f"Mastermind Coaching Classes — Class 5 {meta['subject']} · Model Paper {meta['set_no']:02d} · {'Solved' if solved else 'Unsolved'}")
+                to_pdf(pg, key_html(meta, sections), out / f"Model_Paper_{meta['set_no']:02d}_Answer_Key.pdf",
+                       f"Mastermind Coaching Classes — Class 5 {meta['subject']} · Model Paper {meta['set_no']:02d} · Answer Key")
                 br.close()
             break
         except OSError as e:
@@ -140,7 +176,7 @@ def build(meta, sections, outdir=None):
     else:
         raise last
     from pypdf import PdfReader
-    return {s: len(PdfReader(str(out / f"Model_Paper_{meta['set_no']:02d}{s}.pdf")).pages) for s in ("", "_Solved")}
+    return {s: len(PdfReader(str(out / f"Model_Paper_{meta['set_no']:02d}{s}.pdf")).pages) for s in ("", "_Solved", "_Answer_Key")}
 
 # ---------------- small SVG helpers (Class 5) ----------------
 def svg_numberline(a, b, step=1, marks=None, w=320, label_every=1, circles=()):
