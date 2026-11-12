@@ -17,7 +17,7 @@ EXTRA_UNITS = {
     (10, "Hindi"): [("Unit1_Ch01-05", 1, 5), ("Unit2_Ch06-10", 6, 10), ("Unit3_Ch11-15", 11, 15)],
     (9, "English"): [("Unit1_Ch01-04", 1, 4), ("Unit2_Ch05-08", 5, 8)],
     (9, "Hindi"): [("Unit2_Ch07-12", 7, 12)],
-    (8, "English_Gulmohar"): [("Unit1_Ch09-12", 9, 12)],
+    (8, "English_Gulmohar"): [("UnitA_Ch01-04", 1, 4), ("UnitB_Ch05-08", 5, 8), ("UnitC_Ch09-12", 9, 12), ("UnitD_Ch13-17", 13, 17)],
 }
 dry = "--dry" in sys.argv
 with_full = "--with-full" in sys.argv
@@ -27,7 +27,9 @@ workers = int(sys.argv[sys.argv.index("--workers") + 1]) if "--workers" in sys.a
 fc = int(sys.argv[sys.argv.index("--class") + 1]) if "--class" in sys.argv else None
 fs = sys.argv[sys.argv.index("--subject") + 1] if "--subject" in sys.argv else None
 
-def complete(p): return len(glob.glob(str(p / "*" / "*.pdf"))) == 16
+def complete(p):
+    n = len(glob.glob(str(p / "*" / "*.pdf"))); d = len(glob.glob(str(p / "*")))
+    return n == 4 * d and d in (2, 4)   # 4 PDFs (3 sets + key) per tier folder; 4 tiers, or 2 for Gulmohar
 def chap_ok(cls, subj, ch):
     g = glob.glob(str(repo / f"Class_{cls:02d}" / subj / "Graded_Papers" / f"Ch{ch:02d}_*"))
     return bool(g) and complete(Path(g[0])) and (here / f"{prefix(cls, subj)}_ch{ch:02d}.py").exists()

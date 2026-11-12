@@ -177,6 +177,7 @@ def build_chapter(pg, root, cls, subject, chno, slug, name, tiers, only=None, ex
         return h.replace("<div class='note'>", mb + "<div class='note'>", 1) if mb else h
     for tier in TIER_ORDER:
         if only and tier not in only: continue
+        if tier not in tiers: continue
         d = Path(root) / f"Ch{chno:02d}_{slug}" / TIER_FOLDER[tier]; d.mkdir(parents=True, exist_ok=True)
         sets = make_sets(tiers[tier], f"{subject}{chno}{tier}", extras if tier == "Hard" else None)
         keys = []

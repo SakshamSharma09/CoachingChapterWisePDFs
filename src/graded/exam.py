@@ -90,7 +90,9 @@ if __name__ == "__main__":
     only = sys.argv[sys.argv.index("--tier") + 1].split(",") if "--tier" in sys.argv else None
     mods = [importlib.import_module(f"{prefix}_ch{c:02d}") for c in chs]
     P = PLAN[kind]
-    for t in TIER_ORDER:
+    TIERS_HERE = [t for t in TIER_ORDER if all(t in m.TIERS for m in mods)]
+    if subject == "English_Gulmohar": TIERS_HERE = [t for t in TIERS_HERE if t in ("NCERT", "Hard")]   # Gulmohar keeps two paper types only
+    for t in TIERS_HERE:
         make_exam_sets(mods, t, kind, f"{subject}{label}{t}")
     print("bank OK: sets can be composed for", len(mods), "chapters")
     if check: sys.exit(0)
@@ -115,7 +117,7 @@ if __name__ == "__main__":
     with sync_playwright() as p:
         br = p.chromium.launch(executable_path=_chrome())
         pg = br.new_page()
-        for tier in TIER_ORDER:
+        for tier in TIERS_HERE:
             if only and tier not in only: continue
             d = base / TIER_FOLDER[tier]; d.mkdir(parents=True, exist_ok=True)
             sets = make_exam_sets(mods, tier, kind, f"{subject}{label}{tier}")

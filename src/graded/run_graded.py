@@ -16,7 +16,7 @@ check = "--check" in sys.argv
 only = None
 if "--tier" in sys.argv: only = sys.argv[sys.argv.index("--tier") + 1].split(",")
 ex = common.load_extras(sys.argv[1])
-for t in common.TIER_ORDER:
+for t in [x for x in common.TIER_ORDER if x in mod.TIERS]:   # a module may define only some tiers (e.g. Gulmohar: NCERT + Hard)
     common.make_sets(mod.TIERS[t], f"{subject}{mod.CHNO}{t}", ex if t == "Hard" else None)
 print("extras:", "none" if ex is None else {k: len(getattr(ex, k, []) or []) for k in ("AR", "CASE", "FORMULAS", "MISTAKES")})
 print("bank OK:", {t: {k: sum(len(g) if g and isinstance(g[0], list) else 1 for g in ([mod.TIERS[t][k]] if not isinstance(mod.TIERS[t][k][0], list) else mod.TIERS[t][k])) for k in "ABCD"} for t in common.TIER_ORDER} if False else "counts and duplicates passed")
