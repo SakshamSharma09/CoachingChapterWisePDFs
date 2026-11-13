@@ -91,7 +91,7 @@ if __name__ == "__main__":
     mods = [importlib.import_module(f"{prefix}_ch{c:02d}") for c in chs]
     P = PLAN[kind]
     TIERS_HERE = [t for t in TIER_ORDER if all(t in m.TIERS for m in mods)]
-    if subject == "English_Gulmohar": TIERS_HERE = [t for t in TIERS_HERE if t in ("NCERT", "Hard")]   # Gulmohar keeps two paper types only
+    if subject in ("English_Gulmohar", "English_Ruskin_Bond"): TIERS_HERE = [t for t in TIERS_HERE if t in ("NCERT", "Hard")]   # Gulmohar keeps two paper types only
     for t in TIERS_HERE:
         make_exam_sets(mods, t, kind, f"{subject}{label}{t}")
     print("bank OK: sets can be composed for", len(mods), "chapters")

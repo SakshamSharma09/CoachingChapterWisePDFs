@@ -7,10 +7,10 @@ import re, subprocess, sys, glob, os
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 repo = Path(__file__).resolve().parents[2]; here = Path(__file__).resolve().parent
-PFX = {"Maths": "m", "Science": "s", "Social_Science": "sst", "English": "e", "Hindi": "h", "English_Gulmohar": "gl"}
+PFX = {"Maths": "m", "Science": "s", "Social_Science": "sst", "English": "e", "Hindi": "h", "English_Gulmohar": "gl", "English_Ruskin_Bond": "rb"}
 def prefix(cls, subj): return f"c{cls}hi" if (cls == 9 and subj == "Hindi") else f"c{cls}{PFX[subj]}"
 # subjects whose chapter list is incomplete: no full-year / MCQ-whole-syllabus test yet
-INCOMPLETE = {(9, "Hindi"), (8, "English_Gulmohar")}   # Gulmohar: only some units supplied, so no full-year / whole-book MCQ test
+INCOMPLETE = {(9, "Hindi"), (8, "English_Gulmohar"), (8, "English_Ruskin_Bond")}   # Gulmohar: only some units supplied, so no full-year / whole-book MCQ test
 EXTRA_UNITS = {
     (10, "Social_Science"): [("Unit1_Ch01-05", 1, 5), ("Unit2_Ch06-09", 6, 9), ("Unit3_Ch10-12", 10, 12), ("Unit4_Ch13-17", 13, 17), ("Unit5_Ch18-22", 18, 22)],
     (10, "English"): [("Unit1_Ch01-09", 1, 9), ("Unit2_Ch10-18", 10, 18), ("Unit3_Ch19-28", 19, 28)],
