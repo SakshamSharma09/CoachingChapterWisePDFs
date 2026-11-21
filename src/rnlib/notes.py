@@ -107,9 +107,10 @@ def chapter_html(ch, label):
 
 def book_html(meta, chapters):
     toc = "".join(f"<tr><td>{c['num']}</td><td>{fmt(c['title'])}</td><td>{fmt(c.get('theme',''))}</td></tr>" for c in chapters)
+    how_default = "Each chapter follows the textbook's own order of sections, so you can read straight through. Bold words are keywords you must be able to define. Tables compare and classify; shaded boxes hold definitions, formulas and key facts. The navy Key Takeaways box at the end of every chapter is your last-two-minutes revision."
     cover = f"""<div class='cover'><div class='brand'>THE MASTERMIND COACHING CLASSES</div>
 <h1>Revision Notes</h1><h2>{meta['title']}</h2><div class='sub'>{meta['sub']}</div>
-<div class='how'><div class='t'>HOW TO USE THESE NOTES</div>{meta.get('how','Each chapter follows the textbook\'s own order of sections, so you can read straight through. Bold words are keywords you must be able to define. Tables compare and classify; shaded boxes hold definitions, formulas and key facts. The navy Key Takeaways box at the end of every chapter is your last-two-minutes revision.')}</div>
+<div class='how'><div class='t'>HOW TO USE THESE NOTES</div>{meta.get('how', how_default)}</div>
 <table class='toc'><thead><tr><th>CH.</th><th>CHAPTER TITLE</th><th>CORE THEME</th></tr></thead><tbody>{toc}</tbody></table>
 <p style='margin-top:10mm;font-size:9pt;color:#555'>The Mastermind Coaching Classes — Road No. 5, VKIA, Jaipur — 9887258679</p></div>"""
     return f"<!doctype html><html><head><meta charset='utf-8'><style>{CSS}</style></head><body>{cover}" + "".join(chapter_html(c, meta['label']) for c in chapters) + "</body></html>"

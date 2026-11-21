@@ -1,0 +1,171 @@
+"""Class 6 Maths Ch 3 - Number Play: worksheet + detailed notes."""
+from libws import *          # W, run
+BANK = "c6m_ch03"
+
+# ---- self-checks -------------------------------------------------------------
+assert 4876 + 2123 == 6999 and 489 + 1198 == 1687 and 3418 + 5692 == 9110 and 48200 - 3985 == 44215
+assert 3 * 48 + 2 * 19 == 182 and 12480 + 8725 + 15310 + 9640 == 46155 and 548000 - 197000 == 351000
+assert 531 - 135 == 396 and 396 + 693 == 1089 and 753 - 357 == 396 and 862 - 268 == 594 and 594 + 495 == 1089 and 941 - 149 == 792 and 792 + 297 == 1089
+assert 59 + 95 == 154 and 154 + 451 == 605 and 605 + 506 == 1111 and 75 + 57 == 132 and 132 + 231 == 363
+assert 87 + 78 == 165 and 165 + 561 == 726 and 726 + 627 == 1353 and 1353 + 3531 == 4884
+assert 5286 and 8652 - 2568 == 6084 and 8640 - 468 == 8172 and 8721 - 1278 == 7443 and 7443 - 3447 == 3996 and 9963 - 3699 == 6264 and 6642 - 2466 == 4176 and 7641 - 1467 == 6174
+assert 4321 - 1234 == 3087 and 8730 - 378 == 8352 and 8532 - 2358 == 6174 and 8530 - 358 == 8172
+assert 532 - 235 == 297 and 972 - 279 == 693 and 963 - 369 == 594 and 954 - 459 == 495
+assert 1008 % 36 == 0 and 1008 - 36 < 1000 and 1350 // 9 == 150 and sum(range(1, 11)) == 55
+assert 405 % 9 == 0 and 495 % 9 == 0 and 4518 % 3 == 0 and 4 + 5 + 8 + 1 == 18 and 5148 % 4 == 0 and 5148 % 9 == 0 and 7326 % 9 == 0
+assert 16061 - 15951 == 110 and str(15951) == str(15951)[::-1] and str(16061) == str(16061)[::-1]
+assert 999 - 101 == 898 and 2340 % 3 == 0 and 2346 % 4 != 0 and 4 * 7 == 28
+
+WS = [
+# ------------------------------------------------------------------ EASY
+W("Which of these numbers is a palindrome?", 1, "(b) 2332. It reads the same from left to right and from right to left. (1)", "E", opts=["2323", "2332", "2233", "2321"]),
+W(r"Estimate $4{,}876+2{,}123$ by rounding each number to the nearest 1,000.", 1, r"(b) 7,000. $4876\approx5000$ and $2123\approx2000$, so $5000+2000=7000$. (1)", "E", opts=["6,000", "7,000", "8,000", "6,900"]),
+W("The sum of two odd numbers is always", 1, "(a) even. For example $3+5=8$ and $7+9=16$. (1)", "E", opts=["even", "odd", "a multiple of 3", "a prime number"]),
+W("Which of these numbers is divisible by 3?", 1, "(c) 4,512. Digit sum $4+5+1+2=12$, which is a multiple of 3. (The digit sums of the others are 13, 14, 16.) (1)", "E", opts=["4,513", "4,514", "4,512", "4,516"]),
+W("In the Collatz routine (if even, halve it; if odd, multiply by 3 and add 1) the number after 7 is", 1, "(b) 22. 7 is odd, so $3\\times7+1=22$. (1)", "E", opts=["8", "22", "21", "14"]),
+W("Every 4-digit number (not having all digits the same) reaches which fixed number in Kaprekar's routine?", 1, "(d) 6174. $7641-1467=6174$, and it stays there. (1)", "E", opts=["1089", "495", "9999", "6174"]),
+W("Round 3,684 to the nearest 100 and to the nearest 1,000.", 2, "Nearest 100: tens digit is 8, so round up to 3,700. Nearest 1,000: hundreds digit is 6, so round up to 4,000. (1+1)", "E"),
+W("A shirt costs ₹489 and a pair of jeans costs ₹1,198. Estimate the total by rounding each price to the nearest 100. Then find the exact total.", 2,
+  "Estimate: $500+1200=1700$. Exact: $489+1198=1687$. (The estimate is close to the exact amount.) (1+1)", "E", wp=True),
+W("Write the smallest and the largest 3-digit palindromes. What is their difference?", 2, "Smallest 101, largest 999. Difference $=999-101=898$. (2)", "E"),
+W("Aman has ₹500. He buys a bag for ₹199 and a bottle for ₹99. Use the idea of nearby round numbers to find how much he has left.", 2,
+  "Spent $=199+99=200-1+100-1=298$. Left $=500-298=202$ rupees. (2)", "E", wp=True),
+W("True or False? Give an example. “The product of an even number and an odd number is even.”", 2, "True. For example $4\\times7=28$ and $6\\times5=30$ are even. An even number has 2 as a factor, so the product has 2 as a factor. (2)", "E"),
+W("Start with 59 and keep adding the reverse of the number until you get a palindrome. Show each step.", 2, "$59+95=154$; $154+451=605$; $605+506=1111$, a palindrome (3 steps). (2)", "E"),
+W("Is 7,326 divisible by 9? Show the test.", 1, "Digit sum $=7+3+2+6=18$, which is a multiple of 9, so yes. (1)", "E"),
+W("Write the Collatz sequence that starts with 5 and count the number of steps to reach 1.", 2, "$5\\to16\\to8\\to4\\to2\\to1$. That is 5 steps. (2)", "E", wp=True),
+W("In a game 21 sticks are placed in a pile. Two players take turns to remove 1, 2 or 3 sticks and the player who takes the last stick wins. If you play first, how many sticks should you take to begin with? Why?", 2,
+  "Take 1 stick, leaving 20, which is a multiple of 4. Then, whatever the opponent takes, you can take enough to keep a multiple of 4 left. (2)", "E", wp=True),
+W("Which of the numbers 2, 3, 5 and 10 divide 2,340 exactly? Use the divisibility tests.", 2, "2: last digit 0, yes. 3: digit sum $2+3+4+0=9$, yes. 5: last digit 0, yes. 10: last digit 0, yes. So all four divide it. (2)", "E"),
+W("Complete the 1089 trick for 531: (i) subtract its reverse, (ii) add the reverse of the result.", 2, "(i) $531-135=396$. (ii) $396+693=1089$. (1+1)", "E"),
+
+# ------------------------------------------------------------------ MEDIUM
+W("A village library has 3,418 story books and 5,692 other books. (i) Estimate the total number of books by rounding to the nearest 1,000. (ii) Find the exact total and the error in the estimate.", 3,
+  "(i) $3000+6000=9000$. (1) (ii) Exact $=3418+5692=9110$. Error $=9110-9000=110$. (2)", "M", wp=True),
+W("A stadium has 48,200 seats and 3,985 of them are empty during a match. Estimate (to the nearest 1,000) how many seats are filled and compare with the exact answer.", 3,
+  "Estimate: $48{,}000-4{,}000=44{,}000$. (1.5) Exact: $48200-3985=44215$. The estimate is very close (difference 215). (1.5)", "M", wp=True),
+W("Apply Kaprekar's routine to 2,341 until you reach 6174. Show every step.", 3, "$4321-1234=3087$; $8730-0378=8352$; $8532-2358=6174$. Reached in 3 steps. (3)", "M"),
+W("Do the 1089 trick on 753. Show each step.", 2, "$753-357=396$; $396+693=1089$. (2)", "M"),
+W("Find the palindrome that you get when you start with 75 and keep adding its reverse.", 2, "$75+57=132$; $132+231=363$, a palindrome (2 steps). (2)", "M"),
+W("Write the Collatz sequence for 12 and say how many steps it takes to reach 1.", 2, "$12\\to6\\to3\\to10\\to5\\to16\\to8\\to4\\to2\\to1$, which is 9 steps. (2)", "M"),
+W("Is the sum of 5 consecutive numbers always odd? Try 1 to 5 and 2 to 6 and explain what you find.", 3,
+  "$1+2+3+4+5=15$ (odd) but $2+3+4+5+6=20$ (even). So the sum is not always odd. If the first number is odd there are 3 odd numbers (odd count) and the sum is odd; if the first number is even there are 2 odd numbers and the sum is even. (3)", "M"),
+W("Ritu says she thinks of three even numbers whose sum is 37. Is that possible? Explain.", 2, "No. The sum of even numbers is always even, and 37 is odd. (2)", "M", wp=True),
+W("Test 5,148 for divisibility by 2, 3, 4, 6 and 9.", 3,
+  "2: last digit 8, yes. 3: digit sum 18, yes. 4: last two digits 48, which is $4\\times12$, yes. 6: divisible by both 2 and 3, yes. 9: digit sum 18, yes. (3)", "M"),
+W("Which digits can be put in the blank so that the number 45_8 is divisible by 3?", 3, "Digit sum $=4+5+8+\\text{blank}=17+\\text{blank}$ must be a multiple of 3: 18, 21 or 24. So the blank is 1, 4 or 7 (4518, 4548, 4578). (3)", "M"),
+W("Can 1,350 sweets be shared equally among 9 children with none left over? Use a divisibility test. How many does each get?", 2, "Digit sum $=1+3+5+0=9$, so 1,350 is divisible by 9. Each child gets $1350\\div9=150$ sweets. (2)", "M", wp=True),
+W("In the stick game with 21 sticks you take 1 stick first (leaving 20). Your friend takes 3. How many do you take next, and how many are left then? Why?", 2, "After your friend takes 3, 17 are left. You take 1, leaving 16 (a multiple of 4). Whatever she takes, you take the number that makes 4 together. (2)", "M", wp=True),
+W("Use the digits 3, 5, 0, 8 to make the largest and smallest 4-digit numbers (a smallest number may begin with 0 as in Kaprekar's routine). Subtract them.", 2, "Largest $=8530$, smallest $=0358$. $8530-358=8172$. (2)", "M"),
+W("(i) How many 2-digit palindromes are there? (ii) List the 3-digit palindromes that begin with 1.", 2, "(i) 11, 22, 33, 44, 55, 66, 77, 88, 99, which are 9. (1) (ii) 101, 111, 121, 131, 141, 151, 161, 171, 181, 191. (1)", "M"),
+W("Mohan says 2,346 is divisible by 4 because it ends in the even digit 6. Is he right? Correct him.", 2, "No. To test 4 we look at the last two digits: 46 is not divisible by 4 ($46\\div4=11$ remainder 2). So 2,346 is not divisible by 4. (2)", "M"),
+W("On a number line marked from 1,000 to 2,000 in steps of 100, between which two marks does 1,730 lie, and which mark is it nearer to? What about 1,760?", 2, "1,730 lies between 1,700 and 1,800 and is nearer to 1,700 (30 away against 70). 1,760 is nearer to 1,800 (40 away against 60). (2)", "M"),
+W("Without multiplying, say whether the product $3\\times5\\times7\\times9$ is odd or even. What about $12\\times13\\times15$?", 2, "The first is odd (odd $\\times$ odd is odd). The second is even, because one factor (12) is even. (2)", "M"),
+W("Sunita writes four consecutive page numbers 47, 48, 49 and 50 and finds the sum 194, an even number. Explain why the sum of four consecutive numbers is always even.", 3, "Among 4 consecutive numbers two are odd and two are even. Odd + odd is even and even + even is even, so (even) + (even) is even and the whole sum is even. (3)", "M", wp=True),
+W("Neha buys 3 notebooks at ₹48 each and 2 pens at ₹19 each. Estimate her bill by rounding each price to the nearest 10, then find the exact bill.", 3, "Estimate: $3\\times50+2\\times20=150+40=190$. (1.5) Exact: $3\\times48+2\\times19=144+38=182$. (1.5)", "M", wp=True),
+
+# ------------------------------------------------------------------ HARD
+W("Apply Kaprekar's routine to 5,286 and write every step until the number stops changing. How many steps does it take to reach the fixed number?", 4,
+  "$8652-2568=6084$; $8640-0468=8172$; $8721-1278=7443$; $7443-3447=3996$; $9963-3699=6264$; $6642-2466=4176$; $7641-1467=6174$. Fixed number 6174, reached in 7 steps. (4)", "H"),
+W("Verify the 1089 trick for 862 and for 941. Why is it said that the first and last digits should differ by at least 2?", 3,
+  "$862-268=594$, $594+495=1089$. $941-149=792$, $792+297=1089$. (2) The trick needs the difference of the two end digits to be at least 2, so that the first subtraction gives a proper 3-digit number (for example 534 − 435 = 99 and the pattern changes). (1)", "H"),
+W("Write the Collatz sequence for 7 and find how many steps it takes to reach 1. Which number in the sequence is largest?", 3,
+  "$7,22,11,34,17,52,26,13,40,20,10,5,16,8,4,2,1$. This is 16 steps. The largest number is 52. (3)", "H", wp=True),
+W("Start with 87 and add its reverse again and again until you reach a palindrome. How many steps does it take?", 4,
+  "$87+78=165$; $165+561=726$; $726+627=1353$; $1353+3531=4884$, a palindrome. It takes 4 steps. (4)", "H"),
+W("Take three consecutive even numbers, e.g. 2, 4, 6 and 8, 10, 12. Find their sums and show that each sum is 3 times the middle number. Why is this true?", 3,
+  "$2+4+6=12=3\\times4$ and $8+10+12=30=3\\times10$. The numbers are (middle − 2), middle and (middle + 2). The extra 2 and the missing 2 cancel out, so the sum is 3 times the middle number. (3)", "H"),
+W("Kiran wants to split the numbers 1, 2, 3, ..., 10 into two groups so that both groups have the same sum. Is it possible? Give a reason using odd and even numbers.", 3,
+  "The sum $1+2+\\dots+10=55$, which is odd. Two groups with equal sums would make the total an even number (twice the sum of one group). So it is impossible. (3)", "H", wp=True),
+W("In the stick game (take 1, 2 or 3 sticks, the player who takes the last stick wins) there are 25 sticks. (i) Should the first or the second player win with best play? What must the first player do? (ii) Who wins if there are 20 sticks to start with?", 4,
+  "(i) The first player wins. She takes 1 stick, leaving 24, a multiple of 4, and then answers every move of the opponent with a move that makes 4 together. (2) (ii) 20 is a multiple of 4, so the second player wins: whatever the first player takes, the second takes the number that makes 4 together. (2)", "H", wp=True),
+W("The odometer of Mr Sharma's car shows 15951 km, which is a palindrome. After how many more kilometres will it show the next palindrome? What will it show?", 4,
+  "A 5-digit palindrome starting with 15 must end with 51 and 15951 is the largest of this kind (the middle digit is at most 9), so the next palindrome starts with 16: the smallest is 16061, which reads the same both ways. Distance $=16061-15951=110$ km. (4)", "H", wp=True),
+W("Find the smallest 4-digit number divisible by both 4 and 9. Use the divisibility tests and show your working.", 3,
+  "A number divisible by both 4 and 9 is divisible by 36 (4 and 9 have no common factor). $1000\\div36$ gives 27 remainder 28, so the next multiple is $28\\times36=1008$. Check: 1008 ends in 08 (divisible by 4) and digit sum 9 (divisible by 9). (3)", "H"),
+W("Four villages have populations: A 12,480; B 8,725; C 15,310; D 9,640. (i) Round each to the nearest 1,000 and estimate the total. (ii) Find the exact total and the error.", 4,
+  "(i) $12000+9000+15000+10000=46000$. (2) (ii) Exact $=12480+8725+15310+9640=46155$. Error $=155$. (2)", "H", wp=True),
+W("What happens if Kaprekar's routine is tried on 3333? Explain why this number is not allowed.", 3,
+  "Largest $=3333$ and smallest $=3333$, so the difference is 0. After that it stays at 0 and never reaches 6174. That is why numbers with all four digits the same are excluded. (3)", "H"),
+W("Rita estimated $5{,}48{,}000-1{,}97{,}000$ by rounding to the nearest lakh and got $5{,}00{,}000-1{,}00{,}000=4{,}00{,}000$. Find her mistake, give the correct estimate and compare with the exact answer.", 3,
+  "She rounded 1,97,000 wrongly. To the nearest lakh it is 2,00,000 (not 1,00,000). Correct estimate: $5{,}00{,}000-2{,}00{,}000=3{,}00{,}000$. Exact: $5{,}48{,}000-1{,}97{,}000=3{,}51{,}000$. (3)", "H"),
+W("I am a 3-digit number between 400 and 500. I end in 5 and I am divisible by 9. Find all possible numbers.", 4,
+  "Form $4\\ \\square\\ 5$. Digit sum $=9+\\text{middle}$ must be a multiple of 9, so the middle digit is 0 or 9. The numbers are 405 and 495. Both end in 5 and $405=9\\times45$, $495=9\\times55$. (4)", "H"),
+W("Apply Kaprekar's routine to the 3-digit number 352 (largest minus smallest, repeat). Which fixed number do you reach and in how many steps?", 4,
+  "$532-235=297$; $972-279=693$; $963-369=594$; $954-459=495$. It reaches 495 in 4 steps and $954-459=495$ again. (4)", "H"),
+]
+
+CH = dict(num=3, title="Number Play", tag="Maths (Part 1)",
+ intro="Numbers are full of surprises. In this chapter you play with them: place them on a number line, estimate quickly, hunt for palindromes, run the 1089 trick, Kaprekar's routine and the Collatz sequence, and use odd-even reasoning and divisibility tests to explain why some patterns always work. Maths here is a game of asking ‘why does this happen?’.",
+ big_questions=["How can we estimate answers quickly using rounding?", "What are palindromes and famous number routines such as 1089, Kaprekar and Collatz?", "How do odd-even reasoning and divisibility tests explain number patterns?"],
+ blocks=[
+ ("h2", "3.1 Numbers on the Number Line and Estimation"),
+ ("p", "On a **number line** numbers increase to the right. To mark a number we first choose a **scale**, for example from 1,000 to 2,000 in steps of 100. The number 1,730 lies between the marks 1,700 and 1,800 and is closer to 1,700 (30 away) than to 1,800 (70 away). The number line shows order: the number on the right is greater."),
+ ("note", "DEFINITION", "**Estimation** means finding an answer that is close enough, usually by **rounding** the numbers first. To round to the nearest 100 look at the tens digit; to the nearest 1,000 look at the hundreds digit. If that digit is **5 or more**, round up; if it is **less than 5**, round down."),
+ ("table", ["Rounding", "Number", "Rounded to"], [["nearest 10", "3,684", "3,680"], ["nearest 100", "3,684", "3,700"], ["nearest 1,000", "3,684", "4,000"], ["nearest 1,000", "4,876", "5,000"], ["nearest lakh", "1,97,000", "2,00,000"]]),
+ ("table", ["Calculation", "Rounded to", "Estimate", "Exact"], [["4,876 + 2,123", "nearest 1,000", "5,000 + 2,000 = 7,000", "6,999"], ["5,48,000 − 1,97,000", "nearest 1,00,000", "5,00,000 − 2,00,000 = 3,00,000", "3,51,000"], ["3 × 48 + 2 × 19", "nearest 10", "150 + 40 = 190", "182"]]),
+ ("p", "**Mental maths with nearby round numbers.** Change a number to a nearby round one and correct afterwards: 103 − 59 = 103 − 60 + 1 = **44**; 199 + 99 = 200 + 100 − 2 = **298**. The estimate tells us whether an exact answer is sensible; if the exact answer is far from the estimate, we have probably made a mistake."),
+ ("h2", "3.2 Palindromes"),
+ ("note", "DEFINITION", "A **palindrome** reads the same from left to right and from right to left, e.g. 121, 4554, 90909, and the words MADAM and LEVEL."),
+ ("ul", ["Smallest 2-digit palindrome 11, largest 99; there are **9** two-digit palindromes (11, 22, …, 99).", "Smallest 3-digit palindrome 101, largest 999; there are **90** three-digit ones (first digit 1–9, middle digit 0–9).", "The 3-digit palindromes beginning with 1 are 101, 111, 121, …, 191, which makes 10."]),
+ ("h3", "Making a palindrome by reverse-and-add"),
+ ("p", "Take any number, add its reverse, and repeat until a palindrome appears. 59 → 59 + 95 = 154 → 154 + 451 = 605 → 605 + 506 = **1111**, which is a palindrome (3 steps). 75 → 75 + 57 = 132 → 132 + 231 = **363** (2 steps). 87 takes 4 steps and reaches **4884**."),
+ ("h2", "3.3 Number Tricks and Routines"),
+ ("h3", "The 1089 trick"),
+ ("steps", [("Step 1", "Pick a 3-digit number whose first and last digits differ by at least 2, for example 531."), ("Step 2", "Subtract its reverse: 531 − 135 = 396."), ("Step 3", "Add the reverse of this answer: 396 + 693 = **1089**.")]),
+ ("p", "The same thing happens with 753 (753 − 357 = 396, 396 + 693 = 1089), 862 (594, then 594 + 495 = 1089) and 941 (792, then 792 + 297 = 1089). The first subtraction always gives a number in the family 198, 297, 396, 495, 594, 693, 792, 891, and each of these gives 1089 when its reverse is added."),
+ ("h3", "Kaprekar's routine"),
+ ("p", "Take a 4-digit number (not all digits the same). Arrange its digits to make the **largest** and the **smallest** numbers (the smallest may begin with 0) and subtract. Repeat with the answer. You always reach **6174** in at most 7 steps, and 6174 stays unchanged: 7641 − 1467 = 6174."),
+ ("table", ["Start", "Step 1", "Step 2", "Step 3", "Result"], [["2341", "4321 − 1234 = 3087", "8730 − 0378 = 8352", "8532 − 2358 = 6174", "6174 in 3 steps"], ["3087", "8730 − 0378 = 8352", "8532 − 2358 = 6174", "7641 − 1467 = 6174", "fixed"]]),
+ ("p", "For 3-digit numbers the routine ends at **495**: 352 → 532 − 235 = 297 → 972 − 279 = 693 → 963 − 369 = 594 → 954 − 459 = **495**. A number that does not change when the routine is applied (6174, 495) is a **fixed point**. If all digits are the same (3333) the answer is 0 and the routine fails, so such numbers are not allowed."),
+ ("h3", "The Collatz sequence"),
+ ("p", "Take any counting number. If it is **even**, halve it; if it is **odd**, multiply by 3 and add 1. Repeat. For 6: 6 → 3 → 10 → 5 → 16 → 8 → 4 → 2 → 1 (8 steps). For 7 it takes 16 steps (the largest number on the way is 52). Everybody who tried found that the sequence reaches 1, but nobody has proved that it happens for **every** number, so this is an unsolved problem."),
+ ("h2", "3.4 Reasoning about Odd and Even Numbers"),
+ ("table", ["Operation", "Result", "Example"], [["Even + even", "Even", "6 + 4 = 10"], ["Odd + odd", "Even", "3 + 5 = 8"], ["Even + odd", "Odd", "4 + 7 = 11"], ["Even × any number", "Even", "6 × 7 = 42"], ["Odd × odd", "Odd", "3 × 5 = 15"]]),
+ ("p", "**Why is the sum of four consecutive numbers even?** Two of them are even and two are odd; odd + odd is even and even + even is even, so the total is even (3 + 4 + 5 + 6 = 18). A sum of numbers is odd only when it contains an **odd number of odd numbers**. Hence 5 consecutive numbers add to an odd number if the first is odd (3 odd numbers) and an even number if the first is even (2 odd numbers)."),
+ ("p", "**Why can’t 1 + 2 + … + 10 = 55 be split into two equal groups?** Equal groups would make the total twice something, an even number, but 55 is odd. **Three consecutive even numbers** add up to 3 times the middle number: 2 + 4 + 6 = 12 = 3 × 4."),
+ ("h2", "3.5 Divisibility Patterns"),
+ ("table", ["Divisible by", "Test", "Example"], [["2", "last digit 0, 2, 4, 6, 8", "3,478"], ["3", "digit sum is divisible by 3", "4,512: 4 + 5 + 1 + 2 = 12"], ["4", "last two digits are divisible by 4", "5,148: 48 = 4 × 12"], ["5", "last digit 0 or 5", "2,365"], ["6", "divisible by both 2 and 3", "5,148"], ["9", "digit sum is divisible by 9", "7,326: 18"], ["10", "last digit 0", "2,340"]]),
+ ("note", "REMEMBER", "To test a number for divisibility by 4 we look at the **last two digits**, not just the last digit: 2,346 ends in 46, which is not a multiple of 4. For divisibility by 36 (= 4 × 9) a number must pass **both** the 4-test and the 9-test; 1,008 is the smallest 4-digit multiple of 36."),
+ ("h2", "3.6 A Winning Strategy: the Stick Game"),
+ ("p", "A pile has 21 sticks. Two players take turns to remove 1, 2 or 3 sticks. The player who takes the last stick wins. **Strategy:** the first player takes 1 stick, leaving 20 (a multiple of 4). After every move of the opponent she takes enough to make 4 together (if the opponent takes 3 she takes 1, and so on) so that the pile is again a multiple of 4. Finally 4 sticks are left for the opponent; whatever he takes, the first player takes the rest and wins."),
+ ("ul", ["If the pile at the start is **not** a multiple of 4, the first player can win by taking (pile remainder after dividing by 4) sticks. For 25 sticks she takes 1.", "If the pile at the start **is** a multiple of 4 (e.g. 20), the **second** player can win by always completing 4 together."]),
+ ("h2", "3.7 Worked Examples"),
+ ("steps", [
+  ("Example 1 — Estimate and check", "Library: 3,418 + 5,692. Round to the nearest 1,000: 3,000 + 6,000 = 9,000. Exact: 9,110. The error is only 110, so the answer is sensible."),
+  ("Example 2 — Odometer palindrome", "The car shows 15951 km (a palindrome). The next palindrome is 16061. Distance = 16061 − 15951 = **110 km**."),
+  ("Example 3 — Missing digit", "45_8 divisible by 3: the digit sum is 17 + blank. It must be 18, 21 or 24, so the blank is 1, 4 or 7."),
+  ("Example 4 — Sharing sweets", "1,350 sweets among 9 children: digit sum 1 + 3 + 5 + 0 = 9, so divisible by 9. Each gets 1,350 ÷ 9 = **150**."),
+  ("Example 5 — Odd-even", "Can three even numbers add to 37? No: even + even + even is even and 37 is odd."),
+  ("Example 6 — Rounding mistake", "5,48,000 − 1,97,000: rounding to the nearest lakh gives 5,00,000 − 2,00,000 = 3,00,000 (1,97,000 rounds to 2,00,000). Exact 3,51,000."),
+  ("Example 7 — Number puzzle", "A 3-digit number between 400 and 500 ends in 5 and is divisible by 9. It is 4□5, digit sum 9 + □ must be a multiple of 9, so □ = 0 or 9: **405** and **495**.")]),
+ ("h2", "3.8 Word Problems: How to Translate"),
+ ("steps", [
+  ("Step 1 — Decide if an estimate or an exact answer is needed", "‘About how many’ means estimate. Otherwise calculate exactly."),
+  ("Step 2 — Round sensibly", "Round to the place that keeps the numbers easy (nearest 10 for prices, 1,000 for crowds)."),
+  ("Step 3 — Use odd-even or divisibility reasoning for ‘can it happen?’ questions", "Check the parity of the total or use a test (3, 9, 4, 5, 10)."),
+  ("Step 4 — Check against the estimate", "Compare the exact answer with the estimate to catch mistakes.")]),
+ ("note", "REMEMBER", "Common mistakes: (1) rounding 1,97,000 to 1,00,000 instead of 2,00,000; (2) testing 4 with only the last digit; (3) forgetting that the ‘smallest number’ in Kaprekar's routine may start with 0; (4) saying a sum of odd numbers is odd, it depends on how many odd numbers there are; (5) using the 1089 trick on a number whose end digits differ by less than 2."),
+ ("h2", "Quick Revision: Likely Exam Questions"),
+ ("qa", [
+  ("What is a palindrome? Give two examples.", "A number or word that reads the same both ways, e.g. 121 and 4554."),
+  ("State the 1089 trick and try it on 753.", "Subtract the reverse of a 3-digit number and add the reverse of the result: 753 − 357 = 396; 396 + 693 = 1089."),
+  ("Apply one step of Kaprekar's routine to 4153.", "5431 − 1345 = 4086."),
+  ("Estimate 4,876 + 2,123 and compare with the exact answer.", "5,000 + 2,000 = 7,000; exact 6,999."),
+  ("Is the sum of two odd numbers odd or even? Why?", "Even, e.g. 3 + 5 = 8; the two odd numbers pair up their extra 1s to make an even number."),
+  ("Is 7,326 divisible by 9?", "Yes. Digit sum 18 is a multiple of 9."),
+  ("Why is a number ending in 0 or 5 divisible by 5?", "All multiples of 5 end in 0 or 5."),
+  ("Write the Collatz sequence for 12.", "12, 6, 3, 10, 5, 16, 8, 4, 2, 1 (9 steps)."),
+  ("How do you win the 21-stick game?", "Take 1 first, then always leave a multiple of 4 after each of your moves."),
+  ("Why can't 1 + 2 + … + 10 be divided into two groups of equal sum?", "The total 55 is odd but two equal groups give an even total."),
+ ]),
+ ],
+ takeaways=["**Estimate** by rounding: look at the next digit, 5 or more rounds up; the estimate should be close to the exact answer.",
+  "A **palindrome** reads the same both ways; reverse-and-add usually creates one (59 → 154 → 605 → 1111).",
+  "**1089** (3-digit trick) and **6174** (4-digit Kaprekar routine; 495 for 3 digits) are fixed results; **Collatz** sequences seem to reach 1 but this is unproved.",
+  "**Odd + odd = even; even + even = even; even × anything = even; odd × odd = odd.** A sum is odd only if it has an odd number of odd terms.",
+  "Divisibility tests: 2 (last digit), 3 and 9 (digit sum), 4 (last two digits), 5 and 10 (last digit), 6 (both 2 and 3).",
+  "In the stick game, leave your opponent a **multiple of 4** after every move; if the pile is already a multiple of 4 at the start, the second player wins.",
+  "For ‘can it happen?’ questions use odd-even reasoning or a divisibility test and give a short reason."])
+
+if __name__ == "__main__": run(__file__, BANK, 6, "Maths", WS, CH)
