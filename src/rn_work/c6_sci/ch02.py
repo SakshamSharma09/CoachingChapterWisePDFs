@@ -70,7 +70,7 @@ CH = dict(num=2, title="Diversity in the Living World", theme="Biodiversity, gro
  ("table", ["Habitat", "Where", "Examples of habitats", "Examples of organisms"],
   [["**Terrestrial** (on land)", "Land", "Forests, deserts, grasslands, mountains", "Horse, sheep, squirrel, pigeon, earthworm"],
    ["**Aquatic** (in water)", "Water", "Ponds, lakes, rivers, oceans", "Fish, dolphin, whale"],
-   ["Both land and water", "—", "—", "**Amphibians** such as frogs (also crocodile, tortoise in the chapter exercise)"]]),
+   ["Both land and water", "—", "—", "**Amphibians** such as frogs; crocodiles and tortoises also move between land and water, but they are reptiles, not amphibians"]]),
  ("h3", "Know a scientist — Salim Ali (1896–1987)"),
  ("p", "The **'Birdman of India'**; travelled across India observing birds, listed them, documented their travel routes and habitats and took steps to conserve regions of high bird diversity — **Keoladeo National Park (Bharatpur, Rajasthan)** and **Ranganathittu Bird Sanctuary (Mandya, Karnataka)**. He wrote a landmark **10-book series** on birds of the Indian Subcontinent and received the **Padma Vibhushan in 1976**."),
  ("h2", "2.4 Loss of Habitat and Conservation"),
