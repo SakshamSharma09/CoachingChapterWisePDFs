@@ -1,0 +1,111 @@
+"""Class 6 Science Ch 12 - Beyond Earth: worksheet + detailed notes."""
+import importlib.util, copy
+from libws import *          # W, run
+BANK = "c6s_ch12"
+
+def _base():
+    s = importlib.util.spec_from_file_location("c6sci_ch12", str(REPO / "src/rn_work/c6_sci/ch12.py"))
+    m = importlib.util.module_from_spec(s); s.loader.exec_module(m); return copy.deepcopy(m.CH)
+
+WS = [
+# ---------------- EASY ----------------
+W("The brightest star in the night sky is:", 1, "(b) Sirius", "E", opts=["Pole Star", "Sirius", "Proxima Centauri", "Betelgeuse"]),
+W("The Pole Star helps us to find the direction of:", 1, "(a) north", "E", opts=["north", "south", "east", "west"]),
+W("The planet known as the Red Planet is:", 1, "(c) Mars", "E", opts=["Venus", "Jupiter", "Mars", "Mercury"]),
+W("Which of these is a dwarf planet?", 1, "(d) Pluto", "E", opts=["Neptune", "Uranus", "Mercury", "Pluto"]),
+W("The Moon is a:", 1, "(a) natural satellite of the Earth", "E", opts=["natural satellite of the Earth", "star", "planet", "comet"]),
+W("Our galaxy is called the:", 1, "(c) Milky Way", "E", opts=["Orion", "Big Dipper", "Milky Way", "Solar System"]),
+W("Most of the asteroids revolve between the orbits of:", 1, "(b) Mars and Jupiter", "E", opts=["Earth and Mars", "Mars and Jupiter", "Saturn and Uranus", "Mercury and Venus"]),
+W("Fill in the blank: Stars shine with their ______ light.", 1, "own.", "E"),
+W("Fill in the blank: The excess artificial light at night that hides stars is called ______ pollution.", 1, "light.", "E"),
+W("Write True or False: The Sun is a planet.", 1, "False. The Sun is a star. (1)", "E"),
+W("Write True or False: Stars twinkle, but planets do not twinkle much.", 1, "True. (1)", "E"),
+W("Name the planet nearest to the Sun and the planet farthest from it.", 2, "Mercury is nearest and Neptune is farthest. (1+1)", "E"),
+W("Name the planets of the Solar System in order from the Sun.", 2, "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. (2)", "E"),
+W("What is the Indian name of the Big Dipper?", 1, "Saptarishi. (1)", "E"),
+W("Which constellation has three stars in a row forming the belt of a hunter?", 1, "Orion. (1)", "E"),
+W("How many constellations are there in the sky according to the IAU?", 1, "88. (1)", "E"),
+W("Name two objects that revolve around planets or the Sun other than planets.", 2, "Any two: moons, asteroids, comets, dwarf planets. (1+1)", "E"),
+W("Which Indian space mission landed Vikram and Pragyan near the Moon's south pole?", 1, "Chandrayaan-3. (1)", "E"),
+# ---------------- MEDIUM ----------------
+W("Why do stars look like tiny points of light even though many are bigger than the Sun?", 2, "They are extremely far away from us. (2)", "M"),
+W("Why can we not see stars in the daytime?", 2, "The Sun is very bright and its light brightens the sky, so the faint light of the stars is not seen. (2)", "M"),
+W("Why do people in villages see more stars than people in big cities?", 2, "Cities have a lot of light, smoke and dust (light pollution) which hide the stars (1), while villages have darker, clearer skies (1).", "M", wp=True),
+W("How did star patterns help sailors long ago?", 2, "They recognised stars and constellations to know directions in the sea (1), when there was no magnetic compass (1).", "M", wp=True),
+W("Name two Indian names for the star groups in Taurus and Orion.", 2, "Krittika (Pleiades), Rohini (Aldebaran) and Ardra (Betelgeuse). Any two. (1+1)", "M"),
+W("How can you find the Pole Star using the Big Dipper?", 3, "Find the Big Dipper looking towards the north (1). Join the two stars at the end of its cup by an imaginary line and extend it towards the north (1). At about five times the distance between those two stars lies the Pole Star (1).", "M", wp=True),
+W("Anand goes out to watch the sky. List three things he should do or carry.", 3, "Choose a dark place away from lights and tall buildings, go with an adult (1); carry a sky map, a compass and a notebook (1); wait about half an hour for the eyes to adjust to the dark (1).", "M", wp=True),
+W("Why is Venus called the Morning Star and the Evening Star although it is not a star?", 2, "Venus is a planet and shines brightly (1). It can be seen in the east before sunrise and in the west after sunset, so it was thought to be a star (1).", "M"),
+W("Differentiate between a planet and a star on any two points.", 2, "Stars shine with their own light, planets reflect sunlight (1). Stars twinkle and planets do not twinkle much; planets revolve around the Sun (1).", "M"),
+W("What is the difference between the inner four planets and the outer four planets?", 3, "Inner: smaller and rocky (1). Outer: much larger, mostly gas and ice (1). The outer planets have ring systems (1).", "M"),
+W("Why is the Earth called the Blue Planet and Mars the Red Planet?", 2, "Water covers most of the Earth's surface, so it looks blue (1). Mars has reddish soil (1).", "M"),
+W("Why did Pluto stop being called a planet? In which year did this happen?", 2, "In 2006 the IAU redefined 'planet' and Pluto, which is smaller than the Moon, became a dwarf planet. (1+1)", "M"),
+W("What are craters on the Moon and how are they formed?", 2, "Craters are bowl-shaped holes (1) formed when asteroids and rocks hit the Moon; since the Moon has hardly any air or water they stay for a very long time (1).", "M"),
+W("Explain why the Sun looks much bigger than other stars.", 2, "The Sun is the nearest star (about 150 million km away) while other stars are very far away. (2)", "M"),
+W("What is revolution? How long does the Earth take to complete one revolution?", 2, "The movement of a body around the Sun (or another body) (1). The Earth takes about one year (1).", "M"),
+W("Name two kinds of tools used to watch the night sky and say why they help.", 2, "Sky map app (Stellarium, Sky Map), telescope, binoculars (1). They help us identify stars or see faint objects brighter (1).", "M"),
+W("What are asteroids? Where are most of them found?", 2, "Small, rocky, irregular objects revolving around the Sun (1). Most are in the asteroid belt between Mars and Jupiter (1).", "M"),
+W("What is special about a comet and what happens when it comes near the Sun?", 3, "A comet is made of dust, gas, rock and ice (1). Near the Sun the ice evaporates (1) and a long tail forms (1).", "M"),
+W("When and from which direction is Orion best seen from India?", 2, "Best seen between December and April after sunset (2).", "M"),
+# ---------------- HARD ----------------
+W("Rohan finds that a bright 'star' in the west after sunset does not twinkle. What could it be? Give two reasons.", 3, "It is probably Venus, a planet (1). Planets do not twinkle much (1) and Venus is seen in the west after sunset, as a bright object (1).", "H", wp=True),
+W("The distance between the Earth and the Moon is about 3,84,000 km. A rocket travels at 40,000 km per hour. How many hours does it take to reach the Moon? (ignore speed changes)", 3, "Time = distance ÷ speed (1) = 384000 ÷ 40000 (1) = 9.6 hours (1).", "H", wp=True),
+W("The Sun's diameter is about 100 times that of the Earth. If the Earth's diameter is 12,700 km (about), find the approximate diameter of the Sun.", 3, "Sun = 100 × Earth's diameter (1) = 100 × 12,700 (1) = 12,70,000 km (1).", "H", wp=True),
+W("Light takes about 8 minutes to reach us from the Sun, which is 150 million km away. Roughly how many km does it travel in one minute? (use 150 million ÷ 8)", 3, "150 million ÷ 8 (1) = 18.75 million km per minute (1) = about 1,87,50,000 km (1).", "H", wp=True),
+W("Lakshmi lives in a hill village in Rajasthan and her cousin Neha lives in a big city. On the same clear night Lakshmi counts 20 stars in one small patch and Neha only 4. Explain the difference and suggest two things Neha can do to see more stars.", 4, "Light pollution and smoke or dust in the city hide the stars (2). Neha can go to a dark open area away from lights and buildings, and wait for her eyes to adjust (2).", "H", wp=True),
+W("Compare Venus and Mercury: which is hotter and why, though Mercury is nearer to the Sun?", 3, "Venus is hotter (1). It has a thick atmosphere that traps heat (1), while Mercury has hardly any atmosphere to hold the heat (1).", "H"),
+W("What does a Solar System consist of? Explain with the position of the Earth in it and name the galaxy to which it belongs.", 4, "The Sun, eight planets, their moons, asteroids, comets and other small objects (2). The Earth is the third planet from the Sun (1). It belongs to the Milky Way galaxy (1).", "H"),
+W("A student says, \"There are only seven constellations because I know only seven.\" Correct her statement and explain what a constellation is now taken to mean.", 3, "There are 88 constellations (1). Originally a constellation was a group of stars forming a pattern (1), but now it means a defined region of the sky as fixed by the IAU, so the whole sky is covered by 88 regions (1).", "H", wp=True),
+W("Why is the Pole Star of use to a person lost in a forest at night in the Northern Hemisphere? Why will it not help a person in the Southern Hemisphere?", 3, "It appears almost still in the north, so it shows the direction of north (1+1). It is not visible from the Southern Hemisphere (1).", "H", wp=True),
+W("Chandrayaan-3 landed near the Moon's south pole on 23 August 2023. Name the lander and rover and the day that is now celebrated every year. What was special about this landing?", 4, "Lander Vikram and rover Pragyan (1+1). 23 August is National Space Day (1). It was the first landing near the Moon's south pole by any country (1).", "H"),
+W("Make a table giving two planets that have rings, two that are rocky and two that have moons, using the chapter.", 3, "Rings: Jupiter, Saturn (also Uranus, Neptune) (1). Rocky: Mercury, Venus, Earth, Mars (any two) (1). Moons: Earth (1 moon), Mars (2 moons), Jupiter, Saturn (any two) (1).", "H"),
+W("Halley's Comet was last seen in 1986 and returns every 76 years. In which year will it appear next? Can a person born in 2010 see it in his life? Explain.", 3, "1986 + 76 = 2062 (1). A person born in 2010 will be 52 years old in 2062 (1), so he can see it if he lives to that age (1).", "H", wp=True),
+W("Write a short paragraph on why there is no proof of life elsewhere yet and what scientists search for.", 3, "No evidence of life beyond the Earth has been found (1). Scientists search for exoplanets, planets going around other stars (1), that have conditions like the Earth, such as water and a suitable temperature (1).", "H"),
+]
+
+CH = _base()
+CH["blocks"] += [
+ ("h2", "12.7 Numbers and Facts to Remember"),
+ ("table", ["Fact", "Value"],
+  [["Number of constellations (IAU)", "88"],
+   ["Distance from the Earth to the Sun", "about 150 million km (1 au)"],
+   ["Size of the Sun compared with the Earth", "about 100 times bigger across"],
+   ["Distance from the Earth to the Moon", "about 3,84,000 km"],
+   ["Time the Moon takes to go round the Earth", "about 27 days"],
+   ["Time the Earth takes to go round the Sun", "about one year"],
+   ["Time the Earth takes to spin once", "about 24 hours"],
+   ["Return of Halley's Comet", "every 76 years (last seen in 1986)"],
+   ["Pole Star distance from Big Dipper", "about five times the gap between the two pointer stars"]]),
+ ("h2", "12.8 Worked Examples"),
+ ("steps", [("Example 1 — Travel time to the Moon", "Distance 3,84,000 km. A vehicle moving at 60,000 km per hour takes 384000 ÷ 60000 = **6.4 hours**. Real spacecraft take much longer, as they do not travel straight and fast all the way."),
+  ("Example 2 — Size comparison", "If the Earth is shown as a ball of diameter 1 cm, the Sun would have to be about **100 cm (1 metre)** across, which is about the width of a door."),
+  ("Example 3 — Is it a planet or a star?", "A bright steady dot in the evening sky that does not twinkle and is gone after a few hours is probably a planet, such as Venus. Stars twinkle and shine all night."),
+  ("Example 4 — Finding north", "On a dark night in the Northern Hemisphere, find the Big Dipper, draw an imaginary line through the two pointer stars and extend it about five times the gap. You reach the faint Pole Star. Facing it, you face **north**."),
+  ("Example 5 — Next visit of the comet", "Halley's Comet was seen in 1986 and returns every 76 years. Next visit: 1986 + 76 = **2062**.")]),
+ ("note", "IMPORTANT", "Stars have their **own light**; planets and moons **shine by reflected sunlight**. The Sun is the only star in the Solar System."),
+ ("h2", "12.9 Planets: A Quick Comparison"),
+ ("table", ["Feature", "Inner planets (Mercury–Mars)", "Outer planets (Jupiter–Neptune)"],
+  [["Size", "Smaller", "Much larger"],
+   ["Surface", "Solid and rocky", "Mostly gas and ice"],
+   ["Rings", "None", "Ring systems of dust and rock"],
+   ["Distance from the Sun", "Nearer", "Farther and colder"],
+   ["Examples", "Mercury, Venus, Earth, Mars", "Jupiter, Saturn, Uranus, Neptune"]]),
+ ("p", "Easy ways to learn the order: make a sentence with the first letters, like **M**y **V**ery **E**ducated **M**other **J**ust **S**erved **U**s **N**oodles. Only the Earth is known to have life."),
+ ("h2", "12.10 Common Mistakes and Misconceptions"),
+ ("table", ["Wrong idea", "Correct idea"],
+  [["The Sun is a planet.", "The Sun is a star at the centre of the Solar System."],
+   ["Venus is a star because it is bright.", "Venus is a planet; it shines by reflecting sunlight."],
+   ["The Sun is the biggest star in the universe.", "Many stars are bigger; the Sun only looks big as it is near."],
+   ["Pluto is the ninth planet.", "Pluto became a dwarf planet in 2006."],
+   ["The Moon has its own light.", "The Moon only reflects sunlight."],
+   ["The Pole Star is the brightest star.", "It is not very bright; it just stays fixed in the north."]]),
+ ("note", "REMEMBER", "The Moon revolves around the Earth in about **27 days**, the Earth revolves around the Sun in about **one year**, and the Earth spins once in about **24 hours**."),
+ ("h2", "12.11 Higher Order Questions"),
+ ("qa", [("Why is it better to watch the sky with an adult in a dark place?", "Dark places are best for stars but can be unsafe at night, so an adult should always come along."),
+  ("Why does the Moon show craters while the Earth hardly shows any?", "The Earth has air, water and weather that wear them away, but the Moon has hardly any, so craters stay for a very long time."),
+  ("Why do we need sky-mapping apps?", "They show the stars and planets visible at a place and time and help us find constellations."),
+  ("Why is searching for exoplanets important?", "Planets around other stars may have conditions that can support life, which helps us find out whether we are alone in the Universe.")]),
+]
+CH["takeaways"] += ["Stars have their own light; planets and moons **reflect** sunlight.", "Only **Earth** is known to support life; the search for life elsewhere is through **exoplanets**."]
+
+if __name__ == "__main__": run(__file__, BANK, 6, "Science", WS, CH)

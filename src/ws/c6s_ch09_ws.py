@@ -1,0 +1,110 @@
+"""Class 6 Science Ch 9 - Methods of Separation in Everyday Life: worksheet + detailed notes."""
+import importlib.util, copy
+from libws import *          # W, run
+BANK = "c6s_ch09"
+
+def _base():
+    s = importlib.util.spec_from_file_location("c6sci_ch09", str(REPO / "src/rn_work/c6_sci/ch09.py"))
+    m = importlib.util.module_from_spec(s); s.loader.exec_module(m); return copy.deepcopy(m.CH)
+
+WS = [
+# ---------------- EASY ----------------
+W("Separating stones from rice by picking them with the hand is called:", 1, "(a) handpicking", "E", opts=["handpicking", "filtration", "winnowing", "churning"]),
+W("Which method is used to separate husk from grains using wind?", 1, "(c) winnowing", "E", opts=["sieving", "threshing", "winnowing", "decantation"]),
+W("Butter is separated from curd by:", 1, "(b) churning", "E", opts=["filtration", "churning", "evaporation", "sieving"]),
+W("Common salt is obtained from seawater by:", 1, "(d) evaporation", "E", opts=["filtration", "handpicking", "sieving", "evaporation"]),
+W("Iron nails mixed with sawdust can be separated using:", 1, "(a) a magnet", "E", opts=["a magnet", "a sieve", "a filter paper", "a fan"]),
+W("The clear liquid collected in the flask after filtration is called the:", 1, "(c) filtrate", "E", opts=["residue", "sediment", "filtrate", "husk"]),
+W("Fill in the blank: The solid left on the filter paper is called the ______.", 1, "residue.", "E"),
+W("Fill in the blank: Separating grains from harvested stalks by beating is called ______.", 1, "threshing.", "E"),
+W("Write True or False: Winnowing is based on the difference in weight of the components.", 1, "True. The heavier grain falls near, the lighter husk is blown away. (1)", "E"),
+W("Write True or False: Evaporation gives us back the water from the salt solution.", 1, "False. The water goes into the air as vapour and is lost unless the vapour is condensed. (1)", "E"),
+W("Name the tool that farmers use for winnowing.", 1, "A soop (bamboo tray). (1)", "E"),
+W("Name two reasons why we separate substances from a mixture.", 2, "To remove unwanted or harmful components and to obtain a useful component. (1+1)", "E"),
+W("Which method will you use to separate flour from bran?", 1, "Sieving. (1)", "E"),
+W("Name the Rajasthan lake from which salt is obtained.", 1, "Sambhar Lake. (1)", "E"),
+W("What is the settling of heavier insoluble particles at the bottom of a liquid called?", 1, "Sedimentation. (1)", "E"),
+W("Name two things used as filters in everyday life.", 2, "Any two: tea strainer, cloth, filter paper, cotton, sand, fisherman's net, mask. (1+1)", "E"),
+W("Which method is used to remove tea leaves from tea after it is made?", 1, "Filtration (using a tea strainer). (1)", "E"),
+W("A dal contains a few small stones. Which easy method will you use to remove them?", 1, "Handpicking. (1)", "E", wp=True),
+# ---------------- MEDIUM ----------------
+W("Differentiate between threshing and winnowing.", 2, "Threshing separates grains from the stalks by beating (1). Winnowing separates husk from grain using wind or blown air (1).", "M"),
+W("A mixture has two solid components, wheat flour and large bran pieces. Why does sieving work here?", 2, "The two components differ in size (1). The sieve holes are larger than flour particles but smaller than the bran, so flour passes and bran stays (1).", "M", wp=True),
+W("Explain how the farmer separates husk and grains by winnowing.", 2, "The farmer pours the threshed grains from a raised place in the direction of the wind (1). The heavy grains fall close by while the light husk is blown away (1).", "M", wp=True),
+W("Pooja wants to separate a mixture of sand and water. Name two methods that she can use and say which one is better.", 3, "Sedimentation with decantation (1) and filtration (1). Filtration is better as decantation leaves some particles behind (1).", "M", wp=True),
+W("Why is decantation not a perfect method of separating a mixture?", 2, "Some of the insoluble particles may flow out with the liquid and a little liquid remains with the sediment, so separation is not complete. (2)", "M"),
+W("Fill in the table: (i) Rice and stones - ____ (ii) Muddy water - ____ (iii) Iron filings in sand - ____", 3, "(i) handpicking (ii) filtration or sedimentation with decantation (iii) magnetic separation. (1 each)", "M"),
+W("Salt solution is kept in the Sun in a shallow dish. Describe what we see after some days and why.", 2, "White crystals of salt remain in the dish (1). The water evaporated and the salt did not (1).", "M"),
+W("Rinku poured the tea into a cup through a strainer. Name the method. What is the name of the leaves left on the strainer?", 2, "Filtration (1). The leaves are the residue (1).", "M", wp=True),
+W("Why is an iron nail separated from sawdust by a magnet but a copper coin cannot be separated?", 2, "Iron is magnetic and is attracted by a magnet (1). Copper is non-magnetic, so a magnet does not pull it (1).", "M"),
+W("A mixture of black pepper and rice has been placed on a plate. Which separation method is the most suitable and why?", 2, "Handpicking (1), because the pepper grains differ from rice in colour and size and the quantity of pepper is small (1).", "M", wp=True),
+W("How is the salt from seawater purified after the water has evaporated in shallow pits?", 2, "The solid left is a mixture, so it is purified further to get clean common salt (1) in factories by removing the other substances (1).", "M"),
+W("Why is butter lighter than buttermilk and how is this used in churning?", 2, "Butter is lighter and floats on top of the buttermilk (1). When churned, the small butter particles join and rise; they are scooped out (1).", "M", wp=True),
+W("Why is filter paper better than a cloth for separating very fine mud from water?", 2, "Filter paper has much finer pores (1), so it can hold back very small particles that pass through cloth (1).", "M"),
+W("A student wants to separate sugar from a sugar solution and also get back the water. Which two processes will she use?", 2, "Evaporation (heating the solution to make vapour) (1) followed by condensation of the vapour to recover water (1).", "M", wp=True),
+W("Find the mistake: \"Ram used a sieve to separate salt from salt water.\"", 2, "Salt is dissolved and passes through the sieve holes (1). Evaporation should be used to recover the salt (1).", "M", wp=True),
+W("Why do the tea bags of the present day use filter paper and not cloth or silk?", 2, "Filter paper has very fine pores which let the tea flavour pass but hold back the tea leaves (2).", "M"),
+W("List the four steps of filtration using a filter paper, funnel and flask.", 2, "Fold the filter paper into a cone and fit it in the funnel (½); place the funnel over a flask (½); pour the muddy water slowly (½); collect filtrate and residue (½).", "M"),
+W("Why do farmers use a combine machine nowadays instead of separate threshing and winnowing?", 2, "A mechanical thresher does both jobs together, saving time and effort. (2)", "M", wp=True),
+# ---------------- HARD ----------------
+W("Rahul has a mixture of iron nails, sand and salt. Write, in order, the steps to separate all three, naming the method at each step.", 4, "Use a magnet to pull out the iron nails (1). Add water and stir; salt dissolves (1). Filter the mixture; sand stays as residue (1). Evaporate the filtrate to obtain salt (1).", "H", wp=True),
+W("A kitchen box has rice mixed with husk, stones and iron filings. Plan the order of separation and give reasons for the order.", 4, "Winnowing or blowing removes light husk (1). Handpicking removes large stones (1). A magnet removes iron filings (1). The easiest property is used first and the rice is left clean (1).", "H", wp=True),
+W("In a river, a fisherman's net catches fish and also plastic waste. How does a net work as a filter? What lesson does it give about the plastic?", 3, "Water passes through the mesh while objects bigger than the mesh stay (1). The plastic in the river shows pollution (1) and we must stop plastic from entering water bodies at its source (1).", "H", wp=True),
+W("Aman put muddy water in a vessel and let it stand for an hour. The mud settled. He poured off the top water. Describe the two processes and say why the water is still not fit to drink.", 3, "Sedimentation is the settling of mud and decantation is pouring off the water (1+1). The water may still contain tiny particles and germs, so it is not fit to drink unless filtered and purified (1).", "H", wp=True),
+W("Explain how salt is obtained from seawater in coastal areas and why Dandi and Sabarmati Ashram are linked to salt in India's history.", 3, "Seawater is led into shallow pits; the Sun and wind evaporate water over some days and salt is left (1+1). Dandi March (Namak Satyagraha) of Gandhiji, started from Sabarmati Ashram, was a protest about the salt (1).", "H"),
+W("Why must the holes of a sieve be chosen with care? What will happen if the holes are (i) too big (ii) too small for separating flour from bran?", 3, "The holes should be larger than the flour particles but smaller than the bran pieces (1). (i) If too big, the bran also passes through (1). (ii) If too small, even the flour is held back (1).", "H"),
+W("Match: (a) Pebbles from sand at a construction site (b) Husk from rice (c) Tea leaves from tea (d) Scrap iron from waste with (1) Winnowing (2) Magnetic separation (3) Filtration (4) Sieving", 4, "(a)-(4), (b)-(1), (c)-(3), (d)-(2). (1 each)", "H"),
+W("Anita's mother drains the water from boiled rice by tilting the vessel and holding the lid. Is this decantation or filtration? Why would using a sieve be better?", 3, "It is decantation (1). Some rice may come out with the water (1). A sieve or strainer works as a filter and holds back all grains (1).", "H", wp=True),
+W("Why can a mixture of salt and sugar not be separated by filtration or sieving? Give reasons.", 3, "Both dissolve in water and both pass through the pores of filter and sieve (1). They have similar size, colour and look (1) and both are non-magnetic, so none of these methods works (1).", "H"),
+W("The chapter says Ayurvedic herbs are dried in shade. Why is shade drying used and which separation idea is involved?", 3, "Drying removes the extra water by evaporation (1), leaving the medicine parts behind (1). Shade drying avoids direct sunlight that might spoil the active parts (1).", "H"),
+W("A student pours a mixture of oil and water into a bottle and keeps it still. Two layers form. How can the two liquids be separated and which layer will be on top?", 3, "Keep the mixture undisturbed so that layers form; oil, being lighter, is the top layer (1+1). Pour out the top layer carefully by decantation or use a dropper (1).", "H", wp=True),
+W("A recycling centre has a pile of mixed waste: plastic bottles, iron scrap and paper. A crane with a magnet is used. What does it pick and why? How would you separate the remaining waste?", 3, "It picks the iron scrap because iron is magnetic (1). The magnet cannot pick plastic or paper (1). Plastic and paper are then picked by hand or sorted with other methods (1).", "H", wp=True),
+W("A solution of salt in water has a mass of 100 g. After evaporation, 15 g of salt is left. (i) Find the mass of water that evaporated. (ii) Find the salt as a percentage of the solution.", 3, "(i) 100 – 15 = 85 g of water (1). (ii) (15 ÷ 100) × 100 (1) = 15 % (1).", "H", wp=True),
+]
+
+CH = _base()
+CH["blocks"] += [
+ ("h2", "9.5 Choosing the Right Method"),
+ ("p", "Every method works because of **one property** that differs between the two components. Always ask: How are the parts of the mixture different? Then choose the method that uses that difference."),
+ ("table", ["Difference between components", "Method", "Example"],
+  [["Size, colour, shape (large, easy to pick)", "Handpicking", "Stones in rice"],
+   ["Grain sticks to stalk", "Threshing", "Wheat from harvested plants"],
+   ["Weight (heavy and light)", "Winnowing", "Grain and husk"],
+   ["Particle size (solid-solid)", "Sieving", "Flour and bran; sand and pebbles"],
+   ["Solid dissolved in liquid", "Evaporation", "Salt from seawater"],
+   ["Insoluble heavy solid in liquid", "Sedimentation + decantation", "Mud in water"],
+   ["Insoluble solid, particle bigger than pores", "Filtration", "Tea leaves, muddy water"],
+   ["Lighter liquid part separates on churning", "Churning", "Butter from curd"],
+   ["Magnetic and non-magnetic", "Magnetic separation", "Iron nails and sawdust"]]),
+ ("h2", "9.6 Worked Examples"),
+ ("steps", [("Example 1 — Rice, husk and stones", "Husk is light, stones are heavy and bigger than rice. First **winnow** to blow away the husk, then **handpick** the stones. Rice is left."),
+  ("Example 2 — Iron filings, sand and salt", "Use a **magnet** to take out iron. Add water, stir, so that salt dissolves. **Filter**: sand remains on the filter paper and the salt solution is the filtrate. **Evaporate** the filtrate to get salt."),
+  ("Example 3 — Muddy water to clear water", "Let the water stand (**sedimentation**), pour off the clear top part (**decantation**), then pass through a cloth or **filter paper** (**filtration**) to remove the remaining fine mud. For drinking, it must be purified further because germs may still be present."),
+  ("Example 4 — Salt and water both needed", "Heat the salt solution in a china dish; water becomes vapour (**evaporation**) and salt is left. To collect the water, hold a cold plate over the vapour so that it **condenses** into drops of water."),
+  ("Example 5 — Mass after evaporation", "A salt solution of mass 200 g leaves 20 g salt after evaporation. Mass of water lost = 200 – 20 = **180 g**. Salt percentage = 20 ÷ 200 × 100 = **10 %**.")]),
+ ("note", "IMPORTANT", "**Decantation** is gentle pouring of liquid; **filtration** passes it through a filter. Filtration is more complete. **Evaporation** is for a *dissolved* solid, and filtration is for an *undissolved* solid."),
+ ("h2", "9.7 Separation in Daily Life and Industry"),
+ ("ul", ["**Kitchen:** removing tea leaves with a strainer, draining rice, picking stones from dal, sieving flour.",
+  "**Farms:** threshing wheat, winnowing grain with a soop, drying grain.",
+  "**Salt pans:** by the sea and at Sambhar Lake in Rajasthan, brine is kept in shallow pits and the Sun evaporates the water.",
+  "**Construction sites:** pebbles and stones are sieved out of sand.",
+  "**Dairy:** butter is separated from curd by churning with a mathni.",
+  "**Recycling plants:** magnets fitted on cranes lift scrap iron from mixed waste.",
+  "**Our body:** hair in the nose and masks filter the dust from the air we breathe."]),
+ ("h2", "9.8 Common Mistakes and Misconceptions"),
+ ("table", ["Wrong idea", "Correct idea"],
+  [["Filtration can separate salt from salt water.", "Dissolved salt passes through the filter; use evaporation."],
+   ["Winnowing separates by size.", "Winnowing uses difference in weight; sieving uses size."],
+   ["Decantation separates the mixture completely.", "Some particles may pour out; decantation is a rough method."],
+   ["Every metal object is picked by a magnet.", "Only magnetic materials like iron are attracted; copper and aluminium are not."],
+   ["Threshing and winnowing are the same.", "Threshing frees grain from stalks; winnowing blows husk away."]]),
+ ("note", "REMEMBER", "For a mixture of more than two components use **a combination of methods** and choose the order so that the easiest separation comes first."),
+ ("h2", "9.9 Higher Order Questions"),
+ ("qa", [("Why is a magnet useful in recycling centres?", "It quickly pulls out iron scrap from a heap of mixed waste, saving time."),
+  ("Why do we use a combination of methods to separate a mixture with many parts?", "No single method works for all parts since their properties differ; each method removes only one part."),
+  ("What does Kabir's couplet on winnowing teach us?", "Like the winnower who blows away the husk and keeps the grain, we should keep virtues and leave out vices."),
+  ("Can we get both salt and water back from salt solution?", "Yes, by evaporation to get salt and condensation of the vapour to get water.")]),
+]
+CH["takeaways"] += ["**Evaporation** is used for a dissolved solid; **filtration** is used for an undissolved solid.", "Choose the method by finding the **property that differs** between the components."]
+
+if __name__ == "__main__": run(__file__, BANK, 6, "Science", WS, CH)
