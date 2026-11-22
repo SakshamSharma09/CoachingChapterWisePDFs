@@ -1,0 +1,141 @@
+"""Class 8 Social Science Ch 14 - India's Urban Landscape (NCERT Part 2 Ch 7): worksheet + detailed notes."""
+import importlib.util, copy
+from libws import *          # W, run
+BANK = "c8sst_ch14"
+
+def _base():
+    s = importlib.util.spec_from_file_location("c8sst_c14", str(REPO / "src/rn_work/c8_sst2/c14.py"))
+    m = importlib.util.module_from_spec(s); s.loader.exec_module(m); return copy.deepcopy(m.CH)
+
+WS = [
+# ---------------- EASY ----------------
+W("Population density is calculated as:", 1, "(a) total population divided by the area in square kilometres", "E", opts=["total population divided by the area in square kilometres", "area divided by total population", "births minus deaths in a year", "urban population divided by rural population"]),
+W("In India, a place is counted as urban if its population exceeds:", 1, "(c) 5,000", "E", opts=["220", "50,000", "5,000", "1,00,000"]),
+W("The Bombay Stock Exchange was set up in:", 1, "(b) 1875", "E", opts=["1727", "1875", "1919", "1950"]),
+W("The village chosen for Asia's first steel plant, later renamed Jamshedpur, was:", 1, "(d) Sakchi", "E", opts=["Kanchipuram", "Channapatna", "Moradabad", "Sakchi"]),
+W("The chief architect and urban planner of Jaipur was:", 1, "(a) Vidyadhar Bhattacharya", "E", opts=["Vidyadhar Bhattacharya", "Sawai Jai Singh II", "Dorabji Tata", "Jamsetji Tata"]),
+W("Jaipur is known as the 'Pink City' because:", 1, "(c) buildings along major streets were built using pink sandstone", "E", opts=["it is painted pink every year for a festival", "its rivers have pink water", "buildings along major streets were built using pink sandstone", "it is surrounded by pink flowers"]),
+W("Bengaluru is called the 'Silicon Valley of India' because of its:", 1, "(b) concentration of software firms, start-ups and higher education institutions", "E", opts=["steel plants and mines", "concentration of software firms, start-ups and higher education institutions", "textile mills", "port and shipping industry"]),
+W("The safe limit of the Air Quality Index mentioned in the chapter is:", 1, "(d) 50", "E", opts=["400", "200", "100", "50"]),
+W("Fill in the blank: The walled city of Jaipur had ______ gates.", 1, "seven. (1)", "E"),
+W("True or False: Singapore's Master Plan is updated every 5 years.", 1, "True. The Concept Plan looks up to 40 years ahead, while the Master Plan is updated every 5 years. (1)", "E"),
+W("Define 'urbanisation'.", 2, "Urbanisation is the shift of population from rural to urban areas (1) and the corresponding decrease in the proportion of people living in rural areas (1).", "E"),
+W("Who are demographers and what do they measure to find how crowded a place is?", 2, "Demographers are experts who study characteristics of populations such as size, age structure and geographic distribution (1). They measure population density, the number of people per square kilometre (1).", "E"),
+W("Give two differences between an urban area and a rural area.", 2, "Urban areas have larger concentrated populations, many businesses and occupations, elaborate transport and communication, and elected local bodies; rural areas have lower populations, close-knit communities, mainly agriculture-based occupations and are governed by gram panchayats (any two differences, 1+1).", "E"),
+W("By how much did India's urban population share change between 1951 and 2025, according to the chapter?", 2, "It grew from 17 per cent in 1951 to around 40 per cent in 2025 (1), an increase of about 23 percentage points (1).", "E"),
+W("Match the town with its speciality: (a) Moradabad (b) Channapatna (c) Kanchipuram (d) Tirupur with (1) wooden toys (2) textile production (3) silk sarees (4) brass work.", 2, "(a)-(4), (b)-(1), (c)-(3), (d)-(2). (Any four correct = 2; two or three correct = 1)", "E"),
+W("What are slums? Where do they generally grow?", 2, "Overcrowded city settlements with poor housing and limited water, sanitation and other municipal services (1). They generally grow near the city's periphery, railway tracks and industrial areas where vacant land is available (1).", "E"),
+W("What is BPO? Name one city described as a BPO hub in the chapter.", 2, "Business Process Outsourcing: a company hires another service provider to do specific business functions, reducing costs and getting expert professionals (1). Gurugram has been a major IT and BPO hub since the 1990s (1).", "E"),
+# ---------------- MEDIUM ----------------
+W("Name three geographical advantages that helped places grow into cities and explain how each helped.", 3, "Location near rivers: ease of transportation (1). Crossroads of trade routes: facilitated the development of markets (1). Easy access to agricultural produce and raw materials: supported artisans and manufacturing (1).", "M"),
+W("A town has a population of 3,60,000 spread over 120 sq km, and a nearby village has 2,400 people over 4 sq km. Find the population density of each and say which is more crowded.", 3, "Town: 3,60,000 / 120 = 3,000 per sq km (1). Village: 2,400 / 4 = 600 per sq km (1). The town is five times as dense, so more crowded (1).", "M", wp=True),
+W("A locality has 24,000 people living in 3 sq km. Singapore has over 8,000 people per sq km. How does the locality compare?", 3, "Density = 24,000 / 3 = 8,000 per sq km (2). It is about the same as Singapore's density (1).", "M", wp=True),
+W("India's population in 2025 is about 1,460 million and about 40% is urban. In 1951 the population was 361 million and 17% was urban. Find the urban population in each year.", 3, "2025: 40/100 x 1,460 = 584 million (1.5). 1951: 17/100 x 361 = about 61.4 million (1.5).", "M", wp=True),
+W("How did Sakchi become Jamshedpur? Give two features of the city's planning.", 3, "Sakchi, a small village in the Chota Nagpur Plateau, was chosen for Asia's first steel plant because of nearby iron ore; the Tata family planned a township (1.5). It was renamed Jamshedpur in 1919 and designed with wide tree-lined streets, gardens, open spaces, houses and civic amenities; Dorabji Tata even built a hospital before steel production began (1.5).", "M"),
+W("Compare Mumbai and Bengaluru: what made each a hub?", 3, "Mumbai: port on the Arabian Sea, Bombay Stock Exchange (1875) made it the financial capital; film industry from the 1910s (1.5). Bengaluru: concentration of software firms, start-ups and higher education institutions; close links between industry and education encouraged innovation, including AI (1.5).", "M"),
+W("Why do companies set up offices and warehouses in cities like Kochi, Indore, Lucknow and Nagpur?", 3, "These are rapidly growing cities with emerging economic and infrastructure development (1). The cost of operations there is lower than in larger cities (1). Companies can serve customers across India and globally from there (1).", "M"),
+W("How do tourism and pilgrimage help the economy of cities such as Agra, Amritsar and Varanasi?", 3, "Agra's Taj Mahal attracts 70-80 lakh visitors every year, and Amritsar and Varanasi thrive on pilgrims (1). This drives economic activity in transport, hospitality, local food vending and handicrafts (1), giving livelihoods to the people (1).", "M"),
+W("Explain how Delhi grew and how the National Capital Region helped it.", 3, "Delhi has been a centre of culture, trade and administration since the Iron Age; Rajputs, Turks and Mughals built forts and markets, and the British built a new capital and introduced railways and electricity (1.5). After Independence, New Delhi attracted people for jobs and education, putting pressure on housing, water and sewerage; creating the NCR with NOIDA and Ghaziabad, better roads and the metro eased this pressure (1.5).", "M"),
+W("How are cities cultural hubs? Give two examples from the chapter.", 3, "People from various regions bring languages, customs, food and festivals, which get shared in common spaces (1). Example 1: vada pav in Mumbai, a Maharashtrian-style dumpling in pav, popular with textile mill workers (1). Example 2: Kolkata's Durga Puja, inscribed on UNESCO's list of Intangible Cultural Heritage in 2021, and museums such as the Indian Museum (1).", "M"),
+W("Describe four challenges that urban areas face and the cause of each.", 3, "Any four, 0.75 each: air pollution (vehicles, industries); water scarcity and flooding (groundwater overuse, no rainwater harvesting, encroached lakes); traffic jams (growing vehicles, narrow roads); slums (lack of affordable housing); waste (more people and consumption); heat islands (concrete, loss of green space); crime (density and inequality).", "M"),
+W("The NCR often records AQI levels over 400, while the safe limit is 50. By how many times does the reading exceed the safe limit? What risk does this bring?", 3, "400 / 50 = 8 times (at least) (2). It poses serious health risks to residents (1).", "M", wp=True),
+W("Why do slums grow in cities? How do slum dwellers support the city and what does the government do?", 3, "Slums grow because there is not enough affordable housing for everyone migrating to the city (1). Slum dwellers do informal work such as vegetable vending, domestic help, laundry, construction and plumbing (1). Schemes such as the Pradhan Mantri Aawaas Yojana give affordable housing to economically weaker households (1).", "M"),
+W("Bengaluru had about 1,000 lakes, but now has about 200. (i) What percentage of the lakes has disappeared? (ii) Give two causes and two revival measures.", 3, "(i) (1,000 - 200) / 1,000 x 100 = 80% (1). (ii) Causes (any two): rapid urbanisation, encroachment of lake beds, sewage and chemical pollution, lack of rainwater harvesting (1). Revival (any two): desilting, repairing bunds with natural materials, clearing drainage channels, planting native species, restocking fish (1).", "M", wp=True),
+W("Map-based. Jaipur's 1914 map shows a walled city of rectangular blocks. Describe its layout and four planning features.", 3, "Grid pattern with rectangular blocks called chowkris, oriented to the cardinal directions (1). Wide streets, gardens and open spaces, nine public squares, a 20-foot wall with seven gates, pink sandstone along major streets, shaded porches in markets, and water supply through reservoirs and canals (any three, 2).", "M"),
+W("Describe three features of Singapore's urban planning.", 3, "A Concept Plan looking up to 40 years ahead and a Master Plan updated every 5 years (1). Mixed-use spaces where homes, offices and recreation exist nearby, and mass public transport with cycling and walking corridors (1). High-rise buildings with rooftop and vertical gardens, making it a 'garden city', and housing for senior citizens with healthcare (1).", "M"),
+W("What are the Sabarmati Riverfront in Ahmedabad and M.G. Road in Gangtok? How do they improve urban life?", 3, "Sabarmati Riverfront: promenades, parks, markets, boating and the Atal Bridge for pedestrians and cyclists; it blends ecology and public utility (1.5). M.G. Road, Gangtok: a pedestrian-only central shopping hub of shops, restaurants and hotels, known for cleanliness and lively atmosphere (1.5).", "M"),
+W("Find the mistakes and correct them: 'Jaipur was designed in 1927 using a circular pattern with ten gates; an AQI of 400 is within the safe limit.'", 2, "Jaipur was designed in 1727 (0.5) in a grid pattern with seven gates (0.5); the safe AQI limit is 50 and 400 is far above it, posing serious health risks (1).", "M"),
+W("Timeline. Arrange in order and give the date: Jamshedpur gets its name; Jaipur is planned; Bombay Stock Exchange is set up; Kolkata's Durga Puja is inscribed by UNESCO.", 3, "Jaipur planned (1727) (0.75); Bombay Stock Exchange (1875) (0.75); Sakchi renamed Jamshedpur (1919) (0.75); Durga Puja inscribed by UNESCO (2021) (0.75). (1.5 for order, 1.5 for dates)", "M"),
+# ---------------- HARD ----------------
+W("Source-based. 'Cities have the capability of providing something for everybody, only because, and only when, they are created by everybody.' (Jane Jacobs). (i) Who was Jane Jacobs? (ii) Explain the meaning. (iii) Name four groups who help create a city.", 4, "(i) An American urbanist (1). (ii) A city can serve everyone only if everyone takes part in making it, with planners, workers, businesses and residents (1). (iii) Any four: planners and government, builders and engineers, workers and daily-wage earners, businesses, artists, residents' groups, NGOs (2).", "H"),
+W("Case study. Sakchi became Jamshedpur, while Surat became a textile and diamond hub. Explain the factors that led to the growth of Jamshedpur and show how city growth feeds on itself.", 4, "Factors: proximity to rich iron ore deposits, the vision of the Tata family to build a township with modern facilities, and a hospital and civic amenities (2). Planned development attracted more factories, which attracted people from within and outside the state for jobs, further expanding the city (2).", "H"),
+W("Compare Jaipur (1727) and Singapore as planned cities on layout, climate or land use, transport or security, and one lasting feature.", 4, "Jaipur: grid of chowkris with nine squares; planned for the local dry climate with reservoirs and canals; 20-foot wall with seven gates for security; pink sandstone gives a uniform identity, and the city works much as designed (2). Singapore: mixed-use land with homes, offices and parks nearby; limited land met with high-rise and vertical gardens; MRT, bus, cycling and walking paths reduce car use; a flexible, regularly updated Master Plan (2).", "H"),
+W("Application. You are the planner of a new town of one lakh people. List five things you would plan and justify each with an idea from the chapter.", 5, "(1 mark each for a feature with a reason) e.g. a grid with wide streets and gates or safe pedestrian routes (Jaipur); mixed-use areas with homes near work and parks (Singapore); public transport with metro, buses, cycling and walking paths to cut traffic; affordable housing to avoid slums (PM Awaas Yojana); water harvesting, lake protection and green spaces to prevent scarcity, flooding and heat islands; accessible facilities for children, the elderly and disabled people.", "H", wp=True),
+W("Explain the links between rural and urban areas: how does urbanisation affect villages, and how do cities depend on rural areas?", 4, "Cities draw migrants from villages for jobs and education (1), which may leave villages with fewer young people (1). Cities depend on rural areas for agricultural produce, raw materials and workers, as seen in how cities grew near farm produce (1). Rapid urbanisation affects rural areas connected to cities through pollution, loss of green space and unplanned expansion, so both need to help each other develop (1).", "H"),
+W("What are 'heat islands'? Suggest four measures from the chapter or from your own reasoning to reduce heat in cities.", 4, "Areas in cities that become hotter because of concrete, buildings and loss of green cover, as mentioned among urban problems (1). Measures (any three, 1 each): more trees and green spaces, rooftop and vertical gardens (as in Singapore), restoring lakes, shaded streets and markets, less dependence on cars, light-coloured roofs, open spaces.", "H"),
+W("Complete the action plan for these problems with one workable step each: waste management, traffic congestion, inadequate safety, poor mobility, expansion of slums.", 5, "(1 mark each) Waste: 'segregate at source' drives and composting. Traffic: carpooling, high taxes on vehicle purchase, more public transport. Safety: well-lit streets, police stations and fire stations in easy-to-reach places, safe pedestrian streets. Mobility: interconnected metro, bus, cycle and walking links. Slums: affordable housing schemes, improved health, education and services, rehabilitation programmes.", "H", wp=True),
+W("Why did pressure on Delhi's infrastructure increase and how was it relieved? Explain the cause-effect chain.", 4, "After Independence, New Delhi became the capital with ministries, industries, universities and research centres, which attracted people from across the country for jobs and education (1.5). The population rose and strained housing, water and sewerage (1). The NCR was created including NOIDA and Ghaziabad, with better roads, highways and the metro; Gurugram became an IT and BPO hub, drawing companies and building housing and commercial spaces (1.5).", "H"),
+W("City P has 20 lakh people in 400 sq km; city Q has 5 lakh people in 50 sq km. (i) Find each density. (ii) Which has more crowding? (iii) If Q's area grows to 100 sq km with the same population, what happens to its density?", 4, "(i) P: 20,00,000 / 400 = 5,000 per sq km; Q: 5,00,000 / 50 = 10,000 per sq km (2). (ii) City Q is twice as dense, so more crowded (1). (iii) 5,00,000 / 100 = 5,000 per sq km, half of the earlier density (1).", "H", wp=True),
+W("'Cities are like living organisms that grow, adapt and transform.' Explain this idea with the process of urbanisation shown in the chapter and give an example.", 4, "Cities begin as rural settlements doing farm-related work, attract people and become small towns and trading centres (1). New infrastructure like factories, hotels, banks and government institutions develops and jobs diversify, shifting to secondary and tertiary sectors (1). Eventually they expand into metropolitan areas with high-rise buildings, malls, metro and busy transport (1). Example: Sakchi to Jamshedpur or Mumbai from a port to a financial capital (1).", "H"),
+W("How can ICT (Information and Communication Technology) make cities more convenient and sustainable? Give three examples from the chapter.", 3, "Intelligent traffic systems reduce jams; digital surveillance improves safety; online grievance redressal platforms make it easier for people to reach the authorities; solar-powered public spaces save energy (any three, 3).", "H"),
+W("The chapter says a sustainable city 'must balance growth with care for people and Nature'. Explain what this means with two examples of problems when the balance is lost and one example of success.", 4, "It means offering opportunities without excluding the vulnerable and comfort without exhausting resources (1). Problems: Bengaluru's lakes fell from about 1,000 to about 200 and some caught fire, causing shortages and floods (1.5); NCR air quality above 400 AQI harms health (1). Success: revived Yelahanka lake or Singapore's green planning (0.5).", "H"),
+W("The UN estimates that by 2050 about 68% of the world's 9.7 billion people will live in cities, compared with 55% of today's 8.2 billion. Find the urban population in each case and the increase.", 4, "Now: 55/100 x 8.2 = 4.51 billion (1.5). 2050: 68/100 x 9.7 = 6.6 billion, approximately 6.596 (1.5). Increase = 6.6 - 4.51 = about 2.1 billion more urban dwellers (1).", "H", wp=True),
+W("Cities are crowded, polluted and expensive. Why do people still move to them? Give four reasons from the chapter.", 3, "Cities offer social and economic value through the concentration of diverse resources (1). Reasons: diverse jobs and business opportunities; education and research centres; better infrastructure, healthcare, transport and communication; cultural and recreational facilities such as museums, libraries and stadiums (any three, 2).", "H"),
+]
+
+CH = _base()
+CH["blocks"] += [
+ ("h2", "Timeline and Key Figures"),
+ ("table", ["Year / period", "Event or fact"], [
+  ["Harappan era", "Dholavira, Kalibangan and Rakhigarhi: early urban centres"],
+  ["1727", "Jaipur planned by Vidyadhar Bhattacharya for Maharaja Sawai Jai Singh II"],
+  ["1875", "Bombay Stock Exchange set up; Mumbai becomes the financial capital"],
+  ["1910s", "Film industry begins in Mumbai (flourishing by the 1930s)"],
+  ["1919", "Sakchi renamed Jamshedpur"],
+  ["1951", "Urban share of India's population: 17%"],
+  ["1960s", "Singapore an overcrowded port; later transformed"],
+  ["1990s", "Gurugram grows as an IT and BPO hub"],
+  ["2012 and 2025", "Satellite images of Electronic City, Bengaluru show growth"],
+  ["2021", "Kolkata's Durga Puja inscribed on UNESCO's list of Intangible Cultural Heritage"],
+  ["2025", "India's urban share about 40%; world urban share 55%"],
+  ["2050", "World urban share expected 68%"]]),
+ ("h2", "Key Terms"),
+ ("table", ["Term", "Meaning"], [
+  ["**Urbanisation**", "Shift of population from rural to urban areas"],
+  ["**Population density**", "People per sq km = population ÷ area"],
+  ["**Demographer**", "Expert who studies population characteristics"],
+  ["**Metropolis**", "Very large city or metropolitan area"],
+  ["**Heat island**", "Part of a city that is hotter because of concrete and lack of greenery"],
+  ["**AQI**", "Air Quality Index: a higher number means more pollution"],
+  ["**Slum**", "Overcrowded settlement with poor housing and services"],
+  ["**BPO**", "Business Process Outsourcing"],
+  ["**ICT**", "Information and Communication Technology"],
+  ["**Urban planner**", "Person who plans how land in a city is used"],
+  ["**Master Plan**", "Long-term plan guiding growth"],
+  ["**Vertical garden**", "Plants grown on walls and vertical surfaces"],
+  ["**Blue zone**", "Region where people live longer, healthier lives; Singapore is considered one; Okinawa is an example"],
+  ["**Chowkri**", "Rectangular block in Jaipur's grid"],
+  ["**Informal work**", "Jobs like vending, domestic help, laundry and construction without formal contracts"]]),
+ ("h2", "Worked Examples"),
+ ("steps", [
+  ("Example 1 — Population density", "Gurugram-type city: 9,00,000 people in 300 sq km. Density = 9,00,000 ÷ 300 = 3,000 per sq km."),
+  ("Example 2 — Comparing densities", "Singapore has over 8,000 per sq km. A city with 2,000 per sq km has one-fourth of Singapore's density, so is much less crowded."),
+  ("Example 3 — Urban population", "India's population 1,460 million; urban share 40%. Urban population = 0.40 × 1,460 = 584 million."),
+  ("Example 4 — Air quality", "AQI 400 vs safe limit 50: 400 ÷ 50 = 8 times the safe limit.")]),
+ ("h2", "Cities Compared"),
+ ("table", ["City", "Main strength", "Key fact"], [
+  ["Jamshedpur", "Steel and industry", "Asia's first steel plant; renamed in 1919"],
+  ["Mumbai", "Finance and film", "BSE in 1875; Bandra Worli Sea Link; Coastal Road"],
+  ["Bengaluru", "IT and innovation", "Silicon Valley of India; lakes revival"],
+  ["Hyderabad", "Technology enterprises", "Major tech centre"],
+  ["Delhi / NCR", "Administration and services", "NOIDA, Ghaziabad, Gurugram; AQI above 400"],
+  ["Kolkata", "Culture and port", "Indian Museum, Victoria Memorial, Durga Puja"],
+  ["Agra / Amritsar / Varanasi", "Tourism and pilgrimage", "Taj Mahal draws 70–80 lakh visitors a year"],
+  ["Jaipur", "Planned heritage city", "Pink City; grid; 7 gates; also handicrafts and gem jewellery"],
+  ["Singapore (abroad)", "Planning model", "Over 8,000 per sq km, garden city"]]),
+ ("h2", "Map and Picture Pointers"),
+ ("ul", ["On an outline map of India locate **Delhi, Gurugram, NOIDA, Ghaziabad, Jaipur, Agra, Amritsar, Varanasi, Lucknow, Ludhiana, Moradabad, Mumbai, Surat, Ahmedabad, Indore, Nagpur, Hyderabad, Bengaluru, Chennai, Kochi, Tirupur, Kanchipuram, Channapatna, Kolkata, Jamshedpur (Jharkhand), Gangtok (Sikkim)**.",
+  "On the world map mark Singapore, Tokyo, Dhaka, Jakarta, Shanghai, Cairo, Seoul, Manila and Guangzhou; two of the most populous cities of 2025 are Indian: Kolkata and New Delhi.",
+  "Study the satellite views of Asadpur Khera village and Gurugram (Haryana), the Electronic City images of 2012 and 2025, the 1914 map of Jaipur, the Sabarmati Riverfront and M.G. Road, Gangtok."]),
+ ("h2", "Cause and Effect"),
+ ("table", ["Cause", "Effect"], [
+  ["Location on a river, coast or trade route", "Markets, ports and artisan centres develop"],
+  ["Nearby raw materials", "Industrial city such as Jamshedpur"],
+  ["Concentration of firms and institutions", "IT hubs such as Bengaluru and Hyderabad"],
+  ["Migration into cities", "Pressure on housing, water, transport; slums"],
+  ["Loss of lakes and open land", "Water scarcity in summer and floods in monsoon"],
+  ["Concrete and vehicles", "Heat islands and poor air quality"],
+  ["Long-term planning", "Liveable cities such as Jaipur and Singapore"]]),
+ ("h2", "Likely 3 and 5 Mark Answers"),
+ ("qa", [
+  ("Explain the process of urbanisation. (5 marks)", "A rural area with farm-related work attracts people and grows into a small town and trading centre. New factories, hotels, banks, government institutions and entertainment develop and jobs diversify towards secondary and tertiary sectors. Cities expand into metropolitan areas with large populations, high-rise buildings, malls, metro and transport networks. Jamshedpur and Mumbai show this process."),
+  ("Describe the main challenges faced by Indian cities. (5 marks)", "Pressure on food, water, energy and housing; narrow roads and traffic jams; unplanned colonies with poor water, sanitation and waste management; air pollution (AQI above 400 in NCR); heat islands; loss of green spaces; flooding in monsoons; slums; and higher crime. Plans and community action, such as lake revival in Bengaluru, are needed."),
+  ("Why is Jaipur a marvel of planning? (3 marks)", "Vidyadhar Bhattacharya designed it in 1727 on a grid of chowkris with wide streets, gardens, nine public squares, a 20-foot wall with seven gates, pink sandstone buildings and shaded markets; sunlight, air and water supply suited the dry climate. It works much as designed today."),
+  ("What can India learn from Singapore's urban planning? (3 marks)", "Long-term Concept Plan with a Master Plan updated every five years, mixed-use land, mass public transport and walking and cycling paths, rooftop and vertical gardens, and housing for seniors with healthcare, giving high quality of life despite high density."),
+ ]),
+]
+CH["takeaways"] += ["Learn the formula for density and practise using it with data of towns and villages.",
+  "Match every city to its reason for growth: location, resources, industry, tourism or administration.",
+  "Link challenges to causes and to solutions, and know Jaipur and Singapore as planning case studies."]
+
+if __name__ == "__main__": run(__file__, BANK, 8, "Social_Science", WS, CH)

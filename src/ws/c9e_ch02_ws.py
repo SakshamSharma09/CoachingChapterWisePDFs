@@ -1,0 +1,196 @@
+"""Class 9 English (Kaveri) Unit 2: The Pot Maker (Temsula Ao), Quality (John Galsworthy, extension story), Gifts of Grace: Honouring Our Vocations (poem): worksheet + detailed notes."""
+from libws import *          # W, run
+BANK = "c9e_ch02"
+
+WS = [
+# ------------------------------------------------------------------ EASY (17)
+W("Sentila dreamed of becoming a pot maker like her:", 1, "(b) mother and grandmother. Her mother Arenla, however, wanted her to be a weaver.", "E",
+  opts=["father and uncle", "mother and grandmother", "teacher and friend", "aunt and cousin"]),
+W("Where was the grey and red clay for pots found?", 1, "(c) on the riverbank, sixteen kilometres from the village.", "E",
+  opts=["in the village fields", "behind the work shed", "on the riverbank, sixteen kilometres away", "near the kiln"]),
+W("Who was Onula?", 1, "(a) a kind, middle-aged widow who supervised the girls' dormitory.", "E",
+  opts=["a kind widow who supervised the girls' dormitory", "Sentila's aunt", "the village council head", "an expert weaver"]),
+W("The tool called a 'dao' in the story was used to:", 1, "(d) dig the clay.", "E",
+  opts=["shape the pot", "pound the clay", "weave cloth", "dig the clay"]),
+W("The village council told Mesoba that skills like pot making:", 1, "(b) did not belong to any individual and had to be passed on to anyone who wished to learn.", "E",
+  opts=["should be kept secret", "did not belong to any individual and must be passed on", "were only for sons", "should be sold for money"]),
+W("The poem 'Gifts of Grace: Honouring Our Vocations' begins and ends with the line:", 1, "(c) 'I hear Bharat celebrating, the varied vocations I hear!'", "E",
+  opts=["'The voice of their vocation is the voice of their identity.'", "'The shoemakers affirming the quality of their work'", "'I hear Bharat celebrating, the varied vocations I hear!'", "'The carpenters celebrating'"]),
+W("In 'Quality', the shop's name board read:", 1, "(a) Gessler Brothers.", "E",
+  opts=["Gessler Brothers", "Gessler and Sons", "London Boot House", "Fine Boots"]),
+W("Who wrote 'The Pot Maker'?", 1, "(d) Temsula Ao (an abridged version of the original story).", "E",
+  opts=["Sudha Murty", "John Galsworthy", "R. L. Stevenson", "Temsula Ao"]),
+W("Name the three main characters in 'The Pot Maker' in Sentila's family.", 2, "Sentila (the daughter), Arenla (her mother) and Mesoba (her father) (2: all three, 1 for two).", "E"),
+W("Why did Arenla not want to teach her daughter pot making?", 2, "She said it had brought her no joy and only a pittance (1). The work was hard: the clay was far away, the load heavy and the pounding tedious, while weaving paid better (1).", "E"),
+W("What did Sentila do to learn pot making, though her mother did not teach her?", 2, "She visited expert potters when her parents were at the fields (1) and watched how they mixed, pounded and shaped the clay (1).", "E"),
+W("Why did the village council summon Mesoba?", 2, "People wondered why Arenla refused to teach her daughter (1) and feared that if all potters did the same there would be no expert potters left (1).", "E"),
+W("What happened to the pots when Onula went into the work shed at the end?", 2, "She found two neat rows of newly made pots standing side by side (1) and could not tell one batch from the other, so she knew two people had made them (1).", "E"),
+W("True or false, with a reason: Mr Gessler advertised his boots widely.", 2, "False (1). The story says he never advertised, which is one reason he lost business to big firms (1).", "E"),
+W("Find a word in the poem that means 'countless' and one that means 'colours'.", 2, "'Myriad' means countless (1); 'hues' means colours or shades (1).", "E"),
+W("Name any four vocations mentioned in 'Gifts of Grace'.", 2, "Any four of: craftsperson, artisans with lutes, carpenters, electricians, boatmen, shoemakers, cook, designer, mason (4 x 0.5).", "E"),
+W("Ritu's father repairs bicycles in a small shop in Ajmer. Which line of the poem would suit his work, and why?", 2, "'The voice of their vocation is the voice of their identity' (1), because every skilled worker is identified with and proud of his craft (1).", "E", wp=True),
+# ------------------------------------------------------------------ MEDIUM (19)
+W("'Pounding the stubborn clay inside bamboo cylinders to soften it, is also tedious.' The word 'tedious' means:", 1, "(b) tiring and boring because it takes long.", "M",
+  opts=["very noisy", "tiring and long", "very costly", "easy"]),
+W("'Weaving ... the return is handsome.' In this sentence 'handsome' means:", 1, "(c) large or generous (as in a handsome profit), not good-looking.", "M",
+  opts=["good-looking", "polite", "large or generous", "rare"]),
+W("In the sentence 'Sentila realised that the pot was ready', the clause 'that the pot was ready' is a:", 1, "(a) noun clause, acting as the object of 'realised'.", "M",
+  opts=["noun clause", "adjective clause", "adverb clause", "main clause"]),
+W("Choose the determiner of quantity in: 'They would not have enough days of sunshine.'", 1, "(d) enough.", "M",
+  opts=["days", "sunshine", "have", "enough"]),
+W("'Dose big virms 'ave no self-respect' tells us that Mr Gessler felt big firms:", 1, "(b) sold goods by advertisement and not by honest work.", "M",
+  opts=["made better boots", "won customers through advertisement and not work", "were friendly", "paid good wages"]),
+W("Why did Sentila fail to learn pot making in the first year with her mother?", 3, "Arenla simply sat and watched while Sentila tried again and again (1). Sentila could not even hold the lump of dough properly and felt shame and frustration (1). When she failed, her mother took over and made the pot herself, so Sentila learnt nothing (1).", "M"),
+W("How did Onula help Sentila? What advice did she give about the mouth of the pot?", 3, "She noticed Sentila was too tense and said she would teach her (1). Onula made a beautiful pot to show her and asked her to try again, which gave her confidence (1). She advised her to watch her mother carefully while she shaped the mouth of the pot (1).", "M"),
+W("What did Sentila observe about her mother's technique on the next pot making session? Why was this observation important?", 3, "She noted how her mother held the left hand and spatula (1), how she slackened the rhythm for the mouth, and how a strip of dough was added to make the rim (1). It showed she was observant and it helped her later make pots with the same speed and dexterity (1).", "M"),
+W("'Onula stood there for a long time as if trying to absorb a new phenomenon.' Explain.", 3, "Onula saw two rows of pots in which she could find no difference (1). She understood that Arenla and Sentila had made them together and that Arenla's skill had passed on to her daughter (1). It was a remarkable and almost mysterious event, so she stood in wonder (1).", "M"),
+W("Why does the council's statement that skills 'did not belong to any individual' matter to the story?", 3, "It shows that craft skills carry a community's tradition and history (1). Experts have a duty to teach not only their own children but anyone who wishes to learn (1). It pressures Arenla and Mesoba, and the skill is saved for the next generation (1).", "M"),
+W("Fill in with a suitable noun clause: 'The elders emphasised that ______'.", 2, "Any suitable clause, e.g. 'the skill had to be passed on from generation to generation' (2).", "M"),
+W("Fill in with a relative clause: 'Sentila, whose ______, practised the craft diligently.'", 2, "Any suitable clause, e.g. 'mother wanted her to be a weaver' (2).", "M"),
+W("Complete using suitable determiners: 'The carpenter crafted ____ unique tables, and ____ of them became the centrepiece of ____ furniture collection.'", 2, "Examples: three/several; one; his/the (2). Any suitable determiners accepted.", "M"),
+W("Mr Gessler said, 'Id is an ardt!' What does this show about his attitude to boot making?", 3, "He regarded making boots as an art and not mere trade (1). He took pride in each pair and said it could not be hurried (1). His broken English shows he was a German-speaking craftsman in London (1: any one valid inference may earn this mark).", "M"),
+W("What did the narrator notice about the quality of Mr Gessler's boots?", 2, "They lasted terribly long, 'having something beyond the temporary' (1); in fit, finish and leather they were the best (1).", "M"),
+W("'The voice of their vocation is the voice of their identity.' Explain this line.", 3, "A person's work expresses who he or she is (1). Each artisan sings or speaks through the craft (1). Every vocation therefore deserves respect (1).", "M"),
+W("Is the poem 'Gifts of Grace' written in free verse? Give reasons.", 3, "The poem does not follow a strict rhyme scheme (1) and its lines vary in length (1). It follows a pattern of naming a vocation and what its people do (1).", "M"),
+W("Explain the use of auditory imagery in the poem. Give examples.", 3, "The poem has sounds: artisans with lutes echoing in the streets (1), electricians humming (1) and the delicious singing of the cook, and boatmen singing at work (1).", "M"),
+# ------------------------------------------------------------------ HARD (14)
+W("Why do you think Arenla pretended not to know of her daughter's visits, and later left Sentila alone in the shed?", 4, "She knew about the visits yet pretended ignorance, so she may have secretly welcomed them (1). When her teaching failed she may have understood Sentila learnt best by watching, not by being taught while she was tense (1). Leaving the shed with a headache and backache gave Sentila freedom to work without pressure (1). The text does not state her intention, so answers are inferences (1).", "H"),
+W("'A new pot maker was born.' What is the significance of the concluding line of the story?", 4, "It marks Sentila's success as a pot maker (1). The two batches of pots looked identical, so her skill equalled her mother's (1). It also marks passing of the craft to a new generation, saving the tradition (1). The line stands for the birth of a vocation out of effort, observation and perseverance (1).", "H"),
+W("What is the role of perseverance in pursuing one's dreams? Answer with reference to Sentila.", 5, "Sentila persisted from childhood, visiting potters though they thought it a passing fancy (1). She hid her fascination to avoid conflict yet kept observing (1). She failed for a year with her mother and still did not give up (1). With Onula's help and close observation, she made pots just one short of her mother's tally (1). Hence perseverance together with guidance helps turn a dream into skill (1).", "H"),
+W("Read: 'But if Sentila learns weaving, she can make much more money besides providing enough cloth for the family.' Was Arenla right to think of money? Give two points for and one against.", 4, "For: pot making brought only a pittance, with a heavy load, a sixteen-kilometre trip and months of labour (1); weaving can be done indoors in all seasons and gives a handsome return (1). Against: Sentila was passionate, and the village needed potters to keep the tradition alive (1). A balanced personal conclusion (1).", "H"),
+W("Mr Gessler 'starved himself'. Do you think he was right to refuse to change his methods? Give reasons from the story.", 5, "Opinion questions need reasons. For his stand: he insisted on quality, best leather, doing everything himself, and his boots were the best (1.5). Against: he did not advertise, orders took very long and customers would not wait, so he lost everybody and died in poverty (1.5). Balanced view: pride in quality should be combined with some practicality (1). Expression (1).", "H"),
+W("How does 'Quality' show the conflict between handmade craft and mass production?", 4, "Big firms win by advertisement and not by work (1), so Gessler tells the narrator they 'take it away from us who love our boots' (1). His business shrinks every year until he dies (1). The story laments the decline of traditional crafts under industrial competition (1).", "H"),
+W("Compare Sentila of 'The Pot Maker' and Mr Gessler of 'Quality': one common quality and one difference.", 4, "Common: both love their craft and strive for perfection (2). Difference: Sentila learns and continues the tradition and succeeds, while Gessler works alone, refuses change and dies in poverty with the craft lost to the new owner (2).", "H"),
+W("Case study: Kishan, a young potter in Jaipur's blue pottery workshop, wants to teach the craft to girls and boys of his neighbourhood, but his father says, 'Keep the skill in the family.' Which idea of the council in the story would you use to answer the father? Write a short reply of about 60 words.", 4, "Marks: link to the idea that skills which cater to people's needs and symbolise tradition belong to no individual and experts must teach all who wish to learn (2), reply in a respectful tone (1), expression (1).", "H", wp=True),
+W("Complete the sentence with suitable relative clauses: (i) The potter's hands, which ____, shaped the clay into beautiful creations. (ii) Mesoba went home and discussed the matter with Arenla, who ____.", 4, "(i) e.g. 'were trained by years of practice' (2). (ii) e.g. 'agreed to teach Sentila' (2). Any grammatically correct clauses with 'which' and 'who' are accepted.", "H"),
+W("'The poet uses sensory imagery to bring out the beauty of everyday work.' Explain with three examples from 'Gifts of Grace'.", 4, "Visual: craft 'woven with colours and myriad hues' (1.5). Auditory: lutes echoing in the streets, electricians humming (1.5). Taste: the 'delicious singing' of the cook, a mixed image (1). Together they make ordinary work lively and worthy of celebration.", "H"),
+W("'The delicious singing of the cook' is a metaphor. Explain how the poet makes it work.", 3, "Singing, a sound, is called delicious, which is a taste (1). This fusing of senses suggests that the cook's pleasure in work makes it as enjoyable as eating (1). It shows the joy and dignity of the cook's vocation (1).", "H"),
+W("Write a paragraph (about 100 words) on your skills and passions and how one of them might become a profession. Follow the steps: introduction, describing skills, passion into profession, example and conclusion.", 5, "Marks: content following the steps (2), organisation (1), vocabulary such as passion, vocation, craft (1), accuracy (1).", "H"),
+W("You are Onula. Write a diary entry (about 100 words) about the evening you saw Sentila alone with the clay and what you found in the shed afterwards.", 4, "Marks: format (1), events in correct order: Sentila's tension, the lesson, the funeral, the two rows of pots (1), feelings of wonder (1), language in past tense (1).", "H"),
+W("Design a poster of about 50 words for your school's 'Career Mela' to be held on 25 February from 9 a.m. to 6 p.m. Include name of organiser, venue, highlights, slogan and entry.", 4, "Marks: all details (2), attractive layout in a box (1), word limit and language (1). The slogan may be 'Chart your future at Career Mela'.", "H", wp=True),
+]
+
+CH = dict(num=2, title="The Pot Maker; Quality; vocation poems", tag="English · Kaveri Unit 2",
+intro="Unit 2 honours skill-based work (vocations). It has a story by Temsula Ao about a girl who becomes a pot maker, John Galsworthy's story 'Quality' about a bootmaker (given for reading beyond the text), and an anonymous poem celebrating the varied vocations of Bharat.",
+big_questions=["What is common among skill-based vocations?", "Why must craft skills be passed on?", "How do handmade and machine-made products differ?"],
+blocks=[
+("h2", "1. The Unit at a Glance"),
+("table", ["Piece", "Writer", "Kind", "Core idea"], [
+ ["The Pot Maker", "Temsula Ao (abridged)", "Short story", "Passion, perseverance and tradition: Sentila becomes a pot maker"],
+ ["Quality", "John Galsworthy (abridged)", "Short story (reading beyond the text)", "A bootmaker's devotion to quality, ruined by competition"],
+ ["Gifts of Grace: Honouring Our Vocations", "Anonymous", "Free-verse celebration", "Every vocation has a voice and deserves respect"]]),
+("note", "IMPORTANT", "Skills such as pot making cater to people's needs and symbolise the tradition and history of a people. According to the village council, they do not belong to any individual."),
+
+("h2", "2. The Pot Maker: Summary in Order"),
+("ol", [
+ "**The dream.** From childhood Sentila, who went with her mother Arenla to the fields and forests, dreamed of becoming a pot maker like her mother and grandmother. Arenla wanted her to be a weaver.",
+ "**Secret learning.** On days she stayed at home she approached expert potters. They were amused and thought she would soon outgrow her passion. She hid her fascination at home because she had overheard her parents.",
+ "**Arenla's complaint.** Pot making had brought no joy and only a pittance. The clay is sixteen kilometres away; she climbed a sheer drop and carried the heavy load uphill; pounding clay in bamboo cylinders was tedious; it took months to produce a batch and earned only a few rupees. Weaving was not messy, could be done indoors in all seasons and paid well.",
+ "**Watching the potters.** Sentila saw the clay mixed with water and pounded, the left hand pushed into a lump and the right hand rotating it while the spatula shaped it. After two or three days the pots were touched up, dried in the sun and fired in a kiln on hay and dried bamboo. Over-firing or under-firing would ruin the batch.",
+ "**The village council.** Gossip spread about Sentila's visits. Her father Mesoba was summoned and said Arenla only wanted Sentila to grow stronger after her illness. The elders told him that such skills belonged to no individual and experts must teach anyone who wished to learn.",
+ "**Failure with the mother.** Next year Arenla took her to the riverbank to learn digging with a dao, loading, soaking and pounding. Sentila made the dough well but could not shape the pot. Arenla sat and watched, then took over. This went on for almost a year.",
+ "**Onula.** When Sentila matured, she stayed in the girls' dormitory under the kind widow Onula. One evening Onula saw her tense and clumsy, comforted her, made a pot to show her and asked her to try again. Sentila made a beautiful pot but Onula said the mouth was wrong and told her to watch her mother shape it.",
+ "**The sunny day.** Sentila observed her mother's hands, the slackened rhythm and the added strip of dough that made the rim. On a sunny day Arenla left claiming a headache and backache. Sentila made pot after pot, one short of her mother's tally.",
+ "**The loss.** She went home for lunch and found her mother lying on the floor, not breathing. At the funeral she cried, 'Mother, I did not wish it to happen this way; it simply came to me. Please forgive me.' Only Onula sensed something momentous. In the shed she found two rows of pots that she could not tell apart. She understood a profound revelation: *A new pot maker was born.*"]),
+
+("h2", "3. Characters and Qualities (The Pot Maker)"),
+("table", ["Character", "Qualities", "Evidence"], [
+ ["Sentila", "Passionate, persistent, observant, quick learner, respectful", "Visits potters; hides her wish; watches her mother; makes pots after a year of failure"],
+ ["Arenla", "Hardworking, practical, protective, secretly supportive", "Complains of the toil; pretends ignorance of visits; leaves Sentila alone to work"],
+ ["Mesoba", "Humble, respectful of the community", "Answers the elders in a humble tone"],
+ ["Onula", "Kind, sensitive, encouraging", "Notices Sentila's tension, teaches her, senses the momentous event"],
+ ["The village elders", "Guardians of tradition", "Tell Mesoba skills belong to no individual"]]),
+
+("h2", "4. Theme, Values and Devices (The Pot Maker)"),
+("ul", [
+ "**Perseverance and passion** turn a dream into a skill.",
+ "**Passing on tradition:** skills must be shared, not hidden.",
+ "**Learning by observation** and the guidance of a mentor (Onula).",
+ "**Dignity of labour** and respect for vocations.",
+ "**Simile:** 'like a sprinter who had suddenly found momentum'.",
+ "**Imagery and sound:** 'the regular tap, tap of the spatula on the clay was music to her ears'.",
+ "**Symbolism:** the two rows of pots stand for the passing of skill from mother to daughter.",
+ "**Suspense:** Arenla's headache and backache and her leaving the shed are followed by her sudden death."]),
+
+("h2", "5. Quality (Galsworthy): Summary and Message"),
+("ol", [
+ "The narrator knew Mr Gessler from his youth because Gessler made his father's boots. The shop, in a small by-street in a fashionable part of London, had no sign but the name Gessler Brothers and a few boots in the window.",
+ "Gessler made only what was ordered, and it never failed to fit. When the narrator asked if it was hard, he answered, 'It is an art!' His boots lasted extraordinarily long.",
+ "When the narrator said a pair had creaked, Gessler took the criticism gravely and offered to look at them. When the narrator once wore boots from a large firm, Gessler said bitterly that big firms get everything by advertisement and not by work.",
+ "Later the elder brother died, Gessler grew old and thin, and finally the narrator found the shop taken over by a young man. Gessler had died of 'slow starvation' because he insisted on doing all the work himself with the best leather, took long over orders and never advertised. The narrator remembers only: 'he made good boots'."]),
+("ul", [
+ "**Theme:** devotion to quality and the decline of traditional craft before industrialisation and mass production.",
+ "**Gessler's traits:** proud, honest, perfectionist, hardworking, stubborn about change.",
+ "**Mood:** respectful, then sorrowful."]),
+
+("h2", "6. The Poem: Gifts of Grace: Honouring Our Vocations"),
+("p", "The anonymous speaker listens to Bharat celebrating its many vocations. The poem begins and ends with 'I hear Bharat celebrating, the varied vocations I hear!'."),
+("table", ["Vocation", "What the poem says"], [
+ ["Craftspeople", "Each celebrates their craft, woven with colours and myriad hues"],
+ ["Artisans with lutes", "They hail varied emotions and dreams, echoing in the streets"],
+ ["Carpenters", "Create anything out of wood with mathematical precision"],
+ ["Electricians", "Humming, they work with cables and wires to brighten our lives"],
+ ["Boatmen", "Gather nets, sail and sing, return to tell tales of life at sea"],
+ ["Shoemakers", "Affirm the quality of their work, for the feet that walk, dance, run, jump, return home"],
+ ["Cook, designer, mason", "Each celebrates what belongs to them and none else"]]),
+("table", ["Feature", "Example / explanation"], [
+ ["Form", "Free verse; no strict rhyme scheme; lines of varying length; most lines name a vocation and its action"],
+ ["Tone and mood", "Celebratory, reverential, joyful"],
+ ["Repetition / frame", "First and last lines are the same; it ties the poem together and stresses celebration"],
+ ["Imagery", "Visual: colours and hues; auditory: lutes, humming, singing; taste: 'delicious singing'"],
+ ["Metaphor and synaesthesia", "The cook's singing is called 'delicious'"],
+ ["Personification", "Vocations 'celebrating' and 'having a voice'"],
+ ["Symbolism", "Each vocation stands for identity, dignity and the nation's variety"],
+ ["Message", "The voice of their vocation is the voice of their identity"]]),
+
+("h2", "7. Extract Explanations"),
+("qa", [
+ ("'And the reward? A few rupees.' Why the question mark?", "It is a rhetorical question that stresses how small the pay is compared with the effort, expressing Arenla's bitterness."),
+ ("'The shoemakers affirming the quality of their work, for the feet that walk, dance, run, jump, return home.'", "'Affirm' means to declare with confidence. Good shoes carry people through all activities and bring them home safely; 'return home' also suggests safety and belonging."),
+ ("'Id is an ardt!'", "Gessler calls his work an art, not just a trade, showing his pride and devotion to quality.")]),
+
+("h2", "8. Vocabulary"),
+("table", ["Word", "Meaning"], [
+ ["pittance", "a small amount of money received as income"],
+ ["tedious", "tiring, boring"],
+ ["indifference", "lack of interest"],
+ ["deftly", "skilfully"],
+ ["malleable", "able to be shaped without breaking"],
+ ["dexterity", "skill"],
+ ["tally", "a count"],
+ ["momentous", "of great significance"],
+ ["profound", "powerful, deep"],
+ ["myriad", "countless"],
+ ["hues", "colours, shades"]]),
+
+("h2", "9. Grammar in the Unit"),
+("ul", [
+ "**Noun clauses** act as subject or object: *She realised that the pot was ready.*",
+ "**Relative (adjective) clauses** describe a noun: *Arenla took Sentila to the riverbank where the clay was found.*",
+ "**Determiners** come before nouns: articles, demonstratives, possessives, numerals, indefinites (some, any, few, enough) and distributives (each, every, either, neither).",
+ "**Economic vocabulary:** bankrupt, credit, currency, debt, fiscal, inflation, investment, interest."]),
+
+("h2", "10. Writing: Reflective Writing and Poster"),
+("ul", [
+ "Reflective writing steps: introduction, describing skills, passion into profession, examples and reflection, conclusion.",
+ "A poster is placed in a box, is visually attractive, uses letters of different size and has a word limit of 50; it gives organiser, event, date, time, venue, highlights and slogan."]),
+
+("h2", "11. Likely Questions with Model Answers"),
+("qa", [
+ ("What warning did the village council give Mesoba? (2)", "They cautioned him to remind Arenla that it was her duty to teach her daughter the skill handed down through generations, since such skills belong to no individual."),
+ ("How did Sentila feel after failing for a year? (2)", "She hung her head in shame and frustration because she could not even hold the dough properly."),
+ ("What is the role of Onula in the story? (3)", "She is a kind mentor who sees Sentila's tension, shows her how to make a pot and advises her to watch the mouth of the pot. Her encouragement gives Sentila confidence, and at the end she understands that a new pot maker has been born."),
+ ("Why does the poet say 'I hear Bharat celebrating'? (3)", "The poet hears the sounds of many vocations as a celebration of the country's skills. It shows that every vocation contributes to the nation and deserves respect."),
+ ("Why do you think Gessler's business failed? (3)", "He never advertised, would not let anyone else touch his boots, and took very long over orders. Customers would not wait and big firms won through advertisement.")]),
+],
+takeaways=[
+ "The Pot Maker is by Temsula Ao: Sentila, Arenla, Mesoba and Onula.",
+ "Skills like pot making belong to no individual; experts must teach anyone who wants to learn.",
+ "Sentila learns by observing and with Onula's help; she makes pots just one short of her mother's tally.",
+ "'A new pot maker was born' marks the passing of tradition to a new generation.",
+ "Quality by John Galsworthy shows Gessler's devotion to craft and the decline of handmade goods.",
+ "Gifts of Grace is a free-verse poem; first and last lines are the same: 'I hear Bharat celebrating, the varied vocations I hear!'.",
+ "Grammar: noun clauses, relative clauses and determiners.",
+ "Vocabulary: pittance, tedious, deftly, malleable, dexterity, myriad, hues."])
+
+if __name__ == "__main__": run(__file__, BANK, 9, "English", WS, CH, only=None)

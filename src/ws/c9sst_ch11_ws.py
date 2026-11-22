@@ -1,0 +1,138 @@
+"""Class 9 Social Science Ch 11 - Resistance and Resilience 1000-1700 CE (History, Part 2): worksheet + detailed notes."""
+import importlib.util, copy
+from libws import *          # W, run
+BANK = "c9sst_ch11"
+
+def _base():
+    s = importlib.util.spec_from_file_location("c9sst_c11", str(REPO / "src/rn_work/c9_sst2/c11.py"))
+    m = importlib.util.module_from_spec(s); s.loader.exec_module(m); return copy.deepcopy(m.CH)
+
+WS = [
+# ---------------- EASY ----------------
+W("In 1178 Queen Naiki Devi of the Chaulukya kingdom defeated Muhammad Ghuri at:", 1, "(b) Kasahrada, near Mount Abu", "E", opts=["Tarain", "Kasahrada, near Mount Abu", "Panipat", "Haldighati"]),
+W("Who defeated Prithviraj Chauhan in the Second Battle of Tarain (1192)?", 1, "(c) Muhammad Ghuri", "E", opts=["Mahmud of Ghazni", "Alauddin Khilji", "Muhammad Ghuri", "Babur"]),
+W("The Ahom commander who defeated the Mughal fleet at the Battle of Saraighat (1671) was:", 1, "(a) Lachit Borphukan", "E", opts=["Lachit Borphukan", "Mir Jumla", "Jayadhvaj Singha", "Muthu Virappa Nayak"]),
+W("The Vijayanagara Empire was founded in 1336 by:", 1, "(d) Harihara and Bukka", "E", opts=["Krishnadevaraya", "Kumara Kampana", "Rudrama Devi", "Harihara and Bukka"]),
+W("The Khalsa was established by Guru Gobind Singh in:", 1, "(b) 1699", "E", opts=["1469", "1699", "1675", "1576"]),
+W("In medieval India the hundi was a:", 1, "(c) bill of exchange used for safe long-distance payment", "E", opts=["type of boat used by the Ahoms", "tax on peasants", "bill of exchange used for safe long-distance payment", "temple land grant"]),
+W("The Battle of Haldighati between Maharana Pratap and Akbar was fought in:", 1, "(a) 1576", "E", opts=["1576", "1526", "1567", "1605"]),
+W("The policy of 'sulh-i-kul' under Akbar meant:", 1, "(d) peace with all", "E", opts=["war with all kingdoms", "tax on all traders", "worship in temples only", "peace with all"]),
+W("Define resistance and resilience as used in the chapter.", 2, "Resistance is actively opposing a force or threat to protect political power, territory, interests or identity (1). Resilience is the capacity to survive and adapt in difficult situations while preserving inherited socio-cultural and spiritual traditions (1).", "E"),
+W("Name two women rulers from the chapter who resisted invaders.", 2, "Naiki Devi of the Chaulukya kingdom (defeated Muhammad Ghuri in 1178) and Rudrama Devi of the Kakatiyas of Warangal (reigned 1262-1289). (1+1)", "E"),
+W("State True or False, with a reason: All of peninsular India came under Turkic control by 1300.", 2, "False (1). Odisha and parts of Assam were never conquered, and peninsular India stayed free of Turkic control; kingdoms like the Yadavas, Kakatiyas and Hoysalas resisted (1).", "E"),
+W("Who was the ruler of Mewar at the Battle of Haldighati?", 1, "Maharana Pratap. (1)", "E"),
+W("Fill in the blank: The First Battle of Panipat (1526) was fought between Babur and ______.", 1, "Ibrahim Lodi (1)", "E"),
+W("Name two Bhakti poets or saints mentioned in the chapter.", 2, "Any two: Kabir, Tulsidas, Eknath, Sankardev, Chaitanya Mahaprabhu, Ramananda, Akka Mahadevi, Lal Ded, Bahinabai, the Nayanars and Alvars. (1+1)", "E"),
+W("What was the iqta system?", 2, "Under the Delhi Sultanate, territories were assigned to military commanders in place of salaries (1). It helped revenue collection but burdened the peasants (1).", "E"),
+W("What is a havelī temple?", 2, "A plain, house-like temple built in the lanes of a town (1). It was built in this way from the 16th century to avoid destruction, e.g. Jagat Shiromani Temple, Amer (1).", "E"),
+W("What name was given to the light boats used by the Ahoms?", 1, "Bachari boats. (1)", "E"),
+# ---------------- MEDIUM ----------------
+W("Timeline. Arrange in order with years: (i) Siege of Chittor (ii) Siege of Ranthambore (iii) Vijayanagara Empire established (iv) Malik Kafur's expedition against the Yadavas of Devagiri.", 3, "(ii) 1301 Ranthambore; (i) 1303 Chittor; (iv) 1307 Devagiri; (iii) 1336 Vijayanagara. (3 for all, 2 for three in order)", "M"),
+W("Why did the fertile plains of the subcontinent attract invaders from the 7th century onwards?", 2, "Plains fed by perennial rivers produced agricultural surplus and wealth (1), which attracted invaders by sea and land, first the Arabs and later Turkic rulers (1).", "M"),
+W("How did Maharana Pratap continue the resistance to Akbar after Haldighati?", 3, "He used guerrilla warfare in the Aravalli terrain (1.5). The Bhils supported him (0.5), and in 1582 at the Battle of Dewair he regained control of most of Mewar (1).", "M"),
+W("What happened at the Battle of Khanua (1527)? Why is it important?", 3, "Rana Sanga's Rajput confederacy was defeated by Babur (1.5). Babur's victory removed a strong challenge to the new Mughal rule after Panipat 1526 and became a turning point (1.5).", "M"),
+W("How did the Kachhwahas of Amber differ from the Sisodias of Mewar in their dealings with the Mughals? What were mansabs?", 3, "The Kachhwahas cooperated and received mansabs (1), ranks that combined military and civil duties (1), while the Sisodias of Mewar long resisted and kept their independence (1).", "M"),
+W("Explain how the Ahoms used geography and organisation to resist the Mughals.", 3, "They used forests, rivers and monsoons and avoided direct confrontation (1), built alliances (1), and relied on the Paik system and light bachari boats on the Brahmaputra (1).", "M"),
+W("What was the significance of the Battle of Saraighat, 1671?", 3, "Lachit Borphukan defeated a Mughal fleet (1), securing the Brahmaputra as an effective boundary (1). It showed the Ahoms' successful resistance against a mighty empire (1).", "M"),
+W("Why was Vijayanagara founded at Hampi? Give two reasons.", 3, "It was founded in 1336 by Harihara and Bukka to check the Sultanate's expansion into the south (1). The Tungabhadra river and the rocky hills gave natural defence (1), and the site became a centre of political strength (1).", "M"),
+W("What was the result of the Battle of Talikota (1565)?", 2, "Vijayanagara was defeated (1), after which the empire fragmented into Nayaka kingdoms (1).", "M"),
+W("Describe Shivaji's rise using the events of 1659 and 1674. What is swarajya?", 3, "In 1659 at Pratapgarh Shivaji killed Afzal Khan (1); in 1674 he was crowned (1). Swarajya is self-rule, which he aimed to establish using forts like Raigad and Sinhagad as guerrilla bases (1).", "M"),
+W("What is the Akal Takht and the concept of miri-piri in Sikh history?", 3, "The Akal Takht was built by Guru Hargobind (1). Miri-piri refers to temporal (miri) and spiritual (piri) authority of the Guru (1), represented by the Akal Takht and Sri Harmandir Sahib respectively (1).", "M"),
+W("Why did the Jats of the Doab revolt against the Mughals? Name the leaders in the two revolts.", 3, "They were heavily taxed peasants (1). They revolted in 1669 under Gokul Jat and in 1686 under the zamindars of Sinsani and Sogar (1.5). The Mughals prevailed by 1691, but resistance continued (0.5).", "M"),
+W("Match: (a) Nayanars (b) Alvars (c) Kabir (d) Tulsidas with (1) Nirguna Bhakti (2) devotees of Shiva in the south (3) Saguna Bhakti, Ramcharitmanas (4) devotees of Vishnu in the south.", 3, "(a)-(2); (b)-(4); (c)-(1); (d)-(3). (3 for all four, 2 for three)", "M"),
+W("Distinguish between Nirguna and Saguna Bhakti with an example each.", 3, "Nirguna: worship of a formless divine without attributes, e.g. Kabir (1.5). Saguna: worship of the divine with attributes and form, e.g. Tulsidas (1.5).", "M"),
+W("How did the Bhakti tradition become inclusive? Give three features.", 3, "Devotion was personal and in local languages like Marathi, Awadhi, Telugu (1). Nam kirtan, satsang and sankirtan made worship possible without buildings or priests (1). It stressed equality, and had women saints like Akka Mahadevi, Lal Ded and Bahinabai (1).", "M"),
+W("Describe three economic roles of temples in the period 1000-1700 CE.", 3, "Temples got land grants and were economic hubs (1), gave jobs to artisans and priests (1), gave credit to farmers and merchants and were centres of art and education (1).", "M"),
+W("Cause and effect. Why did havelī temples come up from the 16th century? What does this show about resilience?", 2, "Many temples had been destroyed, so plain house-like temples in lanes avoided destruction (1). It shows adaptation: communities kept worship alive in a new form (1).", "M"),
+W("The land tax was raised to as much as 50 per cent of produce under Alauddin Khilji and Muhammad bin Tughlaq. Name two technologies and one investment that helped agriculture despite this burden.", 3, "Rope pulleys and the Persian wheel raised output (1.5). Vijayanagara invested in small-scale irrigation (1.5).", "M"),
+W("Source-based. 'Hundi was widely used and can be compared in some respects to modern bank cheques.' (i) What was a hundi? (ii) Who operated it? (iii) Why was it useful?", 3, "(i) A bill of exchange (1). (ii) Money-changers called sarrafs and their agents called gumasthas (1). (iii) It gave secure long-distance remittance without carrying cash (1).", "M"),
+# ---------------- HARD ----------------
+W("Timeline. Arrange these in chronological order and give the year of each: Battle of Haldighati, Battle of Khanua, Battle of Talikota, Battle of Saraighat, Khalsa established, Kasahrada.", 4, "Kasahrada 1178; Khanua 1527; Talikota 1565; Haldighati 1576; Saraighat 1671; Khalsa 1699. (4 for all, 3 for one error, 2 for two)", "H"),
+W("Compare the responses of Maharana Pratap and the Kachhwaha rulers of Amber to Mughal power. Which approach does the chapter treat as part of resilience?", 4, "Pratap resisted through guerrilla warfare in the Aravallis, refused to join Nauroz or Jharokha Darshan and kept Mewar's independence (1.5). The Kachhwahas cooperated, received mansabs and kept their position (1.5). The chapter shows both as part of survival: resistance and adaptation (1).", "H"),
+W("'Resilience is the backbone of resistance.' Explain this statement with two examples from the chapter.", 4, "Resistance needs leadership and a cause, but resilience supplies the strength to endure long struggles (1.5). Examples: Mewar rulers continued after Haldighati and regained territory (1); the Ahoms endured for 600 years (1228-1826) using geography and alliances and won at Saraighat (1.5).", "H"),
+W("Map-based. Match each place with the region or state where it is located: Kasahrada, Saraighat, Haldighati, Panipat, Hampi, Gingee, with Assam, Haryana, Karnataka, Tamil Nadu, Rajasthan (near Mount Abu), Rajasthan (Mewar).", 4, "Kasahrada: near Mount Abu, Rajasthan; Saraighat (Guwahati): Assam; Haldighati: Mewar, Rajasthan; Panipat: Haryana; Hampi (Vijayanagara): Karnataka; Gingee: Tamil Nadu. (4 for all, 3 for five, 2 for four)", "H"),
+W("Case study. Gingee (Senji) fort in Tamil Nadu was held by Nayakas, Bijapur, the Mughals, Marathas, the French and the English, and became a UNESCO World Heritage Site in 2025. Why were forts important in this period, and what does Gingee show?", 3, "Forts were military strongholds, bases for guerrilla warfare and control of regions, e.g. Raigad and Sinhagad for the Marathas (1.5). Gingee shows its strategic importance to many powers over time, and that India's fort heritage has global value (1.5).", "H"),
+W("Trace the growth of the Sikh community from Guru Nanak to 1699 as a form of resistance and resilience.", 4, "Guru Nanak taught one God and equality (1). Guru Arjan Dev was executed under Jahangir; Guru Hargobind built the Akal Takht and the idea of miri-piri (1). Guru Tegh Bahadur was executed in 1675 (1). Guru Gobind Singh founded the Khalsa in 1699 and Sikh misals later organised armed resistance (1).", "H"),
+W("Explain how nam kirtan, satsang and sankirtan made worship independent of buildings. Give the example of Chaitanya Mahaprabhu.", 4, "These were community practices of singing and gathering which need no temple or priest, so devotion could continue when temples were destroyed or restricted (2). Chaitanya Mahaprabhu led sankirtan in the streets against a Qazi's restriction, showing both devotion and resilience (2).", "H"),
+W("Case study. Seth Mohanlal, a merchant of Gujarat, wants to send money to a trader in Bengal without carrying cash through bandits' territory. Explain how he could use a hundi and who would be involved. How did this trade support the economy?", 4, "He would deposit the money with a sarraf (money-changer) and get a hundi, a bill of exchange (1.5). The trader in Bengal could get the money from the sarraf's agent, a gumastha, in that place (1.5). It made long-distance trade safe and supported commerce of merchants of Gujarat, Malabar, Coromandel and Bengal in Indian Ocean trade (1).", "H", wp=True),
+W("Many temples were destroyed from the 11th century, yet they were rebuilt. Using Kashi Vishwanath as an example, explain what this shows about resilience.", 4, "Rulers, guilds and communities restored destroyed temples (1.5). Kashi Vishwanath was rebuilt by Todar Mal and Man Singh and the present temple was built by Ahilyabai Holkar in 1780 (1.5). It shows that faith and cultural identity survived repeated attacks (1).", "H"),
+W("Compare the Ahom and Maratha methods of resistance on terrain, tactics and leader.", 4, "Ahoms: forests, rivers and monsoons, bachari boats and the Paik system; Lachit Borphukan at Saraighat (2). Marathas: forts such as Raigad and Sinhagad as guerrilla bases and the idea of swarajya, under Shivaji; Aurangzeb spent over two decades in the Deccan (2).", "H"),
+W("HOTS. The Mewar ruler was exempted from attending the Mughal court under a treaty. Why would the Mughals agree to such a treaty?", 3, "The Mughals wanted peace on the routes leading to Surat, an important port (1.5). Continuous war had been costly and Mewar's resilience showed it could not easily be crushed, so a compromise kept both sides' honour (1.5).", "H"),
+W("Source-based. The poet Dursa Arha praised Pratap for never joining the Nauroz festival or standing guard at Jharokha Darshan. (i) What do these two practices signify? (ii) What does the poet's praise show?", 3, "(i) They were Mughal court rituals showing submission to the emperor (1.5). (ii) Pratap kept his independence and honour, and the poet celebrated this as resistance (1.5).", "H"),
+W("Essay. How did agriculture, irrigation, trade and temples keep the economy sound and help society recover from conflict between 1000 and 1700 CE?", 5, "Land revenue was the main income and farming grew with the Persian wheel, rope pulleys and small-scale irrigation in Vijayanagara (1.5). Hundi, sarrafs and banjara caravans connected villages, towns and Central Asia (1). Merchants of Gujarat, Malabar, Coromandel and Bengal traded in the Indian Ocean (1). Temples were hubs of employment, credit and art (1). A strong economy gave resources to endure and rebuild (0.5).", "H"),
+W("Essay. 'The period 1000-1700 was a story of conflict and cooperation, not only invasion.' Discuss with two examples of each.", 4, "Conflict: Mahmud of Ghazni against Jayapala in 1001; Panipat 1526 and Khanua 1527 (1). Resistance: Naiki Devi 1178, Haldighati, Saraighat (1). Cooperation: Kachhwahas of Amber as mansabdars, treaty with Mewar (1); Bhakti and Sufi traditions, Akbar's sulh-i-kul (1).", "H"),
+]
+
+CH = _base()
+CH["blocks"] += [
+ ("h2", "Master Timeline, 1000-1700 CE"),
+ ("table", ["Year", "Event"], [
+  ["1001", "Mahmud of Ghazni attacks the Hindu Shahi ruler Jayapala"],
+  ["1178", "Naiki Devi defeats Muhammad Ghuri at Kasahrada, near Mount Abu"],
+  ["1192", "Second Battle of Tarain: Ghuri defeats Prithviraj Chauhan"],
+  ["1206", "Delhi Sultanate begins"],
+  ["1228", "Ahom kingdom begins (till 1826)"],
+  ["1262-1289", "Reign of Kakatiya Queen Rudrama Devi"],
+  ["1298 / 1301 / 1303 / 1307", "Anhilwara and Somnath; Ranthambore; Chittor; Devagiri"],
+  ["c. 1325", "Rana Hammir takes Mewar"],
+  ["1336", "Vijayanagara Empire established"],
+  ["1526", "First Battle of Panipat: Babur defeats Ibrahim Lodi"],
+  ["1527", "Battle of Khanua: Rana Sanga defeated by Babur"],
+  ["1565", "Battle of Talikota: Vijayanagara defeated"],
+  ["1567-68", "Akbar besieges Chittor; Rana Udai Singh retreats to the Aravallis"],
+  ["1576", "Battle of Haldighati"],
+  ["1582", "Battle of Dewair: Pratap regains Mewar"],
+  ["1659", "Battle of Pratapgarh: Shivaji kills Afzal Khan"],
+  ["1669, 1686", "Jat revolts"],
+  ["1671", "Battle of Saraighat"],
+  ["1674", "Shivaji's coronation"],
+  ["1675", "Guru Tegh Bahadur executed"],
+  ["1699", "Khalsa established by Guru Gobind Singh"],
+  ["1780", "Present Kashi Vishwanath temple built by Ahilyabai Holkar"]]),
+ ("h2", "Key People and Terms"),
+ ("table", ["Name / term", "Role or meaning"], [
+  ["**Jayapala**", "Hindu Shahi ruler attacked by Mahmud of Ghazni (1001)"],
+  ["**Naiki Devi**", "Chaulukya queen who defeated Muhammad Ghuri (1178)"],
+  ["**Rudrama Devi**", "Kakatiya queen of Warangal (1262-1289)"],
+  ["**Rana Sanga**", "Led the Rajput confederacy at Khanua (1527)"],
+  ["**Maharana Pratap, Amar Singh**", "Mewar rulers who resisted Akbar and Jahangir"],
+  ["**Lachit Borphukan**", "Ahom commander at Saraighat"],
+  ["**Harihara and Bukka, Krishnadevaraya**", "Founders / great ruler of Vijayanagara"],
+  ["**Shivaji**", "Founder of Maratha swarajya"],
+  ["**Guru Nanak, Guru Hargobind, Guru Gobind Singh**", "Founder, builder of the Akal Takht, founder of the Khalsa"],
+  ["**Chaitanya Mahaprabhu, Kabir, Tulsidas**", "Bhakti saints"],
+  ["**Mansab / iqta / hundi / sarraf**", "Mughal rank / Sultanate land assignment / bill of exchange / money-changer"],
+  ["**Sulh-i-kul**", "Peace with all: Akbar's policy"]]),
+ ("h2", "Map Pointers"),
+ ("ul", ["Locate **Mount Abu / Kasahrada** (Rajasthan), **Tarain** and **Panipat** (north India), **Chittor, Ranthambore, Haldighati, Dewair** (Rajasthan), **Khanua** (near Agra).",
+  "Locate **Guwahati (Saraighat)** and the Brahmaputra in Assam; **Hampi** on the Tungabhadra (Karnataka); **Talikota** (Karnataka); **Madurai**, **Gingee** (Tamil Nadu); **Warangal** (Telangana), **Devagiri** (Maharashtra).",
+  "Locate **Pratapgarh**, **Raigad** and **Sinhagad** forts (Maharashtra); **Amritsar** (Harmandir Sahib and Akal Takht); **Varanasi** (Kashi Vishwanath); **Amer** (Jagat Shiromani Temple); **Surat** port."]),
+ ("h2", "Cause and Effect"),
+ ("table", ["Cause", "Effect"], [
+  ["Rich, fertile plains with perennial rivers", "Surplus and wealth that attracted invaders"],
+  ["Sultanate armies demolished sacred sites", "Resistance with political and cultural motives"],
+  ["Pratap's guerrilla warfare in the Aravallis with Bhil support", "Recovery of most of Mewar at Dewair (1582)"],
+  ["Mughals wanted safe routes to Surat", "Treaty exempting Mewar's ruler from attending court"],
+  ["Heavy taxes on Doab peasants", "Jat revolts of 1669 and 1686"],
+  ["Destruction of temples", "Rebuilding, havelis and Bhakti practices outside buildings"],
+  ["Defeat at Talikota (1565)", "Fragmentation of Vijayanagara into Nayaka kingdoms"]]),
+ ("h2", "Comparison: Ways of Resisting"),
+ ("table", ["Group", "Method", "Key leader / event"], [
+  ["Rajputs (Mewar)", "Guerrilla war, Bhil support, refusal to submit", "Pratap; Haldighati; Dewair"],
+  ["Ahoms", "Terrain, rivers, alliances, Paik system, bachari boats", "Lachit Borphukan; Saraighat 1671"],
+  ["Vijayanagara", "Natural defences and army; restoring temples", "Harihara, Bukka; Krishnadevaraya; Talikota"],
+  ["Marathas", "Forts, guerrilla warfare, swarajya", "Shivaji; 1659, 1674"],
+  ["Sikhs", "Community organisation, Akal Takht, Khalsa, misals", "Guru Hargobind; Guru Gobind Singh 1699"],
+  ["Jats", "Peasant revolts against taxes", "Gokul Jat 1669; Sinsani and Sogar zamindars 1686"]]),
+ ("h2", "More Likely Questions"),
+ ("qa", [
+  ("Describe the resistance of the Rajputs against the Mughals. (5 marks)", "After Rana Sanga's defeat at Khanua in 1527, Mewar continued to resist. Akbar besieged Chittor in 1567-68, and Rana Udai Singh retreated to the Aravallis. At Haldighati (1576) Maharana Pratap fought Akbar and then used guerrilla war with Bhil support, regaining much of Mewar at Dewair (1582). His son Amar Singh countered Jahangir's advances (1605-09). Others, such as the Kachhwahas, cooperated and became mansabdars."),
+  ("Why is the Battle of Saraighat remembered? (3 marks)", "In 1671 Lachit Borphukan's Ahom fleet defeated the Mughal navy on the Brahmaputra, making the river an effective boundary and showing how strategy and geography could beat a mighty empire."),
+  ("How did the Bhakti and Sufi traditions support resilience? (3 marks)", "They gave people comfort and unity in difficult times with personal devotion in local languages, nam kirtan and equality, and khanqahs became community centres. Akbar's sulh-i-kul added to coexistence."),
+  ("How did temples contribute to the economy and to resilience? (3 marks)", "They employed artisans and priests, held land and gave credit, and were centres of education and art; rulers drew legitimacy from them; they were rebuilt after destruction and havelis kept worship alive."),
+ ]),
+]
+CH["takeaways"] += ["Learn the battles in order: **1178 Kasahrada, 1192 Tarain, 1526 Panipat, 1527 Khanua, 1565 Talikota, 1576 Haldighati, 1671 Saraighat**.",
+  "Persons: **Naiki Devi, Rudrama Devi, Rana Sanga, Pratap, Lachit Borphukan, Harihara-Bukka, Shivaji, the Sikh Gurus**."]
+
+if __name__ == "__main__": run(__file__, BANK, 9, "Social_Science", WS, CH)

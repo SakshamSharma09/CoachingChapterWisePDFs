@@ -1,0 +1,158 @@
+"""Class 10 Social Science Ch 13 - Power-sharing (Political Science Ch 1): worksheet (50 graded questions) + detailed chapter notes."""
+from libws import *          # W, run
+import runpy
+BANK = "c10sst_ch13"
+
+def mc(q, opts, i, why=""):
+    return W(q, 1, f"({'abcd'[i]}) {opts[i]}." + (" " + why if why else ""), "E", opts=opts)
+AR = ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"]
+def ar(a, r, i, why, lvl="E"):
+    return W(f"Assertion (A): {a}  Reason (R): {r}  Choose the correct option.", 1, f"({'abcd'[i]}) {AR[i]}. {why}", lvl, opts=AR)
+
+WS = [
+# ------------------------------------------------------------------ EASY (17)
+mc("Which language is spoken by the majority of people in Belgium's Flemish region?", ["French", "Dutch", "German", "English"], 1, "About 59 per cent of Belgians live in the Flemish region."),
+mc("In Belgium's capital Brussels, about what share of people speak French?", ["20 per cent", "40 per cent", "59 per cent", "80 per cent"], 3, "The remaining 20 per cent speak Dutch."),
+mc("Sri Lanka became an independent country in:", ["1947", "1948", "1956", "1971"], 1),
+mc("The 1956 Act in Sri Lanka made which language the only official language?", ["Tamil", "English", "Sinhala", "Hindi"], 2, "It disregarded Tamil."),
+mc("The belief that the majority community should rule in whichever way it wants, disregarding the minority, is called:", ["federalism", "majoritarianism", "secularism", "accommodation"], 1),
+mc("The system in which each organ of government checks the others is called:", ["federalism", "checks and balances", "community government", "coalition"], 1, "Legislature, executive and judiciary share power horizontally."),
+mc("Power shared among governments at different levels (Union, state, local) is called:", ["horizontal distribution of power", "vertical distribution of power", "community government", "coalition"], 1, "It is also known as federal division of power."),
+mc("A coalition government is an example of power sharing among:", ["different organs of government", "different levels of government", "different social groups", "different political parties"], 3),
+W("Fill in the blanks: Between 1970 and ______ the Belgian leaders amended their constitution ______ times to work out an arrangement for sharing power.", 1, "1993; four. (1)", "E"),
+W("Name the three main language groups of Belgium.", 1, "Dutch (Flemish), French (Walloon) and German. (1)", "E"),
+W("Who are the 'Indian Tamils' of Sri Lanka?", 2,
+  "They are Tamil-speakers whose forefathers came from India as plantation workers during the colonial period (2).", "E"),
+W("What is 'prudential' in the context of power sharing?", 2,
+  "Prudential means based on prudence, i.e. careful calculation of gains and losses (1). Prudential reasons stress that power sharing brings better outcomes such as less conflict and stability (1).", "E"),
+W("True or false (with a reason): 'In Belgium the Dutch-speaking majority imposed its language on the French-speaking minority.'", 2,
+  "False (1). Belgian leaders recognised regional differences and accommodated all groups through constitutional amendments and shared power; no group could impose its will (1).", "E"),
+W("Match: (i) Belgium (ii) Sri Lanka (iii) Horizontal power sharing (iv) Vertical power sharing.  A. Majoritarian measures  B. Community government  C. Union and state governments  D. Legislature, executive, judiciary.", 2,
+  "(i)-B, (ii)-A, (iii)-D, (iv)-C. (all four = 2; two or three correct = 1)", "E"),
+W("Name two ways in which power is shared among social groups.", 2,
+  "Community government in Belgium (1), and reserved constituencies in legislatures and administration for socially weaker sections and women, as in India (1).", "E"),
+W("Name two types of reasons for power sharing, with one phrase for each.", 2,
+  "Prudential reasons: it reduces the possibility of conflict and keeps political order stable (1). Moral reasons: power sharing is the very spirit of democracy (1).", "E"),
+W("Name any two pressure groups that influence government decisions.", 1,
+  "Any two of traders, industrialists, farmers and industrial workers (organised as interest groups). (1)", "E"),
+# ------------------------------------------------------------------ MEDIUM (20)
+ar("Belgium solved its ethnic tensions through power sharing.", "Belgian leaders recognised regional differences and cultural diversities and amended the constitution to accommodate them.", 0, "The Belgian model shows that accommodation builds unity.", "M"),
+ar("Majoritarian measures in Sri Lanka strengthened the unity of the country.", "They increased the feeling of alienation among Sri Lankan Tamils.", 3, "The Assertion is false; the measures led to distrust, demands for autonomy and civil war.", "M"),
+W("Explain the Belgian model of power sharing by giving any three features.", 3,
+  "Equal number of Dutch- and French-speaking ministers in the central government (1). Special laws need majority support from each linguistic group (1). State governments are not subordinate to the central government (1). Brussels has a separate government with equal representation of both communities; a community government elected by each language community looks after cultural, educational and language matters (1). (any three)", "M"),
+W("Why was the French-speaking minority in Belgium resented by the Dutch-speaking community? How did this create tension in Brussels?", 3,
+  "The French-speaking minority was rich and powerful, while the Dutch-speaking community got the benefit of economic development and education much later (1.5). This led to tensions between the two communities, especially in Brussels, where the Dutch-speaking majority of the country was a minority in the capital (1.5).", "M"),
+W("List three majoritarian steps taken in Sri Lanka after independence and say what Tamils felt.", 3,
+  "1956 Act made Sinhala the only official language, disregarding Tamil (1). Preferential policies favoured Sinhala applicants for university positions and government jobs (1). A new constitution stipulated that the state shall protect and foster Buddhism; Tamils felt alienated and discriminated against in language, jobs, education and culture (1).", "M"),
+W("Describe how the conflict in Sri Lanka grew from demand for autonomy to civil war.", 3,
+  "Sri Lankan Tamils felt that no major political party took their concerns; their demand for more autonomy to provinces populated by Tamils was repeatedly denied (1). By the 1980s several political organisations demanded an independent Tamil Eelam in the northern and eastern parts (1). Distrust turned into widespread conflict and civil war that caused loss of thousands of lives and ended in 2009 (1).", "M"),
+W("Complete the table: Compare Belgium and Sri Lanka on (i) largest language group (ii) attitude of the majority (iii) result.", 3,
+  "Belgium: Dutch speakers (59 per cent); accommodation and sharing power; peace and stability (1.5). Sri Lanka: Sinhala speakers (74 per cent); majoritarianism, imposing Sinhala supremacy; mistrust, alienation and civil war (1.5).", "M"),
+W("Why is imposing the will of the majority attractive in the short run but harmful in the long run?", 2,
+  "It may look attractive because the majority gets what it wants without compromise (1). In the long run it undermines the unity of the nation, as minorities feel alienated, leading to conflict and instability (1).", "M"),
+W("What are the moral reasons for power sharing? Give two points.", 2,
+  "Power sharing is the very spirit of democracy; rule involves sharing power with those affected by it and who have to live with its effects (1). People have a right to be consulted on how they are to be governed, and a legitimate government is one in which citizens through participation acquire a stake in the system (1).", "M"),
+W("Explain 'horizontal distribution of power' with an example. Why is it called a system of checks and balances?", 3,
+  "Power is shared among the legislature, executive and judiciary, which are placed at the same level (1). Ministers and officials exercising executive power are answerable to the legislature, and judges, though appointed by the executive, can check the working of the executive and laws made by the legislature (1). So no organ can exercise unlimited power, since each keeps a check on the others (1).", "M"),
+W("Explain vertical power sharing and give one example from India.", 2,
+  "Power is shared among governments at different levels: a general (federal) government for the entire country and governments at the provincial or regional level, also local governments (1). In India, the Union (Central) Government, State governments and Panchayats and municipalities share power (1).", "M"),
+W("How is power shared among political parties, pressure groups and movements? Give two examples.", 3,
+  "Parties compete for power and the people decide who rules; in coalition governments, two or more parties share power (1.5). Interest groups such as traders, industrialists, farmers and industrial workers influence decision-making through representation in committees or through pressure (1.5).", "M"),
+W("A class of 40 students in a Jaipur school has a class monitor who changes every month. Is this a power-sharing arrangement? Explain.", 2,
+  "Yes, to a degree (1). Responsibility and authority rotate among students so that no one holds power permanently and everyone gets a say and a chance, though true power sharing also needs sharing of decision-making among groups (1).", "M", wp=True),
+W("Why did Belgium amend its constitution four times between 1970 and 1993? What does it show about its leaders?", 2,
+  "They wanted to find an arrangement that would enable everyone to live together within the same country (1). It shows that they recognised regional differences and cultural diversities and chose accommodation over conflict (1).", "M"),
+W("Error analysis. A student writes: 'Sri Lanka's civil war happened because Sinhala speakers were a minority in the country.' Find and correct the mistake.", 2,
+  "Sinhala speakers are the majority in Sri Lanka (about 74 per cent) (1). The conflict arose because the majority community used its numbers to dominate and disregard the Tamil minority (1).", "M"),
+W("Give any two examples of power sharing in India among social groups.", 2,
+  "Reserved constituencies for Scheduled Castes and Scheduled Tribes in legislatures (1) and reservation of seats for women in local bodies, and reservation in administration for socially weaker sections (1).", "M"),
+W("Locate on a map: (i) Brussels (ii) the Flemish region (iii) the Tamil region of Sri Lanka. Describe the position of each.", 3,
+  "(i) Brussels, the capital of Belgium, located within the country's central part (1). (ii) Flemish region in the northern part, Dutch speaking (1). (iii) Sri Lankan Tamils are concentrated in the north and east of Sri Lanka, just off the southern coast of Tamil Nadu (1).", "M"),
+W("Why do Dutch speakers in Belgium form a majority in the country but fear being outnumbered in Brussels? What problem did this create?", 2,
+  "In the country, 59 per cent speak Dutch, but in the capital only 20 per cent do and 80 per cent speak French (1). The Dutch-speakers feared French dominance in Brussels, and the minority French could use its wealth and power, creating tension (1).", "M"),
+W("Shyam says, 'Power sharing weakens the government.' Give two arguments to show he is wrong.", 3,
+  "Power sharing reduces the possibility of conflict between social groups, so government is more stable and legitimate (1.5). Belgium shows that accommodation can unite a divided society, while Sri Lanka shows that majority domination led to civil war (1.5).", "M", wp=True),
+W("Table-based. Sri Lanka's population: Sinhala-speakers 74%, Sri Lankan Tamils 13%, Indian Tamils 5%, Others. (i) What percentage are Tamil-speakers in all? (ii) What is the share of the rest, if 'others' means everyone else? (iii) Why is the Sinhala majority larger than the rest combined?", 3,
+  "(i) 13 + 5 = 18 per cent (1). (ii) 100 - 74 - 18 = 8 per cent (1). (iii) 74 per cent is more than 26 per cent (all others combined), so Sinhala-speakers have an absolute majority and can dominate decisions in a majoritarian system (1).", "M", wp=True),
+# ------------------------------------------------------------------ HARD (13)
+W("Compare the Belgium and Sri Lanka cases and show why Belgium's approach is called accommodation while Sri Lanka's is majoritarian. Give four points.", 4,
+  "Belgium recognised diversity and amended its constitution four times; Sri Lanka passed the 1956 Act favouring Sinhala only (1). Belgium's central government has equal Dutch- and French-speaking ministers; Sri Lanka's preferential policies favoured Sinhala applicants for jobs and universities (1). Belgium has regional and community governments with real powers; in Sri Lanka demands for autonomy were repeatedly denied (1). Belgium achieved stability; Sri Lanka had a civil war that ended in 2009 (1).", "H"),
+W("Read the extract and answer. 'The Belgian leaders took a different path. They recognised the existence of regional differences and cultural diversities. ... The arrangement they worked out is different from any other country and is very innovative.'  (i) What path did they choose? (ii) Name the two special governments created in Belgium. (iii) Why is this arrangement durable? (iv) Is it applicable to India? Give a reason.", 4,
+  "(i) Accommodation: sharing power among language groups (1). (ii) A separate government for Brussels with equal representation of both communities, and community government elected by each language community (1). (iii) No group fears domination because every group has a stake (special laws need majority support from each linguistic group), and the model gives both regional and community identity (1). (iv) India already shares power through federalism and reservations; any reasoned answer (1).", "H"),
+W("Explain the 'prudential' and 'moral' reasons for power sharing with two examples each from the chapter.", 4,
+  "Prudential: reduces possibility of conflict between social groups (example: Belgium's equal ministers reduced Dutch-French tension); stable political order, since majority imposition undermines national unity in the long run (example: Sri Lanka) (2). Moral: power sharing is the spirit of democracy; those affected by decisions have a right to be consulted (example: elected community governments in Belgium); citizens acquire a stake in the system, which makes government legitimate (example: reserved constituencies in India) (2).", "H"),
+W("Case study. In the village of Dhani near Barmer, two communities each form 50 per cent of the population. After an election the winning sarpanch's group takes all the posts of the village committee. The other group boycotts the next meeting and stops contributing to repair of the village well. (i) Which principle of power sharing has been violated? (ii) What problem could arise? (iii) Suggest two arrangements for shared decision-making.", 5,
+  "(i) Sharing power with all groups affected by the decisions; the winning group acted in a majoritarian way (1.5). (ii) Mistrust and conflict, loss of cooperation, instability and weaker development of the village (1.5). (iii) Reserved or rotating posts for both communities, a committee with representation of both and decisions by consultation (2).", "H", wp=True),
+W("'Power sharing is not the enemy of unity; it is its basis.' Evaluate with reference to Belgium, Sri Lanka and India.", 5,
+  "Belgium: accommodation of Dutch, French and German speakers produced stability and kept the country together (1.5). Sri Lanka: majority rule on language and religion produced alienation and civil war until 2009 (1.5). India: federal distribution of power, reserved seats for weaker sections and coalition governments show power sharing in practice (1). Conclusion: sharing power builds trust and legitimacy; forced unity breeds conflict (1).", "H"),
+W("Describe four forms of power sharing and illustrate each with one example.", 4,
+  "Horizontal: legislature, executive and judiciary share power; judges can check the executive (1). Vertical: Union, state and local governments (federal division) (1). Among social groups: community government in Belgium; reserved constituencies in India (1). Among parties, pressure groups and movements: coalition governments, interest groups influence policy (1).", "H"),
+W("Why can democratic rule not be reduced to 'rule by the majority' alone? Illustrate with two incidents from the chapter.", 4,
+  "In democracy the majority must respect the minority and share power, otherwise the minority loses faith in the system (1). In Sri Lanka, Sinhala dominance (1956 Act, preferential policies) ended in civil war (1.5). In Belgium, if the Dutch-speaking majority had imposed its will, the French minority in Brussels and the country would have been disrupted; accommodation avoided it (1.5).", "H"),
+W("Passage-based. 'Imposing the will of the majority community over others may look like an attractive option in the short run, but in the long run it undermines the unity of the nation. Tyranny of the majority is not just oppressive for the minority; it often brings ruin to the majority as well.'  (i) Explain 'tyranny of the majority'. (ii) How did Sri Lanka's majority suffer? (iii) Link this with a prudential reason.", 4,
+  "(i) Rule in which the majority community uses its numbers to oppress the minority without regard for its rights (1). (ii) The civil war killed thousands, harmed the economy and social life of all communities, including the Sinhala majority (1.5). (iii) Prudential reason: power sharing reduces conflict and ensures stability; the loss of stability affects everyone (1.5).", "H"),
+W("Study the statements: (a) 'Judges are appointed by the executive but can strike down executive actions.' (b) 'Both Dutch and French have equal ministers.' (c) 'The state governments are not subordinate to the centre in Belgium.' Identify the form of power sharing in each and say how each reduces misuse of power.", 4,
+  "(a) Horizontal (checks and balances): the judiciary can review executive and legislative acts, so no organ is unlimited (1.5). (b) Among social (language) groups: neither can dominate the central government (1.25). (c) Vertical: regional governments have their own powers so that power is not concentrated at one level (1.25).", "H"),
+W("Suppose you are a member of a commission to resolve conflict between two language groups in a district of Rajasthan. List four recommendations based on the lessons of Belgium and Sri Lanka and justify each.", 5,
+  "Equal or fair representation of both language groups in the district committee (as in Belgian ministers) so that both feel they have a say (1.25). Recognise both languages in offices and schools; avoid declaring a single language official at the cost of another (Sri Lanka lesson) (1.25). Give local bodies control over cultural and educational issues (like community government) (1.25). Ensure equal opportunity in jobs and education, with no preferential policy for one group (1.25).", "H", wp=True),
+W("Evaluate the claim that 'Sri Lanka's problem was one of the minority, not of the majority.' Give three arguments for and one against.", 4,
+  "For: Tamils faced loss of language, job and education rights and had no voice (1). Against: the majority's own policies produced the conflict and brought ruin to the majority as well (1). The measures were adopted by a democratically elected government and so the real cause was majoritarianism by the Sinhala leaders, not minority separatism alone (1). Civil war affected all communities, so it was a national, not only minority, problem (1).", "H"),
+W("Why does a modern democracy need both horizontal and vertical power sharing? Give two reasons for each and one example of each from India.", 4,
+  "Horizontal: no single organ gets unlimited power, and each organ checks the others, so misuse of power is reduced (1); example: Parliament makes laws, ministers are answerable to it and courts can review laws (1). Vertical: a large and diverse country is governed better when powers are shared between the Union, states and local bodies, which brings government closer to people and accommodates regional diversity (1); example: Union, State and local governments with their own powers (1).", "H"),
+]
+
+_old = runpy.run_path(str(REPO / "src/rn_work/c10_sst/c13.py"))["CH"]
+_i = max(k for k, b in enumerate(_old["blocks"]) if b[0] == "h2")
+_core = _old["blocks"][:_i]
+_extra = [
+ ("h2", "Key Terms at a Glance"),
+ ("table", ["Term", "Meaning"], [
+  ["Majoritarianism", "Belief that the majority community should rule in whichever way it wants, disregarding the minority"],
+  ["Prudential reasons", "Based on careful calculation of gains and losses: less conflict and stable order"],
+  ["Moral reasons", "Power sharing is valuable in itself; it is the spirit of democracy and gives legitimacy"],
+  ["Horizontal distribution", "Power among legislature, executive and judiciary at the same level"],
+  ["Checks and balances", "Each organ of government checks the others so none has unlimited power"],
+  ["Vertical distribution", "Power among governments at different levels; federal division of power"],
+  ["Community government", "Government elected by one language community in Belgium for cultural, educational and language matters"],
+  ["Coalition government", "Government formed by two or more parties sharing power"],
+  ["Reserved constituencies", "Seats reserved in legislatures for weaker sections and women"]]),
+ ("h2", "Belgium and Sri Lanka: Figures"),
+ ("table", ["Country", "Population features", "Key dates"], [
+  ["Belgium", "A little over one crore (about half of Haryana); 59 per cent Flemish (Dutch), 40 per cent Walloon (French), 1 per cent German; Brussels 80 per cent French and 20 per cent Dutch", "1970-1993: four constitutional amendments"],
+  ["Sri Lanka", "About two crore (like Haryana); Sinhala 74 per cent, Tamil 18 per cent (Sri Lankan Tamils 13, Indian Tamils 5), Christians about 7 per cent; Sinhala mostly Buddhist, Tamils mostly Hindu or Muslim", "1948 independence; 1956 Sinhala-only Act; 1980s Eelam demand; civil war ended 2009"]]),
+ ("h2", "Timeline"),
+ ("table", ["Year", "Event"], [
+  ["1948", "Sri Lanka becomes independent"],
+  ["1956", "Act recognising Sinhala as the only official language"],
+  ["1970-1993", "Belgium amends its constitution four times"],
+  ["1980s", "Tamil organisations demand an independent Eelam; the conflict becomes a civil war"],
+  ["2009", "The civil war in Sri Lanka ends"]]),
+ ("h2", "Map Pointers"),
+ ("ul", ["On a map of **Belgium** locate the **Flemish region** (north, Dutch), **Wallonia** (south, French), the German-speaking area and **Brussels** (capital) which has borders with France, the Netherlands, Germany and Luxembourg.",
+  "On a map of **Sri Lanka** locate the concentration of **Sri Lankan Tamils in the north and east**, the Sinhala-speaking majority elsewhere and its position just off the southern coast of Tamil Nadu."]),
+ ("h2", "Sources and Case Notes"),
+ ("ul", ["**Case: Belgium.** The French-speaking minority was rich and powerful, the Dutch-speaking majority had developed later; the solution was the Belgian model of shared power.",
+  "**Case: Sri Lanka.** A democratically elected government adopted majoritarian measures; the Tamil demand for autonomy became a call for Tamil Eelam and a civil war.",
+  "**Concept: tyranny of the majority.** It oppresses the minority and often brings ruin to the majority as well."]),
+ ("h2", "Cause and Effect Chains"),
+ ("table", ["Cause", "Effect"], [
+  ["Language, regional and economic differences in Belgium", "Tension, mostly in Brussels"],
+  ["Equal ministers, community government, Brussels government", "Accommodation and peaceful coexistence in Belgium"],
+  ["Sinhala-only Act and preferential policies in Sri Lanka", "Alienation of Tamils, demand for autonomy, civil war"],
+  ["Concentration of power in one organ or group", "Misuse of power; hence checks and balances and federal division"]]),
+ ("h2", "Common Mistakes"),
+ ("note", "REMEMBER", "In Belgium the **Dutch** speakers are the majority in the country (59 per cent), but in **Brussels** the French speakers are the majority (80 per cent). Do not reverse these. In Sri Lanka the majority is **Sinhala** (74 per cent)."),
+ ("note", "REMEMBER", "**Horizontal** = among organs of government (legislature, executive, judiciary); **vertical** = among levels (Union, state, local). Coalition governments and community governments belong to **other** forms."),
+ ("h2", "Likely 3 and 5 Mark Answers"),
+ ("qa", [
+  ("What is the Belgian model of power sharing? (5)", "Equal Dutch and French ministers in the central government; special laws need majority support of each language group; state governments are not subordinate to the centre; Brussels has a separate government with equal representation; community governments for cultural, educational and language matters."),
+  ("Why is power sharing desirable? (3)", "Prudential: reduces conflict and ensures stable political order, since majority imposition undermines unity; Moral: spirit of democracy, right of those affected to be consulted, legitimacy."),
+  ("Explain the majoritarian measures in Sri Lanka. (3)", "1956 Act making Sinhala the only official language; preferential policies for Sinhala applicants for university and government jobs; constitution that protects and fosters Buddhism."),
+  ("How is power shared among different organs of government? (3)", "Legislature, executive and judiciary share power horizontally; each can check the others, and this is called checks and balances."),
+  ("Distinguish between horizontal and vertical power sharing. (3)", "Horizontal: different organs at the same level; vertical: different levels of government such as Union, state and local governments."),
+ ]),
+]
+CH = dict(num=13, title=_old["title"], tag=_old["tag"], intro=_old["intro"], big_questions=_old["big_questions"],
+          blocks=_core + _extra, takeaways=_old["takeaways"] + ["Belgium's four constitutional amendments (1970-1993) and Sri Lanka's 1956 Act are the two key dates and cases.", "**Tyranny of the majority** harms the minority and often brings ruin to the majority too."])
+
+if __name__ == "__main__": run(__file__, BANK, 10, "Social_Science", WS, CH)

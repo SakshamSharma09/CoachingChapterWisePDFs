@@ -1,0 +1,145 @@
+"""Class 8 Social Science Ch 13 - Dynamics of Population (NCERT Part 2 Ch 6): worksheet + detailed notes."""
+import importlib.util, copy
+from libws import *          # W, run
+BANK = "c8sst_ch13"
+
+def _base():
+    s = importlib.util.spec_from_file_location("c8sst_c13", str(REPO / "src/rn_work/c8_sst2/c13.py"))
+    m = importlib.util.module_from_spec(s); s.loader.exec_module(m); return copy.deepcopy(m.CH)
+
+WS = [
+# ---------------- EASY ----------------
+W("Demography is the study of:", 1, "(c) the features of the human population and how they change over time", "E", opts=["rivers and lakes of a region", "the history of ancient kingdoms", "the features of the human population and how they change over time", "the weather of a region"]),
+W("The 'replacement level' fertility rate is:", 1, "(b) 2.1", "E", opts=["1.0", "2.1", "3.5", "5.7"]),
+W("According to the 2011 Census, India's sex ratio was:", 1, "(d) 943 females per 1,000 males", "E", opts=["933 females per 1,000 males", "1,000 females per 1,000 males", "985 females per 1,000 males", "943 females per 1,000 males"]),
+W("In India, the census is generally conducted every:", 1, "(a) 10 years", "E", opts=["10 years", "5 years", "20 years", "2 years"]),
+W("India became the world's most populous country by overtaking China in:", 1, "(c) 2023", "E", opts=["1991", "2011", "2023", "2050"]),
+W("Among the countries in the chapter's table, the country with the highest median age is:", 1, "(b) Japan, with a median age of 50", "E", opts=["India, with a median age of 28", "Japan, with a median age of 50", "USA, with a median age of 39", "China, with a median age of 40"]),
+W("China introduced its One-Child Policy in:", 1, "(d) 1979", "E", opts=["1950", "1952", "2015", "1979"]),
+W("Fill in the blank: Sex ratio is the number of ______ per 1,000 males.", 1, "females. (1)", "E"),
+W("True or False: If the fertility rate is above 2.1, a country's population is likely to shrink.", 1, "False. Above 2.1 the population is likely to grow; below 2.1 it is likely to shrink. (1)", "E"),
+W("Define 'birth rate' and 'death rate' as used in the chapter.", 2, "Birth rate is the number of live births per 1,000 population in a year (1). Death or mortality rate is the number of deaths per 1,000 people in a year (1).", "E"),
+W("What is migration? Give two reasons why people migrate.", 2, "Movement of people from one place to another, within or outside a country, to settle temporarily or permanently (1). Reasons: better employment, education, natural disasters, political instability (any two, 1).", "E"),
+W("What is life expectancy? What was India's life expectancy at independence and in 2024?", 2, "The average number of years a newborn is expected to live if conditions stay the same (1). About 30 years at independence and 70 years in 2024 (1).", "E"),
+W("Name the three components of demography.", 2, "Size; pattern and trend; structure and composition. (2; 1 mark for two)", "E"),
+W("State two ways governments use population data.", 2, "To plan infrastructure such as schools, hospitals, roads and housing and municipal services like water, energy and waste management (1); to allocate and manage resources, e.g. more schools for many children, more healthcare for many elderly people, more jobs for a large working-age group (1).", "E"),
+W("Match the stage with its description: (a) Stage 1 (b) Stage 2 (c) Stage 3 with (1) death rate falls but birth rate stays high (2) high birth and high death rates (3) low death rate and falling birth rate.", 2, "(a)-(2), (b)-(1), (c)-(3). (Any three correct = 2; two = 1)", "E"),
+W("What is child mortality? How much did India reduce it between 1950 and 2023?", 2, "The number of deaths of children under 5 years of age per 1,000 live births (1). It fell from 271 per 1,000 in 1950 to 28 in 2023 (1).", "E"),
+W("What is the 'working-age population' according to the chapter?", 2, "Individuals between the ages of 15 and 64 years (1), who are generally considered the most productive in economic output and participating in the workforce (1).", "E"),
+# ---------------- MEDIUM ----------------
+W("Why did the world's population grow rapidly from the 1950s? Give three reasons from the chapter.", 3, "Medical advances such as antibiotics, vaccines and oral rehydration solution (1); better water and sanitation and fewer child deaths from malaria and diarrhoea (1); benefits of economic prosperity reaching more people (1). People lived longer because of improved healthcare.", "M"),
+W("India's population was 1,020 million in 2001 and 1,210 million in 2011. Find (i) the increase and (ii) the percentage increase over 2001, correct to one decimal place.", 3, "(i) 1,210 - 1,020 = 190 million (1). (ii) 190 / 1,020 x 100 = 18.6% (2).", "M", wp=True),
+W("India had 361 million people in 1951 and 1,460 million in 2025. Find the increase and say roughly how many times the population grew.", 3, "Increase = 1,460 - 361 = 1,099 million (1.5). 1,460 / 361 = about 4.04, so roughly four times (1.5).", "M", wp=True),
+W("A village has a birth rate of 20 and a death rate of 8 per 1,000. (i) Find the natural increase per 1,000. (ii) If the village has 5,000 people, estimate the increase in one year.", 3, "(i) 20 - 8 = 12 per 1,000 (1.5). (ii) 5,000 / 1,000 x 12 = 60 people (1.5). (Migration is ignored.)", "M", wp=True),
+W("Table-based. State/fertility rate/female literacy: Bihar 3.0 / 55%; Uttar Pradesh 2.4 / 66.1%; Karnataka 1.7 / 73.4%; Punjab 1.6 / 79.4%; Delhi 1.6 / 83.7%. What relationship do you see? Give one possible reason.", 3, "The states with higher female literacy have lower fertility rates; Bihar (lowest literacy, 55%) has the highest fertility (3.0), Delhi (83.7%) has 1.6 (2). Educated women tend to marry later, take up jobs and have fewer children (1).", "M"),
+W("Give three reasons why fertility and birth rates are falling in many countries.", 3, "Better access to quality education, especially for girls (1); women in formal jobs marry later and have fewer children (1); urbanisation and high cost of living, so people prefer smaller families (1).", "M"),
+W("What was the One-Child Policy? State two effects mentioned in the chapter.", 3, "A Chinese policy of 1979 allowing most families only one child, with fines or job loss for breaking it (1). Effects: fertility fell from 7.5 in 1963 to 1 in 2025; population peaked at 1.43 billion in 2022 and started shrinking; elderly share to rise from 14% to 26% by 2050; a generation without siblings; fewer young workers (any two, 2).", "M"),
+W("India's fertility rate fell from 5.7 in 1950 to 1.9 in 2025. Find the fall and express it as a percentage of the 1950 rate. Name the campaign from 1952 mentioned in the chapter.", 3, "Fall = 5.7 - 1.9 = 3.8 (1). 3.8 / 5.7 x 100 = 66.7% (about two-thirds) (1). The campaign was 'Hum do humare do' (1).", "M", wp=True),
+W("Explain how migration changes the population of cities and what problems it can create.", 3, "Cities like Delhi, Mumbai and Bengaluru grew significantly as people came for jobs and education (1). Concentration of a very large population in a limited area puts pressure on resources like water, air and land (1), and strains transportation and housing (1).", "M"),
+W("Describe the three stages of demographic transition, with the Indian period for each.", 3, "Stage 1: high birth and death rates, slow growth; India 1901-1921 (1). Stage 2: death rate falls but birth rate stays high, rapid growth; India after 1951 (1). Stage 3: low death rate and falling birth rate, growth slows and may reverse; India after the mid-1980s (1).", "M"),
+W("India's sex ratio was 943 in 2011. In a town with 5,000 males following this ratio, how many females would there be? What does a ratio below 1,000 show?", 3, "Females = 943 / 1,000 x 5,000 = 4,715 (2). It shows fewer females than males, a gender imbalance reflecting socio-economic and cultural dynamics (1).", "M", wp=True),
+W("How do you read a population pyramid? What do a wide base, a wide middle and a wide top show?", 3, "A population pyramid shows the number of people by age group and gender, with young at the bottom, adults in the middle and the elderly at the top (1). Wide base: many children, a young and growing population; wide middle: many working adults, a stable population; wide top: more elderly than young adults, an ageing population (2).", "M"),
+W("Median age: India 28, USA 39, China 40, Germany 47, Italy 48, Japan 50. (i) By how many years is Japan's median age above India's? (ii) Arrange the countries from the youngest to the oldest population.", 3, "(i) 50 - 28 = 22 years (1). (ii) India (28), USA (39), China (40), Germany (47), Italy (48), Japan (50) (2).", "M", wp=True),
+W("What is the demographic dividend and why does it help a country grow?", 3, "The economic growth potential of a country resulting from a younger, productive age structure (1). Many working-age people work in factories, offices and farms or start businesses, increasing economic activity (1), earn and pay taxes, which the government uses to build schools, hospitals, roads and parks (1).", "M"),
+W("Why is India's demographic dividend only a 'limited window of opportunity'?", 3, "The number of children under five peaked in 2007 and those under 15 in 2011, and both are now declining (1.5). The growth in the young population is expected to decrease beyond 2050 and India will then begin to move towards an ageing population (1.5).", "M"),
+W("Source-based. 'Population ageing is poised to become one of the most significant social transformations of the twenty-first century.' (Ban Ki-moon). (i) Who said this? (ii) What is population ageing? (iii) Give two challenges it brings.", 3, "(i) Ban Ki-moon, former Secretary-General of the United Nations (0.5). (ii) A rise in the share of elderly people in the population as people live longer and fewer babies are born (1). (iii) Pressure on healthcare, fewer workers to replace retirees, slower economic growth, difficulty in paying pensions with fewer taxpayers (any two, 1.5).", "M"),
+W("Graph-based. In 2024 the bar graph shows India with 144 crore people and China with 140 crore. (i) Find the difference. (ii) World population in 2025 is 8.2 billion (820 crore). Find India's share, correct to the nearest whole number.", 3, "(i) 144 - 140 = 4 crore (1). (ii) 144 / 820 x 100 = 17.6, about 18% (the chapter says around 17 per cent, taking 2023-25 figures) (2). Accept 17 or 18.", "M", wp=True),
+W("Find the mistakes and correct them: 'Sex ratio is the number of males per 1,000 females; the census is held every 5 years; the replacement level fertility rate is 3.'", 2, "Sex ratio is the number of females per 1,000 males (0.7); the census is generally held every 10 years (0.7); the replacement level fertility rate is 2.1 (0.6).", "M"),
+# ---------------- HARD ----------------
+W("Data analysis. Bihar has fertility rate 3.0 and female literacy 55%; Delhi has 1.6 and 83.7%. (i) Find the difference in each. (ii) What can we conclude? (iii) Why should we be careful before saying one causes the other?", 4, "(i) Fertility: 3.0 - 1.6 = 1.4; literacy: 83.7 - 55 = 28.7 percentage points (1.5). (ii) Higher female literacy goes with lower fertility (1). (iii) Other factors such as income, urbanisation, healthcare and age at marriage also matter; a pattern is not proof of cause (1.5).", "H", wp=True),
+W("Case study. In 1979 China introduced the One-Child Policy; it ended in 2015, yet fertility remains below replacement level. (i) Why was it introduced? (ii) What happened to its fertility rate? (iii) What economic worry follows? (iv) What does the later change in the policy show?", 5, "(i) Fear that a fast-growing population would cause shortages of food, jobs and housing (1). (ii) It dropped from 7.5 in 1963 to 1 in 2025 (1). (iii) More elderly people retire and fewer young workers are available, which may slow economic growth (1.5). (iv) China now allows up to three children, but fertility remains low, showing the policy's lasting impact (1.5).", "H", wp=True),
+W("Compare the population pyramids of India in 1950 and in 2020 as described in the chapter, and say what the change shows about births, life expectancy and the economy.", 4, "1950: a narrow triangle with a wide base, many children and young people, few old; high birth rate, low life expectancy (30-35 years) (1.5). 2020: more bell-shaped; narrower base because families have fewer children; a much wider middle of 15-60 year-olds; a slowly widening top as people live longer (1.5). The country moved from a young, fast-growing population to a more balanced one, giving a demographic dividend (1).", "H"),
+W("Application. Suggest the main facilities each town needs: Town A has a wide-based population pyramid; Town B has a wide top; Town C has a very large 20-35 age group. Give two for each and a reason.", 3, "Town A: schools, child healthcare and playgrounds, because there are many children (1). Town B: hospitals, geriatric care, pension and community centres for the elderly (1). Town C: jobs, skilling centres, housing and transport for the many young workers (1).", "H", wp=True),
+W("How has Japan tried to manage an ageing population? Why might a developing country like India still look at these steps carefully?", 4, "Japan has raised the retirement age, used technology and automation for labour shortages, and built community centres with robots and AI assistants to care for older adults (2). India's median age is 28, but after 2050 it will begin to age; states like Kerala and Tamil Nadu are already ageing faster, so planning ahead for healthcare and pensions is wise (2).", "H"),
+W("What must a developing country do to turn its demographic dividend into lasting progress? Explain the 'double burden' faced by women.", 4, "Invest in good education, skilling and healthcare so that young people are productive (1.5). Women with formal jobs often manage both job and household responsibilities, the 'double burden' (1); lack of childcare, joint-family support and flexible work hours makes it hard to work, so daycare centres and supportive families help (1.5).", "H"),
+W("Compare India and Japan on median age, age structure and the likely challenge each faces.", 4, "India: median age 28; about 27% under 15 and 65% of working age, a large young workforce (demographic dividend); challenge: use the window with education, skills and jobs before 2050 (2). Japan: median age 50; population pyramid with a wide top, ageing and shrinking population; challenge: caring for the elderly, labour shortage and pensions (2).", "H"),
+W("HOTS. The replacement rate is 2.1, not 2. Suggest why it should be a little above 2, and say in what situations it could be even higher.", 3, "Two children per couple would exactly replace the parents, but some children may not survive to adulthood or may not have children, so a little more than 2 is needed (2). It is higher where child mortality is high (1). (Reasoned answers are accepted.)", "H"),
+W("Decade data (million): 1951: 361; 1961: 439; 1971: 548; 1981: 683; 1991: 846; 2001: 1,020; 2011: 1,210. (i) Find the increase in each decade. (ii) Which decade had the largest increase? (iii) Compare the percentage growth of 1951-61 with 2001-11 (nearest 0.1%). What does this suggest?", 5, "(i) 78, 109, 135, 163, 174, 190 million (1.5). (ii) 2001-2011, with 190 million (1). (iii) 1951-61: 78/361 = 21.6%; 2001-11: 190/1,020 = 18.6% (1.5). The number added keeps rising, but the percentage rate of growth has slowed, as fertility has fallen (1).", "H", wp=True),
+W("Imagine you are researching migration in your locality. Write five questions for your questionnaire and two hypotheses about why people leave or arrive.", 4, "Questions (any five, 0.5 each): name; age; occupation; place of residence; number of years lived there; reason for moving; facilities missing earlier (2.5). Hypotheses (0.75 each): people leave because of limited jobs, poor facilities or weak infrastructure; they arrive for better jobs, education or healthcare (1.5).", "H", wp=True),
+W("Trace the chain: girls' education improves, then what happens to fertility, birth rate, population growth and age structure over time?", 4, "More girls are educated, so women marry later and take up formal jobs (1). They have fewer children, so fertility and birth rate fall (1). Population growth slows, and when fertility falls well below 2.1 the population may stop growing or shrink (1). Meanwhile longer life makes the share of elderly rise, so the pyramid becomes narrow at the base and wider at the top (1).", "H"),
+W("'A high birth rate is always good for a country.' Do you agree? Give two arguments for each side.", 4, "For: more young people may become workers later, a large workforce and market (1); keeps the population young and avoids shrinkage (1). Against: pressure on schools, jobs, housing and resources, and shortages of food and jobs (the reason China acted) (1); slower improvement in education and health per child (1). A balanced view: neither too high nor too low is best. (Reasoned answers accepted.)", "H"),
+W("The chapter gives Asia 4.8 billion and Africa 1.5 billion out of a world population of 8.2 billion in 2025. Find (i) their combined population, (ii) the population of all other regions together, and (iii) Asia's share, correct to the nearest whole number.", 4, "(i) 4.8 + 1.5 = 6.3 billion (1). (ii) 8.2 - 6.3 = 1.9 billion (1). (iii) 4.8 / 8.2 x 100 = 58.5, about 59% (2). (Accept 58 or 59.)", "H", wp=True),
+W("The chapter mentions 'ashrama dharma' and the role of older people. Explain how the elderly contribute even when they withdraw from economic activity, and why this matters in an ageing society.", 3, "Life was divided into four phases: brahmacharya, grihastashrama, vanaprastha and sanyasa; older people withdraw from economic activity but continue to share knowledge and wisdom (1). They guide rituals and storytelling for cultural continuity and hold knowledge not necessarily in books (1). In an ageing society they are not just a burden: their guidance supports families and the community (1).", "H"),
+]
+
+CH = _base()
+CH["blocks"] += [
+ ("h2", "Timeline and Key Dates"),
+ ("table", ["Year", "Event or fact"], [
+  ["1901–1921", "India in Stage 1 of demographic transition: high birth and high death rates"],
+  ["1950", "World population 2.5 billion; India's fertility rate 5.7; child mortality 271 per 1,000"],
+  ["1952", "'Hum do humare do' campaign begins in India"],
+  ["After 1951", "India's population grows rapidly (Stage 2)"],
+  ["1979", "China's One-Child Policy begins"],
+  ["Mid-1980s", "India's fertility rate begins to decline (Stage 3)"],
+  ["2001 / 2011", "Sex ratio 933 / 943; population 1,020 / 1,210 million"],
+  ["2007 / 2011", "India's under-5 / under-15 population peaks"],
+  ["2015", "China ends the One-Child Policy (now up to three children)"],
+  ["2022", "China's population peaks at 1.43 billion"],
+  ["2023", "India overtakes China as the most populous country; child mortality 28 per 1,000"],
+  ["2024 / 2025", "India's life expectancy 70 years / world population 8.2 billion; India's fertility 1.9"],
+  ["2050", "World population expected 9.7 billion; India begins to age"],
+  ["Mid-2080s", "World population projected to peak at 10.3 billion"]]),
+ ("h2", "Key Terms and Formulas"),
+ ("table", ["Term", "Meaning"], [
+  ["**Demography**", "Study of human population: size, structure, change"],
+  ["**Census**", "Official count of people in a country, generally every 10 years in India"],
+  ["**Birth rate**", "Live births per 1,000 population per year"],
+  ["**Death (mortality) rate**", "Deaths per 1,000 population per year"],
+  ["**Fertility rate**", "Average number of children a woman has in her lifetime"],
+  ["**Replacement level**", "2.1 children per woman"],
+  ["**Child mortality**", "Deaths of children under 5 per 1,000 live births"],
+  ["**Life expectancy**", "Average years a newborn is expected to live"],
+  ["**Migration**", "Movement of people from one place to another"],
+  ["**Sex ratio**", "Females per 1,000 males"],
+  ["**Population pyramid**", "Graph of age and gender structure"],
+  ["**Working-age population**", "Ages 15 to 64 (the chapter also uses 15–59 for India's figure)"],
+  ["**Youth bulge**", "A large young population (16–30)"],
+  ["**Demographic dividend**", "Growth potential from a young, productive age structure"],
+  ["**Median age**", "The age that divides a population into two equal halves"],
+  ["**Pension**", "Regular payment by the state to those above retirement age"]]),
+ ("note", "FORMULA", "Natural increase per 1,000 = birth rate − death rate. Percentage change = (change ÷ original) × 100. Sex ratio = (number of females ÷ number of males) × 1,000."),
+ ("h2", "Worked Examples"),
+ ("steps", [
+  ("Example 1 — Percentage growth", "India: 1,020 million (2001) → 1,210 million (2011). Increase = 190 million. Growth = 190 ÷ 1,020 × 100 = 18.6%."),
+  ("Example 2 — Natural increase", "Birth rate 22, death rate 7 per 1,000. Natural increase = 22 − 7 = 15 per 1,000 (1.5%). In a town of 2 lakh people: 200 × 15 = 3,000 more people in a year, ignoring migration."),
+  ("Example 3 — Sex ratio", "A district has 8,000 males and 7,600 females. Sex ratio = 7,600 ÷ 8,000 × 1,000 = 950 females per 1,000 males; this is slightly above India's 943 (2011)."),
+  ("Example 4 — Fall in fertility", "5.7 (1950) → 1.9 (2025). Fall = 3.8. As a percentage of 5.7 = 66.7%.")]),
+ ("h2", "Comparing Countries and Stages"),
+ ("table", ["Feature", "India", "China", "Japan"], [
+  ["Median age (years)", "28", "40", "50"],
+  ["Population trend", "Still growing for now; will begin to age after 2050", "Peaked at 1.43 billion in 2022; shrinking", "Shrinking and ageing"],
+  ["Fertility", "1.9 (2025), below replacement", "1 (2025), far below replacement", "Low fertility"],
+  ["Pyramid", "Becoming bell-shaped", "Narrow base, wide middle, ageing", "Wide top"],
+  ["Main challenge", "Use the dividend with education, skills, jobs", "Fewer workers, more elderly", "Care for elderly, labour shortage"]]),
+ ("table", ["Stage", "Birth rate", "Death rate", "Growth", "Example"], [
+  ["1", "High", "High", "Very slow", "India 1901–1921"],
+  ["2", "High", "Falling", "Rapid", "India after 1951"],
+  ["3", "Falling", "Low", "Slowing, may shrink", "India after mid-1980s; Italy, Japan, South Korea"]]),
+ ("h2", "Map and Graph Pointers"),
+ ("ul", ["On a world map locate the ten most populous countries of 2024 (Fig. 6.3): **India, China, United States, Indonesia, Pakistan, Nigeria, Brazil, Bangladesh, Russia, Mexico**; note India (about 144 crore) and China (about 140 crore) far ahead of the rest.",
+  "Mark countries with shrinking populations (**China, Japan, Italy**) and countries growing rapidly (**Nigeria, Ethiopia**).",
+  "On India's map mark **Uttar Pradesh** (largest share, about 16%), **Maharashtra, Bihar, West Bengal** (the next largest); **Kerala, Tamil Nadu and Puducherry** (sex ratio near or above 1,000); **Bihar, Uttar Pradesh** (high fertility) and **Delhi, Punjab, Karnataka** (low fertility).",
+  "Practise reading the line graphs of world population (2.5 billion in 1950 to a peak near 10.3 billion) and India's growth (361 million in 1951 to 1,460 million in 2025), and the population pyramids for 1950, 1990, 2020 and 2030."]),
+ ("h2", "Cause and Effect"),
+ ("table", ["Cause", "Effect"], [
+  ["Medical advances, sanitation, nutrition", "Lower death rate, longer life, rapid population growth"],
+  ["Girls' education and women's jobs", "Later marriage, fewer children, falling fertility"],
+  ["Urbanisation and high cost of living", "Preference for smaller families"],
+  ["Fertility below 2.1 for a long time", "Population stops growing and shrinks, ageing follows"],
+  ["Large working-age group", "Demographic dividend if there are jobs and skills"],
+  ["Ageing population", "Higher healthcare costs, fewer workers, pension strain"],
+  ["Migration to cities", "Population growth in cities, pressure on water, land, housing, transport"]]),
+ ("h2", "Likely 3 and 5 Mark Answers"),
+ ("qa", [
+  ("What is demographic dividend? How can India use it? (5 marks)", "It is the economic growth potential of a country from a large working-age population: they work, increase economic activity and pay taxes that fund schools, hospitals and roads. About 65% of Indians are of working age. India must invest in education, skilling and healthcare, create jobs, and support women's participation with childcare and flexible hours, before the young population declines after 2050."),
+  ("Explain the three stages of demographic transition. (5 marks)", "Stage 1: high birth and death rates, so very slow growth (India 1901–1921). Stage 2: death rate falls with better healthcare but birth rate stays high, so rapid growth (India after 1951). Stage 3: death rate low and birth rate falls with urbanisation, income, education and women in work; growth slows and may become negative, as in Italy, Japan and South Korea. India's fertility has been falling since the mid-1980s."),
+  ("Why is it important to study demography? (3 marks)", "Governments plan schools, hospitals, roads, housing and services using population data; the age structure shows whether to build more schools, healthcare or jobs. Businesses study age, gender and income. It helps allocate and manage resources."),
+  ("Why do countries have different population pyramids? (3 marks)", "Birth rates, death rates and life expectancy differ. A wide base shows a young, growing population (Nigeria, India in 1950); a wide middle shows a large working population (India today); a wide top shows an ageing population (Japan)."),
+ ]),
+]
+CH["takeaways"] += ["Know the numbers: replacement fertility 2.1; India's sex ratio 933 (2001) and 943 (2011); fertility 5.7 to 1.9; child mortality 271 to 28; life expectancy 30 to 70.",
+  "Population change depends on births, deaths and migration; pyramids show age structure.",
+  "Be ready to calculate natural increase, percentage growth and sex ratio from given data."]
+
+if __name__ == "__main__": run(__file__, BANK, 8, "Social_Science", WS, CH)
