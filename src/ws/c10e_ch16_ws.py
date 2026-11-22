@@ -141,4 +141,11 @@ CH = dict(num=16, title="The Necklace", tag="English - Footprints Without Feet",
  ("h2", "10. Likely questions with model answers"),
  ("qa", [
   ("What kind of person is Mme Loisel and why is she unhappy?", "She is pretty but vain and discontented. She longs for luxury and feels she was born for a richer life, so she is unhappy with her simple home."),
-  ("What kind of 
+  ("What kind of person is her husband?", "Loisel is simple, kind and contented; he gives up his gun money and works hard to repay the debt."),
+  ("What fresh problem disturbs Mme Loisel after the dress is bought? How is it solved?", "She has no jewels. Her husband suggests that she borrow from Mme Forestier, who lends her a diamond necklace."),
+  ("How did the Loisels replace the necklace?", "They bought a similar one for thirty-six thousand francs using eighteen thousand left by Loisel's father and money borrowed from lenders."),
+  ("What is the irony in the story?", "The Loisels ruined themselves for a necklace that was worth only five hundred francs."),
+  ("What moral does the story teach?", "Be honest, be content with what you have and do not try to show off with borrowed things.")]),
+ ],
+ takeaways=["The story is by Guy de Maupassant and is set in Paris.", "Matilda is pretty but discontented; her husband is a simple clerk.", "She borrows a diamond necklace from Mme Forestier for the Minister's ball.", "She loses it and they replace it for thirty-six thousand francs, borrowing heavily.", "They work for ten years to repay the debt and Matilda grows old.", "The twist: Mme Forestier's necklace was false, worth not over five hundred francs.", "Moral: honesty, contentment, and not showing off."])
+if __name__ == "__main__": run(__file__, BANK, 10, "English", WS, CH)
