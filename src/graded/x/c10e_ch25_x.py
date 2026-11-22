@@ -4,6 +4,6 @@ MISTAKES = [
  'Missing the personification: the trees <b>try to leave</b>, a symbol of freedom.',
  "Treating the poem as only about nature; it also suggests <b>freedom from confinement</b>, even women's longing for release.",
  'Mixing the poet: <b>Adrienne Rich</b>, who writes in free verse about nature and human liberty.',
- "Ignoring the images, such as the cold night and the moon 'broken like a mast'; write one image with its meaning.",
+ "Ignoring the images, such as the trees pressing against the glass; write one image with its meaning.",
  'Spelling slips: <i>glass, forest, personification, free verse, inching</i>.',
 ]
