@@ -1,0 +1,12 @@
+# Review brief — chapter worksheets, answer keys and detailed notes (src/ws)
+
+Repo: D:\Coaching Chapterwise PDFs. Each chapter has `src/ws/<bank>_ws.py` (contains `WS` = ~50 graded questions with marks, level E/M/H, answers, and `CH` = detailed notes) and three PDFs: `Class_NN/<Subject>/Worksheets/ChNN_<slug>_Worksheet.pdf`, `..._Worksheet_Answer_Key.pdf`, `Class_NN/<Subject>/Chapter_Notes/ChNN_<slug>_Chapter_Notes.pdf`. They were written quickly by other agents; you are the independent reviewer. Read `src/ws/WS_BRIEF.md` and `src/ws/libws.py` first (rules of the format).
+
+## For each assigned chapter
+1. **Answers**: read the `WS` list in the .py file (questions, answers, marks, levels). Verify EVERY numerical answer by recomputing (python) and every factual answer by reasoning/NCERT PDF (`NCERT_Books/Class_NN/...`, pymupdf). For MCQs confirm exactly one option is correct and the three others are plausible but wrong. Look for: wrong answers, answers that need a figure that is not given, questions with two valid answers, off-syllabus items (see `src/graded/AGENT_BRIEF.md` exclusions), difficulty tags that are clearly wrong (an 'Easy' that is multi-step, a 'Hard' that is a one-liner), marks that do not match the work shown, duplicate or near-duplicate questions, answers that contradict the notes.
+2. **Notes** (`CH`): check formulas, definitions, dates/names/facts, worked examples (recompute), and tables for errors or claims not supported by the NCERT chapter; remove or correct what you cannot confirm.
+3. **Layout**: render/view at least the first worksheet page and one notes page per class set (pymupdf -> PNG) to confirm nothing is clipped or garbled.
+4. **Fix** every confirmed problem directly in the `src/ws/<bank>_ws.py` file (keep the format and the validator rules: 48-56 questions, each level >= 10, word-problem minimums, notes >= 1400 words) and re-run `python src/ws/<bank>_ws.py` so the PDFs are regenerated. Do not restructure the file. Do not touch other agents' files, and do not git commit/push/checkout/reset/stash. In notes text use `&lt;`/`&gt;` for raw < >.
+5. **Log**: write `docs/review_logs/<your-label>.md` listing, per chapter: issues found, fixed (what changed), and left unresolved (with reason). Be honest about what you could not verify.
+
+Final report (<= 10 lines): chapters reviewed, counts of issues found/fixed, anything still doubtful that a teacher should check.
