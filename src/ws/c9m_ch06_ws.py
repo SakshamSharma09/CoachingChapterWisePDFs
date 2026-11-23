@@ -105,6 +105,9 @@ W("A decorative window is the part of a circle of radius $14$ cm cut off by a ch
 W("If the circumference of a circle is increased by $10\\%$, by what percentage does its area increase? Check with a circle of circumference $44$ cm.", 4, "Circumference $\\propto r$, so the radius also becomes $1.1r$ (1). Area becomes $\\pi(1.1r)^2=1.21\\pi r^2$ (1), an increase of $21\\%$ (1). Check: $44$ cm gives $r=7$, area $154$; new circumference $48.4$ gives $r=7.7$, area $186.34=1.21\\times154$ (1).", "H"),
 ]
 
+for _w in WS:   # answer-key/question renderer does not interpret **bold**
+    _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
+
 _o = _old(6)
 _pre, _tail = _o["blocks"][:-2], _o["blocks"][-2:]
 _extra = [

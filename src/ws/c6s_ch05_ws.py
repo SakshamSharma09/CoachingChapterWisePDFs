@@ -43,7 +43,7 @@ W("Why do the friends in the chapter get different answers when asked which is n
 W("Define motion and rest.", 2, "An object is in motion if its position changes with respect to a reference point with time (1). If the position does not change, it is at rest (1).", "M"),
 W("Give one example each of circular and oscillatory motion.", 2, "Circular: an eraser whirled on a thread. Oscillatory: a swing or hanging eraser (pendulum). (1+1)", "M"),
 W("Find the mistake: \"A tailor measured the cloth with the 15 cm scale placed apart from the cloth and slanting.\"", 2, "The scale should touch the cloth along its length (1) and should lie straight, not slanting (1).", "M", wp=True),
-W("Why is one inch not suitable as a standard unit for all work today? What is 1 inch in cm?", 2, "SI unit metre is the common worldwide system (1). 1 inch = 2.54 cm (1).", "M"),
+W("What is 1 inch in cm? Why do we use common standard units such as the metre instead of handspans?", 2, "1 inch = 2.54 cm (1). A standard unit is the same for everybody, so measurements agree when people trade or travel (1).", "M"),
 W("Name two situations where a km is better to use than a cm.", 2, "Distance between cities, length of a railway track. (1+1)", "M"),
 W("How do visually challenged students measure length?", 1, "They use scales with raised markings. (1)", "M"),
 # ---------------- HARD ----------------
@@ -52,7 +52,7 @@ W("Anish walks 400 m to the bus stand every day. How many metres does he walk in
 W("Meena measured her notebook as 21.5 cm long. Write it in mm. Another notebook is 0.18 m long. Which is longer and by how much?", 4, "21.5 cm = 215 mm (1). 0.18 m = 18 cm (1). The first is longer (1) by 21.5 - 18 = 3.5 cm (1).", "H", wp=True),
 W("A bus goes from Jaipur to Ajmer. The kilometre stones show Ajmer 100 km, then Ajmer 40 km. How far has the bus moved? Why do stones show decreasing numbers?", 3, "Distance covered = 100 - 40 = 60 km (1.5). The reference point is Ajmer and the bus is getting nearer to it, so the numbers decrease (1.5).", "H", wp=True),
 W("On a moving ship on calm sea with no windows you cannot say if it is moving. Explain this using the idea of a reference point.", 3, "Motion needs a reference point outside the ship (1). Inside, everything is moving with the ship, so nothing changes position with respect to us (1). So we cannot tell without looking outside (1).", "H"),
-W("A rollercoaster ball goes straight down, then round a loop, then straight again. Name the motion on each part.", 3, "Straight parts: linear motion (1). Loop: circular motion (1). It does not repeat itself in the same way on the whole track, so the whole path is not simply periodic (1).", "H", wp=True),
+W("A rollercoaster ball goes straight down, then round a loop, then straight again. Name the motion on each part.", 3, "Straight parts: linear motion (1). Loop: circular motion (1). The ball passes along the whole track only once and does not keep repeating its path after fixed intervals, so the whole motion is not periodic (1).", "H", wp=True),
 W("Why are circular and oscillatory motions both periodic but linear motion of a falling stone is not?", 3, "Circular and oscillatory motions repeat their path after fixed times (1.5). A falling stone moves only once down along a straight path and does not repeat (1.5).", "H"),
 W("A cloth seller measures a cloth using her arm length and a customer using his arm length gets a different value. Write two problems this causes in trade and how SI units solve them.", 4, "Arms are different, so the same length gets different values (1). The buyer or seller may feel cheated (1). With the metre scale, everyone gets the same value (1) so trade is fair and clear (1).", "H", wp=True),
 W("A student measured a leaf using a scale having a gap between scale edge and the zero mark. His reading is from 0.5 cm to 8.7 cm. Find its length and explain what he should do if the zero mark is not at the end.", 3, "Length = 8.7 - 0.5 (1) = 8.2 cm (1). Start from another clear mark and subtract the first reading from the last reading (1).", "H", wp=True),
@@ -63,6 +63,12 @@ W("Why should we write the unit with the number, and why is '25' alone not a com
 ]
 
 CH = _base()
+def _fix(x, old, new):
+    if isinstance(x, str): return x.replace(old, new)
+    if isinstance(x, list): return [_fix(i, old, new) for i in x]
+    if isinstance(x, tuple): return tuple(_fix(i, old, new) for i in x)
+    return x
+CH["blocks"] = _fix(CH["blocks"], 'They were body-based and rod-based units used when no common standard existed; angula is still used by carpenters and tailors.', 'They are units (angula is a finger width) mentioned in ancient Indian literature and used in measuring artefacts, architecture and town planning; angula is still used by carpenters and tailors.')
 CH["blocks"] += [
  ("h2", "5.9 Worked Examples: Units and Readings"),
  ("steps", [("Example 1 — Changing units", "Convert 3.2 km to m: 1 km = 1000 m, so 3.2 x 1000 = 3200 m. Convert 450 cm to m: divide by 100, 450 / 100 = 4.5 m. Convert 6.5 cm to mm: multiply by 10, 6.5 x 10 = 65 mm."),

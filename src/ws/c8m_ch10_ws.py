@@ -37,14 +37,14 @@ assert 20*60 == 1200 and 2.4*100/60 == 4
 
 WS = [
 # ---------------- EASY ----------------
-W("The ratio $24:36$ in its simplest form is:", 1, "(b) $2:3$. Divide both terms by the HCF 12. (1)", "E", opts=["$3:2$", "$2:3$", "$4:6$", "$12:18$"]),
+W("The ratio $36:48$ in its simplest form is:", 1, "(b) $3:4$. Divide both terms by the HCF 12. (1)", "E", opts=["$4:3$", "$3:4$", "$6:8$", "$12:16$"]),
 W("If $3:5=12:x$, then $x$ is:", 1, "(c) 20. The multiplier is $12\\div3=4$, so $x=5\\times4=20$. (1)", "E", opts=["15", "17", "20", "36"]),
 W("₹ 800 is divided between two friends in the ratio $3:5$. The larger share is:", 1, "(b) ₹ 500. One part $=800\\div8=100$; larger share $=5\\times100$. (1)", "E", opts=["₹ 300", "₹ 500", "₹ 600", "₹ 160"], wp=True),
 W("If 6 pens cost ₹ 48, then 9 pens cost:", 1, "(c) ₹ 72. Cost per pen $=48\\div6=8$; $9\\times8=72$. (1)", "E", opts=["₹ 54", "₹ 64", "₹ 72", "₹ 96"], wp=True),
 W("On a map, 1 cm represents 5 km. A distance of 4 cm on the map is actually:", 1, "(b) 20 km. $4\\times5=20$. (1)", "E", opts=["9 km", "20 km", "1.25 km", "45 km"], wp=True),
 W("4 workers finish a job in 12 days. At the same rate, 6 workers will finish it in:", 1, "(a) 8 days. Total work $=4\\times12=48$ worker-days; $48\\div6=8$. (1)", "E", opts=["8 days", "18 days", "10 days", "16 days"], wp=True),
 W("In a pie chart a sector has angle $90^\\circ$. It represents:", 1, "(b) $25\\%$ of the data. $\\frac{90}{360}=\\frac14$. (1)", "E", opts=["$10\\%$", "$25\\%$", "$50\\%$", "$90\\%$"]),
-W("Find the ratio of 45 minutes to 2 hours in simplest form.", 2, "Convert: 2 hours $=120$ minutes (1). $45:120=3:8$ (1).", "E", wp=True),
+W("Find the ratio of 40 minutes to 2 hours in simplest form.", 2, "Convert: 2 hours $=120$ minutes (1). $40:120=1:3$ (1).", "E", wp=True),
 W("Rice costs ₹ 60 per kg. Find the cost of 2.5 kg.", 2, "Cost is directly proportional to weight (1). $60\\times2.5=$ ₹ 150 (1).", "E", wp=True),
 W("Two numbers are in the ratio $5:7$ and their sum is 96. Find the numbers.", 2, "One part $=96\\div12=8$ (1). Numbers $40$ and $56$ (1).", "E"),
 W("True or false (give a reason): if two quantities are in inverse proportion, their product stays constant.", 1, "**True.** In inverse proportion, when one quantity is multiplied by $k$ the other is divided by $k$, so $x\\times y$ is unchanged (1).", "E"),

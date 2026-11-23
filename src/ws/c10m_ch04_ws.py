@@ -41,7 +41,7 @@ W(r"Which of the following is a quadratic equation?", 1, r"(b) $(x+1)^2=2(x-3)$.
   opts=[r"$x(x+2)=x^2+3$", r"$(x+1)^2=2(x-3)$", r"$x^3-x=2$", r"$(x-2)(x+1)=(x-1)(x+3)$"]),
 W(r"The roots of $x^2-5x+6=0$ are:", 1, r"(a) 2 and 3. $x^2-5x+6=(x-2)(x-3)$. (1)", "E", opts=["2, 3", "-2, -3", "1, 6", "-2, 3"]),
 W(r"The discriminant of $2x^2-4x+3=0$ is:", 1, r"(a) $-8$. $D=b^2-4ac=16-24=-8$. (1)", "E", opts=["-8", "8", "40", "-40"]),
-W(r"The equation $x^2-4x+4=0$ has:", 1, r"(b) two equal real roots. $D=16-16=0$; the root is $x=2$ (repeated). (1)", "E", opts=["two distinct real roots", "two equal real roots", "no real roots", "exactly one real and one imaginary root"]),
+W(r"The equation $x^2-4x+4=0$ has:", 1, r"(b) two equal real roots. $D=16-16=0$; the root is $x=2$ (repeated). (1)", "E", opts=["two distinct real roots", "two equal real roots", "no real roots", "two real roots 2 and $-2$"]),
 W(r"The equation $x^2+x+1=0$ has:", 1, r"(c) no real roots. $D=1-4=-3<0$. (1)", "E", opts=["two distinct real roots", "two equal real roots", "no real roots", "one real root"]),
 W(r"If $x=2$ is a root of $x^2-x+k=0$, then $k$ is:", 1, r"(a) $-2$. $4-2+k=0\Rightarrow k=-2$. (1)", "E", opts=["-2", "2", "-6", "6"]),
 W(r"The product of two consecutive positive integers is 56. If the smaller is $x$, the equation is:", 1, r"(a) $x^2+x-56=0$. $x(x+1)=56\Rightarrow x^2+x-56=0$ (integers 7 and 8). (1)", "E", opts=[r"$x^2+x-56=0$", r"$x^2-x-56=0$", r"$x^2+x+56=0$", r"$x^2-56=0$"]),

@@ -75,7 +75,7 @@ W("In a class of 50 students, $60\\%$ are girls. $40\\%$ of the girls and $25\\%
 W("Anil calculated the compound interest on ₹ 2000 at $10\\%$ for 2 years as $2000\\times\\frac{20}{100}=$ ₹ 400. Find and correct his mistake.", 3, "He added the interest of the two years without compounding, which is simple interest (1). Correct amount $=2000\\times1.1\\times1.1=2420$ (1). $CI=$ ₹ 420 (1).", "H"),
 W("Show with an example and in general that $x\\%$ of $y$ equals $y\\%$ of $x$. Use it to find $8\\%$ of 50 quickly.", 3, "Example: $10\\%$ of $50=5$ and $50\\%$ of $10=5$ (1). In general $\\frac{x}{100}\\times y=\\frac{xy}{100}=\\frac{y}{100}\\times x$ (1). $8\\%$ of $50=50\\%$ of $8=4$ (1).", "H"),
 W("The length of a rectangle is increased by $20\\%$ and its breadth is decreased by $10\\%$. Find the per cent change in its area.", 3, "New area $=1.2l\\times0.9b=1.08\\,lb$ (2). Area increases by $8\\%$ (1).", "H"),
-W("A shopkeeper gives two successive discounts of $20\\%$ and $10\\%$ on a TV marked ₹ 2500. Find the price paid and the single equal discount per cent.", 3, "After $20\\%$: $2500\\times0.8=2000$ (1). After $10\\%$: $2000\\times0.9=1800$ (1). Single discount $=\\frac{700}{2500}\\times100=28\\%$, not $30\\%$ (1).", "H", wp=True),
+W("A shopkeeper gives two successive discounts of $25\\%$ and $20\\%$ on a TV marked ₹ 2500. Find the price paid and the single equal discount per cent.", 3, "After $25\\%$: $2500\\times0.75=1875$ (1). After $20\\%$: $1875\\times0.8=1500$ (1). Single discount $=\\frac{1000}{2500}\\times100=40\\%$, not $45\\%$ (1).", "H", wp=True),
 W("A sum amounts to ₹ 4840 in 2 years and ₹ 5324 in 3 years at compound interest. Find the rate per cent and the sum.", 4, "Interest for the third year $=5324-4840=484$ on ₹ 4840 (1). Rate $=\\frac{484}{4840}\\times100=10\\%$ (1). Sum $=\\frac{4840}{1.1^2}$ (1) $=$ ₹ 4000 (1).", "H", wp=True),
 W("The difference between the compound interest and the simple interest on a sum for 2 years at $10\\%$ per annum is ₹ 50. Find the sum.", 4, "On ₹ $P$: $CI=0.21P$, $SI=0.20P$ (2). Difference $=0.01P=50$ (1). $P=$ ₹ 5000 (1).", "H", wp=True),
 W("A population of 50,000 increases by $10\\%$ in the first year and decreases by $10\\%$ in the second. Find the population after 2 years and the net per cent change.", 4, "After year 1: $55000$ (1). After year 2: $55000\\times0.9=49500$ (1). Net change $=-500$ (1), i.e. $1\\%$ decrease (1).", "H", wp=True),
@@ -129,5 +129,18 @@ _extra = [
 ]
 CH = dict(_o, num=8, blocks=_pre + _extra + _tail,
           takeaways=_o["takeaways"] + ["A **multiplier** (1.25 for +25%, 0.85 for −15%) turns every per cent problem into one multiplication or division.", "To find the **original** value from a changed value, **divide** by the multiplier; do not subtract the per cent.", "Compound interest and depreciation repeat the multiplier once per year: A = P(1 ± R/100)<sup>n</sup>."])
+
+
+def _sub(x, P):
+    """review fix: exact text replacements inside the notes blocks"""
+    if isinstance(x, str):
+        for a, b in P: x = x.replace(a, b)
+        return x
+    if isinstance(x, list): return [_sub(i, P) for i in x]
+    if isinstance(x, tuple): return tuple(_sub(i, P) for i in x)
+    if isinstance(x, dict): return {k: _sub(v, P) for k, v in x.items()}
+    return x
+_P = [("Reading ‘165% of’ as ‘65% more’ differently", "Treating ‘165% of the old value’ and ‘65% more than the old value’ as different amounts")]
+CH = _sub(CH, _P)
 
 if __name__ == "__main__": run(__file__, BANK, 8, "Maths", WS, CH)

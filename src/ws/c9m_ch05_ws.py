@@ -47,7 +47,7 @@ W("In a merry-go-round with centre $O$, two seats $A$ and $B$ are on the rim and
 W("A bangle has radius $5$ cm. Rina draws a chord $8$ cm long inside it. How far is the chord from the centre?", 2, "Half the chord $=4$ cm (1). $d=\\sqrt{5^2-4^2}=3$ cm (1).", "E", wp=True),
 W("True or false (give a reason): through two given points exactly one circle can be drawn.", 1, "**False.** Infinitely many circles pass through two points; their centres lie on the perpendicular bisector of the segment joining them. (1)", "E"),
 W("Chords $AB$ and $CD$ of a circle with centre $O$ are equal and $\\angle AOB=70^\\circ$. Find $\\angle COD$ and give the reason.", 2, "$\\angle COD=70^\\circ$ (1), as equal chords subtend equal angles at the centre (1).", "E"),
-W("The points $A$, $B$, $C$ and $D$ lie on a circle with $C$ and $D$ on the same side of $AB$. If $\\angle ACB=35^\\circ$, find $\\angle ADB$ and $\\angle AOB$.", 2, "Angles in the same segment are equal: $\\angle ADB=35^\\circ$ (1). $\\angle AOB=2\\times35^\\circ=70^\\circ$ (1).", "E"),
+W("The points $A$, $B$, $C$ and $D$ lie on a circle with centre $O$, with $C$ and $D$ on the same side of $AB$. If $\\angle ACB=35^\\circ$, find $\\angle ADB$ and $\\angle AOB$.", 2, "Angles in the same segment are equal: $\\angle ADB=35^\\circ$ (1). $\\angle AOB=2\\times35^\\circ=70^\\circ$ (1).", "E"),
 W("In a cyclic quadrilateral $PQRS$, $\\angle P=2x$ and $\\angle R=3x$ (in degrees). Find $x$ and the two angles.", 2, "Opposite angles add to $180^\\circ$: $5x=180$, $x=36$ (1). $\\angle P=72^\\circ$ and $\\angle R=108^\\circ$ (1).", "E"),
 # ---------------- MEDIUM ----------------
 W("A circular water pipe has a diameter of $26$ cm. When water flows in it, the water surface is a straight line $24$ cm wide. Find how far the surface is from the centre of the pipe and the depth of water if the pipe is less than half full.", 3, "Radius $=13$ cm; half the surface width $=12$ cm (1). Distance from centre $=\\sqrt{13^2-12^2}=5$ cm (1). Depth of water (less than half full) $=13-5=8$ cm (1).", "M", wp=True),
@@ -85,6 +85,9 @@ W("The angles of a cyclic quadrilateral $ABCD$ are $\\angle A=(6x+10)^\\circ$, $
 W("The angles of a quadrilateral $ABCD$ taken in order are $75^\\circ$, $95^\\circ$, $105^\\circ$ and $85^\\circ$. Prove that it is cyclic. Would it still be cyclic if the angles were $75^\\circ$, $105^\\circ$, $95^\\circ$ and $85^\\circ$ in order? Explain.", 3, "Opposite pairs: $75^\\circ+105^\\circ=180^\\circ$ and $95^\\circ+85^\\circ=180^\\circ$, so it is cyclic by the converse (1). In the second order the opposite pairs are $75^\\circ+95^\\circ=170^\\circ$ and $105^\\circ+85^\\circ=190^\\circ$ (1), so it is not cyclic (1).", "H"),
 W("Three villages are at $A(0,0)$, $B(8,0)$ and $C(0,6)$ on a map ($1$ unit $=1$ km). A well is to be dug equally far from all three. (i) Explain why exactly one such place exists. (ii) Find its coordinates and its distance from each village. (iii) What do you notice about $\\angle BAC$ and the segment $BC$?", 5, "(i) The villages are not collinear, so exactly one circle passes through them; its centre is the only point equidistant from all three (1). (ii) $\\angle A=90^\\circ$, so $BC$ is a diameter and the centre is the midpoint of $BC$: $(4,3)$ (2). $BC=\\sqrt{64+36}=10$, so the distance is $5$ km (1). (iii) $\\angle BAC=90^\\circ$ is an angle in a semicircle, so $BC$ is a diameter (1).", "H", wp=True),
 ]
+
+for _w in WS:   # answer-key/question renderer does not interpret **bold**
+    _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
 
 _o = _old(5)
 _pre, _tail = _o["blocks"][:-2], _o["blocks"][-2:]

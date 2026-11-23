@@ -90,6 +90,9 @@ W("In the square-root spiral, the first right triangle has legs $1$ and $1$; eac
 W("Ritu measures the diagonal of a square tile of side $30$ cm as $42.4$ cm. Sana calculates it using $\\sqrt2=1.414$. (i) Write the exact diagonal. (ii) Find Sana's value. (iii) Explain, using the nature of $\\sqrt2$, why a ruler can never give the exact diagonal as a finite decimal.", 4, "(i) Diagonal $=30\\sqrt2$ cm (1). (ii) $30\\times1.414=42.42$ cm (1). (iii) $\\sqrt2$ is irrational: its decimal expansion neither terminates nor repeats, so any measured or calculated decimal is only an approximation ($30\\sqrt2\\approx42.4264$) (2).", "H", wp=True),
 ]
 
+for _w in WS:   # answer-key/question renderer does not interpret **bold**
+    _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
+
 _o = _old(3)
 _pre, _tail = _o["blocks"][:-2], _o["blocks"][-2:]
 _extra = [

@@ -79,7 +79,7 @@ W(r"Which of these expressions have the same value? (i) $5+3\times2$ (ii) $(5+3)
   r"Values: (i) 11, (ii) 16, (iii) 11, (iv) 13 (1). So (i) and (iii) are equal (1).", "M"),
 
 # ------------------------------------------------------------------ HARD (14)
-W("A cab charges a fixed fare of ₹50, plus ₹14 for every km and ₹2 for every minute of waiting. Write an expression for the bill for a 18 km ride with 10 minutes of waiting and evaluate it.", 3,
+W("A cab charges a fixed fare of ₹50, plus ₹14 for every km and ₹2 for every minute of waiting. Write an expression for the bill for an 18 km ride with 10 minutes of waiting and evaluate it.", 3,
   r"$50+14\times18+2\times10$ (1.5) $=50+252+20=₹322$ (1.5).", "H", wp=True),
 W(r"Using the digits 1, 2, 3, 4 each exactly once with +, −, ×, ÷ and brackets, write expressions equal to (i) 10 (ii) 24 (iii) 1.", 4,
   r"Sample answers: (i) $1\times2\times3+4=10$ (1.5). (ii) $(1+2+3)\times4=24$ (1.5). (iii) $(4-3)\times(2-1)=1$ (1). Any valid expressions get full marks.", "H"),
@@ -150,7 +150,7 @@ CH = dict(num=2, title="Arithmetic Expressions", tag="Maths (Part 1)",
             ("Step 3 — Evaluate by BODMAS", "Show each line; do not skip the order of operations."),
             ("Step 4 — Check the units and sense", "A fare, a bill or a score must be reasonable.")]),
  ("steps", [("Example 4 — Fair tickets", "Adult ticket ₹60, child ticket ₹35. A family of 2 adults and 3 children pays with ₹500. Change = 500 − (2 × 60 + 3 × 35) = 500 − 225 = **₹275**."),
-            ("Example 5 — Taxi fare", "Auto charge ₹30 for the first 2 km and ₹12 per km afterwards. For 9 km: 30 + (9 − 2) × 12 = 30 + 84 = **₹114**."),
+            ("Example 5 — Auto-rickshaw fare", "Auto charge ₹30 for the first 2 km and ₹12 per km afterwards. For 9 km: 30 + (9 − 2) × 12 = 30 + 84 = **₹114**."),
             ("Example 6 — Quiz scoring", "+4 for correct, −1 for wrong, 0 for unattempted. 18 correct and 5 wrong: 18 × 4 − 5 × 1 = 72 − 5 = **67**. Working backwards, a score of 59 with 15 correct answers: 15 × 4 = 60, so 1 wrong answer, and 25 − 15 − 1 = **9** unattempted."),
             ("Example 7 — Farmer's income", "40 kg bajra at ₹28 and 25 kg moong at ₹90, minus ₹650 transport and ₹150 stall fee: 40 × 28 + 25 × 90 − (650 + 150) = 1120 + 2250 − 800 = **₹2,570**.")]),
  ("h2", "2.6 Properties That Save Work"),

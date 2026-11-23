@@ -105,8 +105,8 @@ W("The total amount of water on Earth stays the same, yet it goes through change
   "Sun's heat evaporates water from oceans and rivers, and plants lose vapour by transpiration; vapour condenses into clouds (1). Water returns as rain, snow or hail (1). It flows to rivers, lakes and oceans or seeps into the ground; thus the water cycle redistributes and replenishes water while the total remains the same (1).", "H"),
 W("A room heater and an air conditioner are to be fitted in a room. Where should each be fitted (near the floor or near the ceiling)? Justify with convection.", 4,
   "The heater should be near the floor (1): the warm air rises and the whole room is warmed by convection currents as the cooler air sinks to the heater (1). The air conditioner should be near the ceiling (1): the cooled air is heavier and sinks, while warm air rises to the cooler, setting up a circulation (1).", "H", wp=True),
-W("Match each with its mode of heat transfer and justify: (i) heat from the Sun reaches Earth (ii) iron rod heated at one end becomes hot at the other (iii) water in a beaker heated from below becomes hot throughout (iv) a hot utensil cools by giving heat to the surroundings.", 4,
-  "(i) radiation, no medium needed; (ii) conduction, particles pass heat along; (iii) convection, hot water rises and cooler sinks; (iv) radiation, as all objects radiate heat (and some heat is also lost by conduction and convection to the air). 1 mark for each correct match with justification.", "H"),
+W("Match each with its mode of heat transfer and justify: (i) heat from the Sun reaches Earth (ii) iron rod heated at one end becomes hot at the other (iii) water in a beaker heated from below becomes hot throughout (iv) warmth felt on the face while sitting a little away from a bonfire.", 4,
+  "(i) radiation, no medium needed; (ii) conduction, particles pass heat along; (iii) convection, hot water rises and cooler sinks; (iv) radiation, as heat reaches the face directly from the fire without needing a medium. 1 mark for each correct match with justification.", "H"),
 ]
 
 _ns = {}

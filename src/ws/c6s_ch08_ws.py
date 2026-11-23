@@ -26,7 +26,7 @@ W("Name two other substances, besides water, that can exist as solid and liquid.
 W("Which state of water has no fixed shape and flows?", 1, "Liquid water. (1)", "E"),
 W("What is the water cycle? Answer in one line.", 2, "The continuous circulation of water between the Earth's surface and the atmosphere through evaporation, condensation and rain. (2)", "E"),
 W("Name two forms in which water falls from clouds.", 2, "Rain and snow (or hail). (1+1)", "E"),
-W("Why does the smell of food cooking in the kitchen reach us in other rooms?", 1, "Gases spread out in all directions through the air. (1)", "E"),
+W("Name the process by which water vapour in the air changes into tiny water droplets when it cools.", 1, "Condensation. (1)", "E"),
 # ---------------- MEDIUM ----------------
 W("Activity: a tablespoon of water is put on a steel plate in the Sun. After some time the plate is dry. Where did the water go? Why can we say it did not seep into the plate?", 2, "It changed into water vapour by evaporation (1). Steel has no pores for water to seep through (1).", "M"),
 W("Puneet says, \"The drops on the outside of my cold water glass came out from inside through the glass.\" How can you show he is wrong?", 3, "Mark the water level inside the glass before and after (1). If the level does not go down, no water has seeped out (1). The drops come from water vapour in air condensing on the cold surface (1).", "M", wp=True),

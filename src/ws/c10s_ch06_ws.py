@@ -104,7 +104,7 @@ W("The sensitive plant folds its leaves on touch, while the shoot of a bean plan
   "Sensitive plant: change in turgor in cells at the base of the leaf, no growth, fast (1.5). Shoot bending: differential growth caused by auxin, a hormone, slow and permanent (1.5).", "H"),
 W("Mrs Gupta in Jaipur has her blood sugar tested after lunch and again after a long fast. Describe how insulin secretion differs in the two situations and what this shows about feedback.", 3,
   "After a meal the sugar rises, so more insulin is secreted to bring it down (1). After a fast the sugar is low, so less insulin is secreted (1). The level of sugar in the blood controls the amount of insulin, which is a feedback mechanism (1).", "H", wp=True),
-W("Which hormone acts in each of these situations? (i) a student feels frightened before an exam (ii) a child needs to grow taller (iii) the blood sugar level rises after a meal (iv) a hilly-area resident has a swollen neck (v) a seed needs to stay dormant in dry conditions.", 4,
+W("Which hormone acts in each of these situations? (i) a student feels frightened before an exam (ii) a child needs to grow taller (iii) the blood sugar level rises after a meal (iv) a hilly-area resident has a swollen neck (v) a plant under stress has its growth inhibited and its leaves wilt.", 4,
   "(i) Adrenaline (ii) Growth hormone (iii) Insulin (iv) Thyroxine (low because of lack of iodine) (v) Abscisic acid (1 mark for each correct item, maximum 4)", "H", wp=True),
 ]
 

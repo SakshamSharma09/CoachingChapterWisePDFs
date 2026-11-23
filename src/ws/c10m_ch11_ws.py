@@ -87,6 +87,15 @@ for _w in WS:
     _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
 
 _o = _old(11)
+def _fix(o, a, b):
+    """patch one string of the borrowed notes (exactly one hit required)"""
+    hit = [0]
+    def walk(x):
+        if isinstance(x, str) and a in x: hit[0] += 1; return x.replace(a, b)
+        if isinstance(x, (list, tuple)): return type(x)(walk(i) for i in x)
+        return x
+    out = dict(o, blocks=walk(o["blocks"])); assert hit[0] == 1, (a, hit); return out
+_o = _fix(_o, "18.86 cm", "18.85 cm")
 _pre = _o["blocks"][:-2]
 _extra = [
  ("h2", "11.5 More Worked Examples"),

@@ -84,8 +84,9 @@ W(r"**Case study.** A village in Rajasthan plants trees in rows: 5 trees in the 
 W(r"To find the sum of the first 10 terms of the A.P. $2,5,8,\ldots$ Rohan writes $l=2+10\times3=32$ and then $S_{10}=5(2+32)=170$. Find his mistake and the correct sum.", 3, r"He used $l=a+nd$; the last (10th) term is $a+(n-1)d$ (1). $a_{10}=2+9\times3=29$ (1). $S_{10}=5(2+29)=$ **155** (1).", "H"),
 W(r"Find the sum of all natural numbers between 1 and 100 which are divisible by 3 but not by 6.", 3, r"These are the odd multiples of 3: $3,9,15,\ldots,99$ with $d=6$ (1). $99=3+(n-1)6\Rightarrow n=17$ (1). $S=\dfrac{17}2(3+99)=$ **867** (1).", "H"),
 W(r"The sum of the first 7 terms of an A.P. is 49 and that of the first 17 terms is 289. Find the sum of the first $n$ terms.", 4, r"$\dfrac72(2a+6d)=49\Rightarrow a+3d=7$ (1). $\dfrac{17}2(2a+16d)=289\Rightarrow a+8d=17$ (1). $d=2$, $a=1$ (1). $S_n=\dfrac n2[2+2(n-1)]=$ **$n^2$** (1).", "H"),
-W(r"A contract specifies that a contractor pays a penalty of ₹ 200 for the first day of delay, ₹ 250 for the second day, ₹ 300 for the third day and so on, the penalty increasing by ₹ 50 each day. How much penalty must he pay if the work is delayed by 30 days?", 3, r"$a=200$, $d=50$, $n=30$ (1). $S_{30}=15[400+29\times50]$ (1) $=15\times1850=$ ₹ **27,750** (1).", "H", wp=True),
+W(r"A contract specifies that a contractor pays a penalty of ₹ 200 for the first day of delay, ₹ 250 for the second day, ₹ 300 for the third day and so on, the penalty increasing by ₹ 50 each day. How much penalty must he pay if the work is delayed by 30 days?", 3, r"$a=200$, $d=50$, $n=30$ (1). $S_{30}=15[400+29\times50]$ (1) $=15\times1850=$ ₹ **27,750** (1).", "M", wp=True),
 ]
+WS.sort(key=lambda w: "EMH".index(w["level"]))   # keep the parts contiguous after a re-tag
 for _w in WS:
     _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
 

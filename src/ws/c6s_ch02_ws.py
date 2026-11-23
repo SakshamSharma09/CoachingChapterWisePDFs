@@ -14,7 +14,7 @@ W("A tall plant with a hard, thick, woody stem and branches high above the groun
 W("The pattern of veins in a leaf is called:", 1, "(c) venation", "E", opts=["adaptation", "habitat", "venation", "cotyledon"]),
 W("Which plant has parallel venation?", 1, "(d) wheat", "E", opts=["hibiscus", "chickpea", "sadabahar", "wheat"]),
 W("Which of these has a taproot?", 1, "(b) mustard", "E", opts=["grass", "mustard", "lemongrass", "wheat"]),
-W("An animal that can live both in water and on land is an:", 1, "(c) amphibian", "E", opts=["insect", "aquatic bird", "amphibian", "reptile"]),
+W("An animal that can live both in water and on land is an:", 1, "(c) amphibian", "E", opts=["insect", "aquatic bird", "amphibian", "fish"]),
 W("Fill in the blank: A chickpea seed splits into two parts, each called a ______.", 1, "cotyledon.", "E"),
 W("Fill in the blank: The place where a plant or animal lives is called its ______.", 1, "habitat.", "E"),
 W("Name the type of root system found in grass.", 1, "Fibrous roots. (1)", "E"),
@@ -34,7 +34,7 @@ W("Priya's class collected these: hibiscus, wheat, banana, chickpea. Sort them i
 W("Why do plants in a desert and plants on the Himalayan mountains look different?", 3, "Conditions differ: the desert has little water and high heat, mountains have snow and cold (1). Plants have different adaptations, e.g. fleshy stem in cactus, conical shape of deodar (1). So the biodiversity of each region is different (1).", "M"),
 W("Define adaptation and give two examples.", 3, "Adaptations are special features that help plants and animals survive in a particular region (1). Examples: the fleshy stem of a cactus and the streamlined body of a fish (1+1).", "M"),
 W("Write two differences between the camel of the hot desert in Rajasthan and the camel of the cold desert in Ladakh.", 2, "Hot-desert camel has one hump and long legs with wide hooves; the cold-desert camel has two humps and long hair and shorter legs. (Any two, 1 each)", "M"),
-W("A fish is taken out of water and put on the ground. Why does it die? What does this show about habitat?", 2, "A fish is adapted to live in water, with fins and a streamlined body. A habitat gives the food, water, air and shelter that an organism needs. (2)", "M", wp=True),
+W("A fish is taken out of water and put on the ground. Why does it die? What does this show about habitat?", 2, "A fish is adapted to live in water, with fins and a streamlined body, so it cannot survive on land (1). A habitat gives the food, water, air and shelter that an organism needs, and the fish's habitat is water (1).", "M", wp=True),
 W("Why is the frog called an amphibian? Is a fish an amphibian?", 2, "A frog can live both in water and on land (1). A fish lives only in water, so it is an aquatic animal and not an amphibian (1).", "M"),
 W("Table: Animal - Ant, Goat, Pigeon, Fish. Write the body part used for movement by each.", 2, "Ant: legs; Goat: legs; Pigeon: legs and wings; Fish: fins. (4 x 0.5)", "M"),
 W("Meena observes a lizard, a crow, and a butterfly. Which of these can both walk and fly? Suggest one basis of grouping all three.", 2, "The crow and the butterfly can walk and fly (1). They may be grouped by type of movement or habitat. (1)", "M", wp=True),
@@ -64,6 +64,12 @@ W("The Great Indian Bustard lives in parts of Gujarat, Rajasthan and Maharashtra
 ]
 
 CH = _base()
+def _fix(x, old, new):
+    if isinstance(x, str): return x.replace(old, new)
+    if isinstance(x, list): return [_fix(i, old, new) for i in x]
+    if isinstance(x, tuple): return tuple(_fix(i, old, new) for i in x)
+    return x
+CH["blocks"] = _fix(CH["blocks"], "crocodiles and tortoises also move between land and water", "crocodiles and turtles also move between land and water")
 CH["blocks"] += [
  ("h2", "2.7 Worked Examples: Classifying Plants and Animals"),
  ("steps", [("Example 1 — Classify a plant from clues", "Clues: soft green stem, small height, leaves with net-like veins, a main root with side roots. **Soft stem and small** → herb. **Net-like veins** → reticulate venation. **Main root with side roots** → taproot. Reticulate + taproot → dicot plant, such as tomato or mustard."),

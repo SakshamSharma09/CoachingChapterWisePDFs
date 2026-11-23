@@ -39,7 +39,7 @@ W(f"Write two fractions equivalent to {F(3,5)}.", 2, f"Multiply top and bottom b
 W(f"Change {F(13,4)} into a mixed fraction.", 1, f"$13\\div4=3$ remainder 1, so {X(3,1,4)}. (1)", "E"),
 W(f"Change {X(2,3,5)} into an improper fraction.", 1, f"$\\frac{{2\\times5+3}}{{5}}={f(13,5)}$. (1)", "E"),
 W(f"Put the correct sign ($>$, $<$ or $=$): (i) {F(3,5)} ___ {F(2,5)}  (ii) {F(1,3)} ___ {F(1,2)}", 2, f"(i) {F(3,5)} $>$ {F(2,5)} (same denominator, bigger numerator). (1) (ii) {F(1,3)} $<$ {F(1,2)} (same numerator, bigger denominator means smaller parts). (1)", "E"),
-W(f"The line from 0 to 1 on a number line is divided into 4 equal parts. Into how many equal parts and which mark gives the fraction {F(3,4)}? ", 2, "Each part is $\\frac14$ (1). Start at 0 and count 3 marks: the third mark from 0 is $\\frac34$. (1)", "E"),
+W(f"The line from 0 to 1 on a number line is divided into 4 equal parts. What fraction does each part stand for, and which mark from 0 shows the fraction {F(3,4)}?", 2, "Each part is $\\frac14$ (1). Start at 0 and count 3 marks: the third mark from 0 is $\\frac34$. (1)", "E"),
 W(f"True or false, with a reason: {F(1,3)} and {F(2,6)} are equivalent fractions.", 2, f"True. (1) Multiplying top and bottom of {F(1,3)} by 2 gives {F(2,6)}. (1)", "E"),
 W(f"Subtract: {F(7,9)} $-$ {F(4,9)}. Write the answer in the lowest form.", 2, f"{F(3,9)} (1) $={F(1,3)}$. (1)", "E"),
 
@@ -85,7 +85,7 @@ CH = dict(num=7, title="Fractions", tag="Maths (Part 2)",
  big_questions=["What does a fraction mean, and how can we show it on a number line?", "How do we find equivalent fractions and compare fractions?", "How do we add and subtract fractions, including mixed fractions?"],
  blocks=[
  ("h2", "7.1 Fractional Units and Equal Shares"),
- ("p", "When we cut a roti into 4 **equal** parts, each part is one fourth, written ½ for halves, ¼ for fourths and so on. A **fractional unit** is one equal part of a whole. The word *equal* is very important: a fraction counts equal parts only. If a chocolate bar is broken into 4 unequal pieces, a piece is not one fourth."),
+ ("p", "When we cut a roti into 4 **equal** parts, each part is one fourth, written ¼ (two equal parts give halves, written ½, and so on). A **fractional unit** is one equal part of a whole. The word *equal* is very important: a fraction counts equal parts only. If a chocolate bar is broken into 4 unequal pieces, a piece is not one fourth."),
  ("note", "DEFINITION", "A **fraction** a/b has a **numerator** a (the number of parts taken) and a **denominator** b (the number of equal parts the whole is divided into). The denominator can never be 0. The fraction 3/8 means 3 parts out of 8 equal parts, or 3 times the fractional unit 1/8."),
  ("p", "A fraction can describe a part of a single whole (3/8 of a pizza) or a part of a collection (15 of 40 students is 15/40 = 3/8 of the class). To find 3/4 of 24 mangoes: 24 ÷ 4 = 6 is one fourth, so three fourths = 3 × 6 = 18 mangoes."),
  ("table", ["Kind", "Meaning", "Examples"], [
@@ -98,7 +98,7 @@ CH = dict(num=7, title="Fractions", tag="Maths (Part 2)",
  ("h2", "7.2 Fractions on the Number Line"),
  ("p", "On the number line, the gap between 0 and 1 is the whole unit. To mark 3/4, divide the gap from 0 to 1 into **4 equal parts** and count **3 marks** from 0. The marks beyond 1 give improper fractions: with fourths, the marks after 1 are 5/4, 6/4, 7/4 and 8/4 = 2."),
  ("ul", ["The gap between 2 and 3 divided into 5 equal parts has marks 2 1/5, 2 2/5, 2 3/5 and 2 4/5; the third mark is 2 3/5 = 13/5.", "A point further to the right is always the greater fraction.", "Between any two fractions there are many other fractions (for example 11/16 lies between 5/8 and 3/4)."]),
- ("p", "**Fractions in daily life.** A cricket match uses half-century and quarter-final; a recipe says 1/2 cup of sugar; a tailor measures 2 1/4 m of cloth; a bus journey of 3 1/2 hours. Reading and comparing such measures correctly is the real use of this chapter. A good habit is to ask: is my answer more or less than 1, and does it fit on the number line where I expect it?"),
+ ("p", "**Fractions in daily life.** A recipe says 1/2 cup of sugar; a tailor measures 2 1/4 m of cloth; a bus journey of 3 1/2 hours. Reading and comparing such measures correctly, whether in the kitchen, in the tailor's shop or on the road, is the real use of this chapter. A good habit is to ask: is my answer more or less than 1, and does it fit on the number line where I expect it?"),
  ("h2", "7.3 Mixed and Improper Fractions"),
  ("table", ["Conversion", "Method", "Example"], [
   ["Improper → mixed", "Divide numerator by denominator: quotient is the whole part, remainder is the new numerator", "17/5: 17 ÷ 5 = 3 remainder 2, so 3 2/5"],

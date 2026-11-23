@@ -70,7 +70,7 @@ W("A rectangular field is 40 m by 30 m. A path is to be paved along its diagonal
 W("Which of these triangles are right-angled? (i) 9, 40, 41 (ii) 11, 60, 62 (iii) 16, 30, 34. Show the check for each.", 3, "(i) $81+1600=1681=41^2$: yes (1). (ii) $121+3600=3721\\ne62^2=3844$: no (1). (iii) $256+900=1156=34^2$: yes (1).", "H"),
 W("Use the theorem to prove that if the diagonal of a square is $d$, its area is $\\frac{d^2}{2}$. Hence find the area of a square with diagonal $12\\sqrt2$ cm.", 3, "Side $a$: $d^2=a^2+a^2=2a^2$ (1), so area $a^2=\\frac{d^2}{2}$ (1). With $d=12\\sqrt2$, area $=\\frac{288}{2}=144$ cm² (1).", "H"),
 W("Find the height and area of an isosceles triangle of sides 17 cm, 17 cm and 16 cm. Show your steps.", 3, "Height bisects the base (8 cm each side) (1). $h=\\sqrt{17^2-8^2}=\\sqrt{225}=15$ cm (1). Area $=\\frac12\\times16\\times15=120$ cm² (1).", "H"),
-W("The perimeter of a rhombus is 100 cm and one diagonal is 48 cm. Find the other diagonal and the area.", 4, "Side $=25$ cm; half-diagonal $=24$ cm (1). Other half-diagonal $=\\sqrt{625-576}=7$ (2). Other diagonal $=14$ cm (1). Area $=\\frac12\\times48\\times14=336$ cm² (1).", "H"),
+W("The perimeter of a rhombus is 100 cm and one diagonal is 48 cm. Find the other diagonal and the area.", 4, "Side $=25$ cm; half-diagonal $=24$ cm (1). Other half-diagonal $=\\sqrt{625-576}=7$ cm (1). Other diagonal $=14$ cm (1). Area $=\\frac12\\times48\\times14=336$ cm² (1).", "H"),
 W("Prove that $(2m,\\;m^2-1,\\;m^2+1)$ is a Baudhāyana triple for every counting number $m>1$. Write the triple for $m=4$.", 4, "$(2m)^2+(m^2-1)^2=4m^2+m^4-2m^2+1$ (1) $=m^4+2m^2+1=(m^2+1)^2$ (2). For $m=4$: $(8,15,17)$ (1).", "H"),
 W("A 17 m ladder rests against a wall with its top 15 m above the ground. Its top slides down 7 m along the wall. How far does the foot of the ladder move?", 4, "Initial foot distance $=\\sqrt{289-225}=8$ m (1). New height $=15-7=8$ m (1). New foot distance $=\\sqrt{289-64}=15$ m (1). The foot moves $15-8=7$ m (1).", "H", wp=True),
 W("Complete the Baudhāyana triples: (i) $(8,15,\\;?)$ (ii) $(?,\\;24,25)$ (iii) $(12,35,\\;?)$ (iv) $(9,\\;?,\\;41)$.", 4, "(i) $17$ (1). (ii) $7$ (1). (iii) $37$ (1). (iv) $40$ (1).", "H"),
@@ -123,5 +123,19 @@ _extra = [
 ]
 CH = dict(_o, num=9, blocks=_pre + _extra + _tail,
           takeaways=_o["takeaways"] + ["The converse also holds: if a² + b² = c² for the longest side c, the triangle is right-angled.", "Most word problems (ladders, poles, ropes, fields, screens) hide a right triangle; draw it before calculating.", "Triples can be generated: (2m, m² − 1, m² + 1) for every m > 1, and scaled by any k."])
+
+
+def _sub(x, P):
+    """review fix: exact text replacements inside the notes blocks"""
+    if isinstance(x, str):
+        for a, b in P: x = x.replace(a, b)
+        return x
+    if isinstance(x, list): return [_sub(i, P) for i in x]
+    if isinstance(x, tuple): return tuple(_sub(i, P) for i in x)
+    if isinstance(x, dict): return {k: _sub(v, P) for k, v in x.items()}
+    return x
+_P = [("A reed stands vertically with its tip **2 units** above the water. Bent over, the tip touches the water **6 units** away. Let the depth be x; the reed's length is x + 2 and we get a right triangle with sides 6, x, x + 2. Then 6² + x² = (x + 2)², so 36 = 4x + 4 and **x = 8**. The depth is 8 units.",
+       "A lotus flower peeps out of a lake with the tip of its stem **1 unit** above the water. Swayed by a breeze, the tip touches the water **3 units** away from its original position. Let the depth be x; the stem's length is x + 1 and we get a right triangle with sides 3, x, x + 1. Then 3² + x² = (x + 1)², so 9 = 2x + 1 and **x = 4**. The depth is 4 units.")]
+CH = _sub(CH, _P)
 
 if __name__ == "__main__": run(__file__, BANK, 8, "Maths", WS, CH)

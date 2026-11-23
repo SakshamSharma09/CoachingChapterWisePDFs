@@ -119,4 +119,17 @@ _extra = [
  ]
 CH = dict(_o, blocks=_pre + _extra + _o["blocks"][-2:], takeaways=_o["takeaways"] + ["To **convert to base b** divide repeatedly by b and read the remainders **upward**; to convert **back**, multiply each digit by its place value.", "Everyday base-60 and base-2 ideas (time, weights) turn many **word problems** into base conversions."])
 
+
+def _sub(x, P):
+    """review fix: exact text replacements inside the notes blocks"""
+    if isinstance(x, str):
+        for a, b in P: x = x.replace(a, b)
+        return x
+    if isinstance(x, list): return [_sub(i, P) for i in x]
+    if isinstance(x, tuple): return tuple(_sub(i, P) for i in x)
+    if isinstance(x, dict): return {k: _sub(v, P) for k, v in x.items()}
+    return x
+_P = [("(about 20,000 years old)", "(20,000 to 35,000 years old)")]
+CH = _sub(CH, _P)
+
 if __name__ == "__main__": run(__file__, BANK, 8, "Maths", WS, CH)

@@ -48,7 +48,7 @@ W("Find $x$: (i) $3^x\\times3^4=3^9$ (ii) $7^x\\div7^3=7^{-2}$.", 2, "(i) $x+4=9
 W("Express 243 and $\\dfrac1{243}$ as powers of 3.", 2, "$243=3^5$ (1) and $\\frac1{243}=3^{-5}$ (1).", "M"),
 W("Without a calculator compare (i) $2^{10}$ and $10^3$ (ii) $3^4$ and $4^3$.", 2, "(i) $2^{10}=1024>1000=10^3$ (1). (ii) $3^4=81>64=4^3$ (1).", "M"),
 W("The population of India is about $1.4\\times10^9$ and that of a state is $7\\times10^7$. About how many such states would make up the population of India?", 2, "$\\dfrac{1.4\\times10^9}{7\\times10^7}=0.2\\times10^2$ (1) $=$ **20** (1).", "M", wp=True),
-W("The radius of an atom is about $1\\times10^{-10}$ m. How many atoms placed side by side (each taking up one radius) make a length of 1 mm $=10^{-3}$ m?", 3, "Number $=\\dfrac{10^{-3}}{10^{-10}}$ (1) $=10^{-3-(-10)}$ (1) $=10^7$, i.e. **1 crore** atoms (1).", "M", wp=True),
+W("The diameter of an atom is about $1\\times10^{-10}$ m. How many atoms placed side by side in a line (each taking up one diameter) make a length of 1 mm $=10^{-3}$ m?", 3, "Number $=\\dfrac{10^{-3}}{10^{-10}}$ (1) $=10^{-3-(-10)}$ (1) $=10^7$, i.e. **1 crore** atoms (1).", "M", wp=True),
 W("Sita writes $2^3+2^2=2^5$. Is she right? Check, and say what the mistake is.", 2, "$2^3+2^2=8+4=12$, but $2^5=32$, so she is wrong (1). The laws apply to **products** ($2^3\\times2^2=2^5$), not to sums (1).", "M"),
 W("Simplify $\\dfrac{x^5\\times x^{-2}}{x^2}$ ($x\\ne0$).", 2, "$x^5\\times x^{-2}=x^3$ (1); $x^3\\div x^2=$ **$x$** (1).", "M"),
 W("A sum of money doubles every 3 years. If ₹ 5,000 is invested, how much will it become after 12 years?", 3, "12 years has $12\\div3=4$ doublings (1). Amount $=5000\\times2^4$ (1) $=5000\\times16=$ **₹ 80,000** (1).", "M", wp=True),

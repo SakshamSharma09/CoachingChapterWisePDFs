@@ -43,7 +43,7 @@ W("Why is butter lighter than buttermilk and how is this used in churning?", 2, 
 W("Why is filter paper better than a cloth for separating very fine mud from water?", 2, "Filter paper has much finer pores (1), so it can hold back very small particles that pass through cloth (1).", "M"),
 W("A student wants to separate sugar from a sugar solution and also get back the water. Which two processes will she use?", 2, "Evaporation (heating the solution to make vapour) (1) followed by condensation of the vapour to recover water (1).", "M", wp=True),
 W("Find the mistake: \"Ram used a sieve to separate salt from salt water.\"", 2, "Salt is dissolved and passes through the sieve holes (1). Evaporation should be used to recover the salt (1).", "M", wp=True),
-W("Why do the tea bags of the present day use filter paper and not cloth or silk?", 2, "Filter paper has very fine pores which let the tea flavour pass but hold back the tea leaves (2).", "M"),
+W("White patches appear on dark clothes after a hot summer day. What are they and how do they form?", 2, "The patches are salt (1). Sweat contains salt dissolved in water; the water evaporates from the cloth and the salt is left behind (1).", "M", wp=True),
 W("List the four steps of filtration using a filter paper, funnel and flask.", 2, "Fold the filter paper into a cone and fit it in the funnel (½); place the funnel over a flask (½); pour the muddy water slowly (½); collect filtrate and residue (½).", "M"),
 W("Why do farmers use a combine machine nowadays instead of separate threshing and winnowing?", 2, "A mechanical thresher does both jobs together, saving time and effort. (2)", "M", wp=True),
 # ---------------- HARD ----------------

@@ -107,6 +107,9 @@ W("The vertices of a quadrilateral are $A(-1,-1)$, $B(5,1)$, $C(7,5)$ and $D(1,3
 W("On a simplified tourist grid of Jaipur ($1$ unit $=1$ km) the Hawa Mahal is at $H(0,0)$, Jantar Mantar at $J(3,4)$ and Amer Fort at $A(-3,4)$. (i) Find $HJ$, $HA$ and $JA$. (ii) A tea stall is built at the midpoint of $JA$; find its position and its distance from $H$. (iii) A tourist bus goes $H\\to J\\to A\\to H$ at ₹ $15$ per km. Find the fare for the whole trip.", 5, "(i) $HJ=\\sqrt{9+16}=5$, $HA=\\sqrt{9+16}=5$, $JA=|3-(-3)|=6$ km (2). (ii) Midpoint $=(0,4)$ (1); distance from $H=4$ km (1). (iii) Trip $=5+6+5=16$ km, fare $=16\\times15=$ ₹ $240$ (1).", "H", wp=True),
 ]
 
+for _w in WS:   # answer-key/question renderer does not interpret **bold**
+    _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
+
 _o = _old(1)
 _pre, _tail = _o["blocks"][:-2], _o["blocks"][-2:]
 _extra = [

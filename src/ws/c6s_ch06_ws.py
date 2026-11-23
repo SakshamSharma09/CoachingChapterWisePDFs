@@ -98,7 +98,7 @@ CH["blocks"] += [
  ("qa", [("Why is clay suitable for pots?", "It can be shaped when wet and becomes hard when baked, and it holds water."),
   ("Why do some objects feel heavier than others of the same size?", "They are made of materials with more mass in the same volume."),
   ("Is sugar solution matter? Give reason.", "Yes, it has mass and occupies space."),
-  ("Why does the chapter call mass the correct word instead of 'weight' in daily talk?", "Mass is the property that tells how heavy or light a material is; the everyday word weight is used loosely for it.")]),
+  ("Why is the word 'weight' used in daily talk for how heavy something is?", "Because mass is found by weighing, weight is sometimes used in common language for mass; the difference between mass and weight is learnt in higher classes.")]),
 ]
 CH["takeaways"] += ["**Hardness is relative**, but mass and volume belong to **all** matter.", "ORS uses sugar and salt dissolved in boiled and cooled water."]
 

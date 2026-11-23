@@ -38,7 +38,7 @@ W("Multiply $(x+1)(x+4)$.", 2, "$x\\cdot x+x\\cdot4+1\\cdot x+1\\cdot4$ (1) $=x^
 W("Simplify $4(x+2)+3(x-1)$.", 2, "$4x+8+3x-3$ (1) $=7x+5$ (1).", "E"),
 W("True or false (give a reason): $(x+5)^2=x^2+25$.", 1, "**False.** The middle term $2\\times x\\times5=10x$ is missing; $(x+5)^2=x^2+10x+25$ (1).", "E"),
 W("A shopkeeper buys 25 notebooks at ₹ 48 each. Use $48=50-2$ to find the total cost.", 2, "$25\\times(50-2)=1250-50$ (1) $=$ ₹ 1,200 (1).", "E", wp=True),
-W("Factorise $x^2-16$.", 1, "$x^2-4^2=(x-4)(x+4)$ (1).", "E"),
+W("Find $45\\times55$ using $(a+b)(a-b)=a^2-b^2$.", 1, "$45\\times55=(50-5)(50+5)=50^2-5^2=2500-25=$ 2,475 (1).", "E"),
 # ---------------- MEDIUM ----------------
 W("Multiply $(3x+2)(2x-5)$.", 2, "$6x^2-15x+4x-10$ (1) $=6x^2-11x-10$ (1).", "M"),
 W("Use an identity to find $998^2$.", 2, "$998^2=(1000-2)^2=1000000-2\\times1000\\times2+4$ (1) $=996004$ (1).", "M"),
@@ -53,7 +53,7 @@ W("A square tile has side 1.02 m. Find its area using $(1+0.02)^2$.", 2, "$1+2(0
 W("Find $75^2$ using $(70+5)^2$ and check it with the rule for numbers ending in 5.", 2, "$4900+700+25=5625$ (1). Rule: $7\\times8=56$ followed by 25 gives $5625$ ✓ (1).", "M"),
 W("Simplify $(x+4)^2-(x-4)^2$.", 3, "$(x^2+8x+16)-(x^2-8x+16)$ (2) $=16x$ (1).", "M"),
 W("Bhavna buys $(a+3)$ pens at ₹ $(a-3)$ each. Show that the total cost is ₹ $(a^2-9)$ and find it for $a=12$.", 3, "Cost $=(a+3)(a-3)=a^2-9$ (2). For $a=12$: $144-9=$ ₹ 135 (1). Check: 15 pens at ₹ 9 $=135$.", "M", wp=True),
-W("Factorise $x^2+11x+18$.", 2, "Find two numbers with sum 11 and product 18: 2 and 9 (1). $x^2+11x+18=(x+2)(x+9)$ (1).", "M"),
+W("Use Sridharacharya's rule $a^2=(a+b)(a-b)+b^2$ with $a=59$ and $b=1$ to find $59^2$.", 2, "$59^2=(59+1)(59-1)+1^2=60\\times58+1$ (1) $=3480+1=$ 3,481 (1).", "M"),
 W("Expand $(2x+3y)^2$.", 2, "$(2x)^2+2(2x)(3y)+(3y)^2$ (1) $=4x^2+12xy+9y^2$ (1).", "M"),
 W("Find $305^2$ using $(300+5)^2$.", 2, "$300^2+2\\times300\\times5+5^2$ (1) $=90000+3000+25=93025$ (1).", "M"),
 W("Evaluate $63^2-37^2$ using $a^2-b^2=(a+b)(a-b)$.", 2, "$(63+37)(63-37)$ (1) $=100\\times26=2600$ (1).", "M"),
@@ -68,7 +68,7 @@ W("Evaluate $(9.9)^2-(0.1)^2$ using an identity.", 3, "$a^2-b^2=(a+b)(a-b)$ (1).
 W("The perimeter of a rectangle is 40 cm and its area is 91 cm². Find the length and breadth. (Hint: find $l-b$.)", 4, "$l+b=20$, $lb=91$ (1). $(l-b)^2=(l+b)^2-4lb=400-364=36$ (2). $l-b=6$, so $l=13$ cm and $b=7$ cm (1).", "H", wp=True),
 W("Prove that $(a+b)^2-(a-b)^2=4ab$. Use it to find $47^2-33^2$ (take $a+b=47$, $a-b=33$).", 4, "LHS $=(a^2+2ab+b^2)-(a^2-2ab+b^2)=4ab$ (2). From $a+b=47$ and $a-b=33$: $a=40$, $b=7$ (1). $47^2-33^2=4\\times40\\times7=1120$ (1).", "H"),
 W("A student multiplies $(2x-3)(x+4)$ as $2x^2-12$ (first terms and last terms only). Find the mistake, give the correct product and check it for $x=2$.", 3, "Every term of the first bracket must multiply every term of the second (1). $(2x-3)(x+4)=2x^2+8x-3x-12=2x^2+5x-12$ (1). For $x=2$: $1\\times6=6$ and $8+10-12=6$ ✓ (1).", "H"),
-W("Factorise (i) $4a^2-12a+9$ (ii) $x^2-7x+12$.", 3, "(i) $4a^2-12a+9=(2a)^2-2(2a)(3)+3^2=(2a-3)^2$ (1.5). (ii) two numbers with sum $-7$ and product 12 are $-3$ and $-4$: $(x-3)(x-4)$ (1.5).", "H"),
+W("Observe the pattern $2(5^2+6^2)=11^2+1^2$. (i) Prove in general that $2(a^2+b^2)=(a+b)^2+(a-b)^2$. (ii) Hence write $2(7^2+4^2)$ as a sum of two squares and check it.", 3, "(i) $(a+b)^2+(a-b)^2=(a^2+2ab+b^2)+(a^2-2ab+b^2)=2a^2+2b^2$ (2). (ii) $a=7$, $b=4$: $2(49+16)=130=(7+4)^2+(7-4)^2=11^2+3^2$ (1). Check: $121+9=130$.", "H"),
 W("**Case study.** A square of side $(a+b)$ is divided into four parts: a square of side $a$, a square of side $b$ and two rectangles $a\\times b$. Take $a=6$ and $b=4$. (i) Find the areas of the four parts. (ii) Add them and compare with $(a+b)^2$. (iii) Which identity does this picture show?", 4, "(i) $36$, $16$, $24$, $24$ (1.5). (ii) Sum $=100=10^2=(a+b)^2$ (1.5). (iii) $(a+b)^2=a^2+2ab+b^2$ (1).", "H", wp=True),
 W("Show that the product of four consecutive natural numbers plus 1 is a perfect square. Verify for $1\\times2\\times3\\times4+1$ and prove it in general.", 5, "$1\\times2\\times3\\times4+1=25=5^2$ (1). Let the numbers be $n,n+1,n+2,n+3$: $n(n+3)=n^2+3n=m$ and $(n+1)(n+2)=m+2$ (2). Product $+1=m(m+2)+1=m^2+2m+1=(m+1)^2=(n^2+3n+1)^2$, a perfect square (2).", "H"),
 W("The difference of two numbers is 3 and the difference of their squares is 63. Find the numbers.", 4, "$a^2-b^2=(a+b)(a-b)=63$ (1). With $a-b=3$: $a+b=21$ (1). Adding: $2a=24$, $a=12$ (1); $b=9$ (1). Check: $144-81=63$.", "H", wp=True),
@@ -121,5 +121,7 @@ _extra = [
   ["(3x)² = 3x²", "the coefficient is also squared", "9x²"]]),
  ]
 CH = dict(_o, blocks=_pre + _extra + _o["blocks"][-2:], takeaways=_o["takeaways"] + ["**Useful forms:** a² + b² = (a + b)² − 2ab and (a − b)² = (a + b)² − 4ab; they solve ‘sum and product’ word problems.", "**Area expressions:** area of a path round a square of side a and width w is (a + 2w)² − a² = 4aw + 4w²."])
+
+CH["blocks"] = [b for b in CH["blocks"] if not (b[0] == "p" and b[1].startswith("**Factorising**"))]
 
 if __name__ == "__main__": run(__file__, BANK, 8, "Maths", WS, CH)

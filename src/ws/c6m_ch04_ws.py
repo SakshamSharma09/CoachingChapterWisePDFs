@@ -113,7 +113,7 @@ W("The bar graph shows the runs scored by five batters in a match. (i) Find the 
   "(i) $70+45+85+30+55=285$ runs. (2) (ii) Asha (70), Chetan (85) and Esha (55). (1) (iii) $85-30=55$ runs. (1)", "H", wp=True,
   fig=bars(["Asha", "Bhanu", "Chetan", "Dev", "Esha"], [70, 45, 85, 30, 55], 10, 90, "Runs")),
 W("The milk collected by a dairy was 175 L on Monday, 250 L on Tuesday and 325 L on Wednesday. A pictograph is to be drawn in which a half symbol stands for 25 L. What does one full symbol stand for, and how many symbols (full and half) are needed for each day?", 4,
-  "Half symbol $=25$ L, so one full symbol $=50$ L. Monday $175=3\times50+25$: $3\frac12$ symbols. Tuesday $250=5\times50$: 5 symbols. Wednesday $325=6\times50+25$: $6\frac12$ symbols. (4)", "H", wp=True),
+  r"Half symbol $=25$ L, so one full symbol $=50$ L. Monday $175=3\times50+25$: $3\frac12$ symbols. Tuesday $250=5\times50$: 5 symbols. Wednesday $325=6\times50+25$: $6\frac12$ symbols. (4)", "H", wp=True),
 W("Thirty students were asked their favourite colour. Red 8, Blue 6, Green ?, Yellow 5, Pink 3. (i) Find the number who chose Green. (ii) If a bar graph uses 1 cm = 2 students, find the length of each bar.", 4,
   "(i) $8+6+5+3=22$, so Green $=30-22=8$. (1.5) (ii) Red 4 cm, Blue 3 cm, Green 4 cm, Yellow 2.5 cm, Pink 1.5 cm. (2.5)", "H", wp=True),
 W("A student draws a bar graph of the marks of four friends. She gives no title, makes the bars of different widths, and the vertical scale reads 0, 10, 20, 50, 60. Write three mistakes and say how to correct them.", 3,
@@ -140,7 +140,7 @@ W("A bar graph shows a stationery shop's sales of notebooks from Monday to Satur
   "(i) Tuesday (35), Thursday (45), Saturday (40). (1) (ii) $20+35+30+45+25+40=195$ notebooks. (2) (iii) Thursday: $45\\times8=₹360$. Week: $195\\times8=₹1560$. (2)", "H", wp=True,
   fig=bars(["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], [20, 35, 30, 45, 25, 40], 5, 45, "Notebooks")),
 W("Three shops sold cycles in a month. In the pictograph one ● stands for 10 cycles and ◐ for 5. (i) Find the cycles sold by each shop and the total. (ii) How many more did shop C sell than shop B? (iii) If each cycle sells for ₹3,500, how much did shop A earn?", 4,
-  "(i) A: 5 symbols $=50$; B: $3\frac12=35$; C: 7 symbols $=70$. Total $=50+35+70=155$. (2) (ii) $70-35=35$ more. (1) (iii) $50\times3500=₹1{,}75{,}000$. (1)", "H", wp=True,
+  r"(i) A: 5 symbols $=50$; B: $3\frac12=35$; C: 7 symbols $=70$. Total $=50+35+70=155$. (2) (ii) $70-35=35$ more. (1) (iii) $50\times3500=₹1{,}75{,}000$. (1)", "H", wp=True,
   fig=tbl(["Shop", "Cycles sold"], [["A", "●●●●●"], ["B", "●●●◐"], ["C", "●●●●●●●"]])),
 ]
 

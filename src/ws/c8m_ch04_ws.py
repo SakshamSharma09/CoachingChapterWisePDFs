@@ -24,7 +24,7 @@ W("Three angles of a quadrilateral are $80^\\circ$, $100^\\circ$ and $90^\\circ$
 W("In a parallelogram one angle is $65^\\circ$. An angle adjacent to it is:", 1, "(b) $115^\\circ$. Adjacent angles of a parallelogram add up to $180^\\circ$: $180^\\circ-65^\\circ=115^\\circ$. (1)", "E", opts=["$65^\\circ$", "$115^\\circ$", "$125^\\circ$", "$25^\\circ$"]),
 W("Which quadrilateral always has equal diagonals?", 1, "(b) Rectangle. Its diagonals are equal and bisect each other; those of a general parallelogram, rhombus and kite are not equal. (1)", "E", opts=["Rhombus", "Rectangle", "Kite", "Parallelogram"]),
 W("A rhombus has each side 9 cm. Its perimeter is:", 1, "(c) 36 cm. $4\\times9=36$. (1)", "E", opts=["18 cm", "27 cm", "36 cm", "81 cm"]),
-W("Which of these is **not** always a parallelogram?", 1, "(c) Trapezium. It has only one pair of parallel sides; rectangle, rhombus and square have two. (1)", "E", opts=["Rectangle", "Rhombus", "Trapezium", "Square"]),
+W("Which of these is **not** always a parallelogram?", 1, "(c) Trapezium. It needs only one pair of parallel sides (a trapezium has at least one pair); rectangle, rhombus and square always have two pairs. (1)", "E", opts=["Rectangle", "Rhombus", "Trapezium", "Square"]),
 W("The diagonals of a quadrilateral bisect each other at right angles and are **not** equal. The quadrilateral is a:", 1, "(b) rhombus. A square has equal diagonals and a kite's diagonals do not bisect each other. (1)", "E", opts=["Rectangle", "Rhombus", "Square", "Kite"]),
 W("A kite has two pairs of equal sides. These equal sides are:", 1, "(b) adjacent (neighbouring) sides, e.g. $AB=AD$ and $CB=CD$. (1)", "E", opts=["opposite sides", "adjacent sides", "parallel sides", "all four sides"]),
 W("The angles of a quadrilateral are in the ratio $3:4:5:6$. Find the angles.", 2, "$3x+4x+5x+6x=360^\\circ$, $18x=360^\\circ$, $x=20^\\circ$ (1). Angles: $60^\\circ,80^\\circ,100^\\circ,120^\\circ$ (1).", "E"),
@@ -118,5 +118,20 @@ _extra = [
   ["Opposite angles of a parallelogram add to 180°", "adjacent angles add to 180°; opposite angles are equal", "∠A = ∠C and ∠A + ∠B = 180°"]]),
  ]
 CH = dict(_o, blocks=_pre + _extra + _o["blocks"][-2:], takeaways=_o["takeaways"] + ["Use **right triangles** (half-diagonals, Pythagoras) to find sides or diagonals of rhombus, kite and rectangle in word problems.", "**Diagonals bisect each other** gives a parallelogram; add **equal** for a rectangle, add **perpendicular** for a rhombus."])
+
+
+def _sub(x, P):
+    """review fix: exact text replacements inside the notes blocks"""
+    if isinstance(x, str):
+        for a, b in P: x = x.replace(a, b)
+        return x
+    if isinstance(x, list): return [_sub(i, P) for i in x]
+    if isinstance(x, tuple): return tuple(_sub(i, P) for i in x)
+    if isinstance(x, dict): return {k: _sub(v, P) for k, v in x.items()}
+    return x
+_P = [("exactly one pair of parallel sides", "at least one pair of parallel sides"),
+      ("If a trapezium is defined as having **at least** one pair of parallel sides, every parallelogram is also a trapezium; with the ‘exactly one pair’ definition it is not. Follow your textbook's definition.", "NCERT defines a trapezium as a quadrilateral with **at least** one pair of parallel sides, so every parallelogram (including a rectangle, rhombus and square) is also a trapezium; a trapezium that is not a parallelogram has exactly one pair."),
+      ("a **trapezium** has one pair of parallel sides", "a **trapezium** has at least one pair of parallel sides")]
+CH = _sub(CH, _P)
 
 if __name__ == "__main__": run(__file__, BANK, 8, "Maths", WS, CH)

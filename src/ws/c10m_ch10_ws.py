@@ -36,7 +36,7 @@ W(r"Fill in the blanks: A line that touches a circle at exactly ______ point is 
 W(r"In a circle with centre $O$, $PT$ is a tangent at $T$ and $\angle OPT=30^\circ$. Find $\angle POT$.", 2, r"$\angle OTP=90^\circ$ (1). In $\triangle OTP$: $\angle POT=180^\circ-90^\circ-30^\circ=60^\circ$ (1).", "E"),
 W(r"True or false? Give a reason. A line through the centre of a circle can be a tangent to it.", 2, r"**False** (1). A line through the centre meets the circle at two points (ends of a diameter), so it is a secant, not a tangent (1).", "E"),
 W(r"A circular park has its centre at $O$ and radius 20 m. A straight path touches the park's boundary at $T$, and a gate $G$ on the path is 29 m from $O$. How long is the path from $G$ to $T$?", 2, r"$OT\perp GT$ (1). $GT=\sqrt{29^2-20^2}=\sqrt{441}=21$ m (1).", "E", wp=True),
-W(r"A tangent $PQ$ from a point $P$ at 25 cm from the centre $O$ of a coin-shaped circle is 24 cm long. Find the radius.", 2, r"$OQ\perp PQ$ so $r=\sqrt{25^2-24^2}$ (1) $=\sqrt{49}=7$ cm (1).", "E", wp=True),
+W(r"A tangent $PQ$ from a point $P$ at 26 cm from the centre $O$ of a coin-shaped circle is 24 cm long. Find the radius.", 2, r"$OQ\perp PQ$ so $r=\sqrt{26^2-24^2}$ (1) $=\sqrt{100}=10$ cm (1).", "E", wp=True),
 W(r"From a point $P$ two tangents $PA$ and $PB$ are drawn to a circle with $PA=3x+1$ and $PB=2x+6$. Find $x$ and $PA$.", 2, r"Tangents from an external point are equal: $3x+1=2x+6$ (1), so $x=5$ and $PA=16$ (1).", "E"),
 W(r"Two straight roads $PA$ and $PB$ touch a circular pond at $A$ and $B$. $PA=150$ m and $\angle APB=60^\circ$. Find $PB$ and the length $AB$.", 2, r"$PB=PA=150$ m (1). $\triangle PAB$ is isosceles with apex angle $60^\circ$, so each base angle is $60^\circ$: it is equilateral and $AB=150$ m (1).", "E", wp=True),
 W(r"How many tangents can be drawn to a circle from a point (i) inside the circle, (ii) on the circle, (iii) outside the circle?", 2, r"(i) none (½) (ii) exactly one (½) (iii) exactly two (1).", "E"),
@@ -81,6 +81,16 @@ for _w in WS:
     _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
 
 _o = _old(10)
+def _fix(o, a, b):
+    """patch one sentence of the borrowed notes (found by the first words of a block)"""
+    hit = [0]
+    def walk(x):
+        if isinstance(x, str) and a in x: hit[0] += 1; return x.replace(a, b)
+        if isinstance(x, (list, tuple)): return type(x)(walk(i) for i in x)
+        return x
+    out = dict(o, blocks=walk(o["blocks"])); assert hit[0] == 1, (a, hit); return out
+_o = _fix(_o, "A circle can have **any number of** parallel tangents, but only two parallel to a given direction (at the ends of a diameter).",
+          "A circle has infinitely many tangents (one at each point of the circle), but only **two** tangents are parallel to a given direction (at the ends of a diameter).")
 _pre = _o["blocks"][:-2]
 _extra = [
  ("h2", "10.5 More Worked Examples"),

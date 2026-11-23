@@ -44,7 +44,7 @@ W("A candle $30$ cm long burns down $2$ cm every hour. Its length after $t$ hour
 W("Savings are modelled by $S=500+150m$ (₹ after $m$ months). The number $500$ stands for:", 1, "(b) the amount saved at the start. It is the value of $S$ when $m=0$ (the intercept). (1)", "E", opts=["the monthly saving", "the amount saved at the start", "the total after a year", "the number of months"], wp=True),
 W("A tank holds $200$ L and loses $5$ L every minute. When the volume $V$ is drawn against time, the slope of the line is:", 1, "(d) $-5$. The volume falls by $5$ L for every minute, so the rate of change is negative. (1)", "E", opts=["$5$", "$200$", "$-200$", "$-5$"], wp=True),
 W("The graph of $y=3x-6$ cuts the $x$-axis at:", 1, "(b) $(2,0)$. Put $y=0$: $3x=6$, $x=2$. (1)", "E", opts=["$(0,-6)$", "$(2,0)$", "$(-2,0)$", "$(6,0)$"]),
-W("Which of these is **not** a polynomial?", 1, "(c) $x+\\frac1x$. It contains $x$ with a negative power ($x^{-1}$), which a polynomial cannot have. (1)", "E", opts=["$7$", "$5x^2-3$", "$x+\\frac1x$", "$9-2x$"]),
+W("Which of these is NOT a polynomial?", 1, "(c) $x+\\frac1x$. It contains $x$ with a negative power ($x^{-1}$), which a polynomial cannot have. (1)", "E", opts=["$7$", "$5x^2-3$", "$x+\\frac1x$", "$9-2x$"]),
 W("The $n$th term of the pattern $5, 9, 13, 17, \\dots$ is:", 1, "(b) $4n+1$. The common difference is $4$, and $4(1)+1=5$. (1)", "E", opts=["$4n-1$", "$4n+1$", "$5n$", "$n+4$"]),
 W("A plumber charges ₹ $150$ as a visiting fee plus ₹ $80$ per hour. Write the charge $C(h)$ for $h$ hours and find the charge for $3$ hours.", 2, "$C(h)=80h+150$ (1). $C(3)=80\\times3+150=$ ₹ $390$ (1).", "E", wp=True),
 W("Rohit has ₹ $500$ and saves ₹ $50$ every week. Write his money after $w$ weeks and find it after $8$ weeks.", 2, "Money $=500+50w$ (1). For $w=8$: $500+400=$ ₹ $900$ (1).", "E", wp=True),
@@ -92,6 +92,9 @@ W("A cyclist's distance from his village (km) was noted: $t=0,1,2,3$ h gave $d=4
 W("The number of dots in the $n$th figure of a pattern is $5, 8, 11, \\dots$ Find the rule. Which figure has $104$ dots? Can any figure have $150$ dots? Can one have $200$ dots? Give reasons.", 4, "$d=3$, rule $3n+2$ (1). $3n+2=104$ gives $n=34$ (1). For $150$: $3n=148$, $n=\\frac{148}{3}$ is not a whole number, so no figure has $150$ dots (1). For $200$: $3n=198$, $n=66$, so the $66$th figure has $200$ dots (1).", "H"),
 W("For the conversion $F=1.8C+32$, find the temperature at which the Celsius and Fahrenheit readings are the same. What does this tell you about the lines $F=C$ and $F=1.8C+32$?", 4, "Put $F=C$: $C=1.8C+32$ (1), $-0.8C=32$, $C=-40$ (1). So $-40^\\circ$C $=-40^\\circ$F (1). The two lines meet at exactly one point, $(-40,-40)$, because their slopes ($1$ and $1.8$) differ (1).", "H"),
 ]
+
+for _w in WS:   # answer-key/question renderer does not interpret **bold**
+    _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
 
 _o = _old(2)
 _pre, _tail = _o["blocks"][:-2], _o["blocks"][-2:]

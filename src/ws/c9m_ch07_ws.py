@@ -90,6 +90,9 @@ W("Cards numbered $11$ to $30$ are placed in a bag and one is drawn. Find the pr
 W("At the annual day a lucky draw has $200$ coupons: $1$ first prize, $4$ second prizes and $15$ third prizes; the rest win nothing. A coupon is drawn at random. Find the probability of (i) the first prize (ii) a second prize (iii) any prize (iv) no prize. Meena buys $5$ coupons; how many prizes can she expect on average?", 5, "(i) $\\frac1{200}$ (1). (ii) $\\frac4{200}=\\frac1{50}$ (1). (iii) $\\frac{20}{200}=\\frac1{10}$ (1). (iv) $1-\\frac1{10}=\\frac9{10}$ (1). Expected prizes $=5\\times\\frac1{10}=0.5$ (1).", "H", wp=True),
 ]
 
+for _w in WS:   # answer-key/question renderer does not interpret **bold**
+    _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
+
 _o = _old(7)
 _pre, _tail = _o["blocks"][:-2], _o["blocks"][-2:]
 _extra = [

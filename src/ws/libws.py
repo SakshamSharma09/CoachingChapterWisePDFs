@@ -50,7 +50,11 @@ table.ak td.lv{width:46px;text-align:center;font-weight:700;font-size:7.6pt}
 def _opts(opts):
     L = max(len(_h.unescape(re.sub(r"\$[^$]*\$", "xxxxxx", o))) for o in opts)
     cls = "" if L <= 16 else (" c2" if L <= 40 else " c1")
-    return f"<div class='o5{cls}'>" + "".join(f"<span><b>({l})</b>{lib.esc(o)}</span>" for l, o in zip("abcd", opts)) + "</div>"
+    return f"<div class='o5{cls}'>" + "".join(f"<span><b>({l})</b>{lib.esc(_md(o))}</span>" for l, o in zip("abcd", opts)) + "</div>"
+
+def _md(t):
+    """markdown-style **bold** that slipped into question/answer text -> <b>bold</b>"""
+    return re.sub(r"\*\*(.+?)\*\*", r"<b></b>", t, flags=re.S) if isinstance(t, str) else t
 
 def _split_parts(txt):
     txt = re.sub(r"\s\((ii|iii|iv|v|vi)\)\s", r"<br>(\1) ", txt)
@@ -96,12 +100,12 @@ def worksheet_html(meta, ws, key=False):
         if key:
             h += "<table class='ak'><tr><th style='width:30px'>Q.</th><th style='width:46px'>Level</th><th style='width:34px'>Marks</th><th>Answer / solution</th></tr>"
             for i, w in part:
-                h += f"<tr><td class='n'>{i}</td><td class='lv' style='color:{col};background:{bg}'>{label}</td><td class='m'>{w['marks']}</td><td>{w['ans']}</td></tr>"
+                h += f"<tr><td class='n'>{i}</td><td class='lv' style='color:{col};background:{bg}'>{label}</td><td class='m'>{w['marks']}</td><td>{_md(w['ans'])}</td></tr>"
             h += "</table>"
         else:
             for i, w in part:
                 tags = f"<span class='bd' style='background:{bg};color:{col};border:1px solid {col}'>{label}</span>" + ("<span class='wp'>WORD PROBLEM</span>" if w["wp"] else "")
-                body = tags + _split_parts(lib.esc(w["q"]))
+                body = tags + _split_parts(lib.esc(_md(w["q"])))
                 if w["opts"]: body += _opts(w["opts"])
                 if w["fig"]: body += f"<div class='fig5'>{w['fig']}</div>"
                 h += f"<div class='wq'><div class='no'>{i}.</div><div>{body}</div><div class='mk'>[{w['marks']}]</div></div>"

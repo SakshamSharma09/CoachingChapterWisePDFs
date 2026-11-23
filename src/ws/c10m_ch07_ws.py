@@ -79,7 +79,7 @@ W(r"Three vertices of a parallelogram $ABCD$ taken in order are $A(1,2)$, $B(4,3
 W(r"One end of a diameter of a circle is $(5,-1)$ and its centre is $(2,-3)$. Find the other end.", 2, r"Centre is the mid-point: $\dfrac{5+x}2=2$, $\dfrac{-1+y}2=-3$ (1). Other end $=(-1,-5)$ (1).", "M"),
 W(r"A drone flies in a straight line from $A(1,2)$ to $B(9,10)$ on a map grid. Find its position when it has covered $\dfrac34$ of the distance $AB$.", 3, r"It divides $AB$ in the ratio $3:1$ from $A$ (1). $x=\dfrac{3(9)+1(1)}4=7$, $y=\dfrac{3(10)+1(2)}4=8$ (1,1). Position $(7,8)$.", "M", wp=True),
 W(r"Find the values of $y$ for which the distance between $(2,-3)$ and $(10,y)$ is 10 units.", 3, r"$64+(y+3)^2=100$ (1) $\Rightarrow(y+3)^2=36$ (1). $y=3$ or $y=-9$ (1).", "M"),
-W(r"Find a point on the $x$-axis which is equidistant from $(-2,5)$ and $(2,-3)$.", 3, r"Point $(x,0)$: $(x+2)^2+25=(x-2)^2+9$ (1). $8x+29=-8x+13+\ldots$ i.e. $x^2+4x+29=x^2-4x+13$ (1) $\Rightarrow x=-2$. Point $(-2,0)$ (1).", "M"),
+W(r"Find a point on the $x$-axis which is equidistant from $(-2,5)$ and $(2,-3)$.", 3, r"Point $(x,0)$: $(x+2)^2+25=(x-2)^2+9$ (1). $x^2+4x+29=x^2-4x+13$ (1) $\Rightarrow 8x=-16$, $x=-2$. Point $(-2,0)$ (1).", "M"),
 W(r"A point $P(x,y)$ is equidistant from $A(3,6)$ and $B(-3,4)$. Find the relation between $x$ and $y$.", 3, r"$PA^2=PB^2$: $(x-3)^2+(y-6)^2=(x+3)^2+(y-4)^2$ (1). Expand: $-6x-12y+45=6x-8y+25$ (1). So $12x+4y=20$, i.e. $3x+y=5$ (1).", "M"),
 W(r"True or false? Give a reason. The points $(0,0)$, $(1,1)$ and $(2,2)$ are collinear.", 2, r"**True.** Distances: $\sqrt2$, $\sqrt2$ and $2\sqrt2$ (1), and $\sqrt2+\sqrt2=2\sqrt2$ (1).", "M"),
 W(r"Two opposite vertices of a square park on a map are $(-1,2)$ and $(3,2)$. Find the other two vertices.", 3, r"The diagonal is horizontal of length 4 with mid-point $(1,2)$ (1). The other diagonal is vertical, also of length 4, through $(1,2)$ (1). The vertices are $(1,4)$ and $(1,0)$ (1).", "M", wp=True),
@@ -88,7 +88,7 @@ W(r"In what ratio does the point $(-1,6)$ divide the line segment joining $(-3,1
 W(r"Show that the points $(-4,-1)$, $(-2,-4)$, $(4,0)$ and $(2,3)$ are the vertices of a rectangle.", 4, r"Let $A(-4,-1)$, $B(-2,-4)$, $C(4,0)$, $D(2,3)$. $AB=CD=\sqrt{13}$, $BC=DA=\sqrt{52}$ (2): opposite sides equal. Diagonals $AC=\sqrt{64+1}=\sqrt{65}$ and $BD=\sqrt{16+49}=\sqrt{65}$ (1). A parallelogram with equal diagonals is a **rectangle**; sides are unequal, so not a square (1).", "H"),
 W(r"Show that the points $(-3,2)$, $(-5,-5)$, $(2,-3)$ and $(4,4)$ are the vertices of a rhombus but not a square.", 4, r"$AB=\sqrt{4+49}$, $BC=\sqrt{49+4}$, $CD=\sqrt{4+49}$, $DA=\sqrt{49+4}$: all equal $\sqrt{53}$ (2), so it is a rhombus. Diagonals $AC=\sqrt{25+25}=\sqrt{50}$ and $BD=\sqrt{81+81}=\sqrt{162}$ (1). Diagonals are unequal, so it is **not a square** (1).", "H"),
 W(r"Show that $(1,7)$, $(4,2)$, $(-1,-1)$ and $(-4,4)$ are the vertices of a square.", 4, r"$AB=\sqrt{9+25}$, $BC=\sqrt{25+9}$, $CD=\sqrt{9+25}$, $DA=\sqrt{25+9}$: all $=\sqrt{34}$ (2). Diagonals $AC=\sqrt{4+64}=\sqrt{68}$, $BD=\sqrt{64+4}=\sqrt{68}$ (1). Equal sides and equal diagonals: a **square** (1).", "H"),
-W(r"The points $A(2,3)$, $B(4,k)$ and $C(6,-3)$ are collinear and $B$ lies between $A$ and $C$. Find $k$.", 4, r"Let $B$ divide $AC$ in the ratio $m:n$ (1). $x$-coordinate: $\dfrac{6m+2n}{m+n}=4\Rightarrow2m=2n$, so $m=n$ and $B$ is the mid-point (2). $k=\dfrac{3+(-3)}2=$ **0** (1).", "H"),
+W(r"The points $A(2,3)$, $B(4,k)$ and $C(6,-3)$ are collinear and $B$ lies between $A$ and $C$. Find $k$.", 3, r"Let $B$ divide $AC$ in the ratio $m:n$. $x$-coordinate: $\dfrac{6m+2n}{m+n}=4\Rightarrow2m=2n$ (1), so $m=n$ and $B$ is the mid-point (1). $k=\dfrac{3+(-3)}2=$ **0** (1).", "M"),
 W(r"A cable is stretched between poles at $(5,-6)$ and $(-1,-4)$ on a map grid. A boundary wall runs along the $y$-axis. In what ratio does the wall divide the cable and where does the cable cross it?", 4, r"Let the ratio be $k:1$; on the $y$-axis $x=0$: $\dfrac{-k+5}{k+1}=0$ (1) $\Rightarrow k=5$, ratio **$5:1$** (1). $y=\dfrac{5(-4)+1(-6)}6=-\dfrac{26}6$ (1). Crossing point $\left(0,-\dfrac{13}3\right)$ (1).", "H", wp=True),
 W(r"**Case study.** On a school map each unit is 100 m. The school $S$ is at $(0,0)$, the library $L$ at $(3,4)$, the hospital $H$ at $(6,8)$ and a park $P$ at $(-4,-3)$. (i) Find the distance $SL$ in metres. (ii) Show that $S$, $L$ and $H$ are collinear. (iii) Show that $L$ is the mid-point of $SH$. (iv) Show that the park is as far from the school as the library is, and find $PL$.", 5, r"(i) $SL=\sqrt{9+16}=5$ units $=$ **500 m** (1). (ii) $SH=\sqrt{36+64}=10$, $LH=\sqrt{9+16}=5$; $SL+LH=SH$ (1,1). (iii) Mid-point of $SH=(3,4)=L$ (1). (iv) $SP=\sqrt{16+9}=5=SL$ (500 m each); $PL=\sqrt{49+49}=7\sqrt2$ units $\approx990$ m (1).", "H", wp=True),
 W(r"If $P(x,y)$ is equidistant from $A(a+b,\,b-a)$ and $B(a-b,\,a+b)$, prove that $bx=ay$.", 4, r"$PA^2=PB^2$: $(x-a-b)^2+(y-b+a)^2=(x-a+b)^2+(y-a-b)^2$ (1). Expanding and cancelling the common terms: $-2x(a+b)+2x(a-b)-2y(b-a)+2y(a+b)=0$ (2). $-4bx+4ay=0$, so $bx=ay$ (1).", "H"),
@@ -100,11 +100,9 @@ W(r"If $A(6,1)$, $B(8,2)$, $C(9,4)$ and $D(p,3)$ are the vertices of a parallelo
 W(r"The centre of a circle is $(2a,\,a-7)$. Find the values of $a$ if the circle passes through $(11,-9)$ and has diameter $10\sqrt2$.", 4, r"Radius $=5\sqrt2$, so the distance from the centre to $(11,-9)$ is $5\sqrt2$ (1). $(2a-11)^2+(a-7+9)^2=50$ (1). $5a^2-40a+75=0\Rightarrow a^2-8a+15=0$ (1). $a=3$ or $a=5$ (1).", "H"),
 W(r"The mid-point of the line segment joining $A(2a,4)$ and $B(-2,2b)$ is $(1,\,2a+1)$. Find $a$ and $b$.", 3, r"$\dfrac{2a-2}2=1\Rightarrow a=2$ (1). $\dfrac{4+2b}2=2a+1=5$ (1) $\Rightarrow b=3$ (1).", "H"),
 ]
+WS.sort(key=lambda w: "EMH".index(w["level"]))   # keep the parts contiguous after a re-tag
 for _w in WS:
     _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
-for _w in WS:
-    if _w["q"].startswith("Find a point on the $x$-axis which is equidistant"):
-        _w["ans"] = r"Point $(x,0)$: $(x+2)^2+25=(x-2)^2+9$ (1). $x^2+4x+29=x^2-4x+13$ (1) $\Rightarrow 8x=-16$, $x=-2$. Point $(-2,0)$ (1)."
 
 _o = _old(7)
 _pre = _o["blocks"][:-2]
@@ -152,7 +150,7 @@ _extra = [
   ["Forgetting to take the square root", "distance = √[…]; compare squares only when you say so"],
   ["Weights the wrong way in the section formula", "m goes with the second point, n with the first"],
   ["Proving a square by sides only", "also show the diagonals are equal (a rhombus has equal sides too)"],
-  ["Taking k as a negative ratio", "for internal division k > 0; a negative k means the point is outside the segment"],
+  ["Getting a negative value of k", "for a point that lies on the segment the ratio k : 1 is positive; recheck the coordinates used"],
   ["Using one coordinate only to find k", "check the other coordinate to confirm the ratio"]]),
 ]
 CH = dict(_o, blocks=_pre + _extra + _o["blocks"][-2:], takeaways=_o["takeaways"] + ["**Identify figures** with distances: equal sides and equal diagonals give a square; equal diagonals bisecting each other give a rectangle or square.", "A point on an axis has the form **(x, 0) or (0, y)**; a ratio problem on an axis uses k : 1 with the zero coordinate.", "Map and distance word problems are the **distance, mid-point and section formulae** with a scale."])

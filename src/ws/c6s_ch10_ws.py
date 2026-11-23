@@ -36,7 +36,7 @@ W("In the seed germination activity, why did the seeds in pot B (always covered 
 W("Which pots gave sprouts: A (no water, sunlight), B (excess water, sunlight), C (moist, dark), D (moist, sunlight)? What can be concluded about light?", 3, "C and D (1+1). Seeds germinate in the dark too, so most seeds do not need light to germinate (1).", "M"),
 W("Why do farmers store grains and pulses in a dry place?", 2, "Moisture and air together could make the seeds sprout or spoil (1). Dry storage keeps them from germinating (1).", "M", wp=True),
 W("Name two seeds that need light to germinate and two that need darkness.", 2, "Need light: coleus, petunia (1). Need darkness: calendula, zinnia (1).", "M"),
-W("Describe in four steps what a gardener should do to sow a bean seed so that it germinates.", 3, "Choose good soil and loosen it (1); place the seed in the soil and cover it lightly (1); water it moderately so that the soil is moist but not flooded (1); keep it in a place where it gets air.", "M", wp=True),
+W("Describe the steps a gardener should follow to sow a bean seed so that it germinates.", 3, "Choose good soil and loosen it (1); place the seed in the soil and cover it lightly (1); water it moderately so that the soil is moist but not flooded (1); keep it in an open place where it gets air (steps 1-3 carry 1 mark each).", "M", wp=True),
 W("In a seedling experiment, the pot is turned upside down. What happens to the root and shoot after some days?", 2, "The root bends and grows downward (1) and the shoot bends and grows upward (1).", "M"),
 W("Name the stages in the life cycle of a bean plant in order.", 2, "Seed, germination (root and shoot), leaves, flowers, fruits (pods) with seeds. (2)", "M"),
 W("Why does a tadpole not look like an adult frog? Name two changes seen during its growth.", 2, "A tadpole has a tail and lives in water (1). Hind legs develop and the tail shrinks and disappears as it becomes a frog (1).", "M"),
@@ -54,7 +54,7 @@ W("Design an experiment to show that seeds need air to germinate. Mention what y
 W("List the characteristics of living beings in a table and give one animal and one plant example for any two of them.", 4, "Table of movement, growth, nutrition, respiration, excretion, response, reproduction, death (2). Examples: movement - dog moves, flowers open; response - cow moves away from a thorn, touch-me-not folds leaves (1+1).", "H"),
 W("A frog takes about 14 weeks to grow from an egg to an adult. The tadpole with legs is seen at 8 to 10 weeks and the froglet at 12 weeks. (i) How many weeks after the froglet stage does the adult appear? (ii) How does the froglet differ from the adult frog?", 4, "(i) 14 – 12 = 2 weeks (2). (ii) The froglet still has a shrinking tail and is small, the adult has no tail and strong legs for jumping (2).", "H", wp=True),
 W("A drain behind a house has stagnant water and many mosquitoes. A student says, \"Spray a mosquito repellent on the adults.\" Give a better, longer-lasting plan based on the life cycle.", 3, "Stop the breeding by removing the stagnant water or covering it (1). Spray kerosene or clean the drain so that larvae and pupae cannot breathe or grow (1). This breaks the life cycle, so adults are not produced (1).", "H", wp=True),
-W("Which characteristics of life does a growing banana plant show? Give one example of each from the plant.", 4, "Growth: gets taller and bigger (1). Nutrition: makes food with sunlight, water and minerals (1). Respiration: exchanges air through stomata (1). Reproduction: gives suckers and seeds or fruits (1).", "H"),
+W("Which characteristics of life does a growing banana plant show? Give one example of each from the plant.", 4, "Growth: gets taller and bigger (1). Nutrition: makes food with sunlight, water and minerals (1). Respiration: exchanges air through stomata (1). Reproduction: forms flowers and fruits and new plants grow from suckers (1).", "H"),
 W("Compare a seed and a pebble. Which living characteristics does the seed show under right conditions and which does the pebble never show?", 3, "A seed germinates, grows into a plant, needs water and air and can produce new seeds (2). A pebble shows none of these (1).", "H"),
 W("Why is it wrong to say, \"A mosquito's larva and adult live in the same place and look alike\"? Give two differences between them.", 3, "They look very different and live in different places (1). The larva lives in water and has a worm-like body (1). The adult has wings and flies in the air (1).", "H"),
 W("Describe how J. C. Bose's crescograph helped in showing that plants respond to stimuli. Why is this important?", 3, "The crescograph recorded growth and movement of plants (1) when light, heat, electricity and gravity acted on them (1). It showed that plants can sense and respond to stimuli, so they are living (1).", "H"),
@@ -64,6 +64,12 @@ W("Why can we say that reproduction is necessary for the continuity of life even
 ]
 
 CH = _base()
+def _fix(x, old, new):
+    if isinstance(x, str): return x.replace(old, new)
+    if isinstance(x, list): return [_fix(i, old, new) for i in x]
+    if isinstance(x, tuple): return tuple(_fix(i, old, new) for i in x)
+    return x
+CH["blocks"] = _fix(CH["blocks"], 'Adult lives about 10–15 days', 'Life cycle can be broken by removing stagnant water')
 CH["blocks"] += [
  ("h2", "10.7 Living or Non-living: Test Table"),
  ("table", ["Thing", "Moves", "Grows", "Needs food", "Breathes", "Reproduces", "Living?"],

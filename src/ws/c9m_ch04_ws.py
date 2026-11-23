@@ -93,6 +93,9 @@ W("Two cubical blocks have edges $a$ cm and $b$ cm with $a+b=10$ and total volum
 W("Find the error in this 'proof' that $2=1$: let $a=b$. Then $a^2=ab$, so $a^2-b^2=ab-b^2$, so $(a+b)(a-b)=b(a-b)$, so $a+b=b$, so $2b=b$, so $2=1$.", 3, "The step 'cancel $(a-b)$' is wrong (2): since $a=b$, $(a-b)=0$, and division by zero is not allowed (1). The identity steps are fine; only the cancellation is invalid.", "H"),
 ]
 
+for _w in WS:   # answer-key/question renderer does not interpret **bold**
+    _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
+
 _o = _old(4)
 _pre, _tail = _o["blocks"][:-2], _o["blocks"][-2:]
 _extra = [

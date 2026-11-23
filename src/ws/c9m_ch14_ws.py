@@ -100,6 +100,11 @@ for _w in WS:
 
 _o = _old(14)
 _pre = _lt(_o["blocks"][:-2])
+def _fix(x):   # the NCERT chapter has no 'Earth as a thin layer' guesstimate; use the chapter's own brick exercise
+    if isinstance(x, str): return x.replace("Water on the Earth as a thin layer", "Bricks in the walls of a classroom (end-of-chapter exercise)").replace("Volume = surface area × thickness", "Volume of the walls ÷ volume of one brick (allow for gaps and doors)")
+    if isinstance(x, (list, tuple)): return type(x)(_fix(i) for i in x)
+    return x
+_pre = _fix(_pre)
 _extra = [
  ("h2", "Choosing the Right Formula"),
  ("table", ["Question says", "Use", "Reason"], [

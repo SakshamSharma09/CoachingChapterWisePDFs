@@ -27,8 +27,8 @@ assert p([36, -13, 1], 4) == 0 == p([36, -13, 1], 9) and p([6, -5, 1], 3) == 0 a
 assert p([480, -52, 1], 40) == 0 == p([480, -52, 1], 12) and 40 + 16 == 2 * (12 + 16)
 assert p([6, 1, 1][::1], 0) == 6 and p([-6, 1, 1], 2) == 0 == p([-6, 1, 1], -3) and (-3) ** 3 + 2 ** 3 == -19
 assert p([23, -10, 1], 5 + 2) != 0 and 7 + 2 * 6 + 4 == 23
-# a=3: (a^2+9)x^2+13x+6a = 18x^2+13x+18 has reciprocal zeros: product 1
-assert 6 * 3 == 3 ** 2 + 9
+# (k+1)x^2-10x+(2k-2) with k=3 is 4x^2-10x+4 = 2(2x-1)(x-2): zeroes 1/2 and 2 (reciprocals, real)
+assert p([4, -10, 4], 2) == 0 == p([4, -10, 4], F(1, 2)) and 2 * 3 - 2 == 3 + 1
 
 WS = [
 # ---------------- EASY ----------------
@@ -71,10 +71,10 @@ W(r"Two numbers have sum 20 and product 96. Form a quadratic polynomial whose ze
 W(r"Find the zeroes of $x^2-3$ and verify the relation between the zeroes and the coefficients.", 3, r"$x^2-3=(x-\sqrt3)(x+\sqrt3)$, zeroes $\sqrt3,-\sqrt3$ (1). Sum $=0=-\dfrac01$ ✓ (1). Product $=-3=\dfrac{-3}{1}$ ✓ (1).", "M"),
 # ---------------- HARD ----------------
 W(r"A diver jumps from a platform. Her height (in m) above the water $t$ seconds after the jump is $h(t)=-5t^2+10t+15$. (i) After how many seconds does she hit the water? (ii) Why is one zero of $h$ rejected? (iii) Verify that the sum and product of both zeroes agree with the coefficients.", 4, r"(i) $-5(t^2-2t-3)=-5(t-3)(t+1)=0$ gives $t=3$ or $t=-1$ (1). She hits the water after **3 s** (1). (ii) $t=-1$ is before the jump, so time cannot be negative (1). (iii) Sum $=2=-\dfrac{10}{-5}$ ✓, product $=-3=\dfrac{15}{-5}$ ✓ (1).", "H", wp=True),
-W(r"If $\alpha,\beta$ are the zeroes of $x^2-5x+k$ and $\alpha-\beta=1$, find $k$.", 3, r"$\alpha+\beta=5$ and $\alpha-\beta=1$ (1) give $\alpha=3,\beta=2$ (1). $k=\alpha\beta=6$ (1).", "H"),
+W(r"If $\alpha,\beta$ are the zeroes of $x^2-5x+k$ and $\alpha-\beta=1$, find $k$.", 3, r"$\alpha+\beta=5$ and $\alpha-\beta=1$ (1) give $\alpha=3,\beta=2$ (1). $k=\alpha\beta=6$ (1).", "M"),
 W(r"If $\alpha,\beta$ are the zeroes of $3x^2-5x-2$, form a quadratic polynomial whose zeroes are $\dfrac1\alpha$ and $\dfrac1\beta$. Verify by finding the actual zeroes.", 4, r"$\alpha+\beta=\dfrac53$, $\alpha\beta=-\dfrac23$ (1). New sum $=\dfrac{\alpha+\beta}{\alpha\beta}=-\dfrac52$, new product $=\dfrac1{\alpha\beta}=-\dfrac32$ (1). Polynomial $x^2+\dfrac52x-\dfrac32$, i.e. $2x^2+5x-3$ (1). Check: zeroes of $3x^2-5x-2=(3x+1)(x-2)$ are $-\dfrac13,2$; reciprocals $-3,\dfrac12$ are the zeroes of $(2x-1)(x+3)$ ✓ (1).", "H"),
 W(r"If $\alpha,\beta$ are the zeroes of $x^2-5x+6$, form a quadratic polynomial whose zeroes are $\alpha^2$ and $\beta^2$.", 4, r"$\alpha+\beta=5$, $\alpha\beta=6$ (1). New sum $=\alpha^2+\beta^2=25-12=13$ (1). New product $=(\alpha\beta)^2=36$ (1). Polynomial $x^2-13x+36$ (zeroes 4, 9 ✓) (1).", "H"),
-W(r"If one zero of $(a^2+9)x^2+13x+6a$ is the reciprocal of the other, find the value of $a$.", 4, r"Zeroes $\alpha$ and $\dfrac1\alpha$, so their product is 1 (1). Product $=\dfrac{6a}{a^2+9}=1$ (1) $\Rightarrow a^2-6a+9=0$ (1) $\Rightarrow(a-3)^2=0$, $a=3$ (1).", "H"),
+W(r"If one zero of $(k+1)x^2-10x+(2k-2)$ is the reciprocal of the other, find $k$ and both zeroes.", 4, r"Zeroes $\alpha$ and $\dfrac1\alpha$, so their product is 1 (1). Product $=\dfrac{2k-2}{k+1}=1$ (1) $\Rightarrow 2k-2=k+1$, $k=3$ (1). The polynomial is $4x^2-10x+4=2(2x-1)(x-2)$, zeroes $\dfrac12$ and $2$ (1).", "H"),
 W(r"If one zero of $3x^2-8x+2k+1$ is seven times the other, find the zeroes and the value of $k$.", 4, r"Let the zeroes be $\alpha$ and $7\alpha$. Sum: $8\alpha=\dfrac83\Rightarrow\alpha=\dfrac13$ (1). Zeroes $\dfrac13$ and $\dfrac73$ (1). Product: $\dfrac79=\dfrac{2k+1}{3}$ (1) $\Rightarrow 2k+1=\dfrac73$, $k=\dfrac23$ (1).", "H"),
 W(r"A fountain jet leaves the nozzle at ground level at the point $(0,0)$ and lands again on the ground at $(6,0)$, where $x$ is the horizontal distance and $y$ the height in metres. At $x=1$ the water is 5 m high. (i) Find the quadratic polynomial $y=p(x)$. (ii) Verify the sum and product of its zeroes. (iii) Find the height at $x=3$.", 4, r"(i) Zeroes 0 and 6, so $p(x)=kx(x-6)$ (1). $p(1)=-5k=5\Rightarrow k=-1$, so $p(x)=-x^2+6x$ (1). (ii) Sum $=6=-\dfrac6{-1}$ ✓, product $=0=\dfrac0{-1}$ ✓ (1). (iii) $p(3)=-9+18=9$ m (1).", "H", wp=True),
 W(r"Find $k$ such that the graph of $y=x^2-4x+k$ touches the $x$-axis at exactly one point, and find that point.", 3, r"A single (repeated) zero means $\alpha=\beta$ (1). Sum $=2\alpha=4\Rightarrow\alpha=2$ (1). Product $=\alpha^2=k=4$; the polynomial is $(x-2)^2$ and the point is $(2,0)$ (1).", "H"),
@@ -85,6 +85,7 @@ W(r"The present ages (in years) of a father and his son are the zeroes of $x^2-5
 W(r"If $\alpha,\beta$ are the zeroes of $x^2-6x+7$, find a quadratic polynomial whose zeroes are $\alpha+2$ and $\beta+2$.", 3, r"$\alpha+\beta=6$, $\alpha\beta=7$ (1). New sum $=6+4=10$ (1). New product $=\alpha\beta+2(\alpha+\beta)+4=7+12+4=23$ (1). Polynomial: $x^2-10x+23$.", "H"),
 W(r"If $\alpha,\beta$ are the zeroes of $x^2+x-6$, find $\alpha^3+\beta^3$ using the sum and product, and check by finding the zeroes.", 4, r"$\alpha+\beta=-1$, $\alpha\beta=-6$ (1). $\alpha^3+\beta^3=(\alpha+\beta)^3-3\alpha\beta(\alpha+\beta)$ (1) $=-1-3(-6)(-1)=-1-18=-19$ (1). Check: zeroes $2$ and $-3$: $8-27=-19$ ✓ (1).", "H"),
 ]
+WS.sort(key=lambda w: "EMH".index(w["level"]))   # keep the parts contiguous after a re-tag
 for _w in WS:
     _w["q"] = _w["q"].replace("**", ""); _w["ans"] = _w["ans"].replace("**", "")
 
