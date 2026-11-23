@@ -78,3 +78,8 @@ _old_unorganized/ and _incoming/ (git-ignored; safe to delete after checking)
 2. Ask for / receive: Class 9 Science Part 2, remaining Maths Part 2 chapters, any other second books.
 3. Fill gaps in §5 in priority order: Maths notes (6–7, 8–9 Book 1), Class 10 notes, school-pattern for Classes 6–7 and Class 9 English/Hindi.
 4. Run an independent answer-key audit (maths first) and a visual QA of all PDFs.
+
+
+---
+## Update (2026-11) — later work
+After 2026-11-01 the project gained: graded papers (4 tiers) with unit/full-year/MCQ tests; extras (AR, case, formula sheets, mistakes boxes); Class 5 model papers (RSCERT PELLE pattern, unsolved/key/solved); Class 8 Gulmohar and Ruskin Bond readers; ~50-question worksheets, keys and detailed notes for all 257 chapters of Classes 6-10; independent review logs. The tables in section 3 above are therefore outdated; the authoritative description is `docs/ARCHITECTURE.md`.
