@@ -76,8 +76,8 @@ WS = [
    "The 100 mL cylinder (1): it measures 70 mL in one step with good accuracy; 50 mL needs two steps and 500 mL is less accurate (1).", "M", wp=True),
  W("Between the marks 0 and 50 mL of a 250 mL measuring cylinder there are 25 equal divisions. Find the least count. What volume is read if the bottom of the meniscus is 3 divisions above the 40 mL mark?", 2,
    "Least count = 50 ÷ 25 = 2 mL (1). Volume = 40 + 3 × 2 = 46 mL (1).", "M"),
- W("Why does hot air rise? Why does a hot-air balloon go up when its air is heated?", 3,
-   "On heating, the air expands (volume increases) while its mass stays the same (1), so its density decreases (1). The balloon's hot air is less dense than the cooler air around it and rises, lifting the balloon (1).", "M"),
+ W("Why does the density of a fixed mass of air decrease when it is heated? Give one everyday effect of this.", 3,
+   "On heating, the air expands (volume increases) while its mass stays the same (1), so density = mass / volume decreases (1). Everyday effect: warm air, being less dense than the cooler air around, rises (for example smoke rising above a fire or air above a hot tawa) (1).", "M"),
  W("Riya's egg sinks in a glass of tap water. What can she add to the water to make the egg float, and why does it work?", 3,
    "Common salt (1). Dissolving salt increases the density of the liquid (1). When the liquid's density becomes greater than that of the egg, the egg floats (1).", "M", wp=True),
  W("In winter the water at the surface of a pond in a hill station freezes, yet the fish below survive. Explain with reference to ice and water.", 3,
@@ -95,8 +95,8 @@ WS = [
  W("Oil has a density of 0.91 g/cm<sup>3</sup>. Neha buys 2.5 L of oil from a shop in Jaipur. Find the mass of the oil in grams and in kg. (1 L = 1000 cm<sup>3</sup>)", 3,
    "Volume = 2.5 × 1000 = 2500 cm<sup>3</sup> (1). Mass = density × volume = 0.91 × 2500 = 2275 g (1) = 2.275 kg (1).", "M", wp=True),
 
- W("A student needs 25 mL of coloured juice from a measuring cylinder. Where should he read the meniscus, and how should he place the cylinder and his eye?", 2,
-   "Place the cylinder on a flat surface and keep the eye level with the meniscus (1); for a coloured liquid read the top of the meniscus (for colourless water, the bottom) (1).", "M", wp=True),
+ W("A student needs to measure out 25 mL of water in a measuring cylinder. How should he place the cylinder, where should his eye be, and which part of the meniscus should he read?", 2,
+   "Place the cylinder on a flat surface and keep the eye level with the meniscus (1); for water and other colourless liquids read the mark at the bottom of the meniscus (1).", "M", wp=True),
 
 # ---------------- HARD ----------------
  W("The table gives the mass and volume of four solid samples: A (120 g, 100 cm<sup>3</sup>); B (80 g, 100 cm<sup>3</sup>); C (150 g, 200 cm<sup>3</sup>); D (54 g, 20 cm<sup>3</sup>). Find the density of each, state which would float in water, and arrange them in order of increasing density.", 4,

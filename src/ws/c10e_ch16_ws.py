@@ -64,7 +64,7 @@ CH = dict(num=16, title="The Necklace", tag="English - Footprints Without Feet",
  blocks=[
  ("h2", "1. About the author and the story"),
  ("p", "**Guy de Maupassant** was a French writer famous for short stories with a surprising ending. 'The Necklace' is written in the **third person**. Names such as M. and Mme (Monsieur and Madame), francs and sous, and places like the Palais-Royal and the Champs-Elysees show that the story is set in Paris and that the characters speak French; the text is a translation."),
- ("table", ["Point", "Detail"], [["Genre", "Short story with irony and a twist ending"], ["Setting", "Paris, in the nineteenth century"], ["Main characters", "Matilda (Mme Loisel), M. Loisel, Mme Forestier"], ["Theme", "Vanity, honesty, contentment, consequences of pride"], ["Key object", "The (false) diamond necklace"]]),
+ ("table", ["Point", "Detail"], [["Genre", "Short story with irony and a twist ending"], ["Setting", "Paris"], ["Main characters", "Matilda (Mme Loisel), M. Loisel, Mme Forestier"], ["Theme", "Vanity, honesty, contentment, consequences of pride"], ["Key object", "The (false) diamond necklace"]]),
  ("h2", "2. Summary in order"),
  ("ol", [
   "Matilda, born into a family of clerks, had no dowry and married a petty clerk of the Board of Education. She was always unhappy, longing for luxury, and avoided her rich convent friend, Mme Forestier, because visiting her made her despair.",
@@ -102,7 +102,7 @@ CH = dict(num=16, title="The Necklace", tag="English - Footprints Without Feet",
  ("table", ["Device", "Example", "Effect"], [
   ["Irony", "The false necklace that ruined them", "Shock and moral lesson"],
   ["Contrast", "Matilda at the ball / in the attic", "Shows the effect of the loss"],
-  ["Foreshadowing", "'How small a thing will ruin or save one!'", "Prepares for the twist"],
+  ["Authorial comment", "'How small a thing will ruin or save one!'", "Reflects on the effect of the lost necklace"],
   ["Symbolism", "The necklace stands for false show and vanity", "Deepens the theme"],
   ["Description", "'her hair badly dressed, her skirts awry, her hands red'", "Shows the change"],
   ["Surprise ending", "'Mine were false.'", "A memorable twist"]]),

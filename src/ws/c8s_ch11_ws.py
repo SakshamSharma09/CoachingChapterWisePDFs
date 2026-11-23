@@ -121,7 +121,7 @@ WS = [
  W("Classify each festival as based on a lunar, luni-solar or solar-sidereal calendar and say whether its Gregorian date is nearly fixed: Diwali, Eid-ul-Fitr, Pongal, Buddha Purnima.", 4,
    "Diwali: luni-solar, date varies within a month (1). Eid-ul-Fitr: purely lunar, moves about 11 days earlier each year (1). Pongal: solar-sidereal, nearly fixed date (1). Buddha Purnima: luni-solar (full Moon of Vaisakha), date varies (1).", "H"),
  W("Give three arguments to show that the Earth's shadow cannot be the cause of the Moon's phases.", 3,
-   "Phases occur every month, but lunar eclipses occur only on a full Moon, and not even every full Moon (1). On the crescent Moon the bright side always faces the Sun, not away from the Earth's shadow (1). At new Moon, when the Moon is close to the Sun in the sky, it is not in Earth's shadow; the ball-and-lamp model gives all phases without any shadow of the head (1).", "H"),
+   "Phases change a little every night and repeat every month, but lunar eclipses are rare and happen only on some full Moon days (1). The Earth's shadow points away from the Sun, so it can fall on the Moon only when the Moon is opposite the Sun (full Moon); crescent, quarter and new Moon positions are near the Sun or at the side, where there is no Earth shadow (1). The ball-and-lamp model gives every phase with no shadow involved: it is only the fraction of the lit half that faces us that changes (1).", "H"),
 ]
 
 _base = _old(11)

@@ -104,7 +104,7 @@ blocks=[
  ["Repetition", "'Never, never, and never again'"],
  ["Simile / comparison", "people 'finer and truer than the purest diamonds'"],
  ["Parallel structure", "'transformed a frightened young man into a bold one, drove a law-abiding attorney to become a criminal, turned a family-loving husband into a man without a home'"],
- ["Personification / imagery", "'The sun shall never set on so glorious a human achievement'"],
+ ["Metaphor / hyperbole", "'The sun shall never set on so glorious a human achievement'"],
 ]),
 ("h2", "6. Vocabulary"),
 ("table", ["Word", "Meaning"], [

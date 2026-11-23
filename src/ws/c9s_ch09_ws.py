@@ -67,7 +67,7 @@ W("Mature human red blood cells have no nucleus. State one advantage and one dis
   "Advantage: more room for haemoglobin, so more oxygen is carried (1). Disadvantage: the cell cannot divide or repair itself and lives only about 120 days (1).", "M"),
 W("Why was the invention of the microscope necessary for the discovery of cells?", 2,
   "The human eye can distinguish two points only if they are about 0.1 mm apart (1), and most cells are smaller than this, so magnifying instruments are needed to see them (1).", "M"),
-W("A typical blood cell is 50 &micro;m across. How many such cells placed side by side would make a line 1 mm long?", 2,
+W("A cell is 50 &micro;m across. How many such cells placed side by side would make a line 1 mm long?", 2,
   "1 mm = 1000 &micro;m (1). Number = 1000/50 = 20 cells (1).", "M", wp=True),
 W("Write any three differences between mitosis and meiosis.", 3,
   "Mitosis: occurs in body cells; one division giving two daughter cells; chromosome number stays the same; daughter cells identical to the parent; for growth and repair. Meiosis: only in reproductive organs; two divisions giving four cells; chromosome number is halved; cells are genetically varied; makes gametes. (any 3 points, 1 mark each)", "M"),

@@ -46,8 +46,8 @@ W("Why do people carrying loads on their heads put a round piece of cloth under 
 # ------------------------------------------------------------------ MEDIUM (19)
 W("An elephant weighing 20000 N stands on four feet; each foot has area 0.25 m<sup>2</sup>. Find the pressure on the ground.", 3,
   "Total area = 4 x 0.25 = 1 m<sup>2</sup> (1). Pressure = 20000 / 1 (1) = 20000 Pa (1).", "M", wp=True),
-W("Boat A (base area 7 m<sup>2</sup>) carries 5 persons and boat B (base area 3.5 m<sup>2</sup>) carries 3 persons. Each person weighs 700 N. Which boat exerts more pressure on its base and by how much?", 4,
-  "A: force = 5 x 700 = 3500 N, pressure = 3500 / 7 = 500 Pa (1.5). B: force = 3 x 700 = 2100 N, pressure = 2100 / 3.5 = 600 Pa (1.5). Boat B has more pressure, by 100 Pa (1).", "H", wp=True),
+W("Boat A (base area 7 m<sup>2</sup>) carries 5 persons and boat B (base area 3.5 m<sup>2</sup>) carries 3 persons. Each person weighs 700 N. Which boat exerts more pressure on its base and by how much?", 3,
+  "A: force = 5 x 700 = 3500 N, pressure = 3500 / 7 = 500 Pa (1). B: force = 3 x 700 = 2100 N, pressure = 2100 / 3.5 = 600 Pa (1). Boat B has more pressure, by 100 Pa (1).", "M", wp=True),
 W("A student weighing 400 N stands (i) on both feet, with total contact area 0.04 m<sup>2</sup>, (ii) on one foot. Find the pressure in each case.", 3,
   "(i) 400 / 0.04 = 10000 Pa (1.5). (ii) Area is 0.02 m<sup>2</sup> so pressure = 400 / 0.02 = 20000 Pa (1.5). Pressure doubles.", "M", wp=True),
 W("A brick weighing 20 N has faces 20 cm x 10 cm and 10 cm x 5 cm. Find the pressure when it rests on each face.", 3,

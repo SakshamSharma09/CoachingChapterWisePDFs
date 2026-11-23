@@ -19,7 +19,7 @@ W("Why does the poet use the phrase 'honey-coloured'?", 2, "To describe the gold
 W("True or false: The poet scolds Anne for being vain. Give a reason.", 2, "False. The poet is kind and gentle; he talks to Anne about the nature of true love. (2)", "E"),
 W("Give a synonym for 'declare' and for 'despair'.", 2, "declare: state / announce; despair: hopelessness (1+1)", "E"),
 W("Name the three speakers or voices in the poem.", 2, "The poet (first speaker), Anne (who answers) and, in the last stanza, the poet reporting the old religious man. (2)", "E"),
-W("Which line is repeated at the end of every stanza?", 2, "'And not your yellow hair' (with 'Love you for yourself alone' before it). (2)", "E"),
+W("Which line is repeated at the end of every stanza?", 2, "'And not your yellow hair' (preceded by 'Love you for yourself alone'); in Anne's stanza it becomes 'my yellow hair'. (2)", "E"),
 # ---------------- MEDIUM ----------------
 W("Read: 'Love you for yourself alone / And not your yellow hair.' (i) What does 'yourself alone' mean? (ii) What does the refrain stress?", 3, "(i) Her inner nature, character and personality. (ii) The poem's main idea: true love is for what a person is, not for appearance. (1+2)", "M"),
 W("Explain 'great honey-coloured ramparts at your ear'. Name the figure of speech.", 3, "Metaphor: Anne's thick yellow hair is shown as high walls (ramparts) at her ears, a defence that attracts and protects. (1+2)", "M"),
@@ -30,7 +30,7 @@ W("What is the purpose of the old religious man's statement in the last stanza?"
 W("What is the tone of the poem?", 2, "Gently serious, thoughtful, with a touch of wit. (2)", "M"),
 W("Why is 'despair' a strong word in the line about young men?", 2, "It exaggerates the helpless longing of young men who are overcome by Anne's beauty, giving a light, playful touch. (2)", "M"),
 W("Explain the difference between loving someone's looks and loving someone for herself.", 3, "Looks are outer and may change; the self (character, thoughts, kindness) is inner and lasting. The poem says true love is for the self. (3)", "M"),
-W("Identify the device in 'yellow hair' and 'honey-coloured'.", 2, "Imagery / metaphor: golden hair is compared to the sweet colour of honey. (2)", "M"),
+W("Identify the device in 'yellow hair' and 'honey-coloured'.", 2, "Colour imagery; 'honey-coloured' is a compound adjective that compares the hair's colour to honey. (2)", "M"),
 W("How does the poem move from stanza 1 to stanza 3?", 3, "Stanza 1: the poet states the problem. Stanza 2: Anne's clever reply. Stanza 3: the old man's answer that only God loves us for ourselves. The movement is from complaint to reply to conclusion. (3)", "M"),
 W("Is the poem a dialogue? Support your answer.", 2, "Partly: the poet speaks, Anne replies, and then the poet reports another speaker, so there are several voices. (2)", "M"),
 W("What do the words 'only God' suggest about human love?", 3, "That human love is usually mixed with attraction and wishes, and that pure, unconditional love belongs to God alone. (3)", "M"),

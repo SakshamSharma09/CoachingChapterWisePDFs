@@ -88,7 +88,7 @@ W("'A planned economy always uses resources in the best way.' Critically examine
 W("Farmers must choose between sugarcane and paddy on one side and millets and pulses on the other. Evaluate the choice in terms of profit, water, soil health and sustainability, and suggest what a sensible policy might do.", 4,
   "Sugarcane and paddy: higher profit and support industries such as sugar, but water-intensive (1.5). Millets and pulses: drought-resistant, save water, improve soil health and promote sustainable farming (1.5). A sensible policy balances short-term income with long-term sustainability, e.g. encouraging crops suited to local water availability (1).", "H", wp=True),
 W("Firm X has 80 workers and 2 machines. Firm Y has 10 workers and 30 machines. (i) Which is labour-intensive and which capital-intensive? (ii) If wages rise sharply and machines become cheaper, what is each firm likely to do? (iii) Name two other factors that influence the choice.", 4,
-  "(i) X labour-intensive, Y capital-intensive (1). (ii) Both will tend to shift towards machines, and X more so; costly labour makes machines more efficient (1.5). (iii) Level of technology, nature of the product, availability of labour, laws and regulations (any two) (1.5, minus rounding).", "H", wp=True),
+  "(i) X labour-intensive, Y capital-intensive (1). (ii) Both will tend to shift towards machines, and X more so; costly labour makes machines more efficient (1.5). (iii) Level of technology, nature of the product, availability of labour, laws and regulations (any two) (1.5).", "H", wp=True),
 W("Why do pure economic systems rarely exist in reality? Why is a mixed economy considered more practical?", 4,
   "Pure planned systems lack competition and innovation; pure market systems cannot supply public goods, protect consumers or ensure fair competition on their own (2). Hence even the USA and Singapore have major government involvement. A mixed economy combines private enterprise and competition with regulation, public goods and welfare, so it is more practical (2).", "H"),
 W("The government has limited revenue and must choose between highways and hospitals. Apply the ideas of scarcity, opportunity cost and data to explain how it should decide.", 4,
@@ -112,6 +112,7 @@ W("Passage-based. 'In reality, most economies have features of mixed economic sy
 _old = runpy.run_path(str(REPO / "src/rn_work/c9_sst/c01.py"))["CH"]
 _i = max(k for k, b in enumerate(_old["blocks"]) if b[0] == "h2")
 _core = _old["blocks"][:_i]
+_core = __import__('ast').literal_eval(repr(_core).replace('Limited and fairly stable', 'Essential for living and working'))
 _extra = [
  ("h2", "Timeline and Key Numbers"),
  ("table", ["Period / number", "Fact"], [

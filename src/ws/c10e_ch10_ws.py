@@ -61,7 +61,7 @@ CH = dict(num=10, title="A Triumph of Surgery", tag="English - Footprints Withou
  big_questions=["Why is Mrs Pumphrey worried about Tricki?", "What does she do to help him, and is she wise?", "Who is the 'I' of the story?", "Was there really a surgery?"],
  blocks=[
  ("h2", "1. About the author and the lesson"),
- ("p", "**James Herriot** was a veterinary surgeon who wrote many books of warm, humorous stories about animals and their owners. 'A Triumph of Surgery' is told in the **first person**: the narrator ('I') is Herriot himself, a vet at a small surgery which he shares with partners (one of them, Tristan, feeds the dogs). The lesson shows the contrast between a sensible professional and a rich, anxious owner."),
+ ("p", "**James Herriot** was a veterinary surgeon who wrote many books of warm, humorous stories about animals and their owners. 'A Triumph of Surgery' is told in the **first person**: the narrator ('I') is Herriot himself, a vet at a small surgery where he works with partners; Tristan, who helps at the surgery, feeds the dogs. The lesson shows the contrast between a sensible professional and a rich, anxious owner."),
  ("table", ["Point", "Detail"], [["Genre", "Humorous prose narrative (short story / real-life episode)"], ["Narrator", "Herriot, the vet"], ["Setting", "Mrs Pumphrey's house and Herriot's surgery"], ["Tone", "Light, gently ironic, affectionate"], ["Moral", "Over-indulgence harms; firmness and exercise cure"]]),
  ("h2", "2. Summary in order"),
  ("ol", [
@@ -78,7 +78,7 @@ CH = dict(num=10, title="A Triumph of Surgery", tag="English - Footprints Withou
   ["Mrs Pumphrey", "Rich, loving, anxious, foolishly indulgent", "A wardrobe of coats, wine and brandy sent, cannot refuse cream cakes"],
   ["Tricki", "Greedy, pampered, then lively and strong", "Bloated at first; 'fighting like a tiger' for his share later"],
   ["Hodgkin", "The gardener (suffering from lumbago)", "Cannot throw rings for Tricki"],
-  ["Tristan", "Herriot's partner", "Slops food into the bowls at feeding time"],
+  ["Tristan", "Works at the surgery with Herriot", "Slops food into the bowls at feeding time"],
   ["Joe", "The greyhound who leads the pack", "Engulfs Tricki when he comes out"]]),
  ("h2", "4. Theme and values"),
  ("ul", [

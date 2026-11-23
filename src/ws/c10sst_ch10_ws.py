@@ -33,8 +33,8 @@ W("Name two hydroelectric projects and two states in which uranium and thorium a
   "Hydroelectric: any two of Bhakra Nangal, Damodar Valley Corporation, Kopili Hydel Project (1). Uranium and thorium: Jharkhand and the Aravalli ranges of Rajasthan (thorium also in monazite sands of Kerala) (1).", "E"),
 W("Expand HVJ and say what the pipeline links.", 2,
   "Hazira-Vijaipur-Jagdishpur (1). It is a 1,700 km pipeline linking the Mumbai High and Bassein gas fields with fertiliser, power and industrial complexes in western and northern India (1).", "E"),
-W("Which two states have the largest wind farm cluster? Name its extent.", 2,
-  "The largest cluster is in Tamil Nadu, from Nagercoil to Madurai (1). Nagercoil and Jaisalmer are well known for wind energy; Andhra Pradesh, Karnataka, Gujarat, Kerala, Maharashtra and Lakshadweep also have wind farms (1).", "E"),
+W("Which state has the largest wind farm cluster, and between which two places does it extend?", 2,
+  "The largest cluster is in Tamil Nadu, from Nagarcoil to Madurai (1). Nagercoil and Jaisalmer are well known for wind energy; Andhra Pradesh, Karnataka, Gujarat, Kerala, Maharashtra and Lakshadweep also have wind farms (1).", "E"),
 # ------------------------------------------------------------------ MEDIUM (20)
 ar("Minerals in igneous and metamorphic rocks occur as veins and lodes.", "Minerals in liquid or gaseous form are forced upward through cracks and crevices, where they cool and solidify.", 0, "Metallic minerals such as tin, copper, zinc and lead are obtained from veins and lodes.", "M"),
 ar("Magnetite is regarded as the finest iron ore.", "It contains up to 70 per cent iron and has excellent magnetic qualities.", 0, "Haematite is more important in quantity but has only 50-60 per cent iron.", "M"),
@@ -91,8 +91,8 @@ W("Electricity saving problem. A school in Jaipur replaces 40 tube-lights of 60 
   "Saving per light = 60 - 20 = 40 W; for 40 lights = 1,600 W = 1.6 kW (1). Energy saved per day = 1.6 x 6 = 9.6 kWh (1). Per month = 9.6 x 25 = 240 kWh (1). Money = 240 x 8 = Rs 1,920 (1).", "H", wp=True),
 W("Why should conservation of mineral resources be given priority in India? Explain the three measures suggested in the text.", 4,
   "Mineral resources are finite and non-renewable; they take millions of years to form and are being used up quickly (1). Planned and sustainable use of minerals is essential (1). Improved technologies should allow the use of low-grade ores at low cost (1). Recycling of metals and use of scrap metals and substitutes help to reduce waste (1).", "H"),
-W("Study the statement: 'Hematite ore is the most important industrial iron ore in terms of quantity, but magnetite is the finest.' (i) Give the iron content of each. (ii) Why is magnetite valuable in the electrical industry? (iii) Name one state where each is mined.", 4,
-  "(i) Magnetite up to 70 per cent; hematite 50 to 60 per cent (1.5). (ii) It has excellent magnetic qualities (1). (iii) Hematite: Odisha (Badampahar) or Chhattisgarh (Bailadila); magnetite: Karnataka (Kudremukh) (1.5).", "H"),
+W("Study the statement: 'Hematite ore is the most important industrial iron ore in terms of quantity, but magnetite is the finest.' (i) Give the iron content of each. (ii) Why is magnetite valuable in the electrical industry? (iii) Name one place or state where haematite is mined.", 4,
+  "(i) Magnetite up to 70 per cent; hematite 50 to 60 per cent (1.5). (ii) It has excellent magnetic qualities (1). (iii) Haematite: Badampahar (Odisha), Gua and Noamundi (Jharkhand) or the Bailadila range (Chhattisgarh) (1.5).", "H"),
 W("Describe how electricity is generated in thermal and hydel power stations and say why a hydel project like Bhakra Nangal is called multipurpose.", 5,
   "Hydel: running water turns turbines (renewable); Bhakra Nangal, Damodar Valley Corporation and Kopili are examples (1.5). Thermal: coal, petroleum and natural gas are burnt to produce steam to turn turbines; these are non-renewable fossil fuels (1.5). Multi-purpose projects serve irrigation, flood control and electricity generation at the same dam, so a single project meets several needs (2).", "H"),
 W("Mark and explain on an outline map of India the nuclear power stations. Name six stations with their states and the minerals used.", 5,
@@ -114,7 +114,15 @@ _i = max(k for k, b in enumerate(_old["blocks"]) if b[0] == "h2")
 _PAIRS = [("about 60% iron", "50-60% iron"), ("(most important in quantity, about 60% iron)", "(most important in quantity, 50-60% iron)"),
           ("About 63 per cent of India's production is from **Mumbai High**, 18 per cent from Gujarat and 16 per cent from Assam.", "Major producing areas are **Mumbai High**, Gujarat and Assam."),
           ("The **Bhuj** (Gujarat) plant is an important solar plant. ", ""), ("**HBJ pipeline** links Hazira (Gujarat), Bijaipur (Madhya Pradesh) and Jagdishpur (Uttar Pradesh)", "**HVJ pipeline** (1,700 km) links Hazira (Gujarat), Vijaipur (Madhya Pradesh) and Jagdishpur (Uttar Pradesh) with Mumbai High and Bassein"),
-          ("Odisha is the leading producer", "Mainly an input for steel-making"), ("**Odisha** leads in manganese and bauxite", "**Odisha** leads in bauxite"), ("�", "'")]
+          ("Odisha is the leading producer", "Mainly an input for steel-making"), ("**Odisha** leads in manganese and bauxite", "**Odisha** leads in bauxite"), ("about **97 per cent of coal** reserves occur in the Damodar, Sone, Mahanadi and Godavari valleys; ", "the Gondwana coal of the Damodar, Godavari, Mahanadi, Son and Wardha valleys is metallurgical coal; "),
+          ("Neyveli, Tamil Nadu)", "Neyveli, Tamil Nadu)"), ("Neyveli in Tamil Nadu (also Rajasthan).", "Neyveli in Tamil Nadu."),
+          ("India has potential in Gujarat, Rajasthan and Tamil Nadu; the largest wind farm cluster", "India has great potential; the largest wind farm cluster"),
+          (" India ranks high in the world in installed wind power capacity.", " Andhra Pradesh, Karnataka, Gujarat, Kerala, Maharashtra and Lakshadweep also have important wind farms; Nagarcoil and Jaisalmer are well known for wind energy."),
+          ("Jaisalmer, Mumbai High, Gulf of Khambhat;", "Mumbai High and allied fields along the west coast, Cambay basin;"),
+          ("Name the leading producer of manganese and bauxite.", "Name the leading bauxite-producing state."),
+          ("Odisha-Jharkhand, Chhattisgarh and Karnataka", "Odisha, Chhattisgarh, Karnataka and Jharkhand (97 per cent of production in 2018-19)"),
+          ("**Mumbai High** is the top oil field", "**Mumbai High, Gujarat and Assam** are the major petroleum areas"),
+          ("�", "'")]
 _core = _sub(_old["blocks"][:_i], _PAIRS)
 _extra = [
  ("h2", "Fuel Minerals and Energy: Grouping"),

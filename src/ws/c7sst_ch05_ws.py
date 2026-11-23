@@ -14,9 +14,9 @@ mc("The capital of Magadha was:", ["Shravasti", "Rajagriha", "Ujjayini", "Kausha
 mc("Which of these was an early republic (gana-sangha)?", ["Magadha", "Kosala", "Vrijji", "Avanti"], 2),
 mc("The first Indian coins were made of:", ["gold", "copper", "silver", "iron"], 2, "Punch-marked silver coins."),
 mc("The word 'caste' comes from the Portuguese word:", ["casta", "varna", "jati", "kasta"], 0),
-mc("Which of these Tamil kingdoms is NOT named in early south Indian literature?", ["Chola", "Chera", "Pandya", "Maurya"], 3),
+mc("Which of these was NOT one of the three early southern kingdoms named in ancient Tamil literature?", ["Chola", "Chera", "Pandya", "Maurya"], 3),
 W("Name any four of the sixteen mahajanapadas.", 2,
-  "Any four of Magadha, Kosala, Vatsa, Avanti, Gandhara, Vrijji, Malla, Anga, Kuru, Panchala, Shurasena, Matsya, Chedi, Kamboja, Ashmaka, Kashi. (4 = 2, 2-3 = 1)", "E"),
+  "Any four of Magadha, Kosala, Vatsa, Avanti, Gandhara, Vrijji, Malla, Anga, Kuru, Panchala, Shurasena, Matsya, Chedi, Kamboja, Ashmaka. (4 = 2, 2-3 = 1)", "E"),
 W("Match the mahajanapada and its capital: (i) Kosala (ii) Avanti (iii) Vatsa (iv) Gandhara.  A. Ujjayini  B. Takshashila  C. Shravasti  D. Kaushambi.", 2,
   "(i)-C, (ii)-A, (iii)-D, (iv)-B. (4 right = 2, 2-3 = 1)", "E"),
 W("What were sabha and samiti?", 2,
@@ -36,7 +36,7 @@ W("Rohan's father says 'Mahajanapadas such as Magadha rose in the Ganga plains b
 W("Fill in the blanks: A moat is a deep ______-filled ditch outside the ______ of a fort.", 2,
   "water; ramparts/walls (1+1).", "E"),
 # ------------------------------------------------------------------ MEDIUM (19)
-W("Why did Harappan urban life disappear? What was lost?", 3,
+W("What happened to Harappan urban life, and what was lost?", 3,
   "The Harappan civilisation declined in the early 2nd millennium BCE (1). Planned cities, markets, specialised crafts, writing, sanitation and administration vanished (1); people reverted to village life (1).", "M"),
 W("Describe the defence of a mahajanapada capital.", 3,
   "The city was fortified with rampart walls (1), a water-filled moat outside the walls (1) and narrow gateways so guards could control the movement of people and goods (1).", "M"),
@@ -47,7 +47,7 @@ W("Why are Vrijji and Malla called early republics?", 2,
 W("Source-based. 'Janapada: where the people (jana) have set foot (pada). By the 8th-7th centuries BCE some janapadas merged into larger states called mahajanapadas, usually listed as sixteen from Gandhara to Anga and Ashmaka.'  (i) What does 'pada' mean here? (ii) Which was the north-west mahajanapada? (iii) Which was in central India near the Godavari?", 3,
   "(i) Foot (1). (ii) Gandhara (1). (iii) Ashmaka (1).", "M"),
 W("Map description: Using a map of ancient India, say where you would place (i) Gandhara (ii) Magadha (iii) Avanti (iv) Anga.", 3,
-  "(i) North-west (ii) South Bihar, east of Kosala (iii) Central India (Malwa, Ujjain region) (iv) East, beyond Magadha, near the Ganga delta. (4 right = 3, 3 right = 2, 2 right = 1)", "M"),
+  "(i) North-west (ii) South Bihar, east of Kosala (iii) Central India (Malwa, Ujjain region) (iv) East, beyond Magadha. (4 right = 3, 3 right = 2, 2 right = 1)", "M"),
 W("Why were so many mahajanapadas located in the Ganga plains?", 3,
   "Fertile land supported farming (1); iron ore in nearby hills (1); river trade networks (1).", "M"),
 W("Cause and effect: How did iron lead to the rise of larger states and warfare?", 3,
@@ -68,22 +68,22 @@ W("Match the item with the period: (i) iron tools widespread (ii) punch-marked c
   "(i)-C (ii)-A (iii)-B (iv)-D. (4 right = 3, 3 right = 2, 2 right = 1)", "M"),
 W("Error analysis: 'The Vrijjis were a hereditary monarchy ruled by a king chosen by his son.' Correct the statement.", 2,
   "Vrijji was a gana-sangha, an early republic (1); decisions were by assembly discussion and vote, and rulers were selected, not hereditary (1).", "M"),
-W("Why was Magadha considered the most powerful mahajanapada? Give two reasons.", 2,
-  "Fertile Ganga plains and nearby iron ore (1); rivers for trade and a strong army (1).", "M"),
+W("Magadha was among the most powerful mahajanapadas. Name two features of its Ganga-plains setting that helped states grow.", 2,
+  "Fertile land that supported farming and iron ore in the nearby hills (1); new trade networks (1).", "M"),
 W("Why do Kautilya's Arthashastra descriptions of the ideal kingdom matter for understanding cities and states?", 2,
   "They describe a fortified capital, fertile land, mines, forests, pastures, rivers and good roads (1), the same features seen in the early states (1).", "M"),
 W("What changes did the Second Urbanisation bring about in everyday life? Give three.", 3,
   "Markets and trade expanded with coins (1); new crafts and tools of iron (1); new ideas spread by Buddhist, Jain and late Vedic scholars and monastic centres (1).", "M"),
 # ------------------------------------------------------------------ HARD (14)
 W("Compare the First and Second Urbanisations on region, metal and money.", 4,
-  "Region: Indus-Sarasvati valleys vs Ganga plains spreading widely (1.5). Metal: copper and bronze vs iron (1). Money: seals and barter-based trade vs punch-marked coins (1.5).", "H"),
+  "Region: Indus-Sarasvati valleys vs Ganga plains spreading widely (1.5). Metal: copper and bronze vs iron (1). Money: no coins vs punch-marked silver coins (1.5).", "H"),
 W("Case study: A village on a river near a hill with iron ore is growing into a town with a market, a fort and a mint. (i) Name the period. (ii) List three factors helping its growth. (iii) What would its ruler need to ensure?", 5,
   "(i) Second Urbanisation (mahajanapada period) (1). (ii) Fertile land, iron ore, trade routes/river (any three, 3). (iii) Taxes, law and order, defence with fort and army (1).", "H", wp=True),
 W("'Wars and alliances between mahajanapadas finally led to empires.' Explain with reference to Magadha and the end of the period.", 4,
   "With iron weapons and larger armies mahajanapadas fought one another (1.5). Stronger states like Magadha absorbed others (1.5). By about 300-200 BCE the mahajanapadas ended and gave way to empires (1).", "H"),
 W("Evaluate: 'The varna-jati system was flexible at first and rigid later.' Give two examples of each and one effect today.", 5,
   "Flexible: people changed occupation in a drought; some Brahmins took to trade or military work (2). Rigid: hardened over time and under British rule; discrimination against lower jatis and groups outside (2). Effect: inequality remains a challenge, so equal respect is needed (1).", "H"),
-W("The table shows a trader's journey: Kaushambi - Ujjayini - Pratishthana. (i) Which route is it? (ii) Name two goods he may carry. (iii) Why would he want to join pilgrims?", 4,
+W("A trader's journey runs Kaushambi - Ujjayini - Pratishthana. (i) Which route is it? (ii) Name two goods he may carry. (iii) Why would he want to join pilgrims?", 4,
   "(i) Dakshinapatha (1). (ii) Any two: shells, pearls, gold, diamonds, cotton, spices, sandalwood (1). (iii) Pilgrim routes and trade routes overlap; he gets customers and company for the journey (2).", "H", wp=True),
 W("How did the use of punch-marked coins change trade? Explain the advantages over barter in three points.", 3,
   "Coins are a common measure of value (1); they are easy to carry and store (1); they allowed trade across regions and abroad, since coins circulated widely (1).", "H"),
@@ -99,13 +99,28 @@ W("Why did the capital cities need narrow gateways and moats? Give two security 
   "Security: slows attackers; guards control entry and exit (2). Economic: guards can check and tax goods (1).", "H"),
 W("Compare the four most powerful mahajanapadas on location and capital in a table-like answer.", 4,
   "Magadha - Bihar - Rajagriha; Kosala - Uttar Pradesh - Shravasti; Vatsa - near Prayagraj, Uttar Pradesh - Kaushambi; Avanti - Madhya Pradesh - Ujjayini (4 x 1).", "H"),
-W("Puzzle: Identify. (i) 'I was Magadha's first capital.' (ii) 'My name is Portuguese for lineage.' (iii) 'I was the capital of Kalinga, excavated from 1948.' (iv) 'I am the Vedic assembly of elders.'", 3,
+W("Puzzle: Identify. (i) 'My ruins at modern Rajgir in Bihar mark a capital of Magadha.' (ii) 'My name is Portuguese for lineage.' (iii) 'I was the capital of Kalinga, excavated from 1948.' (iv) 'I am the Vedic assembly of elders.'", 3,
   "(i) Rajagriha (ii) Caste (casta) (iii) Shishupalgarh (iv) Sabha / samiti. (4 right = 3, 3 right = 2, 2 right = 1)", "H"),
 ]
 
 _old = runpy.run_path(str(REPO / "src/rn_work/c7_sst/c05.py"))["CH"]
 _i = max(k for k, b in enumerate(_old["blocks"]) if b[0] == "h2")
 _core = _old["blocks"][:_i]
+def _fix(blocks):
+    out = []
+    for b in blocks:
+        if b[0] == "table":
+            rows = []
+            for row in b[2]:
+                if row[0] == "Money":
+                    row = [row[0], "No coins (seals used in trade)", row[2]]
+                if row[0] == "Monasteries and warfare":
+                    row = [row[0], "Not part of the NCERT comparison", row[2]]
+                rows.append(row)
+            b = (b[0], b[1], rows)
+        out.append(b)
+    return out
+_core = _fix(_core)
 _extra = [
  ("h2", "5.8 Timeline"),
  ("table", ["Period", "Event"], [

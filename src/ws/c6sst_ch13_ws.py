@@ -26,13 +26,13 @@ W("Name any two non-economic activities mentioned in the chapter.", 2, "Any two:
 W("What is a langar?", 1, "A community kitchen, for example at gurudwaras, that serves free food to every visitor. (1)", "E"),
 W("Which highway-related fact in Kavya's story shows the benefit of a new road?", 1, "It would reduce the travel time to the nearest town from five hours to two. (1)", "E"),
 W("What is a wage?", 2, "A payment made by the employer to the worker for a specific period of time, for example a daily wage. (2)", "E"),
-W("Who gave Anu and Kabir the example of a retired Border Security Force officer in the story?", 1, "Kabir (Anu's neighbour): his grandfather retired from the Border Security Force. (1)", "E"),
+W("From which force had Kabir's grandfather retired?", 1, "The Border Security Force. (1)", "E"),
 # ---------------- MEDIUM ----------------
 W("Differentiate between economic and non-economic activities with one example of each.", 3, "Economic activities involve money or are done for money or money's worth, for example a farmer selling produce (1.5). Non-economic activities do not earn income and are done from love, care, gratitude or respect, for example parents cooking for the family (1.5).", "M"),
 W("Make the table: Rohan's two activities and say whether each is economic or non-economic.", 3, "Working in a software company for a salary: economic (1.5). Teaching computer skills free at the youth development programme: non-economic (1.5).", "M"),
 W("Kabir's grandfather teaches Geography free to the neighbourhood kids. A school teacher teaches Geography for a salary. How are they different?", 3, "Grandfather: non-economic, no payment, done out of care (1.5). School teacher: economic, because she receives a salary (1.5).", "M", wp=True),
-W("Classify the following as economic (E) or non-economic (N): (i) tailor stitching clothes for a customer (ii) a daughter taking care of a sick grandmother (iii) a baker selling bread (iv) children cleaning their street on Swachh Bharat day.", 3, "(i) E (ii) N (iii) E (iv) N. (1 mark for each pair of two correct; 3 in all)", "M", wp=True),
-W("Name four forms of payment for work, with one example of each.", 3, "Salary: pilot; wage: farm labourer; fee: doctor/lawyer; payment in kind: mangoes for Sahil. (Three correct = 3 marks)", "M"),
+W("Classify the following as economic (E) or non-economic (N): (i) tailor stitching clothes for a customer (ii) a daughter taking care of a sick grandmother (iii) a baker selling bread (iv) children cleaning their street on Swachh Bharat day.", 3, "(i) E (ii) N (iii) E (iv) N. (¾ for each correct item)", "M", wp=True),
+W("Name any three forms of payment for work, with one example of each.", 3, "Any three: salary (pilot); wage (farm labourer); fee (doctor or lawyer); payment in kind (mangoes for Sahil). (1 each)", "M"),
 W("How was Sahil paid for his work? Why is this unusual compared with a salary?", 3, "He got a daily wage (1), partly in cash and partly in mangoes of equal value (1). Payment in kind is non-cash, whereas a salary is a fixed regular payment, usually monthly (1).", "M"),
 W("Kavya's aunt works at the post office and teaches online in the evening. What payments does she receive and what are they called?", 3, "A monthly salary from the post office (1.5) and a weekly fee for the online classes (1.5).", "M", wp=True),
 W("Explain value addition with the example of Rajesh the carpenter.", 3, "Rajesh buys wood for ₹600 and makes a chair that he sells for ₹1,000 (1). The extra ₹400 is the value of his skill, time and effort (1). He has added value to the wood by turning it into furniture (1).", "M", wp=True),
@@ -49,7 +49,7 @@ W("Give two examples of non-economic activities that are important in your famil
 # ---------------- HARD ----------------
 W("Case study: Ramesh drives a taxi in Jaipur and earns money from fares. In the evening, he drives an old neighbour to the hospital without taking any money. Identify the economic and the non-economic activity and explain what each gives to him and the society.", 4, "Driving the taxi is economic: he earns fares, which support his family and provide transport to others (2). Driving the neighbour free is non-economic: it is done from care and respect and brings satisfaction and trust in the community (2).", "H", wp=True),
 W("Case study: Sunita grows vegetables in her field and sells them in the market. She also gives a basket of vegetables to a family whose house was damaged by rain. Show how the same produce can be used in both kinds of activities.", 3, "Sold in the market for money: economic (1.5). Given free as help: non-economic, done out of care (1.5). Thus the same person and the same produce may be used for economic or non-economic purposes depending on the aim.", "H", wp=True),
-W("Why is the third 'activity' (farmers repairing their own tractor) in the chapter's table likely to create monetary value?", 3, "A working tractor helps farmers to till land and grow crops that they sell (1). Repairing it keeps production going, avoiding loss of income (1). Hence repair adds to the value of the produce (1).", "H", wp=True),
+W("The chapter's table lists 'Farmers repairing their tractor' for you to judge. Explain when this activity would be economic and when non-economic.", 3, "If a mechanic repairs the tractor and is paid a fee, it is an economic activity because money is involved (1½). If the farmers repair their own tractor without paying anyone, no money changes hands, so it can be seen as non-economic, although the working tractor helps them to earn from farming (1½). (The chapter leaves this for discussion; accept a reasoned answer.)", "H", wp=True),
 W("Read: 'Do it as worship, as the highest worship, and devote your whole life to it for the time being.' (Swami Vivekananda). What do these words teach about work, whatever kind it is?", 3, "Any work, economic or non-economic, deserves full attention and devotion (1). The attitude of worship means honesty and focus (1). It tells us that all useful work is respectable and has value (1).", "H"),
 W("Do you think non-economic activities are as important as economic ones? Give your opinion with three reasons.", 4, "Yes (or reasoned). Without care at home, children and the old would not be looked after (1). Sevā and community efforts such as Swachh Bharat clean our surroundings (1). They produce gratitude and satisfaction that money cannot buy (1). Economic activities provide a living, so both are needed (1). (Any reasoned view accepted.)", "H"),
 W("Explain how the economic activities in a village like Kamlapur depend on each other. Use at least four people from Kavya's story.", 4, "Uncle (bulldozer technician) builds the road for travel (1); aunt (post office and online classes) provides postal services and education (1); Sahil (farm labourer) helps the farmer grow mangoes (1); Rajesh the carpenter uses wood to make furniture sold to others (1). Each one's work helps the others, showing interdependence.", "H", wp=True),
@@ -63,6 +63,13 @@ W("Which is better for a young person: working only to earn, or working to earn 
 ]
 
 CH = _base()
+def _fix(x):
+    if isinstance(x, str):
+        return x.replace("Yes, helps income (production) — repair is part of farming", "Open to discussion: economic if a mechanic is paid; non-economic if farmers repair it themselves without payment")
+    if isinstance(x, (list, tuple)):
+        return type(x)(_fix(i) for i in x)
+    return x
+CH["blocks"] = _fix(CH["blocks"])
 CH["blocks"] += [
  ("h2", "13.6 Key Terms"),
  ("table", ["Term", "Meaning"], [
@@ -82,7 +89,7 @@ CH["blocks"] += [
  ("h2", "13.7 Characters of the Chapter at a Glance"),
  ("table", ["Character", "Economic activity", "Non-economic activity"], [
   ["Geeta Aunty", "Air Force pilot (salary)", "-"],
-  ["Kabir's grandfather", "Retired from the Border Security Force", "Free Geography classes, garden, errands"],
+  ["Kabir's grandfather", "- (retired from the Border Security Force)", "Free Geography classes, garden, errands"],
   ["Anu's parents", "Run a shop of uniforms and garments", "Mother's voluntary knitting classes"],
   ["Rohan", "Software engineer (salary)", "Teaches computer skills on weekends"],
   ["Kavya's uncle", "Bulldozer technician (salary)", "-"],

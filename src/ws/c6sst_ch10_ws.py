@@ -15,7 +15,7 @@ W("The organ of government that implements the laws is the:", 1, "(b) executive"
 W("The system of courts that decides whether someone broke the law is the:", 1, "(d) judiciary", "E", opts=["legislature", "executive", "cyber police", "judiciary"]),
 W("India's two houses of Parliament are:", 1, "(b) Lok Sabha and Rajya Sabha", "E", opts=["Vidhan Sabha and Lok Sabha", "Lok Sabha and Rajya Sabha", "Rajya Sabha and Gram Sabha", "High Court and Supreme Court"]),
 W("The Government of India's motto is:", 1, "(a) Satyameva Jayate", "E", opts=["Satyameva Jayate", "Yato Dharmastato Jayah", "Vasudhaiva Kutumbakam", "Jai Hind"]),
-W("Members of Parliament are called:", 1, "(c) MPs", "E", opts=["MLAs", "MLCs", "MPs", "MDs"]),
+W("Members of Parliament are called:", 1, "(c) MPs", "E", opts=["MLAs", "MLCs", "MPs", "MCDs"]),
 W("The word 'democracy' comes from which language?", 1, "(d) Greek", "E", opts=["Latin", "Sanskrit", "Persian", "Greek"]),
 W("Fill in the blank: In India, the government works at three levels: local, State and ______.", 1, "Central (Union or national). (1)", "E"),
 W("Write True or False: The President of India is the nominal head of the executive.", 1, "True. The Prime Minister is the real executive head at the Centre. (1)", "E"),
@@ -34,7 +34,7 @@ W("Explain how the three organs worked in the case of cybercrime in the chapter.
 W("What is meant by 'separation of powers'? Why is it useful?", 3, "Keeping the three organs separate, though they work together (1). Each organ can check the others and restore balance if one acts beyond its role (1). This gives checks and balances (1).", "M"),
 W("Match: (a) Defence (b) Irrigation (c) Currency with (1) Central government (2) State government.", 3, "(a) Central, (b) State, (c) Central. (1 each)", "M"),
 W("Ramesh's village faces a small flood after heavy rain. Who will first deal with it? If it affects many towns and villages? If it is massive?", 3, "The local authorities (1); then the State government sends rescue teams (1); in a massive flood the Central government may send relief supplies and the army (1).", "M", wp=True),
-W("Your bulb does not light. The chapter gives three levels of dealing with this. List them and match to local, State and national levels.", 3, "(1) Check the bulb, switch and fuse (local); (2) call an electrician (State); (3) complain to the Electricity Board (national). The chapter calls them three levels of dealing with a problem. (1 each)", "M", wp=True),
+W("Your bulb does not light. List, in order, the three steps the chapter suggests for dealing with this problem. What does the comparison help us to understand?", 3, "(1) Check the bulb, switch, fuse etc.; (2) call an electrician; (3) if the problem is outside the home, file a complaint with the Electricity Board. (2) The three steps are like the three levels of government, each dealing with different matters. (1)", "M", wp=True),
 W("Why is a class monitor an example of a representative?", 2, "The whole class cannot go to the principal, so the monitor, elected by the class, speaks on behalf of everyone. (2)", "M", wp=True),
 W("Explain the meaning of 'representative democracy' and why India is called one.", 3, "People elect representatives who take decisions for them (1). In India, citizens vote for MLAs in States and MPs at the national level (1), who discuss laws in the assemblies, so India is a representative democracy (1).", "M"),
 W("Differentiate between direct democracy and representative democracy with one example each.", 3, "In direct democracy everyone takes part in the decision, for example the class votes by raising hands to choose a picnic place (1.5). In representative democracy people elect others to decide for them, for example MPs and MLAs (1.5).", "M"),
@@ -63,6 +63,13 @@ W("During the COVID-19 lockdown many actions were taken. Suggest which tier (loc
 ]
 
 CH = _base()
+def _fix(x):
+    if isinstance(x, str):
+        return x.replace("Analogy: a faulty bulb — check bulb, switch and fuse (local), call an electrician (State), complain to the Electricity Board (national).", "Analogy: a faulty bulb — first check the bulb, switch and fuse, then call an electrician, and if the problem is outside the home complain to the Electricity Board: three levels of dealing with a problem, like the three levels of government.")
+    if isinstance(x, (list, tuple)):
+        return type(x)(_fix(i) for i in x)
+    return x
+CH["blocks"] = _fix(CH["blocks"])
 CH["blocks"] += [
  ("h2", "10.6 Time Pointers in the Chapter"),
  ("table", ["When", "What"], [

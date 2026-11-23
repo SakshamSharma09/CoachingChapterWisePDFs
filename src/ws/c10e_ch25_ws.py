@@ -21,7 +21,7 @@ W("Give a synonym for 'disengage' and 'exertion'.", 2, "disengage: free / detach
 W("What season or time of day does the poem suggest? Give one clue.", 2, "Night; 'all night the roots work', the moon, and 'by morning' the forest will be full. (2)", "E"),
 W("What will the forest be full of by morning?", 2, "Trees: the forest that was empty will be full of trees. (2)", "E"),
 # ---------------- MEDIUM ----------------
-W("Read: 'The trees inside are moving out into the forest'. (i) What device is used? (ii) What do the 'trees inside' stand for?", 3, "(i) Personification (trees moving as if alive). (ii) Wood and plants in the house that come from the forest; they stand for nature held captive indoors. (1+2)", "M"),
+W("Read: 'The trees inside are moving out into the forest'. (i) What device is used? (ii) What do the 'trees inside' stand for?", 3, "(i) Personification (trees moving as if alive). (ii) The trees that are shut inside the house; they stand for nature (and, in a wider reading, living beings) held captive indoors. (1+2)", "M"),
 W("Read: 'the forest that was empty all these days / where no bird could sit'. What is the poet saying about the forest?", 3, "The forest was empty because the trees were indoors; it lacked life, birds, insects and shadows. The emptiness shows the harm done by removing nature. (3)", "M"),
 W("Read: 'All night the roots work / to disengage themselves from the cracks'. What picture does this create?", 3, "Roots struggling quietly all night to free themselves from the floor of the veranda; it shows a slow, determined effort to be free. (3)", "M"),
 W("Read about the boughs 'like newly discharged patients'. Name the device and explain it.", 3, "Simile. Like patients leaving a hospital, the boughs are stiff, cramped and half-dazed from long confinement, and move slowly towards the clinic doors/exit. (1+2)", "M"),
@@ -59,7 +59,7 @@ CH = dict(num=25, title="The Trees", tag="English - First Flight (Poem)",
  big_questions=["Why are the trees moving out of the house?", "What do the roots, leaves and glass do?", "Why is the poet so calm?", "What do the trees symbolise?"],
  blocks=[
  ("h2", "1. The poet and the poem"),
- ("p", "**Adrienne Rich (1929-2012)** was an American poet and essayist, known for her powerful writing about women's lives, freedom and social justice. 'The Trees' is one of her most widely read short poems. It is written in **free verse**, with no regular rhyme or metre, in three stanzas. The poem is protected text, so these notes paraphrase it and quote only short phrases."),
+ ("p", "**Adrienne Rich (1929-2012)** was an American poet and essayist, known for her powerful writing about women's lives, freedom and social justice. 'The Trees' is a short, much-anthologised poem. It is written in **free verse**, with no regular rhyme or metre, in three stanzas."),
  ("table", ["Point", "Detail"], [["Title", "The Trees"], ["Poet", "Adrienne Rich (American)"], ["Form", "Free verse in three stanzas, no rhyme"], ["Speaker", "The poet, indoors, writing letters at night"], ["Setting", "A house with a veranda, at night, and a nearby forest"], ["Tone", "Quiet, hushed, gradually excited"], ["Theme", "Freedom, release from confinement, the longing of nature (and of people)"]]),
  ("h2", "2. Summary stanza by stanza"),
  ("h3", "Stanza 1: the empty forest"),

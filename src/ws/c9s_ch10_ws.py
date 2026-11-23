@@ -50,7 +50,7 @@ W("The husk of a coconut and the shell of a walnut are very hard. Name the tissu
 W("The stalk of a leaf and the tendrils of a climbing pea plant bend easily in the wind without breaking. Which tissue is responsible and why?", 2,
   "Collenchyma (1). The corners of its living cells are unevenly thickened with pectin, giving support with flexibility (1).", "M", wp=True),
 W("Water lilies and other aquatic plants float on water. Name the tissue that helps and explain how.", 2,
-  "Aerenchyma, a parenchyma with large air spaces (1). The air-filled spaces make the plant light and help it float (1).", "M", wp=True),
+  "Specialised parenchyma with large air spaces (called aerenchyma) (1). The air-filled spaces make the plant light and help it float (1).", "M", wp=True),
 W("Differentiate between xylem and phloem on three points.", 3,
   "Xylem: carries water and minerals from roots upward; made of tracheids, vessels, parenchyma and fibres; mostly dead cells; gives mechanical strength. Phloem: carries food (sugars) from leaves to all parts; made of sieve tubes, companion cells, parenchyma and fibres; mostly living. (any 3 points, 1 mark each)", "M"),
 W("The cacti and other desert plants have a very thick cuticle on their epidermis. Why?", 2,

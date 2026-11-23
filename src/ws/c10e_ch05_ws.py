@@ -87,7 +87,7 @@ blocks=[
 ]),
 ("h2", "4. Tea from Assam: summary in order"),
 ("steps", [
- ("1. On the train", "Pranjol, from Assam, and his classmate Rajvir from Delhi travel by train to Assam. A tea vendor calls 'Chai-garam'. Rajvir says over eighty crore cups of tea are drunk each day worldwide."),
+ ("1. On the train", "Pranjol, a youngster from Assam, and his classmate Rajvir (both at school in Delhi) travel by train to Assam for the summer vacation. A tea vendor calls 'Chai-garam'. Rajvir says over eighty crore cups of tea are drunk each day worldwide."),
  ("2. The view and legends", "Rajvir admires green paddy fields and tea bushes; Pranjol, born on a plantation, is unmoved. Rajvir shares legends: the Chinese emperor and tea leaves in boiling water, and Bodhidharma's eyelids. Tea was first drunk in China in 2700 B.C.; words tea, chai and chini are Chinese; tea reached Europe in the sixteenth century as medicine."),
  ("3. At Dhekiabari", "At Mariani junction Pranjol's parents meet them. They drive to the Dhekiabari Tea Estate managed by Pranjol's father, past acres of pruned bushes and tea-pluckers with bamboo baskets. Rajvir knows the second flush lasts May to July and yields the best tea; Mr Barua is surprised at his homework."),
 ]),

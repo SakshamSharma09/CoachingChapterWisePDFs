@@ -46,7 +46,7 @@ W("Meena helps her mother cook, her brother helps her with homework, and her gra
 W("Why is the family called a 'school' in the chapter?", 2, "Children learn values such as ahimsa, giving, service and sacrifice in the family and learn the traditions followed for generations. (2)", "M"),
 W("Give an example from your village or town (or an imagined one) of neighbours helping each other, like the neighbours in Tenzing's story.", 3, "Sample: after a storm damaged a neighbour's house, Tenzing's grandfather collected money from the whole neighbourhood for repairs (1). In a village, people help in sowing, harvesting or at a wedding (1). Any sensible example showing community support (1).", "M", wp=True),
 # ---------------- HARD ----------------
-W("Draw in words the family tree of Shalini's family of seven: write each member and say how they are related to Shalini.", 4, "Father and mother (parents), a younger brother (sibling), Acchamma (father's mother, grandmother), Chittappa (father's brother, paternal uncle), Chitti (uncle's wife, aunt) and Chinni (their daughter, Shalini's cousin) (1 mark each for correct relation groups: parents, brother, grandmother, uncle-aunt-cousin). Total with Shalini: seven members.", "H"),
+W("Draw in words the family tree of Shalini's family: write each member named in the story and say how they are related to Shalini.", 4, "Father and mother (parents), a younger brother (sibling), Acchamma (father's mother, grandmother), Chittappa (father's brother, paternal uncle), Chitti (uncle's wife, aunt) and Chinni (their daughter, Shalini's cousin) (1 mark each for correct relation groups: parents, brother, grandmother, uncle-aunt-cousin). Counting Shalini herself, the story names eight persons (the textbook calls it a family of seven, so accept either count if the relations are correct).", "H"),
 W("Case study: Raju's father has lost his job. His mother wants to cancel the school trip. His uncle who lives with them says he will pay for it from savings. Which ideas from the chapter does this show? What would you do if you were Raju?", 4, "It shows family support, sharing and interdependence (1), like Shalini's family giving to the uncle in need (1). The uncle's act is a case of tyāga and sevā, giving up personal needs for family (1). Opinion: any reasoned answer, for example, I would thank the uncle and use the money carefully (1).", "H", wp=True),
 W("Read: 'Through daily practice, children learn to participate in the life of the household.' Explain with two examples what responsibilities children can take up as they grow.", 3, "Children can help in cleaning, setting the table, looking after younger brothers and sisters, helping grandparents or running small errands (any two, 1 each). In this way they learn duty and cooperation (1).", "H", wp=True),
 W("Why might a young couple choose to live in a nuclear family? Give two reasons and one disadvantage.", 3, "Reasons: jobs in another city or town, smaller houses or flats, wanting more independence (any two, 1 each). Disadvantage: fewer helping hands, such as grandparents, to care for children or the sick (1). (Any sensible points are accepted.)", "H", wp=True),
@@ -63,6 +63,11 @@ W("Choose the better statement and justify: (A) A family should always give up i
 ]
 
 CH = _base()
+for _b in CH["blocks"]:
+    if _b[0] == "table":
+        for _r in _b[2]:
+            for _i, _c in enumerate(_r):
+                _r[_i] = _c.replace("joint family of seven (parents, brother, grandmother *Acchamma*, uncle *Chittappa*, aunt *Chitti*, cousin *Chinni*)", "joint family (parents, younger brother, grandmother *Acchamma*, uncle *Chittappa*, aunt *Chitti*, cousin *Chinni*, besides Shalini)")
 CH["blocks"] += [
  ("h2", "9.4 Time Pointers in the Chapter"),
  ("table", ["When", "Event"], [

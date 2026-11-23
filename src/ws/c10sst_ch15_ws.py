@@ -18,7 +18,7 @@ mc("The Equal Remuneration Act was passed in:", ["1950", "1976", "1992", "2005"]
 mc("What share of seats in panchayats and municipalities is reserved for women?", ["10 per cent", "One-fourth", "One-third", "One-half"], 2),
 mc("Communalism is the belief that:", ["all religions are equal", "religion is the principal basis of social community", "the state should have no relation with citizens", "the majority should not rule"], 1),
 mc("A secular state is one that:", ["has an official religion", "gives special status to one religion", "has no official religion and treats all religions equally", "bans all religions"], 2),
-mc("Which of these reformers worked to end caste inequalities?", ["Periyar Ramaswami Naicker", "Lord Dalhousie", "Mahmud Ghazni", "Mohammad Ali Jinnah"], 0, "Jotiba Phule, Gandhiji and Dr Ambedkar also worked for this."),
+mc("Which of these leaders is named in the chapter as having worked for a society without caste inequalities?", ["Bal Gangadhar Tilak", "Periyar Ramaswami Naicker", "Subhas Chandra Bose", "Sardar Vallabhbhai Patel"], 1, "Jotiba Phule, Gandhiji and B. R. Ambedkar are the others named."),
 W("Define patriarchy and feminist.", 2,
   "Patriarchy: literally rule by the father; a system that values men more and gives them power over women (1). Feminist: a woman or a man who believes in equal rights and opportunities for women and men (1).", "E"),
 W("What percentage of the Lok Sabha did women's elected share touch in 2019 for the first time, and what is their share in State Assemblies?", 2,
@@ -28,7 +28,7 @@ W("Fill in the blanks: According to the 1998-99 Time Use Survey, an average Indi
 W("Name two Scandinavian countries where women's participation in public life is high.", 1, "Any two of Sweden, Norway, Finland. (1)", "E"),
 W("True or false (with a reason): 'Religious differences are always the same as communalism.'", 2,
   "False (1). Religion can be part of politics when values and ethics drawn from it are used, as Gandhiji said; communalism is when religion is made the basis of nation and politics, pitting one religion against another (1).", "E"),
-W("Match: (i) Gandhiji (ii) B. R. Ambedkar (iii) Periyar (iv) Jotiba Phule.  A. Said that religion cannot be separated from politics, meaning moral values  B. Worked for caste equality in Tamil Nadu  C. Social reformer who opposed caste hierarchy and untouchability  D. Leader of Dalits and architect of the Constitution.", 2,
+W("Match: (i) Gandhiji (ii) B. R. Ambedkar (iii) Periyar (iv) Jotiba Phule.  A. Said that religion cannot be separated from politics, meaning moral values  B. Worked for caste equality in Tamil Nadu  C. Nineteenth-century social reformer who opposed caste hierarchy  D. Leader of Dalits and architect of the Constitution.", 2,
   "(i)-A, (ii)-D, (iii)-B, (iv)-C. (all four = 2; two or three correct = 1)", "E"),
 W("State any two factors that have weakened caste hierarchy in modern India.", 2,
   "Urbanisation, growth of literacy and education, occupational mobility and weakening of the position of landlords (any two) (1), and the efforts of social reformers and the Constitution's prohibition of caste discrimination (1).", "E"),
@@ -37,11 +37,11 @@ W("What does the Constitution say about religion in India? Mention two features.
 W("What is meant by 'communal politics'? Give one form.", 2,
   "Communal politics is the use of religion in politics in exclusive and partisan terms, pitting one religion against another and seeking domination by one group (1). Forms: political mobilisation on religious lines, using sacred symbols, or communal violence and riots (1).", "E"),
 # ------------------------------------------------------------------ MEDIUM (20)
-ar("Women's representation in India's legislatures is low.", "The share of elected women in the Lok Sabha touched only 14.36 per cent in 2019.", 0, "The low share of women is an example of limited political representation.", "M"),
+ar("Women's representation in India's legislatures is low.", "The sexual division of labour confines most women to housework, so their role in public life, especially politics, is minimal.", 0, "The chapter links the division of labour to women's minimal role in public life; the share was 14.36 per cent in the Lok Sabha in 2019.", "M"),
 ar("India's Constitution prohibits discrimination on grounds of religion.", "India has chosen a secular model.", 0, "Secularism means equal treatment of all religions with no official religion.", "M"),
 W("Explain the 'sexual division of labour' with examples and say why women's outdoor work is not valued.", 3,
   "In most families women do all the work inside the home, such as cooking, cleaning, washing, tailoring and looking after children, while men do the work outside (1). Women also work outside the home: fetching water, collecting fuel, working in fields, as domestic helpers or in offices (1). Their work is not valued and not recognised, as it is often unpaid and paid less than men's even for the same work (1).", "M"),
-W("Table-based. Time use survey (1998-99, hours:minutes per day): Income-generating work - men 6:00, women 2:40; Household and related work - men 0:30, women 5:00. (i) Find total work of men and of women. (ii) Who works longer and by how much? (iii) Which work is more recognised as 'work' in public life?", 3,
+W("Data-based. Time use survey (1998-99, hours:minutes per day): Income-generating work - men 6:00, women 2:40; Household and related work - men 0:30, women 5:00. (i) Find total work of men and of women. (ii) Who works longer and by how much? (iii) Which work is more recognised as 'work' in public life?", 3,
   "(i) Men: 6:00 + 0:30 = 6:30 hours; women: 2:40 + 5:00 = 7:40 hours (1.5). (ii) Women work 1 hour 10 minutes longer (1). (iii) Income-generating work done mostly by men is visible and valued; household work is unpaid and often unrecognised (0.5).", "M", wp=True),
 W("Give three reasons why the literacy and education of girls lag behind that of boys.", 3,
   "The literacy rate among women is only 54 per cent compared with 76 per cent among men (1). Girls drop out of school because parents spend more on boys' education and prefer sons (1). A smaller proportion of girls go for higher studies because of the social expectation that they should look after homes (1).", "M"),
@@ -49,8 +49,8 @@ W("What is the child sex ratio? State its value and two causes of its fall.", 3,
   "Number of girl children per thousand boys (1). It has fallen to merely 919 (0.5). Causes: preference for sons and sex-selective abortion; parents finding ways to prevent the birth of girls (1.5).", "M"),
 W("Why do women's movements demand reservation of seats in legislatures? What has been done at the local level?", 3,
   "Women are very poorly represented in the Lok Sabha and State Assemblies, and need seats so that their issues are raised and decided (1.5). One-third of seats in panchayats and municipalities are reserved for women; there are now more than 10 lakh elected women representatives (1.5).", "M"),
-W("What does the Nari Shakti Vandan Adhiniyam (2023) provide? Why was a bill needed for so many years?", 2,
-  "It provides 33 per cent reservation of seats for women in the Lok Sabha, State Legislative Assemblies and the Delhi Assembly (1). A bill on this had been pending before Parliament for many decades because of lack of agreement among parties (1).", "M"),
+W("What does the Nari Shakti Vandan Adhiniyam (2023) provide? What had happened to a bill on this demand before 2023?", 2,
+  "It provides 33 per cent reservation of seats for women in the Lok Sabha, State Legislative Assemblies and the Delhi Assembly (1). A bill with this proposal had been pending before Parliament for many decades (1).", "M"),
 W("Explain how Gandhiji viewed religion and politics. Is this the same as communalism?", 3,
   "Gandhiji said that religion can never be separated from politics, by which he meant the moral values drawn from all religions that should guide politics (1.5). This is not communalism, since he did not favour any one community; communalism makes religion the principal basis of social community and politics (1.5).", "M"),
 W("Describe three forms of communalism with an example.", 3,
@@ -70,10 +70,10 @@ W("An unconventional wedding: a boy from one caste and a girl from another marry
 W("Error analysis. A student writes: 'Gender division in politics is based on biological differences between women and men.' Correct this.", 2,
   "The gender division is mostly based not on biology but on social expectations and stereotypes (1). Boys and girls are brought up to believe that women's main role is housework and bringing up children (1).", "M"),
 W("List two ways in which religion can be used in politics without being communal.", 2,
-  "Raising demands for equality and justice for a religious community (e.g. protection of minorities) and values or ethics drawn from religions that guide politics (1). Human rights groups demanding protection of minorities and women's movements demanding equal family laws (1).", "M"),
+  "Any two (1 each): politics guided by moral values drawn from all religions, as Gandhiji believed; human rights groups demanding steps to prevent communal riots and protect religious minorities; women's movements demanding that family laws of all religions be made more equitable. These are not communal because they do not pit one religion against another and treat every religion equally.", "M"),
 W("What is the significance of 'one person one vote' for caste politics?", 2,
   "Each citizen has an equal vote regardless of caste or religion (1). Leaders must therefore seek the support of many groups, which has forced political leaders to take up the concerns of different castes (1).", "M"),
-W("Table-based. In a panchayat election, a constituency has 45 per cent voters from caste P, 35 per cent from caste Q, 20 per cent from others. Candidate A gets all of P's votes but nothing else. Can A win for sure? What does this show?", 2,
+W("Data-based. In a panchayat election, a constituency has 45 per cent voters from caste P, 35 per cent from caste Q, 20 per cent from others. Candidate A gets all of P's votes but nothing else. Can A win for sure? What does this show?", 2,
   "Not for sure: A would get 45 per cent; if Q and the others all vote for a rival, the rival gets 55 per cent (1). It shows that no caste has a clear majority and that candidates must win support across castes (1).", "M", wp=True),
 # ------------------------------------------------------------------ HARD (13)
 W("'Gender division is an example that some form of social division needs to be expressed in politics.' Explain with four points.", 4,
@@ -97,9 +97,9 @@ W("Assertion (A): Caste inequality has completely disappeared in India.  Reason 
 W("A political party in a state promises 'special benefits to our community only'. Evaluate this promise in the light of secularism, equality and the chapter's lessons in about five points.", 5,
   "It uses religion or caste as the main basis of politics, which is communal or casteist politics (1). It conflicts with the Constitution's ban on discrimination and the secular idea of equal treatment (1.5). It divides society and diverts attention from poverty, development and corruption (1.5). Voters need not support it because no group is a majority in most constituencies; policies for under-privileged groups are legitimate when based on constitutional equality and not on exclusion (1).", "H"),
 W("Women's movement point. Name three demands raised by feminist movements and two achievements.", 4,
-  "Demands: equal rights in personal and family life; equal opportunities in education; equal pay and treatment in the workplace; political representation (2). Achievements: reservation of one-third seats in panchayats and municipalities; equal remuneration law; the 2023 Act for 33 per cent reservation in legislatures (2).", "H"),
-W("Passage-based. 'Politics works to bring under-privileged communities into the political arena. It has also made them aware that they too can claim a share of power. However, politicisation of caste can lead to tensions, violence and divisiveness, and it diverts attention from vital issues like poverty, development and corruption.'  (i) Give one benefit of this process. (ii) Give two dangers. (iii) Is caste-based politics good for democracy? Give a reasoned verdict.", 4,
-  "(i) Marginalised groups such as Dalits and OBCs gain greater voice and share of power (1). (ii) Tension, violence and divisiveness; diversion from poverty, development and corruption (1.5). (iii) It is not good for democracy if it divides people and excludes issues of common concern; inclusion through equality is positive but caste-exclusive politics is harmful (1.5).", "H"),
+  "Demands (any three): a higher political and legal status for women; better educational and career opportunities; equality in personal and family life; more women as elected representatives (2). Achievements: reservation of one-third seats in panchayats and municipalities; equal remuneration law; the 2023 Act for 33 per cent reservation in legislatures (2).", "H"),
+W("Passage-based. 'Caste politics has helped people from Dalits and OBC castes to gain better access to decision making. At the same time, exclusive attention to caste can produce negative results as well. It can divert attention from other pressing issues like poverty, development and corruption. In some cases, caste division leads to tensions, conflict and even violence.'  (i) Give one benefit of this process. (ii) Give two dangers. (iii) Is caste-based politics good for democracy? Give a reasoned verdict.", 4,
+  "(i) Dalits and OBCs gain better access to decision making and space to demand their share of power (1). (ii) Tension, violence and divisiveness; diversion from poverty, development and corruption (1.5). (iii) It is not good for democracy if it divides people and excludes issues of common concern; inclusion through equality is positive but caste-exclusive politics is harmful (1.5).", "H"),
 ]
 
 _old = runpy.run_path(str(REPO / "src/rn_work/c10_sst/c15.py"))["CH"]
@@ -110,7 +110,7 @@ def _sub(x, pairs):
         return x
     if isinstance(x, (list, tuple)): return type(x)(_sub(i, pairs) for i in x)
     return x
-_PAIRS = [("(figures given in the NCERT text)", "(NCERT text)"), ("‘", "'"), ("’", "'")]
+_PAIRS = [("�", "'"), ("(figures given in the NCERT text)", "(NCERT text)"), ("‘", "'"), ("’", "'")]
 _core = _sub(_old["blocks"][:_i], _PAIRS)
 _extra = [
  ("h2", "Key Terms at a Glance"),

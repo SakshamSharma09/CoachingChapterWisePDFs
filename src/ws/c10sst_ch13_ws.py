@@ -58,8 +58,8 @@ W("Explain vertical power sharing and give one example from India.", 2,
   "Power is shared among governments at different levels: a general (federal) government for the entire country and governments at the provincial or regional level, also local governments (1). In India, the Union (Central) Government, State governments and Panchayats and municipalities share power (1).", "M"),
 W("How is power shared among political parties, pressure groups and movements? Give two examples.", 3,
   "Parties compete for power and the people decide who rules; in coalition governments, two or more parties share power (1.5). Interest groups such as traders, industrialists, farmers and industrial workers influence decision-making through representation in committees or through pressure (1.5).", "M"),
-W("A class of 40 students in a Jaipur school has a class monitor who changes every month. Is this a power-sharing arrangement? Explain.", 2,
-  "Yes, to a degree (1). Responsibility and authority rotate among students so that no one holds power permanently and everyone gets a say and a chance, though true power sharing also needs sharing of decision-making among groups (1).", "M", wp=True),
+W("A Jaipur school forms a sports committee with an equal number of boys and girls, so that neither group can decide alone. Which form of power sharing does this resemble? Give two reasons why it is useful.", 2,
+  "Power sharing among social groups, like the equal number of Dutch- and French-speaking ministers in Belgium (1). Both groups have a voice and neither can dominate or feel alienated, which reduces conflict (1).", "M", wp=True),
 W("Why did Belgium amend its constitution four times between 1970 and 1993? What does it show about its leaders?", 2,
   "They wanted to find an arrangement that would enable everyone to live together within the same country (1). It shows that they recognised regional differences and cultural diversities and chose accommodation over conflict (1).", "M"),
 W("Error analysis. A student writes: 'Sri Lanka's civil war happened because Sinhala speakers were a minority in the country.' Find and correct the mistake.", 2,
@@ -89,21 +89,25 @@ W("Describe four forms of power sharing and illustrate each with one example.", 
   "Horizontal: legislature, executive and judiciary share power; judges can check the executive (1). Vertical: Union, state and local governments (federal division) (1). Among social groups: community government in Belgium; reserved constituencies in India (1). Among parties, pressure groups and movements: coalition governments, interest groups influence policy (1).", "H"),
 W("Why can democratic rule not be reduced to 'rule by the majority' alone? Illustrate with two incidents from the chapter.", 4,
   "In democracy the majority must respect the minority and share power, otherwise the minority loses faith in the system (1). In Sri Lanka, Sinhala dominance (1956 Act, preferential policies) ended in civil war (1.5). In Belgium, if the Dutch-speaking majority had imposed its will, the French minority in Brussels and the country would have been disrupted; accommodation avoided it (1.5).", "H"),
-W("Passage-based. 'Imposing the will of the majority community over others may look like an attractive option in the short run, but in the long run it undermines the unity of the nation. Tyranny of the majority is not just oppressive for the minority; it often brings ruin to the majority as well.'  (i) Explain 'tyranny of the majority'. (ii) How did Sri Lanka's majority suffer? (iii) Link this with a prudential reason.", 4,
-  "(i) Rule in which the majority community uses its numbers to oppress the minority without regard for its rights (1). (ii) The civil war killed thousands, harmed the economy and social life of all communities, including the Sinhala majority (1.5). (iii) Prudential reason: power sharing reduces conflict and ensures stability; the loss of stability affects everyone (1.5).", "H"),
+W("Passage-based. 'Imposing the will of the majority community over others may look like an attractive option in the short run, but in the long run it undermines the unity of the nation. Tyranny of the majority is not just oppressive for the minority; it often affects majority adversely as well.'  (i) Explain 'tyranny of the majority'. (ii) How did Sri Lanka's majority suffer? (iii) Link this with a prudential reason.", 4,
+  "(i) Rule in which the majority community uses its numbers to oppress the minority without regard for its rights (1). (ii) The civil war killed thousands of people of both communities, forced families to flee as refugees and set back the social, cultural and economic life of the whole country (1.5). (iii) Prudential reason: power sharing reduces conflict and ensures stability; the loss of stability affects everyone (1.5).", "H"),
 W("Study the statements: (a) 'Judges are appointed by the executive but can strike down executive actions.' (b) 'Both Dutch and French have equal ministers.' (c) 'The state governments are not subordinate to the centre in Belgium.' Identify the form of power sharing in each and say how each reduces misuse of power.", 4,
   "(a) Horizontal (checks and balances): the judiciary can review executive and legislative acts, so no organ is unlimited (1.5). (b) Among social (language) groups: neither can dominate the central government (1.25). (c) Vertical: regional governments have their own powers so that power is not concentrated at one level (1.25).", "H"),
 W("Suppose you are a member of a commission to resolve conflict between two language groups in a district of Rajasthan. List four recommendations based on the lessons of Belgium and Sri Lanka and justify each.", 5,
   "Equal or fair representation of both language groups in the district committee (as in Belgian ministers) so that both feel they have a say (1.25). Recognise both languages in offices and schools; avoid declaring a single language official at the cost of another (Sri Lanka lesson) (1.25). Give local bodies control over cultural and educational issues (like community government) (1.25). Ensure equal opportunity in jobs and education, with no preferential policy for one group (1.25).", "H", wp=True),
-W("Evaluate the claim that 'Sri Lanka's problem was one of the minority, not of the majority.' Give three arguments for and one against.", 4,
-  "For: Tamils faced loss of language, job and education rights and had no voice (1). Against: the majority's own policies produced the conflict and brought ruin to the majority as well (1). The measures were adopted by a democratically elected government and so the real cause was majoritarianism by the Sinhala leaders, not minority separatism alone (1). Civil war affected all communities, so it was a national, not only minority, problem (1).", "H"),
+W("Evaluate the claim that 'Sri Lanka's problem was one of the minority, not of the majority.' Give two arguments for and two against.", 4,
+  "For: Tamils lost the recognition of their language and faced discrimination in jobs and education, so they bore the direct burden (1); their demands for autonomy were repeatedly denied and they had no effective voice (1). Against: the conflict was produced by the majority's own measures (1956 Act, preferential policies), so it was a problem of majoritarianism (1); the civil war killed people of both communities and set back the whole country, so the majority suffered too (1). (Any two for and two against, 1 mark each, maximum 4.)", "H"),
 W("Why does a modern democracy need both horizontal and vertical power sharing? Give two reasons for each and one example of each from India.", 4,
   "Horizontal: no single organ gets unlimited power, and each organ checks the others, so misuse of power is reduced (1); example: Parliament makes laws, ministers are answerable to it and courts can review laws (1). Vertical: a large and diverse country is governed better when powers are shared between the Union, states and local bodies, which brings government closer to people and accommodates regional diversity (1); example: Union, State and local governments with their own powers (1).", "H"),
 ]
 
 _old = runpy.run_path(str(REPO / "src/rn_work/c10_sst/c13.py"))["CH"]
 _i = max(k for k, b in enumerate(_old["blocks"]) if b[0] == "h2")
-_core = _old["blocks"][:_i]
+def _sub(x, a, b):
+    if isinstance(x, str): return x.replace(a, b)
+    if isinstance(x, (list, tuple)): return type(x)(_sub(y, a, b) for y in x)
+    return x
+_core = _sub(_old["blocks"][:_i], 'civil war**, beginning in the 1980s, which caused', 'civil war**, which caused')
 _extra = [
  ("h2", "Key Terms at a Glance"),
  ("table", ["Term", "Meaning"], [
@@ -128,12 +132,12 @@ _extra = [
   ["1980s", "Tamil organisations demand an independent Eelam; the conflict becomes a civil war"],
   ["2009", "The civil war in Sri Lanka ends"]]),
  ("h2", "Map Pointers"),
- ("ul", ["On a map of **Belgium** locate the **Flemish region** (north, Dutch), **Wallonia** (south, French), the German-speaking area and **Brussels** (capital) which has borders with France, the Netherlands, Germany and Luxembourg.",
+ ("ul", ["On a map of **Belgium** locate the **Flemish region** (north, Dutch), **Wallonia** (south, French), the German-speaking area and **Brussels** (capital) in a country that borders France, the Netherlands, Germany and Luxembourg.",
   "On a map of **Sri Lanka** locate the concentration of **Sri Lankan Tamils in the north and east**, the Sinhala-speaking majority elsewhere and its position just off the southern coast of Tamil Nadu."]),
  ("h2", "Sources and Case Notes"),
  ("ul", ["**Case: Belgium.** The French-speaking minority was rich and powerful, the Dutch-speaking majority had developed later; the solution was the Belgian model of shared power.",
   "**Case: Sri Lanka.** A democratically elected government adopted majoritarian measures; the Tamil demand for autonomy became a call for Tamil Eelam and a civil war.",
-  "**Concept: tyranny of the majority.** It oppresses the minority and often brings ruin to the majority as well."]),
+  "**Concept: tyranny of the majority.** It oppresses the minority and often affects the majority adversely as well."]),
  ("h2", "Cause and Effect Chains"),
  ("table", ["Cause", "Effect"], [
   ["Language, regional and economic differences in Belgium", "Tension, mostly in Brussels"],
@@ -153,6 +157,6 @@ _extra = [
  ]),
 ]
 CH = dict(num=13, title=_old["title"], tag=_old["tag"], intro=_old["intro"], big_questions=_old["big_questions"],
-          blocks=_core + _extra, takeaways=_old["takeaways"] + ["Belgium's four constitutional amendments (1970-1993) and Sri Lanka's 1956 Act are the two key dates and cases.", "**Tyranny of the majority** harms the minority and often brings ruin to the majority too."])
+          blocks=_core + _extra, takeaways=_old["takeaways"] + ["Belgium's four constitutional amendments (1970-1993) and Sri Lanka's 1956 Act are the two key dates and cases.", "**Tyranny of the majority** harms the minority and often affects the majority adversely as well."])
 
 if __name__ == "__main__": run(__file__, BANK, 10, "Social_Science", WS, CH)

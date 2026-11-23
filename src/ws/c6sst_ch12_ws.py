@@ -62,6 +62,18 @@ W("Why is Indore a good example of cooperation between citizens and the local go
 ]
 
 CH = _base()
+def _fix(x):
+    if isinstance(x, str):
+        for p, q in [("Elected head of the body (e.g. Mayor in a corporation)", "Elected members; details differ from State to State"),
+                     (", fines and paid services (tankers, auditorium hire, ambulance, etc.), and grants from higher governments.", ", fines and paid services (tankers, auditorium hire, ambulance, etc.)."),
+                     ("Taxes, fees for services, fines and grants.", "Taxes, fees for paid services and fines."),
+                     ("City Council / Town Council", "City Council")]:
+            x = x.replace(p, q)
+        return x
+    if isinstance(x, (list, tuple)):
+        return type(x)(_fix(i) for i in x)
+    return x
+CH["blocks"] = _fix(CH["blocks"])
 CH["blocks"] += [
  ("h2", "12.6 Timeline"),
  ("table", ["Date", "Event"], [
@@ -94,11 +106,11 @@ CH["blocks"] += [
   ["Citizens follow waste segregation rules", "Garbage collection becomes easier; cities like Indore stay clean"],
   ["Municipal bodies get power to levy taxes (1792)", "Municipal administration properly began"]]),
  ("note", "IMPORTANT", "Remember: **above 10 lakh - Municipal Corporation; 1 to 10 lakh - Municipal Council; smaller - Nagar Panchayat.** Ward committees are the base of the urban pyramid, as the Gram Sabha is for villages."),
- ("h2", "12.11 Village and City Compared: Anita and Sameer"),
+ ("h2", "12.10 Village and City Compared: Anita and Sameer"),
  ("ul", ["**City:** busy, crowded, noisy, tall buildings; people are more independent and often do not know their neighbours; yet in an emergency such as a collapsed house, dozens of people gather to help.",
   "**Village:** quiet; everyone knows everyone; people work in the fields, celebrate festivals and take decisions together; even children can be heard, for example in getting a low-hanging electric wire fixed through the Gram Sabha.",
   "**Common idea:** elected local bodies, participation and the belief that everyone's voice matters."]),
- ("h2", "12.10 Likely 3 and 5 Mark Answers"),
+ ("h2", "12.11 Likely 3 and 5 Mark Answers"),
  ("qa", [
   ("What are urban local bodies and what are their functions? (5 marks)", "Urban local bodies are the local government institutions of towns and cities. They are decentralised and have elected members. They look after infrastructure, garbage collection and disposal, burial grounds, implementation of government schemes, collection of local taxes and fines, and planning for economic and social development. Wards and ward committees help with health camps and reporting problems."),
   ("Why are urban local bodies important in governance and democracy? (3 marks)", "They give people of a city a direct say in the management of their area, bring services close to the citizens and give practice in participatory democracy."),

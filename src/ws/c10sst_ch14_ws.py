@@ -18,7 +18,7 @@ mc("In case of a conflict between a Union law and a State law on a Concurrent su
 mc("Who has the power to legislate on residuary subjects such as computer software?", ["The State governments", "The Union Government", "Panchayats", "The Election Commission"], 1),
 mc("The institution that conducts panchayat and municipal elections in a state is the:", ["Election Commission of India", "State Election Commission", "Supreme Court", "Gram Sabha"], 1),
 mc("The body of all the voters in a village is called the:", ["Gram Panchayat", "Gram Sabha", "Panchayat Samiti", "Zilla Parishad"], 1),
-mc("In India, which language is the official language of the Union, with English also used?", ["Sanskrit", "Hindi", "Tamil", "Urdu"], 1, "Hindi is the mother tongue of only about 40 per cent of Indians."),
+mc("In India, which language is the official language of the Union, with English also used?", ["Sanskrit", "Hindi", "Tamil", "Urdu"], 1, "Hindi is the mother tongue of less than half of Indians (about 44 per cent in the 2011 Census table), so English continues alongside it."),
 W("Define federalism.", 2,
   "Federalism is a system of government in which power is divided between a central authority and various constituent units of the country (2).", "E"),
 W("Name the three lists in the distribution of legislative powers between the Union and the States.", 1, "Union List, State List and Concurrent List. (1)", "E"),
@@ -36,9 +36,9 @@ W("What does the Constitution say about a change in the power-sharing arrangemen
 W("Name any two states created on the basis of culture, ethnicity or geography rather than language.", 1, "Any two of Nagaland, Uttarakhand, Jharkhand. (1)", "E"),
 # ------------------------------------------------------------------ MEDIUM (20)
 ar("The Constitution of India provides for a federal system.", "The powers of the Union and the State governments are specified in the Constitution and the courts can settle disputes between them.", 0, "Clear division of powers and an umpire are features of federalism.", "M"),
-ar("Linguistic states have made India more united.", "People speaking the same language live within one state, making administration easier.", 0, "Experience showed that fears of splitting the country were not borne out.", "M"),
+ar("Linguistic states have made India more united.", "The fear that creating linguistic states would lead to the disintegration of the country was not borne out in experience.", 0, "Experience showed that linguistic states made the country more united and administration easier.", "M"),
 W("Write any three key features of federalism.", 3,
-  "Two or more levels of government (1). Each level has its own jurisdiction in legislation, taxation and administration, specified in the Constitution (1). Fundamental provisions cannot be changed by one level alone and courts interpret the Constitution and act as umpire (1). Sources of revenue for each level are clearly specified, ensuring financial autonomy; dual objective of unity and regional diversity (1). (any three)", "M"),
+  "Two or more levels of government (1). Each level has its own jurisdiction in legislation, taxation and administration, specified in the Constitution (1). Fundamental provisions cannot be changed by one level alone and courts interpret the Constitution and act as umpire (1). Sources of revenue for each level are clearly specified, ensuring financial autonomy; dual objective of unity and regional diversity (1). (1 mark each for any three)", "M"),
 W("Differentiate between 'coming together' and 'holding together' federations with an example each.", 3,
   "Coming together: independent States come together on their own to form a bigger unit and retain identity; States have equal powers and are strong; e.g. USA, Switzerland, Australia (1.5). Holding together: a large country divides its power between the national government and States; the Centre is more powerful and units may have unequal powers; e.g. India, Spain, Belgium (1.5).", "M"),
 W("Distinguish between a unitary and a federal system.", 3,
@@ -52,7 +52,7 @@ W("'All States in the Indian Union do not have identical powers.' Explain with e
 W("Describe how the creation of linguistic states strengthened Indian federalism.", 3,
   "After 1947 several old state boundaries were changed so that people speaking the same language lived in the same state (1). Some leaders feared the country would split, but experience showed that linguistic states made the country more united and administration easier (1). Later states were also formed on the basis of culture, ethnicity or geography, such as Nagaland, Uttarakhand and Jharkhand (1).", "M"),
 W("Explain India's language policy in three points.", 3,
-  "The Constitution did not give the status of national language to any one language (1). Hindi was identified as the official language, though it is the mother tongue of only about 40 per cent of Indians; 21 other languages are recognised as Scheduled Languages (1). English continues to be used along with Hindi for official purposes; central leaders were careful not to impose Hindi (1).", "M"),
+  "The Constitution did not give the status of national language to any one language (1). Hindi was identified as the official language, though it is the mother tongue of less than half of Indians (the text says about 40 per cent, the Census 2011 table gives 43.63 per cent); 21 other languages are recognised as Scheduled Languages (1). English continues to be used along with Hindi for official purposes; central leaders were careful not to impose Hindi (1).", "M"),
 W("What happened in Tamil Nadu on the language issue? How did the Union Government respond?", 2,
   "The use of English for official purposes was to stop in 1965, but many non-Hindi States demanded that it continue; in Tamil Nadu the movement took a violent form (1). The Central Government agreed to continue the use of English along with Hindi (1).", "M"),
 W("How did coalition governments after 1990 make Indian federalism more effective?", 3,
@@ -94,7 +94,7 @@ W("Why is it important that courts, especially the Supreme Court, act as umpire 
   "In a federation levels of government may dispute their powers; an independent court interprets the Constitution and decides who is right, so neither level dominates (1.5). Example 1: a dispute over whether a subject belongs to the State List or the Union List (1). Example 2: a dispute where a Union law conflicts with a State law on a Concurrent subject or dismissal of a State government by the Centre (1.5).", "H"),
 W("State the effect of the dual objective of federalism on India. Show how both unity and diversity have been protected, with two examples each.", 4,
   "Dual objective: safeguard and promote unity and accommodate regional diversity (1). Unity: a strong Union, common Constitution, residuary powers with the Union, power of Union on defence and currency (1.5). Diversity: linguistic states, many Scheduled Languages, special provisions for some States, local governments (1.5).", "H"),
-W("Compare the effects of 'holding together' federal arrangements in India and the USA on (i) status of States (ii) strength of the centre. Why was the Indian Constitution framed this way?", 4,
+W("Compare the 'holding together' federation of India with the 'coming together' federation of the USA on (i) status of States (ii) strength of the centre. Why was the Indian Constitution framed this way?", 4,
   "USA is a coming together federation: States came together to form a bigger unit, are equal and strong compared with the federal government (1.5). India is a holding together federation: the Centre is more powerful and States can be unequal (1.5). India's makers framed it so because the country was diverse and needed unity after Partition, and wanted to hold the country together by sharing power (1).", "H"),
 W("Suppose a State government wants to make Hindi compulsory in all schools and the Union Government wants English as an additional compulsory language. Which list does 'education' belong to? What process should be followed? Why is accommodation needed?", 4,
   "Education is on the Concurrent List, so both can legislate; in a conflict the Union law prevails (1.5). The process: consultation with the State, debates and agreement through Parliament; a change in the division of power itself would need two-thirds in both Houses plus half the States (1). Accommodation is needed because language is a sensitive issue; imposing a language caused violent protest in Tamil Nadu; trust between levels keeps unity (1.5).", "H"),
@@ -110,7 +110,11 @@ def _sub(x, pairs):
     return x
 _old = runpy.run_path(str(REPO / "src/rn_work/c10_sst/c14.py"))["CH"]
 _i = max(k for k, b in enumerate(_old["blocks"]) if b[0] == "h2")
-_PAIRS = [(" India now has **28 states and 8 Union Territories** (as of the changes of 2019-2020).", ""),
+_PAIRS = [("(about 40 per cent speak Hindi as mother tongue)", "(the mother tongue of less than half of Indians: about 40 per cent in the text, 43.63 per cent in the Census 2011 table)"),
+          ("Earlier, with the Congress ruling at the Centre and most states,", "Earlier, with the same party ruling at the Centre and in most states,"),
+          ("**Panchayats and municipalities** were made the third tier by the 73rd and 74th Amendments (1992).", "**Panchayats and municipalities**, the third tier, were made more powerful by the 73rd and 74th Amendments (1992)."),
+          ("form the **third tier**, strengthened by the 1992 amendment.", "form the **third tier**, strengthened by the 1992 amendment."),
+          (" India now has **28 states and 8 Union Territories** (as of the changes of 2019-2020).", ""),
           (" (for example Andhra Pradesh and Karnataka, with **Maharashtra and Gujarat** formed in 1960)", ""),
           ("such as **Nagaland** (1963), **Uttarakhand** and **Jharkhand** (both 2000)", "such as **Nagaland, Uttarakhand and Jharkhand**"),
           ("; there are **22 Scheduled Languages**;", "; there are **21 other Scheduled Languages** besides Hindi;"),
@@ -161,7 +165,7 @@ _extra = [
   ["1992 amendments", "Regular local elections, one-third seats for women, State Election Commission"]]),
  ("h2", "Common Mistakes"),
  ("note", "REMEMBER", "Do not call Hindi the **national language**: it is the **official language**. There are **21 other Scheduled Languages**. Education and forests are on the **Concurrent List**, police and agriculture on the **State List**."),
- ("note", "REMEMBER", "The Union has power on **residuary** subjects, but the **Concurrent List** is shared; in a conflict the Union law prevails. Panchayats and municipalities form the **third tier**, added by the 1992 amendment."),
+ ("note", "REMEMBER", "The Union has power on **residuary** subjects, but the **Concurrent List** is shared; in a conflict the Union law prevails. Panchayats and municipalities form the **third tier**, strengthened by the 1992 amendment."),
  ("h2", "Likely 3 and 5 Mark Answers"),
  ("qa", [
   ("What are the key features of federalism? (5)", "Two or more levels; separate jurisdictions; powers in the Constitution; changes need consent of both levels; courts as umpire; independent revenue sources; dual objective of unity and diversity."),
@@ -172,6 +176,6 @@ _extra = [
  ]),
 ]
 CH = dict(num=14, title=_old["title"], tag=_old["tag"], intro=_old["intro"], big_questions=_old["big_questions"],
-          blocks=_core + _extra, takeaways=_old["takeaways"] + ["Only 25 of the world's 193 countries are federations, but they hold about 40 per cent of the world's people.", "A change in the Union-State power sharing needs two-thirds of both Houses and ratification by half of the State legislatures."])
+          blocks=_core + _extra, takeaways=_sub(_old["takeaways"], _PAIRS) + ["Only 25 of the world's 193 countries are federations, but they hold about 40 per cent of the world's people.", "A change in the Union-State power sharing needs two-thirds of both Houses and ratification by half of the State legislatures."])
 
 if __name__ == "__main__": run(__file__, BANK, 10, "Social_Science", WS, CH)

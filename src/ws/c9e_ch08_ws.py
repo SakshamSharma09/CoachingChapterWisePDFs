@@ -16,8 +16,8 @@ W("The letter is dated:", 1, "(b) 19 June 1995.", "E",
   opts=["15 August 1947", "19 June 1995", "2 October 2000", "1 January 1990"]),
 W("'Step up to the Challenge' is a poem by:", 1, "(a) Robert Langley.", "E",
   opts=["Robert Langley", "Charles Swain", "David Roth", "Maya Anthony"]),
-W("The poem's rhyme scheme in each stanza is:", 1, "(c) ABCB (the second and fourth lines rhyme).", "E",
-  opts=["AABB", "ABAB", "ABCB", "ABBA"]),
+W("Which pair of words from 'Step up to the Challenge' rhymes?", 1, "(b) 'fear' and 'near'. The other rhyming pairs are see-be, quo-grow and back-track.", "E",
+  opts=["crowd - future", "fear - near", "comfort - growth", "hardest - believe"]),
 W("According to the poem, what is the hardest?", 1, "(d) the first step.", "E",
   opts=["the last step", "the middle of the journey", "the finish line", "the first step"]),
 W("What does the mother say makes the difference between greatness and the ordinary?", 2, "How much effort and sacrifice people invest to realise their dream (2).", "E"),
@@ -77,7 +77,7 @@ blocks=[
 ("h2", "1. The Unit at a Glance"),
 ("table", ["Item", "Follow That Dream", "Step up to the Challenge"], [
  ["Writer", "Irene Chua (from 'My Daughter, My Friend')", "Robert Langley"],
- ["Form", "A personal letter (19 June 1995) from a mother to her daughter Ming", "A poem of four four-line stanzas"],
+ ["Form", "A personal letter (19 June 1995) from a mother to her daughter Ming", "A short poem of four stanzas (3, 4, 4 and 4 lines)"],
  ["Main idea", "Pursue a dream with effort and sacrifice; count the cost; dreams may change", "Believe in yourself and leave comfort for growth"],
  ["Tone", "Encouraging and realistic", "Motivational"],
  ["Key words", "dream, conviction, sacrifice, support network", "challenge, status quo, first step, belief"]]),
@@ -115,7 +115,7 @@ blocks=[
  ["4", "The first step is the hardest and there is no turning back; believe in yourself and your future will be on track"]]),
 ("table", ["Device", "Example", "Effect"], [
  ["Direct address", "You, your", "Speaker is a guide who speaks to the reader"],
- ["Rhyme scheme", "ABCB: see-be, fear-near, quo-grow, back-track", "Simple, steady flow"],
+ ["Rhyme", "Rhyming pairs: see-be, fear-near, quo-grow, back-track", "Simple, steady flow"],
  ["Metaphor", "The first step is the hardest", "Beginning is the toughest part of change"],
  ["Antithesis", "pull you forward or push you back; ease in comfort versus growth", "Contrasts courage and fear"],
  ["Symbolism", "comfort and status quo: stagnation; the future: unknown and potential; the first step: courage to start", "Deeper meaning"],
@@ -177,7 +177,7 @@ takeaways=[
  "Count the cost in years, finance and sacrifice before plunging into a dream.",
  "Winners have a support network; many dreams remain wishful thinking because of circumstances.",
  "Life itself may change a person's dreams, and changed dreams are not lesser.",
- "Step up to the Challenge by Robert Langley has four ABCB stanzas.",
+ "Step up to the Challenge by Robert Langley has four short stanzas with rhyming pairs (see-be, fear-near, quo-grow, back-track).",
  "The poem uses direct address, metaphor, antithesis and symbolism: leave comfort, trust yourself, take the first step.",
  "Grammar: the first conditional with imperatives and the many uses of 'could'."])
 

@@ -53,8 +53,7 @@ W("Case study: Kavita, an elected member of her village Panchayat, hears from wo
 W("Compare the working of the government at the Central level and at the Panchayat level. Give two similarities and one difference.", 3, "Similarity: both have elected people who take decisions for others (1), and both work at several levels / tiers (1). Difference: the Central government is for the whole country (big matters like defence), while the Panchayat is for local matters like village roads and water (1). (Any sensible points are accepted.)", "H"),
 W("Explain how democracy in the Panchayati Raj works both through direct participation and through elected representatives.", 3, "Direct: all adult voters of a village take part in the Gram Sabha and discuss and decide matters (1.5). Representative: they elect members of the Gram Panchayat, and the higher tiers have elected members as well (1.5).", "H"),
 W("Why is the Panchayati Raj called 'self-government'? Give two reasons.", 3, "Villagers manage their own local affairs through people they elect (1.5). It reduces dependence on the distant government, and the people can take an active part in decisions and development (1.5).", "H"),
-W("Kauṭilya wrote that the king should set up a sangrahaṇa for every 10 villages, a kārvaṭika for 100, a droṇamukha for 400 and a sthānīya for 800 villages. Draw a table to compare it with the modern three-tier structure.", 4, "Table: sangrahaṇa (10 villages, sub-district headquarters) is like the block level (Panchayat Samiti) (1). Kārvaṭika (100 villages, district headquarters) is like the district (Zila Parishad) (1). Droṇamukha (400) and sthānīya (800, provincial headquarters) are like the regional or State level (1). The idea of a layered system from village to regional capital existed some 2,300 years ago (1).", "H"),
-W("Read the quote: 'The real India lives in its villages.' Using the chapter, give three facts that support this idea.", 3, "India has about 600,000 villages against 8,000 towns and over 4,000 cities (1). Almost two-thirds of the 1.4 billion people live in rural areas (1). Villages are where farming, water and local governance take place, so strong Panchayats matter (1).", "H"),
+W("Kauṭilya wrote that the king should set up a sangrahaṇa for every 10 villages, a kārvaṭika for 100, a droṇamukha for 400 and a sthānīya for 800 villages. What does this passage show about administration in ancient India, and why does the chapter call it amazing?", 4, "It shows a layered structure of administration from the village upwards: sub-district headquarters for 10 villages, district headquarters for 100 villages, and provincial headquarters for 800 villages. (2) The chapter finds it amazing that a structure with several levels, similar in idea to our local, district and State levels today, was thought of some 2,300 years ago. (2)", "H"),W("Read the quote: 'The real India lives in its villages.' Using the chapter, give three facts that support this idea.", 3, "India has about 600,000 villages against 8,000 towns and over 4,000 cities (1). Almost two-thirds of the 1.4 billion people live in rural areas (1). Villages are where farming, water and local governance take place, so strong Panchayats matter (1).", "H"),
 W("Explain how the Child-Friendly Panchayat Initiative is a good idea. Give two benefits and two examples.", 4, "Benefits: children's voices and rights are heard (1) and children learn leadership and democracy early (1). Examples: Bal Panchayats in Maharashtra stopped child labour and child marriage (1); the Sikkim Gram Panchayat built safer school walls and clean kitchens (1).", "H"),
 W("Do you think the Children's Parliament is a good model for schools in your area? Give your view with two reasons based on the chapter.", 3, "Yes (or reasoned no). Children aged 8 to 14 learned democracy by practising it with elections and voter IDs (1.5). It built leadership, social awareness and let them tackle education, sanitation and equality, and won the World's Children's Honorary Award in 2001 (1.5).", "H"),
 W("Which problems of Lakshmanpur village will be dealt with at (i) the village level (ii) the block level? Explain with one example each.", 3, "(i) Local needs such as repairing a damaged village road or school maintenance, discussed in the Gram Sabha (1.5). (ii) Matters involving several villages, like putting together development plans for a road scheme such as Pradhan Mantri Gram Sadak Yojana (1.5).", "H", wp=True),
@@ -63,6 +62,13 @@ W("Why is it important to give more attention to the disadvantaged sections of s
 ]
 
 CH = _base()
+def _fix(x):
+    if isinstance(x, str):
+        return x.replace(" — comparable to our block, district and province structure.", ". The chapter asks what names we would give these four categories today.")
+    if isinstance(x, (list, tuple)):
+        return type(x)(_fix(i) for i in x)
+    return x
+CH["blocks"] = _fix(CH["blocks"])
 CH["blocks"] += [
  ("h2", "11.7 Time and Number Pointers"),
  ("table", ["Number / date", "Fact"], [
@@ -99,12 +105,12 @@ CH["blocks"] += [
   ["Different States' authority over panchayats", "Names and structure vary slightly, objectives the same"],
   ["Need for voice of disadvantaged groups", "Special rules and one-third reservation for women"]]),
  ("note", "IMPORTANT", "The three tiers go **from bottom up: village (Gram Panchayat), block (Panchayat Samiti), district (Zila Parishad)**. Answer 'who elects whom' with the Gram Sabha at the base."),
- ("h2", "11.12 Rural and Central Government: Think and Compare"),
+ ("h2", "11.11 Rural and Central Government: Think and Compare"),
  ("ul", ["**Similarities:** both have elected representatives; both work at more than one level; both aim to serve people; both make decisions through discussion.",
   "**Differences:** the Central government looks after the whole country (defence, currency and so on), while the Panchayat looks after local needs such as village roads, water and school upkeep. In the Gram Sabha, villagers can take part directly, because they all know each other.",
   "A good Gram Panchayat member should be honest, helpful, a good listener and ready to work for all, including women, children and the disadvantaged."]),
  ("note", "REMEMBER", "For letter-writing questions (for example about plastic bags on the roadside) write: place and date, address to the Sarpanch, subject, the problem, your request, and your name."),
- ("h2", "11.11 Likely 3 and 5 Mark Answers"),
+ ("h2", "11.12 Likely 3 and 5 Mark Answers"),
  ("qa", [
   ("Describe the three-tier Panchayati Raj system. (5 marks)", "The system works at the village, block and district levels. At the village is the Gram Panchayat, elected by the Gram Sabha and headed by the Sarpanch. At the block level the Panchayat Samiti is the link between Gram Panchayat and Zila Parishad and coordinates development plans. At the district level the Zila Parishad coordinates and presents the plans. They cover agriculture, roads, water, education, health and welfare, and keep one-third seats for women."),
   ("Write a short note on any two exemplary Sarpanchs. (3 marks)", "Vandana Bahadur Maida of Khankhandvi, Madhya Pradesh, was the first female Sarpanch of her village. She brought women to the Sabha and worked on education and sanitation. Popatrao Pawar of Hiware Bazar used rainwater harvesting and tree planting to make the village green; he got the Padma Shri in 2020."),

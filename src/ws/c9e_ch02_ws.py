@@ -14,7 +14,7 @@ W("The tool called a 'dao' in the story was used to:", 1, "(d) dig the clay.", "
   opts=["shape the pot", "pound the clay", "weave cloth", "dig the clay"]),
 W("The village council told Mesoba that skills like pot making:", 1, "(b) did not belong to any individual and had to be passed on to anyone who wished to learn.", "E",
   opts=["should be kept secret", "did not belong to any individual and must be passed on", "were only for sons", "should be sold for money"]),
-W("The poem 'Gifts of Grace: Honouring Our Vocations' begins and ends with the line:", 1, "(c) 'I hear Bharat celebrating, the varied vocations I hear!'", "E",
+W("The poem 'Gifts of Grace: Honouring Our Vocations' begins with the line:", 1, "(c) 'I hear Bharat celebrating, the varied vocations I hear!' (the last line echoes it with 'voices').", "E",
   opts=["'The voice of their vocation is the voice of their identity.'", "'The shoemakers affirming the quality of their work'", "'I hear Bharat celebrating, the varied vocations I hear!'", "'The carpenters celebrating'"]),
 W("In 'Quality', the shop's name board read:", 1, "(a) Gessler Brothers.", "E",
   opts=["Gessler Brothers", "Gessler and Sons", "London Boot House", "Fine Boots"]),
@@ -48,11 +48,12 @@ W("Why does the council's statement that skills 'did not belong to any individua
 W("Fill in with a suitable noun clause: 'The elders emphasised that ______'.", 2, "Any suitable clause, e.g. 'the skill had to be passed on from generation to generation' (2).", "M"),
 W("Fill in with a relative clause: 'Sentila, whose ______, practised the craft diligently.'", 2, "Any suitable clause, e.g. 'mother wanted her to be a weaver' (2).", "M"),
 W("Complete using suitable determiners: 'The carpenter crafted ____ unique tables, and ____ of them became the centrepiece of ____ furniture collection.'", 2, "Examples: three/several; one; his/the (2). Any suitable determiners accepted.", "M"),
-W("Mr Gessler said, 'Id is an ardt!' What does this show about his attitude to boot making?", 3, "He regarded making boots as an art and not mere trade (1). He took pride in each pair and said it could not be hurried (1). His broken English shows he was a German-speaking craftsman in London (1: any one valid inference may earn this mark).", "M"),
+W("Mr Gessler said, 'Id is an ardt!' What does this show about his attitude to boot making?", 3, "He regarded making boots as an art and not mere trade (1). He took pride in each pair and said it could not be hurried (1). His broken English shows he was not a native speaker of English (1: any one valid inference from his speech may earn this mark).", "M"),
 W("What did the narrator notice about the quality of Mr Gessler's boots?", 2, "They lasted terribly long, 'having something beyond the temporary' (1); in fit, finish and leather they were the best (1).", "M"),
 W("'The voice of their vocation is the voice of their identity.' Explain this line.", 3, "A person's work expresses who he or she is (1). Each artisan sings or speaks through the craft (1). Every vocation therefore deserves respect (1).", "M"),
 W("Is the poem 'Gifts of Grace' written in free verse? Give reasons.", 3, "The poem does not follow a strict rhyme scheme (1) and its lines vary in length (1). It follows a pattern of naming a vocation and what its people do (1).", "M"),
 W("Explain the use of auditory imagery in the poem. Give examples.", 3, "The poem has sounds: artisans with lutes echoing in the streets (1), electricians humming (1) and the delicious singing of the cook, and boatmen singing at work (1).", "M"),
+W("Complete the sentence with suitable relative clauses: (i) The potter's hands, which ____, shaped the clay into beautiful creations. (ii) Mesoba went home and discussed the matter with Arenla, who ____.", 2, "(i) e.g. 'were trained by years of practice' (1). (ii) e.g. 'agreed to teach Sentila' (1). Any grammatically correct clauses with 'which' and 'who' are accepted.", "M"),
 # ------------------------------------------------------------------ HARD (14)
 W("Why do you think Arenla pretended not to know of her daughter's visits, and later left Sentila alone in the shed?", 4, "She knew about the visits yet pretended ignorance, so she may have secretly welcomed them (1). When her teaching failed she may have understood Sentila learnt best by watching, not by being taught while she was tense (1). Leaving the shed with a headache and backache gave Sentila freedom to work without pressure (1). The text does not state her intention, so answers are inferences (1).", "H"),
 W("'A new pot maker was born.' What is the significance of the concluding line of the story?", 4, "It marks Sentila's success as a pot maker (1). The two batches of pots looked identical, so her skill equalled her mother's (1). It also marks passing of the craft to a new generation, saving the tradition (1). The line stands for the birth of a vocation out of effort, observation and perseverance (1).", "H"),
@@ -60,9 +61,8 @@ W("What is the role of perseverance in pursuing one's dreams? Answer with refere
 W("Read: 'But if Sentila learns weaving, she can make much more money besides providing enough cloth for the family.' Was Arenla right to think of money? Give two points for and one against.", 4, "For: pot making brought only a pittance, with a heavy load, a sixteen-kilometre trip and months of labour (1); weaving can be done indoors in all seasons and gives a handsome return (1). Against: Sentila was passionate, and the village needed potters to keep the tradition alive (1). A balanced personal conclusion (1).", "H"),
 W("Mr Gessler 'starved himself'. Do you think he was right to refuse to change his methods? Give reasons from the story.", 5, "Opinion questions need reasons. For his stand: he insisted on quality, best leather, doing everything himself, and his boots were the best (1.5). Against: he did not advertise, orders took very long and customers would not wait, so he lost everybody and died in poverty (1.5). Balanced view: pride in quality should be combined with some practicality (1). Expression (1).", "H"),
 W("How does 'Quality' show the conflict between handmade craft and mass production?", 4, "Big firms win by advertisement and not by work (1), so Gessler tells the narrator they 'take it away from us who love our boots' (1). His business shrinks every year until he dies (1). The story laments the decline of traditional crafts under industrial competition (1).", "H"),
-W("Compare Sentila of 'The Pot Maker' and Mr Gessler of 'Quality': one common quality and one difference.", 4, "Common: both love their craft and strive for perfection (2). Difference: Sentila learns and continues the tradition and succeeds, while Gessler works alone, refuses change and dies in poverty with the craft lost to the new owner (2).", "H"),
+W("Compare Sentila of 'The Pot Maker' and Mr Gessler of 'Quality': one common quality and one difference.", 4, "Common: both love their craft and strive for perfection (2). Difference: Sentila learns and continues the tradition and succeeds, while Gessler works alone, refuses change and dies in poverty, and his shop is taken over by a young man (2).", "H"),
 W("Case study: Kishan, a young potter in Jaipur's blue pottery workshop, wants to teach the craft to girls and boys of his neighbourhood, but his father says, 'Keep the skill in the family.' Which idea of the council in the story would you use to answer the father? Write a short reply of about 60 words.", 4, "Marks: link to the idea that skills which cater to people's needs and symbolise tradition belong to no individual and experts must teach all who wish to learn (2), reply in a respectful tone (1), expression (1).", "H", wp=True),
-W("Complete the sentence with suitable relative clauses: (i) The potter's hands, which ____, shaped the clay into beautiful creations. (ii) Mesoba went home and discussed the matter with Arenla, who ____.", 4, "(i) e.g. 'were trained by years of practice' (2). (ii) e.g. 'agreed to teach Sentila' (2). Any grammatically correct clauses with 'which' and 'who' are accepted.", "H"),
 W("'The poet uses sensory imagery to bring out the beauty of everyday work.' Explain with three examples from 'Gifts of Grace'.", 4, "Visual: craft 'woven with colours and myriad hues' (1.5). Auditory: lutes echoing in the streets, electricians humming (1.5). Taste: the 'delicious singing' of the cook, a mixed image (1). Together they make ordinary work lively and worthy of celebration.", "H"),
 W("'The delicious singing of the cook' is a metaphor. Explain how the poet makes it work.", 3, "Singing, a sound, is called delicious, which is a taste (1). This fusing of senses suggests that the cook's pleasure in work makes it as enjoyable as eating (1). It shows the joy and dignity of the cook's vocation (1).", "H"),
 W("Write a paragraph (about 100 words) on your skills and passions and how one of them might become a profession. Follow the steps: introduction, describing skills, passion into profession, example and conclusion.", 5, "Marks: content following the steps (2), organisation (1), vocabulary such as passion, vocation, craft (1), accuracy (1).", "H"),
@@ -124,7 +124,7 @@ blocks=[
  "**Mood:** respectful, then sorrowful."]),
 
 ("h2", "6. The Poem: Gifts of Grace: Honouring Our Vocations"),
-("p", "The anonymous speaker listens to Bharat celebrating its many vocations. The poem begins and ends with 'I hear Bharat celebrating, the varied vocations I hear!'."),
+("p", "The anonymous speaker listens to Bharat celebrating its many vocations. The poem begins with 'I hear Bharat celebrating, the varied vocations I hear!' and closes with almost the same line ('...the varied voices I hear!')."),
 ("table", ["Vocation", "What the poem says"], [
  ["Craftspeople", "Each celebrates their craft, woven with colours and myriad hues"],
  ["Artisans with lutes", "They hail varied emotions and dreams, echoing in the streets"],
@@ -136,7 +136,7 @@ blocks=[
 ("table", ["Feature", "Example / explanation"], [
  ["Form", "Free verse; no strict rhyme scheme; lines of varying length; most lines name a vocation and its action"],
  ["Tone and mood", "Celebratory, reverential, joyful"],
- ["Repetition / frame", "First and last lines are the same; it ties the poem together and stresses celebration"],
+ ["Repetition / frame", "First line and last line almost the same ('vocations' / 'voices'); it ties the poem together and stresses celebration"],
  ["Imagery", "Visual: colours and hues; auditory: lutes, humming, singing; taste: 'delicious singing'"],
  ["Metaphor and synaesthesia", "The cook's singing is called 'delicious'"],
  ["Personification", "Vocations 'celebrating' and 'having a voice'"],
@@ -189,7 +189,7 @@ takeaways=[
  "Sentila learns by observing and with Onula's help; she makes pots just one short of her mother's tally.",
  "'A new pot maker was born' marks the passing of tradition to a new generation.",
  "Quality by John Galsworthy shows Gessler's devotion to craft and the decline of handmade goods.",
- "Gifts of Grace is a free-verse poem; first and last lines are the same: 'I hear Bharat celebrating, the varied vocations I hear!'.",
+ "Gifts of Grace is a free-verse poem; the last line almost repeats the first: 'I hear Bharat celebrating, the varied vocations/voices I hear!'.",
  "Grammar: noun clauses, relative clauses and determiners.",
  "Vocabulary: pittance, tedious, deftly, malleable, dexterity, myriad, hues."])
 

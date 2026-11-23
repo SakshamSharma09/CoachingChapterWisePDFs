@@ -79,6 +79,10 @@ W("Why does an airbag, along with a seat belt, protect a car passenger in a coll
 W("Forces of 10 N to the right, 6 N to the left and 3 N to the right act on a body of mass 2 kg. Find the net force and the acceleration.", 3,
   "Net force = 10 + 3 &minus; 6 = 7 N to the right (1.5). a = 7/2 = 3.5 m s<sup>&minus;2</sup> to the right (1.5).", "M"),
 
+W("A 2 kg block moving at 10 m s<sup>&minus;1</sup> on a rough floor experiences a constant friction of 4 N. Find its retardation, the time it takes to stop and the distance covered.", 3,
+  "a = &minus;4/2 = &minus;2 m s<sup>&minus;2</sup> (1). t = 10/2 = 5 s (1). s = u<sup>2</sup>/2|a| = 100/4 = 25 m (1).", "M"),
+W("A football of mass 0.5 kg, initially at rest, is kicked and leaves the foot at 20 m s<sup>&minus;1</sup> after 0.01 s of contact. Find the average force of the kick. By Newton's third law, what is the force on the foot?", 3,
+  "a = 20/0.01 = 2000 m s<sup>&minus;2</sup> (1). F = 0.5 &times; 2000 = 1000 N (1). By the third law the ball exerts an equal force of 1000 N on the foot, in the opposite direction (1).", "M", wp=True),
 # ------------------------------------------------------------------ HARD (14)
 W("A bullet of mass 50 g moving at 200 m s<sup>&minus;1</sup> is stopped by a wooden plank in a distance of 10 cm. Find the average force exerted by the plank.", 4,
   "m = 0.05 kg, s = 0.1 m. From v<sup>2</sup> = u<sup>2</sup> + 2as: 0 = 40 000 + 2a(0.1), so a = &minus;2 &times; 10<sup>5</sup> m s<sup>&minus;2</sup> (2). F = ma = 0.05 &times; 2 &times; 10<sup>5</sup> = 10 000 N, opposite to the motion (2).", "H", wp=True),
@@ -92,8 +96,6 @@ W("A rocket of mass 5000 kg has an engine thrust of 80 000 N. Take g = 10 m s<su
   "(i) 50 000 N (0.5). (ii) 80 000 &minus; 50 000 = 30 000 N (1). (iii) a = 30 000/5000 = 6 m s<sup>&minus;2</sup> (1). (iv) v = 6 &times; 5 = 30 m s<sup>&minus;1</sup> (0.5); h = &frac12; &times; 6 &times; 25 = 75 m (1).", "H", wp=True),
 W("A worker pushes a 40 kg crate along a floor at a constant speed with a force of 200 N. (i) What is the friction force? (ii) If he pushes with 260 N, what is the acceleration? Name the law used in each part.", 3,
   "(i) Constant velocity means zero net force (first law), so friction = 200 N (1.5). (ii) Net force = 260 &minus; 200 = 60 N; a = 60/40 = 1.5 m s<sup>&minus;2</sup> (second law) (1.5).", "H", wp=True),
-W("A 2 kg block moving at 10 m s<sup>&minus;1</sup> on a rough floor experiences a constant friction of 4 N. Find its retardation, the time it takes to stop and the distance covered.", 3,
-  "a = &minus;4/2 = &minus;2 m s<sup>&minus;2</sup> (1). t = 10/2 = 5 s (1). s = u<sup>2</sup>/2|a| = 100/4 = 25 m (1).", "H"),
 W("A truck of 5000 kg and a car of 1000 kg are each brought to rest from 20 m s<sup>&minus;1</sup> by the same braking force of 5000 N. Compare the retardation, the stopping time and the stopping distance. What does this show?", 4,
   "Car: a = 5 m s<sup>&minus;2</sup>, t = 4 s, s = 40 m (1.5). Truck: a = 1 m s<sup>&minus;2</sup>, t = 20 s, s = 200 m (1.5). For the same force the heavier vehicle is harder to stop, so it needs a longer time and distance (1).", "H", wp=True),
 W("Two skaters, A of mass 50 kg and B of mass 60 kg, stand on smooth ice and push against each other with a force of 120 N. Find their accelerations. In what directions do they move and why?", 3,
@@ -104,8 +106,6 @@ W("Assertion (A): A feather and a stone fall together in a vacuum. Reason (R): T
   "A is true and R is true and R explains A (1.5). For 1 kg: F = 10 N, a = 10/1 = 10 m s<sup>&minus;2</sup>; for 4 kg: F = 40 N, a = 40/4 = 10 m s<sup>&minus;2</sup>, the same (1.5).", "H"),
 W("Case study: A passenger of mass 60 kg travelling in a car at 54 km h<sup>&minus;1</sup> is stopped in a crash. (i) Find the average force if she stops in 0.1 s against a hard dashboard. (ii) Find the average force if an airbag brings her to rest in 0.5 s. (iii) By what factor is the force reduced?", 4,
   "u = 15 m s<sup>&minus;1</sup>. (i) a = 15/0.1 = 150 m s<sup>&minus;2</sup>, F = 60 &times; 150 = 9000 N (1.5). (ii) a = 15/0.5 = 30 m s<sup>&minus;2</sup>, F = 60 &times; 30 = 1800 N (1.5). (iii) 9000/1800 = 5 times smaller, because the stopping time is five times longer (1).", "H", wp=True),
-W("A football of mass 0.5 kg, initially at rest, is kicked and leaves the foot at 20 m s<sup>&minus;1</sup> after 0.01 s of contact. Find the average force of the kick. By Newton's third law, what is the force on the foot?", 3,
-  "a = 20/0.01 = 2000 m s<sup>&minus;2</sup> (1). F = 0.5 &times; 2000 = 1000 N (1). By the third law the ball exerts an equal force of 1000 N on the foot, in the opposite direction (1).", "H", wp=True),
 W("A book rests on a table. (i) Name the forces on the book and say whether they balance. (ii) State the reaction to the weight of the book. (iii) Why is the normal force not the reaction to the weight?", 3,
   "(i) Weight (down) and the normal force from the table (up); they balance since the book is at rest (1). (ii) The reaction to the Earth's pull on the book is the book's pull on the Earth (1). (iii) Both the weight and the normal force act on the same object (the book), while an action and its reaction act on different objects (1).", "H"),
 ]

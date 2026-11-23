@@ -8,7 +8,7 @@ def mc(q, opts, i, why=""):
 
 WS = [
 # ------------------------------------------------------------------ EASY (17)
-mc("Gandhi's first satyagraha in India against indigo planters was in:", ["Kheda", "Champaran", "Ahmedabad", "Bardoli"], 1, "Champaran, Bihar, 1916."),
+mc("Gandhi's first satyagraha in India against indigo planters was in:", ["Kheda", "Champaran", "Ahmedabad", "Bardoli"], 1, "Champaran, Bihar, 1917."),
 mc("The Rowlatt Act (1919) allowed the government to:", ["tax salt", "detain political prisoners without trial for two years", "ban foreign cloth", "set up separate electorates"], 1),
 mc("The Jallianwala Bagh massacre took place on:", ["6 April 1919", "10 April 1919", "13 April 1919", "30 January 1920"], 2, "It was Baisakhi day."),
 mc("The Non-Cooperation Movement was withdrawn after the violence at:", ["Sholapur", "Chauri Chaura", "Dandi", "Amritsar"], 1),
@@ -40,7 +40,7 @@ W("Why did Gandhi choose salt as a symbol for the Civil Disobedience Movement? G
 W("Explain how the Rowlatt Act and the events of April 1919 led to the end of the Rowlatt satyagraha.", 3,
   "Gandhi called a nationwide hartal on 6 April 1919 against the Act; rallies were held and shops closed (1). On 10 April the police fired on a peaceful procession in Amritsar; violence broke out, leaders were arrested and martial law under General Dyer was imposed (1). After the Jallianwala Bagh massacre on 13 April and violent incidents, Gandhi called off the satyagraha (1).", "M"),
 W("Read the source and answer. 'The Satyagraha idea emphasised the power of truth and the need to search for truth. It suggested that if the cause was true, if the struggle was against injustice, then physical force was not necessary to fight the oppressor.'  (i) What did Gandhi believe the satyagrahi could do? (ii) Name two satyagrahas he organised in 1917-18. (iii) Why did he believe violence was unnecessary?", 3,
-  "(i) Win the battle through non-violence, convincing the oppressor and his own people through truth (1). (ii) Champaran (1916-17), Kheda (1917), Ahmedabad mill workers (1918) - any two (1). (iii) Because a cause based on truth can appeal to the conscience of the oppressor, who can be persuaded rather than coerced (1).", "M"),
+  "(i) Win the battle through non-violence, convincing the oppressor and his own people through truth (1). (ii) Champaran (1917), Kheda (1918), Ahmedabad mill workers (1918) - any two (1). (iii) Because a cause based on truth can appeal to the conscience of the oppressor, who can be persuaded rather than coerced (1).", "M"),
 W("Explain the proposals of the Non-Cooperation Movement in stages and say how the Non-Cooperation programme was adopted at the Nagpur session of 1920.", 3,
   "Gandhi proposed that the movement unfold in stages: surrender of titles, boycott of civil services, army, police, courts and legislative councils, schools and foreign goods (1). If the government used repression, a full civil disobedience campaign would be launched (1). After a tussle in the Calcutta special session (September 1920), a compromise was worked out, and at Nagpur (December 1920) the programme was adopted (1).", "M"),
 W("Why did the Congress leaders initially hesitate to boycott the councils? How did the Justice Party respond in Madras?", 2,
@@ -79,9 +79,9 @@ W("Examine the role of the Jallianwala Bagh massacre in turning the nationalist 
 W("Compare how three social groups understood 'swaraj' during the Civil Disobedience Movement. Give one demand of each.", 4,
   "Rich peasants (Patidars, Jats): lower revenue demand (1). Business classes: protection against imports, rupee-sterling ratio and removal of colonial restrictions on trade (1). Industrial workers: better wages and working conditions; Congress was reluctant to include these demands for fear of alienating industrialists (1). Women / Dalits / tribals may be added with one correct demand (1). (any three groups; 1 mark each plus 1 for clear comparison)", "H"),
 W("Why did the Chauri Chaura incident lead Gandhi to call off the movement though it was gaining momentum? Evaluate his decision.", 4,
-  "In February 1922 a crowd of peasants in Chauri Chaura (Gorakhpur) clashed with police, set the police station on fire and 22 policemen died (1). Gandhi was committed to non-violence; he felt the satyagrahis were not yet fully trained for mass struggle (1). Some leaders like Nehru and Subhas Bose opposed the withdrawal, but Gandhi felt that violence would give the British a justification to repress harshly (1). Evaluation: the decision protected the moral basis of the movement but disappointed many followers (1).", "H"),
-W("Read the source and answer. Gandhi in his speech at Dandi: 'I want world sympathy in this battle of Right against Might.' (i) Explain what 'Right against Might' meant. (ii) Describe the Salt March in four facts. (iii) What reaction did the British show to the violation of salt law?", 4,
-  "(i) Truth and non-violence of Indians against the armed colonial government (1). (ii) Began 12 March 1930 from Sabarmati Ashram with 78 volunteers; covered about 240 miles in 24 days; reached Dandi on 6 April; Gandhi ceremonially made salt from seawater, violating the law (2). (iii) Leaders were arrested, Gandhi was arrested in April and angry crowds attacked police posts in Sholapur; later the Government arrested thousands (1).", "H"),
+  "In February 1922 a peaceful demonstration in a bazaar at Chauri Chaura (Gorakhpur) turned into a violent clash with the police (1). He called a halt to the movement because he was committed to non-violence (1). Gandhi felt the movement was turning violent in many places and that satyagrahis had to be properly trained before they could take part in mass struggles (1). Evaluation: the decision protected the moral basis of the movement but disappointed many followers (1).", "H"),
+W("Read the source and answer. 'Mahatma Gandhi found in salt a powerful symbol that could unite the nation.' (i) On what date, and to which Viceroy, did Gandhi send a letter stating his demands, and how many demands were there? (ii) Describe the Salt March in four facts. (iii) What reaction did the British show to the movement that followed?", 4,
+  "(i) 31 January 1930, to Viceroy Irwin; eleven demands (1). (ii) Began from Sabarmati Ashram with 78 trusted volunteers; covered over 240 miles in 24 days (about 10 miles a day); thousands came to hear him on the way; he reached Dandi and broke the salt law by making salt from seawater (April 1930) (any four facts, 2). (iii) Peaceful satyagrahis were attacked, women and children beaten, about 100,000 people arrested; Gandhi himself was arrested and industrial workers in Sholapur attacked police posts (1).", "H"),
 W("The Gandhi-Irwin Pact did not satisfy many Congress leaders. Why? Explain the course of events between March 1931 and 1934.", 4,
   "The Pact (5 March 1931) ended the movement, and Gandhi attended the Second Round Table Conference in London (December 1931) (1). The negotiations broke down and he returned disappointed (1). Back in India he found Jawaharlal Nehru and Khan Abdul Ghaffar Khan in jail, the Congress illegal and a series of measures to prevent meetings, demonstrations and boycotts (1). He relaunched civil disobedience, but by 1934 the movement lost its momentum (1).", "H"),
 W("Case study. At a meeting in Nagpur in 1930, a cotton-mill worker, Raju, listens to a Congress speaker. He wants better wages; the speaker talks of boycotting foreign cloth. (i) Which movement is being discussed? (ii) Why were workers' demands not part of the Congress programme? (iii) How did workers participate anyway? (iv) What could the Congress have done to include them?", 4,
@@ -90,14 +90,14 @@ W("How did Mahatma Gandhi and Dr B. R. Ambedkar differ on the question of Dalits
   "Gandhi believed separate electorates would slow down the process of integration of Dalits into society; he called them Harijan and organised temple entry and well access satyagrahas (1). Ambedkar organised the Depressed Classes Association (1930) and demanded separate electorates at the Second Round Table Conference (1). When the British conceded, Gandhi began a fast unto death (1). Ambedkar accepted the Poona Pact (Sept 1932) which gave reserved seats in the legislatures but elected by the general electorate (1).", "H"),
 W("'Nationalism spreads when people begin to believe that they are all part of the same nation.' Using at least four examples explain how Indians built this belief.", 5,
   "Bharat Mata image (Bankim Chandra's Vande Mataram in Anandamath; Abanindranath Tagore's painting) (1). Folklore and songs collected by Rabindranath Tagore and Natesa Sastri (1). The Swadeshi tricolour flag of Bengal and Gandhi's 1921 flag with the spinning wheel, symbolising self-help (1). Reinterpretation of history: nationalists celebrated India's glorious ancient past against British picture of backwardness (1). Common suffering under colonial rule and the Gandhian movements united different groups, even though each understood freedom in its own way (1).", "H"),
-W("Why did the Congress organise the 1930 Salt March only after Irwin ignored a letter? List the eleven demands' broad themes you remember and say which affected rich, poor and industrialists.", 4,
+W("Why did the Congress organise the 1930 Salt March only after Irwin ignored a letter? Name three of the eleven demands and say which class each helped (peasants, industrialists or all).", 4,
   "On 31 January 1930 Gandhi sent a letter to Viceroy Irwin stating eleven demands (1). Some were of general interest; others were specific to classes - reduction of land revenue and abolition of salt tax (peasants, poor), reduction of military expenditure and civil service salaries (all), industrialists' demand for protection against imports and rupee-sterling ratio reduction (1). The idea was to make demands that all classes could identify with and unite them (1). Irwin was unwilling to negotiate, so Gandhi announced the march (1).", "H"),
 W("Analyse the Simon Commission, the Lahore session of 1929 and the demand for Purna Swaraj as steps towards Civil Disobedience.", 5,
   "The Simon Commission was set up in Britain to look into the constitutional system but had no Indian member; it was greeted with 'Go back Simon' slogans in 1928 (1). In October 1929 Lord Irwin announced a vague offer of 'dominion status' for India without a timetable, which satisfied nobody (1). Radicals within Congress, Nehru and Subhas Bose, pressed for full independence (1). At Lahore (December 1929) under Jawaharlal Nehru, the Congress formalised the demand of Purna Swaraj and it was decided to celebrate 26 January 1930 as Independence Day (1). The Salt March followed in March 1930, beginning Civil Disobedience (1).", "H"),
 W("Kheda, Champaran and Ahmedabad were Gandhi's early local satyagrahas. A reporter asks: 'How were they different from one another and what did they teach him?' Answer with the issue and result of each.", 4,
-  "Champaran (1916-17): peasants were forced by planters to grow indigo on part of their land; Gandhi inspired peasants to protest (1). Kheda (1917): crops failed, and a plague epidemic meant the peasants could not pay revenue; Gandhi supported the demand for relaxation of revenue (1). Ahmedabad (1918): cotton mill workers' dispute over wages; Gandhi went on a hunger strike to support the workers (1). They taught him how to organise local mass satyagrahas and prepared him to lead a national one (1).", "H", wp=True),
+  "Champaran (1917): peasants were forced by planters to grow indigo on part of their land; Gandhi inspired peasants to protest (1). Kheda (1918): crop failure and a plague epidemic meant the peasants could not pay revenue; Gandhi supported the demand for relaxation of revenue (1). Ahmedabad (1918): Gandhi organised a satyagraha among the cotton mill workers (1). They taught him how to organise local mass satyagrahas and prepared him to lead a national one (1).", "H", wp=True),
 W("Read the data. Rupee value of foreign cloth imported: 1921: Rs 102 crore; 1922: Rs 57 crore. (i) Calculate the fall in imports and the percentage. (ii) Why did this happen? (iii) Who benefited?", 3,
-  "(i) 102 - 57 = Rs 45 crore (1); 45/102 x 100 = about 44 per cent (a little less than half) (1). (ii) Boycott of foreign cloth and bonfires during Non-Cooperation (accept 'half' as given in the text) (0.5). (iii) Indian textile mills and handloom weavers (0.5).", "H", wp=True),
+  "(i) 102 - 57 = Rs 45 crore; 45/102 x 100 = about 44 per cent, i.e. roughly halved (1). (ii) Boycott of foreign cloth and bonfires of it during Non-Cooperation (1). (iii) Indian textile mills and handlooms, whose production went up (1).", "M", wp=True),
 W("'Colonial rulers, though shaken by the movements, still sought to divide Indians.' Using the events of 1927-1932, explain how divisions among social groups limited the national movement.", 5,
   "Dalits were not fully brought in; Gandhi's Harijan approach did not satisfy leaders like Ambedkar, who sought separate electorates, leading to the Poona Pact compromise (1.5). Muslims felt alienated after the Khilafat issue faded; the Muslim League and Hindu Mahasabha grew and Jinnah's demands for reserved seats were not met in 1927-28 (1.5). Rich peasants, poor peasants, industrialists and workers had different aims (1). Thus Congress could not fully represent all groups, so unity was incomplete (1).", "H"),
 ]
@@ -106,12 +106,29 @@ W("'Colonial rulers, though shaken by the movements, still sought to divide Indi
 _old = runpy.run_path(str(REPO / "src/rn_work/c10_sst/c02.py"))["CH"]
 _i = max(k for k, b in enumerate(_old["blocks"]) if b[0] == "h2")
 _core = _old["blocks"][:_i]
+def _fix(x, a, b):
+    if isinstance(x, str): return x.replace(a, b)
+    if isinstance(x, (list, tuple)): return type(x)(_fix(y, a, b) for y in x)
+    return x
+for _a, _b2 in [
+    ("set a police station on fire, killing 22 policemen. Gandhi, committed to non-violence, withdrew the movement.", "clashed violently with the police after a peaceful bazaar demonstration. Gandhi, committed to non-violence, felt satyagrahis needed proper training and withdrew the movement."),
+    ("People in Punjab were then crawled on streets, flogged and had villages bombed.", "In Punjab satyagrahis were then forced to rub their noses on the ground and crawl on the streets, people were flogged and villages (around Gujranwala) were bombed."),
+    ("Dyer blocked the exit and ordered troops to fire without warning.", "Dyer blocked the exit points and opened fire on the crowd."),
+    ("The image of **Bharat Mata** was first created by **Bankim Chandra Chattopadhyay**, who wrote *Vande Mataram* as a hymn in the novel *Anandamath*;", "The idea of **Bharat Mata** grew in the Swadeshi movement: **Bankim Chandra Chattopadhyay** wrote *Vande Mataram* as a hymn to the motherland (later included in the novel *Anandamath*);"),
+    ("Dyer later said his aim was to produce a", "Dyer later declared that his aim was to produce a"),
+]:
+    _core = _fix(_core, _a, _b2)
+for _b in _core:
+    if _b[0] == "table":
+        for _r in _b[2]:
+            if _r[1].startswith("Champaran"): _r[0] = "1917"
+            if _r[1].startswith("Kheda"): _r[0] = "1918"
 _extra = [
  ("h2", "Timeline of the Chapter"),
  ("table", ["Year", "Event"], [
   ["1909", "Hind Swaraj written by Gandhi"],
   ["January 1915", "Gandhi returns from South Africa"],
-  ["1916-18", "Satyagrahas at Champaran, Kheda and Ahmedabad"],
+  ["1917-18", "Satyagrahas at Champaran (1917), Ahmedabad and Kheda (1918)"],
   ["March 1919", "Rowlatt Act; Khilafat Committee formed in Bombay"],
   ["6 April 1919", "Nationwide hartal against the Rowlatt Act"],
   ["13 April 1919", "Jallianwala Bagh massacre, Amritsar"],
@@ -158,7 +175,7 @@ _extra = [
  ("note", "REMEMBER", "Do not say that all groups wanted the same thing. Each understood swaraj in its own way. Gandhi's Harijan work and Ambedkar's separate electorate demand were two different approaches."),
  ("h2", "Likely 3 and 5 Mark Answers"),
  ("qa", [
-  ("Why did Gandhi withdraw the Non-Cooperation Movement? (3)", "At Chauri Chaura in February 1922 a crowd set a police station on fire and 22 policemen were killed. Gandhi, committed to non-violence, felt satyagrahis were not trained and stopped the movement."),
+  ("Why did Gandhi withdraw the Non-Cooperation Movement? (3)", "At Chauri Chaura in February 1922 a peaceful demonstration in a bazaar turned into a violent clash with the police. Gandhi, committed to non-violence, felt the movement was turning violent and that satyagrahis needed to be properly trained, so he called it off."),
   ("Describe the Salt March. (3)", "Gandhi with 78 volunteers walked from Sabarmati to Dandi (240 miles) between 12 March and 6 April 1930, made salt from sea water and broke the law, starting Civil Disobedience."),
   ("How did different social groups participate in Civil Disobedience? (5)", "Rich peasants - against high revenue; poor peasants - rent remission; business classes - protection and FICCI; workers - limited and independent; women - salt-making, picketing; Dalits - Poona Pact; Muslims - partly alienated."),
   ("What was the effect of the First World War on India? (3)", "Higher taxes and customs duties, war loans, rising prices, forced recruitment, crop failure and epidemic raised hardship and sharpened anger against the British."),

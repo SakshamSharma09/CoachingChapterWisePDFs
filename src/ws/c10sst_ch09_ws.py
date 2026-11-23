@@ -35,7 +35,7 @@ W("Expand the abbreviations (i) KCC (ii) PAIS and say what each gives to a farme
 W("Name any two items that are made from sugarcane.", 1, "Sugar, gur (jaggery), khandsari and molasses (any two). (1)", "E"),
 # ------------------------------------------------------------------ MEDIUM (20)
 ar("Pulses are mostly grown in rotation with other crops.", "Being leguminous crops, pulses fix nitrogen in the soil.", 0, "Fixing nitrogen restores fertility, so a rotation with cereals benefits the next crop.", "M"),
-ar("In India three crops of paddy are grown in a year in Assam, West Bengal and Odisha.", "Paddy needs high temperature, high humidity and heavy rainfall.", 1, "Both statements are true (the three crops are Aus, Aman and Boro) but the reason alone does not explain why three crops are possible there, which is the long warm and wet season.", "M"),
+ar("In India three crops of paddy are grown in a year in Assam, West Bengal and Odisha.", "Rice is the staple food crop of a majority of the people in India.", 1, "Both statements are true (the three crops are Aus, Aman and Boro), but the staple status of rice does not explain why three crops can be grown there.", "M"),
 W("Differentiate between primitive subsistence farming and commercial farming on four points: tools, purpose, inputs and productivity.", 3,
   "Primitive: hoe, dao and digging stick; to feed the family; no fertilisers or modern inputs; low productivity (1.5, any two points matched). Commercial: machines and modern tools; produce for sale in the market; HYV seeds, chemical fertilisers, pesticides and irrigation; higher productivity (1.5, any two points matched).", "M"),
 W("Why is primitive subsistence farming called 'slash and burn' agriculture? Why do farmers move to a fresh patch?", 3,
@@ -104,6 +104,18 @@ W("Why should a country with a large population and shrinking land shift towards
 _old = runpy.run_path(str(REPO / "src/rn_work/c10_sst/c09.py"))["CH"]
 _i = max(k for k, b in enumerate(_old["blocks"]) if b[0] == "h2")
 _core = _old["blocks"][:_i]
+def _fix(x, a, b):
+    if isinstance(x, str): return x.replace(a, b)
+    if isinstance(x, (list, tuple)): return type(x)(_fix(y, a, b) for y in x)
+    return x
+for _a, _b2 in [
+    (" The land ceiling act and other measures were not fully implemented because of the vested interests of political leaders.", " The laws of land reform were enacted but implementation was lacking or lukewarm."),
+    ("and employs nearly half of India's workers; its share in GDP has fallen as other sectors have grown.", "and about two-thirds of India's population is engaged in agricultural activities (it provides livelihood for more than 60 per cent of the people)."),
+    ("small and fragmented holdings, dependence on monsoon, lack of irrigation, soil degradation, falling groundwater, rising input costs, competition from imports and farmers' debt.", "small and fragmented holdings because of the right of inheritance, dependence of most farmers on the monsoon and natural fertility despite irrigation, and uneven benefits of the Green Revolution, which concentrated development in a few areas."),
+    ("better irrigation, organic and sustainable farming, crop diversification, **millets and pulses**, food processing and fair prices.", "serious technical and institutional reforms: consolidation of holdings, cooperation, crop insurance, cheap credit, minimum support prices and information through radio, TV and the Farmers' Portal."),
+    ("Punjab, Haryana, Himachal, Uttarakhand, Uttar Pradesh, Bihar, Rajasthan", "Punjab, Haryana, Himachal Pradesh, Jammu and Kashmir, Uttarakhand and Uttar Pradesh"),
+]:
+    _core = _fix(_core, _a, _b2)
 _extra = [
  ("h2", "Crops at a Glance: Classification"),
  ("table", ["Group", "Crops", "Note"], [
