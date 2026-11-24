@@ -1,7 +1,7 @@
 # Architecture — what contains what, and how it is built
 
 Mastermind Coaching Classes, Jaipur. Repo: github.com/SakshamSharma09/CoachingChapterWisePDFs (public, branch `master`).
-About 9,700 PDFs (excluding the git-ignored scratch folders) are generated from about 1,000 small Python files.
+About 10,000 PDFs (excluding the git-ignored scratch folders) are generated from about 1,000 small Python files.
 Nothing is hand-typed into a PDF: every PDF is produced from a Python source file, so a fix means editing a source file and re-running it.
 
 ## 1. The big picture
@@ -29,7 +29,7 @@ Rules that hold everywhere: all questions are original (never copied from textbo
 | `NCERT_Books/` | The owner-supplied NCERT chapter PDFs for Classes 6–10, renamed `ChNN_Title.pdf`, grouped `Class_NN/<Subject>/<Book>/`. Source material and reference; its own README lists them. |
 | `English_Grammar_Workbooks/` | Part 1 (Classes 5–8) and Part 2 (Classes 9–10) grammar workbooks. |
 | `docs/` | This file, STATUS.md (auto-generated, see note), PROJECT_MEMORY.md (owner rules and hand-over), blueprints, WORKSHEETS_AND_NOTES.md, `review_logs/` (17 reviewer logs listing every fix and every item a teacher should check). |
-| `src/` | All generator source (section 5). |
+| `src/` | All generator source (section 5); `src/sp10/` is the Class 10 sample-paper pipeline (section 9). |
 | `_incoming/`, `_old_unorganized/` | Git-ignored scratch: raw photo zips (Gulmohar, Ruskin Bond) and pre-organisation copies. Safe to delete locally. |
 | `1_organise.ps1`, `2_push_to_github.ps1` | Early helper scripts for organising and pushing. |
 
@@ -68,6 +68,7 @@ Approximate PDF counts: Graded 5,750; Practice 1,970; Worksheets 514 (257 sheets
 | `rnlib/`, `rn_work/` | Notes renderer (`notes.py`, block types h2/h3/p/ul/ol/table/note/steps/qa) and the older revision-note sources by book. The worksheet notes reuse the renderer. |
 | `c5/` | Class 5 model papers: `lib5.py` (layout, marks blueprint per subject, SVG helpers), `<subject>_pNN.py`, `CLASS5_BRIEF.md`. |
 | `c6build`, `c7build`, `c8build`, `c9build`, `c9hin`, `c8p2` | Original practice-paper generators and question banks per class (`compose*.py`, `content9/`, `sst9/`, `sci9/`, `en9/`, `hin9/`, `lib.py` KaTeX layout, `chk.py` validator, `index9.py`). |
+| `sp10/` | Class 10 sample-paper pipeline: `prep.py`, `BRIEF.md`, `data/<Subject>_<Paper>.json` (55 typed papers), `validate.py`, `chapters.py`, `build.py`. See section 9. |
 | `pat/` | School-pattern papers: `lib_pat.py`, `figs.py` (maps/figures), per-class-subject folders, `BLUEPRINT.md`. |
 | `rw/` | Reading and writing papers. `gw/` grammar workbooks. `tools/` misc helpers. |
 

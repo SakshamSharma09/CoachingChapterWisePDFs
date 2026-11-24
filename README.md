@@ -33,7 +33,9 @@ src/                            generator source (Python)
 | 6–7 | Graded, worksheets, notes, formula sheets, practice, school-pattern | same | same | Reading/Writing | – |
 | 8 | all products | all products | all products incl. Part 2 | school-pattern, Reading/Writing, Gulmohar, Ruskin reader | school-pattern |
 | 9 | all products incl. Part 2 | all products | all products incl. Part 2 | graded, worksheets, notes, practice | graded, worksheets, notes, practice |
-| 10 | all products | all products | all products | all products | all products |
+| 10 | all products + 2026-27 sample-paper set | all products + sample-paper set | all products + sample-paper set | all products + sample-paper set | all products + sample-paper set |
+
+Class 10 also has, per subject, the 11 original 2026-27 sample papers (CBSE official + 10), chapter-wise worksheets of every distinct sample-paper question (with answer keys) and 80-mark section-wise tests (318 PDFs in total; see docs/ARCHITECTURE.md section 9).
 
 Worksheets, answer keys and chapter notes exist for all 257 chapters in Classes 6–10 (Maths 60, Science 62, SST 77, English 36, Hindi 22).
 
