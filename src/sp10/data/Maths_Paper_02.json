@@ -1,0 +1,708 @@
+{
+ "subject": "Maths",
+ "paper": "Paper_02",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "Lali tosses two different coins simultaneously. The probability that she gets at most one head is:",
+   "options": [
+    "$\\frac{1}{2}$",
+    "$\\frac{1}{7}$",
+    "$\\frac{3}{4}$",
+    "1"
+   ],
+   "figure": null,
+   "answer": "(c) $\\frac{3}{4}$ — outcomes HH, HT, TH, TT; at most one head in HT, TH, TT, so $P=\\frac{3}{4}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "The roots of the quadratic equation $x^2-11x-10=0$ are",
+   "options": [
+    "not real roots",
+    "real and equal",
+    "real and distinct",
+    "real and not equal"
+   ],
+   "figure": null,
+   "answer": "(c) real and distinct — $a=1,b=-11,c=-10$; $b^2-4ac=(-11)^2-4\\times1\\times(-10)=121+40=161>0$, so the roots are real and distinct.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "The volume of air in a hollow cylinder is $450\\,cm^3$. A cone of same height and radius as that of cylinder is kept inside it. The volume of empty space in the cylinder is",
+   "options": [
+    "$225\\,cm^3$",
+    "$300\\,cm^3$",
+    "$150\\,cm^3$",
+    "$250\\,cm^3$"
+   ],
+   "figure": "fig_p01_0.png",
+   "answer": "(b) $300\\,cm^3$ — volume of cone = $\\frac{1}{3}$ of cylinder = $150\\,cm^3$, so empty space = $450-150=300\\,cm^3$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "The sum of two numbers is 8 and the sum of their reciprocals is $\\frac{8}{15}$. Find the numbers.",
+   "options": [
+    "4, 4",
+    "7, 1",
+    "5, 3",
+    "2, 6"
+   ],
+   "figure": null,
+   "answer": "(c) 5, 3 — Let the numbers be $x,y$: $x+y=8$ and $\\frac{1}{x}+\\frac{1}{y}=\\frac{8}{15}$. Put $x=8-y$: $\\frac{1}{8-y}+\\frac{1}{y}=\\frac{8}{15}\\Rightarrow\\frac{8}{y(8-y)}=\\frac{8}{15}\\Rightarrow y^2-8y+15=0\\Rightarrow(y-5)(y-3)=0$, so $y=5$ or $3$, and $x=3$ or $5$. The numbers are 5 and 3.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "In an A.P., the third term is 16 and the 7th term exceeds the 5th term by 12, then its first term is",
+   "options": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "figure": null,
+   "answer": "(c) 4 — $a_3=16\\Rightarrow a+2d=16$ ...(i). $a_7=a_5+12\\Rightarrow 2d=12\\Rightarrow d=6$. From (i), $a+12=16\\Rightarrow a=4$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "The distance between the points $(\\cos\\theta,\\sin\\theta)$ and $(\\sin\\theta,-\\cos\\theta)$ is",
+   "options": [
+    "$\\sqrt{2}$",
+    "1",
+    "2",
+    "$\\sqrt{3}$"
+   ],
+   "figure": null,
+   "answer": "(a) $\\sqrt{2}$ — distance $=\\sqrt{(\\sin\\theta-\\cos\\theta)^2+(-\\cos\\theta-\\sin\\theta)^2}=\\sqrt{1+1}=\\sqrt{2}$ (using $\\sin^2\\theta+\\cos^2\\theta=1$).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "If $\\alpha,\\beta$ are the zeros of the polynomial $f(x)=ax^2+bx+c$, then $\\frac{1}{\\alpha^2}+\\frac{1}{\\beta^2}=$",
+   "options": [
+    "$\\frac{b^2+2ac}{c^2}$",
+    "$\\frac{b^2-2ac}{a^2}$",
+    "$\\frac{b^2+2ac}{a^2}$",
+    "$\\frac{b^2-2ac}{c^2}$"
+   ],
+   "figure": null,
+   "answer": "(d) $\\frac{b^2-2ac}{c^2}$ — $\\alpha+\\beta=-\\frac{b}{a}$, $\\alpha\\beta=\\frac{c}{a}$. $\\frac{1}{\\alpha^2}+\\frac{1}{\\beta^2}=\\frac{(\\alpha+\\beta)^2-2\\alpha\\beta}{(\\alpha\\beta)^2}=\\frac{\\frac{b^2}{a^2}-\\frac{2c}{a}}{\\frac{c^2}{a^2}}=\\frac{b^2-2ac}{c^2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "In a $\\triangle$ ABC it is given that AD is the internal bisector of $\\angle$A. If BD = 4 cm, DC = 5 cm and AB = 6 cm, then AC = ?",
+   "options": [
+    "9 cm",
+    "7.5 cm",
+    "8 cm",
+    "4.5 cm"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(b) 7.5 cm — by the angle bisector theorem $\\frac{BD}{DC}=\\frac{AB}{AC}\\Rightarrow\\frac{4}{5}=\\frac{6}{x}\\Rightarrow x=\\frac{5\\times6}{4}=7.5$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, O is the centre of the circle with radius 10 cm. If $AB\\parallel CD$, AB = 16 cm and CD = 12 cm, the distance between the two chords AB and CD is :",
+   "options": [
+    "12 cm",
+    "14 cm",
+    "16 cm",
+    "20 cm"
+   ],
+   "figure": "fig_p02_1.png",
+   "answer": "(b) 14 cm — the perpendicular from O bisects each chord: $AP=8$ cm, $CQ=6$ cm. $OP^2=10^2-8^2=36\\Rightarrow OP=6$ cm; $OQ^2=10^2-6^2=64\\Rightarrow OQ=8$ cm. Distance between the chords $=OP+OQ=6+8=14$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "From an external point P, a tangent PA is drawn to a circle. The number of tangents through P parallel to PA is:",
+   "options": [
+    "2",
+    "1",
+    "more than 2",
+    "0"
+   ],
+   "figure": null,
+   "answer": "(d) 0 — parallel lines cannot be drawn from a single point (the only line through P parallel to PA is PA itself), so no tangent through P is parallel to PA.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "The value of $\\left(\\tan^2 A-\\frac{1}{\\cos^2 A}\\right)$ is:",
+   "options": [
+    "1",
+    "-1",
+    "more than 1",
+    "0"
+   ],
+   "figure": null,
+   "answer": "(b) $-1$ — $\\tan^2A-\\sec^2A=-1$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "A number when divided by 61 gives 27 as quotient and 32 as the remainder, then the number is:",
+   "options": [
+    "1679",
+    "1569",
+    "1796",
+    "1967"
+   ],
+   "figure": null,
+   "answer": "(a) 1679 — dividend = divisor $\\times$ quotient + remainder $=61\\times27+32=1647+32=1679$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "The angle of depression of a car, standing on the ground, from the top of a 75 m tower, is $30^\\circ$. The distance of the car from the base of the tower (in metres) is",
+   "options": [
+    "$50\\sqrt{3}$",
+    "150",
+    "$25\\sqrt{3}$",
+    "$75\\sqrt{3}$"
+   ],
+   "figure": null,
+   "answer": "(d) $75\\sqrt{3}$ — AB = 75 m is the tower, C the car, BC = $x$. In right $\\triangle ACB$, $\\tan30^\\circ=\\frac{AB}{BC}\\Rightarrow\\frac{1}{\\sqrt{3}}=\\frac{75}{x}\\Rightarrow x=75\\sqrt{3}$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The area of a sector of a circle of radius 16 cm cut off by an arc, which is 18.5 cm long, is:",
+   "options": [
+    "$148\\ cm^2$",
+    "$154\\ cm^2$",
+    "$176\\ cm^2$",
+    "$168\\ cm^2$"
+   ],
+   "figure": null,
+   "answer": "(a) $148\\ cm^2$ — area of sector $=\\frac{\\text{arc length}}{2\\pi r}\\times\\pi r^2=\\frac{18.5}{2\\pi(16)}\\times\\pi\\times16^2=\\frac{18.5\\times16}{2}=148\\ cm^2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "If the area of a sector of circle of radius 36 cm is $54\\pi\\ cm^2$, then the length of the corresponding arc of the sector is:",
+   "options": [
+    "$5\\pi$ cm",
+    "$4\\pi$ cm",
+    "$3\\pi$ cm",
+    "$2\\pi$ cm"
+   ],
+   "figure": null,
+   "answer": "(c) $3\\pi$ cm — $\\frac{\\theta}{360^\\circ}\\pi r^2=54\\pi\\Rightarrow\\theta=\\frac{54\\times360}{36\\times36}=15^\\circ$. Arc length $=\\frac{\\theta}{360^\\circ}\\times2\\pi r=\\frac{15}{360}\\times2\\pi\\times36=3\\pi$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "What is the probability that a leap year has 52 Mondays?",
+   "options": [
+    "$\\frac{6}{7}$",
+    "$\\frac{4}{7}$",
+    "$\\frac{5}{7}$",
+    "$\\frac{2}{7}$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\frac{5}{7}$ — a leap year has 366 days = 52 weeks + 2 extra days. For 52 Mondays only, the 2 extra days must not include a Monday; there are 7 possible pairs of extra days and 2 of them contain a Monday, so $P=\\frac{5}{7}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "If P (A) denotes the probability of an event A, then",
+   "options": [
+    "$P(A)<0$",
+    "$0\\le P(A)\\le1$",
+    "$-1\\le P(A)\\le1$",
+    "$P(A)>1$"
+   ],
+   "figure": null,
+   "answer": "(b) $0\\le P(A)\\le1$ — probability of an event is never negative and at most 1 (sure event).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "The class mark of the median class of the following data is:\n\n| Class Interval | 10 – 25 | 25 – 40 | 40 – 55 | 55 – 70 | 70 – 85 | 85 – 100 |\n|---|---|---|---|---|---|---|\n| Frequency | 2 | 3 | 7 | 6 | 6 | 6 |",
+   "options": [
+    "47.5",
+    "55",
+    "62.5",
+    "40"
+   ],
+   "figure": null,
+   "answer": "(c) 62.5 — cumulative frequencies 2, 5, 12, 18, 24, 30; $N=30$, $\\frac{N}{2}=15$, so the median class is 55 – 70 and its class mark is $\\frac{55+70}{2}=62.5$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "Assertion (A): If we join two hemispheres of same radius along their bases, then we get a sphere.\nReason (R): Total Surface Area of a sphere of radius r is $3\\pi r^2$.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(c) A is true but R is false. (TSA of a sphere is $4\\pi r^2$, not $3\\pi r^2$.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Assertion (A): The sum of the series with the nth term $t_n=(9-5n)$ is (465), when no. of terms $n=15$.\nReason (R): Given series is in A.P. and sum of n terms of an A.P. is $S_n=\\frac{n}{2}[2a+(n-1)d]$.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true. (Here $a=4$, $d=-5$, $S_{15}=\\frac{15}{2}[8-70]=-465$, not 465.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "In a teachers' workshop, the number of teachers teaching French, Hindi and English are 48, 80 and 144 respectively. Find the minimum number of rooms required if in each room the same number of teachers are seated and all of them are of the same subject.",
+   "options": null,
+   "figure": null,
+   "answer": "Minimum number of rooms means the maximum number of teachers in a room, so find HCF of 48, 80, 144. $48=2^4\\times3$, $80=2^4\\times5$, $144=2^4\\times3^2$; HCF $=2^4=16$. Total number of rooms required $=\\frac{48}{16}+\\frac{80}{16}+\\frac{144}{16}=3+5+9=17$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Triangles",
+   "text": "In a $\\Delta$ABC, D and E are points on the sides AB and AC respectively such that $DE\\parallel BC$. If AD = x, DB = x-2, AE = x + 2 and EC = x - 1, find the value of x.",
+   "options": null,
+   "figure": null,
+   "answer": "By the basic proportionality theorem, $\\frac{AD}{DB}=\\frac{AE}{EC}\\Rightarrow\\frac{x}{x-2}=\\frac{x+2}{x-1}\\Rightarrow x(x-1)=(x+2)(x-2)\\Rightarrow x^2-x=x^2-4\\Rightarrow x=4$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "text": "In fig common tangents PQ and RS to two circles intersect at A. Prove that PQ = RS.",
+   "options": null,
+   "figure": "fig_p04_0.png",
+   "answer": "Tangents drawn from an external point to a circle are equal. So AP = AR and AQ = AS. Adding, AP + AQ = AR + AS, i.e. PQ = RS. Hence proved.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Find the values of A and B ($0^\\circ\\le A<90^\\circ$, $0^\\circ\\le B<90^\\circ$), if $\\tan(A+B)=1$ and $\\tan(A-B)=\\frac{1}{\\sqrt{3}}$.",
+   "options": null,
+   "figure": null,
+   "answer": "$A+B=45^\\circ$ and $A-B=30^\\circ$. Solving, $A=37.5^\\circ$ and $B=7.5^\\circ$.",
+   "or": {
+    "text": "Verify $2\\sin30^\\circ\\cos30^\\circ=\\sin60^\\circ$",
+    "options": null,
+    "figure": null,
+    "answer": "L.H.S. $=2\\sin30^\\circ\\cos30^\\circ=2\\times\\frac{1}{2}\\times\\frac{\\sqrt{3}}{2}=\\frac{\\sqrt{3}}{2}=\\sin60^\\circ=$ R.H.S. Hence, verified.",
+    "chapter": "Ch08_Introduction_to_Trigonometry"
+   },
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "An umbrella has 8 ribs which are equally spaced (see figure). Assuming umbrella to be a flat circle of radius 45 cm, Find the area between the two consecutive ribs of the umbrella.",
+   "options": null,
+   "figure": "fig_p04_1.png",
+   "answer": "Here $r=45$ cm and $\\theta=\\frac{360^\\circ}{8}=45^\\circ$. Area between two consecutive ribs $=\\frac{\\theta}{360^\\circ}\\times\\pi r^2=\\frac{45^\\circ}{360^\\circ}\\times\\frac{22}{7}\\times45\\times45=\\frac{22275}{28}\\ cm^2$.",
+   "or": {
+    "text": "Calculate the area of the shaded region common between two quadrants of circles of radius 7 cm each (as shown in Figure).",
+    "options": null,
+    "figure": "fig_p05_0.png",
+    "answer": "Area of shaded region $=2\\,(\\text{area of one sector ABPD})-\\text{area of square ABCD}=2\\left(\\frac{90^\\circ\\times\\pi\\times7^2}{360^\\circ}\\right)-7\\times7=28\\ cm^2$.",
+    "chapter": "Ch11_Areas_Related_to_Circles"
+   },
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "A shopkeeper has 120 litres of petrol, 180 litres of diesel and 240 litres of kerosene. He wants to sell oil by filling the three kinds of oils in tins of equal capacity. What should be the greatest capacity of such a tin?",
+   "options": null,
+   "figure": null,
+   "answer": "The required greatest capacity is the HCF of 120, 180 and 240. $240=180\\times1+60$; $180=60\\times3+0$, so HCF(180, 240) = 60. Now $120=60\\times2+0$. So HCF of 120, 180 and 240 is 60. The required capacity is 60 litres.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "A point P divides the line segment joining the points A (3, - 5) and B (- 4, 8) such that $\\frac{AP}{PB}=\\frac{k}{1}$. If P lies on the line x + y = 0, then find the value of k.",
+   "options": null,
+   "figure": null,
+   "answer": "P divides AB in the ratio $k:1$. By the section formula, P $=\\left(\\frac{-4k+3}{k+1},\\frac{8k-5}{k+1}\\right)$. Since P lies on $x+y=0$: $\\frac{-4k+3}{k+1}+\\frac{8k-5}{k+1}=0\\Rightarrow-4k+3+8k-5=0\\Rightarrow4k-2=0\\Rightarrow k=\\frac{1}{2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "Solve: $\\frac{1}{x+1}+\\frac{2}{x+2}=\\frac{5}{x+4},\\ x\\ne-1,-2,-4$",
+   "options": null,
+   "figure": null,
+   "answer": "$\\frac{x+2+2x+2}{(x+1)(x+2)}=\\frac{5}{x+4}\\Rightarrow\\frac{3x+4}{x^2+3x+2}=\\frac{5}{x+4}\\Rightarrow(3x+4)(x+4)=5(x^2+3x+2)\\Rightarrow3x^2+16x+16=5x^2+15x+10\\Rightarrow2x^2-x-6=0\\Rightarrow2x^2-4x+3x-6=0\\Rightarrow(x-2)(2x+3)=0$. Therefore $x=2$ or $x=-\\frac{3}{2}$.",
+   "or": {
+    "text": "Out of a group of swans, $\\frac{7}{2}$ times the square root of the total number of swans are playing on the shore of a tank. Remaining two are playing, with amorous fight, in the water. What is the total number of swans?",
+    "options": null,
+    "figure": null,
+    "answer": "Let the total number of swans be $x$. Swans on the shore $=\\frac{7}{2}\\sqrt{x}$, and 2 remain, so $x=\\frac{7}{2}\\sqrt{x}+2$. Put $y=\\sqrt{x}$ (so $y^2=x$): $y^2-\\frac{7}{2}y-2=0\\Rightarrow2y^2-7y-4=0\\Rightarrow2y^2-8y+y-4=0\\Rightarrow(y-4)(2y+1)=0$. So $y=4$ or $y=-\\frac{1}{2}$; $y=-\\frac{1}{2}$ is not possible as $y$ is a square root. Hence $y=4$ and $x=y^2=16$. Total number of swans = 16.",
+    "chapter": "Ch04_Quadratic_Equations"
+   },
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "From an external point P, a tangent PT and a line segment PAB is drawn to a circle with centre O. ON is perpendicular on the chord AB. Prove that.\ni. PA.PB = PN$^2$ - AN$^2$\nii. PN$^2$ - AN$^2$ = OP$^2$ - OT$^2$\niii. PA.PB = PT$^2$",
+   "options": null,
+   "figure": null,
+   "answer": "i. Since $ON\\perp AB$, N is the mid-point of AB, so AN = BN. $PA\\cdot PB=(PN-AN)(PN+BN)=(PN-AN)(PN+AN)=PN^2-AN^2$. ii. In right $\\triangle PNO$: $OP^2=ON^2+PN^2\\Rightarrow PN^2=OP^2-ON^2$. So $PN^2-AN^2=(OP^2-ON^2)-AN^2=OP^2-(ON^2+AN^2)=OP^2-OA^2$ (Pythagoras in $\\triangle ONA$) $=OP^2-OT^2$ (as $OA=OT$ = radius). iii. From (i) and (ii), $PA\\cdot PB=OP^2-OT^2$. In right $\\triangle OTP$ (tangent PT $\\perp$ radius OT): $OP^2=OT^2+PT^2\\Rightarrow OP^2-OT^2=PT^2$. Hence $PA\\cdot PB=PT^2$.",
+   "or": {
+    "text": "In the given figure, a circle inscribed a in a triangle ABC, touches the sides AB, BC and AC at points D, E and F respectively. If AB = 12 cm, BC = 8 cm and AC = 10 cm, find the lengths of AD, BE and CF .",
+    "options": null,
+    "figure": "fig_p05_1.png",
+    "chapter": "Ch10_Circles",
+    "answer": "Tangents drawn from an external point to a circle are equal: AD = AF = a, BD = BE = b, CE = CF = c. The marking scheme works with AB = a + b = 8 ...(1), BC = b + c = 10 ...(2), AC = a + c = 12 ...(3) (i.e. it takes the sides as 8, 10, 12); adding: $2(a+b+c)=30\\Rightarrow a+b+c=15$; subtracting (1), (2), (3) from this: $c=7$, $a=5$, $b=3$. The key therefore gives AD = 5 cm, BE = 3 cm, CF = 7 cm. NOTE: with the sides exactly as printed in the question (AB = 12, BC = 8, AC = 10): $a+b=12$, $b+c=8$, $a+c=10$, $a+b+c=15$, giving AD = 7 cm, BE = 5 cm, CF = 3 cm; the printed key does not match the question's data."
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove that $\\frac{\\cos A+\\sin A-1}{\\cos A-\\sin A+1}=\\operatorname{cosec}A-\\cot A$",
+   "options": null,
+   "figure": null,
+   "answer": "LHS $=\\frac{\\cos A+\\sin A-1}{\\cos A-\\sin A+1}$. Dividing numerator and denominator by $\\sin A$: $=\\frac{\\cot A+1-\\operatorname{cosec}A}{\\cot A-1+\\operatorname{cosec}A}=\\frac{\\cot A-\\operatorname{cosec}A+\\operatorname{cosec}^2A-\\cot^2A}{\\cot A-1+\\operatorname{cosec}A}$ (using $\\operatorname{cosec}^2A-\\cot^2A=1$) $=\\frac{(\\operatorname{cosec}A-\\cot A)(-1+\\operatorname{cosec}A+\\cot A)}{\\cot A-1+\\operatorname{cosec}A}=\\operatorname{cosec}A-\\cot A=$ RHS.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "A path separates two walls. A ladder leaning against one wall rests at a point on the path. It reaches a height of 90 m on the wall and makes an angle of $60^\\circ$ with the ground. If while resting at the same point on the path, it were made to lean against the other wall, it would have made an angle of $45^\\circ$ with the ground. Find the height it would have reached on the second wall.",
+   "options": null,
+   "figure": null,
+   "answer": "Let AB be the path, with the ladder resting at C. In right $\\triangle DAC$ (height 90 m): $\\operatorname{cosec}60^\\circ=\\frac{DC}{AD}\\Rightarrow\\frac{2}{\\sqrt{3}}=\\frac{DC}{90}\\Rightarrow DC=\\frac{180}{\\sqrt{3}}$ m (ladder length). The ladder length is the same, so $CE=DC=\\frac{180}{\\sqrt{3}}$ m. In right $\\triangle EBC$: $\\sin45^\\circ=\\frac{BE}{CE}\\Rightarrow BE=\\frac{1}{\\sqrt{2}}\\times\\frac{180}{\\sqrt{3}}=30\\sqrt{6}\\approx73.47$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "I am three times as old as my son. Five years later, I shall be two and a half times as old as my son. How old am I and how old is my son?",
+   "options": null,
+   "figure": null,
+   "answer": "Let my age be $x$ years and my son's age $y$ years. $x=3y$ ...(i). Five years later: $x+5=\\frac{5}{2}(y+5)\\Rightarrow2x-5y-15=0$ ...(ii). Putting $x=3y$ in (ii): $6y-5y-15=0\\Rightarrow y=15$. From (i), $x=45$. My present age is 45 years and my son's present age is 15 years.",
+   "or": {
+    "text": "Tara scored 40 marks in a test, getting 3 marks for each right answer and losing 1 mark for each wrong answer. Had 4 marks been awarded for each correct answer and 2 marks been deducted for each wrong answer, then Tara would have scored 50 marks. Assuming that Tara attempted all questions, find the total number of questions in the test.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+    "answer": "Let the number of correct answers be $x$ and incorrect answers be $y$. $3x-y=40$ and $4x-2y=50$. Solving, $x=15$, $y=5$. Total number of questions $=15+5=20$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "If the coordinates of the mid-points of the sides of a triangle are (1, 1), (2, -3) and (3,4), find the vertices of the triangle.",
+   "options": null,
+   "figure": null,
+   "answer": "Let A$(x_1,y_1)$, B$(x_2,y_2)$, C$(x_3,y_3)$ be the vertices of $\\Delta ABC$ and D(1, 1), E(2, -3), F(3, 4) the mid-points of BC, CA, AB. D: $\\frac{x_2+x_3}{2}=1,\\frac{y_2+y_3}{2}=1\\Rightarrow x_2+x_3=2,\\ y_2+y_3=2$ ...(i). E: $x_1+x_3=4,\\ y_1+y_3=-6$ ...(ii). F: $x_1+x_2=6,\\ y_1+y_2=8$ ...(iii). Adding: $2(x_1+x_2+x_3)=12$ and $2(y_1+y_2+y_3)=4$, so $x_1+x_2+x_3=6$, $y_1+y_2+y_3=2$ ...(iv). From (i) and (iv): $x_1=4$, $y_1=0$, so A(4, 0). From (ii) and (iv): $x_2=2$, $y_2=8$, so B(2, 8). From (iii) and (iv): $x_3=0$, $y_3=-6$, so C(0, -6). Vertices: A(4, 0), B(2, 8), C(0, -6).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "In a cylindrical vessel of radius 10 cm, containing some water, 9000 small spherical balls are dropped which are completely immersed in water which raises the water level. If each spherical ball is of radius 0.5 cm, then find the rise in the level of water in the vessel.",
+   "options": null,
+   "figure": null,
+   "answer": "Volume of raised water in cylinder = volume of 9000 spherical balls. $\\pi(10)^2H=9000\\times\\frac{4}{3}\\times\\pi\\times(0.5)^3\\Rightarrow H=15$ cm.",
+   "or": {
+    "text": "In Figure, from a solid cube of side 7 cm, a cylinder of radius 2.1 cm and height 7 cm is scooped out. Find the total surface area of the remaining solid.",
+    "options": null,
+    "figure": "fig_p06_0.png",
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "answer": "Cube edge $a=7$ cm; cylinder radius $r=2.1=\\frac{21}{10}$ cm, height $h=7$ cm. TSA of remaining solid = TSA of cube $-\\,2\\times$(area of upper circle) + CSA of cylinder $=6a^2+2\\pi rh-2\\pi r^2=6\\times49+2\\times\\frac{22}{7}\\times2.1\\times7-2\\times\\frac{22}{7}\\times(2.1)^2=294+92.4-27.72=294+64.68=358.68\\ cm^2$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Along a road lie an odd number of stones placed at intervals of 10 metres. These stones have to be assembled around the middle stone. A person can carry only one stone at a time. A man carried the job with one of the end stones by carrying them in succession. In carrying all the stones he covered a distance of 3 km. Find the number of stones?",
+   "options": null,
+   "figure": null,
+   "answer": "Suppose there are $(2n+1)$ stones: one in the middle and $n$ on each side, with $n$ intervals of 10 m on each side of the middle stone P. Starting from the left end A, the man picks the end stone, carries it to P, then goes to the $(n-1)$th stone and so on. Distance for the left side $=10\\times n+2[10\\times(n-1)+10\\times(n-2)+\\dots+10\\times2+10\\times1]$. Then he goes to the right-end stone B and repeats; distance for the right side $=2[10n+10(n-1)+\\dots+10\\times2+10\\times1]$. Total distance $=4[10n+10(n-1)+\\dots+10\\times1]-10n=40\\{1+2+\\dots+n\\}-10n=40\\left\\{\\frac{n}{2}(1+n)\\right\\}-10n=20n(n+1)-10n=20n^2+10n$. This equals 3 km $=3000$ m: $20n^2+10n=3000\\Rightarrow2n^2+n-300=0\\Rightarrow2n^2+25n-24n-300=0\\Rightarrow(n-12)(2n+25)=0$; $2n+25\\ne0$, so $n=12$. Number of stones $=2n+1=2(12)+1=25$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_Polynomials",
+   "text": "The below picture are few natural examples of parabolic shape which is represented by a quadratic polynomial. A parabolic arch is an arch in the shape of a parabola. In structures, their curve represents an efficient method of load, and so can be found in bridges and in architecture in a variety of forms.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "In the standard form of quadratic polynomial, $ax^2+bx+c$, what are a, b and c?",
+     "marks": 1,
+     "options": null,
+     "answer": "a is a non zero real number and b and c are any real numbers."
+    },
+    {
+     "text": "If the roots of the quadratic polynomial are equal, what is the discriminant D?",
+     "marks": 1,
+     "options": null,
+     "answer": "D = 0"
+    },
+    {
+     "text": "If $\\alpha$ and $\\frac{1}{\\alpha}$ are the zeroes of the quadratic polynomial $2x^2-x+8k$, then find the value of k?",
+     "marks": 2,
+     "options": null,
+     "answer": "Product of zeroes $\\alpha\\times\\frac{1}{\\alpha}=\\frac{8k}{2}\\Rightarrow1=4k\\Rightarrow k=\\frac{1}{4}.$",
+     "or": {
+      "text": "What is the relation between zeros and coefficient for a quadratic polynomial?",
+      "options": null,
+      "answer": "$\\alpha+\\beta=-\\frac{b}{a}$ i.e. $\\frac{-\\text{coefficient of }x}{\\text{coefficient of }x^2}$; $\\alpha\\beta=\\frac{c}{a}$ i.e. $\\frac{\\text{constant term}}{\\text{coeff of }x^2}$."
+     }
+    }
+   ]
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_Statistics",
+   "text": "BINGO is game of chance. The host has 75 balls numbered 1 through 75. Each player has a BINGO card with some numbers written on it. The participant cancels the number on the card when called out a number written on the ball selected at random. Whosoever cancels all the numbers on his/her card, says BINGO and wins the game.\nThe table given below, shows the data of one such game where 48 balls were used before Tara said BINGO.\n\n| Numbers announced | Number of times |\n|---|---|\n| 0 - 15 | 8 |\n| 15 - 30 | 9 |\n| 30 - 45 | 10 |\n| 45 - 60 | 12 |\n| 60 - 75 | 9 |\n\nBased on the above information, answer the following:",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Write the median class.",
+     "marks": 1,
+     "options": null,
+     "answer": "Cumulative frequencies: 8, 17, 27, 39, 48 ($N=48$). $\\frac{N}{2}=24$, so the median class is 30 - 45."
+    },
+    {
+     "text": "When first ball was picked up, what was the probability of calling out an even number?",
+     "marks": 1,
+     "options": null,
+     "answer": "P(picking up an even number) $=\\frac{37}{75}$."
+    },
+    {
+     "text": "Find median of the given data.",
+     "marks": 2,
+     "options": null,
+     "answer": "Median $=30+\\frac{\\frac{48}{2}-17}{10}\\times15=40.5$",
+     "or": {
+      "text": "Find mode of the given data.",
+      "options": null,
+      "answer": "Modal class is 45 - 60. Mode $=45+\\frac{12-10}{2\\times12-10-9}\\times15=51$."
+     }
+    }
+   ]
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch06_Triangles",
+   "text": "The law of reflection states that when a ray of light reflects off a surface, the angle of incidence is equal to the angle of reflection.\nSuresh places a mirror on level ground to determine the height of a pole (with traffic light fired on it). He stands at a certain distance so that he can see the top of the pole reflected from the mirror. Suresh's eye level is 1.5 m above the ground. The distance of Suresh and the pole from the mirror are 1.8 m and 6 m respectively.",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Which criterion of similarity is applicable to similar triangles?",
+     "marks": 1,
+     "options": null,
+     "answer": "AA criterion"
+    },
+    {
+     "text": "What is the height of the pole?",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\triangle ABE\\sim\\triangle CDE$ (by AA criteria), so $\\frac{AB}{CD}=\\frac{BE}{DE}\\Rightarrow h=\\frac{6\\times1.5}{1.8}=5$. Height of pole = 5 m."
+    },
+    {
+     "text": "If angle of incidence is i, find tan i.",
+     "marks": 2,
+     "options": null,
+     "answer": "$\\tan i=\\frac{6}{5}$",
+     "or": {
+      "text": "Now Suresh move behind such that distance between pole and Suresh is 13 meters. He place mirror between him and pole to see the reflection of light in right position. What is the distance between mirror and Suresh?",
+      "options": null,
+      "answer": "Let the mirror be $x$ m from the pole; triangles similar: $\\frac{1.5}{5}=\\frac{13-x}{x}\\Rightarrow1.5x=65-5x\\Rightarrow6.5x=65\\Rightarrow x=10$. Distance of Suresh from mirror $=13-x=13-10=3$ m."
+     }
+    }
+   ]
+  }
+ ]
+}

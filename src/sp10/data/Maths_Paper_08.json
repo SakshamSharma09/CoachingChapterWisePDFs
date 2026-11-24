@@ -1,0 +1,713 @@
+{
+ "subject": "Maths",
+ "paper": "Paper_08",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "If the prime factorisation of 2520 is $2^3 \\times 3^a \\times b \\times 7$, then the value of $a + 2b$ is:",
+   "options": [
+    "9",
+    "10",
+    "7",
+    "12"
+   ],
+   "figure": null,
+   "answer": "(d) 12 — $2520 = 2^3\\times 3^2\\times 5\\times 7$, so $a=2$, $b=5$ and $a+2b = 2+2\\times5 = 12$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "If $a$ is a non-zero rational and $\\sqrt{b}$ is irrational, then $a\\sqrt{b}$ is:",
+   "options": [
+    "a natural number",
+    "a rational number",
+    "an integer",
+    "an irrational number"
+   ],
+   "figure": null,
+   "answer": "(d) an irrational number — if possible let $a\\sqrt b = \\frac{p}{q}$ be rational; then $\\sqrt b = \\frac{p}{aq}$ is rational, a contradiction. Hence $a\\sqrt b$ is irrational.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "If $\\alpha,\\beta$ are zeroes of a polynomial $p(x) = 2x^2 - x - 1$ then $\\alpha^2+\\beta^2$ is equal to",
+   "options": [
+    "$\\frac{1}{4}$",
+    "$\\frac{5}{4}$",
+    "$\\frac{3}{4}$",
+    "$\\frac{-3}{4}$"
+   ],
+   "figure": null,
+   "answer": "(b) $\\frac{5}{4}$ — $\\alpha+\\beta=\\frac12$, $\\alpha\\beta=-\\frac12$; $\\alpha^2+\\beta^2=(\\alpha+\\beta)^2-2\\alpha\\beta=\\frac14+1=\\frac54$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "It is given that the difference between the zeros of $4x^2 - 8kx + 9$ is 4 and $k > 0$. Then, $k = ?$",
+   "options": [
+    "$\\frac12$",
+    "$\\frac72$",
+    "$\\frac52$",
+    "$\\frac32$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\frac{5}{2}$ — $\\alpha+\\beta=2k$, $\\alpha\\beta=\\frac94$, $\\alpha-\\beta=4$. $(\\alpha+\\beta)^2=(\\alpha-\\beta)^2+4\\alpha\\beta \\Rightarrow 4k^2=16+9=25 \\Rightarrow k=\\pm\\frac52$; since $k>0$, $k=\\frac52$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "The line $2x - 3y = 6$ intersects x-axis at",
+   "options": [
+    "$(3,0)$",
+    "$(0,-2)$",
+    "$(0,3)$",
+    "$(-2,0)$"
+   ],
+   "figure": null,
+   "answer": "(a) $(3,0)$ — put $y=0$: $2x=6$, $x=3$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "The value of 'k' for which the system of linear equations $6x + y = 3k$ and $36x + 6y = 3$ have infinitely many solutions is:",
+   "options": [
+    "$\\frac12$",
+    "$\\frac16$",
+    "$\\frac13$",
+    "6"
+   ],
+   "figure": null,
+   "answer": "(b) $\\frac{1}{6}$ — $\\frac{6}{36}=\\frac{1}{6}=\\frac{3k}{3}\\Rightarrow k=\\frac16$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "Two numbers whose sum is 12 and the absolute value of whose difference is 4 are the roots of the equation ________.",
+   "options": [
+    "$2x^2 - 6x + 7 = 0$",
+    "$2x^2 - 24x + 43 = 0$",
+    "$x^2 - 12x + 30 = 0$",
+    "$x^2 - 12x + 32 = 0$"
+   ],
+   "figure": null,
+   "answer": "(d) $x^2-12x+32=0$ — $a+b=12$, $a-b=4$ give $a=8$, $b=4$; the equation is $x^2-12x+32=0$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "$9x^2 - 6x - 4 = 0$ have",
+   "options": [
+    "Real and Equal roots",
+    "No Real roots",
+    "Real roots",
+    "Real and Distinct roots"
+   ],
+   "figure": null,
+   "answer": "(d) Real and Distinct roots — $D=b^2-4ac=36+144=180>0$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "If 18th and 11th terms of an A.P. are in the ratio $3:2$, then its 21st and 5th terms are in the ratio",
+   "options": [
+    "$3:1$",
+    "$3:2$",
+    "$1:3$",
+    "$2:3$"
+   ],
+   "figure": null,
+   "answer": "(a) $3:1$ — $\\frac{a+17d}{a+10d}=\\frac32\\Rightarrow 2a+34d=3a+30d\\Rightarrow a=4d$. $\\frac{a_{21}}{a_5}=\\frac{a+20d}{a+4d}=\\frac{24d}{8d}=\\frac31$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "How many three-digit numbers are divisible by 9?",
+   "options": [
+    "86",
+    "100",
+    "96",
+    "90"
+   ],
+   "figure": null,
+   "answer": "(b) 100 — the numbers are 108, 117, ..., 999; $108+(n-1)9=999\\Rightarrow n=100$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch06_Triangles",
+   "text": "Assertion (A): $\\triangle ABC \\sim \\triangle PQR$ such that $\\angle A = 65^\\circ, \\angle C = 60^\\circ$. Hence $\\angle Q = 55^\\circ$.\nReason (R): Sum of all angles of a triangle is $180^\\circ$.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "$\\triangle ABC$ is such that $AB = 3$ cm, $BC = 2$ cm and $CA = 2.5$ cm. If $\\triangle DEF \\sim \\triangle ABC$ and $EF = 4$ cm, then perimeter of $\\triangle DEF$ is",
+   "options": [
+    "22.5 cm",
+    "7.5 cm",
+    "30 cm",
+    "15 cm"
+   ],
+   "figure": null,
+   "answer": "(d) 15 cm — $\\frac{AB}{DE}=\\frac{BC}{EF}\\Rightarrow\\frac{3}{DE}=\\frac24\\Rightarrow DE=6$ cm; $\\frac{2.5}{DF}=\\frac24\\Rightarrow DF=5$ cm. Perimeter $=6+4+5=15$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Assertion (A): If (0, 3), (1, 1), and (-1, 2) be the midpoints of the sides of a triangle, then the centroid of the original triangle is (0, 2)\nReason (R): The centroids of the triangle and joins the midpoints of the sides of triangle are same.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "In what ratio does x-axis divide the line segment joining the points $A(2, -3)$ and $B(5, 6)$?",
+   "options": [
+    "$2:3$",
+    "$3:5$",
+    "$2:1$",
+    "$1:2$"
+   ],
+   "figure": null,
+   "answer": "(d) $1:2$ — let the x-axis cut AB in ratio $k:1$; $y=\\frac{6k-3}{k+1}=0\\Rightarrow k=\\frac12$, so the ratio is $1:2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "The value of $\\left(\\frac{1}{\\sec^2 A}+\\frac{1}{\\operatorname{cosec}^2 A}\\right)$ is:",
+   "options": [
+    "0",
+    "-1",
+    "1",
+    "more than 1"
+   ],
+   "figure": null,
+   "answer": "(c) 1 — $\\cos^2A+\\sin^2A=1$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $\\sin A = \\frac23$, then value of $\\cot A$ is:",
+   "options": [
+    "$\\frac32$",
+    "$\\frac{\\sqrt5}{2}$",
+    "$\\frac23$",
+    "$\\frac54$"
+   ],
+   "figure": null,
+   "answer": "(b) $\\frac{\\sqrt5}{2}$ — with perpendicular $=2k$, hypotenuse $=3k$, base $=\\sqrt{9k^2-4k^2}=k\\sqrt5$; $\\cot A=\\frac{k\\sqrt5}{2k}=\\frac{\\sqrt5}{2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "AP and PQ are tangents drawn from a point A to a circle with centre O and radius 9 cm. If $OA = 15$ cm, then $AP + AQ =$",
+   "options": [
+    "18 cm",
+    "12 cm",
+    "36 cm",
+    "24 cm"
+   ],
+   "figure": null,
+   "answer": "(d) 24 cm — $OP\\perp AP$, so $AP^2=15^2-9^2=144$, $AP=12$ cm; $AP=AQ=12$ cm (tangents from A), so $AP+AQ=24$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "A solid consists of a circular cylinder with an exact fitting right circular cone placed at the top. The height of the cone is $h$. If the total volume of the solid is 3 times the volume of the cone, then the height of the circular cylinder is",
+   "options": [
+    "$2h$",
+    "$\\frac{2h}{3}$",
+    "$h$",
+    "$4h$"
+   ],
+   "figure": null,
+   "answer": "(b) $\\frac{2h}{3}$ — $\\pi r^2h_1+\\frac13\\pi r^2h=3\\cdot\\frac13\\pi r^2h=\\pi r^2h\\Rightarrow h_1=h-\\frac h3=\\frac{2h}{3}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "The relation between mean, mode and median is",
+   "options": [
+    "mode = (3 × mean) - (2 × median)",
+    "mode = (3 × median) - (2 × mean)",
+    "median = (3 × mean) - (2 × mode)",
+    "mean = (3 × median) - (2 × mode)"
+   ],
+   "figure": null,
+   "answer": "(b) mode = (3 × median) - (2 × mean)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "Two friends were born in the year 1996. The probability that they have the same birth date is",
+   "options": [
+    "$\\frac{1}{366}$",
+    "$\\frac{2}{365}$",
+    "$\\frac{1}{365}$",
+    "$\\frac{1}{183}$"
+   ],
+   "figure": null,
+   "answer": "(a) $\\frac{1}{366}$ — 1996 was a leap year (366 days); favourable outcomes = 1, so probability $=\\frac1{366}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Prove that $5\\sqrt2 - 3$ is an irrational number, given that $\\sqrt2$ is an irrational number.",
+   "options": null,
+   "figure": null,
+   "answer": "Assume $x=5\\sqrt2-3$ is rational. Then $\\sqrt2=\\frac{x+3}{5}$ is rational (RHS is rational), which contradicts the fact that $\\sqrt2$ is irrational. Hence our assumption is wrong and $5\\sqrt2-3$ is irrational.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "Is the pair of linear equations consistent? Justify your answer.\n$2ax + by = a,\\ 4ax + 2by - 2a = 0;\\ a, b \\neq 0$",
+   "options": null,
+   "figure": null,
+   "answer": "Yes. Here $a_1=2a, b_1=b, c_1=-a$ and $a_2=4a, b_2=2b, c_2=-2a$. $\\frac{a_1}{a_2}=\\frac{b_1}{b_2}=\\frac{c_1}{c_2}=\\frac12$, so the pair has infinitely many solutions (coincident lines), i.e. it is consistent (dependent).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Find the co-ordinates of the points of trisection of the line segment joining the points $(-2, 2)$ and $(7, -4)$.",
+   "options": null,
+   "figure": null,
+   "answer": "Let P, Q trisect AB with A(-2,2), B(7,-4). $AP:PB=1:2$, so $P=\\left(\\frac{7-4}{3},\\frac{-4+4}{3}\\right)=(1,0)$. $AQ:QB=2:1$, so $Q=\\left(\\frac{14-2}{3},\\frac{-8+2}{3}\\right)=(4,-2)$.",
+   "or": {
+    "text": "Find the distance between the points: $A(1, -3)$ and $B(4, -6)$",
+    "options": null,
+    "figure": null,
+    "answer": "$AB=\\sqrt{(4-1)^2+(-6+3)^2}=\\sqrt{9+9}=\\sqrt{18}=3\\sqrt2$ units.",
+    "chapter": "Ch07_Coordinate_Geometry"
+   },
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove that: $1+\\frac{\\cot^2\\theta}{1+\\operatorname{cosec}\\theta}=\\operatorname{cosec}\\theta$",
+   "options": null,
+   "figure": null,
+   "answer": "LHS $=1+\\frac{\\operatorname{cosec}^2\\theta-1}{1+\\operatorname{cosec}\\theta}=1+\\frac{(\\operatorname{cosec}\\theta-1)(\\operatorname{cosec}\\theta+1)}{1+\\operatorname{cosec}\\theta}=1+\\operatorname{cosec}\\theta-1=\\operatorname{cosec}\\theta=$ RHS.",
+   "or": {
+    "text": "Prove that $\\frac{1+\\sec\\theta}{\\sec\\theta}=\\frac{\\sin^2\\theta}{1-\\cos\\theta}$",
+    "options": null,
+    "figure": null,
+    "answer": "LHS $=\\frac{1+\\frac1{\\cos\\theta}}{\\frac1{\\cos\\theta}}=1+\\cos\\theta=\\frac{(1+\\cos\\theta)(1-\\cos\\theta)}{1-\\cos\\theta}=\\frac{1-\\cos^2\\theta}{1-\\cos\\theta}=\\frac{\\sin^2\\theta}{1-\\cos\\theta}=$ RHS.",
+    "chapter": "Ch08_Introduction_to_Trigonometry"
+   },
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_Probability",
+   "text": "A card is drawn from a well-shuffled deck of playing cards. Find the probability of drawing\ni. a face card\nii. a red face card.",
+   "options": null,
+   "figure": null,
+   "answer": "$n(S)=52$. Face cards $=4\\times3=12$; red face cards $=3\\times2=6$. (i) $P=\\frac{12}{52}=\\frac{3}{13}$. (ii) $P=\\frac{6}{52}=\\frac{3}{26}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "The area of a rectangle gets reduced by $8\\ \\mathrm{m}^2$, when its length is reduced by 5 m and its breadth is increased by 3 m. If we increase the length by 3 m and breadth by 2 m, the area is increased by $74\\ \\mathrm{m}^2$. Find the length and the breadth of the rectangle.",
+   "options": null,
+   "figure": null,
+   "answer": "Let length $=x$ m, breadth $=y$ m. $xy-(x-5)(y+3)=8\\Rightarrow 3x-5y=7$ ... (i). $(x+3)(y+2)-xy=74\\Rightarrow 2x+3y=68$ ... (ii). Multiplying (i) by 3 and (ii) by 5: $9x-15y=21$, $10x+15y=340$; adding, $19x=361\\Rightarrow x=19$. Then $y=\\frac{171-21}{15}=10$. Length = 19 m, breadth = 10 m.",
+   "or": {
+    "text": "A man sold a chair and a table together for ₹1520 thereby making a profit of 25% on the chair and 10% on table. By selling them together for ₹1535 he would have made a profit of 10% on the chair and 25% on the table. Find the cost price of each.",
+    "options": null,
+    "figure": null,
+    "answer": "Let cost prices of chair and table be ₹$x$ and ₹$y$. $\\frac{125}{100}x+\\frac{110}{100}y=1520\\Rightarrow 25x+22y=30400$ ... (i). $\\frac{110}{100}x+\\frac{125}{100}y=1535\\Rightarrow 22x+25y=30700$ ... (ii). (ii) − (i): $x-y=-100$ ... (iii). (i) + (ii): $x+y=1300$ ... (iv). Solving, $x=600$, $y=700$. Cost price of chair = ₹600 and of table = ₹700.",
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables"
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Prove that the points $(2, 3)$, $(-4, -6)$ and $(1, 3/2)$ do not form a triangle.",
+   "options": null,
+   "figure": null,
+   "answer": "Let A(2,3), B(-4,-6), C(1,3/2). $AB=\\sqrt{36+81}=\\sqrt{117}$; $BC=\\sqrt{25+\\frac{225}{4}}=\\sqrt{81.25}$; $AC=\\sqrt{1+\\frac94}=\\sqrt{3.25}$. Since $AC+BC=AB$ (the sum of two sides is not greater than the third), A, B, C are collinear and do not form a triangle.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove that: $(\\sin\\theta + 1 + \\cos\\theta)(\\sin\\theta - 1 + \\cos\\theta)\\cdot\\sec\\theta\\operatorname{cosec}\\theta = 2$",
+   "options": null,
+   "figure": null,
+   "answer": "LHS $=[(\\sin\\theta+\\cos\\theta)^2-1]\\cdot\\frac1{\\cos\\theta\\sin\\theta}=[1+2\\sin\\theta\\cos\\theta-1]\\cdot\\frac{1}{\\sin\\theta\\cos\\theta}=2=$ RHS.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch06_Triangles",
+   "text": "In the given figure, E is a point on side CB produced of an isosceles $\\triangle ABC$ with $AB = AC$. If $AD \\perp BC$ and $EF \\perp AC$, Prove that $\\triangle ABD \\sim \\triangle ECF$.",
+   "options": null,
+   "figure": "fig_p15_0.png",
+   "answer": "Since $AB=AC$, $\\angle B=\\angle C$. In $\\triangle ABD$ and $\\triangle ECF$: $\\angle B=\\angle C$ and $\\angle ADB=\\angle EFC=90^\\circ$. Hence $\\triangle ABD\\sim\\triangle ECF$ by AA similarity.",
+   "or": {
+    "text": "P and Q are points on the sides AB and AC respectively of a $\\triangle ABC$. If $AP = 2$ cm, $PB = 4$ cm, $AQ = 3$ cm and $QC = 6$ cm, show that $BC = 3PQ$.",
+    "options": null,
+    "figure": "fig_p15_1.png",
+    "answer": "$AB=6$ cm, $AC=9$ cm. $\\frac{AP}{PB}=\\frac24=\\frac12$ and $\\frac{AQ}{QC}=\\frac36=\\frac12$, so $\\frac{AP}{PB}=\\frac{AQ}{QC}$; also $\\angle A=\\angle A$. So $\\triangle APQ\\sim\\triangle ABC$ (SAS) and $\\frac{AP}{AB}=\\frac{PQ}{BC}=\\frac{AQ}{AC}\\Rightarrow\\frac{PQ}{BC}=\\frac39=\\frac13\\Rightarrow BC=3PQ$.",
+    "chapter": "Ch06_Triangles"
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "A momento is made as shown in the figure. Its base PBCR is silver plated from the front side. Find the area which is silver plated. ($\\pi=\\frac{22}{7}$)",
+   "options": null,
+   "figure": "fig_p04_0.png",
+   "answer": "Base $=7+3=10$ cm, height $=7+3=10$ cm. Area of right-angled $\\triangle ABC=\\frac12\\times10\\times10=50\\ \\mathrm{cm}^2$. Area of quadrant APR $=\\frac14\\times\\frac{22}{7}\\times49=38.5\\ \\mathrm{cm}^2$. Silver plated area = area of PBCR $=50-38.5=11.5\\ \\mathrm{cm}^2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, PA and PB are two tangents from an external point P to a circle with centre O. If $\\angle PBA = 65^\\circ$, find $\\angle OAB$ and $\\angle APB$.",
+   "options": null,
+   "figure": "fig_p05_0.png",
+   "answer": "$PA=PB$ (tangents from P), so $\\angle PAB=\\angle PBA=65^\\circ$. $\\angle APB=180^\\circ-(65^\\circ+65^\\circ)=50^\\circ$. $OA\\perp AP$, so $\\angle OAP=90^\\circ$ and $\\angle OAB=90^\\circ-65^\\circ=25^\\circ$. Hence $\\angle OAB=25^\\circ$, $\\angle APB=50^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "The difference of squares of two numbers is 204. The square of the smaller number is 4 less than 10 times the larger number. Find the two numbers.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the numbers be $x$ (larger) and $y$. $x^2-y^2=204$ ... (i); $y^2=10x-4$ ... (ii). From (i),(ii): $x^2-10x+4-204=0\\Rightarrow x^2-10x-200=0\\Rightarrow(x-20)(x+10)=0$; $x=20$ (reject $x=-10$). Then $y^2=196$, $y=14$. The numbers are 20 and 14.",
+   "or": {
+    "text": "The denominator of a fraction is 2 more than the numerator. If 2 is added to both its numerator and denominator, then the sum of the new fraction and the original fraction is $\\frac{46}{35}$. Find the original fraction.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the fraction be $\\frac{x}{x+2}$. $\\frac{x}{x+2}+\\frac{x+2}{x+4}=\\frac{46}{35}\\Rightarrow 24x^2+4x-228=0$, i.e. $6x^2+x-57=0\\Rightarrow(6x+19)(x-3)=0$. $x\\neq-\\frac{19}{6}$, so $x=3$. The fraction is $\\frac35$.",
+    "chapter": "Ch04_Quadratic_Equations"
+   },
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "The $16^{\\text{th}}$ term of an AP is 5 times its $3^{\\text{rd}}$ term. If its $10^{\\text{th}}$ term is 41, find the sum of its first 15 terms.",
+   "options": null,
+   "figure": null,
+   "answer": "$a_{16}=5a_3\\Rightarrow a+15d=5a+10d\\Rightarrow 4a=5d$ ... (i). $a_{10}=41\\Rightarrow a+9d=41\\Rightarrow4a+36d=164\\Rightarrow5d+36d=164\\Rightarrow d=4$, $a=5$. $S_{15}=\\frac{15}{2}[2(5)+14(4)]=\\frac{15}{2}\\times66=495$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "A statue 1.6 m tall, stands on the top of a pedestal. From a point on the ground, the angle of elevation of the top of the statue is $60^\\circ$ and from the same point the angle of elevation of the top of the pedestal is $45^\\circ$. Find the height of the pedestal. (Use $\\sqrt3=1.732$)",
+   "options": null,
+   "figure": null,
+   "answer": "Let AB = statue (1.6 m), BC = pedestal, D the point on ground. In $\\triangle BCD$: $\\tan45^\\circ=\\frac{BC}{CD}\\Rightarrow CD=BC$. In $\\triangle ACD$: $\\tan60^\\circ=\\frac{AB+BC}{CD}\\Rightarrow\\sqrt3\\,BC=1.6+BC\\Rightarrow0.73\\,BC=1.6$ (using 1.73) $\\Rightarrow BC=\\frac{1.6}{0.73}\\approx2.19$ m.",
+   "or": {
+    "text": "A spherical balloon of radius $r$ subtends an angle of $60^\\circ$ at the eye of an observer. If the angle of elevation of its centre is $45^\\circ$ from the same point, then prove that height of the centre of the balloon is $\\sqrt2$ times its radius.",
+    "options": null,
+    "figure": null,
+    "answer": "Let B be the observer; $\\angle QBP=60^\\circ$, $\\angle ABO=45^\\circ$. $\\angle PBO=\\frac12\\times60^\\circ=30^\\circ$. $\\sin30^\\circ=\\frac{r}{OB}=\\frac12\\Rightarrow OB=2r$. $\\sin45^\\circ=\\frac{OA}{OB}=\\frac1{\\sqrt2}\\Rightarrow OB=\\sqrt2\\,OA$. So $OA=\\frac{2r}{\\sqrt2}=\\sqrt2\\,r$, i.e. height of centre $=\\sqrt2\\,r$.",
+    "chapter": "Ch09_Some_Applications_of_Trigonometry"
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch13_Statistics",
+   "text": "The following is the cummulative frequency distribution (of less than type) of 1000 persons each of age 20 years and above. Determine the mean age.\n\n| Age below (in years) | 30 | 40 | 50 | 60 | 70 | 80 |\n|---|---|---|---|---|---|---|\n| Number of persons | 100 | 220 | 350 | 750 | 950 | 1000 |",
+   "options": null,
+   "figure": null,
+   "answer": "Class intervals (20-30 ... 70-80) with frequencies 100, 120, 130, 400, 200, 50; mid-values 25, 35, 45, 55, 65, 75. Take $A=45$, $h=10$; $u_i=-2,-1,0,1,2,3$; $f_iu_i=-200,-120,0,400,400,150$. $\\sum f_i=1000$, $\\sum f_iu_i=630$. Mean $=45+10\\times\\frac{630}{1000}=45+6.3=51.3$ years.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_Polynomials",
+   "text": "Basketball and soccer are played with a spherical ball. Even though an athlete dribbles the ball in both sports, a basketball player uses his hands and a soccer player uses his feet. Usually, soccer is played outdoors on a large field and basketball is played indoors on a court made out of wood. The projectile (path traced) of soccer ball and basketball are in the form of parabola representing quadratic polynomial.",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Which type the shape of the path traced shown in given figure?",
+     "marks": 1,
+     "options": null,
+     "answer": "Parabola"
+    },
+    {
+     "text": "Why the graph of parabola opens upwards?",
+     "marks": 1,
+     "options": null,
+     "answer": "$a>0$ (the coefficient of $x^2$ is positive)."
+    },
+    {
+     "text": "In the below graph, how many zeroes are there?",
+     "marks": 2,
+     "options": null,
+     "figure": "fig_p06_2.png",
+     "answer": "The graph cuts the x-axis thrice, so the number of zeroes = 3.",
+     "or": {
+      "text": "What is the condition for the graph of parabola to open downwards?",
+      "options": null,
+      "figure": null,
+      "answer": "$a<0$"
+     }
+    }
+   ],
+   "figure2": "fig_p06_1.png"
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "A wooden toy is shown in the picture. This is a cuboidal wooden block of dimensions $14\\text{ cm}\\times17\\text{ cm}\\times4\\text{ cm}$. On its top there are seven cylindrical hollows for bees to fit in. Each cylindrical hollow is of height 3 cm and radius 2 cm.",
+   "options": null,
+   "figure": "fig_p06_3.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the volume of wood carved out to make one cylindrical hollow.",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\frac{22}{7}\\times2\\times2\\times3=\\frac{264}{7}\\ \\mathrm{cm}^3$ (about $37.7\\ \\mathrm{cm}^3$)."
+    },
+    {
+     "text": "Find the lateral surface area of the cuboid to paint it with green colour.",
+     "marks": 1,
+     "options": null,
+     "answer": "LSA $=2(14\\times4+17\\times4)=248\\ \\mathrm{cm}^2$."
+    },
+    {
+     "text": "Find the volume of wood in the remaining cuboid after carving out seven cylindrical hollows.",
+     "marks": 2,
+     "options": null,
+     "answer": "Volume of 7 hollows $=264\\ \\mathrm{cm}^3$. Volume of cuboid $=14\\times17\\times4=952\\ \\mathrm{cm}^3$. Remaining volume $=952-264=688\\ \\mathrm{cm}^3$.",
+     "or": {
+      "text": "Find the surface area of the top surface of the cuboid to be painted yellow.",
+      "options": null,
+      "figure": null,
+      "answer": "Area $=(l\\times b)-7\\pi r^2=(14\\times17)-\\left(\\frac{22}{7}\\times4\\times7\\right)=238-88=150\\ \\mathrm{cm}^2$."
+     }
+    }
+   ]
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Teaching Mathematics through activities is a powerful approach that enhances students' understanding and engagement. Keeping this in mind, Ms. Mukta planned a prime number game for class 5 students. She announces the number 2 in her class and asked the first student to multiply it by a prime number and then pass it to second student. Second student also multiplied it by a prime number and passed it to third student. In this way by multiplying to a prime number, the last student got 173250.\nNow, Mukta asked some questions as given below to the students:",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the least prime number used by students?",
+     "marks": 1,
+     "options": null,
+     "answer": "3"
+    },
+    {
+     "text": "How many students are in the class?",
+     "marks": 2,
+     "options": null,
+     "answer": "$173250=2\\times5^3\\times3^2\\times7\\times11$. Number of students in the class $=3+2+1+1=7$.",
+     "or": {
+      "text": "What is the highest prime number used by students?",
+      "options": null,
+      "figure": null,
+      "answer": "$173250=2\\times5^3\\times3^2\\times7\\times11$; highest prime number used = 11."
+     }
+    },
+    {
+     "text": "Which prime number has been used maximum times?",
+     "marks": 1,
+     "options": null,
+     "answer": "5"
+    }
+   ]
+  }
+ ]
+}

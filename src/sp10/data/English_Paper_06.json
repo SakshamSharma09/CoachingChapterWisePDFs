@@ -1,0 +1,630 @@
+{
+ "subject": "English",
+ "paper": "Paper_06",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "Read the following passage carefully:\n1. Floods are not new to India and this subcontinent, but in recent years the problem of flooding has received much greater attention, perhaps largely because it has led to greater damage now than it did in the past. Even though information on the impending occurrence of floods is now more accurate and certainly more timely, often there is very little time or support infrastructure in place by which damage can be minimised. This is particularly true in the case of flash floods resulting from sudden and excessive heavy rain.\n2. In the case of India, flooding is very much related to the seasonal nature of our rainfall. The monsoons are spread over a short period during the year and often bring a concentrated volume of rain, which cannot be absorbed by the earth and finds an outlet only in the form of streams that join up with our major river systems. Flooding due to heavy rain is confined not only to the main rivers of the country, but also affects smaller tributaries and streams. Once these streams spill over their banks they could cause excessive harm, mainly because those living near the banks of these streams, particularly in mountain areas, do not have easy recourse to moving away quickly.\n3. One major factor that could lead to a higher severity of flooding in the future is the danger of climate change. While the evidence of the nature of impacts, resulting from climate change on precipitation and flooding at the regional level, is not entirely clear, it could happen that the Indian subcontinent witnesses and suffers the effects of a significantly changed pattern of monsoons. One set of scientists has estimated that the monsoons could be shorter in duration but far more intensive; in other words, much greater precipitation would take place in a much shorter period of time, thereby increasing the danger of floods. Climate change is the result of human actions through the increased concentration of greenhouse gases in the atmosphere, of which carbon dioxide is the most prominent.\n4. At the local level also human actions have heightened the danger of floods through the cutting of trees in the mountains as well as in the plains. In case of India, the ecological damage through deforestation of the Himalayas has led to large-scale erosion of the mountain slopes and high levels of siltation. These lead to the deposition of silt on the riverbeds in the plains and hence spillover of water whenever the volume in the river reaches a certain level. With siltation on the riverbeds, flooding occurs even at very shallow water levels. The vulnerability of the population has increased substantially because of population pressures. An example is the stubborn and perhaps helpless settling of slum dwellers on the banks of the river Yamuna in Delhi, who become victims of flooding. What is a mere trickle most of the year, bursts its banks during the monsoons, as has been the case in recent years.\n5. Flood forecasting is critical to minimising the damage from floods. It is for this reason that the Central Water Commission has set up a network of forecasting stations, which cover the most important flood-prone interstate rivers in the country. These stations produce forecasts that are used to alert the public and to mobilize various official agencies so that they take both preventive as well as relief measures, whenever required. However, even in cases where forecasts have been timely and generally accurate, people have often been reluctant to move away, because in most cases they lack the means and physical options for moving away from a danger zone to one that is relatively safe. In the case of flash floods, forecasts are difficult to make, and often the time available for relief is very short.\nBased on your understanding of the passage, answer the questions given below:",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "I. Based on the reading and understanding of the above passage, list 2 factors contributing to the severity of floods in India. (a) ________ (b) ________",
+     "marks": 1,
+     "options": null,
+     "answer": "(a) The seasonal nature of rainfall, where concentrated volumes of rain cannot be absorbed by the earth. (b) Human actions such as deforestation, leading to erosion and siltation, which increase the risk of flooding."
+    },
+    {
+     "text": "II. Select the option that corresponds to the meaning of the following sentence from paragraph 1: \"Even though information on the impending occurrence of floods is now more accurate and certainly more timely, often there is very little time or support infrastructure in place by which damage can be minimised.\"",
+     "marks": 1,
+     "options": [
+      "(a) Flood information is timely but often ineffective due to lack of infrastructure.",
+      "(b) Flood information is delayed, leading to more damage.",
+      "(c) Accurate flood information always prevents damage.",
+      "(d) There is ample time to respond to flood warnings due to better infrastructure."
+     ],
+     "answer": "(a) Flood information is timely but often ineffective due to lack of infrastructure."
+    },
+    {
+     "text": "III. Based on your reading of the passage, examine in about 40 words how climate change could affect flooding in India.",
+     "marks": 2,
+     "options": null,
+     "answer": "Climate change may result in shorter but more intense monsoon seasons, leading to greater precipitation in a shorter time frame. This could significantly increase the risk of flooding, especially in areas already prone to such events."
+    },
+    {
+     "text": "IV. What is the tone of the writer in the given line from paragraph 3? Rationalize your response in about 40 words: \"One set of scientists has estimated that the monsoons could be shorter in duration but far more intensive.\"",
+     "marks": 2,
+     "options": null,
+     "answer": "The tone is cautious and speculative, reflecting a concern about potential changes in monsoon patterns due to climate change, which could exacerbate flooding issues in the region."
+    },
+    {
+     "text": "V. The phrase 'spillover of water' in paragraph 4 refers to:",
+     "marks": 1,
+     "options": [
+      "(a) Water overflowing its usual boundaries",
+      "(b) A slow and controlled release of water",
+      "(c) A reduction in water levels",
+      "(d) Water being absorbed by the earth"
+     ],
+     "answer": "(a) Water overflowing its usual boundaries"
+    },
+    {
+     "text": "VI. In sets a-e below, identify two sets of synonyms:\na. erosion and siltation\nb. intensive and concentrated\nc. seasonal and continuous\nd. stubborn and helpless\ne. forecast and prediction",
+     "marks": 1,
+     "options": [
+      "(a) b and e",
+      "(b) a and c",
+      "(c) b and d",
+      "(d) c and e"
+     ],
+     "answer": "(a) b and e"
+    },
+    {
+     "text": "VII. Complete the sentence appropriately: The cutting of trees in the mountains has led to ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "The cutting of trees in the mountains has led to erosion and increased siltation, which contribute to the severity of floods."
+    },
+    {
+     "text": "VIII. Complete the following sentence: Flood forecasting is critical because ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "Flood forecasting is critical because it helps minimize damage by alerting the public and mobilizing preventive and relief measures in advance."
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "Read the following passage carefully:\n1. There was a time when human interference was minimum, the number of wild animals was quite high and there was no problem of their protection or conservation.\n2. Due to the irrational use of natural and biotic resources of the Earth in the past, most of the wildlife has been destroyed beyond retrieval. According to an estimate, in India about 200 species of wild animals and birds have become extinct and another 2500 are on the verge of extinction. Some of them are black buck, chinkara, wolf, swamp deer, nilgai, Indian gazelle, antelope, tiger, rhinoceros, gir lion, crocodile, flamingo, pelican, bustard, white crane, grey heron, mountain quail, etc.\n3. In India, the Government and NGOs are taking keen interest in protection of wildlife. The Wildlife Protection Act, 1972, has several provisions for the conservation of wildlife. As many as 165 game sanctuaries and 21 national parks have been deployed to protect the natural habitat and wild animals. Apart from this, Wildlife Conservation Week is also celebrated from 1st to 7th October every year. But still there is a long way to go in this direction.\n4. Preservation of wildlife does not mean a blanket protection to all faunal and floral species; rather it implies a proper, judicious control over the multiplication of plants and animals which interact together to provide a proper environment to man whose very existence is in peril today.\n5. It is our urgent duty to protect the natural splendour of ecosystems and to evolve a system of coexistence with every living creature upon the Earth.\n[Bar graph (based on IUCN Red List data): Mammals 530, Birds 799, Reptiles 504, Amphibians 632, Fishes 1174, Insects 716, Molluscs 1016, Other Invertebrates 708. See figure.]\nBased on your understanding of the passage, answer the questions given below:",
+   "options": null,
+   "figure": "fig_p04_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "I. Infer one reason for the following, based on the information in the passage. The number of wild animals was quite high and there was no problem of their protection or conservation.",
+     "marks": 1,
+     "options": null,
+     "answer": "less human interference / bare minimum human interference"
+    },
+    {
+     "text": "II. Select the appropriate options to fill in the blanks. Most of the wildlife has been________ beyond________ due to the irrational use of natural resources on the Earth.\nI. destroyed\nII. retrieval\nIII. desertion\nIV. build\nV. revived",
+     "marks": 1,
+     "options": [
+      "a. I and II",
+      "b. II and III",
+      "c. III and IV",
+      "d. IV and V"
+     ],
+     "answer": "a. I and II"
+    },
+    {
+     "text": "III. Complete the following analogy correctly with a word/phrase from the passage. (Clue: Just like flowers are in a garden, similarly________ are in the sanctuaries.) Flowers: Garden::________: Sanctuaries",
+     "marks": 1,
+     "options": null,
+     "answer": "wildlife"
+    },
+    {
+     "text": "IV. Select the correct option to complete the sentence. Judicious control over the multiplication of plants and animals which provide",
+     "marks": 1,
+     "options": [
+      "a. natural splendour of ecosystem",
+      "b. proper environment to man",
+      "c. blanket protection",
+      "d. happy and comfortable living"
+     ],
+     "answer": "b. proper environment to man"
+    },
+    {
+     "text": "V. According to the graph, which is the most vulnerable animal species and the least vulnerable from the graph.\nI. Birds\nII. Insects\nIII. Fishes\nIV. Reptiles\nV. Insects\nVI. Mammals\nVII. Molluses",
+     "marks": 1,
+     "options": [
+      "a. I and II",
+      "b. III and IV",
+      "c. V and VI",
+      "d. VI and VI"
+     ],
+     "answer": "III & IV (most vulnerable: Fishes; least vulnerable: Reptiles). Official note: 'Options are incorrectly placed. B is the closest.' i.e. option b.",
+     "figure": "fig_p04_0.png",
+     "note": "Option list printed with errors in the paper (as given); graph shows Fishes 1174 highest, Reptiles 504 lowest."
+    },
+    {
+     "text": "VI. Assertion (A): Wildlife conservation is essential to maintain a balanced ecosystem and ensure human survival.\nReason (R): The Wildlife Protection Act, 1972, and initiatives like sanctuaries and Wildlife Conservation Week aim to protect endangered species and their habitats.",
+     "marks": 1,
+     "options": [
+      "A. Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "C. (A) is true, but (R) is false.",
+      "D. (A) is false, but (R) is true."
+     ],
+     "answer": "A. Both (A) and (R) are true, and (R) is the correct explanation of (A)."
+    },
+    {
+     "text": "VII. List any two examples of Government and NGOs trying to protect the wildlife.",
+     "marks": 2,
+     "options": null,
+     "answer": "The Wildlife Protection Act, 1972, has several provisions for the conservation of wildlife / 165 game sanctuaries and 21 national parks have been deployed, protecting the natural habitat and wild animals / Wildlife Conservation Week is celebrated from 1st to 7th October every year (any two)"
+    },
+    {
+     "text": "VIII. List one reason why the Government makes certain recommendations for protection of wild animals.",
+     "marks": 1,
+     "options": null,
+     "answer": "to protect the natural habitat and wild animals / to keep ecological balance (any one)"
+    },
+    {
+     "text": "IX. What is the main aim of the Wildlife Protection Act, 1972 in India?",
+     "marks": 1,
+     "options": null,
+     "answer": "The main aim of the Wildlife Protection Act, 1972 is to conserve wildlife by protecting natural habitats and wild animals through provisions such as sanctuaries and national parks."
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "i. Fill in the blank by using the correct form of the word in the bracket, for the given portion of a letter:\nTherefore, I request you to please consider this request of ________ (construct) a park in our society so that each and every person can benefit and we can enjoy a healthy environment amidst the concrete jungle.",
+     "marks": 1,
+     "options": null,
+     "answer": "constructing"
+    },
+    {
+     "text": "ii. Read the given sentence from a movie review article. Identify the error and supply the correction in the sentence.\nThe movie doesn't let you rest and is packed with engaged action sequences.\nUse the given format for your response.\n| Error | Correction |",
+     "marks": 1,
+     "options": null,
+     "answer": "| Error | Correction |\n| engaged | engaging |"
+    },
+    {
+     "text": "iii. Read the conversation given below between a receptionist and a guest. Complete the sentence by filling in the blank:\nReceptionist: Good to see you again, sir!\nGuest: Indeed, it's always nice to be back here.\nThe guest replied that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "it's always nice to be back there.",
+     "note": "Options a-d printed under this item in the paper actually belong to item iv."
+    },
+    {
+     "text": "iv. Read the dialogue between Yogita and Nandini, regarding the progress of a task.\nYogita: How long have you been working on this task?\nNandini: I ve been working for two hours.\nSelect the correct option to complete the reporting of the above dialogue.\nYogita asked Nandini ________.\nNandini replied that she had been working for two hours.",
+     "marks": 1,
+     "options": [
+      "a) for how long had she been working on this task",
+      "b) for how long was she working on the task",
+      "c) how long she had been working on that task",
+      "d) how long had she been working on this task"
+     ],
+     "answer": "(c) how long she had been working on that task"
+    },
+    {
+     "text": "v. Fill in the blank by choosing the correct option.\nBoth players in the tennis match have been warned by the referee but ________ (either / neither / every) of them seems to take it seriously.",
+     "marks": 1,
+     "options": null,
+     "answer": "Neither"
+    },
+    {
+     "text": "vi. Identify the error in the given sentence that shows grandmother and grandson relation and supply the correction.\nMy grandmother and I were good friends. He used to wake me up early and get me ready for the school.\nUse the given format for your response.\n| error | correction |",
+     "marks": 1,
+     "options": null,
+     "answer": "| error | correction |\n| He | She |"
+    },
+    {
+     "text": "vii. Select the option that identifies the error and supplies the correction for the following line, from a news report:\nEducation plays a important role in building an individual's identity and personality.\n| Option no. | Error | Correction |\n| A | plays | play |\n| B | a | an |\n| C | in | for |\n| D | an | the |",
+     "marks": 1,
+     "options": [
+      "A: plays - play",
+      "B: a - an",
+      "C: in - for",
+      "D: an - the"
+     ],
+     "answer": "(B) a - an"
+    },
+    {
+     "text": "viii. Complete the given narrative by filling in the blank with the correct option:\nThe children ________ better safety procedures after the unexpected fire in the school.",
+     "marks": 1,
+     "options": [
+      "a) called in",
+      "b) called out",
+      "c) called for",
+      "d) called by"
+     ],
+     "answer": "(c) called for"
+    },
+    {
+     "text": "ix. Read the conversation and complete the sentence by reporting the reply correctly.\nLiz: Hey Mike, good to see you!\nMike: Hi Liz, I haven't seen you since June.\nLiz greeted Mike when they met accidentally and said it was good to see him.\nMike greeted back and replied that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "he had not seen her since June.",
+     "note": "Options a-d printed under this item in the paper actually belong to item x."
+    },
+    {
+     "text": "x. \"I am leaving the city tomorrow,\" the lecturer said.\nHe said that ________ leaving the city ________.",
+     "marks": 1,
+     "options": [
+      "a) he was, that day",
+      "b) he is, tomorrow",
+      "c) I was, previous day",
+      "d) he was, the following day"
+     ],
+     "answer": "(d) he was, the following day"
+    },
+    {
+     "text": "xi. Complete the line from a self-awareness song, by filling the blank with the correct option.\n\"And with a look made of all sweet accord,\nAnswered, \"The names of those who ________ the lord.\n\"And is mine one?\" said Abou. \"Nay, not so,\"\nReplied the angel. Abou ________ more low,",
+     "marks": 1,
+     "options": [
+      "A. Love, spoken",
+      "B. Loves, spoke",
+      "C. love, spoke",
+      "D. loves, speak"
+     ],
+     "answer": "C. love, spoke. The first blank is in a direct speech where the situation is of present. The second blank shows the past situation where action started in the past and was completed in the past itself."
+    },
+    {
+     "text": "xii. Identify the error and supply the correction, for the following:\nSurat\nHI LIFE EXHIBITION\nYou're last chance to make a fashion statement\nLAST DAY TODAY\nUse the given format for your response.\n| error | correction |",
+     "marks": 1,
+     "options": null,
+     "answer": "| error | correction |\n| You're | Your |"
+    }
+   ],
+   "note": "Any 10 of 12 one-mark items attempted; the 12 subparts total 12 marks."
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "As Yusra/Yousuf, the Secretary of the RWA of your society, residing at 493, Stargazing Apartments, Newbagh, you have noticed many small plots of land lying unattended in your city. You feel that the plots can be utilized to create green spaces where people can sit and relax. Write a letter to the editor of a national daily, highlighting the issue and urging necessary action from the concerned department for improving the aesthetic appeal of your city.",
+   "options": null,
+   "figure": null,
+   "answer": "Yusra/Yousuf\nSecretary, RWA\n493, Stargazing Apartments\nNewbagh\n18/11/2025\nThe Editor\nThe Times of India\nNew Delhi-110001\nSubject: Urgent Need to Develop Green Spaces in Our City\nDear Sir,\nI wish to draw attention to the numerous small plots of land lying unattended across our city. These plots remain unutilized, leading to an unsightly environment and contributing little to the community.\nTransforming these spaces into well-maintained green areas would provide residents with places to relax, exercise, and socialize, while also improving air quality and promoting environmental well-being. Such initiatives would significantly enhance the aesthetic appeal of our city.\nI urge you to publish this letter so that the concerned municipal authorities take prompt action to convert these neglected plots into vibrant green spaces for the benefit of all citizens.\nYours sincerely,\nYusra/Yousuf",
+   "or": {
+    "chapter": "SKILL_Writing",
+    "text": "As a health conscious person, you have noticed an advertisement in a newspaper on yoga classes in your neighbourhood. Write a letter to the Organiser, Yoga for Public, R.K. Puram, New Delhi requesting him/her to send you information about the duration of the course and other relevant details. You are Shweta/Srikar of 15, R.K. Puram, New Delhi.",
+    "options": null,
+    "figure": null,
+    "answer": "R.K Puram\nNew Delhi\n8 October 20xx\nThe Organiser\nYoga For Public\nR.K. Puram\nNew Delhi\nSubject: Enquiry About the Courses\nRespected Sir,\nWith reference to your advertisement in 'The Times of India' dated 6 October 20xx, I would like to tell you that I wish to join the yoga classes organised by you. Kindly furnish the following details:\n- Duration of the course\n- Timings of the classes\n- No. of persons in each batch\n- Any special class for girls\n- Fees structure\nI am awaiting an early reply from your end so that I may join as early as possible.\nThanking you\nYours sincerely\nShweta",
+    "subparts": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "In the technology-driven world, children are spending longer hours of screen time leading to concerns regarding health and social skills. Write a paragraph of not more than 120 words analyzing the given information: (5)\n| iPad | Mobile phone | Laptop | Internet | Social media | Online classes | Research | Entertainment |\n| Screen Time |\nEffects:\n| Obesity | Weakening eyesight | Poor social skills | Increasing isolation | Sedentary lifestyle |\n\nFor the Visually Impaired Candidates only (in lieu of Q.):\nThese days there has been excessive use of screen time by students. Moreover, it cannot be denied that a child of the digital era cannot be separated from technology. Write an analytical paragraph in about 100-120 words on Growing up in Digital Environment. (5)\nYou could use the following cues:\n- Technology has changed our lifestyle\n- Screens refer to mobile, laptop, iPads\n- Has become a part of our lives\n- Schools encourage the use of laptops\n- During lockdown screens came to the rescue of uninterrupted education\n- Cannot replace face-to-face physical interaction between teachers and taught.",
+   "options": null,
+   "figure": null,
+   "answer": "The widespread use of technology devices such as iPads, mobile phones, and laptops has led to an increase in screen time among children. While the devices can offer benefits such as access to online classes, research, and entertainment, excessive screen time has negative impacts on children's health and social skills. It can contribute to obesity and a sedentary lifestyle, as well as weakening eyesight. Moreover, excessive screen time has been linked to poor social skills and increasing isolation, as children may spend less time interacting face-to-face with their peers. It is important for parents to monitor their children's screen time and encourage other activities such as outdoor play and socializing with friends to promote their overall well-being.\n\nFor the Visually Impaired Candidates only:\nGrowing up in a digital environment has become a ubiquitous reality of modern-day life. With technology rapidly evolving and permeating every aspect of our lives, it has brought about unprecedented changes in our lifestyles. Screens, which include mobiles, laptops, and iPads, have become an indispensable part of our daily routines. Schools have also encouraged the use of laptops, and during the pandemic, screens came to the rescue of uninterrupted education. However, while screens have their benefits, they cannot replace face-to-face physical interaction between teachers and students. It is important to recognize that while technology has revolutionized the way we learn and communicate, it is equally vital to maintain a balance between screen time and physical interaction. It is essential for students to learn to use technology wisely while also appreciating the value of traditional methods of learning and communication.",
+   "or": {
+    "chapter": "SKILL_Writing",
+    "text": "The given bar graph shows the interest of young people in pursuing different hobbies by girls and boys in USA. Write an analytical paragraph words using the given information.\n[Bar graph, number of people (Girls / Boys), approx. read from graph: Painting 60 / 40; Reading Books 50 / 30; Cycling 55 / 65; Gardening 65 / 25; Singing 45 / 55. See figure.]",
+    "options": null,
+    "figure": "fig_p08_0.png",
+    "answer": "The given bar graph shows the number of boys and girls who pursue different hobbies in USA. As shown in the graph, gardening is the most favorite pastime among girls and the least favourite among boys which levels off over 65 and less than 30 respectively. For all other amusements i.e., singing, painting and cycling are very popular among both the genders. As per the given chart the number of boys preferring cycling and girls doing gardening is almost equal. Most boys like to do cycling with around 65 compared to 55 girls.\nGirls also like to do painting which levels off around 60, on the contrary only 40 boys like to do painting in their leisure time. There is a difference of about 20 between boys and girls showing interest in reading books. Around 50 girls like to read books in their free time whereas, only 30 boys in comparison to girls showed their interest in it. On the other hand boys other than cycling are more interested in singing, where almost 55 boys are there numbering 10 more than girls.\nOverall, the figures demonstrate that girls significantly love to spend most of their leisure time in gardening and painting, and after that in cycling and reading books, and the least they want to spend on is singing. However, boys preferred cycling the most then singing and painting but significantly the least they preferred to do is gardening.",
+    "subparts": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\nRead the following extracts and answer the question/complete the sentences that follow:\n\"He was silent, stupefied, in dismay, at the sight of his wife weeping. He stammered, \"What is the matter? What is the matter?\" By a violent effort, she had controlled her vexation and responded in a calm voice, wiping her moist cheeks, \"Nothing. Only I have no dress and consequently I cannot go to this affair. Give your card to some colleague whose wife is better fitted out than I.\" He was grieved, but answered, \"Let us see, Matilda. How much would a suitable costume cost, something that would serve for other occasions, something very simple?\" She reflected for some seconds thinking of a sum that she could ask for without bringing with it an immediate refusal and a frightened exclamation from the economical clerk.\"",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": {
+    "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom",
+    "text": "Read the extract given below and answer the questions that follow:\nI was not born with a hunger to be free. I was born free - free in every way that I could know. Free to run in the fields near my mother's hut, free to swim in the clear stream that ran through my village, free to roast mealies under the stars and ride the broad backs of slow-moving bulls. As long as I obeyed my father and abided by the customs of my tribe, I was not troubled by the laws of man or God. It was only when I began to learn that my boyhood freedom was an illusion when I discovered as a young man that my freedom had already been taken from me, that I began to hunger for it. At first, as a student, I wanted freedom only for myself, the transitory freedoms of being able to stay out at night, read what I pleased and go where I chose. Later, as a young man in Johannesburg, I yearned for the basic and honourable freedoms of achieving my potential, of earning my keep, of marrying and having a family - the freedom not to be obstructed in a lawful life.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "subparts": [
+     {
+      "text": "i. What are the twin obligations every man has in life?",
+      "marks": 1,
+      "options": null,
+      "answer": "According to Nelson Mandela, every man has one obligation towards his family, his parents, and his children. And the second obligation was towards his community and country.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "ii. Give a suitable title to the given extract.",
+      "marks": 1,
+      "options": null,
+      "answer": "Importance of Freedom",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "iii. Why do you think the speaker mentions freedom as 'transitory'? Elaborate in 40 words with reference to the extract.",
+      "marks": 2,
+      "options": null,
+      "answer": "Mandela refers to those freedoms as transitory that are temporarily required. As a student, he wanted freedom only for himself. The freedom of being able to stay out at night, read what he pleased and go where he chose to.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "iv. The speaker says, 'at first as a student I wanted freedom only for myself'. Why do you think he only thought about himself? Choose the correct option",
+      "marks": 1,
+      "options": [
+       "A. He didn't want to think about the freedom denied to others.",
+       "B. He was being selfish and was only bothered about himself.",
+       "C. He didn't think that freedom denied to him was important for others.",
+       "D. He was too young to realize that freedom was denied to others as well."
+      ],
+      "answer": "(D) When he was a young boy he did not have a wider vision - he was more concerned about his personal freedom. He could not look for other people's perspective that they too were deprived of freedom.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "i. What does 'economical clerk' indicate?",
+     "marks": 1,
+     "options": [
+      "a. M Loisel was a spendthrift even though he earned a lot.",
+      "b. M Loisel was thrifty as he had a meagre income.",
+      "c. M Loisel calculated money all the time as he was a clerk.",
+      "d. M Loisel was stingy about money and didn't spend it."
+     ],
+     "answer": "(b) M Loisel was thrifty as he had a meagre income.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "ii. Fill in the blank with one word: \"I thought Matilda would be ______________ seeing the invitation in my hand.\"",
+     "marks": 1,
+     "options": null,
+     "answer": "elated/happy",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "iii. Why was Matilda vexed? How did she react?",
+     "marks": 2,
+     "options": null,
+     "answer": "She was vexed because she did not have any jewel to adorn herself with. She responded in a calm voice.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "iv. What was Loisel's reaction to his wife's desire for a new dress?",
+     "marks": 1,
+     "options": null,
+     "answer": "First of all he asked her to wear whatever she possessed. When she got angry and refused to go to the party at all, he finally agreed to let her buy a new one.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch22_How_to_Tell_Wild_Animals",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\nRead the following extracts and answer the questions/complete the sentences that follow:\nOr if sometimes when roaming around\nA noble wild beast greets you\nWith black stripes on a yellow ground\nJust notice if he eats you.\nThis simple rule may help you learn\nThe Bengal Tiger to discern.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": {
+    "chapter": "Ch21_A_Tiger_in_the_Zoo",
+    "text": "Read the following extracts and answer the question/complete the sentences that follow:\nHe should be snarling around houses\nAt the jungle's edge,\nBaring his white fangs, his claws,\nTerrorising the village! But he's locked in a concrete cell,\nHis strength behind bars,\nStalking the length of his cage,\nIgnoring visitors.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "subparts": [
+     {
+      "text": "i. Trace a word from the extract that means 'Showing the teeth and making fearful sound.'",
+      "marks": 1,
+      "options": null,
+      "answer": "'snarling' means showing the teeth and making fearful sound.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "ii. We should protect the tigers as:",
+      "marks": 1,
+      "options": [
+       "a. they are majestic to look at",
+       "b. they attract visitors to the zoo",
+       "c. they are ferocious",
+       "d. they are part of our environment"
+      ],
+      "answer": "(d) is correct",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "iii. Complete the sentence. The tiger terrorizes the villagers with ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "his sharp tooth and claws.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "iv. What is the significance of the words 'locked in a concrete cell' and what is the reaction of the tiger due to this action?",
+      "marks": 2,
+      "options": null,
+      "answer": "The words signify the unpleasant situation of the tiger who cannot come out of the cell because strong bars are fixed. As a result the tiger ignores the visitors.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "i. Who would be seen roaming around?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Bengal Tiger would be seen roaming around.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "ii. The simple rule here refers to ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "The encounter with the beast and if it kills you, then it is a 'Bengal Tiger'.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "iii. What is the rhyming scheme of the given lines?",
+     "marks": 2,
+     "options": null,
+     "answer": "ababcc.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "iv. Which word means the same as 'assist'? Choose the correct option:",
+     "marks": 1,
+     "options": [
+      "a. discern",
+      "b. learn",
+      "c. help",
+      "d. None of these"
+     ],
+     "answer": "d. help. (Official key prints 'd. help' although the option list shows c. help.)",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals",
+     "note": "Official key says 'd. help' but option c is 'help'."
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "i. How did the baker make his entry?",
+     "marks": 3,
+     "options": null,
+     "answer": "The baker made his musical entry on the scene with the 'jhang, jhang' sound of his specially made bamboo staff. One hand supported the basket on his head and the other banged the bamboo on the ground. He would greet the lady of the house with \"Good morning\" and then would place his basket on the vertical bamboo.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "ii. 'Dust of Snow', by Robert Frost is a poem about nature and simplicity. Elaborate.",
+     "marks": 3,
+     "options": null,
+     "answer": "Robert Frost's \"Dust of Snow\" highlights how a simple moment in nature - snow falling from a hemlock tree due to a crow - can uplift a troubled mind. The poem shows the healing power of small, natural events, proving that even the simplest actions can bring unexpected positivity and change one's mood.",
+     "chapter": "Ch19_Dust_of_Snow"
+    },
+    {
+     "text": "iii. Engaging in discussions and disputes rarely leads to problem resolution. Support the statement with evidence from the text. (The Proposal)",
+     "marks": 3,
+     "options": null,
+     "answer": "In Anton Chekhov's The Proposal, Lomov and Natalya's disputes over Oxen Meadows and their dogs, Guess and Squeezer, escalate rather than resolve issues, turning a marriage proposal into chaos. Their arguments lead to Lomov collapsing from stress, showing how discussions fail. Only Chubukov's intervention and external pressure result in their agreement to marry, not rational dialogue. This underscores that disputes complicate rather than solve problems.",
+     "chapter": "Ch09_The_Proposal"
+    },
+    {
+     "text": "iv. What did Anne Frank think about her father?",
+     "marks": 3,
+     "options": null,
+     "answer": "Anne Frank thought that she had the most adorable father. He married her mother when he was thirty-six. Her father emigrated to Holland in 1933. Her mother also went with him. Her father, the only survivor of the concentration camp, returned to Amsterdam after the war ended, to find that Anne's diary had been saved. Convinced that it was a unique record, he took action to have it published in English under the name 'The Diary of a Young Girl'.",
+     "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+    },
+    {
+     "text": "v. How did Custard prove that he was not a coward?",
+     "marks": 3,
+     "options": null,
+     "answer": "When Belinda and her pets were attacked by the pirate, Custard jumped up snorting like an engine and clashed his tail like irons in a dungeon. Everybody else was scared but he saved everyone and proved that he was not a coward by gobbling up the pirate.",
+     "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+    }
+   ],
+   "note": "Any 4 of 5 attempted (3 marks each = 12); the 5 subparts total 15 marks."
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "i. Mrs. Pumphrey said, \"This is a triumph of surgery.\" What do you think about this statement?",
+     "marks": 3,
+     "options": null,
+     "answer": "Mrs. Pumphrey loved her pet dog, Tricki from the core of her heart. She overfed him out of love and concern. As a result, Tricki fell seriously ill. Mr. Herriot hospitalised him and gave nothing him to eat except water. He gave him a lot of exercise. When she came to take Tricki back, she saw that he had fully recovered and that's why she said, \"This is a triumph of surgery.\"",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "ii. What did Sulekha later on come to be known as?",
+     "marks": 3,
+     "options": null,
+     "answer": "Sulekha was called 'Bholi' because she was a simpleton. She fell off from her cot when she was only ten months old and it damaged her head. She became a slow learner or a simpleton. So she was nicknamed as Bholi.",
+     "chapter": "Ch17_Footprints_Bholi"
+    },
+    {
+     "text": "iii. What were the reactions of Ausable, Max and Fowler when they heard a knock at the door?",
+     "marks": 3,
+     "options": null,
+     "answer": "When there was a knock on the door, Fowler and Max were frightened. Fowler jumped after hearing it. Max's face had become red. He was nervous. Ausable showed surprise but used his presence of mind to deceive Max by saying that it might be the police who had come to protect him as he had an important paper with him.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    }
+   ],
+   "note": "Any 2 of 3 attempted (3 marks each = 6); the 3 subparts total 9 marks."
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words\n\nYou have been asked to present an evaluation of the approaches of both, the Baby Seagull and the Pilot who was lost in the clouds, towards achieving their dreams of conquering the skies.\nWrite this presentation draft including your insights, comparing the approaches of both.\nYou may begin this way : One acknowledges that both, the Seagull and the Pilot, wanted to ________ however, ________.\n(Reference: Two Stories About Flying)",
+   "options": null,
+   "figure": null,
+   "answer": "One acknowledges that both, the Seagull and the Pilot, wanted to conquer the skies; however, their approaches to achieving this dream were markedly different.\nThe Baby Seagull, from \"His First Flight,\" faced an intense fear of flying. Despite his family's encouragement and demonstrations, he hesitated to take the leap. His journey towards conquering the skies was driven by necessity and hunger. When his mother dangled a piece of fish just out of reach, his desperation overcame his fear, and he finally took flight. This approach highlights the role of instinct and survival in overcoming fear. The Baby Seagull's success was a result of being pushed to the brink, where his natural abilities took over\nIn contrast, the Pilot, from \"The Little Prince,\" initially sought to conquer the skies for recognition and status. However, his journey through encounters with the Little Prince taught him the deeper meanings of love, friendship, and responsibility, ultimately leading him to rediscover the joy and wonder of flying.\nIn summary, both stories illustrate that while the goal of the flight is universal, the paths taken, and the lessons learned along the way shape one's understanding of true fulfilment and purpose in life.",
+   "or": {
+    "chapter": "Ch24_Amanda",
+    "text": "Amanda's parents were over anxious about her. She often found their instructions very stifling. Reading the poem and based on Amanda's experience, write a paragraph on the topic \"Should parents be allowed to control children?\"",
+    "options": null,
+    "figure": null,
+    "answer": "Upbringing plays an essential role in a child's development. Poet Robin Klein through this poem Amanda highlights the tension in the 'proper' upbringing of a child. To inculcate good values and moral principles in a growing child comes as a foremost duty for the parents. However, the poem Amanda shows how a child feels trapped within the cluster of instructions. Amanda is no less than a victim of this travesty. No proper space is given to her creativity. She is instructed for everything. As a result, she feels trapped and seeks an escape. Likewise, some parents are over-protective, they unknowingly kill their child's creativity. They always doubt their child's capability to do things independently. Freedom gives children scope to bloom hence it is necessary. Parents should guide and control their children as long as it is necessary. However, over-indulgence will always have a negative impact. Excessive nagging may cause them to become rebellious, and so develop an aversion to actual life.",
+    "subparts": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch15_Footprints_The_Making_of_a_Scientist",
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words.\n\nHow can one become a scientist, an economist, a historian.....? Does it simply involve reading many books on the subject? Does it involve observing, thinking and doing experiments?",
+   "options": null,
+   "figure": null,
+   "answer": "To achieve anything in life one needs to put in a lot of effort. Merely reading books on a subject can never make a person a pro in that field. One can't deny the fact that the more you read, the more you know but if knowledge isn't put to practice, it never reaps results. It is important to read to enhance one's perspectives, gain knowledge, the technical know-how and understand the wide opportunities of research or exploration a topic opens. Simultaneously, a person should involve in observing, thinking, and experimenting with new ideas to reach his goal. One should implement his observation practically to gain knowledge. Thinking is another aspect to improve one's creativity and explore new things. It is equally important to have a never-say-die attitude, the zeal to learn beyond limits, an inquisitive mind and a strong will to perform to be the best and not be the winner of a prize. Success comes to those who work hard for it.",
+   "or": {
+    "chapter": "Ch11_Footprints_The_Thiefs_Story",
+    "text": "What does he get from Anil in return for his work? (The Thief's Story)",
+    "options": null,
+    "figure": null,
+    "answer": "When Hari asked Anil if he could work for him, Anil said that he could not pay him. Finally, the agreement was that if he would cook, then Anil would feed him. However, Anil soon found out that he did not know how to cook. Therefore, he taught him how to cook and later, how to write his name. He promised he would teach him how to write whole sentences and how to add numbers. Apart from this, when Hari went out to buy the day's supplies, he would make a profit of a rupee a day.",
+    "subparts": null
+   },
+   "subparts": null
+  }
+ ]
+}

@@ -1,0 +1,618 @@
+{
+ "subject": "English",
+ "paper": "Paper_03",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "1. Education for Sustainable Development (ESD) is now high on the international agenda and ESD is seen as a way to encourage greater sustainable consumption and production, to counter the effects of climate change, address threats to biodiversity and provide more effective disaster risk reduction. Education for Sustainable Development is seen by UN as a lifelong process from early childhood to higher and adult education and goes beyond formal education. As values, lifestyles and attitudes are established from an early age, the role of education is of particular importance for children! ESD has often been associated with curriculum projects linked with recycling; energy and water conservation; pollution reduction and sustainable consumption - all developed to contribute towards achieving a more sustainable future.\n2. Research from developmental psychology, longitudinal studies, social-cultural analysis, and neuroscience have all shown that it is in the early years that children have the greatest capacity to learn, and it is in these years that many of our fundamental attitudes and values are first put into place. Children are already investigating issues related to recycling, energy conservation, waste disposal and changes in their local environment. ESD in Early Childhood Care and Education (ECCE) is of great significance. The development of ESD and ECCE requires more than just curriculum development. It provides the possibility of a transformational reconstruction.\n3. UNICEF reports show that children under the age of eight represent the highest percentage of affected population in today's global emergencies. A UNESCO survey has shown that the ministries of education, environment and sustainable development in 97 UN member states identify poverty as the highest priority area to be addressed in achieving sustainable development. In fact, reductions in poverty and inequality are widely recognised as the priority in efforts to create a more sustainable world. At a global level, millions of children start school carrying the handicap that comes with the experience of malnutrition, ill-health and poverty. Yet, equitable access to high-quality pre-school programmes remain a problem in both rich and poor countries. Sustainable development projects that enable rapid progress in maternal health, child nutrition and survival already exist, even in some of the world's poorest countries. Linking health and education agenda has been recognised as extremely important.",
+   "options": null,
+   "figure": null,
+   "answer": "1. ESD is seen as a way to: encourage greater sustainable consumption and production; counter effects of climate change; address threats to biodiversity; provide more efficient disaster risk management.\n2. ESD is a lifelong process from early childhood to higher and adult education, and goes beyond formal education. Critical areas: values, lifestyles and attitudes; curriculum projects linked with recycling/energy and water conservation/pollution reduction and sustainable consumption.\n3. Any two: recycling; energy and water conservation; pollution reduction; sustainable consumption.\n4. Children have the greatest capacity to learn in the early years; in these years many of our fundamental attitudes and values are formed; children are already investigating issues related to recycling, energy conservation/waste disposal/changes in the local environment.\n5. (A) positive change / (B) power to reform (official key accepts both)\n6. (C) UNICEF reports show that children under the age of eight represent the highest percentage of affected population in global emergencies.\n7. Equitable access to high quality pre-school programmes remains a problem in both rich and poor countries. Linking health and education agenda has been recognised as crucial/important.\n8. Assertive / objective / matter of fact / informative / formal (any other synonym)",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Complete the following with a suitable explanation with reference to paragraph (1).\nESD is now high on the international agenda because _______.",
+     "marks": 1,
+     "options": null,
+     "answer": "ESD is seen as a way to: encourage greater sustainable consumption and production; counter effects of climate change; address threats to biodiversity; provide more efficient disaster risk management."
+    },
+    {
+     "text": "Based on the given passage, How does UN view ESD as a lifelong process? What are the critical areas of emphasis? (Paragraph 1)",
+     "marks": 2,
+     "options": null,
+     "answer": "ESD is a lifelong process from early childhood to higher and adult education, and goes beyond formal education. Critical areas: values, lifestyles and attitudes; curriculum projects linked with recycling/energy and water conservation/pollution reduction and sustainable consumption."
+    },
+    {
+     "text": "List two curriculum projects that ESD (Education for Sustainable Development) has been linked with. (Paragraph 1)",
+     "marks": 1,
+     "options": null,
+     "answer": "Any two: recycling; energy and water conservation; pollution reduction; sustainable consumption."
+    },
+    {
+     "text": "Complete the following suitably : (Paragraph 2)\nMany of our fundamental attitudes and values are put into plan in the early years as _________.",
+     "marks": 2,
+     "options": null,
+     "answer": "Children have the greatest capacity to learn in the early years; in these years many of our fundamental attitudes and values are formed; children are already investigating issues related to recycling, energy conservation/waste disposal/changes in the local environment."
+    },
+    {
+     "text": "Substitute the underlined word with the correct word from paragraph (2) :\nESD in Early Childhood Care and Education provides the possibility of transformational reconstruction.",
+     "marks": 1,
+     "options": [
+      "(A) positive change",
+      "(B) power to reform",
+      "(C) negative impact",
+      "(D) creative"
+     ],
+     "answer": "(A) positive change / (B) power to reform (official key accepts both)"
+    },
+    {
+     "text": "What do UNICEF reports reveal about the vulnerability of children under the age of eight during global emergencies? (Paragraph 3)",
+     "marks": 1,
+     "options": [
+      "(A) UNICEF reports highlight the resilience of children under the age of eight during global emergencies.",
+      "(B) UNICEF reports indicate that children under the age of eight are rarely affected by global emergencies.",
+      "(C) UNICEF reports show that children under the age of eight represent the highest percentage of affected population in global emergencies.",
+      "(D) UNICEF reports suggest that children under the age of eight are primarily responsible for responding to global emergencies."
+     ],
+     "answer": "(C) UNICEF reports show that children under the age of eight represent the highest percentage of affected population in global emergencies."
+    },
+    {
+     "text": "What remains a problem in both rich and poor countries? What has been recognised as crucial ? (Paragraph 3)",
+     "marks": 1,
+     "options": null,
+     "answer": "Equitable access to high quality pre-school programmes remains a problem in both rich and poor countries. Linking health and education agenda has been recognised as crucial/important."
+    },
+    {
+     "text": "Complete the sentence with the correct response : The writer's tone in the passage is ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "Assertive / objective / matter of fact / informative / formal (any other synonym)"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "1. Starting Monday, the country's low-cost Mars mission with the red planet for an extended period will enter the \"blackout\" phase snapping communication with the satellite. From June 8 to 22 the Sun will block Mars from the Earth snapping communication with the satellite.\n2. A senior Indian Space Research Organisation official said. \"This will be for the first time that there will be a communication break for such a long period of about 15 days. During this period, there will be no communication with the satellite\", he added.\n3. Expressing confidence about regaining control over the satellite once the blackout phase is over, he said, \"the scenario has been tested and the line of communication will be established.\" The spacecraft's life has been extended for another six months in March due to surplus fuel.\n4. Stating that the spacecraft has been \"configured\" for the blackout, the ISRO official said, \"we are not sending any commands to the spacecraft now, till 8th June few hours of signals will be sent by the spacecraft that will be for about two to three hours per day\". In May next year, the mission will have to go through a similar phase once again, if there is another extension of mission life when the Earth will come between the Sun and Mars.\n5. Scripting space history, India on September 24 last successfully placed its low-cost Mars spacecraft in orbit around the red planet in its very first attempt, breaking into an elite club of three countries.",
+   "options": null,
+   "figure": null,
+   "answer": "1. The \"blackout\" phase refers to the period when the Sun will block Mars from the Earth, causing a communication break with the satellite. This phase will last from June 8 to 22, approximately 15 days.\n2. c. 2, 3 & 5\n3. satellite\n4. d. only for few\n5. c. confident\n6. The spacecraft has been configured to handle the blackout phase, and no commands will be sent to it during this time. However, the spacecraft will send signals for about two to three hours per day until June 8. After this, communication will be completely halted until the end of the blackout phase.\n7. c. (A) is true and (B) is false. (Official key: '(A) is true and (B) is false.')\n8. elite\n9. Because during this period the Sun will block Mars from the Earth, preventing communication with the satellite.",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the \"blackout\" phase in the context of the Mars mission, and how long will it last?",
+     "marks": 1,
+     "options": null,
+     "answer": "The \"blackout\" phase refers to the period when the Sun will block Mars from the Earth, causing a communication break with the satellite. This phase will last from June 8 to 22, approximately 15 days."
+    },
+    {
+     "text": "Choose the appropriate option to fill in the blank.\nFrom paragraph 1 & 2, we can infer that there will be ________.\n1. no communication with the people.\n2. blackout phase.\n3. satellite will get no communication.\n4. moon will block the earth.\n5. The communication break will be for 15 days.",
+     "marks": 1,
+     "options": [
+      "a. 1, 2 & 3",
+      "b. 1, 3 & 4",
+      "c. 2, 3 & 5",
+      "d. 3, 4 & 5"
+     ],
+     "answer": "c. 2, 3 & 5"
+    },
+    {
+     "text": "Complete the following analogy correctly with a word/phase from paragraph 2:\naroma: cooking:: ________: space research\n(Clue - just like aroma is integral to cooking, similarly ________ is/are integral to Space Research.)",
+     "marks": 1,
+     "options": null,
+     "answer": "satellite"
+    },
+    {
+     "text": "According to ISRO official till 8th July, when Sun will block Mars, ________ signal/signals per day will be sent to the spacecraft.",
+     "marks": 1,
+     "options": [
+      "a. no",
+      "b. considerable",
+      "c. indefinite",
+      "d. only for few"
+     ],
+     "answer": "d. only for few"
+    },
+    {
+     "text": "Select the correct option to complete the following sentence:\nThe ISRO officials are ________ about their control over the spacecraft after the blackout phase.",
+     "marks": 1,
+     "options": [
+      "a. doubtful",
+      "b. apprehensive",
+      "c. confident",
+      "d. jittery"
+     ],
+     "answer": "c. confident"
+    },
+    {
+     "text": "How has the spacecraft's mission been managed to handle the blackout phase and what is planned for communication during this period?",
+     "marks": 2,
+     "options": null,
+     "answer": "The spacecraft has been configured to handle the blackout phase, and no commands will be sent to it during this time. However, the spacecraft will send signals for about two to three hours per day until June 8. After this, communication will be completely halted until the end of the blackout phase."
+    },
+    {
+     "text": "Read the following sentences:\nA. The blackout was a sudden development.\nB. Because of this, the officials are very nervous about the success of the spacecraft.",
+     "marks": 1,
+     "options": [
+      "a. Both (A) & (B) are true.",
+      "b. Both (A) & (B) are false.",
+      "c. (A) is true and (B) is false.",
+      "d. (A) is false and (B) is true."
+     ],
+     "answer": "c. (A) is true and (B) is false. (Official key: '(A) is true and (B) is false.')"
+    },
+    {
+     "text": "Substitute the word 'nonpareil' with one word similar in meaning in the following sentence from paragraph 5.\nIndia managed to get into the nonpareil club of Mars spacecraft in orbit.",
+     "marks": 1,
+     "options": null,
+     "answer": "elite"
+    },
+    {
+     "text": "Why will India's Mars mission experience a communication blackout from June 8 to 22?",
+     "marks": 1,
+     "options": null,
+     "answer": "Because during this period the Sun will block Mars from the Earth, preventing communication with the satellite."
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+   "options": null,
+   "figure": null,
+   "answer": "1. organize\n2. Error: tends | Correction: tend\n3. that she is curious to learn about the past and our rich heritage.\n4. (c) what led him to join\n5. each\n6. Error: a delay redressal | Correction: a delayed redressal\n7. Error: plays | Correction: play (played)\n8. (b) apologise to\n9. if he caught/catches the 9 a.m. one, he would reach/reaches office on time.\n10. (b) whether she had attended the seminar on \"Effective Speaking\", the day before\n11. A. has been broken (the situation presented in the extract states the present condition)\n12. Error: is | Correction: are",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Fill in the blank by using the correct form of the word in the bracket, for the given portion of a letter.\nSir\nThis is in relation to the earlier discussion where it was decided that the school would ________ (organize) a summer camp for the students of grade 6 and 7.",
+     "marks": 1,
+     "options": null,
+     "answer": "organize"
+    },
+    {
+     "text": "Identify the error in the given sentence, from a school magazine report and supply the correction.\nSome students tends to experience episodes of anxiety and sleeplessness and even nervous breakdowns.\nUse the given format for your response.\n| error | correction |\n|---|---|\n|  |  |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: tends | Correction: tend"
+    },
+    {
+     "text": "Report the dialogue between a mother and a daughter by completing the sentence:\nMother: Why do you want to go on a tour of historical monuments of the city?\nDaughter: I am curious to learn about the past and our rich heritage.\nIn response to the question about the reason to go on a tour of the historical monuments the daughter says ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "that she is curious to learn about the past and our rich heritage."
+    },
+    {
+     "text": "Read the dialogue between Karen and Matt, regarding his chess club.\nKaren: What led you to join the chess club?\nMatt: Chess is not just a game, it's a mental battle which I enjoy. Select the correct option to complete the reporting of the above dialogue.\nKaren questioned Matt about ________ the chess club. Matt reflected and commented that chess was more than just a game to him, it was a mental battle which he enjoyed.",
+     "marks": 1,
+     "options": [
+      "a) what led to join him",
+      "b) what led him joining",
+      "c) what led him to join",
+      "d) what is leading him to join"
+     ],
+     "answer": "(c) what led him to join"
+    },
+    {
+     "text": "Fill in the blank by choosing the correct option.\nThe teacher gave __________ (every / each / either) of the students a piece of paper.",
+     "marks": 1,
+     "options": [
+      "every",
+      "each",
+      "either"
+     ],
+     "answer": "each"
+    },
+    {
+     "text": "Identify the error and supply correction for the given part of the note appearing on an educational website.\nPlease Note: An early and active communication is required as late notification may result in a delay redressal of your request.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n|  |  |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: a delay redressal | Correction: a delayed redressal"
+    },
+    {
+     "text": "Identify the error and provide the correct answer.\nThe background music and sound effects plays a major role in the film's success.\n| Error | Correction |\n|---|---|\n|  |  |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: plays | Correction: play (played)"
+    },
+    {
+     "text": "Fill in the blank by choosing the correct option:\nYou should ________ your mother for your rude behaviour.",
+     "marks": 1,
+     "options": [
+      "a) apologise for",
+      "b) apologise to",
+      "c) apologise with",
+      "d) apologise at"
+     ],
+     "answer": "(b) apologise to"
+    },
+    {
+     "text": "Read the conversation between a driver and his passenger. Complete the sentence by reporting the passenger's reply correctly.\nDriver: Do the bus timings suit you?\nPassenger: Yes, if I catch the 9 a.m. one, I reach office on time.\nThe driver was trying to figure out whether the bus timings were convenient to the passenger. The passenger clarified that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "if he caught/catches the 9 a.m. one, he would reach/reaches office on time."
+    },
+    {
+     "text": "Read the dialogue below:\nVinay: Did you attend the seminar on \"Effective Speaking,\" yesterday?\nVineeta: Yes I did. I learnt some valuable skills from the speaker.\nChoose the correct option to complete the dialogue.\nVinay asked Vineeta ________. Vineeta responded positively and said that she had learnt valuable skills from the speaker.",
+     "marks": 1,
+     "options": [
+      "a) whether she will be attending the seminar on \"Effective Speaking\" the day after",
+      "b) whether she had attended the seminar on \"Effective Speaking\", the day before",
+      "c) if she had attended the seminar on \"Effective Speaking\", yesterday",
+      "d) whether the seminar on \"Effective Speaking\", the day before was good"
+     ],
+     "answer": "(b) whether she had attended the seminar on \"Effective Speaking\", the day before"
+    },
+    {
+     "text": "Complete the line from a self-awareness song, by filling the blank with the correct option.\nWhere the mind is without tear and the head is held high\nWhere knowledge is free\nWhere the world ________ not ________ up into fragments\nBy narrow domestic walls",
+     "marks": 1,
+     "options": [
+      "A. has been broken",
+      "B. had been broken",
+      "C. will be broken",
+      "D. have been broken"
+     ],
+     "answer": "A. has been broken (the situation presented in the extract states the present condition)"
+    },
+    {
+     "text": "Identify the error and supply the correction, for the following:\nMaharashtra State Innovation Society\nSTARTUP WEEK 2021\nA platform to create impact at large scale with Government\nStartups across India is eligible to apply\nUse the given format for your response.\n| error | correction |\n|---|---|\n|  |  |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: is | Correction: are"
+    }
+   ],
+   "note": "Attempt any 10 of 12 sub-questions (1 mark each); subpart marks total 12 but question carries 10."
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "Express your views by writing a letter to the Editor of the daily local newspaper on the subject 'Reforming Beggars'.",
+   "options": null,
+   "figure": null,
+   "answer": "18, Rani Bagh\nNew Delhi\nDecember 15, 2018\nThe Editor\nThe Tribune\nNew Delhi\nSir,\nSubject: Reforming Beggars\nThrough the columns of your esteemed newspaper, I would like to draw the attention of Local Councillor towards the above-mentioned problem. It is a very common sight to see beggars near the religious places, especially near the temples and we, the God-fearing and generous people show pity on them. Many of them are professional pick-pockets and thieves. Frequent incidents of chain-snatching and purse-lifting are done by these beggars. The beggars are reported to have been involved in different crimes. They are commonly seen in buses, at red lights, around religious and tourist places. They take advantage of the rush. Many anti-social elements have taken to the robes of beggars to escape vigilance and serve their ends. When we give money to them, we indirectly provide them with indulgence.\nInstead of making them handicapped by giving them, also we should help them in such a direction so they should stand on their own i.e. they should be made capable to earn respectfully. They should be given shelter under the name of some local institution, meant for social work. Then they can be trained as per their interest. The members of our society have already taken steps in this direction.\nYou are requested to give this letter an appropriate place, that our request should reach to the concerned authority. The Local Councillor and the plan of involving the beggars should be started at the earliest.\nYours truly,\nXYZ.",
+   "or": {
+    "text": "You are Sunita / Suraj 4 Grant Road, Dadar. You are preparing for Bank PO and some other competitive exams. For this, you have enrolled in a reputed coaching institute in Laxmi Nagar, New Delhi. Now, you need accommodation for yourself in the nearby area. One of your friends shared this newspaper cutting with you.\n\nWrite a letter to the Manager of Lotus paying guest service, 15, Aditya Complex, Laxmi Nagar, Delhi, enquiring about the details such as type of accommodation, monthly charges, facilities provided etc.",
+    "options": null,
+    "figure": "fig_p07_0.png",
+    "chapter": "SKILL_Writing",
+    "answer": "4, Grant Road,\nDadar\n25th February 2018\nThe Manager\nLotus Paying Guest House,\nNew-Delhi,\nSir,\nSubject: Enquiry About Accommodation\nI am a resident of Dadar and have joined coaching classes in Laxmi Nagar, Delhi. I want to inquire if there is a room available as accommodation for a paying guest around this area. If so, please let me know whether it is single or twin sharing. Besides this, could you also send me the details regarding monthly charges of boarding and lodging? I am interested to know what kind of other facilities you also provide. If there are 24 hours power-supply, mode of transport available, meal, washing facility and also if there is any shopping centre located close by.\nI shall be exceedingly grateful if you respond promptly as I currently I am living with some distant relatives. Looking forward to hearing from you.\nThanking you.\nYours faithfully\nSuraj.",
+    "subparts": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "The Pros and Cons of using the internet in everyday life are numerous. The internet is like a double-edged sword. Based on the information provided in the table below, write an analytical paragraph on the topic 'Advantages and Disadvantages of the Internet'.\n\nPros and Cons of Internet\n\n| Pros | Cons |\n|---|---|\n| (1) Connectivity | (1) Data Security |\n| (2) Communication speed and versatile working | (2) Social Isolation |\n| (3) Learning Re-defined | (3) Addiction towards it |\n| (4) Transfer of Data | (4) Plagiarism and copyright |",
+   "options": null,
+   "figure": null,
+   "answer": "Analytical Paragraph: Advantages and Disadvantages of the Internet\nThe internet has become an integral part of everyday life, offering numerous benefits along with certain drawbacks. One of its key advantages is connectivity, enabling people across the world to stay linked instantly. It also enhances communication speed and supports versatile working, making tasks quicker and more efficient. The internet has redefined learning by providing easy access to information, online courses, and educational resources. Additionally, it allows fast transfer of data, supporting both personal and professional needs.\nHowever, the internet also poses challenges. Data security is a major concern as online platforms are vulnerable to hacking and misuse. Excessive use of the internet can lead to social isolation, reducing real-life interactions. Many users, especially youth, may develop addiction, affecting their productivity. Moreover, plagiarism and copyright violations have increased due to the easy availability of online content.\nThus, while the internet is highly useful, its responsible use is essential.",
+   "or": {
+    "text": "In the past few years, the teaching-learning process has taken a leap and gone beyond the four walls of the classroom. Today, it has become possible to learn not just by sitting in a physical classroom, but from anywhere. Given below is a chart depicting the differences between E-learning and Classroom learning. Write an analytical paragraph, assessing the benefits and drawbacks of both, by selecting features that support your analysis.\n\n| E-learning | vs. | Classroom learning |\n|---|---|---|\n| accessible anytime anywhere; at your own pace; no travel costs, saves time | | same place, same time; caters to the needs of the class; transportation cost and time consuming |",
+    "options": null,
+    "figure": null,
+    "chapter": "SKILL_Writing",
+    "answer": "The shift from traditional classrooms to digital platforms has transformed the teaching-learning process. E-learning offers flexible access to lessons anytime and anywhere, allowing students to learn at their own pace. It eliminates travel, saving both time and money. Classroom learning, in contrast, requires students to be present at the same place and time, which may not suit individual learning needs. However, it provides direct interaction with teachers and peers, catering effectively to the needs of the entire class. It also involves transportation costs and additional time. Therefore, both methods have clear benefits and drawbacks: e-learning is convenient and economical, while classroom learning supports structured guidance and personal engagement.",
+    "subparts": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch12_Footprints_The_Midnight_Visitor",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\nRead the extract given below and answer the questions that follow:\nAnd as the light came on,\nFowler had his first authentic thrill of the day.\nFor halfway across the room,\na small automatic pistol in his hand stood a man.\nAusable blinked a few times.",
+   "options": null,
+   "figure": null,
+   "answer": "1. Max was standing in the room with a pistol in his hand.\n2. (d) started to think of how to get rid of the man.\n3. looked like a real thriller scene finally. The kind of action and scene he had been expecting while he was on his way.\n4. authentic",
+   "or": {
+    "text": "Read the extract given below and answer the questions that follow:\nAll through the night, Lencho thought only of his one hope: the help of God, whose eyes, as he had been instructed, see everything, to even what is deep in one's conscience. Lencho was an ox of a man, working like an animal in the fields, but still, he knew how to write. The following Sunday, at daybreak, he began to write a letter which he himself would carry to town and place in the mail. It was nothing less than a letter to God. \"God,\" he wrote, \"If you don't help me, my family and I will go hungry this year. I need a hundred pesos in order to sow field again and to live until the crop comes because of the hailstorm...\"",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch01_A_Letter_to_God",
+    "answer": "1. Lencho spent his entire night thinking of the only option left: to seek the help of God, who, he had been informed, has its eyes and ears everywhere.\n2. (a) Lencho worked in fields like an ox of a man. He worked like an animal in the fields.\n3. conscience\n4. mailbox",
+    "subparts": [
+     {
+      "text": "Why Lencho thought only of his one hope: the help of God? Answer in about 40 words.",
+      "marks": 2,
+      "options": null,
+      "answer": "Lencho spent his entire night thinking of the only option left: to seek the help of God, who, he had been informed, has its eyes and ears everywhere.",
+      "chapter": "Ch01_A_Letter_to_God"
+     },
+     {
+      "text": "Read the following descriptions (a)-(c) and identify which one correctly corresponds to the extract.",
+      "marks": 1,
+      "options": [
+       "a. Lencho worked in fields like an ox of a man. He worked like an animal in the fields.",
+       "b. Lencho became stressed and disappointed as everything went against the plan.",
+       "c. He felt helpless as no corn had been left and feared, that they might have to starve this time."
+      ],
+      "answer": "(a) Lencho worked in fields like an ox of a man. He worked like an animal in the fields.",
+      "chapter": "Ch01_A_Letter_to_God"
+     },
+     {
+      "text": "What would be the word if a word were to be replaced with the phrase 'the inner sense of right or wrong'?",
+      "marks": 1,
+      "options": null,
+      "answer": "conscience",
+      "chapter": "Ch01_A_Letter_to_God"
+     },
+     {
+      "text": "Fill the blank with one word. Lencho wrote the letter to God, and he himself carried the letter to town and dropped in the ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "mailbox",
+      "chapter": "Ch01_A_Letter_to_God"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "Who was standing in the room with a pistol in his hand?",
+     "marks": 1,
+     "options": null,
+     "answer": "Max was standing in the room with a pistol in his hand.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "Ausable blinked because he:",
+     "marks": 1,
+     "options": [
+      "a. was getting adjusted to the light.",
+      "b. got afraid of the man with a pistol.",
+      "c. was thrilled to have reached his room.",
+      "d. started thinking of how to get rid of the man."
+     ],
+     "answer": "(d) started to think of how to get rid of the man.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "Fowler was thrilled because what he saw looked like a ________.",
+     "marks": 2,
+     "options": null,
+     "answer": "looked like a real thriller scene finally. The kind of action and scene he had been expecting while he was on his way.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "Which word in the extract means the same as 'genuine/real?",
+     "marks": 1,
+     "options": null,
+     "answer": "authentic",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch25_The_Trees",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\nRead the lines given below and answer the questions that follow:\nI sit inside, doors open to the verandah\nWriting long letters\nIn which I scarcely mention the departure\nof the forest from the house.\nThe night is fresh, the whole moon shines\nin a sky still open\nthe smell of leaves and lichen\nstill reaches like a voice into the rooms.",
+   "options": null,
+   "figure": null,
+   "answer": "1. confinement. It is so because the houses today are congested, small and lack ventilation.\n2. The second line uses alliteration - long letters - whereas the last line uses a simile - like a voice into the rooms.\n3. The correct meaning of open twice is allowing access and vision - expanse of space.\n4. (A) tactfully",
+   "or": {
+    "text": "Read the lines given below and answer the questions that follow:\nCustard the dragon had big sharp teeth,\nAnd spikes on top of him and scales underneath,\nMouth like a fireplace, chimney for a nose,\nAnd realio, trulio daggers on his toes.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch27_The_Tale_of_Custard_the_Dragon",
+    "answer": "1. Custard, the dragon had big sharp teeth and spikes on its back that could easily scare anyone away. It had ability to spit fire which made his mouth like a fireplace and thus his nose became a chimney. The toes were so pointed and sharp, that it could cut anything like a daggar.\n2. dragon\n3. (a) Dragons are brave and feared.\n4. The language used in these lines is simple and straightforward. The words and phrases are easy to understand and the poem is written in a conversational tone. Realio and Trulio words are creating poetic effect. This is a humurous poem.",
+    "subparts": [
+     {
+      "text": "Describe the physical appearance of Custard the dragon.",
+      "marks": 1,
+      "options": null,
+      "answer": "Custard, the dragon had big sharp teeth and spikes on its back that could easily scare anyone away. It had ability to spit fire which made his mouth like a fireplace and thus his nose became a chimney. The toes were so pointed and sharp, that it could cut anything like a daggar.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "Fill in the blank with one word. This extract describes the physical appearance of Custard. He carried all the features of ________ that could make him powerful, scary, and brave.",
+      "marks": 1,
+      "options": null,
+      "answer": "dragon",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "Which belief about dragons is in contrast to Custard's behaviour in the extract.",
+      "marks": 1,
+      "options": [
+       "a. Dragons are brave and feared.",
+       "b. Dragons can grant wishes.",
+       "c. Dragons can become invisible at will.",
+       "d. Dragons are soft-hearted and kind."
+      ],
+      "answer": "(a) Dragons are brave and feared.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "Comment on the poet's use of language in these lines.",
+      "marks": 2,
+      "options": null,
+      "answer": "The language used in these lines is simple and straightforward. The words and phrases are easy to understand and the poem is written in a conversational tone. Realio and Trulio words are creating poetic effect. This is a humurous poem.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "Fill in the blank with one word:\nThe poet talks about the house as a place of _________.",
+     "marks": 1,
+     "options": null,
+     "answer": "confinement. It is so because the houses today are congested, small and lack ventilation.",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "Find the figure of speech used in the lines above.",
+     "marks": 2,
+     "options": null,
+     "answer": "The second line uses alliteration - long letters - whereas the last line uses a simile - like a voice into the rooms.",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "The extract uses 'open' twice, suggesting different meanings. Write the correct meaning with reference to the extract.",
+     "marks": 1,
+     "options": null,
+     "answer": "The correct meaning of open twice is allowing access and vision - expanse of space.",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "Choose the option that DOES NOT state the meaning of the underlined word.\n'I scarcely mention...'\nA. tactfully\nB. hardly\nC. barely\nD. only just",
+     "marks": 1,
+     "options": [
+      "A. tactfully",
+      "B. hardly",
+      "C. barely",
+      "D. only just"
+     ],
+     "answer": "(A) tactfully",
+     "chapter": "Ch25_The_Trees"
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+   "options": null,
+   "figure": null,
+   "answer": "1. Coorgis are a proud race of martial men and beautiful women. They are very hospitable and entertain their guests by relating stories of bravery of their sons and fathers. Coorgis soldiers are brave. Corgis are the only people who are permitted to carry firearms without a license.\n2. The poem shows the tiger has lost its natural instinct by depicting him caged and unable to roam or hunt freely. No one fears him anymore; he merely walks in rage, reduced to an object of human gaze.\n3. He was glad and called his daughter. He said he had been hoping for it. He said he always desired it.\n4. Actually, Anne was being brutally honest by saying so. The time of the declaration of the annual results was coming closer. The teachers were going to decide which students would be promoted to the next class. Anne and her friends laughed heartily at their classmate as they felt that many were dummies and should not be promoted to the next class.\n5. According to the poet, the world will end due to the 'fire', which symbolises 'desire' but if the world has to end twice then it will be due to the hatred which is symbolised by 'ice'. The poet feels that there is enough hatred spreading among the people in the world to perish the world twice because unlike fire, ice or hatred affects slowly and gradually and souls of people insensitive to anybody's pain.",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Coorgis belong to a valorous and hospitable race. Comment on this statement with reference to the text.",
+     "marks": 3,
+     "options": null,
+     "answer": "Coorgis are a proud race of martial men and beautiful women. They are very hospitable and entertain their guests by relating stories of bravery of their sons and fathers. Coorgis soldiers are brave. Corgis are the only people who are permitted to carry firearms without a license.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "How does the poem show that the tiger had lost its natural instinct? (A Tiger in the Zoo)",
+     "marks": 3,
+     "options": null,
+     "answer": "The poem shows the tiger has lost its natural instinct by depicting him caged and unable to roam or hunt freely. No one fears him anymore; he merely walks in rage, reduced to an object of human gaze.",
+     "chapter": "Ch21_A_Tiger_in_the_Zoo"
+    },
+    {
+     "text": "Chubokov accepted Lomov's request without any resistance. Justify the statement using evidence from the story.",
+     "marks": 3,
+     "options": null,
+     "answer": "He was glad and called his daughter. He said he had been hoping for it. He said he always desired it.",
+     "chapter": "Ch09_The_Proposal"
+    },
+    {
+     "text": "Anne say that there were So many dummies in the class that about a quarter of them shouldn't be promoted. Is she being rude or brutally honest? Evaluate.",
+     "marks": 3,
+     "options": null,
+     "answer": "Actually, Anne was being brutally honest by saying so. The time of the declaration of the annual results was coming closer. The teachers were going to decide which students would be promoted to the next class. Anne and her friends laughed heartily at their classmate as they felt that many were dummies and should not be promoted to the next class.",
+     "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+    },
+    {
+     "text": "\"But if it had to perish twice\"; how will the world perish twice? Answer in the context of the poem Fire and Ice.",
+     "marks": 3,
+     "options": null,
+     "answer": "According to the poet, the world will end due to the 'fire', which symbolises 'desire' but if the world has to end twice then it will be due to the hatred which is symbolised by 'ice'. The poet feels that there is enough hatred spreading among the people in the world to perish the world twice because unlike fire, ice or hatred affects slowly and gradually and souls of people insensitive to anybody's pain.",
+     "chapter": "Ch20_Fire_and_Ice"
+    }
+   ],
+   "note": "Attempt any 4 of 5 (3 marks each); subpart marks total 15 but question carries 12."
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+   "options": null,
+   "figure": null,
+   "answer": "1. Mr. Herriot, the narrator is a veterinary surgeon. As a person, he is tactful, full of common sense and humanity. He initially advises Mrs. Pumphrey to cut down on Tricki's diet. But when she doesn't do so, it is his tact to admit Tricki in the hospital and it is his common sense that he understands that Tricki is sick only because of overfeeding.\n2. Bishamber greedily demanded five thousand rupees as a condition to marry a girl with pockmarks on her face. Bholi's father gave the money to the bridegroom. When Bholi saw her father crying, she raised her voice against wrong and refused to marry him.\n3. The writer H.G Wells, says that Griffin had chosen a bad time to be in London without clothes because it was mid-winter. The air was bitterly cold and he could not be without clothes in that weather.",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What kind of a person do you think the narrator of 'A Triumph of Surgery', a veterinary surgeon, is? Would you say he is tactful as well as full of common sense?",
+     "marks": 3,
+     "options": null,
+     "answer": "Mr. Herriot, the narrator is a veterinary surgeon. As a person, he is tactful, full of common sense and humanity. He initially advises Mrs. Pumphrey to cut down on Tricki's diet. But when she doesn't do so, it is his tact to admit Tricki in the hospital and it is his common sense that he understands that Tricki is sick only because of overfeeding.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "Why did Bishamber's marriage with Bholi not take place?",
+     "marks": 3,
+     "options": null,
+     "answer": "Bishamber greedily demanded five thousand rupees as a condition to marry a girl with pockmarks on her face. Bholi's father gave the money to the bridegroom. When Bholi saw her father crying, she raised her voice against wrong and refused to marry him.",
+     "chapter": "Ch17_Footprints_Bholi"
+    },
+    {
+     "text": "Why does the writer say that Griffin had chosen a bad time to be in London without clothes?",
+     "marks": 3,
+     "options": null,
+     "answer": "The writer H.G Wells, says that Griffin had chosen a bad time to be in London without clothes because it was mid-winter. The air was bitterly cold and he could not be without clothes in that weather.",
+     "chapter": "Ch14_Footprints_Footprints_Without_Feet"
+    }
+   ],
+   "note": "Attempt any 2 of 3 (3 marks each); subpart marks total 9 but question carries 6."
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words\n\nImagine that the narrator shared his story with friends and family once he got home. One of them, a spiritual leader, decided to incorporate the story as part of his weekly sermon to the congregation. Another friend, a psychologist, worked the story into his next lecture on survival instinct and crisis management.\nDo you think the two interpretations of the story would be different? If so, how?\nWhat insights might the narrator get about his mysterious experience, if he were to attend both the sessions? Answer in the context of the lesson Two Stories about Flying.",
+   "options": null,
+   "figure": null,
+   "answer": "Yes, two interpretations of the story would be different. Spiritually, a person has deep faith in God and he recalls him in the time of distress he will definitely be answered. God will surely send help through his messengers as done in chapter 1. A letter to god. The postmaster became the messenger of God. Whereas psychologically, it interprets 'Never say die' till the end.\nThe narrator might also have got the insight of never to lose hope in the most hopeless situation. No one know who may come to save you. The narrator was hopeless when he was caught in the storm. He lost all contact with Paris control and all his instruments were dead. Then came a help from unknown source in form of the mysterious pilot of the black aeroplane to guide the narrator to safety.",
+   "or": {
+    "text": "What message does the poet give to the readers? Answer in the context of the poem Fire and Ice.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch20_Fire_and_Ice",
+    "answer": "The poem 'Fire and Ice' echoes Robert Frost's claim which he once made that, \"my poem begins in delight but ends in wisdom\". In this poem, the poet considers the age-old question of whether the world will end in fire or in ice. It is quite interesting that the poet does not give his own opinion in this regard. It is illogical to ask which one is stronger as we know both of them are equally harmful to the world. Fire is a metaphor used for lust, greed, avarice, and intolerance, whereas, ice can be associated with hatred and indifference. The fire of lust and greed gets publicity, but the coldness of hatred is also dangerous as it is a silent killer. All of such dark sides of human nature can obstruct the progress of human civilization.",
+    "subparts": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words.\n\nMadam Forestier writes a diary entry after having met Matilda, knowing the truth and seeing the transformation in her friend. Write a short diary entry as Madam Forestier about your encounter and how you felt. You may begin like this.\n20th July, Monday 9:00 pm\nI couldn't recognise Matilda at all. I wish she had told me the truth about the necklace.",
+   "options": null,
+   "figure": null,
+   "answer": "20th July Monday 9:00 PM\nI couldn't recognise Matilda at all. I wish she had told me the truth about the necklace, which she didn't. I feel so sorry for her. The poor lady had to go through so much just for the sake of one artificial necklace worth 400 francs. I am surprised she hid this all from me fearing I would demand the real price of the necklace from her. Oh! I wish she should have at least spoken to me once, so that I could have got her out of this predicament. My innocent friend, Matilda, whom I love so dearly, had to go through this pain of having lost my necklace in the ball. She during this course of life has become a much tougher person. She no longer is that sweet face of woman she used to be. It clearly pains to see her like this. I would like to help her.\nMadam Forestier",
+   "or": {
+    "text": "Sometimes deception is a way of life. Explain this statement by citing facts from the lesson 'The Thief's Story'.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch11_Footprints_The_Thiefs_Story",
+    "answer": "For some people, deception is a way to lead life easily. Such people deceive others by changing their own names, identities and making excuses to devise a new way of making money. Anil was the most trustworthy person Hari Singh had ever met. But Hari Singh was a thief and couldn't be expected to be honest with Anil. He came to Anil with a false identity. He took undue advantage of his trust. Anil had blind faith in human nature. He employed him just out of sympathy and compassion for him. He trusted him and ignored his misdeed. He handed over all the financial transactions without any verification. In a way, he gave him a chance to improve. He knew everything when Hari Singh stole money and came back but he didn't say anything. It made Hari Singh realise his mistake and leave the style of deception as a way of life.",
+    "subparts": null
+   },
+   "subparts": null
+  }
+ ]
+}

@@ -1,0 +1,727 @@
+{
+ "subject": "Science",
+ "paper": "Paper_03",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "________ is a product of meiosis.",
+   "options": [
+    "Megaspore mother cell",
+    "Primary endosperm nucleus",
+    "Microspore mother cell",
+    "Megaspore"
+   ],
+   "figure": null,
+   "answer": "(d) Megaspore — a haploid cell formed by meiosis in the megaspore mother cell; it is the first cell of the female gametophyte.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "In human males, all the chromosomes are paired perfectly except one. This/these unpaired chromosome is/are\ni. large chromosome\nii. small chromosome\niii. Y-chromosome\niv. X-chromosome",
+   "options": [
+    "(i) and (ii)",
+    "(iii) and (iv)",
+    "(iii) only",
+    "(ii) and (iv)"
+   ],
+   "figure": null,
+   "answer": "(b) (iii) and (iv) — males have XY (23rd pair), the heterogametic sex; the 22 pairs of autosomes are perfectly paired, the unpaired chromosomes are X and Y.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "In the following diagram of the stomatal apparatus, which parts are incorrectly labelled ?",
+   "options": [
+    "I and IV",
+    "IV and V",
+    "I and V",
+    "II and III"
+   ],
+   "figure": "fig_p01_0.png",
+   "answer": "(d) II and III — the other labels are correct.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "The budding in Yeast is illustrated by the diagram:",
+   "options": [
+    "D",
+    "C",
+    "B",
+    "A"
+   ],
+   "figure": "fig_p01_1.png",
+   "answer": "(c) B — the bud in yeast appears as a protuberance on the parent cell.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "The relationship between biotic and abiotic environment is called:",
+   "options": [
+    "Biosphere",
+    "Community",
+    "Ecosystem",
+    "Atmosphere"
+   ],
+   "figure": null,
+   "answer": "(c) Ecosystem — all the interacting organisms of an area together with the non-living constituents form an ecosystem (biotic components: living organisms; abiotic components: rainfall, wind, soil, minerals etc.).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Which of the following is incorrect about self-pollination:\nA. The genetic drifts of the breed can be removed\nB. New varieties cannot be obtained by self-pollination\nC. Repeated self-pollination leads to loss of vigour and vitality of species\nD. It helps to preserve the parental characters",
+   "options": [
+    "(B)",
+    "(A)",
+    "(C)",
+    "(D)"
+   ],
+   "figure": null,
+   "answer": "(b) (A) — genetic drift cannot be removed by self-pollination.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "In plants the role of cytokinin is:",
+   "options": [
+    "Promote the opening of stomatal pore.",
+    "Help in the growth of stem.",
+    "Wilting of leaves.",
+    "Promote cell division."
+   ],
+   "figure": null,
+   "answer": "(d) Promote cell division — cytokinins encourage cell division and are found in roots and shoots.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch08_Heredity",
+   "text": "Assertion (A): Each human trait is influenced by both paternal and maternal DNA.\nReason (R): As compared to the father, the mother contributes more amount of genetic material to the child.",
+   "options": [
+    "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+    "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+    "Assertion (A) is true, but Reason (R) is false.",
+    "Assertion (A) is false, but Reason (R) is true."
+   ],
+   "figure": null,
+   "answer": "(c) Assertion (A) is true, but Reason (R) is false. An individual inherits half of the nuclear genetic material from each parent (23 chromosomes each); the mother does not contribute more.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Assertion (A): Phototropism is a directional growth movement.\nReason (R): It occurs in the direction of light.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Phototropism is the movement/bending of a plant part towards light, hence a directional growth movement.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Give some methods that could be applied to reduce our intake of pesticides.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Minimise the use of pesticides and use other methods to control pests.\nii. Consume washed fruits and vegetables, which wash away harmful pesticides.\niii. Develop vegetarian feeding habits, as biological magnification of a harmful chemical increases with trophic level (plants are at a lower trophic level and so have less accumulation of pesticides).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "i. Will the impact of removing all the organisms in a trophic level be different for different trophic levels?\nii. Can the organisms of any trophic level be removed without causing any damage to the ecosystem?",
+   "options": null,
+   "figure": null,
+   "answer": "i. Yes. Lower trophic levels have more individuals; removal of producers affects all successive trophic levels and threatens their survival, while removal of higher trophic levels causes an increase in lower-level organisms.\nii. No. Removal of all organisms of a trophic level disturbs the ecosystem; e.g. killing of higher-level organisms causes a population explosion of lower-level organisms, which adversely affects the ecosystem.",
+   "or": {
+    "chapter": "Ch13_Our_Environment",
+    "text": "What is the dam? Why do we seek to build large dams? While building large dams, which three main problems should particularly be addressed to maintain peace among local people? Mention them.",
+    "options": null,
+    "figure": null,
+    "answer": "A dam is a barrier built across a river or stream for storage of water. Large dams ensure storage of adequate water for irrigation and generation of electricity. The three main problems are: economic problem, environmental problem and ecosystem problem (as given in the key)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Name the hormones secreted by the following endocrine glands and specify one function of each:\na. Thyroid\nb. Pituitary\nc. Pancreas",
+   "options": null,
+   "figure": null,
+   "answer": "a. Thyroid: thyroxine - regulates carbohydrate, protein and fat metabolism for best balance of growth.\nb. Pituitary: growth hormone - regulates growth and development of the body.\nc. Pancreas: insulin - regulates blood sugar level.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "What are Chromosomes? Explain how stability of the DNA of the species is ensured in sexually reproducing organisms.",
+   "options": null,
+   "figure": null,
+   "answer": "Chromosomes are thread-like structures (made of DNA and protein) of varying length and form which carry the genes; traits passed from parents to offspring over generations are encoded in DNA. DNA copying keeps the DNA stable: highly accurate, error-free DNA replication protects its stability, and meiosis during gamete formation halves the chromosome number so that the chromosome number is maintained in every generation when gametes fuse.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "The digestion of food in human alimentary canal is a complex process. State the enzyme/salt present in the following and mention their function in the process of digestion:\ni. Saliva\nii. Bile Juice\niii. Pancreatic Juice",
+   "options": null,
+   "figure": null,
+   "answer": "i. Saliva: salivary amylase - converts starch into sugar.\nii. Bile juice: bile salts - make the acidic food alkaline and emulsify fats.\niii. Pancreatic juice: trypsin - helps in digestion of proteins (lipase - breaks down emulsified fats).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Read the following text carefully and answer the questions that follow:\nThe green plants make their food, through photosynthesis and are therefore called autotrophs. All other organisms depend upon green plants for food and are referred to as heterotrophs. Green plants carry out photosynthesis by using light energy of sun. The first phase of reactions are directly light driven therefore called light reactions. The second phase of reactions are not directly light driven but are dependent on the products of light reactions and are called dark reactions.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is produced during the light phase of photosynthesis?",
+     "marks": 1,
+     "options": null,
+     "answer": "Assimilatory power: energy-rich ATP molecules and reduced coenzyme NADPH."
+    },
+    {
+     "text": "How many sugar molecules are produced in the overall process of photosynthesis?",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\mathrm{6CO_2 + 12H_2O \\rightarrow C_6H_{12}O_6 + 6H_2O + 6O_2}$ — one molecule of sugar (glucose) is produced."
+    },
+    {
+     "text": "A plant is provided with ideal conditions for photosynthesis and supplied with isotope $^{14}$CO$_2$. When the products of the process are analysed carefully, what would be the nature of products?",
+     "marks": 2,
+     "options": null,
+     "answer": "Plants make glucose from CO$_2$ and H$_2$O and release oxygen from water; so only the glucose will be labelled with the isotopic carbon, while the oxygen gas released will be normal.",
+     "or": {
+      "text": "What are the accurate functions corresponding to parts X, Y, and Z as depicted in the provided diagrammatic representation of an electron micrograph of a section of a chloroplast?",
+      "marks": 2,
+      "figure": "fig_p03_0.png",
+      "answer": "X - Light reaction, Y - Carbohydrate synthesis, Z - Carbohydrate storage (as given in the key). Light reactions occur on the grana thylakoids; dark reactions (carbohydrate synthesis by CO$_2$ fixation) occur in the stroma; the chloroplast matrix stores starch temporarily as starch granules."
+     }
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch08_Heredity",
+   "text": "How is the sex of the child determined in human beings?",
+   "options": null,
+   "figure": null,
+   "answer": "Sex chromosomes determine sex in human beings: males have 44 + XY chromosomes and females 44 + XX. Males produce two types of gametes (50% carrying X and 50% carrying Y); females produce only one type, all carrying X (females are homogametic). If a sperm carrying Y fuses with an egg (X), the zygote is XY and develops into a male child. If a sperm carrying X fuses with an egg (X), the zygote is XX and develops into a female child.",
+   "or": {
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "Compare nervous and hormonal mechanism for control.",
+    "options": null,
+    "figure": null,
+    "answer": "| Nervous system | Hormonal system |\n|---|---|\n| Made of neurons | Made of hormones |\n| Messages transmitted as electrical impulses | Messages transmitted as chemicals called hormones |\n| Messages travel along nerve fibres | Messages travel through the blood stream |\n| Messages travel very quickly | Messages travel very slowly |\n| Effect of message usually lasts a very short while | Effect of message usually lasts longer |\n| Sense organs are receptors; nerve cells located in them receive information | Glands are effectors which secrete hormones when the brain commands |"
+   },
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Find the incorrect statement:\nA. The pH of the stomach is approximately 4.5\nB. Plants grow well in natural soil\nC. The pH of acid rain is nearly 5.6\nD. The pH of rainwater is nearly 7",
+   "options": [
+    "Statement (B)",
+    "Statement (D)",
+    "Statement (C)",
+    "Statement (A)"
+   ],
+   "figure": null,
+   "answer": "(d) Statement (A) — the human stomach produces gastric juice containing hydrochloric acid, resulting in a pH of about 1.4.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Which of the following is the incorrect method of preventing rusting?",
+   "options": [
+    "The machine parts should be oiled or greased",
+    "The iron articles should be painted",
+    "Galvanised iron pipes are used for water supply.",
+    "Iron articles should be covered with cotton"
+   ],
+   "figure": null,
+   "answer": "(d) Iron articles should be covered with cotton — rusting is prevented by painting, oiling/greasing, varnishing or galvanisation (depositing a thin layer of zinc).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which of the following statements are false about soaps and detergents?\ni. Soaps are water soluble while detergents are not.\nii. Soaps are non-biodegradable while detergents are biodegradable.\niii. Hardness of water is due to presence of Ca and Mg salts which form scum with soap.\niv. The polar group in soaps is -COONa.",
+   "options": [
+    "(i), (ii) and (iv) only",
+    "(iii) and (iv) only",
+    "(i), (ii) and (iii) only",
+    "(i) and (ii) only"
+   ],
+   "figure": null,
+   "answer": "(d) (i) and (ii) only — both soaps and detergents are water soluble; soaps are biodegradable while detergents are generally not.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n\n| Column A | Column B |\n|---|---|\n| (i) The bond which holds cations and anions | (a) Ionic |\n| (ii) Self linking property of carbon | (b) Pyridine |\n| (iii) Denatured alcohol | (c) Catenation |\n| (iv) Synthetic detergents | (d) Non-biodegradable |",
+   "options": [
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)"
+   ],
+   "figure": null,
+   "answer": "(a) (i) - (a), (ii) - (c), (iii) - (b), (iv) - (d). Ionic bond holds cations and anions; catenation is self-linking of carbon; pyridine is added to alcohol to make it unfit for drinking; most synthetic detergents are non-biodegradable.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "The most malleable metals are:",
+   "options": [
+    "Silver and gold",
+    "Iron and gold",
+    "Copper and silver",
+    "Gold and copper"
+   ],
+   "figure": null,
+   "answer": "(a) Silver and gold.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "The number of covalent bond(s) present in a nitrogen molecule is/are: (Atomic number of nitrogen is 7)",
+   "options": [
+    "3",
+    "5",
+    "7",
+    "1"
+   ],
+   "figure": null,
+   "answer": "(a) 3 — N$\\equiv$N (each N has 5 valence electrons and shares three pairs).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Solid sodium bicarbonate was placed on a strip of pH paper. The colour of the strip",
+   "options": [
+    "turned light pink",
+    "did not change",
+    "turned green and suddenly yellow",
+    "turned blue"
+   ],
+   "figure": null,
+   "answer": "(b) did not change — solid NaHCO$_3$ does not change pH paper; it does so only in aqueous solution.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Assertion (A): Stannous chloride is a powerful oxidising agent which oxidises mercuric chloride to mercury.\nReason (R): Stannous chloride gives a grey precipitate with mercuric chloride, but stannic chloride does not do so.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true.",
+   "or": null,
+   "subparts": null,
+   "note": "Fits no chapter exactly (redox of tin/mercury chlorides); placed under Ch01 redox."
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "A soil sample solution was analyzed with universal pH indicator paper and the colour of the paper turned yellowish.\ni. What is the nature of soil?\nii. What type of substance should the farmer add to the soil in order to get a suitable soil for farming?",
+   "options": null,
+   "figure": null,
+   "answer": "i. The soil solution is acidic (higher H$^+$ ion concentration).\nii. The farmer should add basic substances such as slaked lime (calcium hydroxide) or quick lime (calcium oxide) to improve the productivity of the soil.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Give an example of each of the following :\ni. A carbon compound containing two double bonds.\nii. A molecule in which central atom is linked to three other atoms.\niii. An organic compound which is soluble in water.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Carbon dioxide ($\\mathrm{O=C=O}$).\nii. Ammonia ($\\mathrm{NH_3}$).\niii. Ammonium chloride (as given in the key; ethanol / ethanoic acid are also water-soluble organic compounds).",
+   "or": {
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "Write the names and structural formulae of all the possible isomers of hexane.",
+    "options": null,
+    "figure": null,
+    "answer": "The key shows only one structure, n-hexane: $\\mathrm{CH_3-CH_2-CH_2-CH_2-CH_2-CH_3}$ (drawn as a chain of six carbons, each bonded to hydrogens). (The five isomers of hexane are: n-hexane, 2-methylpentane, 3-methylpentane, 2,2-dimethylbutane and 2,3-dimethylbutane.)"
+   },
+   "subparts": null,
+   "note": "Key's answer to part iii (ammonium chloride) is not an organic compound; kept as printed."
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Samples of four metals A, B, C and D were taken and added to the following solution one by one. The results obtained have been tabulated as follows:\n\n| Metal | Iron(II) sulphate | Copper(II) sulphate | Zinc sulphate | Silver nitrate |\n|---|---|---|---|---|\n| A | No reaction | Displacement | — | — |\n| B | Displacement | — | No reaction | — |\n| C | No reaction | No reaction | No reaction | Displacement |\n| D | No reaction | No reaction | No reaction | No reaction |\n\nUse the table above to answer the following questions about metals A, B, C and D.\ni. Which is the most reactive metal?\nii. What would you observe if B is added to a solution of copper(II) sulphate?\niii. Arrange the metals A, B, C and D in the order of decreasing reactivity.",
+   "options": null,
+   "figure": null,
+   "answer": "i. B is the most reactive metal as it displaces the other metals from their salt solutions.\nii. B displaces copper from copper(II) sulphate, being more reactive than copper (the blue colour of the solution fades and reddish-brown copper is deposited).\niii. B > A > C > D.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Read the following text carefully and answer the questions that follow:\nThe strength of acid and base depends on the number of H$^+$ and the number of OH$^-$ respectively. If we take hydrochloric acid and acetic acid of the same concentration, say one molar, then these produce different amounts of hydrogen ions. Acids that give rise to more H$^+$ ions are said to be strong acids, and acids that give less H$^+$ ions are said to be weak acids. Can you now say what weak and strong bases are?",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Fresh milk has a pH of 6. How do you think the pH will change as it turns into curd?",
+     "marks": 1,
+     "options": null,
+     "answer": "The pH will decrease, because curd is acidic; the acids present in it lower the pH."
+    },
+    {
+     "text": "Is Gastric juice a weak acid?",
+     "marks": 1,
+     "options": null,
+     "answer": "No, gastric juice is a strong acid (pH about 1.2)."
+    },
+    {
+     "text": "Milk of magnesia is an acid or base? For what purpose it can be used?",
+     "marks": 2,
+     "options": null,
+     "answer": "Milk of magnesia is a base and it can be used as an antacid.",
+     "or": {
+      "text": "What is the pH value of saliva after the meal?",
+      "marks": 2,
+      "answer": "The pH of saliva after the meal is 5.8."
+     }
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "i. Identify the type of reactions taking place in each of the following cases and write the balanced chemical equations for the reactions\na. Barium chloride solution is mixed, with copper sulphate solution and a white precipitate is obtained.\nb. On heating copper powder in air, the surface of the copper powder turns black.\nii. What happens when hydrogen gas is passed over the heated copper oxide? Write the chemical equation involved in this reaction.",
+   "options": null,
+   "figure": null,
+   "answer": "i. a. $\\mathrm{BaCl_2(aq) + CuSO_4(aq) \\rightarrow BaSO_4(s) + CuCl_2(aq)}$ — double displacement (precipitation) reaction.\nb. $\\mathrm{2Cu(s) + O_2(g) \\xrightarrow{Heat} 2CuO(s)}$ — combination (oxidation) reaction; copper is oxidised.\nii. The black coating of copper oxide on the surface turns brown as copper is obtained: $\\mathrm{CuO(s) + H_2(g) \\xrightarrow{Heat} Cu(s) + H_2O(l)}$ (redox reaction).",
+   "or": {
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "A cloth strip dipped in onion juice is used for testing a liquid X. The liquid X changes its odour. Which type of an indicator is onion juice? The liquid X turns blue litmus red. List the observations the liquid X will show on reacting with the following:\ni. Zinc granules\nii. Solid sodium carbonate\nWrite the chemical equations for the reactions involved.",
+    "options": null,
+    "figure": null,
+    "answer": "Onion juice is an olfactory indicator (its odour changes in acid/base). Liquid X turns blue litmus red, so it is an acid.\ni. With zinc granules: hydrogen gas is evolved with effervescence; acid + Zn $\\rightarrow$ zinc salt + $\\mathrm{H_2}$ (e.g. $\\mathrm{Zn + 2HCl \\rightarrow ZnCl_2 + H_2}$).\nii. With solid sodium carbonate: carbon dioxide gas is evolved with brisk effervescence; acid + $\\mathrm{Na_2CO_3}$ $\\rightarrow$ sodium salt + $\\mathrm{H_2O + CO_2}$ (e.g. $\\mathrm{Na_2CO_3 + 2HCl \\rightarrow 2NaCl + H_2O + CO_2}$)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Electricity",
+   "text": "Find the incorrect statement:\nA. The direction of flow of negative charge was taken to be the direction of the electric current.\nB. The P. D. for all the resistors in the parallel circuit remains constant.\nC. The SI unit of electric charge is the coulomb.",
+   "options": [
+    "B and C",
+    "(A)",
+    "(C)",
+    "(B)"
+   ],
+   "figure": null,
+   "answer": "(b) (A) — as a convention, the direction of flow of positive charge was taken as the direction of electric current; electrons flow opposite to the conventional current.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "On regular reflection from the surface XY, the reflected ray will go along:",
+   "options": [
+    "B",
+    "D",
+    "A",
+    "C"
+   ],
+   "figure": "fig_p06_1.png",
+   "answer": "(b) D — on regular reflection $\\angle r = \\angle i$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "Assertion (A): Red light signals are used to stop the vehicles on the road.\nReason (R): Red coloured light is scattered the most so as to be visible from a large distance.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(c) A is true but R is false. Red light is scattered the least, which is why it is visible from a large distance.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "What is the function of an earth wire? Why is it necessary to earth metallic appliances?",
+   "options": null,
+   "figure": null,
+   "answer": "The earth wire is a safety measure, especially for appliances with a metallic body (electric press, fans, toaster, refrigerator etc.). The metallic body is connected to the earth wire, which provides an easy path for the current to go to the earth if the live wire accidentally touches the body of the appliance, so the user does not get a severe electric shock on touching a defective appliance.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "text": "Several electric bulbs designed to be used on a 220V electric supply line are rated 10W. How many lamps can be connected in parallel with each other across the two wires of 220V line if the maximum allowable current is 5A?",
+   "options": null,
+   "figure": null,
+   "answer": "Let the current through each bulb be I. $P = VI$, $10 = 220\\, I$, so $I = \\frac{1}{22}$ A. Let n bulbs be connected in parallel; total current $= n \\times \\frac{1}{22} = 5$ A, so $n = 110$. 110 such bulbs can be lighted within the allowable limit of 5 A.",
+   "or": {
+    "chapter": "Ch11_Electricity",
+    "text": "The values of the current I flowing in a given resistor for corresponding values of potential difference V across the resistor are given below:\n\n| I (amperes) | 0.5 | 1.0 | 2.0 | 3.0 | 4.0 |\n|---|---|---|---|---|---|\n| V (volts) | 1.6 | 3.4 | 6.7 | 10.2 | 13.2 |\n\nPlot a graph between V and I and calculate the resistance of that resistor.",
+    "options": null,
+    "figure": null,
+    "answer": "The graph of V against I is (almost) a straight line, so the slope of the line between any two points gives the resistance. Taking two points: $R = \\frac{V_2 - V_1}{I_2 - I_1}$ (key: $\\frac{BC}{AC}$ with the points chosen on the line) $= \\frac{12-1.6}{3.3-0.5} = \\frac{10.4}{2.8} = 3.7\\ \\Omega$ (graph given in the key)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "A doctor has prescribed a corrective lens of power +1.5 D. Find the focal length of the lens. Is the prescribed lens diverging or converging?",
+   "options": null,
+   "figure": null,
+   "answer": "$f = \\frac{1}{P} = \\frac{1}{1.5} = 0.67$ m. The lens is converging (convex), since the power is positive.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "Why do we observe difference in colours of the Sun during sunrise, sunset and noon?",
+   "options": null,
+   "figure": null,
+   "answer": "At sunrise and sunset the Sun is near the horizon and its light passes through a thicker layer of atmosphere; most of the blue light and shorter wavelengths are scattered away by the particles in the atmosphere, so the light reaching our eyes is of longer wavelength (red), giving the reddish appearance. At noon the Sun is nearly overhead, the light travels a much smaller distance through the atmosphere, scattering is much less and the Sun appears white.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "i. What should be the position of the object when a concave mirror is to be used\na. as a shaving mirror and\nb. in torches producing parallel beam of light?\nii. A man standing in front of a mirror, finds his image having a very small head and legs of normal size. What type of mirrors are used in designing such a mirror?",
+   "options": null,
+   "figure": null,
+   "answer": "i. a. The object should be between the pole and the focus.\nb. The source (bulb) should be at the focus.\nii. The upper part (small head) is a convex mirror and the lower part (legs of normal size) is a plane mirror.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Read the following text carefully and answer the questions that follow:\nAndre Marie Ampere suggested that a magnet must exert an equal and opposite force on a current-carrying conductor, which was experimentally found to be true. But we know that current is due to charges in motion. Thus, it is clear that a charge moving in a magnetic field experience a force, except when it is moving in a direction parallel to it. If the direction of motion is perpendicular to the direction of magnetic field, the magnitude of force experienced depends on the charge, velocity (v), strength of magnetic field (B), and sine of the angle between v and B. Direction of magnetic force is given by Fleming's left-hand rule.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "If an electron is travelling horizontally towards east. A magnetic field in vertically downward direction exerts a force on the electron along which direction?",
+     "marks": 1,
+     "options": null,
+     "answer": "Using Fleming's left-hand rule, the force on the electron is towards the south."
+    },
+    {
+     "text": "A charged particle is moving with velocity v in a magnetic field of induction B. The force on the particle will be maximum when",
+     "marks": 1,
+     "options": null,
+     "answer": "The force $F = qvB\\sin\\theta$ is maximum when $\\theta = 90^\\circ$, i.e. when the velocity is perpendicular to the magnetic field."
+    },
+    {
+     "text": "A uniform magnetic field exists in the plane of paper pointing from left to right as shown in figure. In the field, an electron and a proton move as shown. Where do the electron and the proton experience the force?",
+     "marks": 2,
+     "options": null,
+     "answer": "The direction of current is opposite to the motion of electrons, so the currents due to the electron (moving down) and the proton (moving up) are in the same direction, from bottom to top. By Fleming's left-hand rule, both the electron and the proton experience forces pointing into the plane of the paper.",
+     "figure": "fig_p08_0.png",
+     "or": {
+      "text": "An electron beam enters a magnetic field at right angles to it as shown in the figure. What would be the direction of force acting on the electron beam?",
+      "marks": 2,
+      "figure": "fig_p08_1.png",
+      "answer": "By Fleming's left-hand rule the force is perpendicular to both the magnetic field and the current (beam) direction, i.e. into the plane of the page."
+     }
+    }
+   ],
+   "figure_extra": "fig_p07_1.png"
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch11_Electricity",
+   "text": "What is meant by resistance of a conductor? Name and define its SI unit. List the factors on Which the resistance of a wire affected, if (i) its length is doubled, (ii) its radius is doubled?",
+   "options": null,
+   "figure": null,
+   "answer": "Resistance is the property of a conductor to oppose the flow of electric current through it. Its SI unit is the ohm ($\\Omega$): if a potential difference of 1 V across a conductor drives a current of 1 A, its resistance is 1 ohm.\n$R = \\frac{\\rho l}{A}$.\ni. If the length is doubled, $R' = \\frac{\\rho (2l)}{A} = 2R$: resistance is doubled.\nii. If the radius is doubled, $A = \\pi r^2$ becomes $\\pi (2r)^2 = 4\\pi r^2$, so $R' = \\frac{\\rho l}{4\\pi r^2} = \\frac{R}{4}$: resistance becomes one-fourth.",
+   "or": {
+    "chapter": "Ch11_Electricity",
+    "text": "i. What is meant by resistance of a conductor? Define its SI unit.\nii. List two factors on which the resistance of a rectangular conductor depends.\niii. How will the resistance of a wire be affected if its\nI. length is doubled, and\nII. radius is also doubled?\nGive justification for your answer.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Resistance is the quality of a conductor that opposes the flow of electric current; it is the ratio of the potential difference across its ends to the current flowing. The SI unit is the ohm ($\\Omega$).\nii. Length of the conductor and area of cross-section (also the material/resistivity and temperature).\niii. $R = \\frac{\\rho l}{A}$. I. If the length is doubled, $R_1 = \\frac{\\rho (2l)}{A} = 2R$, the resistance doubles. II. If the radius is doubled, $R_2 = \\frac{\\rho l}{\\pi(2r)^2} = \\frac{1}{4}R$, the resistance becomes one-fourth of the initial resistance."
+   },
+   "subparts": null
+  }
+ ]
+}

@@ -1,0 +1,713 @@
+{
+ "subject": "Science",
+ "paper": "Paper_08",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "One-cell thick blood vessels are known as:",
+   "options": [
+    "Veins",
+    "Arteries",
+    "Alveoli",
+    "Capillaries"
+   ],
+   "figure": null,
+   "answer": "(d) Capillaries",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "A cross between two tall pea plants resulted in offsprings having a few dwarf plants. The gene-combination of the parental plants must be",
+   "options": [
+    "Tt and Tt",
+    "Tt and tt",
+    "TT and tt",
+    "TT and Tt"
+   ],
+   "figure": null,
+   "answer": "(a) Tt and Tt",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "In an ecosystem, the amount of energy of sunlight captured by green plants to convert it into food energy is :",
+   "options": [
+    "90%",
+    "1%",
+    "99%",
+    "10%"
+   ],
+   "figure": null,
+   "answer": "(b) 1%",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Match the following with correct response.\n| Column A | Column B |\n|---|---|\n| (i) The largest part of the brain | (a) Cranial meninges |\n| (ii) The protective covering of the brain | (b) Spinal cord |\n| (iii) Forebrain | (c) Olfactory lobe |\n| (iv) Cerebellum | (d) Cerebrum |",
+   "options": [
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)"
+   ],
+   "figure": null,
+   "answer": "(d) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b). The cerebrum is the largest part of the brain; the cranial meninges protect the brain; the olfactory lobe is part of the forebrain; the cerebellum (hindbrain) regulates muscular activity and balance.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Green plants occupy the first trophic level in every food chain because they",
+   "options": [
+    "can synthesize food by photosynthesis.",
+    "exist over a large area.",
+    "have very less concentration of harmful chemicals.",
+    "have to feed large number of herbivores."
+   ],
+   "figure": null,
+   "answer": "(a) can synthesize food by photosynthesis.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Most of the digestion and absorption of the food takes place in the",
+   "options": [
+    "small intestine",
+    "stomach",
+    "large intestine",
+    "liver"
+   ],
+   "figure": null,
+   "answer": "(a) small intestine. Much of the digestion takes place here and its primary function is absorption of nutrients.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "The plant hormone present in greater concentration in the areas of rapidly dividing cells is:",
+   "options": [
+    "Gibberellins",
+    "Abscisic acid",
+    "Cytokinins",
+    "Auxin"
+   ],
+   "figure": null,
+   "answer": "(c) Cytokinins",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Assertion (A): Amoeba always produces two daughter amoebae while Plasmodium divides into many daughter cells.\nReason (R): Amoeba undergoes binary fission while Plasmodium undergoes multiple fission.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Assertion (A): Use of jute bags for shopping reduces pollution.\nReason (R): Jute is biodegradable and its bag may be reused as and when needed.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "a. List any two contraceptive methods practised only by women. Mention how these methods work.\nb. Write the two roles performed by testes in human males.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Oral pills/chemical method: change the hormonal balance so that eggs are not released. Loop/Copper-T: prevents pregnancy by checking the entry of sperms through the vagina. (Surgical method: does not allow the egg to reach the uterus.)\nb. Two roles of testes: (i) formation of sperms; (ii) secretion of the hormone testosterone.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "i. Write two harmful effects of using plastic bags on the environment. Suggest alternatives to the usage of plastic bags.\nii. List any two practices that can be followed to dispose off the waste produced in our homes.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Harmful effects of plastic bags: (a) Plastics do not undergo degradation, so they stay in the soil for many years, affecting soil fertility and degrading soil quality. (b) When plastic articles enter the drainage and sewerage system they block pipes and drains, causing water logging. (c) Littering of plastics in open spaces creates unhygienic conditions as it acts as a breeding ground for insects and mosquitoes. Alternative: reduce the use of plastic bags and carry jute bags and paper bags to carry items from the market.\nii. Disposal of household waste: (a) prepare a compost pit for kitchen waste; (b) safe disposal of plastic bags; (c) segregation of biodegradable and non-biodegradable wastes; (d) fruit peels can be placed near trees or plants, where on decomposition they enrich the soil with nutrients; (e) recycling of paper waste. (Any two)",
+   "or": {
+    "text": "a. Define ecosystem.\nb. Autotrophs are at the first level of food chain. Give reason.\nc. In a food chain of frogs, grass, insects and snakes assign trophic level to frogs. To which category of consumers do they belong to?",
+    "options": null,
+    "figure": null,
+    "answer": "a. Ecosystem: the interaction between living (biotic) and non-living (abiotic) components in an area/environment. Within an ecosystem energy flows through food webs and nutrients cycle through biogeochemical processes, sustaining life and maintaining ecological balance.\nb. Because autotrophs have the ability to trap solar energy and convert it into food by photosynthesis and transfer food energy to the next level in a food chain.\nc. Frogs: third trophic level; they are secondary consumers.",
+    "subparts": null,
+    "chapter": "Ch13_Our_Environment"
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Draw a diagram of neuron and name and label the part\na. where information is acquired,\nb. through which information travels as an electric impulse, and\nc. where the electric impulse must be converted into a chemical signal for onward transmission.",
+   "options": null,
+   "figure": null,
+   "answer": "Diagram: structure of a neuron (dendrites, cell body with nucleus, axon, nerve ending). a. Information is acquired at the end of the dendritic tip. b. Information travels as an electrical impulse through the axon. c. The impulse is converted into a chemical signal at the nerve ending (axon terminal/synapse).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "a. Name the two types of gametes produced by men.\nb. Does a male child inherit X chromosome from his father? Justify.\nc. How many types of gametes are produced by a human female?",
+   "options": null,
+   "figure": null,
+   "answer": "a. Sperm having X chromosome and sperm having Y chromosome.\nb. No. A male child gets only the Y chromosome from his father and the X chromosome from his mother, to have XY chromosomes.\nc. One type only (ovum/egg, all with X chromosome).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "a. Draw a diagram of human excretory system and label on it the following parts:\ni. Kidney\nii. Ureter\niii. Urinary bladder\niv. Urethra\nb. Write one main function each of the labelled parts.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Diagram of the human excretory system showing kidney, ureter, urinary bladder and urethra.\nb. Functions: Kidney: filtration of blood. Ureter: transports urine from kidney to bladder. Urinary bladder: stores urine. Urethra: throws out/excretes urine.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "text": "A student crossed pea plants having round and yellow seeds with pea plants having wrinkled and green seeds. He found that only one type of seeds were produced in the F₁ generation. When these F₁ generation pea plants were self-pollinated with each other, then in addition to the seed type of F₁ generation, some new types of seed combinations were also obtained in the F₂ generation.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "i. Which traits in the above mentioned cross are dominant traits?",
+     "marks": 1,
+     "options": null,
+     "answer": "Round and yellow are the dominant traits."
+    },
+    {
+     "text": "ii. What are the new possible combinations of seeds likely to be observed in F₂ generation?",
+     "marks": 1,
+     "options": null,
+     "answer": "The F₂ progeny of the dihybrid cross show four phenotypes; the new combinations are round green and wrinkled yellow (the other two are round yellow and wrinkled green)."
+    },
+    {
+     "text": "iii. Give reason why the traits which were not visible in the seeds of F₁ generation reappeared in the seeds of F₂ generation. Write the ratio of different types of seeds obtained in F₂ generation in this case.\nOR\nWhat is meant by the terms (I) dominant, and (II) recessive traits? Explain.",
+     "marks": 2,
+     "options": null,
+     "answer": "The traits not shown in F₁ were recessive traits. Recessive traits do not show their presence in the presence of dominant traits, but when the F₁ plants were self-crossed, the recessive alleles recombined in F₂ and the traits appeared. Ratio of seed types in F₂ = 9 : 3 : 3 : 1.\nOR\n(I) The trait that first appears/is visibly expressed in the organism is called the dominant trait. (II) The trait that is present at the gene level but is masked and does not show itself in the organism is called the recessive trait."
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "a. Name a unisexual and a bisexual flower.\nb. Define cross pollination. State how it is carried out.\nc. Observe the diagram given below and name the parts marked as A and B. Mention the function of each of these parts.",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "a. Unisexual: papaya/watermelon. Bisexual: hibiscus/mustard.\nb. The transfer of pollen grains from the anther of one flower to the stigma of another flower is called cross-pollination. It is carried out by pollinating agents like wind, water and animals.\nc. A: plumule - future shoot. B: radicle - future root.",
+   "or": {
+    "text": "i. Distinguish between hormonal co-ordination in plants and animals.\nii. Which part of the brain is responsible for -\n1. intelligence\n2. riding a bicycle\n3. vomiting\n4. controlling hunger\niii. How is brain and spinal-cord protected against mechanical injuries?",
+    "options": null,
+    "figure": null,
+    "answer": "i. Hormonal coordination in plants: by simple diffusion; no specialised glands involved. In animals: hormones are transported through blood to the target organ; hormones are released by endocrine glands.\nii. 1. Cerebrum/forebrain 2. Cerebellum/hindbrain 3. Medulla/hindbrain 4. Hypothalamus/forebrain.\niii. Brain is protected by the bony box/skull (cranium) and the fluid-filled balloon in the skull; the spinal cord is protected by the backbone/vertebral column.",
+    "subparts": null,
+    "chapter": "Ch06_Control_and_Coordination"
+   },
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Select the incorrect statement.\na. The formula of the compound is calcium sulphate dihydrate.\nb. When mixed with water and left for half an hour, this compound sets into a hard mass.\nc. If heated at higher temperature, the compound becomes dehydrated and is called dead burnt plaster.\nd. Both (a) and (b)",
+   "options": [
+    "Statement (d) is incorrect.",
+    "Statement (a) is incorrect.",
+    "Statement (b) is incorrect.",
+    "Statement (c) is incorrect."
+   ],
+   "figure": null,
+   "answer": "(c) Statement (b) is incorrect. (As printed in the official key.)",
+   "or": null,
+   "subparts": null,
+   "note": "Printed key gives (c); the compound (plaster of Paris) is a hemihydrate so statement (a) looks to be the incorrect one - key may be in error. No compound is named in the question text."
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Soap doesn't work well with woollen garments because:\nA. It is basic in nature and woollen garments have acidic dyes.\nB. It is acidic in nature and woollen garments have basic dyes.",
+   "options": [
+    "(A)",
+    "(B)",
+    "None of these",
+    "Both (A) and (B)"
+   ],
+   "figure": null,
+   "answer": "(a) (A). Soap is basic in nature; acid dyes are used to dye protein fibres such as wool and silk, so the soap gets neutralised by the acidic dyes.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "The metals which are found in both free state as well as combined state are:",
+   "options": [
+    "Gold and silver",
+    "Gold and platinum",
+    "Platinum and silver",
+    "Copper and silver"
+   ],
+   "figure": null,
+   "answer": "(d) Copper and silver",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n| Column A | Column B |\n|---|---|\n| (i) Welding | (a) Ethyl alcohol |\n| (ii) Fuel in a spirit lamp | (b) Ester |\n| (iii) Lime water turns milky | (c) Carbon dioxide |\n| (iv) Fruity smell | (d) Ethyne and oxygen |",
+   "options": [
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)"
+   ],
+   "figure": null,
+   "answer": "(d) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b). Oxyacetylene welding uses ethyne and oxygen; spirit lamp fuel is (denatured) ethyl alcohol; CO₂ turns lime water milky; esters have a fruity smell.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "The property of metal by which it can be drawn into wires is called:",
+   "options": [
+    "Ductility",
+    "Sonorous",
+    "Conductivity",
+    "Malleability"
+   ],
+   "figure": "fig_p04_0.png",
+   "answer": "(a) Ductility",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which one of the following hydrocarbons is different from the others?",
+   "options": [
+    "C₂H₆",
+    "C₇H₁₄",
+    "C₄H₁₀",
+    "C₅H₁₂"
+   ],
+   "figure": null,
+   "answer": "(b) C₇H₁₄ (it fits the general formula CₙH₂ₙ, while the others are alkanes CₙH₂ₙ₊₂).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "The name of the salt used to remove permanent hardness of water is:",
+   "options": [
+    "Calcium sulphate hemihydrate (CaSO₄·½H₂O)",
+    "Sodium carbonate decahydrate (Na₂CO₃·10H₂O)",
+    "Sodium hydrogen carbonate (NaHCO₃)",
+    "Sodium chloride (NaCl)"
+   ],
+   "figure": null,
+   "answer": "(b) Sodium carbonate decahydrate (Na₂CO₃·10H₂O) (washing soda). It forms insoluble carbonates with the salts causing hardness, which are easily removed.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Assertion (A): pH of ammonium nitrate solution is acidic.\nReason (R): Solution of a salt of weak base and strong acid is acidic.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Ammonium nitrate is a salt of ammonium hydroxide (weak base) and nitric acid (strong acid).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "A white saree has a yellow stain of curry. When soap is rubbed on this shirt during washing, the yellow stain turns reddish-brown. On rinsing the saree with plenty of water, the reddish-brown stain turns yellow again.\na. Name the natural indicator present in curry stain.\nb. Explain the changes in colour of this indicator which take place during washing and rinsing the saree.",
+   "options": null,
+   "figure": null,
+   "answer": "a. The curry stain contains turmeric, which is a natural indicator of acids and bases.\nb. Soap solution is basic in nature, so on washing the stain turns reddish-brown. On rinsing with water the soap is washed off and in the absence of the base the colour changes back to yellow.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "i. Define the term decomposition reaction. Write one chemical equation each for decomposition reaction where energy is supplied in the form of heat, light or electricity.\nii. Decomposition of vegetable matter into compost is considered an exothermic reaction. Why?",
+   "options": null,
+   "figure": null,
+   "answer": "i. A reaction in which a single reactant breaks down to give two or more products is a decomposition reaction.\nHeat: CaCO₃(s) → CaO(s) + CO₂(g)\nLight: 2AgCl(s) → 2Ag(s) + Cl₂(g)\nElectricity: 2H₂O(l) → 2H₂(g) + O₂(g)\nii. Because energy (heat) is released during the decomposition.",
+   "or": {
+    "text": "Give the characteristic tests for the following gases\ni. CO₂\nii. SO₂\niii. O₂\niv. H₂",
+    "options": null,
+    "figure": null,
+    "answer": "i. CO₂: turns lime water milky due to formation of insoluble calcium carbonate. Ca(OH)₂ + CO₂ → CaCO₃ + H₂O.\nii. SO₂: when passed through acidified potassium permanganate solution (purple) it turns it colourless, because SO₂ is a strong reducing agent. 2KMnO₄ + 2H₂O + 5SO₂ → K₂SO₄ + 2MnSO₄ + 2H₂SO₄.\niii. O₂: a burning candle brought near the mouth of the test tube burns with increased intensity of flame because oxygen supports burning.\niv. H₂: burns with a squeaky pop sound when a burning candle is brought near the mouth of the test tube.",
+    "subparts": null,
+    "chapter": "Ch01_Chemical_Reactions_and_Equations"
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "la",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Design an activity to show that metals are good conductors of heat and have high melting points.",
+   "options": null,
+   "figure": null,
+   "answer": "Take an aluminium or copper wire and clamp it on a stand. Fix a pin to the free end of the wire using wax. Heat the wire with a spirit lamp or burner near the place where it is clamped. Observation: the pin falls when the wax melts, but the wire does not melt. This shows that metals are good conductors of heat and have high melting points.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Redox reactions are those reactions in which oxidation and reduction occur simultaneously. A redox reaction is made up of two half reactions. In the first half reaction, oxidation takes place and in second half reaction, reduction occurs. Oxidation is a process in which a substance loses electrons and in reduction, a substance gains electrons. The substance which gains electrons is reduced and acts as an oxidising agent. On the other hand, a substance which loses electrons is oxidised and acts as a reducing agent.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "i. Illustrate where oxidation and reduction occurs together with an example?",
+     "marks": 1,
+     "options": null,
+     "answer": "Oxidation and reduction occurring together is called a redox reaction. Example: CuO + H₂ → Cu + H₂O; here copper oxide is reduced to copper whereas hydrogen is oxidised to water."
+    },
+    {
+     "text": "ii. What do you mean by oxidising agent and reducing agent?",
+     "marks": 1,
+     "options": null,
+     "answer": "An oxidising agent gives oxygen to (or removes hydrogen from) other substances, i.e. it gains electrons and is itself reduced. A reducing agent loses (donates) electrons to another species in a redox reaction and is itself oxidised."
+    },
+    {
+     "text": "iii. For the given reaction, identify the oxidation and reduction parts.\nZnO + CO → Zn + CO₂\nOR\nIn the following reaction, which substance is reduced?\nPbS + 4H₂O₂ → PbSO₄ + 4H₂O",
+     "marks": 2,
+     "options": null,
+     "answer": "ZnO is reduced to Zn and CO is oxidised to CO₂.\nOR\nH₂O₂ is reduced to water (by removal of oxygen)."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "A saturated organic compound 'A' with two carbon atoms belongs to the homologous series of alcohols. On oxidation, it forms an organic acid 'B' with molecular mass 60 u. On heating 'A' with excess concentrated sulphuric acid at 443 K, an unsaturated hydrocarbon 'C' is formed.\ni. Name A, B and C.\nii. Calculate molecular mass of C.\niii. What happens when a pinch of sodium carbonate is added to compound B? Write chemical equation for the reaction.\niv. Draw electron dot structure of compound B.",
+   "options": null,
+   "figure": null,
+   "answer": "i. A = ethanol (ethyl alcohol, C₂H₅OH); B = ethanoic acid (acetic acid, CH₃COOH); C = ethene (C₂H₄, CH₂=CH₂).\nii. Molecular mass of ethene = 12 × 2 + 1 × 4 = 24 + 4 = 28 u.\niii. Brisk effervescence is observed (CO₂ is evolved). 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂.\niv. Electron dot structure of ethanoic acid (CH₃COOH): the carbon of CH₃ shares one pair with each of three H and one pair with the carboxyl carbon; the carboxyl carbon has a double bond (two shared pairs) to one O and a single bond (one shared pair) to O-H; the OH oxygen shares one pair with H, and each oxygen carries lone pairs to complete its octet. (Diagram not reproduced.)",
+   "or": {
+    "text": "i. What is a homologous series of carbon compounds? Write general formula for alkynes. Name and draw the electron dot structure of first homologue of this series.\nii. State the meaning of the functional group in an organic compound. Write the formula of the functional group present in alcohols and carboxylic acids.",
+    "options": null,
+    "figure": null,
+    "answer": "i. A homologous series is a series of compounds with the same general formula and the same functional group that differ only in the carbon chain length by a CH₂ unit, with comparable chemical and physical properties. General formula of alkynes: CₙH₂ₙ₋₂. First homologue: ethyne (C₂H₂), electron dot structure H:C:::C:H (three shared pairs between the carbons, one shared pair with each H).\nii. A functional group is an atom or group of atoms which makes carbon compounds reactive and decides their properties. Alcohols: -OH. Carboxylic acids: -COOH.",
+    "subparts": null,
+    "chapter": "Ch04_Carbon_and_its_Compounds"
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Find the incorrect statement:\nA. Convex mirrors are used by the dentist to see the large images of teeth of patients.\nB. Convex mirrors are used as rear-view mirrors in cars, motorcycles, scooters, etc\nC. Concave mirrors are used for shaving purpose.\nD. Concave mirrors are used by doctors to focus light inside the ear or inside the mouth for medical examination.",
+   "options": [
+    "(B)",
+    "(C)",
+    "(A)",
+    "(D)"
+   ],
+   "figure": null,
+   "answer": "(c) (A). Concave mirrors (not convex) are used by dentists since they form enlarged images; convex mirrors form diminished images and give a wide field of view, hence are used as rear-view mirrors.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "In the following diagram showing dispersion of white light by a glass prism, the colours P and Q respectively are-",
+   "options": [
+    "Violet and Red",
+    "Orange and Green",
+    "Red and Blue",
+    "Red and Violet"
+   ],
+   "figure": "fig_p06_0.png",
+   "answer": "(a) Violet and Red. Violet is deviated the most and red the least by the prism.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Assertion (A): Magnetic field interacts with a moving charge and not with a stationary charge.\nReason (R): A moving charge produces a magnetic field.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "A student cannot see clearly a chart hanging on a wall placed at a distance 3 m from his eye.\na. Name the defect of vision he is suffering from.\nb. Draw a ray diagram to illustrate this defect.\nc. List its two possible causes.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Myopia (short-sightedness): inability to see distant objects clearly; the image falls in front of the retina.\nb. Ray diagram: rays from a distant object are focused in front of the retina of the myopic eye (far point nearer than infinity).\nc. Causes: (i) excessive curvature of the cornea/eye lens; (ii) elongation of the eyeball.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch11_Electricity",
+   "text": "a. Write the mathematical expression for Joule's law of heating.\nb. Compute the heat generated while transferring 96000 coulomb of charge in two hours through a potential difference of 40 V.",
+   "options": null,
+   "figure": null,
+   "answer": "a. H = I²Rt, where H is the heat produced, I the current, R the resistance and t the time.\nb. Q = 96000 C, t = 2 h = 2 × 60 × 60 = 7200 s, V = 40 V. H = VIt = VQ (since I = Q/t) = 40 × 96000 = 3.84 × 10⁶ J.",
+   "or": {
+    "text": "In the circuit given below, the resistors R₁, R₂ and R₃ have the values 10 Ω, 20 Ω and 30 Ω respectively, which have been connected to a battery of 12 V. Calculate\na. the current through each resistor,\nb. the total circuit resistance, and\nc. the total current in the circuit.",
+    "options": null,
+    "figure": "fig_p07_0.png",
+    "answer": "R₁ = 10 Ω, R₂ = 20 Ω, R₃ = 30 Ω (in parallel across 12 V).\na. I₁ = V/R₁ = 12/10 = 1.2 A; I₂ = 12/20 = 0.6 A; I₃ = 12/30 = 0.4 A.\nb. 1/R = 1/10 + 1/20 + 1/30 = 11/60, so R = 60/11 = 5.45 Ω.\nc. Total current I = I₁ + I₂ + I₃ = 1.2 + 0.6 + 0.4 = 2.2 A.",
+    "subparts": null,
+    "chapter": "Ch11_Electricity"
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Answer the following questions for a case in which a current carrying conductor is placed in a uniform magnetic field:\na. List three factors on which the magnitude of the force acting on the conductor depends.\nb. When is the magnitude of force on the conductor maximum?\nc. Name the rule which helps in determining the direction of force on the conductor and give its one application.",
+   "options": null,
+   "figure": null,
+   "answer": "a. (i) Magnitude of current; (ii) strength of the magnetic field; (iii) orientation of the conductor in the magnetic field; (iv) length of the conductor. (Any three)\nb. When the current carrying conductor is placed at right angles (perpendicular) to the direction of the magnetic field.\nc. Fleming's left-hand rule. Application: electric motor/microphone/generator (any one).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "How can changes of size of eyeball be one of the reason for\ni. myopic and\nii. hypermetropic eye?\nCompare the size of eyeball with that of a normal eye in each case. How does this changes of size affect the position of image in each case?",
+   "options": null,
+   "figure": null,
+   "answer": "i. The myopic eye has a longer eyeball than the normal eye, so the retina is at a larger distance from the eye lens; the image is formed before (in front of) the retina rather than on it.\nii. The hypermetropic eye has a shorter eyeball than the normal eye, so the retina is at a smaller distance from the eye lens; the image is formed behind the retina and not on it.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "a. Draw the pattern of magnetic field lines around a bar magnet. Mark the position of North Pole, South Pole and the places where the magnetic field is strongest.\nb. Why do the magnetic field lines not intersect each other?",
+   "options": null,
+   "figure": null,
+   "answer": "a. Diagram: closed field lines emerging from the north pole and entering the south pole outside the magnet (inside, from S to N); the field is strongest near the two poles where the lines are closest.\nb. If two field lines intersected, there would be two directions of the field at the point of intersection, which is not possible. Hence field lines never cross each other.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "text": "How do we express electric current? Electric current is defined by the amount of charge flowing through a particular area in unit time. In other words, it is the rate of flow of electric charges. In circuits using metallic wires, electrons constitute the flow of charges. However, electrons were not known at the time when the phenomenon of electricity was first observed. So, electric current was considered to be the flow of positive charges and the direction of flow of positive charges was taken to be the direction of electric current. Conventionally, in an electric circuit, the direction of electric current is taken as opposite to the direction of the flow of electrons, which are negative charges.",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "i. If a net charge Q, flows across any cross-section of a conductor in time t, then the current I, through the cross-section is given by which formula?",
+     "marks": 1,
+     "options": null,
+     "answer": "I = Q/t"
+    },
+    {
+     "text": "ii. What is the SI unit of electric charge? It is equivalent to how many numbers of electrons?",
+     "marks": 1,
+     "options": null,
+     "answer": "The SI unit of electric charge is the coulomb (C), equivalent to the charge contained in nearly 6 × 10¹⁸ electrons."
+    },
+    {
+     "text": "iii. The electric current is expressed in which unit? Define the unit used to measure electric current.\nOR\nIf the amount of charge passing through the cell in 4 seconds is 12 C then find the current supplied by a cell.",
+     "marks": 2,
+     "options": null,
+     "answer": "The unit of current is the ampere (A). One ampere is the current constituted by the flow of one coulomb of charge per second.\nOR\nI = Q/t = 12/4 = 3 A."
+    }
+   ]
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "The variation of image distance (v) with object distance (u) for a convex lens is given in the following observation table. Analyse it and answer the questions that follow:\n| S. No. | Object distance (u) cm | Image distance (v) cm |\n|---|---|---|\n| 1 | -150 | +30 |\n| 2 | -75 | +37.5 |\n| 3 | -50 | +50 |\n| 4 | -37.5 | +75 |\n| 5 | -30 | +150 |\n| 6 | -15 | +37.5 |\ni. Without calculation, find the focal length of the convex lens. Justify your answer.\nii. Which observation is not correct? Why? Draw ray diagram to find the position of the image formed for this position of the object.\niii. Find the approximate value of magnification for u = -30 cm.",
+   "options": null,
+   "figure": null,
+   "answer": "i. In observation 3, u = v = 50 cm, so the object is at 2F (2f = 50 cm), hence f = 25 cm. Justification: when the object and image distances are equal the object is placed at 2F.\nii. Observation 6 is not correct. For u = -15 cm (object within the focal length) the image is virtual and formed on the same side of the lens as the object, so v must be negative. (Ray diagram: object between F and optical centre; the diverging refracted rays appear to come from a virtual, erect, magnified image on the same side.)\niii. m = v/u = +150/(-30) = -5.",
+   "or": {
+    "text": "i. Define principal axis of a lens. Draw a ray diagram to show what happens when a ray of light parallel to the principal axis of a concave lens passes through it.\nii. The focal length of a concave lens is 20 cm. At what distance from the lens should a 5 cm tall object be placed so that its image is formed at a distance of 15 cm from the lens? Also calculate the size of the image formed.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Principal axis: an imaginary line passing through the two centres of curvature of a lens. A ray parallel to the principal axis, after refraction through a concave lens, diverges so that it appears to come from the principal focus on the same side.\nii. f = -20 cm, h = 5 cm, v = -15 cm. 1/u = 1/v - 1/f = 1/(-15) - 1/(-20) = -1/60, so u = -60 cm; the object is at a distance of 60 cm from the lens. Magnification m = h'/h = v/u, so h' = (v/u) x h = (-15)/(-60) x 5 = 1.25 cm.",
+    "subparts": null,
+    "chapter": "Ch09_Light_Reflection_and_Refraction"
+   },
+   "subparts": null
+  }
+ ]
+}

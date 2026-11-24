@@ -1,0 +1,84 @@
+Maths items 484
+Ch01_Real_Numbers 38 -> 34 questions 62 marks
+Ch02_Polynomials 25 -> 25 questions 53 marks
+Ch03_Pair_of_Linear_Equations_in_Two_Variables 30 -> 30 questions 80 marks
+Ch04_Quadratic_Equations 37 -> 37 questions 109 marks
+Ch05_Arithmetic_Progressions 35 -> 35 questions 80 marks
+Ch06_Triangles 36 -> 35 questions 77 marks
+Ch07_Coordinate_Geometry 38 -> 38 questions 77 marks
+Ch08_Introduction_to_Trigonometry 52 -> 52 questions 98 marks
+Ch09_Some_Applications_of_Trigonometry 22 -> 22 questions 72 marks
+Ch10_Circles 45 -> 44 questions 93 marks
+Ch11_Areas_Related_to_Circles 37 -> 37 questions 60 marks
+Ch12_Surface_Areas_and_Volumes 32 -> 32 questions 106 marks
+Ch13_Statistics 31 -> 31 questions 85 marks
+Ch14_Probability 26 -> 26 questions 31 marks
+test SecA_1mark_MCQ_and_AR 1 80 questions
+test SecA_1mark_MCQ_and_AR 2 80 questions
+test SecB_2mark 1 40 questions
+test SecC_3mark 1 27 questions
+test SecC_3mark 2 27 questions
+test SecC_3mark 3 27 questions
+test SecD_5mark 1 16 questions
+test SecD_5mark 2 16 questions
+test SecD_5mark 3 16 questions
+test SecD_5mark 4 16 questions
+test SecE_Case_Based_4mark 1 20 questions
+Science items 497
+Ch01_Chemical_Reactions_and_Equations 31 -> 31 questions 94 marks
+Ch02_Acids_Bases_and_Salts 50 -> 42 questions 80 marks
+Ch03_Metals_and_Non-metals 36 -> 36 questions 68 marks
+Ch04_Carbon_and_its_Compounds 51 -> 49 questions 123 marks
+Ch05_Life_Processes 38 -> 37 questions 75 marks
+Ch06_Control_and_Coordination 41 -> 41 questions 94 marks
+Ch07_How_do_Organisms_Reproduce 37 -> 37 questions 84 marks
+Ch08_Heredity 33 -> 32 questions 76 marks
+Ch09_Light_Reflection_and_Refraction 36 -> 32 questions 109 marks
+Ch10_Human_Eye_and_Colourful_World 28 -> 26 questions 60 marks
+Ch11_Electricity 40 -> 38 questions 104 marks
+Ch12_Magnetic_Effects_of_Current 27 -> 27 questions 65 marks
+Ch13_Our_Environment 49 -> 49 questions 73 marks
+test Case_Based 1 21 questions
+test SecA_Biology 1 38 questions
+test SecA_Biology 2 40 questions
+test SecA_Biology 3 44 questions
+test SecA_Biology 4 36 questions
+test SecB_Chemistry 1 34 questions
+test SecB_Chemistry 2 39 questions
+test SecB_Chemistry 3 43 questions
+test SecC_Physics 1 29 questions
+test SecC_Physics 2 34 questions
+test SecC_Physics 3 32 questions
+SST items 483
+Ch01_History_Rise_of_Nationalism_in_Europe 48 -> 46 questions 130 marks
+Ch02_History_Nationalism_in_India 43 -> 42 questions 103 marks
+Ch03_History_Making_of_a_Global_World 13 -> 13 questions 22 marks
+Ch05_History_Print_Culture 27 -> 26 questions 62 marks
+Ch06_Geography_Resources_and_Development 20 -> 20 questions 26 marks
+Ch07_Geography_Forest_and_Wildlife 14 -> 10 questions 13 marks
+Ch08_Geography_Water_Resources 17 -> 15 questions 24 marks
+Ch09_Geography_Agriculture 21 -> 21 questions 32 marks
+Ch10_Geography_Minerals_and_Energy 30 -> 30 questions 107 marks
+Ch11_Geography_Manufacturing_Industries 21 -> 20 questions 75 marks
+Ch12_Geography_Lifelines_of_National_Economy 1 -> 1 questions 5 marks
+Ch13_PolSci_Power_sharing 19 -> 18 questions 36 marks
+Ch14_PolSci_Federalism 20 -> 19 questions 47 marks
+Ch15_PolSci_Gender_Religion_and_Caste 13 -> 13 questions 24 marks
+Ch16_PolSci_Political_Parties 29 -> 27 questions 94 marks
+Ch17_PolSci_Outcomes_of_Democracy 28 -> 28 questions 66 marks
+Ch18_Economics_Development 19 -> 16 questions 34 marks
+Ch19_Economics_Money_and_Credit 35 -> 35 questions 69 marks
+Ch20_Economics_Globalisation_and_Indian_Economy 24 -> 23 questions 43 marks
+Ch22_Sectors_of_the_Indian_Economy 41 -> 41 questions 106 marks
+test SecA_History 1 32 questions
+test SecA_History 2 33 questions
+test SecA_History 3 36 questions
+test SecB_Geography 1 37 questions
+test SecB_Geography 2 34 questions
+test SecB_Geography 3 34 questions
+test SecC_Political_Science 1 35 questions
+test SecC_Political_Science 2 33 questions
+test SecC_Political_Science 3 26 questions
+test SecD_Economics 1 38 questions
+test SecD_Economics 2 39 questions
+test SecD_Economics 3 30 questions

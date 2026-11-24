@@ -1,0 +1,706 @@
+{
+ "subject": "Maths",
+ "paper": "Paper_01",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "$(2 - 5\\sqrt{3})^2$ is",
+   "options": [
+    "a rational number",
+    "a negative integer",
+    "an irrational number",
+    "a positive integer"
+   ],
+   "figure": null,
+   "answer": "(c) an irrational number — $(2-5\\sqrt{3})^2 = 4 + 75 - 20\\sqrt{3} = 79 - 20\\sqrt{3}$, which is irrational.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "HCF of $(2^3 \\times 3^2 \\times 5)$, $(2^2 \\times 3^3 \\times 5^2)$ and $(2^4 \\times 3 \\times 5^3 \\times 7)$ is",
+   "options": [
+    "105",
+    "30",
+    "60",
+    "48"
+   ],
+   "figure": null,
+   "answer": "(c) 60 — HCF = product of the smallest power of each common prime factor $= 2^2 \\times 3 \\times 5 = 60$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "If one root of the polynomial $f(x) = 5x^2 + 13x + k$ is reciprocal of the other, then the value of k is",
+   "options": [
+    "$\\frac{1}{6}$",
+    "0",
+    "5",
+    "6"
+   ],
+   "figure": null,
+   "answer": "(c) 5 — Product of roots $= \\frac{k}{5}$. Since the roots are reciprocals, product $= 1$, so $1 = \\frac{k}{5} \\Rightarrow k = 5$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "A quadratic polynomial having zeroes 7 and 0 is:",
+   "options": [
+    "$x(x^2 - 7)$",
+    "$7x^2 - 1$",
+    "$\\frac{1}{7}(x^2 - x)$",
+    "$7(x^2 - 7x)$"
+   ],
+   "figure": null,
+   "answer": "(d) $7(x^2 - 7x)$ — It has zeroes 0 and 7 (sum 7, product 0).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "The pair of linear equations $9x - 15y + 19 = 0$ and $5y - 3x - 9 = 0$ represents two lines which are:",
+   "options": [
+    "intersecting exactly at two points.",
+    "parallel.",
+    "intersecting exactly at one point.",
+    "coincident."
+   ],
+   "figure": null,
+   "answer": "(b) parallel — The second equation is $-3x + 5y - 9 = 0$, i.e. $9x - 15y + 27 = 0$. Here $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{9}{9} = 1 \\neq \\frac{c_1}{c_2} = \\frac{19}{27}$, so the lines are parallel.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "If $\\frac{2x}{3} - \\frac{y}{2} + \\frac{1}{6} = 0$ and $\\frac{x}{2} + \\frac{2y}{3} = 3$ then",
+   "options": [
+    "x = -2, y = 3",
+    "x = -2, y = -3",
+    "x = 2, y = 3",
+    "x = 2, y = -3"
+   ],
+   "figure": null,
+   "answer": "(c) x = 2, y = 3 — The equations are $\\frac{2x}{3} - \\frac{y}{2} = -\\frac{1}{6}$ ... (i) and $\\frac{x}{2} + \\frac{2y}{3} = 3$ ... (ii). Multiplying both by 6: $4x - 3y = -1$ ... (iii) and $3x + 4y = 18$ ... (iv). Multiplying (iii) by 4 and (iv) by 3 and adding: $16x + 9x = -4 + 54 \\Rightarrow x = \\frac{50}{25} = 2$. Putting in (iv): $6 + 4y = 18 \\Rightarrow y = 3$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "Roots of the quadratic equation $x^2 + x - (a+1)(a+2) = 0$ are ________.",
+   "options": [
+    "$(a+1)$, $-(a+2)$",
+    "$(a+1)$, $(a+2)$",
+    "$-(a+1)$, $(a+2)$",
+    "$-(a+1)$, $-(a+2)$"
+   ],
+   "figure": null,
+   "answer": "(a) $(a+1)$, $-(a+2)$ — $x^2 + (a+2)x - (a+1)x - (a+1)(a+2) = 0 \\Rightarrow x(x + (a+2)) - (a+1)(x + (a+2)) = 0 \\Rightarrow (x - (a+1))(x + (a+2)) = 0$. So $x = (a+1)$ or $x = -(a+2)$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "The value of k for which the roots of the quadratic equation $6x^2 + 4kx + k = 0$ are real and equal, is",
+   "options": [
+    "$\\frac{2}{3}$",
+    "0",
+    "$\\frac{-3}{2}$",
+    "$\\frac{3}{4}$"
+   ],
+   "figure": null,
+   "answer": "(b) 0 — (answer as given in the paper; for $D = 16k^2 - 24k = 0$ the values are $k = 0$ or $k = \\frac{3}{2}$, and only $k = 0$ appears among the options.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "The $6^{th}$ term of the AP $\\sqrt{27}, \\sqrt{75}, \\sqrt{147}, \\ldots$ is:",
+   "options": [
+    "$\\sqrt{300}$",
+    "$\\sqrt{507}$",
+    "$\\sqrt{243}$",
+    "$\\sqrt{363}$"
+   ],
+   "figure": null,
+   "answer": "(b) $\\sqrt{507}$ — The AP is $3\\sqrt{3}, 5\\sqrt{3}, 7\\sqrt{3}, \\ldots$ with $a = 3\\sqrt{3}$, $d = 2\\sqrt{3}$. $a_6 = 3\\sqrt{3} + 5(2\\sqrt{3}) = 13\\sqrt{3} = \\sqrt{507}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "The sum of first n terms of an AP is $(3n^2 + 6n)$. The common difference of the AP is",
+   "options": [
+    "6",
+    "9",
+    "15",
+    "-3"
+   ],
+   "figure": null,
+   "answer": "(a) 6 — $T_1 = S_1 = 3 + 6 = 9$. $S_2 = 3(4) + 12 = 24$, so $T_2 = S_2 - S_1 = 15$. Hence $d = T_2 - T_1 = 15 - 9 = 6$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "Which of the following statements is false?",
+   "options": [
+    "Two right triangles are always similar.",
+    "Two circles are always similar.",
+    "Two equilateral triangles are always similar.",
+    "Two squares are always similar."
+   ],
+   "figure": null,
+   "answer": "(a) Two right triangles are always similar.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "ABCD is a trapezium such that BC || AD and AB = 4 cm. If the diagonals AC and BD intersect at O such that $\\frac{AO}{OC} = \\frac{DO}{OB} = \\frac{1}{2}$ then, find DC.",
+   "options": [
+    "8 cm",
+    "9 cm",
+    "6 cm",
+    "7 cm"
+   ],
+   "figure": null,
+   "answer": "(a) 8 cm — (as given in the paper) In $\\triangle AOB$ and $\\triangle COD$, $\\angle AOB = \\angle COD$ (vertically opposite angles) and $\\frac{AO}{OC} = \\frac{DO}{OB}$ (given), so by SAS similarity $\\triangle AOB \\sim \\triangle COD$, giving $\\frac{AO}{OC} = \\frac{BO}{OD} = \\frac{AB}{DC} \\Rightarrow \\frac{1}{2} = \\frac{4}{DC} \\Rightarrow DC = 8$ cm.",
+   "or": null,
+   "subparts": null,
+   "note": "Doubtful question/solution: the printed solution mixes DO/OB with BO/OD (the SAS step is not valid as written; with BC || AD the similar pair is AOD and COB). The paper's given answer (a) 8 cm is kept."
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "The distance between the points (0, 5) and (-3, 1) is:",
+   "options": [
+    "25 units",
+    "8 units",
+    "5 units",
+    "3 units"
+   ],
+   "figure": null,
+   "answer": "(c) 5 units — $\\sqrt{(-3-0)^2 + (1-5)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$ units.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "If the mid-point of the line segment joining A(2a, 4) and B(-2, 3b) is M(1, 2a + 1), then the values of a and b respectively are",
+   "options": [
+    "2, 3",
+    "5, 2",
+    "2, 2",
+    "3, 2"
+   ],
+   "figure": null,
+   "answer": "(c) 2, 2 — Mid-point of AB is $\\left(\\frac{2a-2}{2}, \\frac{4+3b}{2}\\right) = \\left(a-1, \\frac{4+3b}{2}\\right)$. Equating with M(1, 2a+1): $a - 1 = 1 \\Rightarrow a = 2$ ... (i); $\\frac{4+3b}{2} = 2a + 1 \\Rightarrow 4 + 3b = 4a + 2 = 10 \\Rightarrow b = 2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $4\\tan\\theta = 3$, then $\\frac{4\\sin\\theta - \\cos\\theta}{4\\sin\\theta + \\cos\\theta}$ is equal to",
+   "options": [
+    "$\\frac{1}{3}$",
+    "$\\frac{3}{4}$",
+    "$\\frac{1}{2}$",
+    "$\\frac{2}{3}$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\frac{1}{2}$ — Dividing numerator and denominator by $\\cos\\theta$: $\\frac{4\\tan\\theta - 1}{4\\tan\\theta + 1} = \\frac{3-1}{3+1} = \\frac{2}{4} = \\frac{1}{2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $16\\cot x = 12$, then $\\frac{\\sin x - \\cos x}{\\sin x + \\cos x}$ equals.",
+   "options": [
+    "$\\frac{2}{7}$",
+    "$\\frac{1}{7}$",
+    "$\\frac{3}{7}$",
+    "0"
+   ],
+   "figure": null,
+   "answer": "(b) $\\frac{1}{7}$ — $\\cot x = \\frac{12}{16} = \\frac{3}{4}$. Dividing by $\\sin x$: $\\frac{1 - \\cot x}{1 + \\cot x} = \\frac{1 - \\frac{3}{4}}{1 + \\frac{3}{4}} = \\frac{1/4}{7/4} = \\frac{1}{7}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, a circle inscribed in $\\triangle ABC$, touches AB, BC and CA at X, Z and Y, respectively. If $AB = 12$ cm, $AY = 8$ cm and $CY = 6$ cm, then the length of BC is:",
+   "options": [
+    "14 cm",
+    "10 cm",
+    "12 cm",
+    "8 cm"
+   ],
+   "figure": "fig_p03_0.png",
+   "answer": "(b) 10 cm — Tangents from an external point are equal: $AX = AY = 8$ cm, so $BX = 12 - 8 = 4$ cm $= BZ$; $CZ = CY = 6$ cm. $BC = BZ + CZ = 4 + 6 = 10$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "A cylindrical vessel 32 cm high and 18 cm as the radius of the base, is filled with sand. This bucket is emptied on the ground and a conical heap of sand is formed. If the height of the conical heap is 24 cm, the radius of its base is",
+   "options": [
+    "12 cm",
+    "48 cm",
+    "36 cm",
+    "24 cm"
+   ],
+   "figure": null,
+   "answer": "(c) 36 cm — Volume of sand $= \\pi (18)^2 \\times 32 = 10368\\pi$ cm³. Conical heap: $\\frac{1}{3}\\pi r_2^2 \\times 24 = 10368\\pi \\Rightarrow 8 r_2^2 = 10368 \\Rightarrow r_2^2 = 1296 \\Rightarrow r_2 = 36$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Statistics",
+   "text": "Assertion (A): If the value of mode and mean is 60 and 66 respectively, then the value of median is 64.\nReason (R): Median = (mode + 2 mean)",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(c) A is true but R is false. — The correct relation is Median $= \\frac{1}{3}(\\text{mode} + 2\\,\\text{mean}) = \\frac{1}{3}(60 + 2 \\times 66) = 64$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch14_Probability",
+   "text": "Assertion (A): When two coins are tossed together, the probability of getting no tail is $\\frac{1}{4}$.\nReason (R): The probability P(E) of an event E satisfies $0 \\leq P(E) \\leq 1$.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Prove that $4 + \\sqrt{2}$ is irrational.",
+   "options": null,
+   "figure": null,
+   "answer": "Assume that $4 + \\sqrt{2}$ is rational. Then there exist positive co-primes $a$ and $b$ such that $4 + \\sqrt{2} = \\frac{a}{b}$. So $\\sqrt{2} = \\frac{a}{b} - 4 = \\frac{a - 4b}{b}$. As $a - 4b$ and $b$ are integers, $\\frac{a-4b}{b}$ is a rational number. But $\\sqrt{2}$ is not rational. Since a rational number cannot be equal to an irrational number, our assumption is wrong. Hence $4 + \\sqrt{2}$ is irrational.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "Aftab tells his daughter, Seven years ago, I was seven times as old as you were then. Also, three years from now, I shall be three times as old as you will be. (Isn't this interesting?) Represent this situation algebraically and graphically by the method of substitution.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the present ages of Aftab and his daughter be $x$ and $y$ years respectively. Then the pair of linear equations is $x - 7 = 7(y - 7)$, i.e., $x - 7y + 42 = 0$ ... (1) and $x + 3 = 3(y + 3)$, i.e., $x - 3y = 6$ ... (2). From (2), $x = 3y + 6$. Putting in (1): $(3y + 6) - 7y + 42 = 0 \\Rightarrow -4y = -48 \\Rightarrow y = 12$. Then $x = 3 \\times 12 + 6 = 42$. So the present ages of Aftab and his daughter are 42 and 12 years respectively. (The graph of the two lines is not drawn in the paper's solution; the lines meet at (42, 12).)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "In what ratio does the point P(2, -5) divide the line segment joining A(-3, 5) and B(4, -9)?",
+   "options": null,
+   "figure": null,
+   "answer": "Let the required ratio be $k:1$. By the section formula, the coordinates of P are $\\left(\\frac{4k-3}{k+1}, \\frac{-9k+5}{k+1}\\right)$. So $\\frac{4k-3}{k+1} = 2$ and $\\frac{-9k+5}{k+1} = -5$ $\\Rightarrow 4k - 3 = 2k + 2$ and $-9k + 5 = -5k - 5 \\Rightarrow 2k = 5$ and $4k = 10 \\Rightarrow k = \\frac{5}{2}$ in each case. So the required ratio is $\\frac{5}{2}:1$, which is 5:2. Hence P divides AB in the ratio 5:2.",
+   "or": {
+    "chapter": "Ch07_Coordinate_Geometry",
+    "text": "If Q(0, 1) is equidistant from P(5, -3) and R(x, 6), find the values of x.",
+    "options": null,
+    "figure": null,
+    "answer": "Given $PQ = QR \\Rightarrow \\sqrt{(0-5)^2 + (1-(-3))^2} = \\sqrt{(x-0)^2 + (1-6)^2} \\Rightarrow 25 + 16 = x^2 + 25 \\Rightarrow x^2 = 16 \\Rightarrow x = \\pm 4$. (The paper's solution gives $x = 4$ here; $x = -4$ also satisfies the condition, as shown in Q27.)"
+   },
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Evaluate: $\\frac{\\cos 45^\\circ}{\\sec 30^\\circ} + \\frac{1}{\\sec 60^\\circ}$.",
+   "options": null,
+   "figure": null,
+   "answer": "$\\frac{\\frac{1}{\\sqrt{2}}}{\\frac{2}{\\sqrt{3}}} + \\frac{1}{2} = \\frac{1}{\\sqrt{2}} \\times \\frac{\\sqrt{3}}{2} + \\frac{1}{2} = \\frac{\\sqrt{3}}{2\\sqrt{2}} + \\frac{1}{2} = \\frac{\\sqrt{6}}{4} + \\frac{1}{2}$.",
+   "or": {
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "If $A = 45^\\circ$, verify that: $\\cos 2A = 2\\cos^2 A - 1 = 1 - 2\\sin^2 A$",
+    "options": null,
+    "figure": null,
+    "answer": "With $A = 45^\\circ$: $\\cos 90^\\circ = 0$. $2\\cos^2 45^\\circ - 1 = 2\\left(\\frac{1}{\\sqrt{2}}\\right)^2 - 1 = 1 - 1 = 0 = \\cos 90^\\circ$. $1 - 2\\sin^2 45^\\circ = 1 - 2\\left(\\frac{1}{2}\\right) = 1 - 1 = 0 = \\cos 90^\\circ$. Hence $\\cos 2A = 2\\cos^2 A - 1 = 1 - 2\\sin^2 A$ is verified."
+   },
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_Probability",
+   "text": "A die is thrown once. Find the probability of getting\ni. a composite number,\nii. a prime number.",
+   "options": null,
+   "figure": null,
+   "answer": "Total outcomes = 6 (1, 2, 3, 4, 5, 6). i. Composite numbers on a die are 4 and 6, so P(composite number) $= \\frac{2}{6} = \\frac{1}{3}$. ii. Prime outcomes are 2, 3, 5, so P(prime number) $= \\frac{3}{6} = \\frac{1}{2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Polynomials",
+   "text": "Find the zeroes of the polynomial $2x^2 + 7x + 5$ and verify the relationship between its zeroes and co-efficients.",
+   "options": null,
+   "figure": null,
+   "answer": "$p(x) = 2x^2 + 7x + 5 = (x+1)(2x+5)$. Zeroes of $p(x)$ are $-1$ and $-\\frac{5}{2}$. Sum of zeroes $= -1 - \\frac{5}{2} = -\\frac{7}{2} = -\\frac{\\text{coefficient of } x}{\\text{coefficient of } x^2}$. Product of zeroes $= (-1)\\left(-\\frac{5}{2}\\right) = \\frac{5}{2} = \\frac{\\text{constant term}}{\\text{coefficient of } x^2}$. Hence verified.",
+   "or": {
+    "chapter": "Ch02_Polynomials",
+    "text": "Find the zeros of $f(x) = x^2 - 2x - 8$ and verify the relationship between the zeros and its coefficients.",
+    "options": null,
+    "figure": null,
+    "answer": "$f(x) = x^2 - 4x + 2x - 8 = x(x-4) + 2(x-4) = (x+2)(x-4)$. $f(x) = 0$ if $x = -2$ or $x = 4$. So the zeroes are $-2$ and $4$. Here $a = 1$, $b = -2$, $c = -8$. Sum of the zeroes $= -2 + 4 = 2 = -\\frac{b}{a}$. Product of zeroes $= (-2)(4) = -8 = \\frac{c}{a}$. Hence the relationship between the zeros and coefficients is verified."
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "If the point Q(0, 1) is equidistant from the points P(5, -3) and R(x, 6); find the value of x. Also, find the distance PR.",
+   "options": null,
+   "figure": null,
+   "answer": "$PQ = QR \\Rightarrow PQ^2 = QR^2$: $(5-0)^2 + (-3-1)^2 = (x-0)^2 + (6-1)^2 \\Rightarrow 41 = x^2 + 25 \\Rightarrow x^2 = 16 \\Rightarrow x = 4, -4$. So R is (4, 6) or (−4, 6). If R(4, 6): $PR = \\sqrt{(5-4)^2 + (-3-6)^2} = \\sqrt{82}$. If R(−4, 6): $PR = \\sqrt{(5+4)^2 + (-3-6)^2} = \\sqrt{162} = 9\\sqrt{2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove that $\\sec\\theta(1 - \\sin\\theta)(\\sec\\theta + \\tan\\theta) = 1$",
+   "options": null,
+   "figure": null,
+   "answer": "LHS $= \\sec\\theta(1 - \\sin\\theta)(\\sec\\theta + \\tan\\theta) = \\left[\\sec\\theta - \\frac{\\sin\\theta}{\\cos\\theta}\\right](\\sec\\theta + \\tan\\theta) = (\\sec\\theta - \\tan\\theta)(\\sec\\theta + \\tan\\theta) = \\sec^2\\theta - \\tan^2\\theta = 1 =$ RHS.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch13_Statistics",
+   "text": "The weights (in kg) of 50 wrestlers are recorded in the following table:\n| Weight (in kg) | 100-110 | 110-120 | 120-130 | 130-140 | 140-150 |\n|---|---|---|---|---|---|\n| Number of Wrestlers | 4 | 14 | 21 | 8 | 3 |\nFind the mean weight of the wrestlers.",
+   "options": null,
+   "figure": null,
+   "answer": "Class marks $x_i$: 105, 115, 125, 135, 145. Take assumed mean $a = 125$, so deviations $d_i = x_i - a$: −20, −10, 0, 10, 20. $f_id_i$: −80, −140, 0, 80, 60; $\\sum f_i = N = 50$, $\\sum f_id_i = -80$. Mean $= a + \\frac{\\sum f_id_i}{\\sum f_i} = 125 + \\frac{-80}{50} = 125 - 1.6 = 123.4$ kg. Hence the mean weight of the wrestlers is 123.4 kg. (The paper prints '125 − 16' for the intermediate step, a typo for 125 − 1.6.)",
+   "or": {
+    "chapter": "Ch13_Statistics",
+    "text": "Find the mode of the following frequency distribution:\n| Class: | 10 - 14 | 14 - 18 | 18 - 22 | 22 - 26 | 26 - 30 | 30 - 34 | 34 - 38 |\n|---|---|---|---|---|---|---|---|\n| Frequency: | 8 | 6 | 11 | 20 | 25 | 22 | 10 |",
+    "options": null,
+    "figure": null,
+    "answer": "The modal class is 26 - 30, as it has the maximum frequency. $x_k = 26$, $h = 4$, $f_k = 25$, $f_{k-1} = 20$, $f_{k+1} = 22$. Mode $= x_k + h \\times \\frac{f_k - f_{k-1}}{2f_k - f_{k-1} - f_{k+1}} = 26 + \\frac{25 - 20}{2 \\times 25 - 20 - 22} \\times 4 = 26 + \\frac{5}{2} = 28.5$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "AB is the diameter of a circle, centre O. C is a point on the circumference such that $\\angle COB = \\theta$. The area of the minor segment cut off by AC is equal to twice the area of the sector BOC. Prove that $\\sin\\frac{\\theta}{2}\\cos\\frac{\\theta}{2} = \\pi\\left(\\frac{1}{2} - \\frac{\\theta}{120}\\right)$.",
+   "options": null,
+   "figure": "fig_p05_0.png",
+   "answer": "Here $\\angle AOC = 180^\\circ - \\theta$. Area of minor segment cut off by AC $= 2 \\times$ area of sector BOC: $\\frac{180-\\theta}{360}\\pi r^2 - \\frac{1}{2}r^2\\sin(180^\\circ - \\theta) = 2 \\times \\frac{\\theta}{360}\\pi r^2$. $\\Rightarrow \\frac{180-\\theta}{360}\\pi r^2 - \\frac{2\\theta}{360}\\pi r^2 = \\frac{1}{2}r^2\\sin\\theta \\Rightarrow \\pi r^2\\left[\\frac{180 - 3\\theta}{360}\\right] = \\frac{1}{2}r^2\\sin\\theta$. Cancelling $r^2$: $\\pi\\left[\\frac{180}{360} - \\frac{3\\theta}{360}\\right] = \\frac{1}{2} \\times 2\\sin\\frac{\\theta}{2}\\cos\\frac{\\theta}{2}$ (using $\\sin\\theta = 2\\sin\\frac{\\theta}{2}\\cos\\frac{\\theta}{2}$) $\\Rightarrow \\pi\\left[\\frac{1}{2} - \\frac{\\theta}{120}\\right] = \\sin\\frac{\\theta}{2}\\cos\\frac{\\theta}{2}$. Hence proved.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, a triangle ABC is drawn to circumscribe a circle of radius 3 cm such that the segments BD and DC into which BC is divided by the point of contact D, are of lengths 6 cm and 9 cm respectively. If the area of $\\triangle ABC$ = 54 cm² then find the lengths of sides AB and AC.",
+   "options": null,
+   "figure": "fig_p05_1.png",
+   "answer": "Let the circle touch AB at E and AC at F. Tangents from the same external point are equal: $AE = AF = x$, $BD = BE = 6$ cm, $CD = CF = 9$ cm. Area($\\triangle ABC$) = Area($\\triangle BOC$) + Area($\\triangle AOB$) + Area($\\triangle AOC$): $54 = \\frac{1}{2} \\times BC \\times OD + \\frac{1}{2} \\times AB \\times OE + \\frac{1}{2} \\times AC \\times OF \\Rightarrow 108 = 15 \\times 3 + (6+x) \\times 3 + (9+x) \\times 3 \\Rightarrow 36 = 15 + 6 + x + 9 + x \\Rightarrow 36 = 30 + 2x \\Rightarrow x = 3$ cm. So $AB = 6 + 3 = 9$ cm and $AC = 9 + 3 = 12$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "A plane left 30 minutes later than the scheduled time and in order to reach its destination 1500 km away on time, it has to increase its speed by 250 km/hr from its usual speed. Find the usual speed of the plane.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the usual speed be $x$ km/hr. Time at usual speed $= \\frac{1500}{x}$ hrs; time at increased speed $= \\frac{1500}{x+250}$ hrs. $\\frac{1500}{x} - \\frac{1500}{x+250} = \\frac{1}{2} \\Rightarrow \\frac{1500 \\times 250}{x(x+250)} = \\frac{1}{2} \\Rightarrow x^2 + 250x - 750000 = 0 \\Rightarrow x^2 + 1000x - 750x - 750000 = 0 \\Rightarrow (x + 1000)(x - 750) = 0$. $x = -1000$ or $750$. Speed cannot be negative, so $x = 750$. The usual speed of the plane is 750 km/hr.",
+   "or": {
+    "chapter": "Ch04_Quadratic_Equations",
+    "text": "A dealer sells a toy for ₹ 24 and gains as much per cent as the cost price of the toy. Then find the cost price of the toy.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the cost price of the toy be ₹ $x$. Then gain $= x\\%$, i.e., Gain $= ₹ \\left(x \\times \\frac{x}{100}\\right) = ₹ \\frac{x^2}{100}$. S.P. $= x + \\frac{x^2}{100} = 24 \\Rightarrow x^2 + 100x - 2400 = 0 \\Rightarrow x^2 + 120x - 20x - 2400 = 0 \\Rightarrow (x + 120)(x - 20) = 0 \\Rightarrow x = 20$ (as $x > 0$). Hence the cost price of the toy is ₹ 20."
+   },
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch06_Triangles",
+   "text": "ABCD is a parallelogram, P is a point on side BC and DP when produced meets AB produced at L. Prove that\\ni. $\\frac{DP}{PL} = \\frac{DC}{BL}$\\nii. $\\frac{DL}{DP} = \\frac{AL}{DC}$\\niii. If LP : PD = 2 : 3 then find BP : BC.",
+   "options": null,
+   "figure": "fig_p05_2.png",
+   "answer": "i. $\\triangle DPC \\sim \\triangle LPB$, so $\\frac{DP}{PL} = \\frac{PC}{PB} = \\frac{DC}{BL}$. ii. In $\\triangle LDA$, BP || AD, so by the Basic Proportionality Theorem $\\frac{LP}{PD} = \\frac{LB}{BA}$. Adding 1 to both sides: $\\frac{LP + PD}{PD} = \\frac{LB + BA}{BA} \\Rightarrow \\frac{DL}{DP} = \\frac{AL}{AB} = \\frac{AL}{DC}$ (AB = CD). iii. $\\frac{LP}{LD} = \\frac{PB}{AD}$ ($\\triangle LPB \\sim \\triangle LDA$) $\\Rightarrow \\frac{2}{5} = \\frac{PB}{BC}$ (AD = BC). So BP : BC = 2 : 5.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "On a horizontal plane there is a vertical tower with a flag pole on the top of the tower. At a point 9 metres away from the foot of the tower the angles of elevation of the top and bottom of the flag pole are $60^\\circ$ and $30^\\circ$ respectively. Find the height of the tower and flag pole mounted on it. ($\\sqrt{3} = 1.732$)",
+   "options": null,
+   "figure": null,
+   "answer": "Let AB be the tower (height $h$), AC the flag pole (height $h'$) and E the point 9 m from B; $\\angle CEB = 60^\\circ$, $\\angle AEB = 30^\\circ$. In right $\\triangle ABE$: $\\frac{h}{9} = \\tan 30^\\circ = \\frac{1}{\\sqrt{3}} \\Rightarrow h = \\frac{9}{\\sqrt{3}} = 3\\sqrt{3} = 5.196$ m ... (i). In right $\\triangle CBE$: $\\frac{h + h'}{9} = \\tan 60^\\circ = \\sqrt{3} \\Rightarrow h + h' = 9\\sqrt{3}$ ... (ii). From (i) and (ii): $h' = 9\\sqrt{3} - 3\\sqrt{3} = 6\\sqrt{3} = 6 \\times 1.732 = 10.392$ m. So the height of the tower is $3\\sqrt{3}$ m ($\\approx 5.196$ m) and the height of the flag pole is $6\\sqrt{3}$ m ($\\approx 10.392$ m). (The paper prints 10.932 m, a typo for 10.392 m.)",
+   "or": {
+    "chapter": "Ch09_Some_Applications_of_Trigonometry",
+    "text": "The angle of elevation of an airplane from point A on the ground is $60^\\circ$. After a flight of 10 seconds, on the same height, the angle of elevation from point A becomes $30^\\circ$. If the airplane is flying at the speed of 720 km/hr, find the constant height at which the airplane is flying.",
+    "options": null,
+    "figure": null,
+    "answer": "Speed 720 km/hr = 200 m/s, so the distance travelled in 10 seconds = 2000 m. Let the plane be at C (angle $60^\\circ$ at A, foot B, $AB = x$) and then at E (angle $30^\\circ$, foot D), $BD = 2000$ m, height $h$. In $\\triangle ABC$: $x = \\frac{h}{\\sqrt{3}}$. In $\\triangle EDA$: $\\tan 30^\\circ = \\frac{ED}{AD} \\Rightarrow \\frac{1}{\\sqrt{3}} = \\frac{h}{x + 2000}$. So $x + 2000 = \\sqrt{3}h \\Rightarrow \\frac{h}{\\sqrt{3}} + 2000 = \\sqrt{3}h \\Rightarrow h = 1000\\sqrt{3}$ m."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "A textile industry runs in a shed. This shed is in the shape of a cuboid surmounted by a half cylinder. If the base of the industry is of dimensions 14 m × 20 m and the height of the cuboidal portion is 7 m, find the volume of air that the industry can hold. Further, suppose the machinery in the industry occupies a total space of 400 m³. Then, how much space is left in the industry?",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": "Volume of cuboid $= 20 \\times 14 \\times 7 = 1960$ m³. For the half cylinder: $r = \\frac{14}{2} = 7$ m, $h = 20$ m. Volume of half cylinder $= \\frac{1}{2}\\pi r^2 h = \\frac{1}{2} \\times \\frac{22}{7} \\times 7 \\times 7 \\times 20 = 1540$ m³. Required volume of air $= 1960 + 1540 = 3500$ m³. Space occupied by machinery $= 400$ m³. Space left $= 3500 - 400 = 3100$ m³.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Suman is celebrating his birthday. He invited his friends. He bought a packet of toffees/candies which contains 360 candies. He arranges the candies such that in the first row there are 3 candies, in second there are 5 candies, in third there are 7 candies and so on.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the total number of rows of candies.",
+     "marks": 1,
+     "options": null,
+     "answer": "Let there be $n$ rows. The AP 3, 5, 7, ... has $a = 3$, $d = 2$. $S_n = \\frac{n}{2}[2a + (n-1)d] \\Rightarrow 360 = \\frac{n}{2}[6 + 2(n-1)] = n(n+2) \\Rightarrow n^2 + 2n - 360 = 0 \\Rightarrow (n+20)(n-18) = 0$. $n = -20$ is rejected, so $n = 18$."
+    },
+    {
+     "text": "How many candies are placed in last row?",
+     "marks": 1,
+     "options": null,
+     "answer": "The last row is the 18th row: $a_{18} = 3 + (18-1) \\times 2 = 37$."
+    },
+    {
+     "text": "If Aditya decides to make 15 rows, then how many total candies will be placed by him with the same arrangement?",
+     "marks": 2,
+     "options": null,
+     "answer": "$S_{15} = \\frac{15}{2}[2 \\times 3 + (15-1) \\times 2] = 15[3 + 14] = 255$. There are 255 candies in 15 rows.",
+     "or": {
+      "text": "Find the number of candies in 12th row.",
+      "answer": "$a_{12} = 3 + (12-1) \\times 2 = 25$."
+     }
+    }
+   ]
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_Statistics",
+   "text": "Gurpreet is very fond of doing research on plants. She collected some leaves from different plants and measured their lengths in mm.\nThe data obtained is represented in the following table:\n| Length (in mm): | 70-80 | 80-90 | 90-100 | 100-110 | 110-120 | 120-130 | 130-140 |\n|---|---|---|---|---|---|---|---|\n| Number of leaves: | 3 | 5 | 9 | 12 | 5 | 4 | 2 |",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Write the median class of the data.",
+     "marks": 1,
+     "options": null,
+     "answer": "Total $N = 40$, $\\frac{N}{2} = 20$; cumulative frequencies are 3, 8, 17, 29, 34, 38, 40. The median class is 100 - 110."
+    },
+    {
+     "text": "How many leaves are of length equal to or more than 10 cm?",
+     "marks": 1,
+     "options": null,
+     "answer": "10 cm = 100 mm. Number of leaves of length 100 mm or more $= 12 + 5 + 4 + 2 = 23$."
+    },
+    {
+     "text": "a. Find median of the data.",
+     "marks": 2,
+     "options": null,
+     "answer": "Median $= 100 + \\frac{10}{12}(20 - 17) = 102.5$.",
+     "or": {
+      "text": "b. Write the modal class and find the mode of the data.",
+      "answer": "Modal class is 100 - 110. Mode $= 100 + 10 \\times \\frac{12 - 9}{24 - 9 - 5} = 103$."
+     }
+    }
+   ]
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "A telecommunication company came up with two plans- plan A and plan B for its customers. The plans are represented by linear equations where 't' represents the time (in minutes) bought and 'C' represents the cost. The equations are:\\nPlan A: $3C = 20t$\\nPlan B: $3C = 10t + 300$",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "If you purchase plan B, how much initial amount you have to pay?",
+     "marks": 1,
+     "options": null,
+     "answer": "At $t = 0$, $3C = 300 \\Rightarrow C = 100$. ₹ 100 has to be paid initially."
+    },
+    {
+     "text": "Charu purchased plan A. How many minutes she bought for ₹ 250?",
+     "marks": 1,
+     "options": null,
+     "answer": "$3 \\times 250 = 20t \\Rightarrow t = 37.5$ minutes."
+    },
+    {
+     "text": "a. At how many minutes, do both the plans charge the same amount? What is that amount?",
+     "marks": 2,
+     "options": null,
+     "answer": "$20t = 10t + 300 \\Rightarrow t = 30$. Both plans charge the same amount if a person buys 30 minutes. Amount $= \\frac{20 \\times 30}{3} = ₹ 200$.",
+     "or": {
+      "text": "b. Which plan is better if you want to buy 60 minutes? Give reason for your answer.",
+      "answer": "At $t = 60$, cost under plan A = ₹ 400 and cost under plan B = ₹ 300. Plan B is better as ₹ 100 are saved."
+     }
+    }
+   ]
+  }
+ ]
+}

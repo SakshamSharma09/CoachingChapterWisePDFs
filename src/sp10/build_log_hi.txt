@@ -1,0 +1,20 @@
+Hindi items 198
+Ch01_Netaji_ka_Chashma 10 -> 10 questions 57 marks
+Ch02_Balgobin_Bhagat 8 -> 8 questions 44 marks
+Ch03_Lakhnavi_Andaz 3 -> 3 questions 15 marks
+Ch06_Sanskriti 1 -> 1 questions 5 marks
+Ch07_Mata_ka_Anchal 11 -> 11 questions 88 marks
+Ch10_Pad_Surdas 4 -> 4 questions 21 marks
+Ch11_Ram_Lakshman_Parshuram_Samvad 3 -> 3 questions 15 marks
+Ch12_Atmakathya 4 -> 4 questions 20 marks
+Ch13_Utsah_aur_At_Nahin_Rahi_Hai 11 -> 11 questions 65 marks
+OTHER 6 -> 6 questions 42 marks
+SKILL_Grammar 44 -> 38 questions 152 marks
+SKILL_Reading 16 -> 16 questions 112 marks
+SKILL_Writing 77 -> 77 questions 374 marks
+pool too small for an 80-mark test: SecA_Reading_Apathit 154
+test SecB_Grammar_Vyakaran 1 20 questions
+test SecC_Textbook 1 14 questions
+test SecC_Textbook 2 13 questions
+test SecC_Textbook 3 13 questions
+test SecD_Writing 1 17 questions

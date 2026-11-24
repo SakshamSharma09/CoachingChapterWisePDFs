@@ -1,0 +1,706 @@
+{
+ "subject": "Maths",
+ "paper": "CBSE_Official",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "The greatest number which divides both 134 and 188, leaving remainders 4 and 6 respectively, is:",
+   "options": [
+    "13",
+    "26",
+    "39",
+    "65"
+   ],
+   "figure": null,
+   "answer": "(B) 26 — 134 − 4 = 130 and 188 − 6 = 182. HCF(130, 182) = 26.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "If $f(x) = px^2 + qx + r$, $p \\neq 0$ and $p + r = q$, then one of the zeroes of $f(x)$ is:",
+   "options": [
+    "$\\frac{q}{p}$",
+    "$\\frac{r}{p}$",
+    "$-\\frac{r}{p}$",
+    "$-\\frac{q}{p}$"
+   ],
+   "figure": null,
+   "answer": "(C) $-\\frac{r}{p}$ — Substituting $q = p + r$: $f(x) = px^2 + (p+r)x + r = (x+1)(px + r)$. Zeroes are $-1$ or $-\\frac{r}{p}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "Tarun correctly solved a pair of linear equations in two variables and found their only point of intersection as $(5, -1)$. One of the lines was $x - y = 6$. Which of the following could have been the other line?\nI: $3x - 3y = 18$\nII: $2x - 3y = 13$\nIII: $2x - 3y = 16$",
+   "options": [
+    "I only",
+    "II only",
+    "I and II",
+    "II and III"
+   ],
+   "figure": null,
+   "answer": "(B) II only — $(5,-1)$ is a solution of I: $3x - 3y = 18$ also, but that would make the system consistent and dependent. Only II: $2x - 3y = 13$ fulfils the condition of having only one point of intersection.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "If $(1 - p)$ is a root of the quadratic equation $x^2 + px + 1 - p = 0$, then its roots are:",
+   "options": [
+    "0, 1",
+    "$-1$, 1",
+    "0, $-1$",
+    "$-1$, 2"
+   ],
+   "figure": null,
+   "answer": "(C) 0, −1 — $(1-p)^2 + p(1-p) + 1 - p = 0 \\Rightarrow p = 1$. The equation becomes $x^2 + x = 0 \\Rightarrow x(x+1) = 0$, so the roots are 0, −1.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "The middle term of the A.P.: 10, 7, 4, ..., $-62$ is:",
+   "options": [
+    "$-26$",
+    "$-29$",
+    "$-32$",
+    "$-35$"
+   ],
+   "figure": null,
+   "answer": "(A) −26 — $-62 = 10 + (n-1)(-3) \\Rightarrow n = 25$. Middle term is the $\\frac{25+1}{2} = 13^{th}$ term: $a_{13} = 10 + 12(-3) = -26$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "The perimeters of two similar triangles are 56 cm and 70 cm respectively. If one side of the first triangle is 14 cm, then the corresponding side of the second triangle (in cm) is:",
+   "options": [
+    "5",
+    "7.5",
+    "10",
+    "17.5"
+   ],
+   "figure": null,
+   "answer": "(D) 17.5 — Ratio of perimeters of similar triangles = ratio of corresponding sides, so $\\frac{56}{70} = \\frac{14}{\\text{corresponding side}}$, giving corresponding side = 17.5 cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "The point which lies on the perpendicular bisector of the line segment joining the points A $(-3, -4)$ and B $(3, 4)$ is:",
+   "options": [
+    "(0, 0)",
+    "(0, 3)",
+    "(3, 0)",
+    "(0, 4)"
+   ],
+   "figure": null,
+   "answer": "(A) (0, 0) — The mid-point of A and B lies on the perpendicular bisector: $\\left(\\frac{-3+3}{2}, \\frac{-4+4}{2}\\right) = (0, 0)$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $\\tan(A + B) = \\sqrt{3}$ and $\\tan(A - B) = \\frac{1}{\\sqrt{3}}$, $0^\\circ < A + B < 90^\\circ$, $A > B$, then the value of A and B respectively are:",
+   "options": [
+    "$60^\\circ, 30^\\circ$",
+    "$60^\\circ, 45^\\circ$",
+    "$45^\\circ, 15^\\circ$",
+    "$60^\\circ, 15^\\circ$"
+   ],
+   "figure": null,
+   "answer": "(C) $45^\\circ, 15^\\circ$ — $\\tan(A+B) = \\sqrt{3} \\Rightarrow A + B = 60^\\circ$ ... (i); $\\tan(A-B) = \\frac{1}{\\sqrt{3}} \\Rightarrow A - B = 30^\\circ$ ... (ii). Solving, $A = 45^\\circ$ and $B = 15^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "T-shirts marked with numbers 4 to 99 are placed in a box. Gunika is fond of numbers. She randomly takes out a T-shirt from this box. The probability that she gets a T-shirt marked with a number that is either a perfect square or a perfect cube is:",
+   "options": [
+    "$\\frac{1}{12}$",
+    "$\\frac{1}{32}$",
+    "$\\frac{11}{96}$",
+    "$\\frac{5}{48}$"
+   ],
+   "figure": null,
+   "answer": "(D) $\\frac{5}{48}$ — Total outcomes = 96. Perfect squares: 4, 9, 16, 25, 36, 49, 64, 81. Perfect cubes: 8, 27, 64. Common number is 64. Favourable outcomes = 10. P = $\\frac{10}{96} = \\frac{5}{48}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The diameter of a car wheel is 21 cm. The number of complete revolutions it will make in moving 66 km is:",
+   "options": [
+    "$10^4$",
+    "$10^5$",
+    "$10^6$",
+    "$10^7$"
+   ],
+   "figure": null,
+   "answer": "(B) $10^5$ — Total revolutions = $\\frac{66 \\times 10^5 \\times 7}{22 \\times 21} = 10^5$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "Two cubes each of volume 64 cm³ are joined end to end to form a solid. The surface area of the resultant cuboid is:",
+   "options": [
+    "192 cm²",
+    "160 cm²",
+    "96 cm²",
+    "80 cm²"
+   ],
+   "figure": null,
+   "answer": "(B) 160 cm² — Side of cube = 4 cm. The cuboid has length 8 cm, breadth 4 cm, height 4 cm. Total surface area = 2(8×4 + 4×4 + 8×4) = 160 cm².",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "The mean age of a combined group of men and women is 35 years. If the mean ages of the men and women are 38 years and 30 years respectively, then the percentage of women in the group is:",
+   "options": [
+    "15",
+    "25.5",
+    "35",
+    "37.5"
+   ],
+   "figure": null,
+   "answer": "(D) 37.5 — Let men = x, women = y. $\\frac{38x + 30y}{x+y} = 35 \\Rightarrow 3x = 5y \\Rightarrow \\frac{x}{y} = \\frac{5}{3}$. Percentage of women = $\\frac{3}{8} \\times 100 = 37.5$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "Two dice are rolled simultaneously. The probability of getting number less than 4 on each die is:",
+   "options": [
+    "$\\frac{1}{4}$",
+    "$\\frac{1}{9}$",
+    "$\\frac{1}{36}$",
+    "$\\frac{1}{6}$"
+   ],
+   "figure": null,
+   "answer": "(A) $\\frac{1}{4}$ — Total outcomes = 36. Favourable outcomes: (1,1), (1,2), (1,3), (2,1), (2,2), (2,3), (3,1), (3,2), (3,3) = 9. P = $\\frac{9}{36} = \\frac{1}{4}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "PM is a median of $\\triangle$ PQR with vertices P $(5, -6)$, Q $(6, 4)$ and R $(0, 0)$. The length of PM is:",
+   "options": [
+    "$2\\sqrt{17}$ units",
+    "$2\\sqrt{15}$ units",
+    "$\\sqrt{101}$ units",
+    "10 units"
+   ],
+   "figure": null,
+   "answer": "(A) $2\\sqrt{17}$ units — Mid-point of QR is M $\\left(\\frac{6+0}{2}, \\frac{4+0}{2}\\right) = (3, 2)$. PM = $\\sqrt{(5-3)^2 + (-6-2)^2} = \\sqrt{68} = 2\\sqrt{17}$ units.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The arc of a circle is of length $6\\pi$ cm and the sector it bound has an area of $24\\pi$ cm². The radius of the circle is:",
+   "options": [
+    "4 cm",
+    "8 cm",
+    "16 cm",
+    "18 cm"
+   ],
+   "figure": null,
+   "answer": "(B) 8 cm — Area = $\\frac{1}{2} \\times l \\times r \\Rightarrow 24\\pi = \\frac{1}{2} \\times 6\\pi \\times r \\Rightarrow r = 8$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "The mean and median of the data are 35.5 and 32 respectively. The value of mode for this data is:",
+   "options": [
+    "23",
+    "26",
+    "25",
+    "30"
+   ],
+   "figure": null,
+   "answer": "(C) 25 — Mode = 3 Median − 2 Mean = 3(32) − 2(35.5) = 25.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "A flying kite is tied to a point on the ground with the help of a string. The string makes an angle $\\theta$ with the ground level such that $\\tan\\theta = \\frac{12}{5}$. If the length of the string is 52 m, then the height of the kite above the ground is:",
+   "options": [
+    "40 m",
+    "45.5 m",
+    "48 m",
+    "50 m"
+   ],
+   "figure": null,
+   "answer": "(C) 48 m — $\\tan\\theta = \\frac{12}{5} \\Rightarrow \\sin\\theta = \\frac{12}{13}$. So $\\frac{h}{52} = \\frac{12}{13} \\Rightarrow h = 48$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "2 cards of diamonds and 4 cards of spades are missing from a pack of 52 cards. A card is drawn at random from this pack. The probability of getting a card of heart is:",
+   "options": [
+    "$\\frac{13}{52}$",
+    "$\\frac{13}{46}$",
+    "$\\frac{11}{52}$",
+    "$\\frac{11}{46}$"
+   ],
+   "figure": null,
+   "answer": "(B) $\\frac{13}{46}$ — Total remaining cards = 52 − (2 + 4) = 46. P(a heart card) = $\\frac{13}{46}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Assertion (A): If three vertices of a parallelogram taken in order are $(-1, -6)$, $(2, -5)$ and $(7, 2)$, then its fourth vertex is $(4, 1)$.\nReason (R): Diagonals of a parallelogram bisect each other.",
+   "options": [
+    "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+    "Both Assertion (A) and Reason (R) are true but Reason (R) is not the correct explanation of Assertion (A).",
+    "Assertion (A) is true but Reason (R) is false.",
+    "Assertion (A) is false but Reason (R) is true."
+   ],
+   "figure": null,
+   "answer": "(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Polynomials",
+   "text": "Assertion (A): If zeroes of the polynomial $(2k-1)x^2 + 4x - 3$ are reciprocal of each other, then $k = -1$.\nReason (R): If $a = c$, then zeroes of the polynomial $ax^2 + bx + c$, $a \\neq 0$ are reciprocal of each other.",
+   "options": [
+    "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+    "Both Assertion (A) and Reason (R) are true but Reason (R) is not the correct explanation of Assertion (A).",
+    "Assertion (A) is true but Reason (R) is false.",
+    "Assertion (A) is false but Reason (R) is true."
+   ],
+   "figure": null,
+   "answer": "(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "A hall has a length of 9.75 m, breadth of 6.75 m and height of 5.25 m. What is the length of the longest unmarked ruler that can exactly measure the dimensions of the hall?",
+   "options": null,
+   "figure": null,
+   "answer": "Length = 9.75 m = 975 cm, breadth = 6.75 m = 675 cm, height = 5.25 m = 525 cm. Length of longest unmarked ruler = HCF(975, 675, 525). $975 = 3 \\times 5^2 \\times 13$, $675 = 3^3 \\times 5^2$, $525 = 3 \\times 5^2 \\times 7$. HCF = $3 \\times 5^2 = 75$. Hence the length of the longest unmarked ruler is 75 cm or 0.75 m.",
+   "or": {
+    "chapter": "Ch01_Real_Numbers",
+    "text": "There are three bells placed at different swings in a park, which toll at intervals of 5, 6 and 8 minutes, respectively. They all toll together when the park opens for the visitors at 10:00 a.m.. How many more times do they all toll together till the park is closed at 7:00 p.m.?",
+    "options": null,
+    "figure": null,
+    "answer": "LCM of 5, 6 and 8 is 120, i.e., all the bells toll together after an interval of 120 minutes or 2 hours. Thus, all the bells will again toll together at 12:00 noon, 2:00 pm, 4:00 pm and 6 p.m., i.e., 4 times. So, the bells will toll together 4 more times, till the park is closed at 7:00 p.m."
+   },
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Triangles",
+   "text": "ABCD is a trapezium in which AB is parallel to DC and its diagonals intersect each other at the point O. Show that $\\frac{AO}{BO} = \\frac{CO}{DO}$.",
+   "options": null,
+   "figure": null,
+   "answer": "In $\\triangle AOB$ and $\\triangle COD$: $\\angle OAB = \\angle OCD$ and $\\angle OBA = \\angle ODC$ (alternate interior angles). So $\\triangle AOB \\sim \\triangle COD$ (AA criterion). Hence $\\frac{AO}{CO} = \\frac{BO}{DO}$ or $\\frac{AO}{BO} = \\frac{CO}{DO}$.",
+   "or": {
+    "chapter": "Ch06_Triangles",
+    "text": "In the given figure, if $\\angle PQR = \\angle QSP$, $PQ = 6$ cm and $PS = 3$ cm, then find the length of PR.",
+    "options": null,
+    "figure": "fig_p03_0.png",
+    "answer": "In $\\triangle PRQ$ and $\\triangle PQS$: $\\angle PQR = \\angle QSP$ (given), $\\angle QPR = \\angle QPS$ (common). So $\\triangle PRQ \\sim \\triangle PQS$ (AA criterion). $\\Rightarrow \\frac{PQ}{PS} = \\frac{PR}{PQ} \\Rightarrow \\frac{6}{3} = \\frac{PR}{6}$. $\\therefore PR = 12$ cm."
+   },
+   "subparts": null,
+   "note": "Paper also gives an alternative for visually impaired candidates in place of 22(B): 'In a right-angled triangle ABC, right-angled at B, a perpendicular BD is drawn to the hypotenuse AC. Prove that the triangle BCD is similar to the triangle ACB.' Answer: In triangles BCD and ACB, angle BDC = angle ABC (each 90 degrees), angle BCD = angle ACB (common), so triangle BCD ~ triangle ACB (AA criterion)."
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $\\tan\\theta = \\frac{1}{\\sqrt{5}}$, then find the value of $\\frac{\\operatorname{cosec}^2\\theta - \\sec^2\\theta}{\\operatorname{cosec}^2\\theta + \\sec^2\\theta}$.",
+   "options": null,
+   "figure": null,
+   "answer": "$\\tan\\theta = \\frac{1}{\\sqrt{5}} \\Rightarrow \\cot\\theta = \\sqrt{5}$. $\\sec^2\\theta = 1 + \\tan^2\\theta = 1 + \\frac{1}{5} = \\frac{6}{5}$ and $\\operatorname{cosec}^2\\theta = 1 + \\cot^2\\theta = 1 + 5 = 6$. $\\therefore \\frac{6 - \\frac{6}{5}}{6 + \\frac{6}{5}} = \\frac{2}{3}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "Find the area of a sector of a circle with diameter 28 cm, if the length of the corresponding arc is 22 cm.",
+   "options": null,
+   "figure": null,
+   "answer": "Radius = $\\frac{28}{2} = 14$ cm. Area of sector = $\\frac{1}{2} \\times l \\times r = \\frac{1}{2} \\times 22 \\times 14 = 154$ cm².",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_Probability",
+   "text": "Two dice are thrown simultaneously. Find the probability that the product of the numbers appearing on them is a prime number.",
+   "options": null,
+   "figure": null,
+   "answer": "Total number of outcomes = 36. Favourable outcomes = 6 {(1,2), (1,3), (1,5), (2,1), (3,1), (5,1)}. P(prime product) = $\\frac{6}{36} = \\frac{1}{6}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Given that $\\sqrt{3}$ is irrational number, prove that $(2 + 3\\sqrt{3})$ is an irrational number.",
+   "options": null,
+   "figure": null,
+   "answer": "Assume that $2 + 3\\sqrt{3}$ is a rational number. Then $2 + 3\\sqrt{3} = \\frac{a}{b}$, where $a$ and $b$ are integers and $b \\neq 0$. $\\Rightarrow \\sqrt{3} = \\frac{a - 2b}{3b}$. Since $a$ and $b$ are integers, $\\frac{a-2b}{3b}$ is a rational number. So $\\sqrt{3}$ is rational, which contradicts the given fact that $\\sqrt{3}$ is irrational. Hence our assumption is wrong. Therefore $2 + 3\\sqrt{3}$ is an irrational number.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Polynomials",
+   "text": "If $\\alpha$ and $\\beta$ are the zeroes of the quadratic polynomial $2x^2 - 8x + 5$, then find the value of $\\left(\\alpha + \\frac{1}{\\beta}\\right) \\times \\left(\\beta + \\frac{1}{\\alpha}\\right)$.",
+   "options": null,
+   "figure": null,
+   "answer": "$\\alpha + \\beta = 4$ and $\\alpha\\beta = \\frac{5}{2}$. $\\left(\\alpha + \\frac{1}{\\beta}\\right)\\left(\\beta + \\frac{1}{\\alpha}\\right) = \\frac{\\alpha\\beta + 1}{\\beta} \\times \\frac{\\alpha\\beta + 1}{\\alpha} = \\frac{(\\alpha\\beta + 1)^2}{\\alpha\\beta} = \\frac{\\left(\\frac{5}{2} + 1\\right)^2}{\\frac{5}{2}} = \\frac{49}{10}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Ridhi drew a polygon with n sides. The smallest exterior angle is $8^\\circ$ and each subsequent exterior angle is $4^\\circ$ more than the previous exterior angle. Find the number of sides of the polygon that Ridhi had drawn.",
+   "options": null,
+   "figure": null,
+   "answer": "The exterior angles are in A.P. with $a = 8$ and $d = 4$. Sum of all exterior angles of a polygon is $360^\\circ$, so $S_n = 360 \\Rightarrow \\frac{n}{2}[2 \\times 8 + (n-1) \\times 4] = 360 \\Rightarrow n^2 + 3n - 180 = 0 \\Rightarrow (n+15)(n-12) = 0$. $n = -15$ or $12$. Number of sides cannot be negative, so $n = 12$.",
+   "or": {
+    "chapter": "Ch05_Arithmetic_Progressions",
+    "text": "Find the sum of integers between 1 and 400 that are multiples of 4 as well as of 5.",
+    "options": null,
+    "figure": null,
+    "answer": "Required A.P. is 20, 40, 60, ..., 380 with $a = 20$, $d = 20$. Let $a_n = 380 \\Rightarrow 20 + (n-1) \\times 20 = 380 \\Rightarrow n = 19$. $S_{19} = \\frac{19}{2}[20 + 380] = 3800$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "Prove that the parallelogram circumscribing a circle is a rhombus.",
+   "options": null,
+   "figure": null,
+   "answer": "Given ABCD is a parallelogram circumscribing a circle (touching AB, BC, CD, DA at S, P, Q, R). Tangents from an external point are equal: $AS = AR$ (i), $BS = BP$ (ii), $CQ = CP$ (iii), $DQ = DR$ (iv). Adding: $AS + BS + CQ + DQ = AR + BP + CP + DR \\Rightarrow AB + CD = AD + BC \\Rightarrow 2AB = 2AD$ (opposite sides of a parallelogram are equal) $\\Rightarrow AB = AD$. Since adjacent sides of parallelogram ABCD are equal, ABCD is a rhombus.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "In what ratio does the x-axis divide the line segment joining the points $(-4, -6)$ and $(-1, 7)$? Also, find the coordinates of the point of division.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the x-axis divide the segment joining A $(-4, -6)$ and B $(-1, 7)$ at P $(x, 0)$ in the ratio $k:1$. Coordinates of P are $\\left(\\frac{-k-4}{k+1}, \\frac{7k-6}{k+1}\\right)$. Since P lies on the x-axis, $\\frac{7k-6}{k+1} = 0 \\Rightarrow k = \\frac{6}{7}$. So P divides AB in the ratio 6:7 and the coordinates of P are $\\left(-\\frac{34}{13}, 0\\right)$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "During a math class, Ms. Isha wrote the expression given below on the board and asked the students to simplify it.\n$\\frac{\\cos\\theta}{1 - \\sin\\theta} + \\frac{1 - \\sin\\theta}{\\cos\\theta}$\nJyoti solved it in her note book as follows:\n$\\frac{\\cos\\theta}{1-\\sin\\theta} + \\frac{1-\\sin\\theta}{\\cos\\theta}$\n$= \\frac{\\cos^2\\theta + (1-\\sin\\theta)^2}{(1-\\sin\\theta)\\times\\cos\\theta}$ .... (step 1)\n$= \\frac{\\cos^2\\theta + \\cos^2\\theta}{(1-\\sin\\theta)\\times\\cos\\theta}$ .... (step 2)\n$= \\frac{2\\cos^2\\theta}{(1-\\sin\\theta)\\times\\cos\\theta}$ .... (step 3)\n$= \\frac{2\\cos\\theta}{(1-\\sin\\theta)}$ .... (step 4)\nIdentify the step in which Jyoti has made error(s), if any. Rectify the same and find the correct answer.",
+   "options": null,
+   "figure": null,
+   "answer": "Jyoti made the error in step 2. Correct solution: $\\frac{\\cos\\theta}{1-\\sin\\theta} + \\frac{1-\\sin\\theta}{\\cos\\theta} = \\frac{\\cos^2\\theta + (1-\\sin\\theta)^2}{(1-\\sin\\theta)\\cos\\theta} = \\frac{\\cos^2\\theta + 1 + \\sin^2\\theta - 2\\sin\\theta}{(1-\\sin\\theta)\\cos\\theta} = \\frac{2 - 2\\sin\\theta}{(1-\\sin\\theta)\\cos\\theta} = \\frac{2(1-\\sin\\theta)}{(1-\\sin\\theta)\\cos\\theta} = \\frac{2}{\\cos\\theta} = 2\\sec\\theta$.",
+   "or": {
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "If $\\frac{1}{\\sin x - \\cos x} = \\frac{\\operatorname{cosec} x}{\\sqrt{2}}$, then prove that $\\left(\\frac{1}{\\sin x + \\cos x}\\right)^2 = \\frac{\\sec^2 x}{2}$",
+    "options": null,
+    "figure": null,
+    "answer": "Given $\\frac{1}{\\sin x - \\cos x} = \\frac{\\operatorname{cosec} x}{\\sqrt{2}} \\Rightarrow \\sin x - \\cos x = \\sqrt{2}\\sin x$. Squaring both sides: $2\\sin x\\cos x = 1 - 2\\sin^2 x$ ... (i). Now LHS $= \\left(\\frac{1}{\\sin x + \\cos x}\\right)^2 = \\frac{1}{1 + 2\\sin x\\cos x} = \\frac{1}{1 + (1 - 2\\sin^2 x)} = \\frac{1}{2\\cos^2 x} = \\frac{\\sec^2 x}{2} = $ RHS."
+   },
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "In a rectangular park measuring 50 m $\\times$ 40 m, the gram panchayat plans to construct a rectangular swimming pool in the middle, surrounded by a uniform-width grass strip throughout the park. Find the dimensions of the swimming pool, if the area of the grassy strip is 1184 m$^2$.",
+   "options": null,
+   "figure": null,
+   "answer": "Let $x$ be the uniform width of the grass strip. Length of pool = $(50 - 2x)$ m, breadth of pool = $(40 - 2x)$ m. Area of park − area of pool = area of grass strip: $50 \\times 40 - (50-2x)(40-2x) = 1184 \\Rightarrow x^2 - 45x + 296 = 0 \\Rightarrow (x-8)(x-37) = 0 \\Rightarrow x = 8, 37$. Rejecting $x = 37$ (length and breadth cannot be negative), $x = 8$. Length of pool = $50 - 16 = 34$ m and breadth of pool = $40 - 16 = 24$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch06_Triangles",
+   "text": "Prove that a line drawn parallel to one side of a triangle to intersect the other two sides in distinct points, divides the other two sides in the same ratio.\nUsing the above theorem solve the following:\nPQRS is a trapezium with PQ || SR. X and Y are points on non-parallel sides PS and QR respectively such that XY || PQ. Show that $\\frac{PX}{XS} = \\frac{QY}{YR}$.",
+   "options": null,
+   "figure": null,
+   "answer": "Part 1: Proof of the Basic Proportionality Theorem (correct figure, given, to prove, construction and proof; 3 marks). Part 2: Join PR intersecting XY at M. In $\\triangle PSR$, XM || SR, so $\\frac{PX}{XS} = \\frac{PM}{MR}$ ... (i). In $\\triangle PQR$, MY || PQ, so $\\frac{QY}{YR} = \\frac{PM}{MR}$ ... (ii). From (i) and (ii), $\\frac{PX}{XS} = \\frac{QY}{YR}$. (The proof of the theorem itself is not written out in the paper's marking scheme.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "A tent is in the shape of a cylinder surmounted by a conical top. If the height and radius of the cylindrical part are 3 m and 14 m respectively, and the total height of the tent is 13.5 m, then find the area of the canvas required for making the tent, keeping a provision of 26 m² of canvas for stitching and wastage. Also, find the cost of the canvas to be purchased at the rate of ₹ 250 per m².",
+   "options": null,
+   "figure": null,
+   "answer": "Height of conical part = 13.5 − 3 = 10.5 m. Slant height $l = \\sqrt{14^2 + 10.5^2} = 17.5$ m. CSA of conical part = $\\pi r l = \\frac{22}{7} \\times 14 \\times 17.5 = 770$ m². CSA of cylindrical part = $2\\pi r h = 2 \\times \\frac{22}{7} \\times 14 \\times 3 = 264$ m². Total area of canvas required = 770 + 264 + 26 = 1060 m². Cost of canvas = 250 × 1060 = ₹ 265000.",
+   "or": {
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "A solid wooden toy is in the form of a hemisphere surmounted by a cone of the same radius. The radius of hemisphere is 3.5 cm and the total wood used in making the toy is $166\\frac{5}{6}$ cm³. Find the height of the conical part. Also, find the cost of painting the hemispherical part of the toy at the rate of ₹ 15 per cm².",
+    "options": null,
+    "figure": null,
+    "answer": "Let $h$ cm be the height of the conical part. Volume of wood = volume of cone + volume of hemisphere: $166\\frac{5}{6} = \\frac{1001}{6} = \\frac{1}{3} \\times \\frac{22}{7} \\times (3.5)^2 \\times h + \\frac{2}{3} \\times \\frac{22}{7} \\times (3.5)^3 \\Rightarrow h = 6$ cm. CSA of hemispherical part = $2\\pi r^2 = 2 \\times \\frac{22}{7} \\times (3.5)^2 = 77$ cm². Cost of painting = 15 × 77 = ₹ 1155."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "Manish is standing on level ground and observes a kite flying 200 m away from him at an angle of elevation of $30^\\circ$. Mahesh, standing on the roof of a 50 m high building on the opposite side of the kite, observes the same kite at an angle of elevation of $45^\\circ$. Find the distance between the kite and Mahesh.",
+   "options": null,
+   "figure": null,
+   "answer": "Let Manish be at A and Mahesh at D (top of building DC = 50 m); the kite is at B, BE is its height above ground, and R is the foot of the perpendicular from D on BE. In right $\\triangle AEB$: $\\frac{BE}{200} = \\sin 30^\\circ = \\frac{1}{2} \\Rightarrow BE = 100$ m. $BR = BE - RE = BE - DC = 100 - 50 = 50$ m. In right $\\triangle BRD$: $\\frac{50}{BD} = \\sin 45^\\circ = \\frac{1}{\\sqrt{2}} \\Rightarrow BD = 50\\sqrt{2}$ m. Distance of kite from Mahesh is $50\\sqrt{2}$ m.",
+   "or": {
+    "chapter": "Ch09_Some_Applications_of_Trigonometry",
+    "text": "The angles of depression of two ships from the top of a lighthouse and on the same side of it are found to be $45^\\circ$ and $30^\\circ$. If the ships are 200 m apart and one ship is exactly behind the other then find the height of lighthouse.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the height of the lighthouse AB be $h$ m, with ships at C (nearer, $45^\\circ$) and D (farther, $30^\\circ$), CD = 200 m. In right $\\triangle ABC$: $\\frac{h}{BC} = \\tan 45^\\circ = 1 \\Rightarrow BC = h$ ... (i). In right $\\triangle ABD$: $\\frac{h}{h+200} = \\tan 30^\\circ = \\frac{1}{\\sqrt{3}} \\Rightarrow h = \\frac{200}{\\sqrt{3}-1} \\times \\frac{\\sqrt{3}+1}{\\sqrt{3}+1} = 100(\\sqrt{3}+1)$. Height of the lighthouse is $100(\\sqrt{3}+1)$ m."
+   },
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "A student entrepreneur started a company that manufactures sanitizers in two sizes – small and large. The cost of a small bottle of sanitizer is ₹10 and that of a large bottle is ₹15. In June, the company sold 1000 bottles and recorded a total sale of ₹12,750. Seeing the increased demand, the company decided to increase the price of both sanitizer bottles by ₹2 each. In the next month, the company sold 2500 bottles and recorded a total sale of ₹34,250.\nBased on the above information, answer the following questions:",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Form a linear equation in two variables representing the sale for June.",
+     "marks": 1,
+     "options": null,
+     "answer": "Let the numbers of small and large bottles be $x$ and $y$ respectively. $10x + 15y = 12750$ or $2x + 3y = 2550$."
+    },
+    {
+     "text": "Form a linear equation in two variables representing the sale for July.",
+     "marks": 1,
+     "options": null,
+     "answer": "$12x + 17y = 34250$."
+    },
+    {
+     "text": "(A) How many sanitizer bottles of each type were actually sold in June?",
+     "marks": 2,
+     "options": null,
+     "answer": "$x + y = 1000$ ... (i) and $10x + 15y = 12750$ ... (ii). Solving, $x = 450$ and $y = 550$. Number of small and large bottles sold are 450 and 550 respectively.",
+     "or": {
+      "text": "(B) How many sanitizer bottles of each type were sold in July?",
+      "answer": "$x + y = 2500$ ... (i) and $12x + 17y = 34250$ ... (ii). Solving, $x = 1650$ and $y = 850$. Number of small and large bottles sold are 1650 and 850 respectively."
+     }
+    }
+   ]
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch10_Circles",
+   "text": "In a technology park in Hyderabad, a company installed a circular meditation garden for its employees as shown in the figure.\nArjun, a designer, stood at a point P outside the garden and drew two tangents PA and PB to the circular boundary. The radius of the garden is 9 m, and the distance of point P from the centre O is 18 m. For preparing safety guidelines, Arjun needed the lengths of the tangents. During a demonstration to interns, he asked them to compute the angle formed between the two tangents using the properties of circle.\nBased on the above information, answer the following questions:",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the measure of $\\angle OAP$?",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\angle OAP = 90^\\circ$ (radius is perpendicular to the tangent at the point of contact)."
+    },
+    {
+     "text": "Calculate the length of the tangent PA.",
+     "marks": 1,
+     "options": null,
+     "answer": "In right-angled $\\triangle OAP$, $OP^2 = OA^2 + AP^2 \\Rightarrow 18^2 = 9^2 + AP^2 \\Rightarrow AP = \\sqrt{243} = 9\\sqrt{3}$ m."
+    },
+    {
+     "text": "(A) Calculate the measure of $\\angle AOB$.",
+     "marks": 2,
+     "options": null,
+     "answer": "Let $\\angle AOP = \\theta$. In right $\\triangle OAP$, $\\cos\\theta = \\frac{9}{18} = \\frac{1}{2} = \\cos 60^\\circ \\Rightarrow \\theta = 60^\\circ$. $\\therefore \\angle AOB = 2\\theta = 120^\\circ$.",
+     "or": {
+      "text": "(B) In the above design, if PA and PB were inclined at $60^\\circ$, then what would be their length?",
+      "answer": "If the tangents are inclined at $60^\\circ$, then $\\angle OPA = \\frac{1}{2} \\times 60^\\circ = 30^\\circ$. In right $\\triangle OPA$, $\\frac{9}{AP} = \\tan 30^\\circ = \\frac{1}{\\sqrt{3}} \\Rightarrow AP = 9\\sqrt{3}$ m."
+     }
+    }
+   ]
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_Statistics",
+   "text": "A school conducted a weekly test for Class X students, before the commencement of the pre-board examination and recorded their scores (out of 50). To analyse performance patterns, the academic coordinator grouped the marks into intervals. The grouped frequency distribution is as below:\n| Marks Obtained | 0 – 10 | 10 – 20 | 20 – 30 | 30 – 40 | 40 – 50 |\n|---|---|---|---|---|---|\n| Number of students | 3 | 6 | 12 | 15 | 14 |\nThe academic coordinator computed the central tendencies to judge overall learning level, the most common performance range and to understand consistency across the batch for planning the remedial sessions.\nBased on the above information, answer the following questions:",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Identify the class with the most common performance range.",
+     "marks": 1,
+     "options": null,
+     "answer": "30 – 40 (the class with the highest frequency, 15)."
+    },
+    {
+     "text": "Find the class interval containing the median.",
+     "marks": 1,
+     "options": null,
+     "answer": "Cumulative frequencies: 3, 9, 21, 36, 50. Since $\\frac{N}{2} = 25$, the median class is 30 – 40."
+    },
+    {
+     "text": "(A) What is the average performance of the students?",
+     "marks": 2,
+     "options": null,
+     "answer": "Class marks $x_i$: 5, 15, 25, 35, 45; $f_ix_i$: 15, 90, 300, 525, 630; $\\sum f_i = 50$, $\\sum f_ix_i = 1560$. Mean = $\\frac{1560}{50} = 31.2$.",
+     "or": {
+      "text": "(B) Find the mode of the data.",
+      "answer": "Modal class is 30 – 40, $f_0 = 12$, $f_1 = 15$, $f_2 = 14$. Mode = $30 + \\left(\\frac{15-12}{2 \\times 15 - 12 - 14}\\right) \\times 10 = 37.5$."
+     }
+    }
+   ]
+  }
+ ]
+}

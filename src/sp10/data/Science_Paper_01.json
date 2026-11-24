@@ -1,0 +1,726 @@
+{
+ "subject": "Science",
+ "paper": "Paper_01",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Cramps are caused by heavy exercise resulting in the accumulation of",
+   "options": [
+    "Lactic acid",
+    "Ethanol",
+    "Carbon dioxide",
+    "Heat"
+   ],
+   "figure": null,
+   "answer": "(a) Lactic acid",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "The number of pair (s) of sex chromosomes in the zygote of humans is",
+   "options": [
+    "one",
+    "three",
+    "four",
+    "two"
+   ],
+   "figure": null,
+   "answer": "(a) one - a zygote has 23 pairs of chromosomes (46); out of them, one pair is the sex chromosomes.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "An example of a man-made ecosystem is:",
+   "options": [
+    "Grassland",
+    "Garden",
+    "Desert",
+    "River"
+   ],
+   "figure": null,
+   "answer": "(b) Garden - an ecosystem may be natural or man-made; a garden is man-made, whereas deserts, rivers and grasslands are natural ecosystems.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Match the following with correct response.\n| Column A | Column B |\n|---|---|\n| (i) Junction between neuron | (a) Thermoreceptors |\n| (ii) The largest cell in the human body | (b) Neuron |\n| (iii) Sense organs for smell | (c) Synapse |\n| (iv) Sense organs for touch | (d) Olfactory receptors |",
+   "options": [
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)"
+   ],
+   "figure": null,
+   "answer": "(d) (i) - (c), (ii) - (b), (iii) - (d), (iv) - (a). A synapse is the junction between neurons; a neuron is the largest cell in the human body; olfactory receptors detect odorants (smell); thermoreceptors in the skin detect heat and cold (touch).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Steps of a food chain are called:",
+   "options": [
+    "Food steps",
+    "Trophic levels",
+    "Food levels",
+    "Trophic steps"
+   ],
+   "figure": null,
+   "answer": "(b) Trophic levels - each step or level of the food chain forms a trophic level.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Which of the following is an incorrect statement?",
+   "options": [
+    "Movement of molecules does not take place among cells",
+    "Organisms grow with time",
+    "Organisms must repair and maintain their structure",
+    "Energy is essential for life processes"
+   ],
+   "figure": null,
+   "answer": "(a) Movement of molecules does not take place among cells - movement of molecules in and among cells (diffusion, osmosis, etc.) is a vital process.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Junctions of two neurons in called:",
+   "options": [
+    "neuro muscular junction",
+    "neural joint",
+    "synapse",
+    "cell junction"
+   ],
+   "figure": null,
+   "answer": "(c) synapse - the point where two neurons join; the electrical impulse is converted into a chemical signal to cross the gap.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Assertion (A): Characteristics of parental plants can be preserved through asexual reproduction.\nReason (R): Vegetative reproduction involves only mitosis.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A.",
+    "Both A and R are true, and R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Asexual reproduction involves a single individual and gives genetically identical offspring because only mitotic divisions are involved and the chromosome number remains the same.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Assertion (A): Ozone layer protects the surface of the Earth from harmful UV radiations.\nReason (R): Chlorofluorocarbons (CFCs) are responsible for depletion of ozone layer.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A.",
+    "Both A and R are true, and R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "How will an organism be benefited if it reproduces through spores?",
+   "options": null,
+   "figure": null,
+   "answer": "The spores are covered by thick walls that protect them until they come into contact with a suitable moist surface and can begin to grow.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "The maximum concentration of harmful chemicals accumulates in human beings. State the phenomenon involved and justify this statement.",
+   "options": null,
+   "figure": null,
+   "answer": "Human beings are always placed at the top of a food chain. The concentration of harmful chemicals (non-biodegradable substances) goes on increasing at every trophic level; as human beings are placed at the apex of every food chain, the maximum concentration of harmful chemicals gets accumulated in their body. This phenomenon is called biomagnification.",
+   "or": {
+    "text": "Carnivores cannot be self-dependent and have to depend on herbivores. Explain.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch13_Our_Environment",
+    "answer": "Food chain starts with producers i.e. autotrophs. Carnivores cannot prepare their food by themselves, they are dependent on herbivores which in turn are dependent on producers who can photosynthesise and prepare their food with the help of sunlight."
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Compare and contrast nervous and hormonal mechanisms for control and coordination in animals.",
+   "options": null,
+   "figure": null,
+   "answer": "Difference between nervous control and hormonal control:\n| Nervous control | Hormonal control |\n|---|---|\n| (i) Consists of nerve impulses conducted by neurons from one organ to another organ. | (i) Consists of the endocrine system which secretes chemical messengers, hormones, directly into blood. |\n| (ii) Nervous impulses produce rapid, short lasting responses. | (ii) Hormones produce longer lasting responses. |\n| (iii) Nervous impulses are not specific in their action. | (iii) Action of hormones is highly specific. |",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "Show how man has been able to produce crop plants by selective breeding.",
+   "options": null,
+   "figure": null,
+   "answer": "Selective breeding: from the wild mustard (Brassica oleracea), man has selected for different features to produce different crop plants: selection for terminal buds gave cabbage; for lateral buds, Brussels sprouts; for the stem, kohlrabi; for leaves, kale; for stem and flowers, broccoli; and for flower clusters, cauliflower. (Diagram in the key.)",
+   "or": null,
+   "subparts": null,
+   "note": "Answer in the key is a labelled figure (fig_p10_0.png) of Brassica oleracea giving the six vegetables."
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Name the following\ni. The process in plants that links light energy with chemical energy.\nii. Organisms that can prepare their own food.\niii. The cell organelle where photosynthesis occurs.\niv. Cells that surround a stomatal pore.\nv. Organisms that cannot prepare their own food.\nvi. An enzyme secreted from gastric glands in the stomach that act on proteins.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Photosynthesis - green plants having chlorophyll synthesise glucose from water and CO₂ using the energy of sunlight.\nii. Autotrophs - organisms which synthesise their own food from inorganic substances (e.g. green plants).\niii. Chloroplast - contains chlorophyll, the green pigment which traps light energy.\niv. Guard cells - a pair of guard cells surrounds each stomatal pore and controls its opening and closing by the inflow and outflow of water.\nv. Heterotrophs - organisms which cannot make their own food and depend on others (e.g. all animals, yeast, most bacteria).\nvi. Pepsin - protein-digesting enzyme secreted by the gastric glands in the stomach wall.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "text": "A student crossed pea plants having round and yellow seeds with pea plants having wrinkled and green seeds. He found that only one type of seeds were produced in the F1 generation. When these F1 generation pea plants were self-pollinated with each other, then in addition to the seed type of F1 generation, some new types of seed combinations were also obtained in the F2 generation.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Mention the dominant traits observed in F1 generation.",
+     "marks": 1,
+     "options": null,
+     "answer": "Round and Yellow traits are dominant."
+    },
+    {
+     "text": "What are the new possible combinations of seeds likely to be observed in F2 generation?",
+     "marks": 1,
+     "options": null,
+     "answer": "New possibilities: Round Green, Wrinkled Yellow (the combinations Round Yellow and Wrinkled Green are the parental types)."
+    },
+    {
+     "text": "Give reason why the traits which were not visible in the seeds of F1 generation reappeared in the seeds of F2 generation. Write the ratio of different types of seeds obtained in F2 generation in this case.",
+     "marks": 2,
+     "options": null,
+     "answer": "It is because of segregation of alleles: during the formation of gametes, each gene separates from the other so that each gamete carries only one allele for each gene, hence the recessive traits reappear in F2. (The key does not state the ratio; the standard dihybrid F2 ratio is 9:3:3:1.)",
+     "or": {
+      "text": "What is meant by the terms (I) dominant, and (II) recessive traits? Explain.",
+      "options": null,
+      "answer": "The trait that first appears or is visibly expressed in the organism is called the dominant trait. The trait that is present at the gene level but is masked and does not show itself in the organism is called the recessive trait."
+     }
+    }
+   ],
+   "note": "Key lists the new combinations as Round Yellow, Round Green, Wrinkled Yellow, Wrinkled Green; the ratio in part iii is not given in the key."
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "i. Draw a diagram showing the germination of pollen on the stigma of a flower and mark on it the following organs/parts:\na. Pollen Grain\nb. Pollen tube\nc. Stigma\nd. Female germ cell\nii. State the significance of the pollen tube.\niii. Name the parts of a flower that develop after fertilization into\na. Seed\nb. Fruit",
+   "options": null,
+   "figure": null,
+   "answer": "i. Diagram (in the key, fig_p11_0.png) showing pollen grain on the stigma, pollen tube growing through the style and reaching the ovule with the female germ cell (egg).\nii. Pollen tubes act as conduits to transport the male gamete cells from the pollen grain, from the stigma to the ovules at the base of the pistil.\niii. After fertilization: a. Ovules develop into Seed. b. The ovary develops into a Fruit.",
+   "or": {
+    "text": "List some functions of the human brain.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch06_Control_and_Coordination",
+    "answer": "Major functions of the human brain are:\ni. The cerebral cortex is greatly enlarged in human brains and is considered the seat of complex thought. It coordinates activities of the body so that mechanical and hormonal reactions of the body work together.\nii. Visual processing takes place in the occipital lobe, near the back of the skull.\niii. The temporal lobe is located behind our ears and is involved in vision, memory, sensory input, language, emotion.\niv. The parietal lobe integrates input from different senses and is important for spatial orientation and navigation.\nv. The brain stem relays information between the brain and the body, supplies some cranial nerves to the face and head, and controls the heart, breathing and consciousness.\nvi. The thalamus relays sensory and motor signals to the cortex and regulates consciousness, sleep and alertness. The hypothalamus connects the nervous system to the endocrine system via the pituitary gland.\nvii. The cerebellum lies beneath the cerebrum and has important functions in motor control, coordination and balance."
+   },
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Find the incorrect statement:\nA. The pH of the stomach is approximately 4.5\nB. Plants grow well in natural soil\nC. The pH of acid rain is nearly 5.6\nD. The pH of rainwater is nearly 7",
+   "options": [
+    "Statement (B)",
+    "Statement (D)",
+    "Statement (C)",
+    "Statement (A)"
+   ],
+   "figure": null,
+   "answer": "(d) Statement (A) - the human stomach produces gastric juice containing hydrochloric acid, resulting in a pH of about 1.4, not 4.5.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Soap doesn't work well with woollen garments because:\nA. It is basic in nature and woollen garments have acidic dyes.\nB. It is acidic in nature and woollen garments have basic dyes.",
+   "options": [
+    "(A)",
+    "(B)",
+    "None of these",
+    "Both (A) and (B)"
+   ],
+   "figure": null,
+   "answer": "(a) (A) - soap is basic in nature. Acid dyes are used to dye protein fibres such as wool and silk, so the soap gets neutralised by the acidic dyes.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Electrical wires have a coating of an insulting material. The material, generally used is",
+   "options": [
+    "PVC",
+    "All can be used",
+    "Sulphur",
+    "Graphite"
+   ],
+   "figure": null,
+   "answer": "(a) PVC - an insulating substance such as PVC does not allow electric current to pass through it.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n| | |\n|---|---|\n| (1) Soap | (A) Sodium salts of long-chain of sulphonic acids |\n| (2) Detergents | (B) Esterification |\n| (3) The reaction of CH₃COOH with metal hydroxides | (C) Neutralization |\n| (4) The reaction of CH₃COOH with alcohols | (D) Sodium salts of long-chain fatty acids |",
+   "options": [
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)"
+   ],
+   "figure": null,
+   "answer": "(a) (1)-(D), (2)-(A), (3)-(C), (4)-(B). Soaps are sodium/potassium salts of long-chain fatty acids; detergents are sodium salts of long-chain sulphonic acids; CH₃COOH + NaOH → CH₃COONa + H₂O is neutralisation; CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O is esterification.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "The slag obtained during the extraction of copper pyrites is composed mainly of:",
+   "options": [
+    "CuSiO₃",
+    "SiO₂",
+    "Cu₂S",
+    "FeSiO₃"
+   ],
+   "figure": null,
+   "answer": "(d) FeSiO₃ - the sulphide ore of copper containing iron is mixed with silica before heating in a reverberatory furnace; iron oxide forms the slag iron silicate: FeO + SiO₂ → FeSiO₃.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "The formula of washing soda is",
+   "options": [
+    "Na₂CO₃·6H₂O",
+    "NaHCO₃·6H₂O",
+    "NaHCO₃·10H₂O",
+    "Na₂CO₃·10H₂O"
+   ],
+   "figure": null,
+   "answer": "(d) Na₂CO₃·10H₂O",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "The following table shows the pH values of four solutions A, B, C and D on a pH scale (A at pH 5, B at 7, C at 13, D at 3). The solutions A, B, C and D respectively are of a",
+   "options": [
+    "Weak acid, neutral, strong base, strong acid",
+    "Weak acid, neutral, weak base, strong base",
+    "Strong acid, weak acid, neutral, strong base",
+    "Weak acid, neutral, strong base, weak base"
+   ],
+   "figure": "fig_p04_1.png",
+   "answer": "(a) Weak acid, neutral, strong base, strong acid",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Assertion (A): To dilute concentrated sulphuric acid water is added to the acid slowly.\nReason: A lot of heat energy will be given out in the dilution of concentrated sulphuric acid.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A.",
+    "Both A and R are true, and R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A (as printed in the key). Note: the standard practice is to add the acid to water slowly with constant stirring, because dilution is highly exothermic and water added to concentrated acid can spurt and burn the skin.",
+   "or": null,
+   "subparts": null,
+   "note": "The assertion as printed says water is added to the acid, which is the wrong procedure; the key nevertheless marks option (a). Teacher check advised."
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Metal compound A reacts with dilute hydrochloric acid to produce effervescence. The gas evolved extinguishes a burning candle. Write a balanced chemical equation for the reaction if one of the compounds formed is calcium chloride.",
+   "options": null,
+   "figure": null,
+   "answer": "Carbon dioxide is the gas that extinguishes a burning candle; it is produced with effervescence when dilute HCl acts on a metal carbonate or hydrogen carbonate. Since calcium chloride is formed, compound A is calcium carbonate (calcium hydrogen carbonate does not exist as a solid).\n$\\mathrm{CaCO_3(s) + 2HCl(aq) \\rightarrow CaCl_2(aq) + CO_2(g) + H_2O(l)}$",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "When solutions of silver nitrate and sodium chloride are mixed, white precipitate forms. The ionic equation for the reaction is\n$\\mathrm{Ag^+(aq) + Cl^-(aq) \\rightarrow AgCl(s)}$\na. i. What is the name of the white precipitate?\nb. Is it a soluble or insoluble compound?\nii. Is the precipitation of silver chloride a redox reaction?",
+   "options": null,
+   "figure": null,
+   "answer": "i. a. The white precipitate is AgCl (silver chloride).\nb. It is an insoluble compound.\nii. It is not a redox reaction: NaCl(aq) + AgNO₃(aq) → AgCl(s) + NaNO₃(aq). The cations Ag⁺ and Na⁺ have exchanged their anions NO₃⁻ and Cl⁻ and a precipitate of AgCl has been formed; it is a double displacement (precipitation) reaction.",
+   "or": {
+    "text": "Identify the type of reactions taking place in each of the following cases and write the balanced chemical equation for the reactions.\na. Zinc reacts with silver nitrate to produce zinc nitrate and silver.\nb. Potassium iodide reacts with lead nitrate to produce potassium nitrate and lead iodide.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "answer": "a. It is a displacement reaction. Zn + 2AgNO₃ → Zn(NO₃)₂ + 2Ag\nb. It is a double displacement reaction. 2KI + Pb(NO₃)₂ → 2KNO₃ + PbI₂"
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "A, B and C are 3 elements which undergo chemical reactions according to following equations:\na) $\\mathrm{A_2O_3 + 2B \\rightarrow B_2O_3 + 2A}$\nb) $\\mathrm{3CSO_4 + 2B \\rightarrow B_2(SO_4)_3 + 3C}$\nc) $\\mathrm{3CO + 2A \\rightarrow A_2O_3 + 3C}$\nAnswer of the following:\ni) Which element is most reactive?\nii) Which element is least reactive?",
+   "options": null,
+   "figure": null,
+   "answer": "(i) The most reactive element is B, as it has replaced both A and C from their compounds.\n(ii) Element C is the least reactive, as it has been replaced by both A and B.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "When the fats and oil present in the food material get oxidized by the oxygen (of air), their oxidation products have unpleasant smells and tastes. Due to this taste of food material containing fats and oil change and become very unpleasant. The condition produced by aerial oxidation of fats and oils in food marked by unpleasant smell and taste is called rancidity. Rancidity spoils the food material prepared in the fats and oils which have been kept for a considerable time and makes them unfit for eating.\nThe development of rancidity in food can be prevented in the following ways-\nI. Rancidity can be prevented by adding an antioxidant to foods containing fats and oils.\nII. Rancidity can be prevented by packaging fat and oil-containing food in Nitrogen gas.\nIII. Rancidity can be prevented by keeping food in a refrigerator.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What do you understand by oxidation?",
+     "marks": 1,
+     "options": null,
+     "answer": "The process in which addition of oxygen and removal of hydrogen to a substance take place is called oxidation."
+    },
+    {
+     "text": "How does the food become rancid?",
+     "marks": 1,
+     "options": null,
+     "answer": "Food becomes rancid when the fats and oils present in the food are oxidised."
+    },
+    {
+     "text": "How can we prevent the rancidity of food?",
+     "marks": 2,
+     "options": null,
+     "answer": "Rancidity can be prevented by packaging fat and oil-containing food in nitrogen gas (also by adding antioxidants and by refrigeration).",
+     "or": {
+      "text": "Which type of food material gets spoiled by the phenomenon of rancidity?",
+      "options": null,
+      "answer": "Rancidity spoils those food materials that are prepared in fats and oils which have been kept for a considerable time and makes them unfit for eating."
+     }
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "a. What is a hydrocarbon? Give its one example.\nb. Give the structural difference between saturated and unsaturated hydrocarbons with two examples each.\nc. Name the following compounds:\ni. CH₃-OH\nii. CH₃-CHO (acetaldehyde structure: CH₃-C(=O)-H)\niii. CH₃-C(=O)-CH₃\niv. CH₃-C(=O)-OH",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": "a. Carbon compounds containing only carbon and hydrogen are called hydrocarbons. Example: alkane / alkene / alkyne / any other.\nb. Saturated hydrocarbons consist of only single bonds (examples: ethane CH₃-CH₃, propane CH₃-CH₂-CH₃). Unsaturated hydrocarbons consist of double or triple bonds (examples: ethene CH₂=CH₂, ethyne H-C≡C-H).\nc. i. Methanol / methyl alcohol\nii. Ethanal / acetaldehyde\niii. Propanone / acetone\niv. Ethanoic acid / acetic acid",
+   "or": {
+    "text": "A carbon compound 'A' is widely used as a preservative in pickles and has a molecular formula C₂H₄O₂. This compound reacts with ethanol to form a sweet smelling compound 'B'.\ni. Identify the compound 'A' and write its structure.\nii. Write the chemical equation for the reaction of 'A' with ethanol to form compound 'B'. State the role of presence of an acid in the reaction.\niii. How can we get compound 'A' back from 'B'?\niv. How can 'A' be obtained from ethanol?\nv. Name the gas produced when compound 'A' reacts with washing soda.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "answer": "i. A is ethanoic acid, CH₃COOH (structure: CH₃-C(=O)-OH).\nii. CH₃COOH + C₂H₅OH →(conc. H₂SO₄) CH₃COOC₂H₅ + H₂O. The acid acts as a catalyst.\niii. By adding dilute NaOH to B (ester) - saponification: the sodium salt of the acid is produced, which on acidification gives A (also by hydrolysis with water and acid or base).\niv. By oxidising ethanol with alkaline potassium permanganate or acidified potassium dichromate on warming: CH₃CH₂OH →(alkaline KMnO₄ + heat, or acidified K₂Cr₂O₇ + heat) CH₃COOH.\nv. Carbon dioxide (CO₂)."
+   },
+   "subparts": null,
+   "note": "Figure fig_p06_0.png is the structure given for part c(ii); other parts are typed in text."
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Which of the following statement is incorrect?\nA. A ray of light passing from an optically rarer medium to an optically denser medium bends away from the normal.\nB. A ray of light passing from an optically denser medium to an optically rarer medium bends away from the normal.\nC. A ray of light passing from an optically rarer medium to an optically denser medium bends toward the normal.\nD. A ray light passing from an optically denser medium to an optically rarer medium bends towards the normal.",
+   "options": [
+    "A, B and D",
+    "B and C",
+    "A and C",
+    "A and D"
+   ],
+   "figure": null,
+   "answer": "(b) B and C (as marked in the key). Explanation in the key: a ray passing from a denser to a rarer medium bends away from the normal, and from a rarer to a denser medium bends towards the normal.",
+   "or": null,
+   "subparts": null,
+   "note": "The key marks (b) 'B and C' with an explanation that actually shows A and D are incorrect (the question asks for the incorrect statement, so the correct option by content is (d) A and D). Teacher check advised."
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "In the following ray diagram the correctly marked angles are:",
+   "options": [
+    "$\\angle A$ and $\\angle D$",
+    "$\\angle r$, $\\angle A$ and $\\angle D$",
+    "$\\angle i$ and $\\angle e$",
+    "$\\angle i$, $\\angle e$ and $\\angle D$"
+   ],
+   "figure": "fig_p06_1.png",
+   "answer": "(b) $\\angle r$, $\\angle A$ and $\\angle D$",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Assertion (A): A current-carrying rod is suspended between U-shaped magnet, the rod deflects.\nReason (R): A force is exerted on the rod due to magnetic field.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A.",
+    "Both A and R are true, and R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. A force is exerted on a current-carrying conductor in a magnetic field; its direction is given by Fleming's left-hand rule.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "Student sitting at the back bench in a class is not able to see what is written on the blackboard. He, however, sees it clearly when sitting on the front seat at an approximate distance of 1.5 m from the blackboard. Draw ray diagrams to illustrate the image formation of the blackboard when he is seated at the\ni. back seat\nii. front seat.",
+   "options": null,
+   "figure": null,
+   "answer": "The student is suffering from myopia (short-sightedness), caused by 1. excessive curvature of the cornea, or 2. elongation of the eyeball.\ni. Back seat: rays from the distant blackboard (nearly parallel) are focused in front of the retina (diagram in the key).\nii. Front seat (about 1.5 m): the image is formed on the retina (diagram in the key).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "text": "Compute the heat generated while transferring 96,000 coulomb of charge in one hour through a potential difference of 50V.",
+   "options": null,
+   "figure": null,
+   "answer": "Work done to transfer charge $Q$ through potential difference $V$ is $VQ$ joule. $W = 50\\times96{,}000 = 48{,}00{,}000\\ \\mathrm{J} = 4.8\\times10^6\\ \\mathrm{J}$, which is equal to the heat generated.",
+   "or": {
+    "text": "Calculate the resistance of an electric bulb which allows a 10A current when connected to a 220V power source?",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch11_Electricity",
+    "answer": "$I=10$ A, $V=220$ V. $R=\\frac{V}{I}=\\frac{220}{10}=22\\ \\Omega$"
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "a. Draw the pattern of magnetic field lines around a current carrying straight conductor through which current is flowing vertically upward. Mark the direction of the field lines corresponding to the direction of current in the conductor.\nb. An alpha particle enters a uniform magnetic field at right angles to it as shown in the diagram.\ni. Name the rule which can help in determining the direction of force acting on the alpha particle in this case.\nii. Apply this rule and find the direction of force on the alpha particle.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": "a. Concentric circular field lines around the conductor in a plane perpendicular to it, with the direction given by the right-hand thumb rule (diagram in the key showing direction of current and corresponding field lines).\nb. i. Fleming's Left Hand Rule.\nii. Out of the plane of the paper.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "i. State two main causes of a person developing near-sightedness. With the help of a ray diagram, suggest how he can be helped to overcome his disability?\nii. The far point of myopic person is 100 cm in front of the eye. Calculate the focal length and power of a lens required to enable him to see distant objects clearly.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Near-sightedness (myopia) arises because of (a) decrease in focal length of the eye lens (excessive curvature), or (b) elongation of the eyeball. To correct this defect he must use a concave lens of suitable focal length, which brings the image back to the retina (ray diagram in the key).\nii. $v=-100$ cm, $u=\\infty$. Using the lens formula, $\\frac{1}{f}=\\frac{1}{v}-\\frac{1}{u}=\\frac{1}{-100}-\\frac{1}{\\infty}$, so $f=-100\\ \\mathrm{cm}=-1$ m. Power $P=\\frac{1}{f(\\mathrm{m})}=\\frac{1}{-1}=-1$ D.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "A magnetic compass needle is placed in the plane of paper near point A as shown in the figure.\ni. In which plane should a straight current-carrying conductor be placed so that it passes through A and there is no change in the deflection of the compass?\nii. Under what condition is the deflection maximum and why?",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": "When the magnetic field due to the current and the direction of the compass needle's field are in the same plane, there would be deflection. For no deflection, the conductor should be kept parallel to the magnetic compass (i.e. in the plane of the paper's field direction, parallel to the needle). For maximum deflection, the magnetic field of the conductor and the compass field should be mutually perpendicular, i.e. the conductor should be placed perpendicular to the compass.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "text": "Study the following circuit:\nOn the basis of this circuit, answer the following questions:",
+   "options": null,
+   "figure": "fig_p08_1.png",
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the value of total resistance between the points A and B.",
+     "marks": 1,
+     "options": null,
+     "answer": "$R_{AB}=4\\ \\Omega+6\\ \\Omega+16\\ \\Omega=26\\ \\Omega$ (series)."
+    },
+    {
+     "text": "Find the resistance between the points B and C.",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\frac{1}{R_P}=\\frac{1}{8}+\\frac{1}{8}=\\frac{1}{4}$, so $R_P=4\\ \\Omega$."
+    },
+    {
+     "text": "Calculate the current drawn from the battery, when the key is closed.",
+     "marks": 2,
+     "options": null,
+     "answer": "Total resistance $=26\\ \\Omega+4\\ \\Omega=30\\ \\Omega$. Potential difference $V=6$ V. Current $I=\\frac{V}{R}=\\frac{6}{30}=\\frac{1}{5}$ A $=0.2$ A.",
+     "or": {
+      "text": "In the above circuit, the 16 Ω resistor or the parallel combination of two resistors of 8 Ω, which one of the two will have more potential difference across its two ends? Justify your answer.",
+      "options": null,
+      "answer": "The 16 Ω resistor. According to Ohm's law, when the same current flows, the potential difference across a higher resistance is higher. Potential difference across 16 Ω $=IR=0.2\\times16=3.2$ V; across the 8 Ω parallel combination (4 Ω) $=IR=0.2\\times4=0.8$ V."
+     }
+    }
+   ]
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "An object 5 cm high is placed at a distance of 10 cm from a convex mirror of radius of curvature 30 cm. Find the nature, position and size of the image.",
+   "options": null,
+   "figure": null,
+   "answer": "$u=-10$ cm. For a convex mirror $f=\\frac{R}{2}=+15$ cm. $\\frac{1}{v}+\\frac{1}{u}=\\frac{1}{f}$, so $\\frac{1}{v}=\\frac{1}{15}+\\frac{1}{10}=\\frac{5}{30}$, $v=+6$ cm. The image is 6 cm behind the mirror, virtual and erect. Magnification $m=-\\frac{v}{u}=-\\frac{6}{-10}=0.6$, so the image is 0.6 times the size of the object. $m=\\frac{h_2}{h_1}$, so $h_2=0.6\\times5=3$ cm. The image is 3 cm high.",
+   "or": {
+    "text": "a. List four characteristics of the image formed by a convex lens when an object is placed between its optical centre and principal focus.\nb. Size of the image of an object by a concave lens of focal length 20 cm is observed to be reduced to $\\frac{1}{3}$rd of its size. Find the distance of the object from the lens.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "answer": "a. The image is formed on the same side of the lens as the object; it is enlarged (magnified), virtual and erect.\nb. $f=-20$ cm, $m=\\frac{v}{u}=\\frac{1}{3}$ so $v=\\frac{u}{3}$. Lens formula $\\frac{1}{v}-\\frac{1}{u}=\\frac{1}{f}$: $\\frac{3}{u}-\\frac{1}{u}=\\frac{2}{u}=-\\frac{1}{20}$, so $u=-40$ cm. The object is 40 cm from the lens."
+   },
+   "subparts": null
+  }
+ ]
+}

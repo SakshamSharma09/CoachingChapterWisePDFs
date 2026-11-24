@@ -1,0 +1,715 @@
+{
+ "subject": "Maths",
+ "paper": "Paper_03",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "If the HCF of 65 and 117 is expressible in the form $65m-117$, then the value of 'm' is",
+   "options": [
+    "1",
+    "4",
+    "3",
+    "2"
+   ],
+   "figure": null,
+   "answer": "(d) 2 — HCF(65, 117): $117=65\\times1+52$, $65=52\\times1+13$, $52=13\\times4+0$, so HCF $=13$. $65m-117=13\\Rightarrow65m=130\\Rightarrow m=2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "A prime number has:",
+   "options": [
+    "exactly two prime factors",
+    "exactly one prime factor",
+    "at least two prime factors",
+    "at least one prime factor"
+   ],
+   "figure": null,
+   "answer": "(b) exactly one prime factor — a prime number has only itself as its prime factor.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "By a reduction of Re.1 per kg in the price of sugar, Radha can buy one kg sugar more for Rs.56. The original price of 1 kg of sugar is",
+   "options": [
+    "Rs.7",
+    "Rs.9",
+    "Rs.6",
+    "Rs.8"
+   ],
+   "figure": null,
+   "answer": "(d) Rs.8 — let the original price be Rs. $x$ per kg. Sugar bought for Rs. 56 originally $=\\frac{56}{x}$ kg; at new price $(x-1)$ it is $\\frac{56}{x-1}$ kg. So $\\frac{56}{x-1}-\\frac{56}{x}=1\\Rightarrow\\frac{56}{x^2-x}=1\\Rightarrow x^2-x-56=0\\Rightarrow(x+7)(x-8)=0$. $x=-7$ is not possible, so $x=8$. Original price is Rs. 8.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "₹ 9,000 were divided equally among a certain number of persons. If there been 20 more persons, each would have got ₹ 160 less. Find the original number of persons.",
+   "options": [
+    "24",
+    "25",
+    "26",
+    "27"
+   ],
+   "figure": null,
+   "answer": "(b) 25 — let the number of persons be $x$: $\\frac{9000}{x}-\\frac{9000}{x+20}=160\\Rightarrow\\frac{9000\\times20}{x(x+20)}=160\\Rightarrow x^2+20x-1125=0\\Rightarrow(x+45)(x-25)=0$, so $x=25$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "If the equation $9x^2+6kx+4=0$ has equal roots, then the roots are both equal to",
+   "options": [
+    "0",
+    "$\\pm3$",
+    "$\\pm\\frac{2}{3}$",
+    "$\\pm\\frac{3}{2}$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\pm\\frac{2}{3}$ — $a=9,b=6k,c=4$; equal roots so $D=b^2-4ac=36k^2-144=0\\Rightarrow k^2=4\\Rightarrow k=\\pm2$. Roots $=\\frac{-b}{2a}=\\frac{\\mp12}{18}=\\mp\\frac{2}{3}$, i.e. both roots are equal to $\\pm\\frac{2}{3}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "If $\\left(\\frac{a}{2},4\\right)$ is the midpoint of the line segment joining the points A (-6, 5) and B(-2, 3) then the value of a is",
+   "options": [
+    "4",
+    "-8",
+    "-4",
+    "3"
+   ],
+   "figure": null,
+   "answer": "(b) $-8$ — $\\frac{a}{2}=\\frac{-6-2}{2}=-4\\Rightarrow a=-8$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "In the given figure, in $\\triangle PQR$, $ST\\parallel QR$. If $PS=16\\ mm$ and $PQ=40\\ mm$, then PT : TR is:",
+   "options": [
+    "2 : 5",
+    "3 : 2",
+    "5 : 2",
+    "2 : 3"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(d) 2 : 3 — $SQ=PQ-PS=40-16=24$ mm. By the basic proportionality theorem, $PT:TR=PS:SQ=16:24=2:3$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "In the adjoining figure if exterior $\\angle EAB=110^\\circ$, $\\angle CAD=35^\\circ$, AB = 5cm, AC = 7cm and BC = 3cm, then CD is equal to",
+   "options": [
+    "2 cm.",
+    "1.75 cm.",
+    "1.9 cm.",
+    "2.25 cm."
+   ],
+   "figure": "fig_p02_1.png",
+   "answer": "(b) 1.75 cm. — $\\angle BAC=180^\\circ-110^\\circ=70^\\circ$, and $\\angle CAD=35^\\circ$, so $\\angle BAD=35^\\circ$, i.e. AD bisects $\\angle A$. Hence $\\frac{AB}{AC}=\\frac{BD}{CD}\\Rightarrow\\frac{5}{7}=\\frac{3-CD}{CD}\\Rightarrow5CD=21-7CD\\Rightarrow12CD=21\\Rightarrow CD=1.75$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In Figure, if AD, AE and BC are tangents to the circle at D, E and F respectively. Then,",
+   "options": [
+    "4AD = AB + BC + CA",
+    "AD = AB + BC + CA",
+    "2AD = AB + BC + CA",
+    "3AD = AB + BC + CA"
+   ],
+   "figure": "fig_p02_2.png",
+   "answer": "(c) 2AD = AB + BC + CA — tangents from an external point are equal: AD = AE, CD = CF, BE = BF. $2AD=AD+AE=(AC+CD)+(AB+BE)=AC+AB+(CF+BF)=AC+AB+BC$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $2\\cos3\\theta=1$ then $\\theta=$ ?",
+   "options": [
+    "$15^\\circ$",
+    "$10^\\circ$",
+    "$30^\\circ$",
+    "$20^\\circ$"
+   ],
+   "figure": null,
+   "answer": "(d) $20^\\circ$ — $2\\cos3\\theta=1\\Rightarrow\\cos3\\theta=\\frac{1}{2}=\\cos60^\\circ\\Rightarrow3\\theta=60^\\circ\\Rightarrow\\theta=20^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "The tops of two poles of height 16 m and 10 m are connected by a wire of length $l$ meters. If the wire makes an angle of $30^\\circ$ with the horizontal, then $l=$",
+   "options": [
+    "10",
+    "26",
+    "12",
+    "16"
+   ],
+   "figure": null,
+   "answer": "(c) 12 — let AB = 16 m and CD = 10 m be the poles and AC the wire of length $l$. Then $AE=AB-BE=16-10=6$ m. In $\\triangle ACE$, $\\sin30^\\circ=\\frac{AE}{AC}\\Rightarrow\\frac{1}{2}=\\frac{6}{l}\\Rightarrow l=12$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "The value of $\\sin^6A+\\cos^6A+3\\cos^2A\\sin^2A$ is",
+   "options": [
+    "1",
+    "-1",
+    "2",
+    "0"
+   ],
+   "figure": null,
+   "answer": "(a) 1 — $\\sin^6A+\\cos^6A+3\\sin^2A\\cos^2A=(\\sin^2A)^3+(\\cos^2A)^3+3\\sin^2A\\cos^2A=(\\sin^2A+\\cos^2A)(\\sin^4A+\\cos^4A-\\sin^2A\\cos^2A)+3\\sin^2A\\cos^2A=\\sin^4A+\\cos^4A+2\\sin^2A\\cos^2A=(\\sin^2A+\\cos^2A)^2=1$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "If a chord of a circle of radius 28 cm makes an angle of $90^\\circ$ at the centre, then the area of the major segment is",
+   "options": [
+    "$2240\\ cm^2$",
+    "$1456\\ cm^2$",
+    "$392\\ cm^2$",
+    "$1848\\ cm^2$"
+   ],
+   "figure": null,
+   "answer": "(a) $2240\\ cm^2$ — area of minor segment $=\\pi r^2\\times\\frac{90^\\circ}{360^\\circ}-\\frac{1}{2}r^2=\\frac{1}{4}\\times\\frac{22}{7}\\times28\\times28-\\frac{1}{2}\\times28\\times28=616-392=224\\ cm^2$. Area of major segment = area of circle $-$ minor segment $=\\frac{22}{7}\\times28\\times28-224=2464-224=2240\\ cm^2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "O is the centre of a circle of diameter 4 cm and OABC is a square, if the shaded area is $\\frac{1}{3}$ area of the square, then the side of the square is _______.",
+   "options": [
+    "$\\pi\\sqrt{3}$ cm",
+    "$\\sqrt{3\\pi}$ cm",
+    "$3\\pi$ cm",
+    "$3\\sqrt{\\pi}$ cm"
+   ],
+   "figure": "fig_p03_0.png",
+   "answer": "(b) $\\sqrt{3\\pi}$ cm — let the side be $x$ cm; area of square $=x^2$. Shaded area is a quadrant (angle $90^\\circ$) of the circle of radius 2 cm: $\\frac{90^\\circ}{360^\\circ}\\times\\pi\\times2^2=\\pi$. Area of square $=3\\times$ shaded area $\\Rightarrow x^2=3\\pi\\Rightarrow x=\\sqrt{3\\pi}$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "A child's game has 8 triangles of which 5 are blue and rest are red and 10 squares of which 6 are blue and the rest are red. One piece is lost at random. The probability that it is a square of blue colour is",
+   "options": [
+    "$\\frac{2}{3}$",
+    "$\\frac{4}{9}$",
+    "$\\frac{1}{3}$",
+    "$\\frac{6}{10}$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\frac{1}{3}$ — total pieces $=8+10=18$; blue squares $=6$. Probability $=\\frac{6}{18}=\\frac{1}{3}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "If the mean of first n natural numbers is $\\frac{5n}{9}$ then the value of n is:",
+   "options": [
+    "5",
+    "10",
+    "9",
+    "4"
+   ],
+   "figure": null,
+   "answer": "(c) 9 — mean of first $n$ natural numbers $=\\frac{n(n+1)}{2n}=\\frac{n+1}{2}$. So $\\frac{n+1}{2}=\\frac{5n}{9}\\Rightarrow9n+9=10n\\Rightarrow n=9$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "A cylindrical tub of radius 5 cm and height 9.8 cm is full of water. A solid in the form of a right circular cone mounted on a hemisphere is immersed into the tub. If the radius of the hemisphere is 3.5 cm and the height of the cone outside the hemisphere is 5 cm, then find the volume of water left in the tub. (Take $\\pi=\\frac{22}{7}$)",
+   "options": [
+    "$716\\ cm^3$",
+    "$600\\ cm^3$",
+    "$616\\ cm^3$",
+    "$535\\ cm^3$"
+   ],
+   "figure": null,
+   "answer": "(c) $616\\ cm^3$ — volume of water in the full tub $=\\pi r^2h=\\frac{22}{7}\\times5\\times5\\times9.8=770\\ cm^3$. Volume of solid immersed = hemisphere + cone $=\\frac{2}{3}\\times\\frac{22}{7}\\times\\left(\\frac{7}{2}\\right)^3+\\frac{1}{3}\\times\\frac{22}{7}\\times\\left(\\frac{7}{2}\\right)^2\\times5=\\frac{539}{6}+\\frac{385}{6}=\\frac{924}{6}=154\\ cm^3$. Water left $=770-154=616\\ cm^3$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "If $\\sum f_iu_i=29$, $\\sum f_i=30$, $a=47.5$ and $h=15$, then the value of $\\bar{x}$ is",
+   "options": [
+    "63",
+    "62",
+    "26",
+    "64"
+   ],
+   "figure": null,
+   "answer": "(b) 62 — $\\bar{x}=a+\\frac{\\sum f_iu_i}{\\sum f_i}\\times h=47.5+\\frac{29}{30}\\times15=47.5+14.5=62$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Assertion (A): The point (-1, 6) divides the line segment joining the points (-3, 10) and (6, -8) in the ratio 2 : 7 internally.\nReason (R): Three points A, B and C are collinear if area of $\\triangle$ABC = 0.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. — By the section formula, $-1=\\frac{k\\times6+1\\times(-3)}{k+1}\\Rightarrow-k-1=6k-3\\Rightarrow7k=2\\Rightarrow k=\\frac{2}{7}$, so the ratio is 2 : 7 internally (A true). R is a true statement about collinearity but does not explain A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Assertion (A): For two prime numbers $x$ and $y\\,(x<y)$, $\\text{HCF}(x,y)=x$ and $\\text{LCM}(x,y)=y$.\nReason (R): $\\text{HCF}(x,y)\\le\\text{LCM}(x,y)$, where $x,y$ are any two natural numbers.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true. (For two distinct primes, HCF = 1 and LCM = $xy$.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "On comparing the ratios $\\frac{a_1}{a_2}$, $\\frac{b_1}{b_2}$ and $\\frac{c_1}{c_2}$, find out whether the lines representing the pair of linear equations intersect at a point, are parallel or coincide: $6x-3y+10=0$; $2x-y+9=0$.",
+   "options": null,
+   "figure": null,
+   "answer": "Comparing with $a_1x+b_1y+c_1=0$ and $a_2x+b_2y+c_2=0$: $a_1=6,b_1=-3,c_1=10$; $a_2=2,b_2=-1,c_2=9$. $\\frac{a_1}{a_2}=\\frac{6}{2}=3$, $\\frac{b_1}{b_2}=\\frac{-3}{-1}=3$, $\\frac{c_1}{c_2}=\\frac{10}{9}$. Since $\\frac{a_1}{a_2}=\\frac{b_1}{b_2}\\ne\\frac{c_1}{c_2}$, the lines are parallel to each other.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Triangles",
+   "text": "P is a point on the side BC of $\\triangle ABC$ such that $\\angle APC=\\angle BAC$. Prove that $AC^2=BC\\cdot CP$.",
+   "options": null,
+   "figure": null,
+   "answer": "In $\\triangle APC$ and $\\triangle BAC$: $\\angle APC=\\angle BAC$ (given) and $\\angle ACP=\\angle ACB$ (common angle). So $\\triangle APC\\sim\\triangle BAC$ (AA). Hence $\\frac{AC}{BC}=\\frac{CP}{AC}$, i.e. $AC^2=BC\\cdot CP$.",
+   "or": {
+    "text": "In the given figure, PQR is a triangle in which PS and QT are altitudes from P and Q respectively, intersecting each other at M. Prove that $\\Delta QSM\\sim\\Delta PTM$.",
+    "options": null,
+    "figure": "fig_p04_0.png",
+    "chapter": "Ch06_Triangles",
+    "answer": "In $\\triangle QSM$ and $\\triangle PTM$: $\\angle QSM=\\angle PTM$ (each $90^\\circ$); $\\angle QMS=\\angle PMT$ (vertically opposite angles). Therefore $\\Delta QSM\\sim\\Delta PTM$ (AA criterion)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "text": "Prove that in two concentric circles, the chord of the larger circle, which touches the smaller circle is bisected at the point of contact.",
+   "options": null,
+   "figure": null,
+   "answer": "Let C1 and C2 be the larger and smaller concentric circles with centre O, and let AB be a chord of C1 touching C2 at P. Then OP is the radius of C2 drawn to the point of contact, so $OP\\perp AB$ ($\\angle OPB=90^\\circ$). In the larger circle C1, the perpendicular from the centre to a chord bisects the chord. Hence AP = PB, i.e. AB is bisected at the point of contact P.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $x=3\\sin\\theta+4\\cos\\theta$ and $y=3\\cos\\theta-4\\sin\\theta$ then prove that $x^2+y^2=25$.",
+   "options": null,
+   "figure": null,
+   "answer": "L.H.S. $=x^2+y^2=(3\\sin\\theta+4\\cos\\theta)^2+(3\\cos\\theta-4\\sin\\theta)^2=9\\sin^2\\theta+16\\cos^2\\theta+24\\sin\\theta\\cos\\theta+9\\cos^2\\theta+16\\sin^2\\theta-24\\sin\\theta\\cos\\theta=9(\\sin^2\\theta+\\cos^2\\theta)+16(\\cos^2\\theta+\\sin^2\\theta)=9\\times1+16\\times1=25=$ R.H.S. Hence proved.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "A car has two wipers which do not overlap. Each wiper has a blade of length 25cm sweeping through an angle of 115°. Find the total area cleaned at each sweep of the blades.",
+   "options": null,
+   "figure": null,
+   "answer": "Radius of each wiper $=25$ cm, $\\theta=115^\\circ$. Total area cleaned at each sweep $=2\\left[\\frac{115}{360}\\times\\frac{22}{7}\\times25\\times25\\right]=\\frac{230\\times22\\times25\\times25}{360\\times7}=\\frac{158125}{126}\\ cm^2\\approx1254.96\\ cm^2$.",
+   "or": {
+    "text": "The areas of two sectors of two different circles are equal. Is it necessary that their corresponding arc lengths are equal? Why?",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "answer": "Area of first sector $=\\frac{1}{2}r_1^2\\theta_1$ and area of second sector $=\\frac{1}{2}r_2^2\\theta_2$ ($\\theta$ in radians). Given $\\frac{1}{2}r_1^2\\theta_1=\\frac{1}{2}r_2^2\\theta_2$, i.e. $r_1^2\\theta_1=r_2^2\\theta_2$. The area depends on both the radius and the angle subtended at the centre, but arc length depends on the radius and the angle too ($l=r\\theta$) and is not fixed by equal areas. Therefore it is not necessary that the corresponding arc lengths are equal. It is possible only if the corresponding angles are equal (then the radii are equal and hence the arc lengths are equal)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "There is a circular path around a sports field. Sonia takes 18 minutes to drive one round of the field, while Ravi takes 12 minutes for the same. Suppose they both start at the same point and at the same time and go in the same direction. After how many minutes will they meet again at the starting point?",
+   "options": null,
+   "figure": null,
+   "answer": "They meet again at the starting point after the LCM of their times. $18=2\\times3^2$, $12=2^2\\times3$; LCM $=2^2\\times3^2=36$. Therefore, Sonia and Ravi will meet again at the starting point after 36 minutes.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Point A lies on the line segment PQ joining P(6, -6) and Q (-4, -1) in such a way that $\\frac{PA}{PQ}=\\frac{2}{5}$. If the point A also lies on the line $3x+k(y+1)=0$, find the value of k.",
+   "options": null,
+   "figure": null,
+   "answer": "$\\frac{PA}{PQ}=\\frac{2}{5}\\Rightarrow\\frac{PA}{PQ-PA}=\\frac{2}{5-2}\\Rightarrow\\frac{PA}{AQ}=\\frac{2}{3}$, so $PA:AQ=2:3$. By the section formula, $x=\\frac{2(-4)+3\\times6}{2+3}=\\frac{10}{5}=2$, $y=\\frac{2(-1)+3(-6)}{5}=\\frac{-20}{5}=-4$. So A is $(2,-4)$. A lies on $3x+k(y+1)=0$: $3\\times2+k(-4+1)=0\\Rightarrow6-3k=0\\Rightarrow k=2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "The ratio of incomes of two persons is 9 : 7 and the ratio of their expenditures is 4 : 3. If each of them manages to save ₹ 2000 per month, then find their monthly incomes.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the incomes be ₹ $9x$ and ₹ $7x$ and the expenditures ₹ $4y$ and ₹ $3y$. Then $9x-4y=2000$ ...(1) and $7x-3y=2000$ ...(2). Multiply (1) by 3 and (2) by 4: $27x-12y=6000$ ...(3), $28x-12y=8000$ ...(4). Subtracting (3) from (4): $x=2000$. From (1): $9(2000)-4y=2000\\Rightarrow y=4000$. Monthly incomes are $9x=$ ₹ 18,000 and $7x=$ ₹ 14,000.",
+   "or": {
+    "text": "Half of the difference between two numbers is 2. The sum of the greater number and twice the smaller number is 13. Find the numbers.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+    "answer": "Let the greater number be $x$ and the smaller $y$. $\\frac{1}{2}(x-y)=2\\Rightarrow x-y=4$ ...(1). $x+2y=13$ ...(2). Subtracting (1) from (2): $3y=9\\Rightarrow y=3$. From (1): $x=7$. The greater number is 7 and the smaller number is 3."
+   },
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "In Figure, XY and X'Y' are two parallel tangents to a circle with centre O and another tangent AB with point of contact C intersects XY at A and X'Y' at B. Prove that $\\angle AOB=90^\\circ$.",
+   "options": null,
+   "figure": "fig_p05_0.png",
+   "answer": "Let P and Q be the points of contact of XY and X'Y'. $\\angle APO=90^\\circ$ and $\\angle BQO=90^\\circ$ (tangent is perpendicular to the radius at the point of contact). In quadrilateral APQB: $\\angle APO+\\angle BQO+\\angle QBC+\\angle PAC=360^\\circ\\Rightarrow\\angle PAC+\\angle QBC=360^\\circ-180^\\circ=180^\\circ$ ...(i). Tangents from an external point are equally inclined to the line joining the centre to that point: $\\angle CAO=\\frac{1}{2}\\angle PAC$ and $\\angle CBO=\\frac{1}{2}\\angle QBC$. So $\\angle CAO+\\angle CBO=\\frac{1}{2}(\\angle PAC+\\angle QBC)=\\frac{1}{2}\\times180^\\circ=90^\\circ$ ...(ii). In $\\triangle AOB$: $\\angle CAO+\\angle AOB+\\angle CBO=180^\\circ\\Rightarrow90^\\circ+\\angle AOB=180^\\circ\\Rightarrow\\angle AOB=90^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove that $\\frac{\\sin\\theta-\\cos\\theta+1}{\\sin\\theta+\\cos\\theta-1}=\\frac{1}{\\sec\\theta-\\tan\\theta}$, using identity $\\sec^2\\theta=1+\\tan^2\\theta$.",
+   "options": null,
+   "figure": null,
+   "answer": "LHS $=\\frac{\\sin\\theta-\\cos\\theta+1}{\\sin\\theta+\\cos\\theta-1}$. Dividing numerator and denominator by $\\cos\\theta$: $=\\frac{\\tan\\theta-1+\\sec\\theta}{\\tan\\theta+1-\\sec\\theta}=\\frac{(\\tan\\theta+\\sec\\theta)-1}{(\\tan\\theta-\\sec\\theta)+1}$. Multiplying and dividing by $(\\tan\\theta-\\sec\\theta)$: $=\\frac{\\{(\\tan\\theta+\\sec\\theta)-1\\}(\\tan\\theta-\\sec\\theta)}{\\{(\\tan\\theta-\\sec\\theta)+1\\}(\\tan\\theta-\\sec\\theta)}=\\frac{(\\tan^2\\theta-\\sec^2\\theta)-(\\tan\\theta-\\sec\\theta)}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}=\\frac{-1-\\tan\\theta+\\sec\\theta}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}$ (as $\\tan^2\\theta-\\sec^2\\theta=-1$) $=\\frac{-(\\tan\\theta-\\sec\\theta+1)}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}=\\frac{-1}{\\tan\\theta-\\sec\\theta}=\\frac{1}{\\sec\\theta-\\tan\\theta}=$ RHS. Hence proved.",
+   "or": {
+    "text": "Prove that: $\\frac{\\tan\\theta+\\sec\\theta-1}{\\tan\\theta-\\sec\\theta+1}=\\frac{1+\\sin\\theta}{\\cos\\theta}$",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "answer": "LHS $=\\frac{(\\tan\\theta+\\sec\\theta)-1}{\\tan\\theta-\\sec\\theta+1}=\\frac{(\\sec\\theta+\\tan\\theta)-(\\sec^2\\theta-\\tan^2\\theta)}{\\tan\\theta-\\sec\\theta+1}$ (using $\\sec^2\\theta-\\tan^2\\theta=1$) $=\\frac{(\\sec\\theta+\\tan\\theta)-(\\sec\\theta+\\tan\\theta)(\\sec\\theta-\\tan\\theta)}{\\tan\\theta-\\sec\\theta+1}=\\frac{(\\sec\\theta+\\tan\\theta)[1-(\\sec\\theta-\\tan\\theta)]}{\\tan\\theta-\\sec\\theta+1}=\\frac{(\\sec\\theta+\\tan\\theta)(1-\\sec\\theta+\\tan\\theta)}{(\\tan\\theta-\\sec\\theta+1)}=\\sec\\theta+\\tan\\theta=\\frac{1}{\\cos\\theta}+\\frac{\\sin\\theta}{\\cos\\theta}=\\frac{1+\\sin\\theta}{\\cos\\theta}=$ RHS."
+   },
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch14_Probability",
+   "text": "There are 100 cards in a bag on which numbers from 1 to 100 are written. A card is taken out from the bag at random. Find the probability that the number on the selected card\ni. is divisible by 9 and is a perfect square.\nii. is a prime number greater than 80.",
+   "options": null,
+   "figure": null,
+   "answer": "Total number of possible outcomes $n=100$. i. Numbers divisible by 9 and a perfect square: 9, 36, 81, so $m=3$ and $P=\\frac{3}{100}$. ii. Prime numbers greater than 80 up to 100: 83, 89, 97, so $m=3$ and $P=\\frac{3}{100}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "Find the smallest value of p for which the quadratic equation $x^2-2(p+1)x+p^2=0$ has real roots. Hence, find the roots of the equation so obtained.",
+   "options": null,
+   "figure": null,
+   "answer": "For real roots, $D\\ge0$: $[-2(p+1)]^2-4p^2\\ge0\\Rightarrow4(p^2+2p+1)-4p^2\\ge0\\Rightarrow8p+4\\ge0\\Rightarrow p\\ge-\\frac{1}{2}$. So the smallest value of $p=-\\frac{1}{2}$. At $p=-\\frac{1}{2}$ the equation becomes $x^2-2\\left(-\\frac{1}{2}+1\\right)x+\\left(-\\frac{1}{2}\\right)^2=0\\Rightarrow x^2-x+\\frac{1}{4}=0\\Rightarrow4x^2-4x+1=0\\Rightarrow(2x-1)(2x-1)=0$. Roots are $\\frac{1}{2},\\frac{1}{2}$.",
+   "or": {
+    "text": "If the roots of the quadratic equation $(c^2-ab)x^2-2(a^2-bc)x+b^2-ac=0$ in x are equal then show that either $a=0$ or $a^3+b^3+c^3=3abc$",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch04_Quadratic_Equations",
+    "answer": "Here $A=c^2-ab$, $B=-2(a^2-bc)$, $C=b^2-ac$. For real equal roots, $D=B^2-4AC=0\\Rightarrow[-2(a^2-bc)]^2-4(c^2-ab)(b^2-ac)=0\\Rightarrow4(a^4-2a^2bc+b^2c^2)-4(b^2c^2-ac^3-ab^3+a^2bc)=0\\Rightarrow4[a^4+ac^3+ab^3-3a^2bc]=0\\Rightarrow a(a^3+b^3+c^3-3abc)=0\\Rightarrow a=0$ or $a^3+b^3+c^3=3abc$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "The angle of elevation of the top of a building from a point A on the ground is $30^\\circ$. On moving a distance of 30 m towards its base to the point B, the angle of elevation changes to $45^\\circ$. Find the height of the building and the distance of its base from point A. (Use $\\sqrt{3}=1.732$)",
+   "options": null,
+   "figure": null,
+   "answer": "Let CD be the building with height $h$, and let $BC=x$ so that $AC=x+30$. In $\\triangle DCA$: $\\tan30^\\circ=\\frac{h}{x+30}\\Rightarrow\\frac{1}{\\sqrt{3}}=\\frac{h}{x+30}$ ...(i). In $\\triangle DCB$: $\\tan45^\\circ=\\frac{h}{x}\\Rightarrow h=x$ ...(ii). From (i) and (ii): $x+30=\\sqrt{3}\\,x\\Rightarrow x=\\frac{30}{\\sqrt{3}-1}=15(\\sqrt{3}+1)$. So $h=x=15\\times2.732=40.98$ m. Height of the building $=40.98$ m; distance of its base from A $=x+30=70.98$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Solve the equation: $-4+(-1)+2+5+\\dots+x=437$.",
+   "options": null,
+   "figure": null,
+   "answer": "The terms form an A.P. with $a=-4$, $d=3$, last term $l=x$. $S_n=\\frac{n}{2}[2a+(n-1)d]\\Rightarrow437=\\frac{n}{2}[-8+3(n-1)]\\Rightarrow874=n(3n-11)\\Rightarrow3n^2-11n-874=0\\Rightarrow3n^2-57n+46n-874=0\\Rightarrow(n-19)(3n+46)=0$. So $n=19$ (n cannot be negative or a fraction). Now $S_n=\\frac{n}{2}(a+l)\\Rightarrow437=\\frac{19}{2}(-4+x)\\Rightarrow-4+x=46\\Rightarrow x=50$.",
+   "or": {
+    "text": "Find the sum of all integers from 1 to 500 which are multiples of 2 or 5. [hint: These numbers will be : multiples of 2 + multiples of 5 - multiples of 2 as well as of 5]",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch05_Arithmetic_Progressions",
+    "answer": "Multiples of 2: 2, 4, ..., 500 is an A.P. with $a=2,d=2,l=500$; $n=250$; $S_{250}=\\frac{250}{2}[2\\times2+249\\times2]=125\\times502=62750$. Multiples of 5: 5, 10, ..., 500 with $a=5,d=5,l=500$; $n=100$; $S_{100}=\\frac{100}{2}[2\\times5+99\\times5]=50\\times505=25250$. Multiples of 10 (both 2 and 5): 10, 20, ..., 500 with $n=50$; $S_{50}=\\frac{50}{2}[2\\times10+49\\times10]=25\\times510=12750$. Required sum $=62750+25250-12750=75250$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch13_Statistics",
+   "text": "The following table gives the distribution of the life time of 400 neon lamps:\n\n| Life time (in hours) | Number of lamps |\n|---|---|\n| 1500-2000 | 14 |\n| 2000-2500 | 56 |\n| 2500-3000 | 60 |\n| 3000-3500 | 86 |\n| 3500-4000 | 74 |\n| 4000-4500 | 62 |\n| 4500-5000 | 48 |\n\nFind the median life time of a lamp.",
+   "options": null,
+   "figure": null,
+   "answer": "Cumulative frequencies: 14, 70, 130, 216, 290, 352, 400. $N=400$, $\\frac{N}{2}=200$, and the cumulative frequency just greater than 200 is 216, so the median class is 3000-3500. $l=3000$, $f=86$, $cf=130$, $h=500$. Median $=l+\\left(\\frac{\\frac{n}{2}-cf}{f}\\right)\\times h=3000+\\frac{200-130}{86}\\times500=3000+\\frac{70\\times500}{86}=3406.98$ hours.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "Aashish and his family went for a vacation to Manali. There they had a stay in tent for a night. Aashish found that the tent in which they stayed is in the form of a cone surmounted on a cylinder. The total height of the tent is 42 m, diameter of the base is 42 m and height of the cylinder is 22 m.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is curved surface area of cone?",
+     "marks": 1,
+     "options": null,
+     "answer": "Height of cone $=42-22=20$ m, $r=21$ m, slant height $l=\\sqrt{21^2+20^2}=\\sqrt{841}=29$ m. CSA of cone $=\\pi rl=\\frac{22}{7}\\times21\\times29=1914\\ m^2$."
+    },
+    {
+     "text": "If each person needs $126\\ m^2$ of floor, then how many persons can be accommodated in the tent?",
+     "marks": 1,
+     "options": null,
+     "answer": "Area of floor $=\\pi r^2=\\frac{22}{7}\\times21\\times21=1386\\ m^2$. Number of persons $=\\frac{1386}{126}=11$."
+    },
+    {
+     "text": "What is the curved surface area of cylinder?",
+     "marks": 2,
+     "options": null,
+     "answer": "CSA of cylinder $=2\\pi rh=2\\times\\frac{22}{7}\\times21\\times22=2904\\ m^2$.",
+     "or": {
+      "text": "How much canvas required to make a tent?",
+      "options": null,
+      "answer": "Required area of canvas = CSA of cone + CSA of cylinder $=\\pi rl+2\\pi rh=\\pi r(l+2h)=\\frac{22}{7}\\times21(29+44)=4818\\ m^2$."
+     }
+    }
+   ]
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_Polynomials",
+   "text": "An object which is thrown or projected into the air, subject to only the acceleration of gravity is called a projectile, and its path is called its trajectory. This curved path was shown by Galileo to be a parabola. Parabola is represented by a polynomial. If the polynomial to represent the distance covered is,\n$p(t)=-5t^2+40t+1.2$",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the degree of the polynomial $p(t)=-5t^2+40t+1.2$?",
+     "marks": 1,
+     "options": null,
+     "answer": "2"
+    },
+    {
+     "text": "What is the height of the projectile at the time of 4 seconds after it is launched?",
+     "marks": 1,
+     "options": null,
+     "answer": "$p(4)=-5(16)+40(4)+1.2=-80+160+1.2=81.2$ m."
+    },
+    {
+     "text": "What is the name of the polynomial $p(t)=-5t^2+40t+1.2$ that is classified based on its degree?",
+     "marks": 2,
+     "options": null,
+     "answer": "Quadratic polynomial.",
+     "or": {
+      "text": "What are the factors of the given quadratic equation $p(x)=x^2-5x+6$?",
+      "options": null,
+      "answer": "$x^2-5x+6=(x-3)(x-2)$; the factors are $(x-3)$ and $(x-2)$.",
+      "chapter": "Ch02_Polynomials"
+     }
+    }
+   ]
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch06_Triangles",
+   "text": "Observe the figures given below carefully and answer the questions:\nFigure A: A(i) is a quadrilateral ABCD with AB = 1.2 cm, BC = 2.5 cm, CD = 2.4 cm, DA = 2 cm and angles A = 105 degrees, B = 100 degrees, C = 70 degrees, D = 85 degrees; A(ii) is a quadrilateral PQRS with PQ = 2.4 cm, QR = 5 cm, RS = 4.8 cm, SP = 4 cm and angles P = 105 degrees, Q = 100 degrees, R = 70 degrees, S = 85 degrees.\nFigure B: B(iii) is a rectangle ABCD with sides 3.5 cm and 3 cm; B(iv) is a square PQRS of side 3 cm.\nFigure C: C(v) is triangle ABC with AB = 2 cm, BC = 3 cm, AC = 4.5 cm; C(vi) is triangle PQR with PQ = 2 cm, QR = 3 cm, PR = 4.5 cm.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Name the figure(s) where in two figures are similar.",
+     "marks": 1,
+     "options": null,
+     "answer": "Figures A and C are similar."
+    },
+    {
+     "text": "Name the figure(s) wherein the figures are congruent.",
+     "marks": 1,
+     "options": null,
+     "answer": "Only Figure C is congruent."
+    },
+    {
+     "text": "Prove that congruent triangles are also similar but not the converse.",
+     "marks": 2,
+     "options": null,
+     "answer": "All congruent figures are similar but all similar figures are not congruent. For example, a pair of triangles that are similar by the A.A.A. test of similarity are not congruent pairs of triangles since the exact lengths of the sides are unknown. In $\\triangle ABC$ and $\\triangle DEF$, $\\angle A=\\angle D=50^\\circ$, $\\angle B=\\angle E=75^\\circ$ and $\\angle C=\\angle F=55^\\circ$. Hence $\\triangle ABC\\sim\\triangle DEF$ but they are not congruent.",
+     "or": {
+      "text": "What more is least needed for two similar triangles to be congruent?",
+      "options": null,
+      "answer": "The length of corresponding sides must be equal."
+     }
+    }
+   ],
+   "figures": [
+    "fig_p07_0.png",
+    "fig_p07_1.png",
+    "fig_p07_2.png"
+   ],
+   "note": "Figure A, B and C images are fig_p07_0, fig_p07_1, fig_p07_2; text description of the figures typed above."
+  }
+ ]
+}

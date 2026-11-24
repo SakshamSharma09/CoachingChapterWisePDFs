@@ -1,0 +1,25 @@
+Science items 497
+Ch01_Chemical_Reactions_and_Equations 31 -> 31 questions 94 marks
+Ch02_Acids_Bases_and_Salts 50 -> 42 questions 80 marks
+Ch03_Metals_and_Non-metals 36 -> 36 questions 68 marks
+Ch04_Carbon_and_its_Compounds 51 -> 49 questions 123 marks
+Ch05_Life_Processes 38 -> 37 questions 75 marks
+Ch06_Control_and_Coordination 41 -> 41 questions 94 marks
+Ch07_How_do_Organisms_Reproduce 37 -> 37 questions 84 marks
+Ch08_Heredity 33 -> 32 questions 76 marks
+Ch09_Light_Reflection_and_Refraction 36 -> 32 questions 109 marks
+Ch10_Human_Eye_and_Colourful_World 28 -> 26 questions 60 marks
+Ch11_Electricity 40 -> 38 questions 104 marks
+Ch12_Magnetic_Effects_of_Current 27 -> 27 questions 65 marks
+Ch13_Our_Environment 49 -> 49 questions 73 marks
+test Case_Based 1 20 questions
+test SecA_Biology 1 36 questions
+test SecA_Biology 2 39 questions
+test SecA_Biology 3 45 questions
+test SecA_Biology 4 38 questions
+test SecB_Chemistry 1 32 questions
+test SecB_Chemistry 2 40 questions
+test SecB_Chemistry 3 43 questions
+test SecC_Physics 1 29 questions
+test SecC_Physics 2 32 questions
+test SecC_Physics 3 32 questions

@@ -1,0 +1,735 @@
+{
+ "subject": "Science",
+ "paper": "Paper_05",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "The breakdown of glucose has taken the following pathway:\nGlucose $\\xrightarrow{(a)}$ Pyruvate + Energy $\\xrightarrow{(b)}$ Lactic acid + Energy\nThe sites 'a' and 'b' respectively are:",
+   "options": [
+    "Cytoplasm and Yeast cells",
+    "Mitochondria and Oxygen deficient muscle cells",
+    "Cytoplasm and Oxygen rich muscle cells",
+    "Cytoplasm and Oxygen deficient muscle cells"
+   ],
+   "figure": null,
+   "answer": "(d) Cytoplasm and Oxygen deficient muscle cells",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "When a pure-tall pea plant is crossed with a pure-dwarf pea plant, the percentage of tall pea plants in $F_1$ and $F_2$ generation pea plants will be respectively:",
+   "options": [
+    "100%; 100%",
+    "100%; 50%",
+    "100%; 75%",
+    "100%; 25%"
+   ],
+   "figure": null,
+   "answer": "(c) 100%; 75%",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Match the following with correct response.\n\n| Column A | Column B |\n|---|---|\n| (i) The master gland | (a) Control cell division and cell growth |\n| (ii) Cytokinin | (b) Regulates metabolism |\n| (iii) Insulin | (c) Reduces blood sugar |\n| (iv) Thyroxine | (d) Pituitary gland |",
+   "options": [
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)"
+   ],
+   "figure": null,
+   "answer": "(a) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b). Pituitary is the master gland; cytokinins promote cell division and growth; insulin (pancreas) reduces blood sugar; thyroxine regulates metabolism.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "The plant hormone whose concentration stimulates the cells to grow longer on the side of the shoot which is away from light is:",
+   "options": [
+    "Cytokinins",
+    "Adrenaline",
+    "Auxins",
+    "Gibberellins"
+   ],
+   "figure": null,
+   "answer": "(c) Auxins",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "In an ecosystem, the $10\\%$ of energy available for transfer from one trophic level to the next trophic level is in the form of:",
+   "options": [
+    "Chemical energy",
+    "Heat energy",
+    "Mechanical energy.",
+    "Light energy"
+   ],
+   "figure": null,
+   "answer": "(a) Chemical energy — autotrophs convert the energy of sunlight into chemical energy, which is what is transferred between trophic levels.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "In aerobic respiration, the steps are: breakdown of glucose to pyruvate and its further conversion to carbon dioxide. Both processes respectively occur in-",
+   "options": [
+    "Mitochondria and Cytoplasm",
+    "Chloroplast and Mitochondria",
+    "Vacuole and Cytoplasm",
+    "Cytoplasm and Mitochondria"
+   ],
+   "figure": null,
+   "answer": "(d) Cytoplasm and Mitochondria",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "What will happen if the deer are missing in the following food chain?\nGrass $\\rightarrow$ Deer $\\rightarrow$ Tiger",
+   "options": [
+    "The population of tigers will increase",
+    "The tigers will die",
+    "The amount of grass will decrease",
+    "The tigers will start eating grass"
+   ],
+   "figure": null,
+   "answer": "(b) The tigers will die",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Consider the following three flowers namely X, Y and Z. Which flower(s) would develop into a fruit?",
+   "options": [
+    "X and Y only",
+    "X only",
+    "Y and Z",
+    "Z only"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(a) X and Y only — the ovary develops into the fruit; flowers X and Y both contain ovaries.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch08_Heredity",
+   "text": "Assertion (A): Variation is useful for the survival of a species over time.\nReason (R): The process of DNA copying will have variation each time because biochemical reactions are not reliable.",
+   "options": [
+    "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+    "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+    "Assertion (A) is true, but Reason (R) is false.",
+    "Assertion (A) is false, but Reason (R) is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "In the following figure showing a germinating gram seed, name the parts labelled as A, B and C:\nWhy is part B considered to be important during germination?",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "A is the plumule, B is the cotyledon and C is the radicle.\nThe cotyledon (B) serves as a food store; it provides nutrients to the growing embryo during germination.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "a. State with reason the consequence of decrease in number of carnivores in an ecosystem.\nb. In a food chain, state the trophic level at which the concentration of harmful chemicals is maximum. Why is it so?",
+   "options": null,
+   "figure": null,
+   "answer": "a. The population of herbivores will increase as their predators are fewer, leading to imbalance in species composition and trophic dynamics and disruption of the ecosystem.\nb. The top carnivore (tertiary consumer), because harmful chemicals are non-biodegradable and keep on accumulating at each trophic level as they pass along the food chain (biomagnification).",
+   "or": {
+    "chapter": "Ch13_Our_Environment",
+    "text": "i. Why does a kitchen garden called an artificial ecosystem while a forest is considered to be a natural ecosystem?\nii. While designing an artificial ecosystem at home, write any two things to be kept in mind to convert it into a self-sustaining system. Give reason to justify your answer.",
+    "options": null,
+    "figure": null,
+    "answer": "i. A kitchen garden is man-made, with specific biotic (plants such as vegetables) and abiotic elements maintained by humans, so it is artificial; a forest develops and is maintained by nature without human control, so it is natural.\nii. Keep a balance between biotic and abiotic factors, and ensure recycling of nutrients and waste, so that the system sustains itself without continuous outside input."
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Name a plant growth hormone synthesized at the shoot tip. Explain its effect on the growth of a plant in response to light.",
+   "options": null,
+   "figure": null,
+   "answer": "Auxin. When light comes from one side, auxin at the shoot tip diffuses towards the shaded side of the shoot. The higher concentration of auxin on the shaded side makes those cells grow longer than those on the lighted side, so the shoot bends towards the light.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "The lowest part of the ear called earlobe, is closely attached to the side of the head in some of us (Figure 'X'), and not in others, called free earlobe (Figure 'Y'). Attached and free earlobes are two variants found in human populations. The gene for free earlobe is dominant over attached earlobes.\na. A man with attached earlobes marries a woman having free earlobes. $50\\%$ of their children have free earlobes and $50\\%$ have attached earlobes. Explain the inheritance of this trait and write the trait combinations of the progeny.\nb. Write the gene combinations of the father and the mother in the above case.",
+   "options": null,
+   "figure": "fig_p03_1.png",
+   "answer": "a. Free earlobe is the dominant trait (F) and attached earlobe the recessive trait (f). The father (ff) produces only f gametes; the mother (Ff) produces F and f gametes. Progeny: Ff (free earlobe) and ff (attached earlobe) in the ratio 1 : 1, i.e. 50% each.\nb. Father: ff; Mother: Ff.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "What is the probability of a male child or a female child being born in case of human beings? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "The probability of a male child is 50% and of a female child is 50%. A woman has two X chromosomes (XX) and produces only X eggs; a man has XY and produces two types of sperm, X and Y, in equal numbers. If an X sperm fertilises the egg the child is XX (girl); if a Y sperm fertilises it the child is XY (boy). So each has an equal (50%) chance.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "la",
+   "chapter": "Ch05_Life_Processes",
+   "text": "How to destarch the leaves for an experiment to show that sunlight is necessary for photosynthesis?",
+   "options": null,
+   "figure": null,
+   "answer": "Destarching is removing the starch reserves from the leaves of a plant before a photosynthesis experiment. It is done by keeping the potted plant in a dark place for a long time (about 24-48 hours), so that the starch present in the leaves is used up.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Draw a neat diagram showing fertilisation in a flower and label (a) Pollen tube, (b) Male germ cell and (c) Female germ cell, on it. Explain the process of fertilisation in a flower. What happens to the\ni. ovary and\nii. ovule after fertilisation?",
+   "options": null,
+   "figure": null,
+   "answer": "Process of fertilisation: 1. On reaching the stigma the pollen grain germinates and the pollen tube carries two male gametes (germ cells) down to the ovule. 2. One male gamete fuses with the egg cell in the embryo sac to form the zygote. 3. The second male gamete fuses with the secondary nucleus to form the primary endosperm nucleus (double fertilisation). 4. The ovule develops into a seed containing the embryo.\ni. The ovary grows rapidly and ripens to form the fruit.\nii. The ovule forms the seed (embryo with plumule and radicle).",
+   "or": {
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "a. Analyse the given situations and interpret the possible reason for each:\ni. Iodine deficiency in diet increases the possibility of a disease of swollen neck in a person.\nii. Some people in population may have very short heights (dwarfs).\niii. Thick facial hairs develop in boys at the age of 10-12 years.\nb. Explain two reasons which necessitate the need of chemical communication in multicellular organisms.",
+    "options": null,
+    "figure": null,
+    "answer": "a. i. Iodine is necessary for the thyroid gland to make thyroxine; its deficiency causes goitre.\nii. Deficiency of growth hormone in childhood causes dwarfism.\niii. Secretion of testosterone during puberty in males.\nb. Hormones (chemical compounds) can reach all cells of the body steadily and persistently; and hormones help to coordinate growth, development and responses to the environment."
+   },
+   "subparts": null,
+   "answer_figure": "fig_p12_1.png"
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Find the incorrect statement:\nA. The pH of the stomach is approximately 4.5\nB. Plants grow well in natural soil\nC. The pH of acid rain is nearly 5.6\nD. The pH of rainwater is nearly 7",
+   "options": [
+    "Statement (B)",
+    "Statement (D)",
+    "Statement (C)",
+    "Statement (A)"
+   ],
+   "figure": null,
+   "answer": "(d) Statement (A) (as per the paper's key) — the human stomach has gastric juice containing HCl with pH about 1.4.",
+   "or": null,
+   "subparts": null,
+   "note": "Statement D (rainwater pH nearly 7) is also arguably incorrect (about 5.6); the key gives (d)."
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which of the given statement is correct or wrong:\nStatement A: Oxyacetylene flame is used for welding purposes.\nStatement B: Ethyne reacts with HCl in the presence of $HgCl_2$ to form vinyl chloride.",
+   "options": [
+    "Neither statement A nor statement B is true.",
+    "Both the statements A and B are true.",
+    "Statement B is true; Statement A is false.",
+    "Statement A is true; Statement B is false."
+   ],
+   "figure": null,
+   "answer": "(b) Both the statements A and B are true. Oxyacetylene (ethyne + oxygen) flame gives a high temperature used to weld metals; ethyne reacts with HCl in presence of $HgCl_2$ to give vinyl chloride ($H_2C=CHCl$), used to make PVC.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Which one of the following metals is malleable and a poor conductor of electricity?",
+   "options": [
+    "Copper",
+    "Silver",
+    "Lead",
+    "Zinc"
+   ],
+   "figure": null,
+   "answer": "(c) Lead",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n\n| Column A | Column B |\n|---|---|\n| (i) Welding | (a) Ethyl alcohol |\n| (ii) Fuel in a spirit lamp | (b) Ester |\n| (iii) Lime water turns milky | (c) Carbon dioxide |\n| (iv) Fruity smell | (d) Ethyne and oxygen |",
+   "options": [
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)"
+   ],
+   "figure": null,
+   "answer": "(d) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "A student adds one big iron nail each in four test tubes containing solution of zinc sulphate, aluminium sulphate, copper sulphate and iron sulphate. A reddish brown coating was observed only on the surface of iron nail which was added in the solution of:",
+   "options": [
+    "Aluminium sulphate",
+    "Iron sulphate",
+    "Zinc sulphate",
+    "copper sulphate"
+   ],
+   "figure": "fig_p05_0.png",
+   "answer": "(d) copper sulphate. Iron is less reactive than aluminium and zinc but more reactive than copper, so it displaces copper: $CuSO_4(aq) + Fe(s) \\rightarrow FeSO_4(aq) + Cu(s)$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which one of the following properties of Carbon is not responsible for its formation of large number of compounds?",
+   "options": [
+    "Isomerism",
+    "Catenation",
+    "Tetravalency",
+    "Allotropy"
+   ],
+   "figure": null,
+   "answer": "(a) Isomerism (as per the paper's key)",
+   "or": null,
+   "subparts": null,
+   "note": "Key gives (a); allotropy is the property not responsible for the large number of compounds. Flagged."
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "An aqueous solution A turns phenolphthalein solution pink. When another aqueous solution B is added to the pink solution, the pink colour disappears. Now when a few drops of solution A are added to this reaction, the mixture appears pink again. The respective changes in the nature of the solution are from:",
+   "options": [
+    "acidic $\\rightarrow$ basic $\\rightarrow$ basic",
+    "acidic $\\rightarrow$ basic $\\rightarrow$ acidic",
+    "basic $\\rightarrow$ acidic $\\rightarrow$ acidic",
+    "basic $\\rightarrow$ acidic $\\rightarrow$ basic"
+   ],
+   "figure": null,
+   "answer": "(d) basic $\\rightarrow$ acidic $\\rightarrow$ basic",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Reaction between two elements A and B, forms a compound C. A loses electrons and B gains electrons. Which one of the following properties will not be shown by compound C?",
+   "options": [
+    "It has weak electrostatic forces of attraction between its oppositely charged ions.",
+    "It conducts electricity in its molten state or aqueous solution.",
+    "It has high melting point.",
+    "It is highly soluble in water."
+   ],
+   "figure": null,
+   "answer": "(a) It has weak electrostatic forces of attraction between its oppositely charged ions. (C is an ionic compound with strong electrostatic forces.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Student added a few drops of phenolphthalein to an unknown solution A and B. Solution A acquired pink color. And solution B was added to it drop wise and the solution ultimately became colorless. Predict the nature of the solution A and B.",
+   "options": null,
+   "figure": null,
+   "answer": "Solution A is basic, because phenolphthalein turns pink in a basic solution. Solution B is an acid, because adding it drop by drop neutralised the base and the solution became colourless.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Why are decomposition reactions called the opposite of combination reactions? Write one chemical equation each for these two types of reactions mentioning the name of the reactant(s) and the product(s) involved in the reactions.",
+   "options": null,
+   "figure": null,
+   "answer": "In a combination reaction a single product is formed from two or more reactants, whereas in a decomposition reaction a single reactant breaks down to give two or more products; so the two are opposite.\nCombination: $C(s) + O_2(g) \\rightarrow CO_2(g) + Heat$ (carbon + oxygen gives carbon dioxide).\nDecomposition: $CaCO_3(s) \\xrightarrow{Heat} CaO(s) + CO_2(g)$ (calcium carbonate gives calcium oxide and carbon dioxide).",
+   "or": {
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "Identify the substance oxidized and substance reduced in the following reaction. Write the ionic equation for the substance oxidized and reduced.\n$H_2(g) + Cl_2(g) \\rightarrow 2HCl(g)$",
+    "options": null,
+    "figure": null,
+    "answer": "Substance oxidised: $H_2$; $H_2 \\rightarrow 2H^+ + 2e^-$.\nSubstance reduced: $Cl_2$; $Cl_2 + 2e^- \\rightarrow 2Cl^-$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "There are 3 unknown metals - A, B and C. C displaces B from its oxide while with oxide of A, there is no reaction. Give the reactivity order of A, B and C.",
+   "options": null,
+   "figure": null,
+   "answer": "C displaces B from its oxide, so C is more reactive than B. C does not displace A from its oxide, so A is more reactive than C. Reactivity order: B < C < A (i.e. A > C > B).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Read the following text carefully and answer the questions that follow:\nCarbon is a versatile element that forms the basis of all living organisms and many of the things we use. A large variety of compounds is formed because of its tetravalency. Compounds of carbon are formed with oxygen, hydrogen, nitrogen, sulphur, chlorine and many other elements.\nAnswer the following questions:",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": {
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "type": "case",
+    "text": "Read the following text carefully and answer the questions that follow:\nCarbon compounds can be easily oxidised on combustion. In addition to this complete oxidation, we have reactions in which alcohols are converted to carboxylic acids. We see that some substances are capable of adding oxygen to others. These substances are known as oxidising agents. Also some compounds are capable of adding hydrogen. These substances are known as reducing agents.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "subparts": [
+     {
+      "text": "Give any two examples of good oxidising agent.",
+      "marks": 1,
+      "options": null,
+      "answer": "Alkaline potassium permanganate and acidified potassium dichromate."
+     },
+     {
+      "text": "Complete the reaction: $CH_3CH_2CH_2OH + Alk. KMnO_4 \\rightarrow$",
+      "marks": 1,
+      "options": null,
+      "answer": "$CH_3CH_2CH_2OH + Alk. KMnO_4 \\rightarrow CH_3CH_2COOH$ (propanoic acid)."
+     },
+     {
+      "text": "Give some uses of Alcohol.\nOR\nWhy Acidified potassium dichromate is called an oxidising agent?",
+      "marks": 2,
+      "options": null,
+      "answer": "Alcohol is used as a solvent, as spirit, in alcoholic drinks, as a fuel, etc.\nOR\nAcidified $K_2Cr_2O_7$ is a good oxidising agent because it adds oxygen to the reactant molecule very easily, e.g. converting alcohols to carboxylic acids."
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "What are hydrocarbons?",
+     "marks": 1,
+     "options": null,
+     "answer": "Compounds formed by carbon and hydrogen only."
+    },
+    {
+     "text": "List two properties by virtue of which carbon can form a large number of compounds.",
+     "marks": 1,
+     "options": null,
+     "answer": "Tetravalency and catenation."
+    },
+    {
+     "text": "Write the formula of the functional group present in (1) aldehydes, and (2) ketones. Write chemical equation for the reaction that occurs between ethanoic acid and ethanol in the presence of a catalyst.\nOR\nWhat are structural isomers? Write the structures of two isomers of butane ($C_4H_{10}$).",
+     "marks": 2,
+     "options": null,
+     "answer": "(1) Aldehyde: $-CHO$; (2) Ketone: $>C=O$ ($-CO-$).\n$CH_3COOH + C_2H_5OH \\xrightarrow{Acid} CH_3COOC_2H_5 + H_2O$ (ester).\nOR\nStructural isomers are compounds with identical molecular formula but different structures. Isomers of butane: n-butane $CH_3-CH_2-CH_2-CH_3$ and isobutane (2-methylpropane) $CH_3-CH(CH_3)-CH_3$."
+    }
+   ],
+   "answer_figure": "fig_p14_0.png"
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Explain chlor-alkali process and write balanced chemical equations for the reactions that occur. Name the gases obtained at the anode and cathode respectively. Mention two uses each of the two gases obtained in the above process.",
+   "options": null,
+   "figure": null,
+   "answer": "Chlor-alkali process: when electricity is passed through an aqueous solution of sodium chloride (brine) it decomposes to form sodium hydroxide, chlorine and hydrogen.\n$2NaCl(aq) + 2H_2O(l) \\rightarrow 2NaOH(aq) + Cl_2(g) + H_2(g)$\nAnode: chlorine gas ($Cl_2$); cathode: hydrogen gas ($H_2$).\nUses of $Cl_2$: 1. preparation of bleaching powder; 2. disinfecting drinking water.\nUses of $H_2$: 1. manufacture of ammonia (fertilisers); 2. as fuel and in making margarine (hydrogenation of oils).",
+   "or": {
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "An acid X present in tamarind when mixed with Y, produces a mixture Z. Z on addition to a dough when heated makes cakes soft and spongy. Y is prepared from common salt and helps in faster cooking.\ni. Write the common names of X, Y and Z, and the chemical formula of Y.\nii. How is Y prepared and how does it help in making cakes soft and spongy? Illustrate the reaction with suitable chemical equation.\niii. Write the name and chemical formula of a mild base other than Y used as an antacid.",
+    "options": null,
+    "figure": null,
+    "answer": "i. X: tartaric acid; Y: baking soda; Z: baking powder; formula of Y: $NaHCO_3$.\nii. Y is prepared by: $NaCl + H_2O + CO_2 + NH_3 \\rightarrow NH_4Cl + NaHCO_3$. On heating, baking powder releases carbon dioxide, which makes the cake soft and spongy: $NaHCO_3 + H^+ \\rightarrow CO_2 + H_2O + $ sodium salt of acid.\niii. Magnesium hydroxide, $Mg(OH)_2$ (milk of magnesia)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "The defect of vision in which a person is able to see nearby objects clearly, but not far objects is called:",
+   "options": [
+    "Astigmatism",
+    "Short-sightedness or myopia",
+    "Cataract",
+    "Long-sightedness or Hypermetropia"
+   ],
+   "figure": null,
+   "answer": "(b) Short-sightedness or myopia",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Assertion (A): In the case of concave mirror, the minimum distance between real object and its real image is zero.\nReason (R): If concave mirror forms virtual image of real object, the image is magnified.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. If the object is at the centre of curvature, the image is also there, so the distance is zero; if the object is between pole and focus the image is virtual and magnified.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "The correct pattern of magnetic field lines of the field produced by a current carrying circular loop is:",
+   "options": [
+    "(a) see option figure a",
+    "(b) see option figure b",
+    "(c) see option figure c",
+    "(d) see option figure d"
+   ],
+   "figure": null,
+   "answer": "(b) — the field lines are concentric circles near the wire of the loop, becoming straight lines at the centre of the loop.",
+   "or": null,
+   "subparts": null,
+   "option_figures": [
+    "fig_p07_0.png",
+    "fig_p07_1.png",
+    "fig_p07_2.png",
+    "fig_p07_3.png"
+   ]
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Draw the following diagram, in which a ray of light is incident on a concave/convex mirror, on your answer sheet. Show the path of this ray, after reflection, in each case.",
+   "options": null,
+   "figure": "fig_p07_4.png",
+   "answer": "(i) Concave mirror, ray directed through the focus F: it is reflected parallel to the principal axis. (ii) Convex mirror, ray parallel to the principal axis: it is reflected so that it appears to diverge from the principal focus F behind the mirror. (iii) Convex mirror, ray directed towards the focus F: it is reflected parallel to the principal axis (see answer figure).",
+   "or": null,
+   "subparts": null,
+   "answer_figure": "fig_p16_0.png",
+   "note": "Answer typed from the key's figure; check against fig_p16_0.png."
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch11_Electricity",
+   "text": "An electric heater rated 1100 W operates at 220 V. Calculate (i) its resistance, and (ii) the current drawn by it.",
+   "options": null,
+   "figure": null,
+   "answer": "i. $P = \\frac{V^2}{R}$, so $R = \\frac{V^2}{P} = \\frac{220\\times220}{1100} = 44\\ \\Omega$.\nii. $I = \\frac{V}{R} = \\frac{220}{44} = 5$ A.",
+   "or": {
+    "chapter": "Ch11_Electricity",
+    "text": "In the circuit given below, the resistors $R_1$, $R_2$ and $R_3$ have the values $10\\ \\Omega$, $20\\ \\Omega$ and $30\\ \\Omega$ respectively, which have been connected to a battery of 12 V. Calculate\na. the current through each resistor,\nb. the total circuit resistance, and\nc. the total current in the circuit.",
+    "options": null,
+    "figure": "fig_p08_0.png",
+    "answer": "a. $I_1 = \\frac{12}{10} = 1.2$ A; $I_2 = \\frac{12}{20} = 0.6$ A; $I_3 = \\frac{12}{30} = 0.4$ A.\nb. $\\frac{1}{R} = \\frac{1}{10}+\\frac{1}{20}+\\frac{1}{30} = \\frac{11}{60}$, so $R = \\frac{60}{11} = 5.45\\ \\Omega$.\nc. Total current $I = 1.2 + 0.6 + 0.4 = 2.2$ A."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "a. Draw a diagram to show the dispersion of white light by a glass prism.\nb. What is spectrum? Give reason for its formation.",
+   "options": null,
+   "figure": null,
+   "answer": "a. White light incident on a glass prism splits into the seven colours VIBGYOR, with violet deviated the most and red the least (see answer figure).\nb. The band of seven colours obtained on the screen after dispersion of white light is the spectrum. Reason: different colours of white light bend through different angles with respect to the incident ray as they pass through the prism.",
+   "or": null,
+   "subparts": null,
+   "answer_figure": "fig_p16_1.png"
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch11_Electricity",
+   "text": "Three resistors of $2\\Omega$, $3\\Omega$ and $6\\Omega$ are connected in (i) series, and (ii) parallel. Draw the arrangements of the resistors and find the equivalent resistance of each arrangement.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Series: $R_s = R_1+R_2+R_3 = (2+3+6)\\ \\Omega = 11\\ \\Omega$.\nii. Parallel: $\\frac{1}{R_p} = \\frac{1}{2}+\\frac{1}{3}+\\frac{1}{6} = \\frac{3+2+1}{6} = 1$, so $R_p = 1\\ \\Omega$.\n(Circuit arrangements are shown in the answer figure.)",
+   "or": null,
+   "subparts": null,
+   "answer_figure": "fig_p17_1.png"
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "a. Name and state the rule which determines the force on a current carrying conductor placed in a uniform magnetic field.\nb. Consider the following three diagrams in which the entry of a positive charge (+Q) in a magnetic field is shown. Identify giving reason the case in which the force experienced by the charge is (i) maximum, and (ii) minimum.\nI. (charge moving parallel to the field)\nII. (charge moving at an angle to the field)\nIII. (charge moving perpendicular to the field)",
+   "options": null,
+   "figure": "fig_p08_1.png",
+   "answer": "a. Fleming's left-hand rule: stretch the thumb, forefinger and middle finger of the left hand mutually perpendicular; if the forefinger points in the direction of the magnetic field and the middle finger in the direction of current, the thumb points in the direction of the force on the conductor.\nb. (i) Maximum in case III, because the direction of motion of the charge is perpendicular to the magnetic field. (ii) Minimum in case I, because the motion of the charge is parallel to the magnetic field.",
+   "or": null,
+   "subparts": null,
+   "figures": [
+    "fig_p08_1.png",
+    "fig_p08_2.png",
+    "fig_p08_3.png"
+   ]
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "text": "Read the following text carefully and answer the questions that follow:\nStudy the following electric circuit in which the resistors are arranged in three arms A, B and C: (arm A: 5 $\\Omega$, 15 $\\Omega$, 20 $\\Omega$ in series; arm B: 5 $\\Omega$, 10 $\\Omega$, 15 $\\Omega$ in series; arm C: 10 $\\Omega$, 20 $\\Omega$, 30 $\\Omega$ in series; arms B and C in parallel, in series with arm A; battery 6 V with ammeter)",
+   "options": null,
+   "figure": "fig_p08_4.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the equivalent resistance of arm B.",
+     "marks": 1,
+     "options": null,
+     "answer": "The resistors in arm B are in series: $R_B = 5+10+15 = 30\\ \\Omega$."
+    },
+    {
+     "text": "Calculate the equivalent resistance of the parallel combination of the arms B and C.",
+     "marks": 1,
+     "options": null,
+     "answer": "$R_C = 10+20+30 = 60\\ \\Omega$. $\\frac{1}{R} = \\frac{1}{30}+\\frac{1}{60} = \\frac{3}{60}$, so $R = 20\\ \\Omega$."
+    },
+    {
+     "text": "Determine the current that flows through the ammeter.\nOR\nDetermine the current that flows in the ammeter when the arm B is withdrawn from the circuit.",
+     "marks": 2,
+     "options": null,
+     "answer": "$R_A = 5+15+20 = 40\\ \\Omega$. $R_{eq} = 40 + 20 = 60\\ \\Omega$. $I = \\frac{V}{R} = \\frac{6}{60} = 0.1$ A.\nOR\nWith arm B removed: $R_{eq} = R_A + R_C = 40+60 = 100\\ \\Omega$; $I = \\frac{6}{100} = 0.06$ A."
+    }
+   ]
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "i. Draw a ray diagram to show the path of the reflected ray in each of the following cases:\nA ray of light incident on a convex mirror\n1. parallel to its principal axis, and\n2. is directed towards its principal focus\nii. A 1.5 cm tall candle flame is placed perpendicular to the principal axis of a concave mirror of focal length 12 cm. If the distance of the flame from the pole of the mirror is 18 cm, use mirror formula to determine the position and size of the image formed.",
+   "options": null,
+   "figure": null,
+   "answer": "i. 1. A ray parallel to the principal axis, after reflection from a convex mirror, appears to diverge from the principal focus behind the mirror. 2. A ray directed towards the principal focus is reflected parallel to the principal axis (see answer figures).\nii. f = -12 cm, u = -18 cm, h = 1.5 cm. $\\frac{1}{v}+\\frac{1}{u}=\\frac{1}{f}$ gives $\\frac{1}{v} = \\frac{1}{-12}-\\frac{1}{-18} = -\\frac{1}{36}$, so v = -36 cm (real image, 36 cm in front of the mirror). $m = -\\frac{v}{u} = -\\frac{-36}{-18} = -2$; $\\frac{h'}{1.5} = -2$, so h' = -3.0 cm (3 cm tall, real and inverted).",
+   "or": {
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "a. Define power of a lens and write its SI unit. Name the type of lens whose power is negative.\nb. A convex lens forms a real and inverted image of finite size at a distance of 50 cm from it. Where is the object placed in front of the lens? Give all possible positions of the object stating reason in each case.\nc. Draw labelled ray diagram for any one position of the object mentioned in (b) above.",
+    "options": null,
+    "figure": null,
+    "answer": "a. Power of a lens is its ability to converge or diverge light rays (reciprocal of focal length in metres); SI unit: dioptre (D). A concave lens has negative power.\nb. A real, inverted, finite-sized image is formed by a convex lens when the object is (i) beyond $2F_1$ (image between F2 and 2F2), (ii) at $2F_1$ (image at 2F2, same size), (iii) between $2F_1$ and $F_1$ (image beyond 2F2, magnified).\nc. Ray diagram for any one of these positions (see answer figure)."
+   },
+   "subparts": null,
+   "answer_figure": "fig_p18_0.png",
+   "note": "Answer diagrams are fig_p18_0.png, fig_p18_1.png (i) and fig_p18_2.png (OR c)."
+  }
+ ]
+}

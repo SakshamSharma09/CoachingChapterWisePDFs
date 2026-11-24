@@ -1,0 +1,723 @@
+{
+ "subject": "Science",
+ "paper": "Paper_07",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "An organism which breaks down the food material outside the body and then absorbs it is",
+   "options": [
+    "a bacteria, Rhizobium",
+    "a plant parasite, Cuscuta",
+    "an animal parasite, Tapeworm",
+    "a fungi, Rhizopus"
+   ],
+   "figure": null,
+   "answer": "(d) a fungi, Rhizopus — fungi break down food outside the body and then absorb it.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "The unit of heredity is:",
+   "options": [
+    "Chromatin",
+    "DNA",
+    "Gene",
+    "Chromosome"
+   ],
+   "figure": null,
+   "answer": "(c) Gene",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Human activities that are affecting the environment are:",
+   "options": [
+    "excessive use of disposable cups and plates.",
+    "segregating the wastes into biodegradable and non-biodegradable before disposal.",
+    "maximising the use of reusable utensils for eating food and drinking fluids.",
+    "minimising the use of chloroflurocarbons."
+   ],
+   "figure": null,
+   "answer": "(a) excessive use of disposable cups and plates.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Match the following with correct response.\n| Column A | Column B |\n|---|---|\n| (i) The response of a plant to light | (a) Phototropism |\n| (ii) The response of a plant to gravity | (b) Hydrotropism |\n| (iii) The response of a plant to water | (c) Geotropism |\n| (iv) The response of a plant to chemicals | (d) Chemotropism |",
+   "options": [
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)"
+   ],
+   "figure": null,
+   "answer": "(a) (i) - (a), (ii) - (c), (iii) - (b), (iv) - (d). Phototropism: movement towards light; geotropism: response to gravity; hydrotropism: response to water/moisture; chemotropism: response to a chemical stimulus.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "A system of inter-dependent food chains represents",
+   "options": [
+    "Food web",
+    "Ecosystem",
+    "Trophic levels",
+    "Community"
+   ],
+   "figure": null,
+   "answer": "(a) Food web",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "In human respiratory system, when a person breathes in, the position of ribs and diaphragm will be:",
+   "options": [
+    "relaxed ribs and curve/dome shaped diaphragm.",
+    "relaxed ribs and flattened diaphragm.",
+    "lifted ribs and flattened diaphragm.",
+    "lifted ribs and curve/dome shaped diaphragm."
+   ],
+   "figure": null,
+   "answer": "(c) lifted ribs and flattened diaphragm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Which of the following statements is/are true about a neuron?\nI. Dendrites of neuron pass the impulse to the axon.\nII. Axon of neuron carries the impulse from the cell body.\nIII. Sensory neuron carries the impulse to the specific effectors.\nIV. Transmission of impulse from a neuron to a muscle fibre occurs through neuro-muscular junction.",
+   "options": [
+    "I only",
+    "I and III",
+    "II and III",
+    "II and IV"
+   ],
+   "figure": null,
+   "answer": "(d) II and IV",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Assertion (A): Sexual reproduction involves two parents of different sexes, a male and a female, which produce male and female gametes respectively.\nReason (R): The male and female gametes fuse to form a zygote in sexual reproduction, which develops into a new individual.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Assertion (A): Accumulation of harmful chemicals is maximum in the organisms at the highest trophic level of a food chain.\nReason (R): Harmful chemicals are sprayed on the crops to protect them from diseases and pests.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. As these chemicals are not degradable, they get accumulated progressively at each trophic level; human beings occupy the top level in any food chain, so the maximum concentration accumulates in their bodies.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "What are sexually transmitted diseases? Name one sexually transmitted disease each, caused by a virus and a bacterium. List two benefits of using mechanical barriers during the sexual act.",
+   "options": null,
+   "figure": null,
+   "answer": "Sexually transmitted diseases are those which spread by sexual contact from an infected person.\nBacterial: Gonorrhoea / Syphilis.\nViral: HIV/AIDS.\nBenefits of mechanical barriers: i. to avoid pregnancy; ii. to prevent sexually transmitted diseases.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "a. Create a food chain of the following organisms:\nInsect, Hawk, Grass, Snake, Frog\nb. Name the organism at the third trophic level of the created food chain.\nc. Which organism of this food chain will have the highest concentration of non-biodegradable chemicals?\nd. Name the phenomenon associated with it.\ne. If 10,000 joules of energy is available to frogs, how much energy will be available to snakes in this food chain?",
+   "options": null,
+   "figure": null,
+   "answer": "a. Grass → Insect → Frog → Snake → Hawk\nb. Third trophic level: Frog.\nc. Hawk.\nd. Biomagnification.\ne. 1000 J (10% of 10,000 J).",
+   "or": {
+    "text": "How is ozone formed in the upper atmosphere? State its importance. What is responsible for its depletion? Write one harmful effect of ozone depletion.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch13_Our_Environment",
+    "answer": "Higher energy UV radiations split some molecular oxygen into free oxygen atoms: $O_2 \\xrightarrow{UV} O + O$. These atoms combine with molecular oxygen to form ozone: $O_2 + O \\rightarrow O_3$.\nImportance: it prevents harmful UV radiation from reaching the earth.\nDepletion is caused by CFCs (chlorofluorocarbons)/aerosols.\nHarmful effect: skin cancer."
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "How is an electric impulse created in human nervous system? Identify the parts of a neuron which helps the nerve impulse to travel\ni. towards the cell body\nii. away from the cell body",
+   "options": null,
+   "figure": null,
+   "answer": "A neuron is stimulated when it receives a signal at the dendrites; the signal passes through the cell body towards the axon, which transfers it to the dendrite of another neuron and finally the response is generated.\ni. Towards the cell body: dendrites.\nii. Away from the cell body: axon.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "A red-eyed individual is crossed with a white-eyed individual to produce F1 progeny with red eyes. When F1 individuals are intercrossed, F2 progeny is formed with both red as well as white-eyed individuals.\na. How is the dominant trait identified?\nb. What are recessive traits?\nc. If 12 individuals are produced in F2 generation, then how many white-eyed individuals would be obtained? Calculate the ratio of red-eyed individuals to white-eyed individuals.",
+   "options": null,
+   "figure": null,
+   "answer": "a. The dominant trait is identified by observing its expression in the F1 generation.\nb. The recessive trait is the one that is masked in the presence of the dominant trait and is expressed only in the homozygous recessive state.\nc. F1 is Rr; Rr x Rr gives RR : Rr : rr = 1 : 2 : 1, i.e. red : white = 3 : 1. Out of 12 F2 individuals, 3 would be white-eyed (9 red-eyed). Ratio of red-eyed to white-eyed = 3:1.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "i. Describe the structure and function of the basic filtering unit of kidney.\nii. List two factors on which reabsorption of water from urine depends?",
+   "options": null,
+   "figure": null,
+   "answer": "i. The basic filtering unit is the nephron: a cluster of very thin-walled blood capillaries (glomerulus) associated with the cup-shaped end (Bowman's capsule) of a tube that collects the filtered urine. Each kidney has a large number of nephrons packed close together. Some substances in the initial filtrate, such as glucose, amino acids, salts and a major amount of water, are selectively re-absorbed as the urine flows along the tube. (Diagram: fig_p13_0.png)\nii. The amount of water reabsorbed depends on (i) the amount of excess water present in the body and (ii) the amount of dissolved waste to be excreted out of the body.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "text": "Read the following text carefully and answer the questions that follow:\nThe mechanism by which the sex of an individual is determined is called sex-determination. In human beings, sex of a newborn is genetically determined, whereas in some others it is not. There are 46 (23 pairs) chromosomes in human beings. Out of these, 44 (22 pairs) control the body characters and 2 (one pair) are known as sex chromosomes. The sex chromosomes are of two types- X chromosome and Y chromosome. At the time of fertilisation, depending upon which type of male gamete fuses with the female gamete, the sex of the newborn child is decided.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "If the gametes always have half the number of chromosomes, then how is the original number of chromosomes restored in the organism?",
+     "marks": 1,
+     "options": null,
+     "answer": "Gametes have half the number of chromosomes; when male and female gametes fuse at fertilisation to form a zygote, the original number is restored."
+    },
+    {
+     "text": "Why is a pair of sex chromosomes in human beings called a mismatched pair in terms of type and size?",
+     "marks": 1,
+     "options": null,
+     "answer": "Females have XX and males have XY; in males the pair is mismatched in type (X and Y) and in size, as X is bigger than Y."
+    },
+    {
+     "text": "Name two animals whose sex is not genetically determined. Explain the process of their sex determination.",
+     "marks": 2,
+     "options": null,
+     "answer": "Crocodiles/alligators/turtles and Bonellia viridis. In crocodiles, eggs incubated at about 30 degrees C develop into females and at about 34 degrees C into males. In Bonellia, sex depends on the location of the larva: if it makes physical contact with a female it becomes male; if it is on the bare sea floor it becomes female.",
+     "or": {
+      "text": "With the help of a flowchart only, show how sex is genetically determined in human beings.",
+      "answer": "Flowchart (figure fig_p13_1.png): Father XY produces gametes X and Y; Mother XX produces gametes X and X; zygotes: XX (female) and XY (male) in 50:50 probability, i.e. 50% probability of a female child and 50% of a male child."
+     }
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "a. Define vegetative propagation. List its two methods.\nb. Why is this mode practised for growing some types of plants?\nc. Explain the process of budding in Hydra with the help of labelled diagrams.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Vegetative propagation is a type of asexual reproduction in plants where new plants are grown from vegetative parts of the parent plant such as stems, roots or leaves. Two methods: cutting, grafting.\nb. It is practised for plants which do not have viable seeds or whose seeds are dormant; plants with desirable superior traits are also propagated vegetatively because it produces identical plants.\nc. In Hydra, regenerative cells divide repeatedly at one specific site and a bud develops as an outgrowth. The bud develops into a tiny individual and, when fully mature, detaches from the parent body to become a new independent individual. (Labelled diagram of budding expected.)",
+   "or": {
+    "text": "i. What are tropic movements? Give an example of a plant hormone which (1) inhibits growth and (2) promotes cell division.\nii. Explain directional movement of a tendril in pea plant in response to touch. Name the hormone responsible for this movement.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch06_Control_and_Coordination",
+    "answer": "i. Plant growth movements in response to a stimulus in a particular direction (light, gravity etc.) are tropic movements. Growth inhibitor: abscisic acid. Promotes cell division: cytokinins.\nii. When the tendril touches a support, auxin moves away from the point of contact; more growth occurs on the side away from the support, so unequal growth on the two sides makes the tendril coil around the support. Hormone: auxin."
+   },
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Select the incorrect statement.\na. The formula of the compound is calcium sulphate dihydrate.\nb. When mixed with water and left for half an hour, this compound sets into a hard mass.\nc. If heated at higher temperature, the compound becomes dehydrated and is called dead burnt plaster.\nd. Both (a) and (b)",
+   "options": [
+    "Statement (d) is incorrect.",
+    "Statement (a) is incorrect.",
+    "Statement (b) is incorrect.",
+    "Statement (c) is incorrect."
+   ],
+   "figure": null,
+   "answer": "(c) Statement (b) is incorrect. (as given in the marking scheme)",
+   "or": null,
+   "subparts": null,
+   "note": "The printed key (c) comes with an unrelated explanation (atmosphere of Venus) and is doubtful: the compound is evidently plaster of Paris (calcium sulphate hemihydrate), so statement (a) 'dihydrate' is the wrong one, i.e. option (b). The compound's name is not stated in the paper text."
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which of the given statement is correct or wrong:\nStatement A: Detergent with less branching in the molecule is degraded more easily than branched-chain detergents.\nStatement B: Soaps are 100% biodegradable.",
+   "options": [
+    "Both the statements A and B are true.",
+    "Neither statement A nor statement B is true.",
+    "Statement B is true; Statement A is false.",
+    "Statement A is true; Statement B is false."
+   ],
+   "figure": null,
+   "answer": "(a) Both the statements A and B are true. All soaps are biodegradable; branched-chain synthetic detergents are far less degradable than unbranched ones.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Among the following, the metal with lowest density is:",
+   "options": [
+    "Aluminium",
+    "Magnesium",
+    "Lithium",
+    "Lead"
+   ],
+   "figure": null,
+   "answer": "(c) Lithium",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n| Column A | Column B |\n|---|---|\n| (i) Catenation | (a) Butene |\n| (ii) Alkane | (b) Carbon compounds |\n| (iii) Alkene | (c) Ethyne |\n| (iv) Alkyne | (d) Ethane |",
+   "options": [
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)"
+   ],
+   "figure": null,
+   "answer": "(b) (i) - (b), (ii) - (d), (iii) - (a), (iv) - (c). Catenation is the linkage of atoms of the same element into chains (carbon compounds); ethane is an alkane, butene an alkene, ethyne an alkyne.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "What is shown in the experiment given below:",
+   "options": [
+    "Action of steam on a metal",
+    "Reaction of metals with salt solutions",
+    "Heating a salt sample on a spatula",
+    "Testing the conductivity of a salt solution"
+   ],
+   "figure": "fig_p05_0.png",
+   "answer": "(a) Action of steam on a metal",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Consider the following statements about homologous series of carbon compounds:\na. All succeeding members differ by -CH2 unit.\nb. Melting point and boiling point increases with increasing molecular mass.\nc. The difference in molecular masses between two successive members is 16 u.\nd. C2H2 and C3H4 are NOT the successive members of alkyne series.\nThe correct statements are -",
+   "options": [
+    "(b) and (c)",
+    "(a) and (c)",
+    "(c) and (d)",
+    "(a) and (b)"
+   ],
+   "figure": null,
+   "answer": "(d) (a) and (b)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Sodium hydroxide is termed an alkali while Ferric hydroxide is not because:\na. Sodium hydroxide is a strong base, while Ferric hydroxide is a weak base.\nb. Sodium hydroxide is a base which is soluble in water while Ferric hydroxide is also a base but it is not soluble in water.\nc. Sodium hydroxide is a strong base while Ferric hydroxide is a strong acid.\nd. Sodium hydroxide and Ferric hydroxide both are strong base but the solubility of Sodium hydroxide in water is comparatively higher than that of Ferric hydroxide.",
+   "options": [
+    "Option (a)",
+    "Option (b)",
+    "Option (c)",
+    "Option (d)"
+   ],
+   "figure": null,
+   "answer": "(b) Option (b) — bases that dissolve in water are called alkalis; Fe(OH)3 is not soluble in water whereas NaOH is, so NaOH is an alkali and Fe(OH)3 is not.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Assertion (A): H3PO4 and H2SO4 are known as polybasic acids.\nReason (R): They have two or more than two protons per molecule of the acid.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. E.g. $H_3PO_4 \\rightleftharpoons H_2PO_4^- + H^+$, $H_2PO_4^- \\rightleftharpoons HPO_4^{2-} + H^+$, $HPO_4^{2-} \\rightleftharpoons PO_4^{3-} + H^+$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "State the observations you would make on adding ammonium hydroxide to aqueous solution of (i) Ferrous sulphate (ii) Aluminium chloride?",
+   "options": null,
+   "figure": null,
+   "answer": "i. A dirty green precipitate of ferrous hydroxide is formed: $2NH_4OH(aq) + FeSO_4(aq) \\rightarrow Fe(OH)_2(ppt) + (NH_4)_2SO_4(aq)$.\nii. A white precipitate of aluminium hydroxide is formed: $3NH_4OH(aq) + AlCl_3(aq) \\rightarrow Al(OH)_3(ppt) + 3NH_4Cl(aq)$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "When electricity is passed through an aqueous solution of common salt, three products are obtained. Name them, specifying the electrode at which each of these products is obtained. Also give one use of each product.",
+   "options": null,
+   "figure": null,
+   "answer": "Sodium hydroxide (caustic soda) — formed near the cathode (in solution); chlorine ($Cl_2$) — at the anode; hydrogen ($H_2$) — at the cathode.\nUse: NaOH — degreasing metals, soaps and detergents, paper making, artificial fibres. (Uses of chlorine and hydrogen not given in the key.)",
+   "or": {
+    "text": "Write balanced chemical equation for the reactions that occur when\na. steam is passed over red hot iron.\nb. natural gas is burnt in air.\nc. glucose reacts with oxygen in the cells of our body and provides energy.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "answer": "a. $3Fe + 4H_2O \\rightarrow Fe_3O_4 + 4H_2$\nb. $CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O$\nc. $C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O + $ Energy"
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Observe the following diagram showing an experiment to determine the conditions under which a metal 'M' corrodes.\nList your observations in each of the three cases $A, B$ and $C$ with reason, if the metal 'M' is generally protected against corrosion by the method of galvanisation.",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": "A: Metal M corrodes partly — the part outside the oil corrodes, the part inside the oil does not, as it cannot react with moist air.\nB: Metal M does not corrode — it is inside the oil, not exposed to moist air.\nC: Metal M does not corrode — moisture is absent (dry air) in test tube C.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Read the following text carefully and answer the questions that follow:\nIn a redox reaction, both oxidation, as well as reduction, takes place together, oxidation involves loss of electrons while reduction involves the gain of electrons. The redox- reaction may involve a combination of atoms and molecules, displacement of metals, or non-metals.\nExample: $CuSO_4 + Zn \\rightarrow ZnSO_4 + Cu$ displacement of Cu metal from its compound.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "In the below equation, which gets reduced?\n$CuSO_4 + Zn \\rightarrow ZnSO_4 + Cu$",
+     "marks": 1,
+     "options": null,
+     "answer": "$CuSO_4$ (copper ions) gets reduced."
+    },
+    {
+     "text": "The oxidising agent generally loses or gains an electron.",
+     "marks": 1,
+     "options": null,
+     "answer": "An oxidising agent generally gains electrons."
+    },
+    {
+     "text": "Identify the oxidising agent and reducing agent in the above reaction.\n$CuSO_4 + Zn \\rightarrow ZnSO_4 + Cu$",
+     "marks": 2,
+     "options": null,
+     "answer": "Oxidising agent: copper sulphate ($CuSO_4$, i.e. $Cu^{2+}$); reducing agent: zinc.",
+     "or": {
+      "text": "Identify the type of given reaction.\n$CuSO_4 + Zn \\rightarrow ZnSO_4 + Cu$",
+      "answer": "Displacement reaction (also a redox reaction)."
+     }
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "i. What happens when a small piece of sodium is dropped in ethanol? Write the equation for this reaction.\nii. Why is glacial acetic acid called so?\niii. What happens when ethanol is heated at 443 K in the presence of conc. H2SO4? Write the role of conc. H2SO4 in this case.\niv. Write an equation showing saponification.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Sodium reacts with ethanol with evolution of hydrogen: $2Na + 2CH_3CH_2OH \\rightarrow 2CH_3CH_2O^-Na^+ + H_2\\uparrow$ (sodium ethoxide).\nii. Pure ethanoic acid has melting point 290 K, so it often freezes in winter in cold climates; hence the name glacial acetic acid.\niii. Heating ethanol at 443 K with excess conc. $H_2SO_4$ dehydrates it to ethene: $CH_3CH_2OH \\xrightarrow{443\\,K,\\ conc.\\ H_2SO_4} CH_2=CH_2 + H_2O$. Conc. $H_2SO_4$ acts as a dehydrating agent.\niv. Saponification: ester treated with NaOH gives alcohol and sodium salt of the carboxylic acid: $CH_3COOC_2H_5 \\xrightarrow{NaOH} C_2H_5OH + CH_3COONa$.",
+   "or": {
+    "text": "Name an alcohol and a carboxylic acid having two carbon atoms in their structures. Draw their structures and state how this alcohol can be converted into a carboxylic acid. What happens when these two compounds react in the presence of an acid? Write chemical equations for the reactions involved in the two cases mentioned above.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "answer": "Ethanol ($CH_3CH_2OH$, H-C(H)(H)-C(H)(H)-OH) and ethanoic acid ($CH_3COOH$, H3C-C(=O)-OH).\nOn adding alkaline $KMnO_4$ or acidified $K_2Cr_2O_7$ (with heat), the alcohol is oxidised to the carboxylic acid: $C_2H_5OH \\xrightarrow{alkaline\\ KMnO_4,\\ heat} CH_3COOH$.\nWith an acid catalyst, an ester is formed: $C_2H_5OH + CH_3COOH \\xrightarrow{acid} CH_3COOC_2H_5 + H_2O$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Find the incorrect statement:\nA. Convex mirrors are used by the dentist to see the large images of teeth of patients.\nB. Convex mirrors are used as rear-view mirrors in cars, motorcycles, scooters, etc\nC. Concave mirrors are used for shaving purpose.\nD. Concave mirrors are used by doctors to focus light inside the ear or inside the mouth for medical examination.",
+   "options": [
+    "(B)",
+    "(C)",
+    "(A)",
+    "(D)"
+   ],
+   "figure": null,
+   "answer": "(c) (A) — dentists use concave mirrors (they form enlarged images); convex mirrors form diminished images and are used as rear-view mirrors for their wide field of view.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "Study the following ray diagram\nIn this diagram, the angle of incidence, the angle of emergence and the angle of deviation respectively have been represented by:",
+   "options": [
+    "p, y, z",
+    "y, p, z",
+    "x, q, z",
+    "p, z, y"
+   ],
+   "figure": "fig_p07_0.png",
+   "answer": "(a) p, y, z",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Assertion (A): The magnitude of the magnetic field at a point on the axis of a current-carrying solenoid is inversely proportional to the current flowing through the solenoid.\nReason (R): The magnitude of the magnetic field at a point on the axis of a current-carrying solenoid is directly proportional to the number of turns per unit length of a solenoid.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "How are we able to see distant and nearby objects clearly? Which part of eye helps in changing curvature of lens? Why no image is formed at blind spot?",
+   "options": null,
+   "figure": null,
+   "answer": "We can see distant and near objects clearly because of the power of accommodation of the eye: the lens changes its focal length (curvature) to focus both distant and near objects on the retina. The ciliary muscles help in changing the curvature of the lens. No image is formed at the blind spot because that region of the retina, where the optic nerve fibres leave the eyeball, has no light-sensitive cells (rods and cones).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "text": "Calculate the equivalent resistance of the following electric circuit:",
+   "options": null,
+   "figure": "fig_p07_1.png",
+   "answer": "The two $10\\,\\Omega$ resistors in the middle are in series: $R_s = 10 + 10 = 20\\,\\Omega$. This is in parallel with the $20\\,\\Omega$ resistor: $\\frac{1}{R_p} = \\frac{1}{20} + \\frac{1}{20} = \\frac{1}{10}$, so $R_p = 10\\,\\Omega$. Total $R = 10 + R_p + 20 = 10 + 10 + 20 = 40\\,\\Omega$.",
+   "or": {
+    "text": "In the experiment to study the dependence of current (I) on the potential difference (V) across a resistor, a student obtained a graph as shown.\ni. What does the graph depict about the dependence of current on the potential difference?\nii. Find the current that flows through the resistor when the potential difference across it is 2.5 V.",
+    "options": null,
+    "figure": "fig_p08_0.png",
+    "chapter": "Ch11_Electricity",
+    "answer": "i. $I \\propto V$: current is directly proportional to the applied potential difference.\nii. From the graph (0.1 A per volt), at 2.5 V the current is 0.25 A."
+   },
+   "subparts": null,
+   "note": "Marking-scheme line for the total prints '20 + 10 + 10 = 40' but the resistors outside the parallel part are 10 and 20 ohm per the figure; the total 40 ohm is as in the key."
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "a. State the Right-hand thumb rule.\nb. A steady current flows through a horizontal power line from east to west direction as shown in the figure. Apply right-hand thumb rule to determine the direction of magnetic field (i) at a point directly below it, and (ii) at a point directly above it.",
+   "options": null,
+   "figure": "fig_p08_1.png",
+   "answer": "a. Imagine holding a current-carrying straight conductor in your right hand such that the thumb points in the direction of the current; then the fingers wrap around the conductor in the direction of the magnetic field lines.\nb. (Key as printed) The field circles the wire in the plane perpendicular to it: viewed from the east end it is clockwise, viewed from the west end anticlockwise. Applying the rule for current towards west: the field points towards the south at a point directly below the wire and towards the north at a point directly above it.",
+   "or": null,
+   "subparts": null,
+   "note": "The printed key answer for (b) is vague; the explicit north/south directions come from applying the rule, not from the key."
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "A narrow beam PQ of white light is passing through a glass prism ABC as shown in the diagram.\nTrace it on your answer sheet and show the path of the emergent beam as observed on the screen DE.\ni. Write the name and cause of the phenomenon observed.\nii. Where else in nature is this phenomenon observed?\niii. Based on this observation, state the conclusion which can be draw about the constituents of white light.",
+   "options": null,
+   "figure": "fig_p08_3.png",
+   "answer": "The emergent beam spreads into a spectrum on the screen DE (violet nearest the base, red farthest from it).\ni. Dispersion of light: splitting of white light into its constituent colours, caused by the different speeds (hence different bending/deviation) of the colours in glass.\nii. In the formation of a rainbow.\niii. White light consists of seven colours: violet, indigo, blue, green, yellow, orange, red; violet deviates the most and red the least.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "a. State (i) right-hand thumb rule, and (ii) Fleming's left-hand rule.\nb. Using Fleming's left-hand rule determine the direction of force experienced by a proton, which enters vertically downwards in a uniform magnetic field acting horizontally from west to east as shown in the diagram.",
+   "options": null,
+   "figure": "fig_p09_0.png",
+   "answer": "a. (i) Imagine holding a current-carrying straight conductor in your right hand with the thumb along the current; the fingers wrap around the conductor in the direction of the field lines.\n(ii) Stretch the thumb, forefinger and middle finger of the left hand mutually perpendicular. If the forefinger points in the direction of the magnetic field and the middle finger in the direction of current, the thumb points in the direction of motion/force on the conductor.\nb. The force on the proton is directed out of the plane of the paper.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "text": "Read the following text carefully and answer the questions that follow:\nTwo or more resistances are connected in series or in parallel or both, depending upon whether we want to increase or decrease the circuit resistance.\nThe two or more resistances are said to be connected in series if the current flowing through each resistor is the same.",
+   "options": null,
+   "figure": "fig_p09_1.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "When the three resistors each of resistance R ohm are connected in series then what will be the equivalent resistance?",
+     "marks": 1,
+     "options": null,
+     "answer": "$R_s = R + R + R = 3R$."
+    },
+    {
+     "text": "There is a wire of length 20 cm and having resistance $20\\,\\Omega$ cut into 4 equal pieces and then joined in series. What is equivalent resistance?",
+     "marks": 1,
+     "options": null,
+     "answer": "Each piece has resistance $20/4 = 5\\,\\Omega$; in series: $5+5+5+5 = 20\\,\\Omega$."
+    },
+    {
+     "text": "In the following circuit, find the equivalent resistance between A and B ($R = 2\\,\\Omega$)",
+     "marks": 2,
+     "options": null,
+     "figure": "fig_p09_2.png",
+     "answer": "All five resistors are in series: $R_s = 5R = 5 \\times 2 = 10\\,\\Omega$.",
+     "or": {
+      "text": "In the given circuit, what is the current in each resistor?",
+      "figure": "fig_p09_3.png",
+      "answer": "$R_s = 1 + 2 + 3 = 6\\,\\Omega$; $I = 18/6 = 3$ A (the same current flows through each resistor)."
+     }
+    }
+   ]
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "i. Draw a ray diagram to show the path of the refracted ray in each of the following cases:\nA ray of light incident on a concave lens\n1. parallel to its principal axis, and\n2. is directed towards its principal focus.\nii. A 4 cm tall object is placed perpendicular to the principal axis of convex lens of focal length 24 cm. The distance of object from the lens is 16 cm. Find the position and size of image formed.",
+   "options": null,
+   "figure": null,
+   "answer": "i. 1. A ray parallel to the principal axis diverges after refraction, appearing to come from the principal focus on the object side. 2. A ray directed towards the principal focus emerges parallel to the principal axis. (Ray diagrams: figs fig_p18_0.png onward.)\nii. $u = -16$ cm, $f = +24$ cm, $h = 4$ cm. $\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$ gives $\\frac{1}{v} = \\frac{1}{24} - \\frac{1}{16} = -\\frac{1}{48}$, so $v = -48$ cm (image on the same side as the object, virtual). $m = \\frac{h'}{h} = \\frac{v}{u} = \\frac{-48}{-16} = 3$, so $h' = 12$ cm.",
+   "or": {
+    "text": "a. List four characteristics of the image formed by a concave lens of focal length 20 cm when the object is placed at a distance of 40 cm from its optical centre.\nb. The size of image of an object by a convex lens of focal length 20 cm is observed to be reduced to $\\frac{1}{3}$rd of its size. Find the distance of the object from the optical centre of the lens.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "answer": "a. The image is virtual, erect, diminished and on the same side of the lens as the object (between the lens and the focus; $v = -40/3$ cm approx).\nb. $f = 20$ cm, $u = -x$, $v = x/3$ (real, reduced to one-third). $\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$ gives $\\frac{3}{x} + \\frac{1}{x} = \\frac{1}{20}$, so $x = 80$ cm. The object is 80 cm from the optical centre."
+   },
+   "subparts": null
+  }
+ ]
+}

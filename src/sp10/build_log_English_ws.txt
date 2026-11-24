@@ -1,0 +1,25 @@
+English items 187
+Ch01_A_Letter_to_God 5 -> 5 questions 25 marks
+Ch02_Nelson_Mandela_Long_Walk_to_Freedom 5 -> 5 questions 25 marks
+Ch03_Two_Stories_about_Flying 10 -> 10 questions 60 marks
+Ch05_Glimpses_of_India 10 -> 10 questions 120 marks
+Ch07_Madam_Rides_the_Bus 1 -> 1 questions 6 marks
+Ch09_The_Proposal 1 -> 1 questions 5 marks
+Ch10_Footprints_A_Triumph_of_Surgery 10 -> 10 questions 60 marks
+Ch11_Footprints_The_Thiefs_Story 11 -> 11 questions 66 marks
+Ch12_Footprints_The_Midnight_Visitor 6 -> 6 questions 31 marks
+Ch15_Footprints_The_Making_of_a_Scientist 5 -> 5 questions 30 marks
+Ch16_Footprints_The_Necklace 10 -> 10 questions 55 marks
+Ch17_Footprints_Bholi 1 -> 1 questions 5 marks
+Ch18_Footprints_The_Book_That_Saved_the_Earth 1 -> 1 questions 6 marks
+Ch20_Fire_and_Ice 5 -> 5 questions 30 marks
+Ch21_A_Tiger_in_the_Zoo 5 -> 5 questions 25 marks
+Ch22_How_to_Tell_Wild_Animals 5 -> 5 questions 25 marks
+Ch23_The_Ball_Poem 1 -> 1 questions 6 marks
+Ch24_Amanda 6 -> 6 questions 35 marks
+Ch25_The_Trees 6 -> 6 questions 30 marks
+Ch26_Fog 1 -> 1 questions 12 marks
+Ch27_The_Tale_of_Custard_the_Dragon 5 -> 5 questions 25 marks
+SKILL_Grammar 11 -> 11 questions 110 marks
+SKILL_Reading 22 -> 22 questions 220 marks
+SKILL_Writing 44 -> 43 questions 215 marks

@@ -1,0 +1,696 @@
+{
+ "subject": "SST",
+ "paper": "Paper_10",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) This personality remarked, \"When France sneezes, the rest of Europe catches a cold\". | (i) Karol Kurpinski |\n| (b) This personality is considered as \"the most dangerous enemy of social order\". | (ii) Duke Metternich |\n| (c) This personality claimed that true German culture was to be discovered among the common people-das volk. | (iii) Giuseppe Mazzini |\n| (d) This personality celebrated the national struggle through his operas and music. | (iv) Johann Gottfried Herder |",
+   "options": [
+    "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)",
+    "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+    "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)",
+    "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)"
+   ],
+   "figure": null,
+   "answer": "(d) (a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Study the picture and answer the question that follows:\nWhich of the following option best describe the given image?",
+   "options": [
+    "Royal workshop in the sixteenth century",
+    "Royal palace in the sixteenth century",
+    "Royal coronation in the sixteenth century",
+    "Royal wedding event in the sixteenth century"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(a) Royal workshop in the sixteenth century — this is a royal workshop in the sixteenth century, much before printing began in India; the text is being dictated, written and illustrated by hand.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Which of the following statements is not correct in the context of the Non-Cooperation Movement?",
+   "options": [
+    "Thousands of students left government-controlled schools; headmasters and teachers resigned; lawyers gave up their practice",
+    "Gandhiji was the main force behind the non-cooperation movement.",
+    "The council elections were boycotted even by the Justice Party of Madras",
+    "The movement aimed to involve people from all sections of society."
+   ],
+   "figure": null,
+   "answer": "(c) The council elections were boycotted even by the Justice Party of Madras — the council elections were boycotted in most provinces except Madras, where the Justice Party felt that entering the council was one way of gaining some power.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Arrange the following events in chronological order and choose the correct option.\nI. Formation of Khilafat Committee in Bombay\nII. Jallianwala Bagh Massacre\nIII. Bardoli Satyagraha\nIV. Withdrawal of Non-Cooperation Movement",
+   "options": [
+    "I, II, IV, III",
+    "III, IV, II, I",
+    "I, II, III, IV",
+    "II, I, IV, III"
+   ],
+   "figure": null,
+   "answer": "(a) I, II, IV, III",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Explain any three provisions of the Napoleon Civil Code, 1804.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Simplified administration: Napoleon simplified the administrative divisions, abolished the feudal system and freed peasants from serfdom and manorial dues. ii. No birth-based privileges: he abolished all privileges based on birth and established equality before the law; he also secured the right to property. iii. Free trade and no guild restrictions: uniform laws, standardised measurements and currencies boosted free trade; guild restrictions that hindered the growth of manufacturing were removed. iv. Improvement of infrastructure: transport and communication systems were improved. (any three)",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Explain the role of Otto Von Bismark in the Unification of Germany.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Prussia took on the leadership of the movement for national unification. Its chief minister, Otto von Bismarck, was the architect of this process, carried out with the help of the Prussian army and bureaucracy. ii. Three wars over seven years with Austria, Denmark and France ended in Prussian victory and completed the process of unification. iii. In January 1871, the Prussian king William I was proclaimed German Emperor in a ceremony held at Versailles."
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "How did new forms of popular literature appear in print targeting a new audience in the 18th century? Explain with examples.",
+   "options": null,
+   "figure": null,
+   "answer": "New forms of popular literature like almanacs, newspapers and journals appeared in print targeting new audiences in the eighteenth century: i. Books could reach a wider population; even those who disagreed with existing customs could express themselves through print. ii. Novels carried themes related to women's lives and emotions; such journals were often written and edited by women themselves. iii. With the expansion of compulsory education, children became important readers; a children's press devoted to children's literature published old fairy tales and folk tales along with new works (the Grimm Brothers spent years compiling folk tales). iv. Fictional narratives, poetry, autobiographies, anthologies and romantic plays were preferred by new readers.",
+   "or": {
+    "chapter": "Ch05_History_Print_Culture",
+    "text": "'It is difficult to imagine a world without printed matter'. Justify the statement with suitable arguments.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Everywhere in our surroundings we find evidence of print, i.e. in books, journals, newspapers, prints of famous paintings etc. ii. We see printed materials in everyday things like theatre programmes, official circulars, calendars, diaries, advertisements, cinema posters, government notifications etc. iii. It is a true medium of mass communication: we read printed literature, see printed images, follow the news through newspapers and track public debates that appear in print. iv. Printed matter helps in preservation and dissemination of history, scientific knowledge and culture."
+   },
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Explain the different factors which led to the rise of nationalism in Europe.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Decline of feudalism: feudal lords were a great stumbling block to nationalist feelings; their mutual warfare and crusades weakened them. ii. Weakness of the Papacy and the Roman Empire: the renaissance and reformation movements led to awakening among the people and weakened the authority of the pope and the Holy Roman Empire; national churches and national states were established. iii. Foreign rule: in certain countries foreign rule played an important part in the growth of nationalism. iv. Reaction against injustice: reaction against the arbitrary rule of unjust monarchs also gave birth to nationalism. v. Contribution of great writers: the writings of poets, politicians and philosophers like Machiavelli, J.S. Mill, Fichte, Mazzini, Garibaldi etc. roused political consciousness and national spirit.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Explain the term conservatism. Explain with special reference to Europe.",
+    "options": null,
+    "figure": null,
+    "answer": "Meaning: conservatism is a political philosophy that stressed the importance of tradition, established institutions and customs and preferred gradual development to quick change. Conservatives supported monarchy and nobility and believed their privileges should exist; after the French Revolution they contended that gradual changes should be brought in society. European conservatism: European governments adopted the idea of conservatism after the defeat of Napoleon in 1815; conservatives believed that established, traditional institutions of state and society like the monarchy, church, social hierarchies, property and the family should be preserved. Change in ideas: after Napoleon most conservatives did not want to return to pre-revolutionary society; they realised that a modern army, an efficient bureaucracy, a dynamic economy and the abolition of feudalism and serfdom could strengthen autocratic monarchies, so they accepted changes in favour of their interests."
+   },
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Read the following text carefully and answer the questions that follow:\n\nThe Sense of Collective Belonging\nThis sense of collective belonging came partly through the experience of united struggles. But there were also a variety of cultural processes through which nationalism captured people's imagination. History and fiction, folklore and songs, popular prints and symbols, all played a part in the making of nationalism.\nThe identity of the nation, as you know, is most often symbolised in a figure or image. This helps create an image with which people can identify the nation. It was in the twentieth century, with the growth of nationalism, that the identity of India came to be visually associated with the image of Bharat Mata. The image was first created by Bankim Chandra Chattopadhyay. In the 1870s he wrote 'Vande Mataram' as a hymn to the motherland. Later it was included in his novel Anandamath and widely sung during the Swadeshi movement in Bengal. Moved by the Swadeshi movement, Abanindranath Tagore painted his famous image of Bharat Mata. In this painting, Bharat Mata is portrayed as an ascetic figure; she is calm, composed, divine and spiritual. In subsequent years, the image of Bharat Mata acquired many different forms, as it circulated in popular prints, and was painted by different artists. Devotion to this mother figure came to be seen as evidence of one's nationalism.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "How did the nation become a reality in the minds of people?",
+     "marks": 1,
+     "options": null,
+     "answer": "The nation became a reality in the minds of people through images, history and fiction, folklore and songs, popular prints and symbols, all of which played a part in the making of nationalism."
+    },
+    {
+     "text": "How did nationalism capture the people's imagination?",
+     "marks": 1,
+     "options": null,
+     "answer": "Through history and fiction / through popular prints and symbols / through the image of Bharat Mata. (any one)"
+    },
+    {
+     "text": "How did people belonging to different groups develop a sense of collective belonging?",
+     "marks": 2,
+     "options": null,
+     "answer": "The sense of collective belonging came partly through the experience of united struggles. There were also cultural processes through which nationalism captured people's imagination: history and fiction, folklore and songs, popular prints and symbols. People started visually associating with the image of Bharat Mata and connected through 'Vande Mataram' as a hymn to the motherland."
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where the Indian National Congress Session was held.\nb. The place where Gandhiji organized Satyagraha in favour of cotton mill workers.",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "A - Nagpur; B - Ahmedabad.",
+   "or": null,
+   "subparts": null,
+   "note": "Map question: the candidate marks and labels the places on the outline map of India."
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "The river on which the Sardar Sarovar Project is constructed is:",
+   "options": [
+    "Chambal",
+    "Mahanadi",
+    "Narmada",
+    "Krishna"
+   ],
+   "figure": null,
+   "answer": "(c) Narmada — the Sardar Sarovar Dam is on the Narmada river near Navagam, Gujarat.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "The teacher is asking questions regarding the viewpoints of Gandhiji on resource conservation. She gave students the following clues. She told the students to identify the incorrect clues. The following are the clues:\ni. Gandhiji was very apt in voicing his concern about resource conservation.\nii. He said, \"There is enough for everybody's need and not for anybody's greed.\"\niii. He placed greedy and selfish individuals and the exploitative nature of modern technology as the root cause for resource depletion at the global level.\niv. He was against production by the masses and wanted to replace it with mass production.\nIdentify the incorrect clue.",
+   "options": [
+    "Clue iv",
+    "Clue iii and iv",
+    "Clue i",
+    "Clue ii and iii"
+   ],
+   "figure": null,
+   "answer": "(a) Clue iv — he was against mass production and wanted to replace it with production by the masses.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Read the given data and find out which states are NOT equal contributors to the production of limestone.\nProduction of Limestone in 2016-17\n\n| State | Percentage |\n|---|---|\n| Andhra Pradesh | 11 |\n| Chhattisgarh | 10 |\n| Gujarat | 8 |\n| Karnataka | 10 |\n| Madhya Pradesh | 11 |\n| Rajasthan | 21 |\n| Telangana | 8 |\n| Tamil Nadu | 8 |",
+   "options": [
+    "Madhya Pradesh and Andhra Pradesh",
+    "Karnataka and Chhattisgarh",
+    "Tamil Nadu and Gujarat",
+    "Telangana and Rajasthan"
+   ],
+   "figure": null,
+   "answer": "(d) Telangana and Rajasthan",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following characteristics of the Indian Wild Life (Protection) Act are correct? Choose the most appropriate option.\nCharacteristics:\nI. To make provisions for habitat for wild animals.\nII. To publish list of protected species.\nIII. To ban hunting to save endangered species.\nIV. To include important subjects like forests and wildlife in the Union List.",
+   "options": [
+    "Only I, II and III are correct.",
+    "Only II, III and IV are correct.",
+    "Only I, III and IV are correct.",
+    "Only I, II and IV are correct."
+   ],
+   "figure": null,
+   "answer": "(a) Only I, II and III are correct.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Imagine you are travelling from Delhi to Chandigarh to attend a wedding, by road in January. Which of the following crops will you notice prominently in the fields during the journey?",
+   "options": [
+    "Wheat",
+    "Jowar",
+    "Maize",
+    "Paddy"
+   ],
+   "figure": null,
+   "answer": "(a) Wheat (a rabi crop sown in winter in the north-western plains).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Which of the following options represents the possible reality of the production of sugarcane, tea, or rubber in India?\ni. They are grown in large areas and cover large tracts of land.\nii. Their production generally has an interface of agriculture and industry.\niii. Cultivation is done with the help of capital-intensive inputs and migrant labourers.\niv. It is practised in areas of high population pressure on land.",
+   "options": [
+    "Statement i, ii, & iii are correct.",
+    "Statement i and ii are correct.",
+    "Statement ii is correct.",
+    "Statement ii, iii & iv are correct."
+   ],
+   "figure": null,
+   "answer": "(a) Statement i, ii, & iii are correct — these are plantation crops: a single crop on a large area, with an interface of agriculture and industry, capital-intensive inputs and migrant labourers. Intensive subsistence farming is practised in areas of high population pressure on land.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "Human activities have contributed significantly in land degradation. Justify the statement with three examples.",
+   "options": null,
+   "figure": null,
+   "answer": "1. Mining sites: abandoned mining sites in Jharkhand, Chhattisgarh, Madhya Pradesh and Odisha leave deep scars and cause deforestation, leading to severe land degradation. 2. Overgrazing: in Gujarat, Rajasthan, Madhya Pradesh and Maharashtra, overgrazing is a primary cause of land degradation. 3. Over irrigation: in Punjab, Haryana and western Uttar Pradesh, over-irrigation leads to waterlogging, increasing soil salinity and alkalinity, thus degrading the land.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Why is energy needed? How can we conserve energy resources? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "Energy is required for all activities: to cook, to provide light and heat, to propel vehicles and to drive machinery in industries. Energy resources need to be conserved because: i. the economic development of any country relies on its energy resources; ii. all sectors of the economy (primary, secondary, tertiary) require energy as inputs; iii. consumption of energy resources has been increasing over time as development increases; iv. they take millions of years to form. Ways to conserve: i. plan for a sustainable path of energy usage; ii. promote energy conservation at group and individual level; iii. replace traditional incandescent bulbs with halogen incandescent bulbs, CFLs and LEDs.",
+   "or": {
+    "chapter": "Ch10_Geography_Minerals_and_Energy",
+    "text": "\"There is a pressing need for using renewable energy sources in India.\" Justify the statement.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Non-renewable resources are limited and will get exhausted in a few decades; there is a need for inexhaustible energy resources for sustainable development. ii. Human need and greed have resulted in the rapid depletion of non-renewable resources like coal and petroleum formed over millions of years; consumption is much faster than formation. iii. Most fossil fuels create pollution and environmental degradation; clean energy can come from renewable resources like wind and sun. iv. Fossil fuels are becoming difficult to find and more expensive as supply does not meet demand; switching to solar and wind energy would be cheaper and long-lasting."
+   },
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "Read the following text carefully and answer the questions that follow:\n\nChhotanagpur plateau region has the maximum concentration of iron and steel industries. It is largely, because of the relative advantages this region has for the development of this industry. These include, low cost of iron ore, high grade raw materials in proximity, cheap labour and vast growth potential in the home market. Though, India is an important iron and steel producing country in the world yet, we are not able to perform to our full potential.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "In which region maximum iron and steel industries concentrated and why?",
+     "marks": 1,
+     "options": null,
+     "answer": "In the Chotanagpur plateau region; because of low cost of iron ore, iron mines located in nearby areas (reducing transportation cost of iron ore), high grade raw materials in proximity, cheap labour and vast growth potential in the home market."
+    },
+    {
+     "text": "Why are we not able to perform to our full potential largely?",
+     "marks": 1,
+     "options": null,
+     "answer": "(i) High costs and limited availability of coking coal; (ii) lower productivity of labour; (iii) irregular supply of energy and poor infrastructure."
+    },
+    {
+     "text": "Where is Chota Nagpur Plateau located? Why India is not capable of reaching its full potential in iron and steel production?",
+     "marks": 2,
+     "options": null,
+     "answer": "The Chota Nagpur Plateau is in eastern India, covering much of Jharkhand and adjacent parts of Chhattisgarh, Odisha, West Bengal and Bihar; the Indo-Gangetic plain lies to the north and east and the Mahanadi basin to the south. India is not reaching its full potential because of high costs and limited availability of coking coal and lower productivity of labour."
+    }
+   ]
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. An international airport serving the capital of Tamil Nadu.\nii. Software Technology Park in the City of Pearls in Telangana.\nII. Any two of the following:\niii. Vijayanagar - Iron and Steel Plant\niv. Tarapur - Nuclear Power Plant\nv. Hirakud - Dam",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "(i) Meenambakkam (Chennai) - International Airport; (ii) Hyderabad - Software Technology Park; (iii) Vijayanagar - Iron and Steel Plant; (iv) Tarapur - Nuclear Power Plant; (v) Hirakud - Dam (locations shown on the answer map fig_p13_0.png).",
+   "or": null,
+   "subparts": null,
+   "answer_figure": "fig_p13_0.png",
+   "note": "Map question: the candidate marks and labels the places on the outline map of India. Mixed chapters (Manufacturing/Energy/Water); the question uses the same outline map as Q9."
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "To reform the party system, which of the following tasks have been made compulsory for the political parties? Choose the most appropriate option.\nI. It is now compulsory for all the political parties to file income tax returns.\nII. It is now compulsory for all parties to have one-third women candidates.\nIII. It is now compulsory for all the political parties to hold their organisational election.\nIV. It is now compulsory for all candidates to disclose information about pending criminal cases against them through affidavit.",
+   "options": [
+    "Only I, II and III are correct.",
+    "Only II, III and IV are correct.",
+    "Only I, III and IV are correct.",
+    "Only I, II and IV are correct."
+   ],
+   "figure": null,
+   "answer": "(c) Only I, III and IV are correct.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Which of the following options best signifies this cartoon?",
+   "options": [
+    "Poverty and Hunger in India",
+    "Sharing of Powers between State and Union Government",
+    "Power sharing as per Dynastic Succession.",
+    "The States Plead for More Powers"
+   ],
+   "figure": "fig_p06_0.png",
+   "answer": "(d) The States Plead for More Powers",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Which of the following statements will be considered as the criteria for judging any democratic country?\nStatement i: Expectations from democracy.\nStatement ii: Complaints from democracy.\nStatement iii: A public expression of dissatisfaction with democracy.\nStatement iv: Equal recognition of all individuals in a democracy.",
+   "options": [
+    "Statement iii is right.",
+    "Statement i, ii and iii are right.",
+    "Only statement iv is right.",
+    "Statement i and ii are right."
+   ],
+   "figure": null,
+   "answer": "(b) Statement i, ii and iii are right — expectations from democracy function as criteria for judging any democratic country; complaints and public expression of dissatisfaction show the success of the democratic project.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Assertion (A): Sometimes a caste group becomes a vote bank for a party.\nReason (R): Selecting the candidate from the same caste helps in ensuring better governance.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(c) A is true but R is false — a caste group may become a vote bank as people select candidates of their own caste, but it is wrong to select a candidate on the basis of caste instead of personal abilities.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "What led to tensions between the Dutch-speaking and French-speaking communities in Belgium during the 1950s and 1960s?",
+   "options": null,
+   "figure": null,
+   "answer": "Economic inequality between the two communities was the basic cause: a. Majoritarianism and financial preference led to tensions in the 1950s and 1960s. b. In Brussels the French-speaking community, a minority, was relatively rich and powerful whereas the Dutch-speaking community, the majority in the country, was poor. c. The Dutch-speaking community resented this, leading to tension. d. The tension was more acute in Brussels, where the Dutch-speaking people were a majority in the country but a minority in the capital.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Explain the condition under which dignity and freedom of the citizens can be promoted.",
+   "options": null,
+   "figure": null,
+   "answer": "The passion for respect and freedom is the basis of democracy. For societies built for long on subordination and domination, it is not simple to recognise that all individuals are equal. Conditions: i. To promote dignity and freedom of citizens, all individuals should be treated as equal; once this principle is recognised it becomes easier to struggle against what is legally and morally unacceptable. ii. Claims of the disadvantaged and discriminated for equal status and equal opportunity should be strengthened; inequalities and atrocities lack moral and legal foundations.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "How can we say that a democratic government is a legitimate government?",
+   "options": null,
+   "figure": null,
+   "answer": "A democratic government is a legitimate government because it is people's own government. It may be slow, less efficient and not very responsive and clean, but it is the people's government. There is overwhelming support for the idea of democracy all over the world; people of South Asia (Bangladesh, Sri Lanka, India, Pakistan, Nepal) have no doubt about the suitability of democracy for their own country. People wish to be ruled by representatives elected by them. Democracy's ability to generate its own support makes it more legitimate.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "What are the characteristics of a political party?",
+   "options": null,
+   "figure": null,
+   "answer": "i. Political parties are groups of well organised like-minded people with the same views and opinions. ii. Members agree to policies and programmes to be implemented for the benefit of society with a view to promoting collective good. iii. Every party has one common aim: to attain power; for this they contest elections, and if unable to win a majority single-handedly they form alliances to make a coalition government. iv. Parties try to persuade people that their policies are better than those of other parties. v. Parties are a part of society and thus involve partisanship. vi. A party runs with the help of its leaders, active members and supporters. vii. A party is known by what it stands for, the policies it supports and the interests it upholds.",
+   "or": {
+    "chapter": "Ch16_PolSci_Political_Parties",
+    "text": "Explain some instances that reflect the efforts of Indian Government to reform the political parties and leaders.",
+    "options": null,
+    "figure": null,
+    "answer": "A. The Constitution was amended to prevent MPs and MLAs from changing parties (Anti-Defection law). B. The Supreme Court made it mandatory for every candidate to file an affidavit giving details of property and criminal cases pending against him. C. The Election Commission made it necessary for political parties to hold organisational elections and file their income tax returns. The RTI has made a lot of information available to the public. Other suggestions: A. Parties should maintain a register of members, follow their own constitution, have an independent authority to judge party disputes and hold open elections to the highest posts. B. A minimum of about one-third tickets should go to women candidates, with a quota for women in decision-making bodies of the party. C. State funding of elections: the government should give parties money (in kind such as petrol, paper, telephone, or in cash on the basis of votes secured in the last election)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Read the given source and answer the questions that follow:\n\nPower Sharing and Panchayati Raj\nWe need to give more power to the panchayats to realise the dream of Mahatma Gandhi and the hopes of the makers of our Constitution. Panchayati Raj establishes true democracy. It restores power to the only place where power belongs in a democracy - in the hands of the people. Giving power to Panchayats is also a way to reduce corruption and increase administrative efficiency. When people participate in the planning and implementation of developmental schemes, they would naturally exercise greater control over these schemes. This would eliminate the corrupt middlemen. Thus, Panchayati Raj will strengthen the foundations of our democracy.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "How does the principle of power sharing promote democracy?",
+     "marks": 1,
+     "options": null,
+     "answer": "Maximum participation of people is the spirit of democracy; power sharing promotes this."
+    },
+    {
+     "text": "Mention the main impact of women's participation in Panchayati Raj.",
+     "marks": 1,
+     "options": null,
+     "answer": "Women's participation in Panchayati Raj has helped to improve the women's role in public life."
+    },
+    {
+     "text": "Explain the role of Panchayats in the development of villages.",
+     "marks": 2,
+     "options": null,
+     "answer": "i. It restores power to the only place where power belongs in a democracy - in the hands of the people. ii. Giving power to Panchayats is also a way to reduce corruption. iii. It increases administrative efficiency."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "Which one among the following is a far-reaching change in the Economic Policy of India in 1991?",
+   "options": [
+    "Putting barriers on foreign trade",
+    "Removing barriers on trade",
+    "Protection to domestic and foreign producers",
+    "Restrictions on foreign competition"
+   ],
+   "figure": null,
+   "answer": "(b) Removing barriers on trade",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Read the information given below and select the correct option\nA shoe manufacturer wants to sell shoes in the market and buy wheat. The shoe manufacturer will first exchange shoes that he had produced for money, and then exchange the money for wheat. Which drawback of Barter system is indicated here?",
+   "options": [
+    "Lack of Standard of Deferred Payment",
+    "Lack of Common Measure of Value",
+    "Lack of Store of Value",
+    "Lack of Double Coincidence of Wants"
+   ],
+   "figure": null,
+   "answer": "(d) Lack of Double Coincidence of Wants — barter works only when both buyer and seller are ready to exchange each other's goods.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Fill in the blank:\n\n| GDP SHARE | CAUSE |\n|---|---|\n| Tertiary Sector Increased | ? |\n| Primary Sector Decreased | People began to work in factories |",
+   "options": [
+    "Alternative opportunities for work",
+    "Employment of highly skilled and educated workers",
+    "Development of the secondary sector",
+    "Rising Importance of the Tertiary Sector"
+   ],
+   "figure": null,
+   "answer": "(d) Rising Importance of the Tertiary Sector",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Only income is not the proper indicator of the development of the country. Which of the following is not correct in the context of the above statement?",
+   "options": [
+    "Money helps us buy only material goods and services",
+    "Money cannot ensure a pollution-free environment for individuals",
+    "Some people earn more than others do",
+    "Money does not ensure respect and dignity for individuals"
+   ],
+   "figure": null,
+   "answer": "(c) Some people earn more than others do — development goals are not only about better income; money cannot buy a pollution-free environment, unadulterated medicines, or protection from infectious diseases unless the whole community takes preventive steps.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) The earliest method to buy and sell products | (i) NSSO |\n| (b) Source of credit for a rich urban household in India | (ii) Collateral |\n| (c) The most important term of the credit | (iii) Barter system |\n| (d) An organisation that conducted All India Debt and Investment Survey, 2003 | (iv) Formal sources of credit |",
+   "options": [
+    "(a) - (i), (b) - (iv), (c) - (ii), (d) - (iii)",
+    "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)",
+    "(a) - (iii), (b) - (ii), (c) - (iv), (d) - (i)",
+    "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+   ],
+   "figure": null,
+   "answer": "(d) (a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "In a rural village in India, Radha, a farmer, cultivated cotton on her farmland, relying on natural factors like rainfall and sunshine. She sold the harvested cotton to Ramesh, a skilled weaver, who transformed the cotton fibers into beautiful fabrics. The journey from the agricultural sector activity of cotton cultivation to the manufacturing sector activity of textile manufacturing showcases the interconnectedness of these sectors in the Indian economy. Which sector involves the transformation of natural products into other forms through manufacturing processes?",
+   "options": [
+    "Tertiary sector",
+    "Quaternary sector",
+    "Primary sector",
+    "Secondary sector"
+   ],
+   "figure": null,
+   "answer": "(d) Secondary sector — it covers activities in which natural products are changed into other forms through manufacturing.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "Why had the Indian government put barriers to foreign trade and foreign investment after independence? Analyse the reasons.",
+   "options": null,
+   "figure": null,
+   "answer": "i. To protect local producers and goods from foreign competition. ii. The Indian economy was unstable and weak after the British left, so it had to be allowed to develop in order to cope with high levels of development abroad. iii. Industries needed protection so that they could grow and be ready to compete with developed countries later; restrictions were imposed on the import of certain goods. iv. Industries were coming up in the 1950s and 1960s and tough competition from imports at that stage would not have allowed them to develop; imports were strictly regulated and allowed only for essential items such as machinery, fertilisers and petroleum.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Explain the term debt-trap. Why is it more rampant in rural areas? Give two reasons.",
+   "options": null,
+   "figure": null,
+   "answer": "Debt-trap refers to a situation where farmers are unable to return the money taken from lenders and, in order to repay previous loans, take more loans, and the cycle continues unless the farmer loses his land. More rampant in rural areas because: i. A borrower repays a loan by selling the agricultural produce, which sometimes may not be enough to repay the loan. ii. Rural borrowers normally depend on informal sources of credit who charge a high rate of interest; the repayment amount may sometimes be larger than their income.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Examine the role of government policies in promoting economic growth in India.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Encouraging development of infrastructure. ii. Providing subsidies on various goods. iii. Increasing investment in public facilities. iv. Adopting policies like liberalisation and globalisation. v. Adopting policies to promote industries in rural and semi-rural areas. vi. Special poverty eradication and employment generation schemes like MNREGA. vii. Investing more in the development of various skill training programmes. (any three)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "How can employment be increased in both rural and urban areas? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "Unemployment prevails in both rural and urban areas (disguised unemployment in agriculture, unorganised services in cities). Steps: i. Education and health sectors can create massive employment; vocational training also creates employment. ii. Promote allied activities like horticulture and pisciculture through financial assistance and awareness programmes in rural areas. iii. Promote small scale industries and self-help groups; give incentives to urban industries to increase capacity. iv. Increase vocational education courses so that educated people get jobs easily. v. Tertiary activities like inclusive banking and promotion of markets can take services to rural areas and induce growth in the primary sector. vi. Cheap credit for new enterprises and encouraging foreign investment. vii. Social safety programmes like NREGA and NRLM. viii. Improve local and intercity transportation. ix. Develop tourism (hotels, restaurants). x. Rapid industrialisation in urban areas. (any five points with explanation)",
+   "or": {
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "How are the three sectors of economy interdependent? Explain with suitable examples.",
+    "options": null,
+    "figure": null,
+    "answer": "The primary, secondary and tertiary sectors are interdependent. i. Agricultural activities produce raw materials for agro-based industries and food for employees in the secondary and tertiary sectors (they depend on the primary sector). ii. Industrial activities produce tractors and fertilisers for agriculture and raise its productivity (primary depends on secondary). iii. Transportation facilities are needed to carry agricultural and industrial products to markets (primary and secondary depend on tertiary). iv. The industrial sector produces trucks, autos and computers used for transport, banking and outsourcing (tertiary depends on secondary). v. If a farmer does not produce grain, all people starve and secondary and tertiary workers pay more for food; inadequate marketing, storage and transport reduce the farmer's earnings. vi. Example: sugarcane cultivation (primary); processing into jaggery and sugar in factories (secondary); transportation from fields to factories (tertiary)."
+   },
+   "subparts": null
+  }
+ ]
+}

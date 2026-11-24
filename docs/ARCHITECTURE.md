@@ -92,3 +92,17 @@ Approximate PDF counts: Graded 5,750; Practice 1,970; Worksheets 514 (257 sheets
 ## 8. Quality and known open items
 
 Every worksheet/key/notes set was independently reviewed (about 450 fixes; logs in `docs/review_logs/`). Open items for a teacher: Class 10 Hindi and English-poem content verified from memory (source PDFs garbled or absent); Class 10 English Ch 14 ending; generous Hard tags; older Class 9 English graded papers vs NCERT "Kaveri"; `c10sst_ch07` graded bank still tests IUCN categories; unit/full-year/MCQ exams were not rebuilt after later bank edits; Gulmohar units 1–8 and 13–17 not checked against the printed book; Ruskin reader's real title unknown (only chapters 11–12 so far); old 4-tier Gulmohar unit folders 9–12 can be deleted.
+
+## 9. Class 10 sample-paper products (added 2026-11-24)
+
+Source: the 2026-27 Class 10 sample papers supplied by the owner (zip: 11 papers per subject = the CBSE official paper + 10 further papers, each with solutions). Nothing is invented: questions and official answers were typed into data files and de-duplicated.
+
+| Folder (`Class_10/<Subject>/`) | Contents |
+|---|---|
+| `Sample_Papers_2026-27/` | The 11 original PDFs, renamed `CBSE_Official_...` and `Paper_01...Paper_10_...` (question paper + marking scheme). |
+| `SamplePaper_Chapterwise_Worksheets/` | One worksheet per chapter holding every distinct question on that chapter from all 11 papers (duplicates merged, source tag on each question, e.g. `SP03 Q12`), grouped by question type, with marks, figures/maps copied as images, plus a separate `_Answer_Key.pdf`. English also has `SKILL_Reading / Grammar / Writing` worksheets; Hindi has the same for unseen reading, grammar and writing. |
+| `SamplePaper_Sectionwise_Tests/` | 80-mark tests built from one section only: Maths = Sec A (1-mark MCQ/AR), B (2), C (3), D (5), E (4-mark case); Science = Biology / Chemistry / Physics / Case-based; Social Science = History / Geography / Political Science / Economics; English = Reading / Writing / Grammar / Literature; Hindi = Reading / Grammar / Textbook / Writing. Each test has an answer key. Questions are not repeated across tests of a group. |
+
+Pipeline (`src/sp10/`): `prep.py` (copies PDFs, page PNGs, embedded figures with positions) -> agents type each paper into `data/<Subject>_<Paper>.json` following `BRIEF.md` (schema: section, marks, type, chapter, text, options, figure, answer, `or`, subparts) -> `validate.py` -> `build.py <Subject> [ws|tests|both]` (de-duplicates with difflib, renders worksheets and tests with the shared KaTeX layout). `chapters.py` lists the chapter ids. Intermediate page images live outside the repo (scratchpad `sp10work`); figure images used in PDFs are embedded in the PDFs.
+
+Known limits: the official marking schemes contain errors (wrong options, arithmetic slips); the transcribers kept the official answer and added a `Note:` line in the key where they believe it is wrong. Questions that mix chapters are filed under the main chapter (English/Hindi literature questions are split per sub-question when the sub-questions come from different lessons). Tests may mix a few questions from a neighbouring group to reach exactly 80 marks. These papers are third-party/CBSE copyrighted material: keep this folder out of any public repository unless you are sure you may publish it.

@@ -1,0 +1,694 @@
+{
+ "subject": "SST",
+ "paper": "Paper_08",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Why was Otto von Bismarck considered as the chief architect of German unification? Choose the correct option from the following:",
+   "options": [
+    "He carried the nation-building process with the army and the bureaucracy.",
+    "He allianced with Italy and France for the unification process.",
+    "He granted autonomy to Prussia with Conservatives.",
+    "He carried Liberalist and Romantic scholars for cultural movement."
+   ],
+   "figure": null,
+   "answer": "(a) He carried the nation-building process with the army and the bureaucracy.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Study the picture and answer the question that follows: Indian workers in South Africa march through Volksrust on 6th November 1913. Who was leading them?",
+   "options": [
+    "Subhash Chandra Bose",
+    "Pt. Jawaharlal Nehru",
+    "Lala Lajpat Rai",
+    "Mahatma Gandhi"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(d) Mahatma Gandhi - he was leading the workers from Newcastle to Transvaal. When the marchers were stopped and Gandhiji arrested, thousands more workers joined the satyagraha against racist laws that denied rights to non-whites.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_History_Making_of_a_Global_World",
+   "text": "The germs of which disease paved the way for Europe's conquest of America in the later half of the sixteenth century?",
+   "options": [
+    "Cholera",
+    "Malaria",
+    "Jaundice",
+    "Smallpox"
+   ],
+   "figure": null,
+   "answer": "(d) Smallpox",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Who among the following agreed to revise press laws?",
+   "options": [
+    "Canning",
+    "Bentinck",
+    "Hastings",
+    "Thomas Macaulay"
+   ],
+   "figure": null,
+   "answer": "(b) Bentinck - in 1835, faced with urgent petitions by editors of English and vernacular newspapers, Governor-General Bentinck agreed to revise press laws.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_History_Making_of_a_Global_World",
+   "text": "Describe the significance of silk route in the pre-modern period in the field of trade, cultural exchange and religion.",
+   "options": null,
+   "figure": null,
+   "answer": "The silk route played a significant role in the pre-modern period in the field of trade, cultural exchange and religion.\ni. The pre-modern world changed with the discovery of new sea routes to America. It shrank greatly in the sixteenth century after European sailors found a sea route to Asia and successfully crossed the western ocean to America.\nii. Before its discovery America had been cut off from regular contact with the rest of the world. From the sixteenth century its vast lands and abundant crops and minerals began to transform trade and lives everywhere.\niii. Precious metals, particularly silver, from mines in present day Peru and Mexico enhanced Europe's wealth and financed its trade with Asia.",
+   "or": {
+    "chapter": "Ch03_History_Making_of_a_Global_World",
+    "text": "How did improvement in transportation technology stimulate the globalisation process? Explain.",
+    "answer": "i. Faster delivery of goods across long distances became possible at lower costs.\nii. With the improvement in transportation technology people can travel long distances in a very short span of time.\niii. It has facilitated trade (domestic and international).",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Analyse the role of peasant communities in the 'Civil Disobedience Movement'.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Rich peasant communities found it impossible to pay the government's revenue demand, and the refusal of the government to reduce the revenue demand led to widespread resentment.\nii. These rich peasants became enthusiastic supporters of the Civil Disobedience Movement, organising their communities and at times forcing reluctant members to participate in the boycott programmes.\niii. For them the fight for swaraj was a struggle against high revenues. But they were deeply disappointed when the movement was called off in 1931 without the revenue rates being revised.",
+   "or": {
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Workers too had their own understanding of Mahatma Gandhi's thoughts and the notion of Swaraj. Explain the statement with the example of Assam.",
+    "answer": "For plantation workers in Assam, freedom meant the right to move freely in and out of the confined space in which they were enclosed. It meant retaining a link with the village from which they had come. Under the Inland Emigration Act of 1859, plantation workers were not permitted to leave the tea gardens without permission, and in fact were rarely given such permission. When they heard of the Non-Cooperation Movement, thousands of workers defied the authorities, left the plantations and headed home. They believed that Gandhi Raj was coming and everyone would be given land in their own villages.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "How did ideas of national unity in early nineteenth-century Europe allied to the ideology of liberalism? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "The ideology of liberalism allied with nationalism in the following ways:\ni. In the political sense, liberalism stood for freedom for the individual and equality of all before the law. It emphasised the end of aristocracy and clerical privileges, a constitution and representative government through parliament and the inviolability of private property, drawing its basic foundation from the French Revolution.\nii. In the economic sense, liberalism stood for the freedom of markets and the abolition of state-imposed restrictions on the movement of goods and capital.\niii. From the very beginning, voting rights were granted only to property-owning men, excluding men without property and all women. However, throughout the nineteenth century and early twentieth century, many movements were organised demanding equal political rights.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "What did Liberal Nationalism stand for? Explain any four ideas of liberal-nationalists during the end of the nineteenth century.",
+    "answer": "Liberal Nationalism: the term 'liberalism' derives from the Latin root liber, meaning free. For the new middle classes liberalism stood for freedom for the individual and equality of all before the law.\nIdeas of liberal nationalism (any four):\ni. Ideas of national unity in early-nineteenth-century Europe were closely allied to the ideology of liberalism.\nii. Liberalism, which gained momentum after the French Revolution, aimed to abolish autocracy and the special privileges held by the clergy.\niii. Politically, it emphasised the concept of government by consent.\niv. In the economic sphere, liberalism stood for the freedom of markets and the abolition of state-imposed restrictions on the movement of goods and capital.\nv. It stood for a constitution and representative government through parliament.\nvi. It stressed the inviolability of private property.\nvii. Equality before the law did not necessarily stand for universal suffrage.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Read the given source and answer the questions that follow:\nPrint and Censorship\nThe power of the printed word is most often seen in the way governments seek to regulate and suppress print. The colonial government kept continuous track of all books and newspapers published in India and passed numerous laws to control the press.\nDuring the First World War, under the Defence of India Rules, 22 newspapers had to furnish securities. Of these, 18 shut down rather than comply with government orders. The Sedition Committee Report under Rowlatt in 1919 further strengthened controls that led to imposition of penalties on various newspapers. At the outbreak of the Second World War, the Defence of India Act was passed, allowing censoring of reports of war-related topics. All reports about the Quit India movement came under its purview. In August 1942, about 90 newspapers were suppressed.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Explain the meaning of 'censor'.",
+     "marks": 1,
+     "options": null,
+     "answer": "Censor means tracking of all books and newspapers published / controlling the publication of books and newspapers that are critical of government policies."
+    },
+    {
+     "text": "Why did the colonial administration keep an eye on books and newspapers?",
+     "marks": 1,
+     "options": null,
+     "answer": "(Any one) Several books and newspapers were critical of the British misrule and encouraged nationalist activities; the vernacular press was assertively nationalist; the government wanted to suppress print and passed numerous laws to control the press; these books and newspapers created a sense of unity amongst Indians."
+    },
+    {
+     "text": "Why did Gandhiji start a nationwide Satyagraha against the Rowlatt Act? Explain any two reasons.",
+     "marks": 2,
+     "options": null,
+     "answer": "i. The Rowlatt Act gave the government enormous powers to repress political activities.\nii. The Act allowed the detention of political prisoners without trial for two years."
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where the Indian National Congress Session was held.\nb. The place where the Jallianwala Bagh incident occurred.",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "(A) Chennai (Madras); (B) Amritsar.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "Where was the Earth Summit held in 1992?",
+   "options": [
+    "Rio de Janeiro",
+    "New York",
+    "Delhi",
+    "France"
+   ],
+   "figure": null,
+   "answer": "(a) Rio de Janeiro - the UN Conference on Environment and Development (UNCED), also known as the Rio Earth Summit, was held in Rio de Janeiro from 3 to 14 June 1992 to address urgent problems of environmental protection and socio-economic development at the global level.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Which are two important wheat-growing zones in the country?",
+   "options": [
+    "Northern plains and Coastal areas",
+    "The Ganga-Satluj plains in the northwest and black soil region of the Deccan",
+    "South India and Central India",
+    "Northern Eastern India and Rajasthan"
+   ],
+   "figure": null,
+   "answer": "(b) The Ganga-Satluj plains in the northwest and black soil region of the Deccan. Major wheat-producing states are Punjab, Haryana, Uttar Pradesh, Bihar, Rajasthan and parts of Madhya Pradesh.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following states has the largest area under permanent forests?",
+   "options": [
+    "West Bengal",
+    "Assam",
+    "Madhya Pradesh",
+    "Manipur"
+   ],
+   "figure": null,
+   "answer": "(c) Madhya Pradesh has the largest area under permanent forests.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following options represents the measures that can be taken under joint forest management (JFM) for the management and restoration of forests?\ni. Involving local communities.\nii. Formation of local (village) institutions.\niii. Promoting community afforestation.\niv. Developing new methods of ecological farming.",
+   "options": [
+    "Statement i, ii, & iii are correct.",
+    "Statement i and ii are correct.",
+    "Statement ii is correct.",
+    "Statement ii, iii & iv are correct."
+   ],
+   "figure": null,
+   "answer": "(b) Statement i and ii are correct. JFM is an example of involving local communities in the management and restoration of degraded forests and depends on the formation of local (village) institutions that undertake protection activities mostly on degraded forest land managed by the forest department.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "What is the percentage share of plains in the total land area?",
+   "options": [
+    "43%",
+    "20%",
+    "30%",
+    "80%"
+   ],
+   "figure": null,
+   "answer": "(a) 43% - about 43 percent of India's land area is plain, which provides facilities for agriculture and industry.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "Where water is sufficiently available to meet the needs of the people, but, the area still suffers from water scarcity due to which of the following reasons?",
+   "options": [
+    "unequal distribution",
+    "more usage",
+    "over experimental attitude",
+    "much of it may be polluted by domestic and industrial wastes."
+   ],
+   "figure": null,
+   "answer": "(d) much of it may be polluted by domestic and industrial wastes - chemicals, pesticides and fertilisers used in agriculture make the water hazardous for human use.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Explain any three institutional reforms taken for the development of Indian agriculture.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Land Reforms: land redistribution and tenancy reforms aimed to address historical inequities in land ownership, providing land to landless farmers and securing their rights; this enhanced agricultural productivity and reduced social inequalities.\nii. Rural Credit Institutions: institutions like Regional Rural Banks (RRBs) and Self-Help Groups (SHGs) improved access to credit for farmers, enabling investments in modern techniques and inputs.\niii. Krishi Vigyan Kendras (KVKs): agricultural extension centres spread knowledge about modern farming practices, crop management and technology adoption, promoting sustainable agricultural development and improved yields.",
+   "or": null,
+   "subparts": null,
+   "note": "Marked [2] in the paper although it asks for any three reforms."
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "How do industries increase air pollution? Suggest any three measures to reduce air pollution.",
+   "options": null,
+   "figure": null,
+   "answer": "Industries increase air pollution by releasing harmful gases and particulate matter into the atmosphere. Air pollution occurs when undesirable gases such as sulphur dioxide and carbon monoxide accumulate in high concentrations. Industrial activities also emit airborne particles, including dust, mist, sprays and smoke. Smoke from chemical and paper factories, brick kilns, refineries and smelting plants, and the burning of fossil fuels in factories that fail to follow pollution norms worsen the situation. Toxic gas leaks can also occur, posing severe long-term health hazards.\nMeasures: install smoke stacks equipped with electrostatic precipitators, fabric filters, scrubbers and inertial separators to reduce particulate matter; use cleaner fuels like oil or gas instead of coal; increase chimney height and shift towards renewable energy sources.",
+   "or": {
+    "chapter": "Ch11_Geography_Manufacturing_Industries",
+    "text": "Explain the pro-active approach by the National Thermal Power Corporation (NTPC) for preserving the natural environment and resources.",
+    "answer": "NTPC has adopted a pro-active approach to preserving the natural environment and resources around the thermal power plants it sets up, in line with its ISO certification under EMS 14001. To ensure minimum pollution near these plants, the measures it adopts are:\ni. Utilising the latest techniques and upgrading existing equipment to minimise the generation of polluting by-products.\nii. Maximising the utilisation of ash generated so that the waste generated is reduced.\niii. Establishing green belts and forests to maintain an ecological balance around the generation plants.\niv. Setting up ash pond management, ash water recycling and liquid waste management systems in the plants.\nv. Monitoring, reviewing and managing the databases online for all the power plants set up.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Read the following text carefully and answer the questions that follow:\nWe all appreciate the strong dependence of industry and agriculture upon mineral deposits and the substances manufactured from them. The total volume of workable mineral deposits is an insignificant fraction i.e. one per cent of the earth's crust. We are rapidly consuming mineral resources that required millions of years to be created and concentrated. The geological processes of mineral formation are so slow that the rates of replenishment are infinitely small in comparison to the present rates of consumption. Mineral resources are, therefore, finite and non-renewable. Rich mineral deposits are our country's extremely valuable but short-lived possessions. Continued extraction of ores leads to increasing costs as mineral extraction comes from greater depths along with decrease in quality. A concerted effort has to be made in order to use our mineral resources in a planned and sustainable manner. Improved technologies need to be constantly evolved to allow use of low grade ores at low costs. Recycling of metals, using scrap metals and other substitutes are steps in conserving our mineral resources for the future.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What term describes resources that are rapidly depleting and cannot be naturally replaced?",
+     "marks": 1,
+     "options": null,
+     "answer": "Non-renewable resources."
+    },
+    {
+     "text": "Explain why mineral resources are considered short-lived possessions for a country despite their high value.",
+     "marks": 1,
+     "options": null,
+     "answer": "Mineral formation is extremely slow compared to the rate of consumption. Although valuable, their extraction leads to increasing costs as ores are mined from greater depths and with decreasing quality."
+    },
+    {
+     "text": "Discuss two strategies for conserving mineral resources for the future.",
+     "marks": 2,
+     "options": null,
+     "answer": "Recycling of metals: reusing metals from scrap materials reduces the need for new mineral extraction.\nUse of substitutes: identifying and using alternative materials in place of minerals helps conserve resources."
+    }
+   ]
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. It was the first commercial nuclear power station built in India. It is situated in Maharashtra.\nii. Also known as Pampa Sagar, it is a large multi-purpose dam located in Karnataka, India.\nII. Any two of the following:\niii. Mohali - Software Technology Park\niv. Kandla - Major Sea Port\nv. Durgapur - Iron and Steel Plant",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "(i) Tarapur - Nuclear Power Plant; (ii) Tungabhadra - Dam; (iii) Mohali; (iv) Kandla; (v) Durgapur - to be located and labelled on the outline map as shown in the answer map (answer map figure: fig_p12_0.png).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "The government measures gradually increased the feeling of alienation in which community of Sri Lanka?",
+   "options": [
+    "Buddhists",
+    "Sinhalas",
+    "Indian Tamils",
+    "Sri Lankan Tamils"
+   ],
+   "figure": null,
+   "answer": "(d) Sri Lankan Tamils - they felt that none of the major political parties led by the Buddhist Sinhala leaders was sensitive to their language and culture.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Which of the following statements will be considered as a glitch about the self-declaration affidavit of the candidate contesting the elections?\nStatement i: This system has made a lot of information available to the public.\nStatement ii: It has reduced the influence of the rich and criminals.\nStatement iii: There is no system to check if the information given by the candidates is true.\nStatement iv: The affidavit submitted by the candidates is validated before being accepted.",
+   "options": [
+    "Statement iii is right.",
+    "Statement i and ii are right.",
+    "Only statement iv is right.",
+    "Statement i, ii and iii are right."
+   ],
+   "figure": null,
+   "answer": "(a) Statement iii is right. Every contesting candidate must file an affidavit giving details of property and pending criminal cases; the system has made a lot of information available to the public, but there is no system to check if the information is true.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Panchayats and Municipalities are under the direct control of which government?",
+   "options": [
+    "Coalition",
+    "Centre",
+    "State",
+    "Opposition"
+   ],
+   "figure": null,
+   "answer": "(c) State - Panchayats in villages and municipalities in urban areas were set up in all States and are directly under the control of state governments.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Assertion (A): Democracy is not simply ruled by majority opinion.\nReason (R): The majority always needs to work with the minority so that governments function to represent the general view.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "What are the demerits of local self government?",
+   "options": null,
+   "figure": null,
+   "answer": "A. The government is mostly dominated by upper caste people.\nB. Ignorance, illiteracy and poverty of the villagers.\nC. Lack of adequate funds.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Caste inequalities are still prevalent in India. Examine the statement.",
+   "options": null,
+   "figure": null,
+   "answer": "Caste inequalities are still prevalent in India because:\ni. The caste system is sanctioned by rituals.\nii. Members of the same caste group form a social community that practises the same or similar occupation.\niii. Despite constitutional prohibition, untouchability has not ended completely.\niv. The caste system is closely linked to economic status.\nv. Most people marry within their own caste.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Democratic government is a responsive government. Support the statement.",
+   "options": null,
+   "figure": null,
+   "answer": "In a democracy people have the right to choose their representatives and have control over them. Democracies also ensure transparency in decision-making. Any individual can question the decisions made by a ruler or government and check whether it is beneficial for the country or not. A government is responsive in the sense that it responds to the needs and expectations of the citizens. A democratic government is a responsive government; this is the most basic outcome of democracy.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "How do political parties help in shaping public opinion? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Parties raise and highlight issues.\nii. They form pressure groups as extended arms.\niii. They launch movements for the resolution of problems faced by the people.\niv. They have lakhs of members and activists.\nv. They restrain the government and make policies.\nvi. Parties sometimes launch movements, and often opinions in society develop on the basis of the standpoint taken by the political parties.\nvii. They justify the government or oppose it.",
+   "or": {
+    "chapter": "Ch16_PolSci_Political_Parties",
+    "text": "Why do we need political parties? Highlight any five reasons.",
+    "answer": "i. We need political parties because they perform different functions.\nii. Without political parties every candidate would be independent and unable to make any promise to the people about any major policy and programme.\niii. Government may be formed without political parties, but its utility would remain uncertain.\niv. Independent candidates would be accountable to their constituency only; no one would be responsible for how the country will run.\nv. The role of the opposition in a democracy necessitates the existence of political parties.\nvi. As societies became large and complex, they need some agency to gather different views on various issues and to present these to the government.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Read the following text carefully and answer the questions that follow:\nSri Lanka emerged as an independent country in 1948. The leaders of the Sinhala community sought to secure dominance over the government by virtue of their majority. As a result, the democratically elected government adopted a series of Majoritarian measures to establish Sinhala supremacy. In 1956, an Act was passed to recognise Sinhala as the only official language, thus disregarding Tamil. The governments followed preferential policies that favoured Sinhala applicants for university positions and government jobs. A new constitution stipulated that the state shall protect and foster Buddhism. All these government measures, coming one after the other, gradually increased the feeling of alienation among the Sri Lankan Tamils. They felt that none of the major political parties led by the Buddhist Sinhala leaders was sensitive to their language and culture. They felt that the constitution and government policies denied them equal political rights, discriminated against them in getting jobs and other opportunities and ignored their interests. As a result, the relations between the Sinhala and Tamil communities strained over time.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the predominant religion in Sri Lanka?",
+     "marks": 1,
+     "options": null,
+     "answer": "Buddhism."
+    },
+    {
+     "text": "What was the main objective of the Sinhala leaders in Sri Lanka after independence?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Sinhala leaders sought to secure dominance over the government due to their majority."
+    },
+    {
+     "text": "How did the majoritarianism policy affect the Sri Lankan Tamils, and what were their main grievances?",
+     "marks": 2,
+     "options": null,
+     "answer": "Majoritarianism increased the feeling of alienation among the Sri Lankan Tamils. They believed that their language and culture were not being adequately respected, that they were denied equal political rights, discriminated against in job opportunities, and that their interests were ignored."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "How can we increase employment in the agricultural sector?",
+   "options": [
+    "Redistribution of land",
+    "Providing irrigation facilities",
+    "Providing fertilizers",
+    "Providing HYV seeds"
+   ],
+   "figure": null,
+   "answer": "(b) Providing irrigation facilities - if a new dam is constructed and canals are dug to irrigate many farms, this could lead to a lot of employment generation within the agricultural sector and eliminate underemployment.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Which one of the following definitions is most suitable for the Literacy Rate?",
+   "options": [
+    "The total number of children attending school in a region",
+    "The proportion of literate population in the seven years and above",
+    "The literate population at the global level",
+    "The average number of schools in a region"
+   ],
+   "figure": null,
+   "answer": "(b) The proportion of literate population in the seven years and above",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Which of the following sector is currently the largest employer in India?",
+   "options": [
+    "Primary sector",
+    "Tertiary sector",
+    "Banking",
+    "Secondary sector"
+   ],
+   "figure": null,
+   "answer": "(a) Primary sector - the services sector contributes highest to the GDP but the primary sector employs almost half of the country's population.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) An institution that mediates between the depositor and the borrowers | (i) Micro-finance |\n| (b) Debt trap | (ii) Mode of payment |\n| (c) The mode through which the borrower will repay the loan | (iii) Credit(loan) |\n| (d) Self Help Group | (iv) Banks |",
+   "options": [
+    "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+    "(a) - (iv), (b) - (ii), (c) - (iii), (d) - (i)",
+    "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+    "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)"
+   ],
+   "figure": null,
+   "answer": "(a) (a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Credit refers to:",
+   "options": [
+    "An agreement between the lender and the borrower",
+    "Money",
+    "Facility",
+    "Deal never paid off"
+   ],
+   "figure": null,
+   "answer": "(a) An agreement between the lender and the borrower - credit is an agreement in which the lender supplies the borrower with money, goods or services in return for the promise of future payment.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "Read the following statements for stimulating the process of globalization and choose the correct options:\nI. Government reduces trade barriers.\nII. Government reduces competition among producers.\nIII. Government reduces import and export taxes.\nIV. Government removes restrictions on foreign investment.",
+   "options": [
+    "Only I, III and IV are correct.",
+    "Only I, II and III are correct.",
+    "Only I, II and IV are correct.",
+    "Only II, III and IV are correct."
+   ],
+   "figure": null,
+   "answer": "(a) Only I, III and IV are correct.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Explain the differences between Primary, Secondary and Tertiary sectors using examples other than those mentioned in the text.",
+   "options": null,
+   "figure": null,
+   "answer": "Primary Sector: includes activities undertaken by directly using natural resources, e.g. the cultivation of wheat. It forms the base of all subsequent products made from it and is also called the Agriculture and Related Sector.\nSecondary Sector: covers activities in which natural and primary products are changed into other forms through manufacturing, e.g. manufacturing paper from bamboo, iron ore to steel, making jewellery from gold. Also known as the Industrial Sector.\nTertiary Sector: includes activities that help in the development of the primary and secondary sectors, e.g. railways, insurance, lawyer. Since they provide services to help production, it is also called the service sector.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Why do you think that the share of formal sector credit is higher for the richer households compared to the poorer households?",
+   "options": null,
+   "figure": null,
+   "answer": "Formal sector credit requires proper documents and collateral as security against loans. Poor people lack these, which affects their capacity to get loans from the formal sector. Richer households are in a better position to provide collateral and the documents required by banks and cooperatives; the absence of collateral is a major reason that prevents the poor from getting bank loans. Richer households also have means to exert pressure on banks and cooperatives to sanction loans and have greater capacity to repay the loans compared to poor households.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "How globalisation has affected the lives of the people? Explain with any three examples.",
+   "options": null,
+   "figure": null,
+   "answer": "i. With MNCs coming in, the income of people has increased and the standard of living has improved; consumer demand for goods and services has increased, with greater investment in industries such as cell phones, automobiles, electronics, soft drinks, fast food, or services such as banking in urban areas.\nii. Due to globalisation, new jobs have been created.\niii. Local companies supplying raw materials to MNCs have prospered as they get a good price for their resources.\niv. Increased competition has benefited consumers, who get good quality products at economical prices.\nv. Several top Indian companies have benefited from the increased competition by investing in newer technology and raising production standards; some have gained from collaborations with foreign companies.\nvi. New opportunities for services such as data entry, accounting, administrative tasks and engineering have arisen and are outsourced to India as labour is cheap.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "\"Agriculture and industries complement each other.\" Justify the statement.",
+   "options": null,
+   "figure": null,
+   "answer": "Agriculture and industries are closely linked and support each other's growth, as neither can progress effectively in isolation. In India, agro-based industries such as food processing, textile, sugar and dairy have significantly boosted agricultural productivity by creating a steady demand for farm produce. At the same time, industries depend heavily on agriculture for raw materials like cotton, jute, sugarcane and oilseeds.\nIndustries also strengthen agriculture by supplying essential inputs such as fertilizers, pesticides, insecticides, irrigation pumps, tractors, harvesters, PVC pipes and other modern tools, making farming more efficient, scientific and productive. The growth of manufacturing industries enhances farmers' production capacity and reduces manual labour.\nIn the age of globalisation, industries must remain competitive and technologically advanced; efficient industries produce better-quality agricultural inputs at affordable prices, which further increases agricultural productivity. Thus agriculture and industry move hand in hand and complement each other.",
+   "or": {
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "\"Workers are exploited in the unorganised sector\". Do you agree with the statement? Explain reasons in support of your answer.",
+    "answer": "The unorganised sector has small and scattered units largely outside the control of the government. Yes, workers are exploited in the unorganised sector. Reasons:\ni. This sector does not follow government rules and regulations.\nii. Jobs are low-paid and often not regular.\niii. There is no fixed number of working hours; no provision for overtime, paid holidays or leave.\niv. Employment is not secure; workers can be removed at any time without assigning a reason.\nv. Some work is seasonal and temporary workers become unemployed after the season is over.\nvi. Rules such as the Factories Act, Industrial Disputes Act and Minimum Wages Act are not followed; no Provident Fund, gratuity or sick leave is given.\nvii. Working conditions are often poor and no allowances are given.\nviii. No medical benefit is given.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  }
+ ]
+}

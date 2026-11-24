@@ -1,0 +1,724 @@
+{
+ "subject": "Science",
+ "paper": "Paper_09",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "The process in which transport of soluble products of photosynthesis takes place in plants is known as:",
+   "options": [
+    "Translocation",
+    "Conduction",
+    "Transpiration",
+    "Evaporation"
+   ],
+   "figure": null,
+   "answer": "(a) Translocation",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "In an experiment to study independent inheritance of two separate traits : shape and colour of seeds, the ratio of the different combinations in F₂ progeny would be",
+   "options": [
+    "1 : 3",
+    "1 : 2 : 1",
+    "9 : 1 : 1 : 3",
+    "9 : 3 : 3 : 1"
+   ],
+   "figure": null,
+   "answer": "(d) 9 : 3 : 3 : 1",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Match the following with correct response.\n| Column A | Column B |\n|---|---|\n| (i) Thyroid gland | (a) Testosterone |\n| (ii) Pancreas | (b) Thyroxin |\n| (iii) Testis | (c) Estrogen |\n| (iv) Ovaries | (d) Insulin and glucagon |",
+   "options": [
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (a), (ii) - (d), (iii) - (b), (iv) - (c)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)"
+   ],
+   "figure": null,
+   "answer": "(d) (i) - (b), (ii) - (d), (iii) - (a), (iv) - (c). Thyroxin is secreted by the thyroid gland; insulin and glucagon by the pancreas; testosterone by the testes; estrogen by the ovaries.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "The plant hormones promoting rapid cell division in seeds and wilting of leaves respectively are",
+   "options": [
+    "Gibberellins and Auxins",
+    "Abscisic acid and Gibberellins",
+    "Auxins and Abscisic acid",
+    "Cytokinins and Abscisic acid"
+   ],
+   "figure": null,
+   "answer": "(d) Cytokinins and Abscisic acid",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "In the following groups of wastes, which group contains only non-biodegradable wastes?",
+   "options": [
+    "Used tea leaves, Cardboard box, Iron nail",
+    "Plastic Syringes, Newspaper, Ball point pen",
+    "Leather footwear, Plastic plate, Polythene bag",
+    "Empty medicine bottle, Milk packet, Aluminium can"
+   ],
+   "figure": null,
+   "answer": "(d) Empty medicine bottle, Milk packet, Aluminium can",
+   "or": null,
+   "subparts": null,
+   "note": "Printed key gives (d); option (c) (leather footwear, plastic plate, polythene bag) is not entirely non-biodegradable either."
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Temporary finger-like extensions on the cell surface to take in food is formed in:",
+   "options": [
+    "Leishmania",
+    "Amoeba",
+    "Paramoecium",
+    "Rhizopus"
+   ],
+   "figure": null,
+   "answer": "(b) Amoeba (pseudopodia)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Disposable plastic plates should not be used because:",
+   "options": [
+    "They are made of materials with light weight.",
+    "They are made of biodegradable materials.",
+    "They are made of toxic materials.",
+    "They are made of non-biodegradable material."
+   ],
+   "figure": null,
+   "answer": "(d) They are made of non-biodegradable material. Non-biodegradable substances are not broken down, persist in the environment for a long time and may harm members of the ecosystem.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Choose the correct order of the stages of binary fission in Leishmania.",
+   "options": [
+    "I, III, V, II, IV",
+    "I, III, II, V, IV",
+    "I, II, III, V, IV",
+    "I, II, III, IV, V"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(b) I, III, II, V, IV. Binary fission in Leishmania occurs in a definite orientation: a constriction appears after nuclear division, the membrane expands inwards from the centre, the cytoplasm divides into two equal pieces each with a single nucleus, and the daughter cells split off.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch08_Heredity",
+   "text": "Assertion (A): The sex of a child in human beings will be determined by the type of chromosome he/she inherits from the father.\nReason (R): A child who inherits X chromosome from his father would be a girl (XX), while a child who inherits a Y chromosome from the father would be a boy (XY).",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Identify the following diagram and name the parts marked as A, B and C",
+   "options": null,
+   "figure": "fig_p02_1.png",
+   "answer": "The diagram shows a stoma. A: guard cell; B: chloroplast; C: stoma (stomatal pore).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Kulhads (disposable cups made of clay) and disposable paper cups both are used as an alternative for disposable plastic cups. Which one of these two can be considered as a better alternative to plastic cups and why?",
+   "options": null,
+   "figure": null,
+   "answer": "Plastic cups are non-biodegradable and harm the environment, so they were replaced by kulhads. But making kulhads of clay on a large scale resulted in the loss of top fertile soil. Disposable paper cups are therefore a better alternative: paper can be recycled, it is biodegradable and an eco-friendly material which does not cause environmental pollution.",
+   "or": {
+    "text": "Define a food chain. Design a terrestrial food chain of four trophic levels. If a pollutant enters at the producer level, the organisms of which trophic level will have the maximum concentration of the pollutant in their bodies? What is this phenomenon called?",
+    "options": null,
+    "figure": null,
+    "answer": "A food chain is the sequence of arrangement of living organisms in a community in which one organism consumes another organism to transfer food energy. Example of a terrestrial food chain: Grass → Grasshopper → Frog → Snake (any other valid four-level chain). The organisms at the highest trophic level will have the maximum concentration of the pollutant. This phenomenon is called biological magnification.",
+    "subparts": null,
+    "chapter": "Ch13_Our_Environment"
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Why is the use of iodised salt advisable?",
+   "options": null,
+   "figure": null,
+   "answer": "Iodine is required by the thyroid gland to make the hormone thyroxine. Iodised salt provides the iodine needed by the thyroid gland to make sufficient thyroxine for our body. The use of iodised salt prevents the risk of goitre.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "A pure pea plant bearing terminal flowers was cross-pollinated with a pure plant having axillary flowers. In F₁ generation, plants with axial flowers only were obtained. F₁ generation plants are self-pollinated and F₂ generation is obtained.\na. Work out the pattern of inheritance in this case.\nb. What will be the ratio of plants obtained in F₂ generation?",
+   "options": null,
+   "figure": null,
+   "answer": "a. Parents: axillary flowers (AA) × terminal flowers (aa). Gametes: A and a. F₁: all Aa (all axillary flowers). F₁ self-cross: Aa × Aa; gametes A, a and A, a; F₂: AA (axillary), Aa (axillary), Aa (axillary), aa (terminal).\nb. Ratio 3 : 1 (axillary : terminal).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "What is placenta? Describe its role during pregnancy.",
+   "options": null,
+   "figure": null,
+   "answer": "Placenta is a special tissue which provides nutrition to the embryo from the mother's blood. Role: it provides a large surface area to transport glucose and O₂ from the mother's blood to the embryo. (The printed solution lists only this one point; it also removes waste products of the embryo into the mother's blood.)",
+   "or": null,
+   "subparts": null,
+   "note": "Printed solution gives only one role point; the last clause in brackets is an addition from textbook knowledge, not in the key."
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "la",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Leaves of healthy potted plant were coated with vaseline. Will this plant remain healthy for long? Give reasons for your answer.",
+   "options": null,
+   "figure": null,
+   "answer": "No. Coating the leaves with vaseline clogs the stomatal pores. Blockage of stomata stops transpiration and exchange of gases. Transpiration plays an important role in the ascent of sap in plants, so lack of transpiration will stop ascent of sap. Stoppage of gas exchange would also stop respiration and photosynthesis in the leaves. This will result in death of leaves and finally the plant would die due to lack of food.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "a. What is puberty? Write any two changes that occur in boys during early teenage years.\nb. List two functions performed by testis in human males. Mention one role each of (i) Vas deferens, (ii) Seminal Vesicle (iii) Urethra and (iv) Scrotum in human male reproductive system.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Puberty: the stage when the rate of general body growth begins to slow down and reproductive tissues begin to mature. In boys: new thick hair growth on the face; voice begins to crack; penis begins to enlarge and become erect. (Any two)\nb. Testis: formation of sperms; secretion of the hormone testosterone. Role of: (i) Vas deferens: delivery of sperms from testes to urethra. (ii) Seminal vesicle: provides nutrition to sperms/makes the transport (movement) of sperms easier. (iii) Urethra: common passage for sperms and urine. (iv) Scrotum: providing the required temperature for sperm formation.",
+   "or": {
+    "text": "What constitutes the central and peripheral nervous systems? How are the components of central nervous system protected? Which signals will get disrupted in case of a spinal cord injury?",
+    "options": null,
+    "figure": null,
+    "answer": "Central nervous system: the brain and spinal cord. The brain is the control centre, responsible for processing sensory information, initiating voluntary movements, regulating involuntary functions (heartbeat, respiration) and higher functions (thinking, memory, emotions). Peripheral nervous system: all the nerves and ganglia outside the brain and spinal cord (cranial nerves and spinal nerves); it connects the CNS to muscles, glands and sense organs.\nProtection: the brain is protected by the skull, a hard bony structure; the spinal cord is surrounded by the meninges (dura mater - outer, arachnoid mater - middle, pia mater - inner) which provide cushioning and support (and by the vertebral column).\nSpinal cord injury disrupts transmission of nerve signals between the brain and the rest of the body: motor signals (paralysis or weakness of muscles below the level of injury, loss of voluntary movement) and sensory signals (loss of sensation such as touch, temperature and body position).",
+    "subparts": null,
+    "chapter": "Ch06_Control_and_Coordination"
+   },
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Which of the following statements is not correct?",
+   "options": [
+    "Some metals react with acids to give salt and hydrogen.",
+    "Some non metal oxides react with water to form an acid.",
+    "All metal oxides react with water to give salt and acid.",
+    "All metal carbonates react with acid to give a salt, water and carbon dioxide."
+   ],
+   "figure": null,
+   "answer": "(c) All metal oxides react with water to give salt and acid. Metal oxides are basic in nature and give alkaline solutions when dissolved in water (and many do not react with water at all).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which of the given statement is correct or wrong:\nStatement A: Acetic acid freezes at 290K.\nStatement B: Acetic is also called as glacial acetic acid.",
+   "options": [
+    "Statement B is True; Statement A is false.",
+    "Statement A is true; Statement B is false.",
+    "Neither Statement A nor Statement B is true.",
+    "Both the statements A and B are true."
+   ],
+   "figure": null,
+   "answer": "(d) Both the statements A and B are true. The freezing point of ethanoic acid is 17 °C (290 K); on cooling it freezes to an ice-like solid, so pure ethanoic acid is called glacial acetic acid.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "During electrolytic refining of copper, the anode, the cathode and the electrolyte used respectively are",
+   "options": [
+    "Impure copper, pure copper, acidified copper sulphate solution",
+    "Impure copper, pure copper, distilled water",
+    "Pure copper, impure copper, sulphuric acid",
+    "Pure copper, impure copper, acidified copper sulphate solution"
+   ],
+   "figure": null,
+   "answer": "(a) Impure copper, pure copper, acidified copper sulphate solution",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n| Column A | Column B |\n|---|---|\n| (i) Ionic bond | (a) NH₃ |\n| (ii) Polar covalent bond | (b) C₆₀ |\n| (iii) Non-polar bond | (c) N₂ |\n| (iv) Fullerene | (d) NaCl |",
+   "options": [
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)"
+   ],
+   "figure": null,
+   "answer": "(b) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b). NaCl has an ionic bond; NH₃ has polar covalent N-H bonds; N₂ has a non-polar covalent bond between like atoms; C₆₀ is a fullerene.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "During smelting, an additional substance is added which combines with impurities to form a fusible product known as:",
+   "options": [
+    "Mud",
+    "Gangue",
+    "Flux",
+    "Slag"
+   ],
+   "figure": null,
+   "answer": "(d) Slag. (The added substance is the flux; the fusible product formed is slag.) E.g. CaO + SiO₂ → CaSiO₃ (slag).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "You want to test for hardness of water but hard water is not available in the laboratory. Which of the following compounds may be dissolved in pure water to make it hard?\ni. Hydrogen Carbonate of Sodium\nii. Sulphate of Magnesium\niii. Chloride of Calcium\niv. Carbonate of Sodium",
+   "options": [
+    "(i) and (ii)",
+    "(ii) and (iii)",
+    "(i) and (iv)",
+    "(iii) and (iv)"
+   ],
+   "figure": null,
+   "answer": "(c) (i) and (iv) (as printed in the official key).",
+   "or": null,
+   "subparts": null,
+   "note": "Printed key gives (c); chemically, magnesium sulphate and calcium chloride (ii and iii, option b) make water hard, so the key looks wrong."
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which one of the following compounds changes blue litmus to red?",
+   "options": [
+    "CH₃COCH₃",
+    "C₂H₅OH",
+    "C₂H₅CHO",
+    "C₂H₅COOH"
+   ],
+   "figure": null,
+   "answer": "(d) C₂H₅COOH (a carboxylic acid)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Metal which is liquid at room temperature is:",
+   "options": [
+    "Sodium",
+    "Lead",
+    "Silver",
+    "Mercury"
+   ],
+   "figure": null,
+   "answer": "(d) Mercury. Lead, sodium and silver are solids.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "You have been provided with two test tubes. One of them contains distilled water and the other contain acid solution. How will you find out which of the test tube contains water without testing the contents of the test tube?",
+   "options": null,
+   "figure": null,
+   "answer": "Take two blue litmus paper strips and dip one in each test tube (A and B). The solution that changes the blue litmus paper to red is the acid; the one which shows no change in colour is water.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Define a precipitation reaction. Give its example and also express the reaction that occurs in the form of a balanced chemical equation.",
+   "options": null,
+   "figure": null,
+   "answer": "Any reaction in which a precipitate (insoluble substance) is formed is called a precipitation reaction. Example: when sodium sulphate solution is added to barium chloride solution, a white precipitate of barium sulphate is formed. Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq).",
+   "or": {
+    "text": "Explain the following in terms of gain or loss of oxygen with two examples each:\na. Oxidation\nb. Reduction",
+    "options": null,
+    "figure": null,
+    "answer": "a. Oxidation: addition of oxygen (or removal of hydrogen) in a chemical reaction. Examples: 2Cu + O₂ → 2CuO; 4Al + 3O₂ → 2Al₂O₃ (removal of hydrogen: H₂S + Cl₂ → 2HCl + S).\nb. Reduction: addition of hydrogen (or removal of oxygen) in a chemical reaction. Examples: CuO + H₂ → Cu + H₂O; H₂S + Cl₂ → 2HCl + S (Cl₂ gains hydrogen and is reduced).",
+    "subparts": null,
+    "chapter": "Ch01_Chemical_Reactions_and_Equations"
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "i. Which types of metals can be obtained in their pure form by just heating their oxides in air? Give one example.\nii. Consider the reaction given below used to obtain Manganese metal in pure form:\n3MnO₂(s) + 4Al(s) → 3Mn(l) + 2Al₂O₃(s) + Heat\na. What type of reaction is it?\nb. What is the role of aluminium in this reaction?",
+   "options": null,
+   "figure": null,
+   "answer": "i. Metals low in the activity series can be obtained by just heating their oxides in air. Example: mercury, 2HgO(s) → 2Hg(l) + O₂(g) (on heating).\nii. a. It is a displacement reaction.\nb. Aluminium is more reactive than manganese and acts as a reducing agent, as Al is capable of displacing Mn from MnO₂.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "The melting points and boiling points of some ionic compounds are given below:\n| Compound | Melting Point (K) | Boiling Point (K) |\n|---|---|---|\n| NaCl | 1074 | 1686 |\n| LiCl | 887 | 1600 |\n| CaCl₂ | 1045 | 1900 |\n| CaO | 2850 | 3120 |\n| MgCl₂ | 981 | 1685 |\nThese compounds are termed ionic because they are formed by the transfer of electrons from a metal to a non-metal. The electron transfer in such compounds is controlled by the electronic configuration of the elements involved. Every element tends to attain a completely filled valence shell of its nearest noble gas or a stable octet.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": {
+    "text": "All compounds of carbon which contain only carbon and hydrogen are called hydrocarbons. Among these, saturated hydrocarbons are called 'alkanes', unsaturated compounds with one or more double bonds are called 'alkenes' and compounds containing one or more triple bonds are called 'alkynes'.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "answer": "(see subparts)",
+    "subparts": [
+     {
+      "text": "a. Identify the following compound and write its name.\nCH₃-C≡CH",
+      "marks": 1,
+      "options": null,
+      "answer": "Propyne"
+     },
+     {
+      "text": "b. How do saturated and unsaturated carbon compounds differ in terms of the flame produced by them on burning?",
+      "marks": 1,
+      "options": null,
+      "answer": "Saturated carbon compounds burn with a blue/clean flame; unsaturated compounds burn with a yellow/sooty flame."
+     },
+     {
+      "text": "c. i. Which type of hydrocarbons undergo addition reactions? Show with an example.\nOR\nii. What are structural isomers? Draw two structural isomers of butane (C₄H₁₀).",
+      "marks": 2,
+      "options": null,
+      "answer": "i. Unsaturated hydrocarbons undergo addition reactions. Example: CH₂=CH₂ + H₂ → (Pd/Ni) CH₃-CH₃ (or any other example).\nOR\nii. Compounds with identical molecular formula but different structural formulae are called structural isomers. Isomers of butane: n-butane CH₃-CH₂-CH₂-CH₃ and isobutane (2-methylpropane) CH₃-CH(CH₃)-CH₃."
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "i. Show the electron transfer in the formation of magnesium chloride.",
+     "marks": 1,
+     "options": null,
+     "answer": "Mg (2,8,2) loses two electrons to form Mg²⁺ (2,8); each of two Cl atoms (2,8,7) gains one electron to form Cl⁻ (2,8,8). Mg + 2Cl → Mg²⁺ + 2Cl⁻, i.e. MgCl₂. (Electron-dot diagram showing transfer of two electrons from Mg, one to each Cl.)"
+    },
+    {
+     "text": "ii. What happens at the cathode when electricity is passed through an aqueous solution of sodium chloride?",
+     "marks": 1,
+     "options": null,
+     "answer": "Hydrogen gas is liberated at the cathode (2H₂O + 2e⁻ → H₂ + 2OH⁻). (The printed key states: hydrogen gas is released, twice as much as oxygen released at the anode.)"
+    },
+    {
+     "text": "iii. While forming an ionic compound say sodium chloride how does sodium atom attain its stable configuration?\nOR\nWhy do ionic compounds in the solid state not conduct electricity?",
+     "marks": 2,
+     "options": null,
+     "answer": "Sodium atom (2,8,1) has one electron in its outermost M shell. By losing this electron, its L shell becomes the outermost shell with a stable octet (2,8), forming Na⁺ (the nucleus still has 11 protons but only 10 electrons). The electron lost by sodium is taken up by chlorine (2,8,7), which gains an electron to become Cl⁻ (2,8,8). Na → Na⁺ + e⁻; Cl + e⁻ → Cl⁻.\nOR\nIonic compounds in the solid state do not conduct electricity because movement of ions in the rigid solid structure is not possible. In the molten state (or in solution) the electrostatic forces of attraction between ions are overcome and the ions move freely and conduct electricity."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "In an industrial process used for the manufacture of sodium hydroxide, a gas A is formed as a by-product. The gas A reacts with lime water to give a compound B which is used as a bleaching agent in the chemical industry. Identify A and B. Also give the chemical equations of the reactions involved.",
+   "options": null,
+   "figure": null,
+   "answer": "In the chlor-alkali process, hydrogen and chlorine gases are formed as by-products: 2NaCl(aq) + 2H₂O(l) → 2NaOH(aq) + Cl₂(g) + H₂(g). Gas A, which reacts with lime water (calcium hydroxide) to form calcium oxychloride (bleaching powder), is chlorine (not hydrogen): Ca(OH)₂(s) + Cl₂(g) → CaOCl₂(s) + H₂O(l). Therefore A is chlorine gas (Cl₂) and B is calcium oxychloride (bleaching powder).",
+   "or": {
+    "text": "An acid X and an alcohol Y react with each other in the presence of an acid catalyst to form a sweet smelling substance Z. Identify X, Y and Z. Write the chemical equation for the reaction involved and name it. The substance Z on treatment with sodium hydroxide produces back the alcohol Y and sodium ethanoate. Write the chemical equation for the reaction involved and name it, giving justification for the name.",
+    "options": null,
+    "figure": null,
+    "answer": "X is a carboxylic acid (ethanoic acid, CH₃COOH), Y is an alcohol (ethanol, C₂H₅OH), Z is an ester (ethyl ethanoate, CH₃COOC₂H₅).\nCH₃COOH + C₂H₅OH → (conc. H₂SO₄) CH₃COOC₂H₅ + H₂O. This reaction is called esterification.\nCH₃COOC₂H₅ + NaOH → CH₃COONa + C₂H₅OH. This reaction is called saponification (alkaline hydrolysis of an ester), as it is the reaction used in the making of soap: ester + base gives alcohol and sodium salt of the acid.",
+    "subparts": null,
+    "chapter": "Ch04_Carbon_and_its_Compounds"
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "When a narrow beam of white light passes through a glass prism it splits into its component colours? This phenomenon is called:",
+   "options": [
+    "Scattering of light",
+    "Dispersion of light",
+    "Total reflection of light",
+    "Diffusion of light"
+   ],
+   "figure": null,
+   "answer": "(b) Dispersion of light",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Assertion (A): Refractive index has no units.\nReason (R): The refractive index is a ratio of two similar quantities.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "An alpha particle enters a uniform magnetic field as shown. The direction of motion of the alpha particle is:",
+   "options": [
+    "out of the page",
+    "towards right",
+    "towards left",
+    "into the page"
+   ],
+   "figure": "fig_p06_0.png",
+   "answer": "(a) out of the page. (Official solution refers to Fleming's left-hand rule.)",
+   "or": null,
+   "subparts": null,
+   "note": "Question text asks the direction of motion; the option wording and key are as printed (the key reasons about the force direction)."
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "An object is placed in front of a concave mirror of focal length 12 cm. If distance of the object from the pole of the mirror is 8 cm, then use mirror formula to determine the position of the image formed. Draw a labelled ray diagram to justify your answer in this case.",
+   "options": null,
+   "figure": null,
+   "answer": "f = -12 cm, u = -8 cm. Mirror formula: 1/v + 1/u = 1/f, so 1/v = 1/f - 1/u = 1/(-12) - 1/(-8) = -1/12 + 1/8 = +1/24, so v = +24 cm. The image is formed 24 cm behind the mirror (virtual, erect and magnified). (Ray diagram: object between P and F; the reflected rays diverge and appear to meet behind the mirror.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch11_Electricity",
+   "text": "In the given circuit, find:\na. Total resistance of the network of resistors\nb. Current through ammeter A, and\nc. Potential difference across 3 Ω and 6 Ω resistors",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": "The two 6 Ω resistors are in parallel: 1/x₂ = 1/6 + 1/6 = 2/6, so x₂ = 3 Ω; x₁ = 3 Ω in series.\na. Total resistance R = x₁ + x₂ = 3 Ω + 3 Ω = 6 Ω.\nb. Current through ammeter I = V/R = 6 V / 6 Ω = 1 A.\nc. Potential difference across the 3 Ω resistor = 1 A × 3 Ω = 3 V. Potential difference across the 6 Ω resistors = 3 V (the parallel combination: 1 A × 3 Ω = 3 V).",
+   "or": {
+    "text": "a. State the relation correlating the electric current flowing in a conductor and the voltage applied across it. Also draw a graph to show this relationship.\nb. Find the resistance of a conductor if the electric current flowing through it is 0.35 A when the potential difference across it is 1.4 V.",
+    "options": null,
+    "figure": null,
+    "answer": "a. The current flowing through a conductor is directly proportional to the potential difference across its ends (at constant temperature): V ∝ I, V = IR. This is Ohm's law. Graph: a straight line through the origin of V (y-axis) against I (x-axis).\nb. R = V/I = 1.4/0.35 = 4 Ω.",
+    "subparts": null,
+    "chapter": "Ch11_Electricity"
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "What are the common defects of vision that can be corrected by the use of suitable eyeglasses or spectacles?",
+   "options": null,
+   "figure": null,
+   "answer": "The common defects of vision are: i. Myopia or near-sightedness; ii. Hypermetropia or far-sightedness; iii. Presbyopia; iv. Astigmatism.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch11_Electricity",
+   "text": "Resistance of a wire of length 1 m is 35 Ω at 20 °C. If the diameter of the wire is 0.2 mm, determine the resistivity of the material of the wire at that temperature. How will the resistivity of the wire change if the length and diameter of the wire both are doubled? Justify your answer.\n(Given that π = 22/7)",
+   "options": null,
+   "figure": null,
+   "answer": "R = 35 Ω, l = 1 m, diameter 2r = 0.2 mm = 2 × 10⁻⁴ m, so r = 10⁻⁴ m. Area A = πr² = (22/7) × (10⁻⁴)² m². R = ρl/A, so ρ = RA/l = 35 × (22/7) × 10⁻⁸ / 1 = 110 × 10⁻⁸ Ω m = 1.1 × 10⁻⁶ Ω m.\nThe resistivity of the wire will not change, as it is a characteristic property of the material which does not depend on the dimensions of the wire.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "a. Draw a labelled diagram to show the pattern of magnetic field lines on a horizontal white board due to a straight current carrying conductor passing perpendicular through its centre. If the direction of current in the conductor is vertically downwards, mark the direction of (i) current, and (ii) magnetic field lines.\nb. State the right hand thumb rule and check whether the directions marked on the diagram are in accordance with this rule.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Diagram: concentric circles on the board centred on the conductor; with the current vertically downwards (into the board when seen from above), the field lines are marked as circles with the direction clockwise when viewed from above (by the right hand thumb rule). (Diagram not reproduced.)\nb. Right hand thumb rule: imagine holding a current-carrying straight conductor in your right hand such that the thumb points in the direction of the current; then the fingers wrap around the conductor in the direction of the magnetic field lines. The directions marked on the diagram are in accordance with this rule.",
+   "or": null,
+   "subparts": null,
+   "note": "The printed solution gives only the rule in text (diagram not extractable); the field direction stated here is derived from the rule."
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "text": "In a domestic circuit five LED bulbs are arranged as shown. The source voltage is 220 V and the power rating of each bulb is marked in the circuit diagram (bulb A: 22 W, 220 V; bulbs B, C, D, E: 11 W, 55 V each, with keys K₁ and K₂). Based on the following circuit diagram, answer the following questions:",
+   "options": null,
+   "figure": "fig_p07_1.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "a. State what happens when\ni. key K₁ is closed.\nii. key K₂ is closed.",
+     "marks": 1,
+     "options": null,
+     "answer": "i. Bulb A glows. ii. Bulbs B, C, D and E glow."
+    },
+    {
+     "text": "b. Find the current drawn by the bulb B when it glows.",
+     "marks": 1,
+     "options": null,
+     "answer": "P = V × I; 11 = 55 × I; I = 11/55 = 0.2 A."
+    },
+    {
+     "text": "c. Calculate\ni. the resistance of bulb B, and\nii. total resistance of the combination of four bulbs B, C, D and E.\nOR\nWhat would happen to the glow of all the bulbs in the circuit when keys K₁ and K₂ both are closed and the bulb C suddenly get fused? Give reason to justify your answer.",
+     "marks": 2,
+     "options": null,
+     "answer": "i. Resistance of bulb B, R = V/I = 55 V / 0.2 A = 275 Ω.\nii. Total resistance of the series combination of four bulbs = 4 × 275 = 1100 Ω.\nOR\nBulb A will keep glowing with the same brightness. The other bulbs B, D and E will stop glowing. Reason: bulbs B, D and E are connected in series with the fused bulb C, so no current flows through them; bulb A is unaffected as it is connected in parallel combination."
+    }
+   ]
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "i. State laws of reflection of light.\nii. An object of height 5.0 cm is placed at 15 cm in front of a concave mirror of focal length 10 cm. At what distance from the mirror should a screen be placed, so that a focussed image is obtained on it? Find the height of the image.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Laws of reflection: (1) The angle of incidence is equal to the angle of reflection. (2) The incident ray, the normal to the mirror at the point of incidence and the reflected ray all lie in the same plane.\nii. u = -15 cm, f = -10 cm, h = 5.0 cm. Mirror formula 1/f = 1/v + 1/u, so 1/v = 1/f - 1/u = -1/10 + 1/15 = -1/30, v = -30 cm. The screen must be placed at a distance of 30 cm from the mirror, in front of it. Magnification m = h'/h = -v/u = -(-30)/(-15) = -2, so h' = -2 × 5 = -10 cm (real, inverted image of height 10 cm).",
+   "or": {
+    "text": "An object 6 cm in size is placed at 50 cm in front of a convex lens of focal length 30 cm. At what distance from the lens should a screen be placed in order to obtain a sharp image of the object? Find the nature and size of the image. Also draw labelled ray diagram to show the image formation in this case.",
+    "options": null,
+    "figure": null,
+    "answer": "f = 30 cm, u = -50 cm, h = 6 cm. Lens formula 1/f = 1/v - 1/u, so 1/v = 1/f + 1/u = 1/30 - 1/50 = 1/75, v = +75 cm. The screen should be placed 75 cm from the lens on the other side. m = v/u = hi/h = 75/(-50) = -1.5, so hi = -9 cm. The image is real, inverted and enlarged (size 9 cm). (Ray diagram: object beyond F and within 2F; image formed beyond 2F.)",
+    "subparts": null,
+    "chapter": "Ch09_Light_Reflection_and_Refraction"
+   },
+   "subparts": null
+  }
+ ]
+}

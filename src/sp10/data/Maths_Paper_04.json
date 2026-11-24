@@ -1,0 +1,706 @@
+{
+ "subject": "Maths",
+ "paper": "Paper_04",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "The least positive integer divisible by 20 and 24 is",
+   "options": [
+    "240",
+    "360",
+    "120",
+    "480"
+   ],
+   "figure": null,
+   "answer": "(c) 120 — The required number is LCM(20, 24). $20=2^2\\times5$, $24=2^3\\times3$, so LCM $=2^3\\times3\\times5=120$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "The graph of $y=f(x)$ is shown in the figure for some polynomial $f(x)$. The number of zeroes of $f(x)$ is",
+   "options": [
+    "2",
+    "0",
+    "3",
+    "4"
+   ],
+   "figure": "fig_p01_0.png",
+   "answer": "(b) 0 — The graph of $y=f(x)$ neither intersects nor touches the x-axis, so the number of zeroes of $f(x)$ is 0.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "The number of solutions of two linear equations representing intersecting lines is/are",
+   "options": [
+    "2",
+    "0",
+    "1",
+    "$\\infty$"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(c) 1 — Two linear equations representing intersecting lines have a unique solution.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "A quadratic equation whose roots are $(2+\\sqrt{3})$ and $(2-\\sqrt{3})$ is:",
+   "options": [
+    "$4x^2-3=0$",
+    "$x^2+4x+1=0$",
+    "$x^2-4x+1=0$",
+    "$x^2-1=0$"
+   ],
+   "figure": null,
+   "answer": "(c) $x^2-4x+1=0$ — Let $\\alpha=2+\\sqrt3$, $\\beta=2-\\sqrt3$. $\\alpha+\\beta=4$, $\\alpha\\beta=4-3=1$. Equation: $x^2-(\\alpha+\\beta)x+\\alpha\\beta=x^2-4x+1=0$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Which term of the AP 25, 20, 15,... is the first negative term?",
+   "options": [
+    "9th",
+    "7th",
+    "10th",
+    "8th"
+   ],
+   "figure": null,
+   "answer": "(b) 7th — Let $T_n<0$: $25+(n-1)(-5)<0 \\Rightarrow 30<5n \\Rightarrow n>6$. So the first negative term is the 7th.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "The equation of a line parallel to $y$-axis and at a distance of 5 units to the right of $y$-axis is:",
+   "options": [
+    "$y=-5$",
+    "$x=-5$",
+    "$y=5$",
+    "$x=5$"
+   ],
+   "figure": null,
+   "answer": "(d) $x=5$",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "If $(a, 0)$, $(0, b)$ and $(x, y)$ are collinear, then",
+   "options": [
+    "$ay-bx=1$",
+    "$ax+by=1$",
+    "$ay+bx=ab$",
+    "$ax-by=ab$"
+   ],
+   "figure": null,
+   "answer": "(c) $ay+bx=ab$ — For collinear points the area of the triangle is 0: $\\frac12|a(b-y)+0(y-0)+x(0-b)|=0 \\Rightarrow ab-ay-bx=0 \\Rightarrow ay+bx=ab$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "In the adjoining figure $AC\\parallel BD$. If $EB=4$ cm, $ED=8$ cm, $AC=6$ cm, $AE=3$ cm then $CE$ and $BD$ are respectively",
+   "options": [
+    "4 cm, 6 cm",
+    "7.5 cm, 9.5 cm",
+    "6 cm, 8 cm",
+    "5 cm, 7 cm"
+   ],
+   "figure": "fig_p02_1.png",
+   "answer": "(c) 6 cm, 8 cm — In $\\triangle ACE$ and $\\triangle DEB$: $\\angle AEC=\\angle DEB$ (vertically opposite), $\\angle ECA=\\angle EDB$ (alternate angles, $AC\\parallel BD$), so $\\triangle ACE\\sim\\triangle DEB$ (AA). $\\frac{EB}{AE}=\\frac{ED}{EC}\\Rightarrow\\frac43=\\frac8{EC}\\Rightarrow EC=6$ cm. Also $\\frac{EB}{AE}=\\frac{BD}{AC}\\Rightarrow\\frac43=\\frac{BD}{6}\\Rightarrow BD=8$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, $PQ$ is tangent to the circle centred at $O$. If $\\angle AOB=95^\\circ$, then the measure of $\\angle ABQ$ will be",
+   "options": [
+    "$85^\\circ$",
+    "$95^\\circ$",
+    "$47.5^\\circ$",
+    "$42.5^\\circ$"
+   ],
+   "figure": "fig_p03_0.png",
+   "answer": "(c) $47.5^\\circ$ — $OA=OB$, so $\\angle OBA=\\frac{180^\\circ-95^\\circ}{2}=42.5^\\circ$; $OB\\perp PQ$, so $\\angle ABQ=90^\\circ-42.5^\\circ=47.5^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, if $AB$ is a tangent to the circle with centre $O$ such that $OB=6$ cm and $\\angle AOB=60^\\circ$, then the length of $OA$ is:",
+   "options": [
+    "3 cm",
+    "$4\\sqrt3$ cm",
+    "12 cm",
+    "$3\\sqrt3$ cm"
+   ],
+   "figure": "fig_p03_1.png",
+   "answer": "(c) 12 cm — $\\angle OBA=90^\\circ$, so $\\cos60^\\circ=\\frac{OB}{OA}\\Rightarrow OA=\\frac{6}{1/2}=12$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "$(\\cos^4A-\\sin^4A)$ on simplification, gives",
+   "options": [
+    "$2\\cos^2A+1$",
+    "$2\\sin^2A+1$",
+    "$2\\cos^2A-1$",
+    "$2\\sin^2A-1$"
+   ],
+   "figure": null,
+   "answer": "(c) $2\\cos^2A-1$ — $\\cos^4A-\\sin^4A=(\\cos^2A+\\sin^2A)(\\cos^2A-\\sin^2A)=\\cos^2A-(1-\\cos^2A)=2\\cos^2A-1$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $\\sec\\theta+\\tan\\theta=p$, then the value of $\\sin\\theta$ is",
+   "options": [
+    "$\\frac{1+p^2}{p^2-1}$",
+    "$\\frac{p^2-1}{p^2+1}$",
+    "$\\frac{p^2+1}{p^2-1}$",
+    "$\\frac{1-p^2}{p^2+1}$"
+   ],
+   "figure": null,
+   "answer": "(b) $\\frac{p^2-1}{p^2+1}$ — $\\frac{1+\\sin\\theta}{\\cos\\theta}=p$. Squaring: $\\frac{(1+\\sin\\theta)^2}{1-\\sin^2\\theta}=p^2\\Rightarrow\\frac{1+\\sin\\theta}{1-\\sin\\theta}=p^2\\Rightarrow 1+\\sin\\theta=p^2-p^2\\sin\\theta\\Rightarrow\\sin\\theta(1+p^2)=p^2-1\\Rightarrow\\sin\\theta=\\frac{p^2-1}{p^2+1}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "A tower and a building standing on the ground are 20 m apart. The height of the tower is 2 times the height of the building. If at the mid-point of the line joining their feet, the angular elevation of their tops are complementary, then the height of the building is",
+   "options": [
+    "$\\frac{2}{\\sqrt2}$ m",
+    "$5\\sqrt2$ m",
+    "$\\sqrt2$ m",
+    "$\\sqrt3$ m"
+   ],
+   "figure": null,
+   "answer": "(b) $5\\sqrt2$ m — Let the building height $AB=h$, tower $ED=2h$, $BC=CD=10$ m, $\\angle ACB=\\theta$, $\\angle ECD=90^\\circ-\\theta$. $\\tan\\theta=\\frac{h}{10}$ and $\\tan(90^\\circ-\\theta)=\\cot\\theta=\\frac{2h}{10}=\\frac h5$. Multiplying: $1=\\frac{h^2}{50}\\Rightarrow h=5\\sqrt2$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The area of the sector of a circle with radius 6 cm which subtends an angle of $60^\\circ$ at the centre of the circle is:",
+   "options": [
+    "$\\frac{142}{7}$ cm$^2$",
+    "$\\frac{132}{7}$ cm$^2$",
+    "$\\frac{152}{7}$ cm$^2$",
+    "$\\frac{122}{7}$ cm$^2$"
+   ],
+   "figure": null,
+   "answer": "(b) $\\frac{132}{7}$ cm$^2$ — Area $=\\frac{60}{360}\\times\\pi\\times6^2=6\\pi=6\\times\\frac{22}{7}=\\frac{132}{7}$ cm$^2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The angle of the sector of a circle whose area is one-eighth of the area of the circle is:",
+   "options": [
+    "$60^\\circ$",
+    "$45^\\circ$",
+    "$90^\\circ$",
+    "$22\\frac12^\\circ$"
+   ],
+   "figure": null,
+   "answer": "(b) $45^\\circ$ — $\\frac{\\theta}{360^\\circ}=\\frac18\\Rightarrow\\theta=45^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "A bag contains 3 red, 4 white and 7 green balls. A ball is drawn at random. The probability that the ball drawn is not of red colour is:",
+   "options": [
+    "$\\frac{3}{11}$",
+    "$\\frac{1}{11}$",
+    "$\\frac{3}{14}$",
+    "$\\frac{11}{14}$"
+   ],
+   "figure": null,
+   "answer": "(d) $\\frac{11}{14}$ — Total balls $=14$; not red $=4+7=11$; probability $=\\frac{11}{14}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "Find the probability of getting 53 Fridays in a leap year.",
+   "options": [
+    "$\\frac47$",
+    "$\\frac37$",
+    "$\\frac27$",
+    "$\\frac57$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\frac27$ — A leap year has 52 weeks + 2 days. The 2 extra days can be (Sun, Mon), (Mon, Tue), (Tue, Wed), (Wed, Thu), (Thu, Fri), (Fri, Sat), (Sat, Sun): 7 possibilities, of which 2 contain a Friday. Probability $=\\frac27$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "If the mean and median of a data are 10 and 11 respectively, then mode of the data is:",
+   "options": [
+    "8",
+    "20",
+    "12",
+    "13"
+   ],
+   "figure": null,
+   "answer": "(d) 13 — $3\\,\\text{Median}=\\text{Mode}+2\\,\\text{Mean}\\Rightarrow 33=\\text{Mode}+20\\Rightarrow\\text{Mode}=13$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "Assertion (A): In the given figure, a sphere is inscribed in a cylinder. The surface area of the sphere is not equal to the curved surface area of the cylinder.\nReason (R): Surface area of sphere is $4\\pi r^2$",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": "fig_p04_0.png",
+   "answer": "(d) A is false but R is true. (For the inscribed sphere, cylinder radius $=r$, height $=2r$, so curved surface area of cylinder $=2\\pi r\\cdot2r=4\\pi r^2$, equal to the sphere's surface area; A is false, R is true.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Assertion (A): Arithmetic mean between 8 and 12 is 10.\nReason (R): Arithmetic mean between two numbers $a$ and $b$ is given as $\\frac{a+b}{2}$.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Given that HCF of two numbers is 23 and their LCM is 1449. If one of the numbers is 161, find the other.",
+   "options": null,
+   "figure": null,
+   "answer": "$HCF\\times LCM=a\\times b\\Rightarrow23\\times1449=161\\times b\\Rightarrow b=\\frac{23\\times1449}{161}=207$. The other number is 207.",
+   "or": {
+    "text": "Prove that $\\frac{2}{\\sqrt7}$ is irrational.",
+    "answer": "Assume $\\frac2{\\sqrt7}$ is rational. Then there exist co-prime positive integers $a,b$ with $\\frac2{\\sqrt7}=\\frac ab$, so $\\sqrt7=\\frac{2b}{a}$. As $2b$ and $a$ are integers, $\\frac{2b}{a}$ is rational. But $\\sqrt7$ is not rational. A rational number cannot equal an irrational number, so our assumption is wrong. Hence $\\frac2{\\sqrt7}$ is irrational.",
+    "chapter": "Ch01_Real_Numbers",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Triangles",
+   "text": "In the given figure, $\\angle A=\\angle B$ and $AD=BE$. Show that $DE\\parallel AB$.",
+   "options": null,
+   "figure": "fig_p04_1.png",
+   "answer": "In $\\triangle CAB$, $\\angle A=\\angle B$, so $AC=CB$ (sides opposite equal angles). Given $AD=BE$ ...(i). Subtracting: $AC-AD=CB-BE\\Rightarrow CD=CE$ ...(ii). Dividing (ii) by (i): $\\frac{CD}{AD}=\\frac{CE}{BE}$. By the converse of the Basic Proportionality Theorem, $DE\\parallel AB$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "text": "In figure, $PQL$ and $PRM$ are tangents to the circle with centre $O$ at the points $Q$ and $R$ respectively and $S$ is a point on the circle such that $\\angle SQL=50^\\circ$ and $\\angle SRM=60^\\circ$. Then, find $\\angle QSR$.",
+   "options": null,
+   "figure": "fig_p05_0.png",
+   "answer": "$\\angle OQS=\\angle OQL-\\angle SQL=90^\\circ-50^\\circ=40^\\circ$ and $\\angle ORS=\\angle ORM-\\angle SRM=90^\\circ-60^\\circ=30^\\circ$. Since $OS=OQ$ (radii), $\\angle OSQ=\\angle OQS=40^\\circ$. Since $OS=OR$, $\\angle OSR=\\angle ORS=30^\\circ$. Therefore $\\angle QSR=\\angle OSQ+\\angle OSR=40^\\circ+30^\\circ=70^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "In a $\\triangle ABC$ right angled at $B$, if $AB=4$ and $BC=3$, find all the six trigonometric ratios of $\\angle A$.",
+   "options": null,
+   "figure": null,
+   "answer": "$AC=\\sqrt{AB^2+BC^2}=\\sqrt{16+9}=5$. For $\\angle A$: base $=AB=4$, perpendicular $=BC=3$, hypotenuse $=AC=5$. $\\sin A=\\frac35$, $\\cos A=\\frac45$, $\\tan A=\\frac34$, $\\operatorname{cosec}A=\\frac53$, $\\sec A=\\frac54$, $\\cot A=\\frac43$.",
+   "or": {
+    "text": "If $\\sin(A+B)=1$ and $\\cos(A-B)=1$, $0^\\circ\\le(A+B)\\le90^\\circ$, $A\\ge B$ find $A$ and $B$.",
+    "answer": "$\\sin(A+B)=1=\\sin90^\\circ\\Rightarrow A+B=90^\\circ$ ...(i). $\\cos(A-B)=1=\\cos0^\\circ\\Rightarrow A-B=0^\\circ$ ...(ii). Adding: $2A=90^\\circ\\Rightarrow A=45^\\circ$. From (i), $B=90^\\circ-45^\\circ=45^\\circ$.",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "In the given figure, $ABCD$ is a trapezium with $AB\\parallel DC$. Find the area of the shaded region. (Keep the answer in terms of $\\pi$).",
+   "options": null,
+   "figure": "fig_p05_1.png",
+   "answer": "$ABCD$ is a trapezium, so $\\angle A=120^\\circ$ and $\\angle C=60^\\circ$. Area of shaded region $=\\frac{120}{360}\\times\\pi\\times3^2+\\frac{60}{360}\\times\\pi\\times6^2=3\\pi+6\\pi=9\\pi$ cm$^2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "There is a circular path around a sports field. Sonia takes 18 minutes to drive one round of the field, while Ravi takes 12 minutes for the same. Suppose they both start at the same point and at the same time and go in the same direction. After how many minutes will they meet again at the starting point?",
+   "options": null,
+   "figure": null,
+   "answer": "They meet again after LCM(18, 12) minutes. $18=2\\times3^2$, $12=2^2\\times3$, so LCM $=2^2\\times3^2=36$. Sonia and Ravi will meet again at the starting point after 36 minutes.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Polynomials",
+   "text": "Read the following statement carefully and deduce about the sign of the constants $p$, $q$, and $r$.\n\"The zeroes of a quadratic polynomial $px^2+qx+r$ are both negatives.\"",
+   "options": null,
+   "figure": null,
+   "answer": "Sum of zeroes $=-\\frac qp<0\\Rightarrow\\frac qp>0$, so $q,p$ have the same sign (both positive or both negative) ...(i). Product of zeroes $=\\frac rp>0$, so $r,p$ have the same sign ...(ii). From (i) and (ii), $p,q,r$ all have the same sign: either $p>0,q>0,r>0$ or $p<0,q<0,r<0$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch13_Statistics",
+   "text": "An aircraft has 120 passenger seats. The number of seats occupied during 100 flights is given in the following table, calculate the mean number of seats:\n\n| Number of seats | 100-104 | 104-108 | 108-112 | 112-116 | 116-120 |\n|---|---|---|---|---|---|\n| Frequency | 15 | 20 | 32 | 18 | 15 |",
+   "options": null,
+   "figure": null,
+   "answer": "Class marks $x_i$: 102, 106, 110, 114, 118. Take assumed mean $a=110$; deviations $d_i=x_i-a$: $-8,-4,0,4,8$; $f_id_i$: $-120,-80,0,72,120$; $\\sum f_i=100$, $\\sum f_id_i=-8$. Mean $=a+\\frac{\\sum f_id_i}{\\sum f_i}=110+\\frac{-8}{100}=110-0.08=109.92$. But seats cannot be in decimal, so the mean number of seats is 109. (The source prints '100 - 0.08' by a typo.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "Check graphically whether the pair of equations $x+3y=6$ and $2x-3y=12$ is consistent. If so, solve them graphically.",
+   "options": null,
+   "figure": null,
+   "answer": "For $x+3y=6$: $(x,y)=(0,2),(6,0)$. For $2x-3y=12$: $(x,y)=(0,-4),(3,-2)$ (also $(6,0)$). Plot $A(0,2)$, $B(6,0)$, $P(0,-4)$, $Q(3,-2)$ and join to form lines $AB$ and $PQ$. The lines intersect at the point $B(6,0)$, so the pair is consistent and the solution is $x=6$, $y=0$.",
+   "or": {
+    "text": "A jeweller has bars of 18-carat gold and 12-carat gold. How much of each must be melted together to obtain a bar of 16-carat gold, weighing 120 g? (Given: Pure gold is 24-carat).",
+    "answer": "Let the amounts of 18-carat and 12-carat gold be $x$ g and $y$ g. $\\frac{18}{24}x+\\frac{12}{24}y=\\frac{16}{24}(120)\\Rightarrow3x+2y=320$ ...(i). $x+y=120$ ...(ii). Multiplying (ii) by 2: $2x+2y=240$ ...(iii). Subtracting (iii) from (i): $x=80$; then $y=40$. So 80 g of 18-carat gold and 40 g of 12-carat gold.",
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $\\cot B=\\frac{12}{5}$ prove that $\\tan^2B-\\sin^2B=\\sin^4B\\cdot\\sec^2B$",
+   "options": null,
+   "figure": null,
+   "answer": "Draw right $\\triangle ABC$, $\\angle C=90^\\circ$, $BC=12$, $AC=5$, so $AB=\\sqrt{144+25}=13$. $\\sin B=\\frac5{13}$, $\\tan B=\\frac5{12}$, $\\sec B=\\frac{13}{12}$. LHS $=\\frac{25}{144}-\\frac{25}{169}=25\\cdot\\frac{169-144}{144\\times169}=\\frac{25\\times25}{144\\times169}=\\frac{5^2\\times5^2}{12^2\\times13^2}$. RHS $=\\left(\\frac5{13}\\right)^4\\left(\\frac{13}{12}\\right)^2=\\frac{5^4\\times13^2}{13^4\\times12^2}=\\frac{5^4}{13^2\\times12^2}$. LHS = RHS. Hence proved.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, $O$ is the centre of the circle. Determine $\\angle AQB$ and $\\angle AMB$, if $PA$ and $PB$ are tangents (with $\\angle APB=75^\\circ$).",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": "$OA\\perp PA$, $OB\\perp PB\\Rightarrow\\angle OAP=\\angle OBP=90^\\circ$. In quadrilateral $PAOB$: $\\angle APB+\\angle AOB=180^\\circ\\Rightarrow\\angle AOB=180^\\circ-75^\\circ=105^\\circ$. $\\angle AQB=\\frac12\\angle AOB=\\frac12(105^\\circ)=52.5^\\circ$. $AQBM$ is cyclic, so $\\angle AMB=180^\\circ-52.5^\\circ=127.5^\\circ$.",
+   "or": {
+    "text": "A triangle $ABC$ is drawn to circumscribe a circle of radius 4 cm such that the segments $BD$ and $DC$ into which $BC$ is divided by the point of contact $D$ are of lengths 8 cm and 6 cm respectively (see figure). Find the sides $AB$ and $AC$.",
+    "figure": "fig_p06_1.png",
+    "answer": "Join $OE$, $OF$, $OA$, $OB$, $OC$. $BE=BD=8$ cm and $CF=CD=6$ cm (tangents from an external point). Let $AE=AF=x$. Sides: $a=14$, $b=x+6$, $c=x+8$; $s=x+14$. Area $=\\sqrt{s(s-a)(s-b)(s-c)}=\\sqrt{(x+14)(x)(8)(6)}$. Also area $=\\text{ar}(OBC)+\\text{ar}(OCA)+\\text{ar}(OAB)=\\frac{14\\times4}2+\\frac{(x+6)4}2+\\frac{(x+8)4}2=4(x+14)$. Squaring: $48x(x+14)=16(x+14)^2\\Rightarrow3x=x+14\\Rightarrow x=7$. $AB=x+8=15$ cm, $AC=x+6=13$ cm.",
+    "chapter": "Ch10_Circles",
+    "options": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch13_Statistics",
+   "text": "During a medical checkup, height of 35 students of a class were recorded as follows:\n\n| Height (in cm) | 90-100 | 100-110 | 110-120 | 120-130 | 130-140 | 140-150 |\n|---|---|---|---|---|---|---|\n| Number of Students | 3 | 2 | 4 | 5 | 14 | 7 |\n\nFind the difference between the mean height and median height.",
+   "options": null,
+   "figure": null,
+   "answer": "Take $a=115$, $h=10$, $u_i=\\frac{x_i-115}{10}$. $x_i$: 95, 105, 115, 125, 135, 145; $u_i$: $-2,-1,0,1,2,3$; $f_iu_i$: $-6,-2,0,5,28,21$ ($\\sum f_iu_i=46$); cf: 3, 5, 9, 14, 28, 35. Mean $=115+\\frac{46}{35}\\times10=\\frac{897}7\\approx128.14$ cm. $\\frac N2=17.5$, median class $130-140$: Median $=130+\\frac{17.5-14}{14}\\times10=132.5$ cm. Difference $=132.5-128.14=4.36$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch06_Triangles",
+   "text": "Prove that if a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, then other two sides are divided in the same ratio. By using this theorem, prove that in $\\triangle ABC$ if $DE\\parallel BC$ then $\\frac{AD}{BD}=\\frac{AE}{AC}$.",
+   "options": null,
+   "figure": null,
+   "answer": "Given: In $\\triangle ABC$, $DE\\parallel BC$ meets $AB$ at $D$ and $AC$ at $E$. To prove: $\\frac{AD}{DB}=\\frac{AE}{EC}$. Construction: Draw $EF\\perp AB$ and $DG\\perp AC$; join $BE$ and $CD$. Proof: $\\text{ar}(ADE)=\\frac12AD\\times EF$, $\\text{ar}(DBE)=\\frac12DB\\times EF$, so $\\frac{\\text{ar}(ADE)}{\\text{ar}(DBE)}=\\frac{AD}{DB}$ ...(i). Similarly $\\frac{\\text{ar}(ADE)}{\\text{ar}(DEC)}=\\frac{\\frac12AE\\times DG}{\\frac12EC\\times DG}=\\frac{AE}{EC}$ ...(ii). $\\triangle DBE$ and $\\triangle DEC$ are on the same base $DE$ and between the same parallels $DE$ and $BC$, so $\\text{ar}(DBE)=\\text{ar}(DEC)$. Hence from (i) and (ii), $\\frac{AD}{DB}=\\frac{AE}{EC}$. Second part (marking scheme): since $DE\\parallel BC$, $\\frac{AD}{DB}=\\frac{AE}{EC}$; adding 1 to both sides, $\\frac{AD+DB}{DB}=\\frac{AE+EC}{EC}$, i.e. $\\frac{AB}{DB}=\\frac{AC}{EC}$, which gives $\\frac{AD}{AB}=\\frac{AE}{AC}$.",
+   "or": null,
+   "subparts": null,
+   "note": "Question text prints the final result as AD/BD = AE/AC (looks like a misprint); the marking scheme derives AD/AB = AE/AC."
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "The length of the hypotenuse of a right-angled triangle exceeds the length of the base by 2 cm and exceeds twice the length of the altitude by 1 cm. Find the length of each side of the triangle.",
+   "options": null,
+   "figure": null,
+   "answer": "Let base $=x$, altitude $=y$, hypotenuse $=h$. $h=x+2$ and $h=2y+1$, so $x+2=2y+1\\Rightarrow y=\\frac{x+1}{2}$. By Pythagoras $x^2+y^2=h^2\\Rightarrow x^2+\\left(\\frac{x+1}2\\right)^2=(x+2)^2\\Rightarrow x^2-14x-15=0\\Rightarrow(x-15)(x+1)=0\\Rightarrow x=15$ (reject $-1$). Base $=15$ cm, altitude $=\\frac{15+1}{2}=8$ cm, hypotenuse $=2\\times8+1=17$ cm. (The source prints $\\frac{x-1}2$ in one step by a slip; the final answer 15, 8, 17 is correct.)",
+   "or": {
+    "text": "A two-digit number is such that the product of its digits is 12. When 36 is added to this number, the digits interchange their places. Find the number.",
+    "answer": "Let ten's digit $=x$, unit digit $=y$; number $=10x+y$. $xy=12$ ...(i). $10x+y+36=10y+x\\Rightarrow x-y+4=0$ ...(ii), i.e. $y=x+4$. From (i): $x(x+4)=12\\Rightarrow x^2+4x-12=0\\Rightarrow(x+6)(x-2)=0\\Rightarrow x=2$ (reject $-6$), $y=6$. The number is 26.",
+    "chapter": "Ch04_Quadratic_Equations",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "Sukriti made a bird-bath for her garden in the shape of a hollow cylinder with a hemispherical depression at one end as shown in the figure. The height of the cylinder is 1.45 m and its radius is 30 cm. Find the total surface area of the bird-bath.",
+   "options": null,
+   "figure": "fig_p06_2.png",
+   "answer": "Total surface area = curved surface area of cylinder + curved surface area of hemisphere $=2\\pi rh+2\\pi r^2=2\\pi r(h+r)=2\\times\\frac{22}7\\times30\\times(145+30)=33000$ cm$^2$.",
+   "or": {
+    "text": "A toy is in the form of a cone mounted on a hemisphere. The diameter of the base of the cone is 7 cm and its height is 15.5 cm. Find the volume of the toy. (Use $\\pi=3.14$).",
+    "answer": "Radius $=\\frac72=3.5$ cm. Total height $=15.5$ cm, so height of the cone $=15.5-3.5=12$ cm; hemisphere radius $=3.5$ cm. Volume $=\\frac13\\pi r^2h+\\frac23\\pi r^3=\\frac13\\pi r^2(2r+h)=\\frac13\\times\\frac{22}7\\times(3.5)^2\\times(2\\times3.5+12)=\\frac13\\times22\\times1.75\\times19=243.83$ cm$^3$. (The source solution uses $\\pi=\\frac{22}{7}$ although the question says 3.14.)",
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "In a charming village, there is a street called 'Maplewood Avenue', where the houses are numbered from 1 to 49. A community group has decided to undertake a green renovation project, aiming to install solar panels on the houses.\nThey have a few questions before they begin the project.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "How many houses are there on 'Maplewood Avenue'?",
+     "marks": 1,
+     "options": null,
+     "answer": "49 houses"
+    },
+    {
+     "text": "The house numbers follow an Arithmetic Progression. What is the first term of the A.P. and the common difference?",
+     "marks": 1,
+     "options": null,
+     "answer": "First term $a=1$, common difference $d=1$."
+    },
+    {
+     "text": "If the group wanted to calculate the sum of all house numbers from 1 to 49, how much would that be?",
+     "marks": 2,
+     "options": null,
+     "answer": "$S_{49}=\\frac n2[a+l]=\\frac{49}2[1+49]=1225$.",
+     "or": {
+      "text": "What is the sum of the house numbers between 15 and 30?",
+      "answer": "House numbers between 15 and 30: $16+17+\\dots+29$, $n=14$, $a=16$, $d=1$. $S=\\frac n2[2a+(n-1)d]=\\frac{14}2[2\\times16+13]=7\\times45=315$."
+     }
+    }
+   ]
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Trees act the natural filters. By planting trees in and around school premises, we create cleaner and healthier air for students and local residents, reducing respiratory problems. A school in Noida has proposed and organised a community drive on tree plantation under the title \"Save Earth, Plant Trees\". Students of that school have planted saplings in the field such that it formed a quadrilateral as shown in the figure $ABCD$.\nBased on the information given above, answer the following questions:",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the distance between the two saplings at $A$ and $D$.",
+     "marks": 1,
+     "options": null,
+     "answer": "From the graph $A(-5,9)$ and $D(-6,1)$. $AD=\\sqrt{(-6+5)^2+(1-9)^2}=\\sqrt{65}$ units."
+    },
+    {
+     "text": "One student plants one sapling at the mid-point of $AD$. Then he moves along a straight line parallel to $DB$ and sows another sapling on $AB$. What are the coordinates of the positions of these two new saplings?",
+     "marks": 2,
+     "options": null,
+     "answer": "Mid-point of $AD=\\left(\\frac{-6-5}{2},\\frac{1+9}2\\right)=\\left(-\\frac{11}2,5\\right)$. A line through it parallel to $DB$ meets $AB$ at its mid-point (mid-point theorem). $B=(2,3)$, so mid-point of $AB=\\left(\\frac{2-5}2,\\frac{3+9}2\\right)=\\left(-\\frac32,6\\right)$.",
+     "or": {
+      "text": "A new sapling is kept at a point $M$ on $DB$ such that $DM:MB=3:1$. Find the coordinates of $M$.",
+      "answer": "$D(-6,1)$, $B(2,3)$, $DM:MB=3:1$. $M=\\left(\\frac{3(2)+1(-6)}{4},\\frac{3(3)+1(1)}{4}\\right)=\\left(0,\\frac52\\right)$."
+     }
+    },
+    {
+     "text": "The line segments $AC$ and $BD$ bisect each other at $P(-2,2)$. Find the coordinates of $C$.",
+     "marks": 1,
+     "options": null,
+     "answer": "$C=(1,-5)$ (since $P$ is the mid-point of $AC$: $C=(2(-2)+5,\\,2(2)-9)=(1,-5)$)."
+    }
+   ]
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "An injured bird was found on the roof of a building. The building is 15 m high. A fireman was called to rescue the bird. The fireman used an adjustable ladder to reach the roof. He placed the ladder in such a way that the ladder makes an angle of $60^\\circ$ with the ground in order to reach the roof.\nBased on the above information, answer the following questions:",
+   "options": null,
+   "figure": "fig_p08_2.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the length of the ladder used by the fireman to reach the roof.",
+     "marks": 1,
+     "options": null,
+     "answer": "Let the ladder length be $a$. $\\frac{15}a=\\sin60^\\circ\\Rightarrow a=\\frac{30}{\\sqrt3}=10\\sqrt3$ m."
+    },
+    {
+     "text": "Find the distance of the point on the ground at which the ladder was fixed from the bottom of the building.",
+     "marks": 1,
+     "options": null,
+     "answer": "Let the distance be $x$. $\\frac{15}x=\\tan60^\\circ\\Rightarrow x=\\frac{15}{\\sqrt3}=5\\sqrt3$ m."
+    },
+    {
+     "text": "In order to avoid skidding, the fireman placed the ladder in such a way that the bottom of the ladder touches the base of the wall which is opposite to the building, making an angle of $30^\\circ$ with the ground. Draw a neat diagram to represent the above situation and hence find the width of the road between the building and the wall.",
+     "marks": 2,
+     "options": null,
+     "answer": "Let the width of the road be $y$ ($AB=15$ m building, $\\angle ACB=30^\\circ$, $C$ at the base of the wall). $\\frac{15}y=\\tan30^\\circ\\Rightarrow y=15\\sqrt3$ m. The width of the road is $15\\sqrt3$ m.",
+     "or": {
+      "text": "Find the length of the ladder used by the fireman in this case.",
+      "answer": "Let the length of the ladder be $l$. $\\frac{15}{l}=\\sin30^\\circ\\Rightarrow l=30$ m."
+     }
+    }
+   ]
+  }
+ ]
+}

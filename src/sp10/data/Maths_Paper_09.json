@@ -1,0 +1,713 @@
+{
+ "subject": "Maths",
+ "paper": "Paper_09",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "(HCF $\\times$ LCM) for the numbers 30 and 70 is:",
+   "options": [
+    "70",
+    "2100",
+    "21",
+    "210"
+   ],
+   "figure": null,
+   "answer": "(b) 2100 — HCF × LCM = product of the numbers = $30\\times70=2100$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "In the given figure, graph of a polynomial $p(x)$ is given. Number of zeroes of $p(x)$ is:",
+   "options": [
+    "5",
+    "4",
+    "3",
+    "2"
+   ],
+   "figure": "fig_p01_0.png",
+   "answer": "(b) 4 — the number of zeroes equals the number of times the graph meets the x-axis; here it meets it 4 times.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "The lines represented by the linear equations $y = x$ and $x = 4$ intersect at P. The coordinates of the point P are:",
+   "options": [
+    "(4, 4)",
+    "(-4, 4)",
+    "(4, 0)",
+    "(0, 4)"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(a) (4, 4) — putting $x=4$ in $y=x$ gives $y=4$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "The roots of the quadratic equation $x^2 + 3x - 10 = 0$ are:",
+   "options": [
+    "-5, 2",
+    "5, 2",
+    "5, -2",
+    "-5, -2"
+   ],
+   "figure": null,
+   "answer": "(a) -5, 2 — $x^2+5x-2x-10=(x+5)(x-2)=0\\Rightarrow x=-5$ or $2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "The common difference of the A.P. whose $n^{\\text{th}}$ term is given by $a_n = 3n + 7$, is:",
+   "options": [
+    "3",
+    "7",
+    "3n",
+    "1"
+   ],
+   "figure": null,
+   "answer": "(a) 3 — $a_1=10$, $a_2=13$, $d=a_2-a_1=3$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "The points $(-5, 0), (5, 0)$ and $(0, 4)$ are the vertices of a triangle which is a/an:",
+   "options": [
+    "scalene triangle",
+    "isosceles triangle",
+    "equilateral triangle",
+    "right-angled triangle"
+   ],
+   "figure": null,
+   "answer": "(b) isosceles triangle — the distances from $(0,4)$ to $(-5,0)$ and to $(5,0)$ are both $\\sqrt{41}$, while the base is 10.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "The point $(x, 0)$ divides the line segment joining the points $(-4, 5)$ and $(0, -10)$ in the ratio",
+   "options": [
+    "$1:2$",
+    "$1:3$",
+    "$1:1$",
+    "$2:1$"
+   ],
+   "figure": null,
+   "answer": "(a) $1:2$ — let the ratio be $k:1$; $y=\\frac{-10k+5}{k+1}=0\\Rightarrow k=\\frac12$, so the ratio is $1:2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "In the given figure, $AB \\parallel PQ$. If $AB = 6$ cm, $PQ = 2$ cm and $OB = 3$ cm, then the length of OP is:",
+   "options": [
+    "3 cm",
+    "1 cm",
+    "9 cm",
+    "4 cm"
+   ],
+   "figure": "fig_p02_1.png",
+   "answer": "(b) 1 cm — $\\triangle ABO\\sim\\triangle QPO$ (AA): $\\frac{AB}{QP}=\\frac{OB}{OP}\\Rightarrow\\frac62=\\frac3{OP}\\Rightarrow OP=1$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, PQ is a tangent to the circle with centre O. If $\\angle OPQ = x$, $\\angle POQ = y$, then $x + y$ is:",
+   "options": [
+    "$60^\\circ$",
+    "$90^\\circ$",
+    "$180^\\circ$",
+    "$45^\\circ$"
+   ],
+   "figure": "fig_p03_0.png",
+   "answer": "(b) $90^\\circ$ — $\\angle OQP=90^\\circ$ (radius ⟂ tangent); in $\\triangle OPQ$, $x+y+90^\\circ=180^\\circ\\Rightarrow x+y=90^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The degree measure of the angle at the centre of a semicircle is:",
+   "options": [
+    "$180^\\circ$",
+    "$60^\\circ$",
+    "$90^\\circ$",
+    "$120^\\circ$"
+   ],
+   "figure": null,
+   "answer": "(a) $180^\\circ$",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "$9\\sec^2A - 9\\tan^2A$ is equal to:",
+   "options": [
+    "9",
+    "0",
+    "$\\frac19$",
+    "8"
+   ],
+   "figure": null,
+   "answer": "(a) 9 — $9(\\sec^2A-\\tan^2A)=9\\times1=9$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "$\\left(\\frac{1}{\\cot^2\\theta}\\right)-\\left(\\frac{1}{\\cos^2\\theta}\\right)$ is equal to:",
+   "options": [
+    "1",
+    "$\\sec^2\\theta$",
+    "-1",
+    "0"
+   ],
+   "figure": null,
+   "answer": "(c) -1 — $\\tan^2\\theta-\\sec^2\\theta=-1$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "Raina is 1.5 m tall. At an instant, his shadow is 1.8 m long. At the same instant, the shadow of a pole is 9 m long. How tall is the pole?",
+   "options": [
+    "7.5 m",
+    "6.2 m",
+    "6.5 m",
+    "8.5 m"
+   ],
+   "figure": null,
+   "answer": "(a) 7.5 m — by similar triangles $\\frac{h}{9}=\\frac{1.5}{1.8}\\Rightarrow h=7.5$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "In a circle of radius 21 cm, an arc subtends an angle of $60^\\circ$ at the centre. The length of the arc is",
+   "options": [
+    "21 cm",
+    "22 cm",
+    "23.5 cm",
+    "18.16 cm"
+   ],
+   "figure": null,
+   "answer": "(b) 22 cm — arc length $=\\frac{2\\pi r\\theta}{360}=2\\times\\frac{22}{7}\\times21\\times\\frac{60}{360}=22$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "If the sector of a circle with diameter 14 cm makes an angle $90^\\circ$ at the centre, then the perimeter of the sector is:",
+   "options": [
+    "11 cm",
+    "22 cm",
+    "36 cm",
+    "25 cm"
+   ],
+   "figure": null,
+   "answer": "(d) 25 cm — $r=7$ cm; arc $=\\frac{90}{360}\\times2\\pi\\times7=11$ cm; perimeter $=11+7+7=25$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "For an event E, if $P(E)+P(\\bar{E})=q$, then the value of $q^2-4$ is:",
+   "options": [
+    "-3",
+    "5",
+    "3",
+    "-5"
+   ],
+   "figure": null,
+   "answer": "(a) -3 — $P(E)+P(\\bar E)=1$, so $q=1$ and $q^2-4=-3$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "In an experiment of throwing a pair of dice, the probability of not getting a doublet is:",
+   "options": [
+    "$\\frac15$",
+    "$\\frac16$",
+    "$\\frac56$",
+    "$\\frac1{30}$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\frac56$ — $P(\\text{doublet})=\\frac6{36}=\\frac16$, so $P(\\text{not doublet})=\\frac56$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "If the mean of 6, 7, x, 8, y, 14 is 9, then:",
+   "options": [
+    "$x+y=21$",
+    "$x-y=21$",
+    "$x-y=19$",
+    "$x+y=19$"
+   ],
+   "figure": null,
+   "answer": "(d) $x+y=19$ — $\\frac{35+x+y}{6}=9\\Rightarrow x+y=54-35=19$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "Assertion (A): A sphere of radius 7 cm is mounted on the solid cone of radius 6 cm and height 8 cm. the volume of the combined solid is 1737.47 $\\mathrm{cm}^3$. [Take $\\pi=3.14$]\nReason (R): Volume of sphere and surface area of cone is given by $\frac43\\pi r^3$ and $\frac13\\pi r^2h$ respectively.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": "fig_p04_0.png",
+   "answer": "(c) A is true but R is false.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Assertion (A): The sum of series with the nth term $t_n=(9-5n)$ is 220 when no. of terms $n=6$.\nReason (R): Sum of first n terms in an A.P. is given by the formula: $\frac n2[2a+(n-1)d]$",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true. — Assertion: the sum for $n=6$ is $-51$, not 220 (false). Reason: $S_n=\\frac n2[2a+(n-1)d]$ is the correct formula (true).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "In a $\\triangle PQR$ right angled at Q, $QR = 3$ cm and $PR - PQ = 1$ cm. Determine the values of $\\sin R$, $\\cos R$ and $\\tan R$",
+   "options": null,
+   "figure": "fig_p04_1.png",
+   "answer": "$PR^2-PQ^2=QR^2=9\\Rightarrow(PR+PQ)(PR-PQ)=9\\Rightarrow PR+PQ=9$. With $PR-PQ=1$: $PR=5$ cm, $PQ=4$ cm. $\\sin R=\\frac{PQ}{PR}=\\frac45$, $\\cos R=\\frac{QR}{PR}=\\frac35$, $\\tan R=\\frac{PQ}{QR}=\\frac43$.",
+   "or": {
+    "text": "Find A and B if $\\sin(A+2B)=\\frac{\\sqrt3}{2}$ and $\\cos(A+4B)=0$, where A and B are acute angles.",
+    "options": null,
+    "figure": null,
+    "answer": "$A+2B=60^\\circ$ and $A+4B=90^\\circ$. Solving, $B=15^\\circ$ and $A=30^\\circ$.",
+    "chapter": "Ch08_Introduction_to_Trigonometry"
+   },
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Find the HCF and LCM of 26, 65 and 117, using prime factorisation.",
+   "options": null,
+   "figure": null,
+   "answer": "$26=2\\times13$, $65=5\\times13$, $117=3\\times3\\times13$. HCF $=13$; LCM $=13\\times3\\times3\\times2\\times5=1170$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Triangles",
+   "text": "In $\\triangle ABC$ and $\\triangle PQR$, $AD$ and $PS$ are altitudes such that $\\triangle ABD\\sim\\triangle PQS$ and $\\triangle ACD\\sim\\triangle PRS$. Prove that $\\triangle ABC\\sim\\triangle PQR$.",
+   "options": null,
+   "figure": null,
+   "answer": "$\\triangle ABD\\sim\\triangle PQS\\Rightarrow\\angle B=\\angle Q$ ... (i). $\\triangle ACD\\sim\\triangle PRS\\Rightarrow\\angle C=\\angle R$ ... (ii). From (i) and (ii), $\\triangle ABC\\sim\\triangle PQR$ (AA).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "Find the area of the shaded region if length of radius of each circle is 7 cm. Each circle touches the other two externally.",
+   "options": null,
+   "figure": "fig_p05_0.png",
+   "answer": "Side of the square joining the centres $=14$ cm. Shaded area = area of square − area of 4 quadrants $=14^2-4\\times\\frac{22}{7}\\times7^2\\times\\frac{90}{360}=196-154=42\\ \\mathrm{cm}^2$.",
+   "or": {
+    "text": "In Figure, OACB is a quadrant of a circle with centre O and radius 7 cm. If $OD = 3$ cm, then find the area of the shaded region.",
+    "options": null,
+    "figure": "fig_p05_1.png",
+    "answer": "Area of quadrant $=\\frac14\\pi(7)^2=\\frac{49}{4}\\pi=38.5\\ \\mathrm{cm}^2$. Area of $\\triangle ODB=\\frac12\\times7\\times3=\\frac{21}{2}\\ \\mathrm{cm}^2$. Shaded area $=\\frac{49}{4}\\pi-\\frac{21}{2}=\\frac72\\left(\\frac72\\pi-3\\right)=28\\ \\mathrm{cm}^2$.",
+    "chapter": "Ch11_Areas_Related_to_Circles"
+   },
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "text": "A quadrilateral ABCD is drawn to circumscribe a circle. Prove that $AB + CD = AD + BC$",
+   "options": null,
+   "figure": null,
+   "answer": "Tangent segments from an external point to a circle are equal. Let the circle touch AB, BC, CD, DA at P, Q, R, S. $AP=AS$, $BP=BQ$, $CR=CQ$, $DR=DS$. Adding: $(AP+BP)+(CR+DR)=(AS+DS)+(BQ+CQ)\\Rightarrow AB+CD=AD+BC$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Find the LCM and HCF of 404 and 96 and verify that LCM × HCF = product of the two numbers",
+   "options": null,
+   "figure": null,
+   "answer": "$404=2^2\\times101$, $96=2^5\\times3$. HCF $=2^2=4$; LCM $=2^5\\times3\\times101=9696$. HCF × LCM $=4\\times9696=38784$ and $404\\times96=38784$. Hence verified.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Polynomials",
+   "text": "If $\\alpha$ and $\\beta$ are the zeroes of the polynomial $ax^2-x+c$. Obtain a polynomial whose zeroes are $\\alpha-3$ and $\\beta-3$.",
+   "options": null,
+   "figure": null,
+   "answer": "$\\alpha+\\beta=\\frac1a$, $\\alpha\\beta=\\frac ca$. Sum of new zeroes $=\\alpha+\\beta-6=\\frac{1-6a}{a}$. Product $=\\alpha\\beta-3(\\alpha+\\beta)+9=\\frac ca-\\frac3a+9=\\frac{c-3+9a}{a}$. Required polynomial: $x^2-\\frac{1-6a}{a}x+\\frac{c-3+9a}{a}$, or $ax^2-(1-6a)x+(c-3+9a)$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove the trigonometric identity: $\\sqrt{\\sec^2\\theta+\\operatorname{cosec}^2\\theta}=\\tan\\theta+\\cot\\theta$.",
+   "options": null,
+   "figure": null,
+   "answer": "LHS $=\\sqrt{\\frac1{\\cos^2\\theta}+\\frac1{\\sin^2\\theta}}=\\sqrt{\\frac{\\sin^2\\theta+\\cos^2\\theta}{\\sin^2\\theta\\cos^2\\theta}}=\\frac1{\\sin\\theta\\cos\\theta}=\\operatorname{cosec}\\theta\\sec\\theta$. RHS $=\\frac{\\sin\\theta}{\\cos\\theta}+\\frac{\\cos\\theta}{\\sin\\theta}=\\frac{\\sin^2\\theta+\\cos^2\\theta}{\\sin\\theta\\cos\\theta}=\\frac1{\\sin\\theta\\cos\\theta}$. LHS = RHS.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Find the common difference of an AP whose first term is 5 and the sum of its first four terms is half the sum of the next four terms.",
+   "options": null,
+   "figure": null,
+   "answer": "$a=5$. $S_4=\\frac12(S_8-S_4)$. $\\frac42[2(5)+3d]=\\frac12\\left[\\frac82[2(5)+7d]-\\frac42[2(5)+3d]\\right]\\Rightarrow 4(10+3d)=4(10+7d)-2(10+3d)\\Rightarrow40+12d=40+28d-20-6d\\Rightarrow-10d=-20\\Rightarrow d=2$.",
+   "or": {
+    "text": "If the $m^{\\text{th}}$ term of an A.P. is $\\frac1n$ and $n^{\\text{th}}$ term be $\\frac1m$, then show that its $(mn)^{\\text{th}}$ term is 1.",
+    "options": null,
+    "figure": null,
+    "answer": "$\\frac1n=a+(m-1)d$ ... (i); $\\frac1m=a+(n-1)d$ ... (ii). (i) − (ii): $\\frac1n-\\frac1m=(m-n)d\\Rightarrow\\frac{m-n}{mn}=(m-n)d\\Rightarrow d=\\frac1{mn}$. Putting in (i): $a=\\frac1n-\\frac{m-1}{mn}=\\frac1{mn}$. $a_{mn}=a+(mn-1)d=\\frac1{mn}+(mn-1)\\frac1{mn}=\\frac{mn}{mn}=1$.",
+    "chapter": "Ch05_Arithmetic_Progressions"
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch13_Statistics",
+   "text": "The table below shows the salaries of 280 persons:\n\n| Salary (In thousand ₹) | No. of Persons |\n|---|---|\n| 5 - 10 | 49 |\n| 10 - 15 | 133 |\n| 15 - 20 | 63 |\n| 20- 25 | 15 |\n| 25 - 30 | 6 |\n| 30 - 35 | 7 |\n| 35 - 40 | 4 |\n| 40 - 45 | 2 |\n| 45 - 50 | 1 |\n\nCalculate the median salary of the data.",
+   "options": null,
+   "figure": null,
+   "answer": "Cumulative frequencies: 49, 182, 245, 260, 266, 273, 277, 279, 280. $\\frac N2=140$ lies in the class 10-15 (median class): $l=10$, $h=5$, $f=133$, $c.f.=49$. Median $=10+\\frac5{133}(140-49)=10+\\frac{5\\times91}{133}=10+3.421=13.421$. Median salary is ₹13.421 thousand, i.e. about ₹13420.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "Two tangents TP and TQ are drawn to a circle with centre O from an external point T. Prove that $\\angle PTQ=2\\angle OPQ$.",
+   "options": null,
+   "figure": null,
+   "answer": "Let $\\angle PTQ=\\theta$. $TP=TQ$, so $\\angle TPQ=\\angle TQP=\\frac12(180^\\circ-\\theta)=90^\\circ-\\frac\\theta2$. $\\angle OPT=90^\\circ$, so $\\angle OPQ=\\angle OPT-\\angle TPQ=90^\\circ-\\left(90^\\circ-\\frac\\theta2\\right)=\\frac\\theta2=\\frac12\\angle PTQ$. Hence $\\angle PTQ=2\\angle OPQ$.",
+   "or": {
+    "text": "In the given figure, $\\triangle PQR$ circumscribes the circle. If $PX=10$ cm, $QY=8$ cm and $RZ=6$ cm, then find the perimeter of $\\triangle PQR$.",
+    "options": null,
+    "figure": "fig_p06_0.png",
+    "answer": "Tangents from an external point are equal: $RZ=RY=6$, $QX=QY=8$, $PZ=PX=10$. $PQ=PX+QX=18$, $QR=QY+YR=14$, $PR=PZ+ZR=16$. Perimeter $=18+14+16=48$ cm.",
+    "chapter": "Ch10_Circles"
+   },
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "A straight highway leads to the foot of a tower. A man standing on the top of the 75 m high tower observes two cars at angles of depression of $30^\\circ$ and $60^\\circ$, which are approaching the foot of the tower. If one car is exactly behind the other on the same side of the tower, find the distance between the two cars. (use $\\sqrt3=1.73$)",
+   "options": null,
+   "figure": null,
+   "answer": "Tower AB = 75 m; cars at C (nearer, $60^\\circ$) and D ($30^\\circ$); $CD=x$. In $\\triangle ABC$: $\\tan60^\\circ=\\frac{75}{BC}\\Rightarrow BC=25\\sqrt3$ m. In $\\triangle ABD$: $\\tan30^\\circ=\\frac{75}{BC+CD}\\Rightarrow25\\sqrt3+CD=75\\sqrt3\\Rightarrow CD=50\\sqrt3=50\\times1.73=86.5$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch13_Statistics",
+   "text": "Find 'mean' and 'mode' marks of the following data:\n\n| Marks | 0 – 5 | 5 – 10 | 10 – 15 | 15 – 20 | 20 – 25 | 25 – 30 |\n|---|---|---|---|---|---|---|\n| Number of students | 2 | 3 | 8 | 15 | 14 | 8 |",
+   "options": null,
+   "figure": null,
+   "answer": "Assumed mean $A=17.5$, $h=5$; $u_i=-3,-2,-1,0,1,2$; $f_iu_i=-6,-6,-8,0,14,16$; $\\sum f_i=50$, $\\sum f_iu_i=10$. Mean $=17.5+5\\times\\frac{10}{50}=18.5$. Modal class 15-20: Mode $=15+5\\times\\frac{15-8}{30-8-14}=15+4.375=19.38$ (approx.).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "A train travels at a certain average speed for a distance of 54 km and then travels a distance of 63 km at an average speed of 6 km/h more than the first speed. If it takes 3 hours to complete the total journey, what was its first average speed?",
+   "options": null,
+   "figure": null,
+   "answer": "Let the first speed be $x$ km/h. $\\frac{54}{x}+\\frac{63}{x+6}=3\\Rightarrow54(x+6)+63x=3x(x+6)\\Rightarrow3x^2-99x-324=0\\Rightarrow x^2-33x-108=0\\Rightarrow(x-36)(x+3)=0$. $x=36$ (reject $x=-3$). First speed = 36 km/h.",
+   "or": {
+    "text": "The product of two consecutive positive integers is 306. Find the integers.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the integers be $x$ and $x+1$. $x(x+1)=306\\Rightarrow x^2+x-306=0\\Rightarrow(x+18)(x-17)=0$; $x=17$ (positive). The integers are 17 and 18.",
+    "chapter": "Ch04_Quadratic_Equations"
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "A spherical glass vessel has a cylindrical neck which is 7 cm long and 2 cm in diameter. The diameter of the spherical part is 14 cm. Find the capacity of the entire glass vessel. (Use $\\pi=\\frac{22}{7}$)",
+   "options": null,
+   "figure": null,
+   "answer": "Sphere $R=7$ cm; neck $r=1$ cm, $h=7$ cm. Capacity $=\\pi r^2h+\\frac43\\pi R^3=\\frac{22}{7}\\times1\\times1\\times7+\\frac43\\times\\frac{22}{7}\\times7^3=22+\\frac{4312}{3}=\\frac{4378}{3}\\ \\mathrm{cm}^3\\approx1459.33\\ \\mathrm{cm}^3$.",
+   "or": {
+    "text": "A necklace is made up of wooden beads. Each bead is in the form of a sphere of diameter 4.2 mm. A cylinder is hollowed out from each bead. If the radius of the cylinder is 1 mm, find the volume of wood left in each bead.",
+    "options": null,
+    "figure": "fig_p06_1.png",
+    "answer": "Sphere $R=2.1$ mm; cylinder $r=1$ mm, $h=4.2$ mm. Volume of wood left $=\\frac43\\pi R^3-\\pi r^2h=\\frac43\\times\\frac{22}{7}\\times2.1^3-\\frac{22}{7}\\times1\\times1\\times4.2=38.808-13.2=25.608\\ \\mathrm{mm}^3$.",
+    "chapter": "Ch12_Surface_Areas_and_Volumes"
+   },
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "Architect: An architect is a skilled professional who plans and designs buildings and generally plays a key role in their construction. Architects are highly trained in the art and science of building design. Since they bear responsibility for the safety of their buildings' occupants, architects must be professionally licensed.\nVishu is a licensed architect and design very innovative house. She has made a house layout for her client which is given below. In the layout, the design and measurements has been made such that area of two bedrooms and kitchen together is 95 sq. m.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Which pair of linear equations does describe this situation?",
+     "marks": 1,
+     "options": null,
+     "answer": "$x+y=13$ and $2x+y=19$ (from $x+2+y=15$ and $5x+5x+5y=95$)."
+    },
+    {
+     "text": "What is the length of the outer boundary of the layout?",
+     "marks": 1,
+     "options": null,
+     "answer": "$12+15+12+15=54$ m."
+    },
+    {
+     "text": "What is the area of the bedroom 1?",
+     "marks": 2,
+     "options": null,
+     "answer": "Subtracting $x+y=13$ from $2x+y=19$ gives $x=6$. Area of bedroom 1 $=5\\times x=5\\times6=30\\ \\mathrm{m}^2$.",
+     "or": {
+      "text": "What is the area of living room in the layout?",
+      "options": null,
+      "figure": null,
+      "answer": "Area of living room $=(5\\times2)+(9\\times7)=10+63=73\\ \\mathrm{m}^2$."
+     }
+    }
+   ]
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch06_Triangles",
+   "text": "Swimmer in Distress: A lifeguard located 20 metre from the water spots a swimmer in distress. The swimmer is 30 metre from shore and 100 metre east of the lifeguard. Suppose the lifeguard runs and then swims to the swimmer in a direct line, as shown in the figure.",
+   "options": null,
+   "figure": "fig_p07_1.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "How far east from his original position will he enter the water? (Hint: Find the value of x in the sketch.)",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\triangle ABC\\sim\\triangle DEC$: $\\frac{20}{30}=\\frac{x}{100-x}\\Rightarrow2000-20x=30x\\Rightarrow x=40$ m."
+    },
+    {
+     "text": "Which similarity criterion of triangle is used?",
+     "marks": 1,
+     "options": null,
+     "answer": "AA"
+    },
+    {
+     "text": "What is the distance of swimmer from the shore?",
+     "marks": 2,
+     "options": null,
+     "answer": "60 metres (as given in the official solution).",
+     "or": {
+      "text": "What is the length of AD?",
+      "options": null,
+      "figure": null,
+      "answer": "$AD=AC+CD=\\sqrt{20^2+40^2}+\\sqrt{60^2+30^2}=\\sqrt{2000}+\\sqrt{4500}=20\\sqrt5+30\\sqrt5=50\\sqrt5$ m."
+     }
+    }
+   ],
+   "note": "Official answer to part iii (60 m) looks doubtful (swimmer is stated to be 30 m from shore); copied as given."
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "In a society, there is a circular park having two gates. The gates are placed at points $A(10, 20)$ and $B(50, 50)$, as shown in the figure below. Two fountains are installed at points P and Q on AB such that $AP=PQ=QB$.",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the coordinates of the centre C.",
+     "marks": 1,
+     "options": null,
+     "answer": "$C=\\left(\\frac{10+50}{2},\\frac{20+50}{2}\\right)=(30,35)$."
+    },
+    {
+     "text": "Find the radius of the circular park.",
+     "marks": 1,
+     "options": null,
+     "answer": "Radius $=\\sqrt{(30-10)^2+(35-20)^2}=25$."
+    },
+    {
+     "text": "Find the coordinates of the point P.",
+     "marks": 2,
+     "options": null,
+     "answer": "P divides AB in the ratio $1:2$: $P=\\left(\\frac{1\\times50+2\\times10}{3},\\frac{1\\times50+2\\times20}{3}\\right)=\\left(\\frac{70}{3},30\\right)$.",
+     "or": {
+      "text": "Find the distance of the fountain at Q from gate A.",
+      "options": null,
+      "figure": null,
+      "answer": "$AB=2\\times25=50$; $AQ=\\frac23AB=\\frac23\\times50=\\frac{100}{3}$."
+     }
+    }
+   ],
+   "figure2": "fig_p08_1.png"
+  }
+ ]
+}

@@ -1,0 +1,693 @@
+{
+ "subject": "SST",
+ "paper": "Paper_07",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) Sardinia-Piedmont | (i) Ruled by Bourbon kings of Spain |\n| (b) The north of Italy | (ii) Ruled by Pope |\n| (c) The centre of Italy | (iii) Ruled by Austrian Habsburgs |\n| (d) The southern regions of Italy | (iv) Ruled by Italian princely house |",
+   "options": [
+    "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+    "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+    "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)",
+    "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)"
+   ],
+   "figure": null,
+   "answer": "(a) (a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Study the picture and answer the question that follows: Which of the following option is correct regarding the picture?",
+   "options": [
+    "It is a page from the Panchtantra book",
+    "It is a page from the Ninety Five Theses.",
+    "It is a page from the oldest Japanese book - Diamond Sutra.",
+    "It is a page from the traditional Chinese accordion book"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(c) It is a page from the oldest Japanese book - Diamond Sutra. The oldest Japanese book, printed in AD 868, is the Buddhist Diamond Sutra, containing six sheets of text and woodcut illustrations.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Who among the following organized Depressed Classes Association in 1930?",
+   "options": [
+    "Mahatma Gandhi",
+    "E.V. Periyar",
+    "Dr. B.R. Ambedkar",
+    "Jyotiba Phule"
+   ],
+   "figure": null,
+   "answer": "(c) Dr. B.R. Ambedkar organised the Dalits into the Depressed Classes Association in 1930. He demanded separate electorates for the Dalits in the Second Round Table Conference.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Arrange the following events in chronological order and choose the correct option.\nI. Treaty of Constantinople\nII. Hamburg granted autonomy to Hungary\nIII. Balkan Conflict\nIV. Napoleonic Civil Code",
+   "options": [
+    "IV, II, I & III",
+    "III, II, IV & I",
+    "IV, I, II & III",
+    "I, IV, III & II"
+   ],
+   "figure": null,
+   "answer": "(c) IV, I, II & III",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "How did Britain come into existence as a nation-state? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "In Britain the formation of the nation-state was not the result of a sudden upheaval or revolution but of a long-drawn-out process:\ni. Before the eighteenth century, there were different ethnic identities - English, Welsh, Scot and Irish - with their own cultural and political traditions.\nii. The English nation grew steadily in wealth, importance and power and could extend its influence over the other nations of the islands.\niii. The English parliament seized power from the monarchy in 1688, which was instrumental in establishing the nation-state.\niv. The Act of Union (1707) between England and Scotland resulted in the formation of the United Kingdom.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Analyse the process of Italian Unification.",
+    "answer": "i. During the middle of the nineteenth century, Italy was divided into seven states, of which only Sardinia-Piedmont was ruled by an Italian princely house.\nii. During the 1830s, Giuseppe Mazzini sought to put together a coherent programme for a unitary Italian Republic.\niii. Chief Minister Cavour, who led the movement to unify Italy, was neither a revolutionary nor a democrat.\niv. Through a tactful diplomatic alliance with France engineered by Cavour, Sardinia-Piedmont defeated the Austrian forces in 1859.\nv. In 1861 Victor Emmanuel II was proclaimed king of united Italy.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Write the name of any two women writers of India in the 19th century and highlight their contribution who wrote about the different experiences of the women.",
+   "options": null,
+   "figure": null,
+   "answer": "The two women writers were Kailashbashini Debi and Tarabai Shinde.\ni. Kailashbashini Debi wrote books highlighting the experiences of women: how women were imprisoned at home, kept in ignorance, forced to do hard domestic labour and treated unjustly by the very people they served.\nii. Tarabai Shinde narrated the plight of upper-caste Hindu women, especially widows.",
+   "or": {
+    "chapter": "Ch05_History_Print_Culture",
+    "text": "Why did James Augustus Hickey claim that the 'Bengal Gazette was a commercial paper open to all, but influence by none'? Explain.",
+    "answer": "Bengal Gazette was a weekly magazine that described itself as 'a commercial paper open to all, but influence by none'. From 1780 James Augustus Hickey began to edit it. It became a private English enterprise, proud of its independence from colonial influence, and began English printing in India. Hickey published freely, from advertisements related to the import and sale of slaves to gossip about company officials in India. As a result it enraged the colonial masters and Hickey was persecuted by Governor-General Warren Hastings.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "How did Greek war of Independence mobilise nationalist feelings among the educated elite across Europe? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Greece had been a part of the Ottoman Empire since the 15th century.\nii. The struggle for independence began in 1821.\niii. Greece got support from Greeks living in exile and many Western Europeans had a natural sympathy for ancient Greek culture.\niv. Greece was viewed as a part of Europe annexed by the Ottomans that needed to be liberated.\nv. Poets and artists praised Greece as the cradle of European civilisation and mobilised public opinion to support its fight against the Muslim Empire, leading to a rise in nationalist consciousness.\nvi. The English poet Lord Byron organised funds, fought in the war and died of fever in 1824.\nvii. The Treaty of Constantinople of 1832 recognised Greece as an independent nation.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "\"The 1830s were considered the beginning of great difficulties in Europe.\" Analyse the statement.",
+    "answer": "The 1830s marked the beginning of great difficulties in Europe due to several economic and social crises. The first half of the nineteenth century saw a sharp increase in population, creating heavy pressure on resources. In many countries the number of job seekers was far greater than available employment. People from rural areas migrated to cities, where they lived in overcrowded and unhygienic slums. Small producers in towns faced severe competition from cheap machine-made goods from England, whose industrialisation was far more advanced. In many parts of Europe the aristocracy retained power, forcing peasants to bear feudal dues and obligations. A rise in food prices or a single bad harvest often pushed both urban and rural populations into widespread poverty and misery.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Read the following text carefully and answer the questions that follow:\n\"It is said of 'passive resistance' that it is the weapon of the weak, but the power which is the subject of this article can be used only by the strong. This power is not passive resistance; indeed, it calls for intense activity. The movement in South Africa was not passive but active ... Satyagraha is not physical force. A satyagrahi does not inflict pain on the adversary; he does not seek his destruction ... In the use of satyagraha, there is no ill-will whatever. Satyagraha is pure soul-force. Truth is the very substance of the soul. That is why this force is called satyagraha. The soul is informed with knowledge. In it burns the flame of love. ... Nonviolence is the supreme dharma ... It is certain that India cannot rival Britain or Europe in force of arms. The British worship the war-god and they can all of them become, as they are becoming, bearers of arms. The hundreds of millions in India can never carry arms. They have made the religion of non-violence their own ...\"",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Why did Gandhiji consider nonviolence as supreme dharma?",
+     "marks": 1,
+     "options": null,
+     "answer": "Gandhiji adopted nonviolence as a philosophy and an ideal way of life. According to him the philosophy of nonviolence is not a weapon of the weak; it is a weapon which can be tried by all."
+    },
+    {
+     "text": "How was Gandhian satyagraha taken by the people who believed in his philosophy?",
+     "marks": 1,
+     "options": null,
+     "answer": "A satyagrahi does not inflict pain on the adversary; he does not seek his destruction. In the use of satyagraha there is no ill-will."
+    },
+    {
+     "text": "Why was Gandhian satyagraha considered as a novel way to resist injustice?",
+     "marks": 2,
+     "options": null,
+     "answer": "a. One could win the battle through nonviolence.\nb. This could be done by appealing to the conscience of the oppressor.\nc. People, including the oppressors, had to be persuaded to see the truth, instead of being forced to accept truth through the use of violence."
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where Indian National Congress session was held in 1927\nb. The place associated with the Movement of Indigo Planters.",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "A - Madras; B - Champaran.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "Choose the correct option of the states that have been majorly benefitted by the Sardar Sarovar Dam.",
+   "options": [
+    "Maharashtra, Madhya Pradesh, Telangana and Andhra Pradesh",
+    "Rajasthan, Gujarat, Punjab and Haryana",
+    "Madhya Pradesh, Rajasthan, Karnataka and Chhattisgarh",
+    "Maharashtra, Madhya Pradesh, Gujarat and Rajasthan"
+   ],
+   "figure": null,
+   "answer": "(d) Maharashtra, Madhya Pradesh, Gujarat and Rajasthan",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "In a talent hunt competition, the judge decided to challenge the participants with a unique twist. Alongside their performances, they were given a task to identify a specific type of soil based on clues related to Laterite Soil. Which of the following clues provided by judge would be most useful in identifying the Laterite soil?\nClues:\ni. This is the most widely spread and important soil.\nii. The formation of this soil depends on climatic conditions and parent rock material.\niii. These soils are mostly deep to very deep, acidic (pH < 6), and generally deficient in plant nutrients.\niv. The soils found in the lower parts of the valleys, particularly on the river terraces and alluvial fans are fertile.",
+   "options": [
+    "Clue ii and iii",
+    "Clue i",
+    "Clue i and iv",
+    "Clue iii"
+   ],
+   "figure": null,
+   "answer": "(d) Clue iii - Lateritic soils are mostly deep to very deep, acidic (pH<6), generally deficient in plant nutrients.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "India's bauxite deposits are mainly found in the Amarkantak plateau, Maikal hills, and the plateau region of Bilaspur-Katni. Identify the share of the state covered in the region mentioned here from the table below.\n\nProduction of Bauxite in 2016-17\n\n| State | Percentage |\n|---|---|\n| Jharkhand | 9 |\n| Chhattisgarh | 8 |\n| Gujarat | 24 |\n| Karnataka | 10 |\n| Odisha | 49 |\n| Maharashtra | 8 |",
+   "options": [
+    "10",
+    "49",
+    "8",
+    "24"
+   ],
+   "figure": null,
+   "answer": "(c) 8 - Chhattisgarh 8%.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following provisions of the Indian Wildlife Protection Act are applicable for maintaining ecological diversity and protecting habitats?\ni. Integrating diverse flora and fauna into our daily life.\nii. Banning hunting and giving legal protection to the animals in their habitats.\niii. Recommending establishing national parks and wildlife sanctuaries.\niv. Providing legal protection to many marine animals.",
+   "options": [
+    "Statement i, ii, & iii are correct.",
+    "Statement ii, iii & iv are correct.",
+    "Statement i and ii are correct.",
+    "Statement ii is correct."
+   ],
+   "figure": null,
+   "answer": "(b) Statement ii, iii & iv are correct. The Wild Life Protection Act of India (1972) provides for the protection of the country's wild animals, birds and plant species to ensure environmental and ecological security, and gives legal protection to many marine animals.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "________ is the staple food crop of a majority of the people in India.",
+   "options": [
+    "wheat",
+    "jowar",
+    "maize",
+    "rice"
+   ],
+   "figure": null,
+   "answer": "(d) rice - Rice is the staple food crop of a majority of the people in India. India is the second largest producer of rice in the world after China.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "In 2018, India was the second largest producer of fruits and vegetables in the world after China. Which of the following process is involved in the production of Horticulture Crops?\ni. Cultivation and harvesting of grapes.\nii. Growing and marketing flowers and ornamental plants.\niii. Breeding, rearing and transplantation of fish under controlled conditions.\niv. Cultivating silkworms and extracting silk from them.",
+   "options": [
+    "Statement ii, iii & iv are correct.",
+    "Statement i, ii, & iii are correct.",
+    "Statement ii is correct.",
+    "Statement i and ii are correct."
+   ],
+   "figure": null,
+   "answer": "(d) Statement i and ii are correct. Horticulture involves floriculture, olericulture, pomology, viticulture etc. (viticulture - grapes; floriculture - flowers). Pisciculture is the growing of fish.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "Describe the importance of judicious use of resources.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Indiscriminate use of resources has led to an environmental and ecological crisis; therefore planning is the widely accepted strategy for judicious use of resources.\nii. Most resources are non-renewable; if exhausted they take thousands of years to renew.\niii. Resources are available only in limited quantity and are essential for any developmental activity; their unavailability can lead to socio-economic problems in the world.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "\"It would be beneficial to develop sustainable way to meet the growing energy demand in India.\" Support the statement by giving suitable arguments.",
+   "options": null,
+   "figure": null,
+   "answer": "Energy is a fundamental requirement for economic development, as every sector - agriculture, industry, transport, commercial and domestic - depends on continuous energy supply. With growing population and expanding activities, energy consumption has been steadily increasing. To ensure long-term sustainability, promoting energy conservation and expanding the use of renewable energy sources are essential. The need of the hour is to adopt a sustainable path of energy development by implementing energy-efficient programmes and encouraging responsible energy use. Public awareness campaigns can play a major role in guiding people toward mindful consumption. Greater use of non-conventional sources such as solar, wind and geothermal energy can significantly reduce pressure on conventional fuels. Simple everyday steps, like using public transport, switching off appliances when not in use and adopting energy-saving devices, also contribute greatly to conservation.",
+   "or": {
+    "chapter": "Ch10_Geography_Minerals_and_Energy",
+    "text": "Explain with examples the importance of minerals for human life.",
+    "answer": "Minerals play an indispensable role in our daily lives as they are used in almost every object we rely on. From small items like pins to massive structures such as buildings and ships, minerals are the fundamental raw materials for construction and manufacturing. Infrastructure such as railway tracks, road surfaces, tools and machinery is built using various minerals. Vehicles, including cars, buses, trains and aeroplanes, are constructed from minerals and rely on energy resources like petrol, diesel and coal, all derived from the earth. Minerals are also vital for human health, as they are present in the food we consume and contribute to growth, metabolism and overall bodily functions.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "Read the following text carefully and answer the questions that follow:\nAutomobiles provide vehicle for quick transport of goods services and passengers. Trucks, buses, cars, motor cycles, scooters, three-wheelers and multi-utility vehicles are manufactured in India at various centres. After the liberalisation, the coming in of new and contemporary models stimulated the demand for vehicles in the market, which led to the healthy growth of the industry including passenger cars, two and three-wheelers. The industry is located around Delhi, Gurugram, Mumbai, Pune, Chennai, Kolkata, Lucknow, Indore, Hyderabad, Jamshedpur and Bengaluru.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What was the impact of liberalisation on the Indian economy?",
+     "marks": 1,
+     "options": null,
+     "answer": "Increased employment opportunities; increased international competitiveness of industrial production; reduced rates of interest and tariffs; decreased the debt burden of the country."
+    },
+    {
+     "text": "What is the role of the automobile industry in Indian GDP?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Indian automobile industry contributes almost 6.4% of India's GDP and 35% of manufacturing GDP and is a leading employment provider."
+    },
+    {
+     "text": "Why the demand for vehicles stimulated in the market after liberalisation in India?",
+     "marks": 2,
+     "options": null,
+     "answer": "After liberalisation, the coming in of new and contemporary models stimulated the demand for vehicles in the market, which led to the healthy growth of the industry including passenger cars, two and three wheelers."
+    }
+   ]
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. A large concrete gravity dam on the Narmada River in Gujarat.\nii. Steel Plant in Chhattisgarh. It's the first and largest Indian plant to produce steel rails.\nII. Any two of the following:\niii. Pune Software Technology Park\niv. Kochi Major Sea Port\nv. Indore Cotton Textile Industry",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "(i) Sardar Sarovar Dam; (ii) Bhilai Iron and Steel Plant; (iii) Pune; (iv) Kochi; (v) Indore - to be located and labelled on the outline map as shown in the answer map (answer map figure: fig_p12_0.png).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Which of the following statements reflects a lack of internal democracy within a political party?\nStatement i: Parties do not keep membership registers, do not hold organisational meetings.\nStatement ii: They fail to conduct internal elections regularly.\nStatement iii: Top party leaders assume greater powers and make all the major decisions in the name of the party.\nStatement iv: The opinions of those who disagree with the leadership are considered and given due importance.",
+   "options": [
+    "Statement i and ii are right.",
+    "Statement iii is right.",
+    "Statement i, ii and iii are right.",
+    "Only statement iv is right."
+   ],
+   "figure": null,
+   "answer": "(c) Statement i, ii and iii are right. Since one or few leaders exercise paramount power in the party, those who disagree with the leadership find it difficult to continue; personal loyalty to the leader becomes more important than loyalty to party principles.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Which system of power sharing is indicated above?",
+   "options": [
+    "Residuary Power Sharing",
+    "Vertical Power Sharing",
+    "Concurrent Power Sharing",
+    "Horizontal Power Sharing"
+   ],
+   "figure": "fig_p06_0.png",
+   "answer": "(b) Vertical Power Sharing - power is shared among different levels of government (Union, State, Local); the lower organs work under the higher organs.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Which of the following statements will be considered as a condition for achieving the outcome of social accommodation of democracy?\nStatement i: The majority always needs to work with the minority so that governments function to represent the general view.\nStatement ii: Rule by the majority should not become rule by the majority community in terms of religion or race or linguistic group, etc.\nStatement iii: Majority and minority opinions should be made permanent so that they have complete liberty to express their opinions.\nStatement iv: Rule by majority means in every decision-making all the top-scoring parties get an opportunity to voice their opinion.",
+   "options": [
+    "Statement i, ii and iii are right.",
+    "Statement iii is right.",
+    "Statement i and ii are right.",
+    "Only statement iv is right."
+   ],
+   "figure": null,
+   "answer": "(c) Statement i and ii are right. Democracy is not simply rule by majority opinion; the majority must work with the minority, and majority and minority opinions are not permanent. Rule by the majority must not become rule by the majority community.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Assertion (A): Equal Remuneration Act, 1976, provides that equal wages should be paid for equal work, irrespective of gender and caste.\nReason (R): Women are physically weak so they are righteously paid less than men.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(c) A is true but R is false. The Act provides equal wages for equal work. Women are considered inferior to men and are therefore paid less, but this belief is unjustifiable as both are equal.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Evaluate the power sharing system in India.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Power is shared among different organs of the government - legislature, executive and judiciary - to maintain check and balance.\nii. Power is divided at different levels of government: centre, state (federalism) and lower levels (decentralisation) such as municipality and panchayats.\niii. Power is shared among different social groups such as linguistic and religious groups.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "How does the quality of democracy depend on the degree of public participation?",
+   "options": null,
+   "figure": null,
+   "answer": "When people are asked about the way democracy functions, they always come up with more expectations and many complaints. When people want more, they are eventually improving the quality of democracy. The fact that people are complaining is itself a testimony to the success of democracy: it shows that people have developed awareness and the ability to expect and to look critically at power holders.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Examine the political outcome of democracy.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Right to the citizens to choose their leaders and keep a check on them.\nii. If required, people can participate in decision making either directly or through representatives.\niii. It produces an accountable, responsible and legitimate government.\niv. It enhances the dignity of the citizens and gives them a free and healthy atmosphere.\nv. Women's representation can be seen in a democratic country more than any other form of government.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Explain the role of Political Parties in a democracy.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Parties contest elections; elections are fought mainly among candidates put up by political parties.\nii. Parties put forward different policies and programmes and the voters choose from them.\niii. Parties play a decisive role in making laws for a country.\niv. Parties form and run governments.\nv. Parties recruit leaders, train them and make them ministers to run the government.\nvi. Parties that lose elections serve as the opposition by expressing opposing opinions and criticising the government for its mistakes or wrong policies.\nvii. Parties shape public opinion.\nviii. Parties provide people access to government machinery and welfare schemes.",
+   "or": {
+    "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+    "text": "Caste can take various forms in Politics. Explain with examples.",
+    "answer": "i. When parties choose candidates in elections, they keep in mind the caste composition of the electorate and nominate candidates from different castes to muster support to win.\nii. When governments are formed, political parties usually take care that representatives of different castes and tribes find a place in it.\niii. Political parties and candidates make appeals to caste sentiment to muster support.\niv. Some political parties are known to favour some castes and are seen as their representatives.\nv. Universal adult franchise and one-person-one-vote compelled political leaders to mobilise and secure political support; it brings consciousness among the people who were treated as inferior and low.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Read the given source and answer the questions that follow:\nAn Experiment in Brazil\nA city called Porto Alegre in Brazil has carried out an extraordinary experiment in combining decentralisation with participative democracy. The city has set up a parallel organisation operating alongside the municipal council, enabling local inhabitants to take real decisions for their city. The nearly 13 lakh people in this city get to participate in making the budget for their own city. The city is divided into many sectors or what we call wards. Each sector has a meeting, like that of the gram sabha, in which anyone living in that area can participate. There are some meetings to discuss issues that affect the entire city. Any citizen of the city can participate in those meetings. The budget of the city is discussed in these meetings. The proposals are put to the municipality that takes a final decision about it.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Explain the meaning of 'participatory democracy'.",
+     "marks": 1,
+     "options": null,
+     "answer": "Participatory democracy means participation or direct involvement in the decision making process."
+    },
+    {
+     "text": "In the context of separation of powers, the given example defines which type of government?",
+     "marks": 1,
+     "options": null,
+     "answer": "Local Self Government."
+    },
+    {
+     "text": "Describe the structure of the system in India which is almost similar to the above example of Brazil.",
+     "marks": 2,
+     "options": null,
+     "answer": "i. Local Self Government - Panchayati Raj, Municipality and Municipal Corporation.\nii. All bodies of Local Self Government are elected by the people.\niii. Gram Sabha in the Gram Panchayat, where people of that area participate directly."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "What is the full form of TRIPS?",
+   "options": [
+    "Trade-related international property rights",
+    "Trade-related intellectual property rights",
+    "Trade-related international physical rights",
+    "Trade-related intellectual physical rights"
+   ],
+   "figure": null,
+   "answer": "(b) Trade-related intellectual property rights - one of the agreements of WTO; member countries must provide patent protection to all products or processes in all fields of technology.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Read the information given below and select the correct option\nA shoe manufacturer, M. Salim has to make a payment to the leather supplier and writes a cheque for a specific amount. This means that the shoe manufacturer instructs his bank to pay this amount to the leather supplier. The leather supplier takes this cheque and deposits it in his own account in the bank. The money is transferred from one bank account to another bank account in a couple of days. The transaction is complete without any payment of cash. What kind of payment system is indicated here?",
+   "options": [
+    "Cheque Payments",
+    "Loan activities of Bank",
+    "Demand Draft",
+    "Electronic payments"
+   ],
+   "figure": null,
+   "answer": "(a) Cheque Payments - a cheque is a paper instructing the bank to pay a specific amount from the person's account to the person in whose name the cheque has been issued.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Fill in the blank:\n\n| RESPONSIBILITY | SERVICES |\n|---|---|\n| Government-provided | Education, Administration, Transport |\n| Personal | ? |",
+   "options": [
+    "Fishing, Teaching, Gaming",
+    "Communication, Technology, Information",
+    "Transport, Trade, Storage",
+    "Eating out, Tourism, Shopping"
+   ],
+   "figure": null,
+   "answer": "(d) Eating out, Tourism, Shopping",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Choose the incorrect option from column A and column B:\n\n| Column A Category of person | Column B Developmental goals/Aspirations |\n|---|---|\n| (a) Landless rural labourers | (i) More days of work and better wages |\n| (b) Prosperous farmers from Punjab | (ii) Availability of other sources of irrigation |\n| (c) Farmers who depend only on rain for growing crops | (iii) Assured a higher support price for their crops |\n| (d) A rural woman from a landowning family | (iv) Regular job and high wages to increase her income |",
+   "options": [
+    "Only C",
+    "Only B",
+    "All of these",
+    "Both B and D"
+   ],
+   "figure": null,
+   "answer": "(b) Only B - a prosperous farmer from Punjab wants to assure a high family income through higher support prices for their crops (matching (iii)), not (ii) other sources of irrigation.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) Factors that crucial for the country's development | (i) Bank and Cooperatives |\n| (b) Formal sector of credit | (ii) A person who borrows money from the bank |\n| (c) Moneylenders | (iii) Cheap and affordable credit |\n| (d) Borrowers | (iv) a person who lends money which has to be paid back at a high rate of interest. |",
+   "options": [
+    "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)",
+    "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)",
+    "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+    "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)"
+   ],
+   "figure": null,
+   "answer": "(b) (a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Read the information given below and select the correct option\nKamal is a daily wage labourer in a nearby grocery shop. He goes to the shop at 7:30 in the morning and works till 8:00 p.m. in the evening. He gets no other allowances apart from his wages. He is not paid for the days he does not work. He has, therefore, no leave or paid holidays. Nor was he given any formal letter saying that he has been employed in the shop. He can be asked to leave anytime with his employer. In which sector Kamal is engaged? Tick the most appropriate option.",
+   "options": [
+    "Organised Sector",
+    "Public Sector",
+    "Unorganised Sector",
+    "Primary Sector"
+   ],
+   "figure": null,
+   "answer": "(c) Unorganised Sector - small and scattered units largely outside government control; jobs are low-paid, not regular, no overtime, paid leave or holidays, and employment is not secure.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "What were the reasons for putting barriers to foreign trade and foreign investment by the Indian government? Why did it wish to remove these barriers?",
+   "options": null,
+   "figure": null,
+   "answer": "Barriers were put to protect domestic producers from foreign competition, especially when industries had just begun to come up in the 1950s and 1960s. After independence imports had exceeded exports and the country was in huge debt, so the government decided to minimise imports and foreign investment and maximise exports. Competition from imports (except essential goods) would have given a death blow to growing industries. The policy was changed in 1991 because:\ni. The government felt that domestic producers were now ready to compete with foreign industries.\nii. Foreign competition would improve the quality of goods and services produced by Indian industries.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "'Credit has its own unique role for development'. Justify the statements with argument.",
+   "options": null,
+   "figure": null,
+   "answer": "Credit is an agreement in which the lender supplies the borrower with money, goods and services in return for the promise of future payment. Its unique role in development:\ni. Credit helps to increase earning, so a person is better off than before. Cheap and affordable credit leads to higher incomes and many people can borrow cheaply for a variety of needs.\nii. Farmers can buy agricultural inputs with credit or set up small scale and cottage industries.\niii. Credit helps to earn money as well as capital for the future.\niv. Credit helps in the development of the infrastructure of society; people can set up new industries or trade, which leads to the development of the country.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch18_Economics_Development",
+   "text": "\"For development, people look at a mix of goals\". Support the statement with three suitable examples.",
+   "options": null,
+   "figure": null,
+   "answer": "Income is not the only factor leading to development; other factors like freedom, respect, peace and harmony are as important.\ni. If women are engaged in paid work, their dignity in the household and society increases - so besides income, dignity is an important goal.\nii. If there is respect for women, there would be more sharing of housework and greater acceptance of women working outside.\niii. A safe and secure environment may allow more women to take up a variety of jobs or run a business. These are goals other than income; development is not only better income but also other important things in life like human values.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "Explain the inter-relationship between agriculture and industry.",
+   "options": null,
+   "figure": null,
+   "answer": "Agriculture and industry are closely interlinked and support each other's growth. Agriculture provides essential raw materials such as sugarcane, tea, cotton and jute to various industries; these agro-based industries in turn boost agricultural productivity by ensuring a stable demand for farm produce. Industries supply farmers with crucial inputs like irrigation pumps, fertilisers, insecticides, pesticides, PVC pipes, machines and modern tools that make farming more efficient and productive. The growth and competitiveness of the manufacturing sector further strengthens agriculture by improving technology, reducing labour and increasing output. Thus agriculture and industry move hand in hand.",
+   "or": {
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "Describe the employment conditions prevailing in the unorganised sector of the economy.",
+    "answer": "i. There are rules and regulations but these are not followed.\nii. Jobs are not secured.\niii. Jobs are low paid.\niv. No provisions for overtime, holidays, sick leaves etc.\nv. People can be asked to leave without any reason.\nvi. They are largely outside the control of government.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  }
+ ]
+}

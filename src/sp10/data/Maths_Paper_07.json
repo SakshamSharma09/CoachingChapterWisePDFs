@@ -1,0 +1,705 @@
+{
+ "subject": "Maths",
+ "paper": "Paper_07",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "What is the largest number that divides each one of 1152 and 1664 exactly?",
+   "options": [
+    "64",
+    "128",
+    "32",
+    "256"
+   ],
+   "figure": null,
+   "answer": "(b) 128 — The required number is HCF(1152, 1664). $1152=2^7\\times3^2$ and $1664=2^7\\times13$, so HCF $=2^7=128$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "Graph of a polynomial $p(x)$ is given in the figure. The number of zeroes of $p(x)$ is:",
+   "options": [
+    "2",
+    "5",
+    "3",
+    "4"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(a) 2 — The graph of p(x) intersects the x-axis at two distinct points, hence two zeroes.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "A system of linear equations is said to be consistent, if it has",
+   "options": [
+    "exactly one solution",
+    "one or many solutions",
+    "no solution",
+    "two solutions"
+   ],
+   "figure": "fig_p02_1.png",
+   "answer": "(b) one or many solutions — A system is consistent if it has at least one solution (a unique solution, or infinitely many when the lines coincide). If it has no solution (parallel lines) it is inconsistent.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "The discriminant of the quadratic equation $bx^2 + ax + c = 0;\\ b \\neq 0$ is given by:",
+   "options": [
+    "$\\sqrt{a^2-4bc}$",
+    "$a^2-4bc$",
+    "$b^2-4ac$",
+    "$\\sqrt{b^2-4ac}$"
+   ],
+   "figure": null,
+   "answer": "(b) $a^2-4bc$ — here the coefficient of $x^2$ is b, of x is a and the constant is c, so $D=a^2-4bc$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "The next term of the A.P.: $\\sqrt{6}, \\sqrt{24}, \\sqrt{54}$ is:",
+   "options": [
+    "$\\sqrt{60}$",
+    "$\\sqrt{96}$",
+    "$\\sqrt{216}$",
+    "$\\sqrt{72}$"
+   ],
+   "figure": null,
+   "answer": "(b) $\\sqrt{96}$ — The terms are $\\sqrt6, 2\\sqrt6, 3\\sqrt6$ with common difference $\\sqrt6$, so the next term is $4\\sqrt6=\\sqrt{16\\times6}=\\sqrt{96}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "XOYZ is a rectangle with vertices X(-3, 0), O(0, 0), Y(0, 4) and Z(x, y). The length of its each diagonal is",
+   "options": [
+    "5 units",
+    "4 units",
+    "$x^2+y^2$ units",
+    "X"
+   ],
+   "figure": null,
+   "answer": "(a) 5 units — Diagonal $XY=\\sqrt{(-3-0)^2+(0-4)^2}=\\sqrt{9+16}=\\sqrt{25}=5$ units (the diagonals of a rectangle are equal).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "A line segment joining the points $P(-5, 11)$ and Q is divided internally by the point $M(2, -3)$ such that $PM : MQ = 7 : 2$. The coordinates of Q are:",
+   "options": [
+    "$(-7, 4)$",
+    "$\\left(\\frac{4}{9}, \\frac{1}{9}\\right)$",
+    "$(4, -7)$",
+    "$(27.5, -52)$"
+   ],
+   "figure": null,
+   "answer": "(c) $(4, -7)$ — (answer given without working in the paper). Check: with $Q(a,b)$, $2=\\frac{7a+2(-5)}{9}\\Rightarrow a=4$ and $-3=\\frac{7b+2(11)}{9}\\Rightarrow b=-7$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "In the given figure, $\\triangle ABC \\sim \\triangle QPR$. If $AC = 6$ cm, $BC = 5$ cm, $QR = 3$ cm and $PR = x$; then the value of x is:",
+   "options": [
+    "3.6 cm",
+    "2.5 cm",
+    "3.2 cm",
+    "10 cm"
+   ],
+   "figure": "fig_p03_0.png",
+   "answer": "(b) 2.5 cm — Since the triangles are similar, $\\frac{AC}{QR}=\\frac{BC}{PR}\\Rightarrow\\frac{6}{3}=\\frac{5}{x}\\Rightarrow x=\\frac{5\\times3}{6}=2.5$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, PA is a tangent from an external point P to a circle with centre O. If $\\angle AOP = 70^\\circ$, then the measure of $\\angle APO$ is:",
+   "options": [
+    "$90^\\circ$",
+    "$110^\\circ$",
+    "$20^\\circ$",
+    "$70^\\circ$"
+   ],
+   "figure": "fig_p03_1.png",
+   "answer": "(c) $20^\\circ$ — The radius is perpendicular to the tangent, so $\\angle PAO=90^\\circ$. In $\\triangle APO$: $90^\\circ+70^\\circ+\\angle APO=180^\\circ\\Rightarrow\\angle APO=20^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "How many tangents can be drawn to a circle from a point on it?",
+   "options": [
+    "Infinite",
+    "One",
+    "Two",
+    "Zero"
+   ],
+   "figure": null,
+   "answer": "(b) One — From a point on a circle exactly one tangent can be drawn (the line perpendicular to the radius at that point). Two tangents are possible from an outside point and none from an inside point.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "$2\\cos^2\\theta(1+\\tan^2\\theta)$ is equal to:",
+   "options": [
+    "2",
+    "3",
+    "0",
+    "1"
+   ],
+   "figure": null,
+   "answer": "(a) 2 — $2\\cos^2\\theta\\cdot\\sec^2\\theta=2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $x = a\\sin\\theta$ and $y = b\\cos\\theta$, then $b^2x^2 + a^2y^2$ is equal to:",
+   "options": [
+    "$a^2+b^2$",
+    "$a^2b^2$",
+    "$\\frac{a^2+b^2}{a^2b^2}$",
+    "1"
+   ],
+   "figure": null,
+   "answer": "(b) $a^2b^2$ — $b^2x^2+a^2y^2=a^2b^2\\sin^2\\theta+a^2b^2\\cos^2\\theta=a^2b^2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "The top of a broken tree has its top end touching the ground at a distance 15 m from the bottom, the angle made by the broken end with the ground is $30^\\circ$. Then length of broken part is",
+   "options": [
+    "$5\\sqrt{3}$ m",
+    "$\\sqrt{3}$ m",
+    "$10\\sqrt{3}$ m",
+    "10 m"
+   ],
+   "figure": null,
+   "answer": "(c) $10\\sqrt{3}$ m — Let the broken part be x. $\\cos30^\\circ=\\frac{15}{x}\\Rightarrow x\\times\\frac{\\sqrt3}{2}=15\\Rightarrow x=10\\sqrt3$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "If a sector of a circle has an area of $40\\pi$ sq. units and a central angle of $72^\\circ$, the radius of the circle is:",
+   "options": [
+    "100 units",
+    "$10\\sqrt{2}$ units",
+    "200 units",
+    "20 units"
+   ],
+   "figure": null,
+   "answer": "(b) $10\\sqrt{2}$ units — $\\frac{72}{360}\\pi r^2=40\\pi\\Rightarrow r^2=200\\Rightarrow r=10\\sqrt2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The angle of the major sector and the corresponding minor sector of a circle are",
+   "options": [
+    "Complementary Angles",
+    "Reflex Angles",
+    "Supplementary Angles",
+    "Conjugate Angles"
+   ],
+   "figure": null,
+   "answer": "(d) Conjugate Angles — they add up to $360^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "Cards bearing numbers 3 to 20 are placed in a bag and mixed thoroughly. A card is taken out of the bag at random. What is the probability that the number on the card taken out is an even number?",
+   "options": [
+    "$\\frac{9}{17}$",
+    "$\\frac{5}{9}$",
+    "$\\frac{1}{2}$",
+    "$\\frac{7}{18}$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\frac{1}{2}$ — Total cards = 18. Even numbers 4, 6, 8, 10, 12, 14, 16, 18, 20: 9 cards. $P=\\frac{9}{18}=\\frac12$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "A dice is thrown once. The probability of getting an odd number is",
+   "options": [
+    "$\\frac{2}{6}$",
+    "$\\frac{4}{6}$",
+    "1",
+    "$\\frac{1}{2}$"
+   ],
+   "figure": null,
+   "answer": "(d) $\\frac{1}{2}$ — Odd numbers 1, 3, 5: $\\frac{3}{6}=\\frac12$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "Find the value of p, if the mean of the following data is 20.\n| $x_i$ | 15 | 17 | 19 | 20 + p | 23 |\n|---|---|---|---|---|---|\n| $f_i$ | 2 | 3 | 4 | 5p | 6 |",
+   "options": [
+    "2",
+    "10",
+    "1",
+    "4"
+   ],
+   "figure": null,
+   "answer": "(c) 1 — $\\sum f_i=15+5p$; $\\sum f_ix_i=30+51+76+5p(20+p)+138=295+100p+5p^2$. Mean $=20\\Rightarrow20(15+5p)=295+100p+5p^2\\Rightarrow300+100p=295+100p+5p^2\\Rightarrow p^2=1\\Rightarrow p=1$ (as $p\\neq-1$).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "Assertion (A): In the given figure, a toy is in the form of a cylinder surmounted by a hemisphere of the same radius. If the radius of the cylinder is 3 cm and its height is 7 cm, then the volume of toy is $81\\pi\\ \\mathrm{cm}^3$.\nReason (R): Volume of the given solid is the sum of the volume of the cylinder and the volume of the hemisphere.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": "fig_p04_0.png",
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. (Volume $=\\pi r^2h+\\frac23\\pi r^3=63\\pi+18\\pi=81\\pi\\ \\mathrm{cm^3}$.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Assertion (A): The sum of the first n terms of an AP is given by $S_n = 3n^2 - 4n$. Then its nth term $a_n = 6n - 7$\nReason (R): nth term of an AP, whose sum to n terms is $S_n$, is given by $a_n = S_n - S_{n-1}$",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. $a_n=S_n-S_{n-1}=3n^2-4n-3(n-1)^2+4(n-1)=6n-7$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Evaluate: $\\frac{5\\cos^260^\\circ+4\\sec^230^\\circ-\\tan^245^\\circ}{\\sin^230^\\circ+\\cos^230^\\circ}$",
+   "options": null,
+   "figure": null,
+   "answer": "$=\\frac{5\\left(\\frac12\\right)^2+4\\left(\\frac{2}{\\sqrt3}\\right)^2-1}{\\left(\\frac12\\right)^2+\\left(\\frac{\\sqrt3}{2}\\right)^2}=\\frac{\\frac54+\\frac{16}{3}-1}{\\frac14+\\frac34}=\\frac{\\frac{15+64-12}{12}}{1}=\\frac{67}{12}$.",
+   "or": {
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "Prove that: $\\frac{\\sin\\theta-\\cos\\theta+1}{\\cos\\theta+\\sin\\theta-1}=\\frac{1}{\\sec\\theta-\\tan\\theta}$",
+    "options": null,
+    "figure": null,
+    "answer": "LHS $=\\frac{\\sin\\theta-\\cos\\theta+1}{\\sin\\theta+\\cos\\theta-1}$. Dividing numerator and denominator by $\\cos\\theta$: $=\\frac{\\tan\\theta-1+\\sec\\theta}{\\tan\\theta+1-\\sec\\theta}=\\frac{(\\tan\\theta+\\sec\\theta)-1}{(\\tan\\theta-\\sec\\theta)+1}$. Multiply and divide by $(\\tan\\theta-\\sec\\theta)$: $=\\frac{(\\tan^2\\theta-\\sec^2\\theta)-(\\tan\\theta-\\sec\\theta)}{\\{(\\tan\\theta-\\sec\\theta)+1\\}(\\tan\\theta-\\sec\\theta)}=\\frac{-1-\\tan\\theta+\\sec\\theta}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}=\\frac{-(\\tan\\theta-\\sec\\theta+1)}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}=\\frac{-1}{\\tan\\theta-\\sec\\theta}=\\frac{1}{\\sec\\theta-\\tan\\theta}$ = RHS."
+   },
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Prove that $2+3\\sqrt{3}$ is an irrational number. It is given that $\\sqrt{3}$ is an irrational number.",
+   "options": null,
+   "figure": null,
+   "answer": "Assume $2+3\\sqrt3$ is rational: $2+3\\sqrt3=\\frac pq$, with p, q integers, $q\\neq0$. Then $\\sqrt3=\\frac{p-2q}{3q}$. The RHS is rational but $\\sqrt3$ is irrational, a contradiction. Hence $2+3\\sqrt3$ is irrational.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Triangles",
+   "text": "In the given figure, CM and RN are respectively the medians of $\\triangle ABC$ and $\\triangle PQR$. If $\\triangle ABC\\sim\\triangle PQR$, then prove that $\\triangle AMC\\sim\\triangle PNR$.",
+   "options": null,
+   "figure": "fig_p05_0.png",
+   "answer": "Since $\\triangle ABC\\sim\\triangle PQR$: $\\angle A=\\angle P$ and $\\frac{AB}{PQ}=\\frac{BC}{QR}=\\frac{AC}{PR}$. As CM and RN are medians, $AB=2AM$ and $PQ=2PN$, so $\\frac{2AM}{2PN}=\\frac{AC}{PR}\\Rightarrow\\frac{AM}{PN}=\\frac{AC}{PR}$. With $\\angle A=\\angle P$, by SAS similarity $\\triangle AMC\\sim\\triangle PNR$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "Find the perimeter of the shaded region if ABCD is a square of side 21 cm and APB and CPD are semicircles. ($\\pi=\\frac{22}{7}$)",
+   "options": null,
+   "figure": "fig_p05_1.png",
+   "answer": "Radius of each semicircle $r=\\frac{21}{2}$ cm. Perimeter of shaded region $=AD+BC+$ arcs of the semicircles APB and CPD $=21+21+2(\\pi r)=42+2\\left(\\frac{22}{7}\\times\\frac{21}{2}\\right)=42+66=108$ cm.",
+   "or": {
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "text": "A horse is tethered to one corner of a rectangular field of dimensions 70 m $\\times$ 52 m, by a rope of length 21 m. How much area of the field can it graze?",
+    "options": null,
+    "figure": null,
+    "answer": "The area grazed is a quadrant of a circle of radius 21 m: $\\frac14\\pi r^2=\\frac14\\times\\frac{22}{7}\\times21^2=\\frac{693}{2}=346.5\\ \\mathrm{m^2}$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "text": "If the angle between two tangents drawn from an external point P to a circle of radius a and centre O, is $60^\\circ$ then find the length of OP.",
+   "options": null,
+   "figure": null,
+   "answer": "Tangents from an external point are equally inclined to the line joining the centre to that point, so $\\angle TPO=30^\\circ$ (half of $60^\\circ$). $OT\\perp TP$. In right $\\triangle TPO$: $\\sin30^\\circ=\\frac{OT}{OP}\\Rightarrow\\frac12=\\frac{a}{OP}\\Rightarrow OP=2a$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Prove that $7\\sqrt{2}$ is an irrational number, given that $\\sqrt{2}$ is an irrational number.",
+   "options": null,
+   "figure": null,
+   "answer": "Assume $7\\sqrt2$ is rational: $7\\sqrt2=\\frac ab$, where a, b are integers with no common factor other than 1, $b\\neq0$. Then $\\sqrt2=\\frac{a}{7b}$. Since a, 7 and b are integers, $\\frac a{7b}$ is rational, so $\\sqrt2$ would be rational, contradicting the fact that $\\sqrt2$ is irrational. Hence $7\\sqrt2$ is irrational.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Polynomials",
+   "text": "If $\\alpha$ and $\\beta$ are the zeroes of the polynomial $p(x)=x^2-(k+5)x+(5k+1)$ such that $\\alpha+\\beta=\\frac{\\alpha\\beta}{3}$, then find the value of k.",
+   "options": null,
+   "figure": null,
+   "answer": "$\\alpha+\\beta=k+5$ and $\\alpha\\beta=5k+1$. Given $\\alpha+\\beta=\\frac{\\alpha\\beta}{3}$: $k+5=\\frac{5k+1}{3}\\Rightarrow3k+15=5k+1\\Rightarrow k=7$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove that: $\\frac{1}{\\mathrm{cosec}A-\\cot A}-\\frac{1}{\\sin A}=\\frac{1}{\\sin A}-\\frac{1}{\\mathrm{cosec}A+\\cot A}$.",
+   "options": null,
+   "figure": null,
+   "answer": "The identity is equivalent to $\\frac{1}{\\mathrm{cosec}A-\\cot A}+\\frac{1}{\\mathrm{cosec}A+\\cot A}=\\frac{2}{\\sin A}$. LHS $=\\frac{(\\mathrm{cosec}A+\\cot A)+(\\mathrm{cosec}A-\\cot A)}{(\\mathrm{cosec}A-\\cot A)(\\mathrm{cosec}A+\\cot A)}=\\frac{2\\,\\mathrm{cosec}A}{\\mathrm{cosec}^2A-\\cot^2A}=\\frac{2\\,\\mathrm{cosec}A}{1}=\\frac{2}{\\sin A}$ = RHS. Hence proved.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "A sum of ₹2,000 is invested at 7% per annum simple interest. Calculate the interests at the end of 1st, 2nd and 3rd year. Do these interests form an AP? If so, find the interest at the end of the 27th year.",
+   "options": null,
+   "figure": null,
+   "answer": "Interest at the end of 1st year $=\\frac{2000\\times7\\times1}{100}=₹140$; 2nd year $=₹280$; 3rd year $=₹420$. The list 140, 280, 420, ... is an AP with $a=140$, $d=140$. Interest at the end of the 27th year $=140+26\\times140=₹3780$.",
+   "or": {
+    "chapter": "Ch05_Arithmetic_Progressions",
+    "text": "If $S_n$ denotes the sum of the first n terms of an A.P. prove that $S_{12}=3(S_8-S_4)$.",
+    "options": null,
+    "figure": null,
+    "answer": "$S_{12}=6[2a+11d]=12a+66d$; $S_8=4[2a+7d]=8a+28d$; $S_4=2[2a+3d]=4a+6d$. $3(S_8-S_4)=3[(8a+28d)-(4a+6d)]=3[4a+22d]=12a+66d=S_{12}$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch13_Statistics",
+   "text": "A class teacher has the following absentee record of 40 students of a class for the whole term. Find the mean number of days a student was absent\n| Number of Days | 0-6 | 6-12 | 12-18 | 18-24 | 24-30 | 30-36 | 36-42 |\n|---|---|---|---|---|---|---|---|\n| Number of students | 10 | 11 | 7 | 4 | 4 | 3 | 1 |",
+   "options": null,
+   "figure": null,
+   "answer": "Class marks $x_i$: 3, 9, 15, 21, 27, 33, 39; $f_ix_i$: 30, 99, 105, 84, 108, 99, 39. $\\sum f_i=40$, $\\sum f_ix_i=564$. Mean $=\\frac{564}{40}=14.1$ days.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "Prove that a rectangle circumscribing a circle is a square.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the circle touch the sides AB, BC, CD, DA of rectangle ABCD at P, Q, R, S. Tangents from an external point are equal: $AP=AS$, $BP=BQ$, $DR=DS$, $CR=CQ$. Adding, $AB+CD=BC+AD$. In a rectangle $AB=CD$ and $BC=AD$, so $2AB=2AD\\Rightarrow AB=AD$. Hence ABCD is a square.",
+   "or": {
+    "chapter": "Ch10_Circles",
+    "text": "In the given figure, a circle is inscribed in a quadrilateral ABCD in which $\\angle B=90^\\circ$. If $AD=17$ cm, $AB=20$ cm and $DS=3$ cm, then find the radius of the circle.",
+    "options": null,
+    "figure": "fig_p06_0.png",
+    "answer": "$DR=DS=3$ cm (tangents from D). $AR=AD-DR=17-3=14$ cm, so $AQ=AR=14$ cm. $QB=AB-AQ=20-14=6$ cm. Since OPBQ is a square (angle B = 90 degrees, OP = OQ = r), $r=QB=6$ cm."
+   },
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "The shadow of a tower standing on a level ground is found to be 40 m longer when the Sun's altitude is $30^\\circ$ than when it was $60^\\circ$. Find the height of the tower and the length of original shadow. (use $\\sqrt{3}=1.73$)",
+   "options": null,
+   "figure": null,
+   "answer": "Let AB = h be the tower, $AC=x$ the shadow when the altitude is $60^\\circ$, and $AD=x+40$ when it is $30^\\circ$. In $\\triangle BAD$: $\\tan30^\\circ=\\frac{h}{x+40}\\Rightarrow x+40=h\\sqrt3$ ...(i). In $\\triangle BAC$: $\\tan60^\\circ=\\frac hx\\Rightarrow h=x\\sqrt3$ ...(ii). From (i) and (ii): $x+40=3x\\Rightarrow x=20$, $h=20\\sqrt3=34.6$ m. Original shadow = 20 m, height of tower = 34.6 m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch13_Statistics",
+   "text": "Find the mean and the median of the following data:\n| Marks | Number of Students |\n|---|---|\n| 0 - 10 | 3 |\n| 10 - 20 | 5 |\n| 20 - 30 | 16 |\n| 30 - 40 | 12 |\n| 40 - 50 | 13 |\n| 50 - 60 | 20 |\n| 60 - 70 | 6 |\n| 70 - 80 | 5 |",
+   "options": null,
+   "figure": null,
+   "answer": "Take $a=35$, $h=10$, $u=\\frac{x-35}{10}$. $x$ = 5, 15, 25, 35, 45, 55, 65, 75; $u$ = -3, -2, -1, 0, 1, 2, 3, 4; $fu$ = -9, -10, -16, 0, 13, 40, 18, 20; $\\sum f=80$, $\\sum fu=56$; cf = 3, 8, 24, 36, 49, 69, 75, 80. Mean $=35+10\\times\\frac{56}{80}=42$. $\\frac N2=40$, so the median class is 40-50 with $l=40$, $cf=36$, $f=13$, $h=10$: Median $=40+\\frac{40-36}{13}\\times10=40+\\frac{40}{13}\\approx43.08$ (the official solution writes this as 43).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "A motor boat whose speed is 18 km/h in still water takes 1 hour more to go 24 km upstream, than to return to the same point. Find the speed of the stream and total time of the journey.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the speed of the stream be x km/h. Upstream time $t_1=\\frac{24}{18-x}$, downstream time $t_2=\\frac{24}{18+x}$, and $t_1=t_2+1$. $\\frac{24}{18-x}-\\frac{24}{18+x}=1\\Rightarrow\\frac{48x}{(18-x)(18+x)}=1\\Rightarrow x^2+48x-324=0\\Rightarrow(x+54)(x-6)=0$. Speed cannot be negative, so $x=6$ km/h. Total time $=\\frac{24}{12}+\\frac{24}{24}=2+1=3$ hours.",
+   "or": {
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "text": "If the difference between the radii of the smaller circle and the larger circle is 7 cm and the difference between the areas of the two circles is 1078 sq. cm. Find the radius of the smaller circle.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the radii be r (smaller) and R (larger): $R-r=7$ ...(i). $\\pi(R^2-r^2)=1078\\Rightarrow\\frac{22}{7}(R+r)(R-r)=1078\\Rightarrow\\frac{22}{7}(R+r)\\times7=1078\\Rightarrow R+r=49$ ...(ii). Subtracting (i) from (ii): $2r=42\\Rightarrow r=21$. The radius of the smaller circle is 21 cm."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "A bat manufacturing company made a huge bat for charity and got it signed by world cup winning team.\nThe dimensions of the bat which is in the form of a cuboid with a cylindrical handle at the top are as follows:\nlength = 2 m, width = 0.5 m, thickness = 0.1 m\ndiameter of cylindrical part = 0.1 m\nheight of cylindrical part = 0.7 m\nFind the volume of wood used in the bat. Also, find the total surface area of the wooden bat.",
+   "options": null,
+   "figure": null,
+   "answer": "Radius of cylindrical part $=0.05$ m. Volume of wood = volume of cuboid + volume of cylinder $=2\\times0.5\\times0.1+\\frac{22}{7}\\times0.05\\times0.05\\times0.7=0.1+0.0055=\\frac{211}{2000}=0.1055\\ \\mathrm{m^3}$. Total surface area = TSA of cuboid + CSA of cylinder $=2(2\\times0.5+0.5\\times0.1+0.1\\times2)+2\\times\\frac{22}{7}\\times0.05\\times0.7=2.5+0.22=\\frac{68}{25}=2.72\\ \\mathrm{m^2}$.",
+   "or": {
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "From one of the faces of a solid wooden cube of side 14 cm, maximum number of hemispheres of diameter 1.4 cm are scooped out. Find the total number of hemispheres that can be scooped out. Also, find the total surface area of the remaining solid.",
+    "options": null,
+    "figure": null,
+    "answer": "Number of hemispheres $=\\frac{14\\times14}{1.4\\times1.4}=100$. Total surface area of remaining solid = surface area of cube + curved surface area of 100 hemispheres $-$ area of 100 circles $=6\\times14\\times14+100\\times2\\times\\frac{22}{7}\\times0.7\\times0.7-100\\times\\frac{22}{7}\\times0.7\\times0.7=1176+308-154=1330\\ \\mathrm{cm^2}$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "A school is organizing a grand cultural event to show the talent of its students. To accommodate the guests, the school plans to rent chairs and tables from a local supplier. It finds that rent for each chair is ₹ 50 and for each table is ₹ 200. The school spends ₹ 30,000 for renting the chairs and tables. Also, the total number of items (chairs and tables) rented are 300.\nIf the school rents 'x' chairs and 'y' tables, answer the following questions:",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Write down the pair of linear equations representing the given information.",
+     "marks": 1,
+     "options": null,
+     "answer": "$x+y=300$ and $50x+200y=30000$ (i.e. $x+4y=600$)."
+    },
+    {
+     "text": "a. Find the number of chairs and number of tables rented by the school.",
+     "marks": 2,
+     "options": null,
+     "answer": "Solving $x+y=300$ and $x+4y=600$: $3y=300\\Rightarrow y=100$, $x=200$. The school rents 200 chairs and 100 tables.",
+     "or": {
+      "text": "b. If the school wants to spend a maximum of ₹ 27,000 on 300 items (tables and chairs), then find the number of chairs and tables it can rent.",
+      "answer": "$x+y=300$ and $50x+200y=27000$ (i.e. $x+4y=540$). Solving: $3y=240\\Rightarrow y=80$, $x=220$. The school can rent 220 chairs and 80 tables."
+     }
+    },
+    {
+     "text": "What is maximum number of tables that can be rented in ₹ 30,000 if no chairs are rented?",
+     "marks": 1,
+     "options": null,
+     "answer": "Number of tables $=\\frac{30000}{200}=150$."
+    }
+   ]
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch10_Circles",
+   "text": "In a Fine Arts class, students were asked to design triangular tiles in geometric pattern.\nNeelima made a circular design inside an equilateral triangle ABC. The radius of the circle is 4 cm. Observe the diagram and answer the following questions:",
+   "options": null,
+   "figure": "fig_p07_c.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Determine the length OB.",
+     "marks": 1,
+     "options": null,
+     "answer": "In $\\triangle ODB$ ($\\angle OBD=30^\\circ$, $OD=4$ cm): $\\sin30^\\circ=\\frac{4}{OB}\\Rightarrow OB=8$ cm."
+    },
+    {
+     "text": "Is $DE\\parallel CA$? Give reason for your answer.",
+     "marks": 1,
+     "options": null,
+     "answer": "Yes, $DE\\parallel CA$. $\\triangle ABC$ is equilateral and $AD\\perp BC$, so D is the mid-point of BC. Similarly E is the mid-point of AB. Hence $DE\\parallel CA$ (mid-point theorem)."
+    },
+    {
+     "text": "a. Write all angles of quadrilateral OEBD and show it is a cyclic quadrilateral.",
+     "marks": 2,
+     "options": null,
+     "answer": "$\\angle EBD=60^\\circ\\Rightarrow\\angle EOD=120^\\circ$; $\\angle OEB=\\angle ODB=90^\\circ$ (radius is perpendicular to the tangent at the point of contact). $\\angle OEB+\\angle ODB=90^\\circ+90^\\circ=180^\\circ$, so quadrilateral OEBD is cyclic.",
+     "or": {
+      "text": "b. Find the perimeter of $\\triangle ABC$. (Use $\\sqrt3=1.73$)",
+      "answer": "In $\\triangle OBD$: $\\cos30^\\circ=\\frac{BD}{8}\\Rightarrow BD=4\\sqrt3=6.92$ cm. $BC=2BD=13.84$ cm. Perimeter of $\\triangle ABC=3\\times13.84=41.52$ cm."
+     }
+    }
+   ]
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "In an examination hall, students are seated at a distance of 2 m from each other, to maintain the social distance due to CORONA virus pandemic. Let three students sit at points A, B and C whose coordinates are (4, -3), (7, 3) and (8, 5) respectively.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the distance between A and C?",
+     "marks": 1,
+     "options": null,
+     "answer": "$AC=\\sqrt{(8-4)^2+(5+3)^2}=\\sqrt{16+64}=\\sqrt{80}=4\\sqrt5$ units."
+    },
+    {
+     "text": "If an invigilator at point I, lying on the straight line joining B and C such that it divides the distance between them in the ratio of 1 : 2. Then what are the coordinates of I (invigilator)?",
+     "marks": 1,
+     "options": null,
+     "answer": "$B(7,3)$, $C(8,5)$, ratio 1:2: $x=\\frac{1\\times8+2\\times7}{3}=\\frac{22}{3}$, $y=\\frac{1\\times5+2\\times3}{3}=\\frac{11}{3}$. So $I=\\left(\\frac{22}{3},\\frac{11}{3}\\right)$."
+    },
+    {
+     "text": "What is the mid-point of the line segment joining A and C?",
+     "marks": 2,
+     "options": null,
+     "answer": "Mid-point of AC $=\\left(\\frac{8+4}{2},\\frac{5-3}{2}\\right)=(6,1)$.",
+     "or": {
+      "text": "What is the ratio in which B divides the line segment joining A and C?",
+      "answer": "Let B divide AC in the ratio $k:1$. $B=\\left(\\frac{8k+4}{k+1},\\frac{5k-3}{k+1}\\right)=(7,3)$. $\\frac{8k+4}{k+1}=7\\Rightarrow8k+4=7k+7\\Rightarrow k=3$ (check: $\\frac{5(3)-3}{4}=3$). The ratio is 3 : 1."
+     }
+    }
+   ]
+  }
+ ]
+}

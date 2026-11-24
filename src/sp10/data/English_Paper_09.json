@@ -1,0 +1,628 @@
+{
+ "subject": "English",
+ "paper": "Paper_09",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "Read the following passage carefully:\n\n1. Plastic pollution has become one of the most pressing environmental issues, as rapidly increasing production of disposable plastic products overwhelms the world's ability to deal with them. Plastic pollution is most visible in developing Asian and African nations, where garbage collection systems are often inefficient or nonexistent. But the developed world, especially in countries with low recycling rates, also has trouble properly collecting discarded plastics. Plastic trash has become so ubiquitous that it has prompted efforts to write a global treaty negotiated by the United Nations.\n\n2. Plastics made from fossil fuels are just over a century old. Production and development of thousands of new plastic products accelerated after World War II. It transformed the modern age so much that life without plastics is unrecognizable today. Plastics revolutionized medicine with life-saving devices, made space travel possible, lightened cars and jets - saving fuel and pollution - and saved lives with helmets, incubators, and equipment for clean drinking water.\n\n3. The conveniences plastics offer, however, led to a throw-away culture that reveals the material's dark side: today, single-use plastics account for 40 percent of the plastic produced every year. Many of these products, such as plastic bags and food wrappers, have a lifespan of mere minutes to hours, yet they may persist in the environment for hundreds of years.\n\n4. Most of the plastic trash in the oceans, Earth's last sink, flows from land. Trash is also carried to sea by major rivers, which act as conveyor belts, picking up more and more trash as they move downstream. Once at sea, much of the plastic trash remains in coastal waters. But once caught up in ocean currents, it can be transported around the world.\n\n5. Millions of animals are killed by plastics every year, from birds to fish to other marine organisms. Nearly 700 species, including endangered ones, are known to have been affected by plastics. Nearly every species of seabirds eats plastics. Most of the deaths of animals are caused by entanglement or starvation. Seals, whales, turtles, and other animals are strangled by abandoned fishing gear or discarded six-pack rings.\n\n6. The solution is to prevent plastic waste from entering rivers and seas in the first place, many scientists and conservationists - including the National Geographic Society - say. This could be accomplished with improved waste management systems and recycling, better product design that takes into account the short life of disposable packaging, and reduction in manufacturing of unnecessary single-use plastics.\n\nAnswer the following questions, based on the above passage:",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "subparts": [
+    {
+     "text": "I. Which of the following statements best describes the reason why plastic pollution has become one of the most pressing environmental issues? (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. Plastic trash collection systems have become inefficient or nonexistent.",
+      "B. Rapidly increasing production of disposable plastic products overwhelms the world's ability to deal with them.",
+      "C. Some plastics have a lifespan of mere minutes to hours, yet they may persist in the environment for hundreds of years.",
+      "D. The developed world, especially in countries with low recycling rates, has trouble properly collecting plastics."
+     ],
+     "answer": "(B) Rapidly increasing production of disposable plastic products overwhelms the world's ability to deal with them."
+    },
+    {
+     "text": "II. What is the tone of the writer in the given lines from paragraph 2? Rationalise your response in about 40 words. It transformed the modern age so much that life without plastics is unrecognizable today. (2 Marks)",
+     "marks": 2,
+     "options": null,
+     "answer": "The tone of the writer in the given lines is appreciative and positive. They highlight the transformative impact of plastics on modern life, emphasizing its indispensable role in various innovations and life-saving applications, indicating a positive view towards the advancements enabled by plastics."
+    },
+    {
+     "text": "III. The passage includes some words that are opposites of each other. From the sets (A) - (E) below, identify two sets of synonyms. (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. garbage and trash",
+      "B. starvation and strangled",
+      "C. disposable and reduction",
+      "D. persist and downstream",
+      "E. transformed and revolutionized"
+     ],
+     "answer": "(A) garbage and trash; (E) transformed and revolutionized"
+    },
+    {
+     "text": "IV. Complete the sentence appropriately: (1 Mark)\nThe writer says that most of the plastic trash is found in the Earth s last sink and the reason it is transported around the world is ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "that it gets caught up in ocean currents."
+    },
+    {
+     "text": "V. Based on the reading of the passage, examine, in about 40 words, the downside of the convenience that plastic offers. (2 Marks)",
+     "marks": 2,
+     "options": null,
+     "answer": "The downside of the convenience that plastic offers lies in its contribution to a throw-away culture, leading to significant environmental pollution. Single-use plastics, which account for 40 percent of annual plastic production, have very short lifespans yet can persist in the environment for hundreds of years, causing widespread damage to ecosystems and wildlife."
+    },
+    {
+     "text": "VI. Complete the sentence appropriately: (1 Mark)\nAccording to conservationists, the two ways in which most of the deaths of animals are caused are ____________.",
+     "marks": 1,
+     "options": null,
+     "answer": "entanglement or starvation."
+    },
+    {
+     "text": "VII. Based on the passage, how can we contibute to the reduction of plastic waste? (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. by internationalising the waste management system",
+      "B. by minimizing the use of single-use plastics",
+      "C. by not abandoning fishing gear",
+      "D. by not using helmets made of plastic"
+     ],
+     "answer": "(B) by minimizing the use of single-use plastics."
+    },
+    {
+     "text": "VIII. State one reason why plastic pollution is most visible in developing Asian and African nations. (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "One reason why plastic pollution is most visible in developing Asian and African nations is that garbage collection systems are often inefficient or nonexistent in these regions, leading to higher visibility of discarded plastics in the environment."
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "Read the passage given below:\n\n1. Increasing traffic congestion every year is causing increasing air pollution, wasting time and productivity and diverse respiratory diseases. Moreover, the cost of solving or reducing traffic congestion is enormous. However, neglecting the traffic jam problem would increase the social problems among citizens.\n\n2. The number of vehicles has increased considerably in the city in the past five years. Due to this increase, the city roads witness frequent traffic congestions, but above all, the vehicles emitting pollutants are affecting the environment adversely.\n\n3. The Capital's vehicular population saw an addition of more than five lakh vehicles last year, registering an increase of over 4%, according to the Delhi Economic Survey 2020-21.\n\n4. In spite of the largest road network, through metro and bus services in major cities the transport system is not being able to keep pace with the growing demand. Consequently, more and more people use their private vehicles, leading to increased congestion on the roads. In spite of these challenges, people in India prefer road travel over air and other means of travel. Citizens of Delhi/NCR have, time and again, pondered over the possibilities of how to reduce the traffic congestion in the city, especially during the peak hours. People should use public transport, the government must increase the facilities of public transport, people should avoid unnecessary collection of vehicles and should use carpool and vehicle sharing.\n\n5. What is required is the proper implementation of corrective measures by citizens to get an organized traffic management system.\n\nBased on your understanding of the passage, answer the questions given below:",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "subparts": [
+    {
+     "text": "I. Infer one reason for the following, based on information in paragraph 1. Reducing traffic congestion is not easy. (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "The cost of solving or reducing traffic congestion is enormous."
+    },
+    {
+     "text": "II. Select the appropriate option to complete the following sentence. The reasons for increased traffic congestion are ________. (1 Mark)\n1. use of private vehicles\n2. increase in demand for cars\n3. inability to keep pace with population control\n4. travelling by public transport\n5. emission of pollutants",
+     "marks": 1,
+     "options": [
+      "a. 4, 5",
+      "b. 1, 5",
+      "c. 1, 2",
+      "d. 2, 3"
+     ],
+     "answer": "c. 1, 2"
+    },
+    {
+     "text": "III. Complete the following analogy correctly with a word/phrase from the paragraph 5. (1)\norganized : chaotic : : lowest : ________\nClue : Just as organized is an antonym of chaotic, lowest is an antonym of ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "organized : chaotic : : lowest : peak"
+    },
+    {
+     "text": "IV. The vehicles emit pollutants which affect _______ badly (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "The vehicles emit pollutants which affect the environment badly."
+    },
+    {
+     "text": "V. Complete the following sentence. Use of public transport will reduce ________. (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "Use of public transport will reduce traffic congestion, air pollution, and the overall burden on the city's infrastructure."
+    },
+    {
+     "text": "VI. Select the appropriate option which states the methods of reducing traffic congestions. (1)\n(1) start car pooling\n(2) add electric buses\n(3) increase in public modes of transport\n(4) increase car collection points\n(5) increase taxation",
+     "marks": 1,
+     "options": [
+      "a. 1, 4, 5",
+      "b. 3 ,5",
+      "c. 2, 3, 4",
+      "d. 1, 3"
+     ],
+     "answer": "(d) 1, 3"
+    },
+    {
+     "text": "VII. Analyze the status of traffic between the years 2019-2022. (1)\n(Chart: traffic congestion 2019 - 56%, 2020 - 44%, 2021 - 48%, 2022 - 51%.)\nFor the visually challenged candidates only.\nWhat is required to get an organized traffic management system? (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "The provided data shows fluctuations in traffic congestion levels between 2019 and 2022: In 2019, traffic congestion was at its peak with 56%. However, in 2020, there was a significant decrease to 44% likely due to lockdowns and restrictions. In 2021, traffic congestion slightly increased to 48%. By 2022, congestion had risen again to 51%. Overall, despite variations, traffic congestion remained a persistent issue throughout these years, indicating the need for sustainable solutions to alleviate congestion and its associated problems.\nFor the visually challenged candidates only: To establish an organized traffic management system, it requires active citizen participation, adoption of carpooling and vehicle sharing, improved infrastructure, along with government initiatives to enhance public transportation facilities, synchronize traffic signals, implement technological solutions, conduct awareness campaigns, formulate supportive policies, conduct data analysis, and foster collaboration among stakeholders for effective implementation of corrective measures.",
+     "figure": "fig_p04_0.png"
+    },
+    {
+     "text": "VIII. Give the reasons for increase in vehicular congestion. (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "The increase in vehicular congestion is attributed to rising vehicle numbers, inadequate public transport infrastructure, preference for private vehicles due to inefficiencies in existing transport systems, insufficient carpooling and lack of effective traffic management measures in Delhi/NCR."
+    },
+    {
+     "text": "IX. Fill in the blank by selecting the correct option. (1)\nThere are ________ consequences of increasing vehicular congestion.",
+     "marks": 1,
+     "options": [
+      "a. beneficial",
+      "b. adverse",
+      "c. implicit",
+      "d. explicit"
+     ],
+     "answer": "(b) adverse"
+    },
+    {
+     "text": "X. Substitute the underlined word with ONE WORD similar in meaning in the following sentence. (1)\nCitizens of Delhi/NCR have time and time again pondered over the possibilities of how to reduce traffic congestion. (underlined word: pondered)",
+     "marks": 1,
+     "options": null,
+     "answer": "Citizens of Delhi/NCR have, time and again, contemplated over the possibilities of how to reduce the traffic congestion in the city, especially during the peak hours. (contemplated)"
+    }
+   ],
+   "note": "Sub-question VII has an alternative for visually challenged candidates, kept inside the same sub-question; its chart is the figure. In X the underlined word is not visible in the text layer (taken as 'pondered' from the answer)."
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "subparts": [
+    {
+     "text": "i. Fill in the blank by using the correct form of the word in the brackets, for the given portion of a letter.\nThank you for exceeding company expectations and ________ (inspire) your team with your spectacular work ethic.",
+     "marks": 1,
+     "options": null,
+     "answer": "inspiring"
+    },
+    {
+     "text": "ii. Identify the error and supply the correction for the following part of an advertisement of a web hosting site:\nOne of the world's most popular domain name seller provides fantastic web hosting packages as well\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: seller; Correction: sellers"
+    },
+    {
+     "text": "iii. Read the conversation between a policeman and a driver.\nComplete the sentence by reporting the reply correctly.\nPoliceman: Do you need any help to reach your destination?\nDriver: Yes, I am not sure which direction to take.\nThe policeman asked the driver whether he needed any help to reach his destination to which the driver replied ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "(in affirmative) that he was not sure which direction to take."
+    },
+    {
+     "text": "iv. \"I lost my book yesterday\", she said to her teacher.\nReported speech: ________",
+     "marks": 1,
+     "options": [
+      "a) She said to her teacher that I have lost my book the previous day.",
+      "b) To her teacher, she was admitted that she has lost her book the previous day.",
+      "c) She admitted losing her book to her teacher yesterday.",
+      "d) She admitted to her teacher that she had lost her book the previous day."
+     ],
+     "answer": "(d) She admitted to her teacher that she had lost her book the previous day."
+    },
+    {
+     "text": "v. Fill in the blank by choosing the correct option.\nGive me _________ (some / many / little) advice on how to improve my writing skills.",
+     "marks": 1,
+     "options": null,
+     "answer": "some"
+    },
+    {
+     "text": "vi. Identify the error and supply correction for the following sentence taken from a course's flyer:\nOur courses offer you concise training on individual growth and personal developments.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: developments; Correction: development"
+    },
+    {
+     "text": "vii. Select the option that identifies the error and supplies the correction for the following line, from a news report:\nThese exams open doors to higher education, improve employment opportunities and increase option.\n| Option no. | Error | Correction |\n|---|---|---|\n| A | these | this |\n| B | open | opens |\n| C | to | for |\n| D | option | options |",
+     "marks": 1,
+     "options": [
+      "A: these -> this",
+      "B: open -> opens",
+      "C: to -> for",
+      "D: option -> options"
+     ],
+     "answer": "(D) option - options"
+    },
+    {
+     "text": "viii. The committee is determined not to leave _____ they have finished the project.",
+     "marks": 1,
+     "options": [
+      "a) just as",
+      "b) by the time",
+      "c) since",
+      "d) until"
+     ],
+     "answer": "(d) until"
+    },
+    {
+     "text": "ix. Read the conversation between a hostess and a customer. Complete the sentence by filling in the blank based on the conversation:\nHostess: Wonderful to see you again, sir!\nCustomer: Thanks, I couldn't resist your delicious food.\nThe customer responded that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "that he couldn't resist the delicious food."
+    },
+    {
+     "text": "x. He said, \"Be quiet and listen to my words\".\nReported speech: ________",
+     "marks": 1,
+     "options": [
+      "a) He said they should be quiet and listen to his words.",
+      "b) He urged them to be quiet and listen to his words.",
+      "c) He urged them and said be quiet and listen to words.",
+      "d) He said you should be quiet and listen to my words."
+     ],
+     "answer": "(b) He urged them to be quiet and listen to his words."
+    },
+    {
+     "text": "xi. Complete the line from a self-awareness song, by filling the blank with the correct option.\n\"Where words come out from the depth of truth\nWhere tireless striving ________ its arms to ward perfection\nWhere the clear stream of reason ________ not ________ its way\nInto the dreary desert sand of dead habit.\"",
+     "marks": 1,
+     "options": [
+      "A. stretches, had lost",
+      "B. stretches, has lost",
+      "C. stretched, has lost",
+      "D. stretched, had lost"
+     ],
+     "answer": "B. stretches, has lost (the whole stanza describes the general situation, i.e., present state)"
+    },
+    {
+     "text": "xii. Identify the error and supply the correction, for the following:\nMumbai\nHI LIFE EXHIBITION\nThe finer fashion showcase of the season.\nUse the given format for your response.\n| error | correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: finer; Correction: finest"
+    }
+   ],
+   "note": "Twelve 1-mark tasks are printed; any ten are to be attempted (10 marks). In the PDF the option lists of iv, viii and x are displaced; they are placed with their questions here."
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "You have been reading incidents of foreign tourists being duped and cheated of their money and valuables, incidents of inhospitable behaviour and eve-teasing. As a concerned citizen, write a letter to the editor of a national daily expressing your views on the issue and also give suggestions on how to make your city a safer tourist destination.",
+   "options": null,
+   "figure": null,
+   "answer": "77, Kamla Nagar\nAgra\n7 September 2018\n\nThe Editor\nThe Times of India\nAgra\n\nSir,\n\nSubject: Inhospitable Behaviour Towards Tourists\n\nSince last few weeks, I've been reading incidents of foreign tourists being duped and cheated of their money, valuables by anti-social elements and eve-teased. I got to know that visiting India becoming a harrowing experience for the tourist. These people misbehave with them and show inhospitable behaviour towards them.\n\nThis gives a bad impression towards other countries. They leave a bad impact on the tourists which make them think once before they plan to visit our country. It is a blot to our country's name and fame.\n\nCitizens of the country are the true reflections of moral values followed by a nation. Such incidents must be stopped by the quick and early action of government authorities. The proper security should be provided to the tourist at all the tourist's destination. The government should try its level best to make our city a safer tourist place. I hope that immediate action will be taken by the concerned authority as soon as possible.\n\nThanking you,\nYours sincerely,\nXYZ.",
+   "or": {
+    "text": "You are Niharika, Incharge of the Neighbourhood Library for children. Write a letter to Manautal Publishers placing an order for books 2 sets each of Panchatantra and Amar Chitra Katha in about 120 words. Mention mode of payment, library discount and date of delivery.",
+    "options": null,
+    "figure": null,
+    "chapter": "SKILL_Writing",
+    "answer": "Neighbourhood Library,\nNew Delhi\nMarch 29, 2020\n\nThe Manager\nManautal Publishers,\nNew Delhi-6\n\nSubject - Placing the order for Books.\n\nRespected Sir,\n\nI, Niharika, as the librarian of the Neighbourhood Library want to place an order for a few new books for our library. We want to refill and update our library for the new session hence I wish to order the following books:\n\n| Name of the books | No. of Sets |\n|---|---|\n| Panchatantra (Hindi) | 2 Sets |\n| Amar Chitra Katha (Hindi) | 2 Sets |\n\nYou are requested to send the above items properly packed within one week of receiving this letter. Payment shall be made through a crossed cheque to the delivery person. I expect a reasonable 15% library discount would be adjusted in the invoice. Please note that delivery should be made latest by 10th April.\n\nThanking You.\nYours faithfully,\nNiharika Sharma\nLibrarian"
+   },
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "The given pie chart illustrates how internet users aged 15+ prefer to access the internet at home and in other places. Write an analytical paragraph using the information given in the pie-chart.\n\n(Pie chart: 30% on a smartphone, 27% on a laptop, 22% on a tablet, 18% on a desktop computer, 3% other.)",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": "The given pie chart illustrates how internet users aged 15+ prefer to access the internet at home or in other places.\nThe data shows that people aged 15 and over spend most of their time using electronic gadgets and going online accessing internet for different purposes.\nFrom the pie chart it is clear that the majority of people prefer to use smartphone that covers 30 per cent, which means that one third of the total young generation uses smartphones to go online. Laptops are also very popular as there is only three percent of difference between the two. As shown in the chart 27 per cent people prefer to use laptops to go online. 22 per cent prefer to use a tablet, whereas a desktop computer accounts for 18 per cent of users' preferred devices, and only a small minority of just 3% prefer a device other than these four main popular devices.\nTo conclude, it is clearly evident that the devices like laptops and tablets are the most popular choices, it shows that the majority of people access internet on portable devices. The desktop computer which is not so convenient to use is the least popular of the four main devices. It can be said that in the future we can expect to see even more and more people accessing the internet with smartphones as their preferred choice.",
+   "or": {
+    "text": "The given pie chart shows the favourite colors of students of a school. Study it carefully and write an analytical paragraph describing the given data, make comparisons wherever required.\n\n(Pie charts, total number of students = 1500 each boys and girls. Boys: Blue 25%, Red 25%, Black 20%, White 30%. Girls: Red 40%, Black 10%, Blue 20%, White 30%.)",
+    "options": null,
+    "figure": "fig_p07_1.png",
+    "chapter": "SKILL_Writing",
+    "answer": "The given pie charts show the colour preferences of students of a school. The preferred colours are blue red, black, white and the total number of students participated in the survey is 1500.\nThe most preferred colour by boys is white which consists of 30% of the total data. Red and blue stand at position two of favourite colours levelling it off at 25% each. And according to the given data black is the least preferred colour choice with only 20% boys preferring it.\nIf we look at the data of girls the majority preferred red colour which consists of 40% of total number. The next preferred colour is white which is chosen by 30% of girls. The least preferred choices are blue and black accounting for 20% and 10% respectively.\nSo to conclude the given data and draw comparison, it is evident that both the genders preferred different colours as their most favourite. The girls preferred red whereas the boys preferred white. However, the least preferred colour choice of both the genders is same which is colour black."
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch12_Footprints_The_Midnight_Visitor",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\ni. Read the following extracts and answer the question/complete the sentences that follow:\n\"You are disappointed\", Ausable said wheezily over his shoulder. \"You were told that I was a secret agent, a spy, dealing in espionage and danger. You wished to meet me because you are a writer, young and romantic. You envisioned mysterious figures in the night, the crack of pistols, drugs in the wine.\"",
+   "subparts": [
+    {
+     "text": "i. What makes Ausable comment to Fowler \"You are disappointed\"? (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "Fowler was disappointed to see Ausable because he had unrealistic views about secret agents.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "ii. Why did 'he' want to meet Ausable? (2)",
+     "marks": 2,
+     "options": null,
+     "answer": "Fowler wanted to meet him because he was a writer and wished to meet a real spy.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "iii. Complete the given sentence: (1)\nFowler was disappointed to meet Ausable because ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "He was disappointed to meet Ausable who looked ordinary, slow, sluggish and a very fat person who lived in a small room on the top floor of a cheap hotel.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "iv. What is the meaning of the word Espionage? (1)",
+     "marks": 1,
+     "options": [
+      "i. Finding out secret information",
+      "ii. Dealing with careless behaviour",
+      "iii. Ignorant about certain things",
+      "iv. Dealing indifferently"
+     ],
+     "answer": "(a) Finding out secret information",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    }
+   ],
+   "or": {
+    "chapter": "Ch01_A_Letter_to_God",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "text": "ii. Read the passages given below and answer the questions that follow:\nThe following Sunday Lencho came a bit earlier than usual to ask if there was a letter for him. It was the postman himself who handed the letter to him while the postmaster, experiencing the contentment of a man who has performed a good deed, looked on from his office. Lencho showed not the slightest surprise on seeing the money; such was his confidence - but he became angry when he counted the money. God could not have made a mistake, nor could he have denied Lencho what he had requested.",
+    "subparts": [
+     {
+      "text": "i. Why was Lencho not surprised on seeing the money? Answer in about 40 words. (2)",
+      "marks": 2,
+      "options": null,
+      "answer": "Lencho was not surprised at seeing the money because he was confident and had firm faith in God.",
+      "chapter": "Ch01_A_Letter_to_God"
+     },
+     {
+      "text": "ii. Complete the sentence with the appropriate option. Lencho became angry when he got the money because ________. (1)",
+      "marks": 1,
+      "options": [
+       "A. He was only given 70 pesos when he had asked for 100 pesos.",
+       "B. He wanted more money.",
+       "C. He wanted money directly from God.",
+       "D. He understood that The postmaster collected money for him."
+      ],
+      "answer": "(A) Lencho was angry because he requested 100 pesos from God and he got only 70 pesos.",
+      "chapter": "Ch01_A_Letter_to_God"
+     },
+     {
+      "text": "iii. Identify the irony used in the above stanza. (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "The irony of the situation was that the post office employees about whom Lencho complained to God thinking that they had stolen the money, actually made contributions to help him.",
+      "chapter": "Ch01_A_Letter_to_God"
+     },
+     {
+      "text": "iv. State any one inference about the postmaster from the given context: It was the postman himself who handed the letter to him while the postmaster, experiencing the contentment of a man who has performed a good deed, looked on from his office. (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "The Postmaster was a kind, generous, helpful, amiable and God-fearing man. He received a letter from Lencho which was written to God asking for hundred pesos so that he could sow his fields again. The postman felt sympathetic towards Lencho. He gave up a part of his salary and asked all other employees to help.",
+      "chapter": "Ch01_A_Letter_to_God"
+     }
+    ]
+   }
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch25_The_Trees",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\ni. Read the lines given below and answer the questions that follow:\nThe trees inside are moving out into the forest,\nthe forest that was empty all these days\nWhere no bird could sit\nno insect hide\nno sun bury its feet in shadow.",
+   "subparts": [
+    {
+     "text": "i. Complete the sentence appropriately. (1)\nIt is clear that Personification is the poetic device used for 'No sun bury its feet....' because (Clue: explain how personification applies here)",
+     "marks": 1,
+     "options": null,
+     "answer": "the sun, which is non-human, is attributed the human feature of having feet.",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "ii. State whether the following statement is True or False: (1)\nThe extract uses trees as a symbol for conservative people.",
+     "marks": 1,
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": "False - (Trees are symbolic of woman. Adrienne Rich is a feminist poet.)",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "iii. Select the appropriate option to complete the sentence, according to the extract. The idea of a forest that has been 'empty all these days' is ________. (1)",
+     "marks": 1,
+     "options": [
+      "A. unnatural",
+      "B. scary",
+      "C. magical",
+      "D. legendary"
+     ],
+     "answer": "Option A (Trees are an integral part of nature/forest. So, it is unnatural to depict treeless forest.)",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "iv. Which three things cannot happen in a treeless forest? (2)",
+     "marks": 2,
+     "options": null,
+     "answer": "A forest is a natural habitat for numerous birds and insects. When forests are cleared, no bird can make its nest, nor can insects hide in the bark of the trees and there's nothing to shade the area from sunlight.",
+     "chapter": "Ch25_The_Trees"
+    }
+   ],
+   "or": {
+    "chapter": "Ch27_The_Tale_of_Custard_the_Dragon",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "text": "ii. Read the extract given below and answer the questions that follow:\nSuddenly, suddenly they heard a nasty sound,\nAnd Mustard growled, and they all looked around.\nMeowch! cried Ink, and ooh! cried Belinda,\nFor there was a pirate, climbing in the window.",
+    "subparts": [
+     {
+      "text": "i. What can you infer from the repetition 'suddenly, suddenly' in the above extract? (1)",
+      "marks": 1,
+      "options": [
+       "a. There was an immediate change in the scene.",
+       "b. It focuses on the hasty attack and the loud noise.",
+       "c. It emphasises that an unexpected noise was heard.",
+       "d. It draws our attention to the loud cry that occurred."
+      ],
+      "answer": "(c) It emphasises that an unexpected noise was heard.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "ii. What did Mustard do when he heard a nasty sound? (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "Mustard growled when he heard a nasty sound.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "iii. Fill in the blank with one word. The rhyming scheme of the lines ________. (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "The rhyming scheme is a a b b.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "iv. The poet could have included a burglar or an intruder in the poem, but chose to include a pirate. Explain this choice. (2)",
+      "marks": 2,
+      "options": null,
+      "answer": "The poet chose a pirate over any burglar or a thief because a pirate looks evil and nasty. The way his leg crippled as one of them was of wood, pistol in both of his hands and a cutlass between his teeth was scarier than a burglar.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     }
+    ]
+   }
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+   "note": "Five 3-mark questions are printed; any four are to be attempted (12 marks).",
+   "subparts": [
+    {
+     "text": "i. Pranjal seemed to have a different level of enthusiasm compared to Rajvir when they both saw the tree plantation. Justify. (Glimpses of India) [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Pranjal and Rajvir had different levels of enthusiasm when they saw the tea plantation. Rajvir was very excited, as it was his first time seeing such a vast tea garden. He found it beautiful and unique, which made him eager to learn more about tea. On the other hand, Pranjal, who had grown up on a tea plantation, didn't share Rajvir's excitement. For him, the sight of the tea bushes was normal, as he was already used to it. He even mentioned that Assam had many such gardens, and Rajvir would see plenty more. This shows that Pranjal was not as fascinated by the plantation as Rajvir was because it was a part of his daily life.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "ii. What would the tiger do in the forest? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "In the forest, the tiger would walk freely without any foundation and terrify the villagers snarling around their houses. The tiger in the wild would be majestic. He would be free and lie under the shades and hunt for prey.",
+     "chapter": "Ch21_A_Tiger_in_the_Zoo"
+    },
+    {
+     "text": "iii. Justify the title of the play The Proposal with reference to the characters and plot. [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "The title \"The Proposal\" is apt because the play revolves around a marriage proposal that sets off a chain of comedic events. The characters - Chubukov, Lomov, and Natalya - are involved in a humorous misunderstanding over property boundaries and Lomov's hesitant proposal to Natalya. The title captures the central theme of courtship and the absurdity that ensues when emotions and egos clash.",
+     "chapter": "Ch09_The_Proposal"
+    },
+    {
+     "text": "iv. Why did Margot and Anne stay with their grandmother? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Anne and her sister Margot went to Aachen to stay with their grandmother, when their parents emigrated to Holland in 1933.",
+     "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+    },
+    {
+     "text": "v. Why does the poet of Fire and Ice hold with those who favour fire? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "The poet takes side with those who believe that the world will be destroyed by fire. Frost connects fire with desire. Desire indicates all kinds of greed and lust. According to the poet, desire is powerful and would bring a quick end. He believes that when a human's emotions overpower him, destruction is greater.",
+     "chapter": "Ch20_Fire_and_Ice"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+   "note": "Three 3-mark questions are printed; any two are to be attempted (6 marks).",
+   "subparts": [
+    {
+     "text": "i. What made Mrs. Pumphrey call the veterinary? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "The deteriorating condition of Mrs Pumphrey's pet Tricki' condition made her call the vet for help. Tricki had become fat and lazy. He just used to lie on his rug and pant. He also refused to eat food, even his favourite dishes. His vomiting bouts increased Mrs. Pumphrey's concern. Therefore, she sought James Herriot's intervention.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "ii. What were the reasons that Bholi's parents accepted Bishamber's proposal although it was not a proper match? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Bholi's parents accepted Bishamber's proposal although it was not a proper match because Bishamber Nath was a well-to-do grocer, a widower who had a house of his own and a big bank balance. Bishamber Nath was not aware of the 'flaws' of Bholi. When he proposed to Ramlal, he readily accepted fearing that if he rejected the proposal Bholi would remain unmarried all her life. She would then be a burden on her parents.",
+     "chapter": "Ch17_Footprints_Bholi"
+    },
+    {
+     "text": "iii. What did Griffin tell Mrs. Hall about his uncommon appearance? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Griffin told to Mrs. Hall that an accident had affected his face. So he had to cover it with bandages, false nose, and big bussy side-whiskers. He also mentioned that he did not want to be disturbed as he wanted to enjoy his solitude. Mrs. Hall believed him because there was no reason for not believing him.",
+     "chapter": "Ch14_Footprints_Footprints_Without_Feet"
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "options": null,
+   "figure": null,
+   "subparts": null,
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words\n\ni. The young seagull's parents wanted him to fly, like his brothers and sister. How could the young seagull's newly flying siblings (Brother 1, Brother 2 and Sister) have motivated him? Write a brief conversation among them.",
+   "answer": "Young seagull: Brother 1, I'm so hungry, kindly give me some food.\nBrother 1: I'm holding the food in my beak for you. But you will have to jump the ledge and take it.\nYoung seagull: I am scared! The sea below is so deep. I'll die.\nBrother 2: No, you won't. We birds learn flying only after jumping. See, how well I'm flying.\nYoung seagull: Are you sure, I won't fall into the sea?\nSister: Yes, Brother 2 is right. Would a sister ask her brother to do suicide? I am your sister. I am just speechless at your fear.\nYoung seagull: OK! I trust you. (The young seagull jumped off the ledge. He fell for hundred metres. Soon he began flying.)\nSister: See! didn't I tell you; you would fly?\nYoung seagull: (feeling elated) WOW! Success is just behind the daring. Thanks sister!",
+   "or": {
+    "chapter": "Ch20_Fire_and_Ice",
+    "text": "ii. How will the world end? Support your answer with scientific explanation. (Fire and Ice)",
+    "options": null,
+    "figure": null,
+    "answer": "According to the scientists, the reason for the destruction of the world will be either fiery core or the ice age. Some scientists believe that the world will be incinerated by its fiery core which means that there will be a time when the core of the earth will heat up to an extent that will burn everything on this globe and complete devastation will be witnessed. It may also be possible that an asteroid hits the core of the earth leading to its destruction. Whereas, others are convinced with a theory totally opposite to the previous one. The supporters of this theory say that a coming of the ice age would destroy all living things on the Earth's surface. It will happen when the temperature of the globe will go to the extreme lowest and everything will freeze leaving no sign of life on it."
+   }
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "options": null,
+   "figure": null,
+   "subparts": null,
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words.\n\ni. Imagine you're one of the columnists in a magazine. People write to you about their issues, seeking your advice.\nMatilda writes to you about the guilt she feels for having lost a necklace and how it changed the course of her life and her husband's. What would be your advice to her?",
+   "answer": "The Editor\nMr Jay,\nIt's a pleasure to write of my woes in your column. You are the best adviser to everybody's problems. You lent a patient ear to each of your guests. Now listen and be the best adviser to me.\nI am into depression mode as I recently lost a diamond necklace of my best friend which I had borrowed for a party. No amount of pacifying from my husband M Loisel could bring me out of this feeling. Though I was cynosure of everybody's eyes in the party. The loss of necklace brought it all down. After losing it, I got so worried as how I will face my friend now. All through this my husband has been very supportive of me, his immense love and faith me in me sailed me through this time. He did all in his capacity to get me out of it. To repay the necklace we borrowed her another necklace which has made our lives very difficult and we now live a life of penury with meager income to support us. How should I help myself to get out of this!\nMr. Jay: Well Matilda! Whatever happens, happens for the best. So put your worries across and think of your future ahead. You have suffered enough, now think of brighter side of life and learn from your mistakes. I am sure you will be out of it soon.",
+   "or": {
+    "chapter": "Ch11_Footprints_The_Thiefs_Story",
+    "text": "ii. Hari's character evolves from being deceitful and opportunistic to remorseful and seeking redemption. In the light of the above information, describe how his decision to return the money signifies a moral awakening in him and a newfound appreciation for Anil's kindness and mentorship. (The Thief's Story)",
+    "options": null,
+    "figure": null,
+    "answer": "In The Thief's Story, Hari, a 15-year-old experienced thief, initially displays deceit and opportunism, targeting simple people to satisfy his selfish motives. After stealing a bundle of notes from Anil, he reaches the railway station but deliberately misses his train, signalling the beginning of his moral reflection. Sitting in the rain, he feels guilty and realizes the impact of his betrayal on Anil, who had provided him with safety, guidance, and education. This moment of epiphany leads Hari to decide to return the money, marking a moral awakening. Upon his return, Anil's forgiveness and his offer of a regular salary deepen Hari's appreciation for Anil's kindness, mentorship, and the value of honesty, inspiring him to seek redemption."
+   }
+  }
+ ]
+}

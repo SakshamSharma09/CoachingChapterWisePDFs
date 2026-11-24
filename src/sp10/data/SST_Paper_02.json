@@ -1,0 +1,695 @@
+{
+ "subject": "SST",
+ "paper": "Paper_02",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Match the following:\n(a) James Augustus Hickey began to edit the Bengal Gazette. - (i) 1876\n(b) Martin Luther wrote Ninety Five Theses. - (ii) 1517\n(c) Marco Polo, a great explorer, returned to Italy. - (iii) 1780\n(d) Rashsundari Debi published Amar Jiban. - (iv) 1295",
+   "options": [
+    "(a) - (iii), (b) - (ii), (c) - (iv), (d) - (i)",
+    "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+    "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)",
+    "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+   ],
+   "figure": null,
+   "answer": "(a) (a) - (iii), (b) - (ii), (c) - (iv), (d) - (i).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Study the picture and answer the question that follows:\nWhich Indian National movement does the above image depict?",
+   "options": [
+    "Salt movement",
+    "Chauri Chaura movement",
+    "Khilafat movement",
+    "Civil disobedience movement"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(b) Chauri Chaura movement. At Chauri Chaura in Gorakhpur a peaceful demonstration in a bazaar turned into a violent clash with the police; hearing of it, Gandhiji called a halt to the Non-Cooperation Movement.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Muslim leaders and intellectuals were concerned about the status of Muslims as a minority within India, because:",
+   "options": [
+    "There were distrust and suspicion between the two communities",
+    "They feared that their culture and identity would be submerged under the domination of a Hindu majority",
+    "The Congress was not ready to grant them a separate electorate",
+    "Their leaders differed with the policies of the Congress"
+   ],
+   "figure": null,
+   "answer": "(b) They feared that their culture and identity would be submerged under the domination of a Hindu majority.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Read the information given below and select the correct option\nThe 1830s were years of great economic hardship in Europe. The first half of the nineteenth century saw an enormous increase in population all over Europe. In most countries, there were more seekers of jobs than employment. The population from rural areas migrated to the cities to live in overcrowded slums. Small producers in towns were often faced with stiff competition from imports of cheap machine-made goods from England, where industrialization was more advanced than on the continent. The above passage gives information about what?",
+   "options": [
+    "Hunger",
+    "Popular Revolt",
+    "Hardship",
+    "All of these"
+   ],
+   "figure": null,
+   "answer": "(d) All of these. Food shortages and widespread unemployment brought the population of Paris out on the roads in 1848; in 1845 weavers in Silesia had led a revolt against contractors who drastically reduced their payments.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_History_Making_of_a_Global_World",
+   "text": "In what ways did food items offer scope for long distance cultural exchange?",
+   "options": null,
+   "figure": null,
+   "answer": "Food offers many examples of long distance cultural exchange. Traders and travellers introduced new crops to the lands they travelled. It is believed that noodles travelled to the West from China to become spaghetti; Arab traders took pasta to Sicily (Italy) in the fifth century. Many common foods such as potatoes, soya, groundnuts, maize, tomatoes, chillies and sweet potatoes were not known in India until about five centuries ago; they were introduced in Europe and Asia after Columbus discovered America.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Write a note on Count Camillo de Cavour.",
+    "answer": "Count Camillo de Cavour was Chief Minister of the Sardinia-Piedmont state who led the movement to unify the regions of Italy. He was neither a revolutionary nor a democrat. Like many wealthy and educated members of the Italian elite, he spoke French much better than Italian. He engineered a careful diplomatic alliance with France, which helped Sardinia-Piedmont defeat the Austrian forces in 1859 and free the northern part of Italy from the Austrian Habsburgs.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Identify Cavour, telling the part played by him in the unification of Italy.",
+   "options": null,
+   "figure": null,
+   "answer": "The real credit for the unification of Italy goes to Cavour, who became Prime Minister of Sardinia in 1852. He dedicated himself to the independence and unification of Italy and took recourse to shrewd diplomacy. He took sides in many ways to attract other states like Lombardy, Modena, Parma and Tuscany to throw off the Austrian yoke and join Sardinia, and he unified the whole of Italy under Sardinia.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "\"The decade of 1830 had brought great economic hardship in Europe.\" Support the statement with arguments.",
+    "answer": "i. Enormous increase in population: the first half of the nineteenth century saw an enormous increase in population all over Europe.\nii. Unemployment and migration: in most countries there were more job seekers than employment; population from rural areas migrated to the cities to live in overcrowded slums.\niii. Stiff competition from imports: small producers in towns faced stiff competition from cheap machine-made goods from England, where industrialisation was more advanced.\niv. Widespread pauperism: the rise of food prices or a year of bad harvest led to widespread pauperism in town and country.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Analyse the role of women in Civil Disobedience Movement.",
+   "options": null,
+   "figure": null,
+   "answer": "Women played a pivotal and transformative role in the Civil Disobedience Movement. Their involvement marked a shift from traditional gender roles to active political participation. Women engaged in protests, salt marches and picketing, defying societal norms and British authorities alike. The movement provided a platform for women to demand their rights and highlight their contribution to the freedom struggle. Gandhiji emphasised their significance, leading to the emergence of women leaders such as Sarojini Naidu and Kamala Nehru. Moved by Gandhiji's call, they began to see service to the nation as a sacred duty of women. The movement paved the way for political equality and inspired later generations of Indian women to pursue broader societal and political roles.",
+   "or": {
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Workers of Assam had their own understanding of Mahatma Gandhi and the notion of Swaraj. Explain with examples.",
+    "answer": "i. For plantation workers in Assam, freedom meant the right to move freely in and out of the confined space in which they were enclosed.\nii. It meant retaining a link with the village from which they had come.\niii. Under the Inland Emigration Act of 1859 plantation workers were not allowed to leave the tea gardens without permission, and in reality were hardly ever granted it.\niv. When they heard of the Non-Cooperation Movement, thousands of workers defied the authorities, left the plantations and headed home.\nv. They believed that Gandhi Raj was coming and everyone would be given land in their own villages.\nvi. They never reached their destination: stranded by a railway and steamer strike, they were caught by the police and brutally beaten up.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Read the given source and answer the questions that follow:\nPrint and Censorship\nThe power of the printed word is most often seen in the way governments seek to regulate and suppress print. The colonial government kept continuous track of all books and newspapers published in India and passed numerous laws to control the press.\nDuring the First World War, under the Defence of India Rules, 22 newspapers had to furnish securities. Of these, 18 shut down rather than comply with government orders. The Sedition Committee Report under Rowlatt in 1919 further strengthened controls that led to imposition of penalties on various newspapers. At the outbreak of the Second World War, the 'Defence of India Act' was passed, allowing censoring of reports of war-related topics. All reports about the Quit India Movement came under its purview. In August 1942, about 90 newspapers were suppressed.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Why were newspapers suppressed in 1942?",
+     "marks": 1,
+     "options": null,
+     "answer": "To censor reports of war-related topics and control the expansion of the Quit India Movement."
+    },
+    {
+     "text": "How did the colonial government's policies affect nationalism?",
+     "marks": 1,
+     "options": null,
+     "answer": "Rules and policies that suppressed print strengthened control and led to the imposition of penalties under the Rowlatt Act (Sedition Committee report)."
+    },
+    {
+     "text": "Examine the role of the press in colonial India.",
+     "marks": 2,
+     "options": null,
+     "answer": "The press exposed the British repressive policies; promoted social reforms; played an important role in the exchange of ideas; spread the idea of nationalism (any two points)."
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where Jallianwala Bagh incident took place.\nb. The place where Indigo Planters started the Satyagraha. (Map task: the question carries an outline map of India; the answer is marked on the map.)",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "A - Amritsar; B - Champaran.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "An artificial lake built in the 11th century for water conservation is ________.",
+   "options": [
+    "Bhopal Lake",
+    "Wular Lake",
+    "Sambhar Lake",
+    "Chilka Lake"
+   ],
+   "figure": null,
+   "answer": "(a) Bhopal Lake.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following provisions of the Indian Wildlife Protection Act are applicable for maintaining ecological diversity and protecting habitats?\ni. Integrating diverse flora and fauna into our daily life.\nii. Banning hunting and giving legal protection to the animals in their habitats.\niii. Recommending establishing national parks and wildlife sanctuaries.\niv. Providing legal protection to many marine animals.",
+   "options": [
+    "Statement i, ii, & iii are correct.",
+    "Statement ii, iii & iv are correct.",
+    "Statement i and ii are correct.",
+    "Statement ii is correct."
+   ],
+   "figure": null,
+   "answer": "(b) Statement ii, iii & iv are correct. The Wild Life Protection Act (1972) provides for protection of the country's wild animals, birds and plant species for environmental and ecological security, and gives legal protection to many marine animals (31 major Marine Protected Areas).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Arrange the following in the correct sequence with decreasing order of producer of Aluminium industry in India:-\ni. Uttar Pradesh\nii. Chhattisgrah\niii. West Bengal\niv. Maharashtra",
+   "options": [
+    "iii, i, ii, iv",
+    "i, iii, iv, ii",
+    "iv, i, ii, iii",
+    "iv, i, iii, ii"
+   ],
+   "figure": null,
+   "answer": "(a) iii, i, ii, iv.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "According to National Forest Policy (1952), the desired forest area is 33 per cent of the geographical area. Read the following data and identify what percentage of the area was under forest cover during 1960-61.\n| General Land Use Categories | Percentage (1960-61) |\n|---|---|\n| Current Fallow | 3.73 |\n| Culturable Wasteland | 6.23 |\n| Barren and unculturable land | 18.11 |\n| Net Sown Area | 46.26 |\n| Forest Area | 18.11 |",
+   "options": [
+    "3.73",
+    "18.11",
+    "6.23",
+    "46.26"
+   ],
+   "figure": null,
+   "answer": "(b) 18.11 (the value given against Forest Area in the table).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Which country produces the largest rice in the world?",
+   "options": [
+    "China",
+    "Bangladesh",
+    "India",
+    "Japan"
+   ],
+   "figure": null,
+   "answer": "(a) China. India is the second largest producer of rice in the world after China.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "What is shown in the above picture?",
+   "options": [
+    "Kuls",
+    "Tankas",
+    "Khadins",
+    "Johads"
+   ],
+   "figure": "fig_p04_0.png",
+   "answer": "(a) Kuls. A kul leads to a circular village tank, as in Kaza village, from which water is released as and when required.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "Explain two important characteristics of Black soil.",
+   "options": null,
+   "figure": null,
+   "answer": "i. It is black in colour and is also known as regur soil.\nii. It is ideal for growing cotton and is also known as black cotton soil.\niii. Climatic conditions along with the parent rock material are the important factors for its formation.\niv. It is made up of extremely fine, i.e. clayey, material.\n(any two)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Describe the importance of minerals in human life.",
+   "options": null,
+   "figure": null,
+   "answer": "Minerals are an indispensable part of human life.\ni. Almost everything we use, from a tiny pin to a towering building or a big ship, is made from minerals.\nii. Railway lines, the tarmac of roads, implements and machinery are made from minerals.\niii. Cars, buses, trains and aeroplanes are manufactured from minerals and run on power resources derived from the earth.\niv. In all stages of development human beings have used minerals for livelihood, decoration, festivities, religious and ceremonial rites.\nv. Availability of minerals helps in the economic development of the country.\nvi. Our food too contains minerals.",
+   "or": {
+    "chapter": "Ch10_Geography_Minerals_and_Energy",
+    "text": "\"We have to use a planned and sustainable manner to conserve our minerals.\" Support the statement by giving suitable arguments.",
+    "answer": "Replenishing used resources is a slow process, as minerals take millions of years to form inside the earth; once exhausted they cannot be replaced quickly, so they are practically non-renewable. Judicious use of mineral resources is therefore essential to prevent wastage and over-exploitation and ensure future generations also have access to them.\nImproving mining technology enables efficient extraction of metals from low-grade ores at lower costs, reducing pressure on high-grade deposits and conserving energy.\nReusing and recycling metals such as iron, aluminium and copper conserves minerals by minimising the need for new mining while reducing pollution.\nEnforcing strict environmental laws and regulations is necessary to control illegal and harmful mining practices, safeguarding forests, land, water resources and public health.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "Read the given source and answer the questions that follow:\nSardar Sarovar\nSardar Sarovar Dam has been built over the Narmada River in Gujarat. This is one of the largest water resource projects of India covering four states - Maharashtra, Madhya Pradesh, Gujarat and Rajasthan. The Sardar Sarovar project would meet the requirement of water in drought-prone and desert areas. Sardar Sarovar Project will provide irrigation facilities to 18.45 lakh hectare of land, covering 3112 villages in 15 districts of Gujarat. It will also irrigate 2,46,000 hectare of land in the strategic desert districts of Barmer and Jalore in Rajasthan and 37,500 hectare land in the tribal hilly tract of Maharashtra through lift. About 75 per cent of the command area in Gujarat is drought-prone while entire command in Rajasthan is drought-prone. Assured water supply will soon make this area drought-proof.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Explain the importance of Sardar Sarovar Dam.",
+     "marks": 1,
+     "options": null,
+     "answer": "To meet the requirement of water in drought-prone and desert areas."
+    },
+    {
+     "text": "How does Sardar Sarovar Dam align with sustainable development?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Sardar Sarovar Project is a source of clean energy."
+    },
+    {
+     "text": "Examine the role of community participation in the success of the Sardar Sarovar Project.",
+     "marks": 2,
+     "options": null,
+     "answer": "The project covers four states - Maharashtra, Madhya Pradesh, Gujarat and Rajasthan; it provides irrigation facilities to 18.45 lakh hectare of land covering 3112 villages in 15 districts of Gujarat. (Answer as given in the marking scheme.)"
+    }
+   ]
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. An iron and Steel Plant in Jharkhand named after Jamshedji Tata.\nii. Thermal Power Plant in Andhra Pradesh named after Dr. NT Rao.\nII. Any two of the following:\niii. Ahmedabad - Cotton Textile Centre\niv. Noida - Software Technology Park\nv. Kochi - Sea-port (Map task: the question carries an outline map of India; the answer is marked on the map.)",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "i. Jamshedpur - Iron and Steel Plant.\nii. Vijayawada - Thermal Power Plant.\niii. Ahmedabad - Cotton Textile Centre.\niv. Noida - Software Technology Park.\nv. Kochi - Sea-port.\n(Marked answer map is given in the paper's solution; the marking scheme shows Jamshedpur and Vijayawada.)",
+   "or": null,
+   "subparts": null,
+   "answer_figure": "fig_p12_0.png",
+   "note": "Mixed-chapter map question (steel/textile/STP Ch11, thermal plant Ch10, sea-port Ch12); filed under Ch11."
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Modern democracies maintain check and balance system. Identify the correct option based on the horizontal power sharing arrangement.",
+   "options": [
+    "Among different social groups.",
+    "Among different pressure groups.",
+    "Legislature, executive, judiciary.",
+    "The central government, state government, local bodies"
+   ],
+   "figure": null,
+   "answer": "(c) Legislature, executive, judiciary. This is horizontal distribution of power because different organs of government placed at the same level exercise different powers; each organ checks the others, resulting in a balance of power.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Which of the following best signifies the given cartoon?",
+   "options": [
+    "Impact of Economic Depression on USA and Dollar",
+    "Inefficiency of government in the health sector",
+    "Discrimination between the ideologies of Political Parties",
+    "The disparities between the rich and poor."
+   ],
+   "figure": "fig_p05_0.png",
+   "answer": "(d) The disparities between the rich and poor.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Which of the following statements reflects a lack of internal democracy within a political party?\nStatement i: Parties do not keep membership registers, do not hold organisational meetings.\nStatement ii: They fail to conduct internal elections regularly.\nStatement iii: Top party leaders assume greater powers and make all the major decisions in the name of the party.\nStatement iv: The opinions of those who disagree with the leadership are considered and given due importance.",
+   "options": [
+    "Statement i and ii are right.",
+    "Statement iii is right.",
+    "Statement i, ii and iii are right.",
+    "Only statement iv is right."
+   ],
+   "figure": null,
+   "answer": "(c) Statement i, ii and iii are right. Since one or few leaders exercise paramount power, those who disagree find it difficult to continue in the party; personal loyalty to the leader becomes more important than loyalty to party principles.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Assertion (A): The tyranny of the majority community is oppressive for the minority.\nReason (R): It helps in making the political order more stable.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(c) A is true but R is false. The tyranny of the majority community is oppressive for the minority and can also ruin the majority; it is a source of dissatisfaction and tension, causing political instability and undermining national unity.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Federal form of government is in direct contrast to the Unitary form of government. Explain the statement.",
+   "options": null,
+   "figure": null,
+   "answer": "In a federal form of government the central government shares its powers with the various constituent units, whereas in a unitary form either there is only one level of government or the sub-units are subordinate to the central government.\nIn a federal government the central government cannot order the state government to do something, whereas in a unitary government the central government can pass orders to the provincial or local government.\nBoth governments in a federation are separately answerable to the people.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Suggest three steps to enhance the literacy rate among women in India.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Gender-inclusive education policies: prioritise girls' education, ensure equal access to quality schooling and promote female-friendly learning environments.\nii. Community awareness programmes: emphasise the value of women's education and remove societal and cultural barriers that prevent women from pursuing higher education.\niii. Adult literacy programmes: targeted literacy programmes for adult women, focusing on practical skills and relevant knowledge to empower them economically and socially.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Political parties play a major role in democracy. Explain any five points to justify this statement.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Parties contest elections: in most democracies elections are fought mainly among candidates put up by political parties.\nii. Parties put forward different policies and programmes and the voters choose from them.\niii. Parties play a decisive role in making laws for a country; they shape public opinion and raise and highlight issues.\niv. The opposition party's main function is to criticise the errors in the rules of the ruling party.\nv. Role of opposition: it voices different views and criticises the government for its failures or wrong policies.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "How is Democracy a better form of government in comparison to dictatorship? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Promotion of equality: people have the power to influence decisions; fundamental rights and equal rights for men and women are protected; discrimination is prohibited, unlike in dictatorships.\nii. Enhancing individual dignity: democracies prioritise individual freedom and dignity, fostering appreciation for liberty and respect.\niii. Improving decision-making: people choose their leaders and hold them accountable; citizens participate in decisions that affect them.\niv. Conflict resolution: democracies establish peaceful processes such as elections, reducing the likelihood of tensions escalating into violence.\nv. Deliberation: democracy is built on deliberation and negotiation; though this may cause delay, it results in more inclusive and efficient decisions.",
+   "or": {
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "Describe the role of citizens in a democracy.",
+    "answer": "i. A good democratic government is possible only if people are aware of their rights and duties; an enlightened citizen is the need of the hour.\nii. India follows representative democracy; people elect representatives to run the government. Elections for Central and State legislatures are normally held every five years (earlier if the government falls).\niii. With universal adult franchise, all citizens above eighteen have the right to vote; they must be aware of their representatives, policies and agendas.\niv. Citizens exercise their rights and freedoms and benefit from the democratic set-up.\nv. They must have a thorough knowledge of the Constitution.\nvi. They should be aware of the country's issues and actively give valuable feedback to the government.\nvii. They must cooperate in maintaining law and order.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Read the following text carefully and answer the questions that follow:\nBelgium is a small country in Europe, smaller in area than the state of Haryana. It has borders with France, the Netherlands, Germany and Luxembourg. It has a population of a little over one crore, about half the population of Haryana. The ethnic composition of this small country is very complex. Of the country's total population, 59 per cent lives in the Flemish region and speaks Dutch language. Another 40 per cent people live in the Wallonia region and speak French. Remaining one per cent of the Belgians speak German. In the capital city Brussels, 80 per cent of the people speak French while 20 per cent are Dutch-speaking.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Explain the ethnic composition of Belgium.",
+     "marks": 1,
+     "options": null,
+     "answer": "Of Belgium's total population, 59 per cent lives in the Flemish region and speaks Dutch; another 40 per cent live in the Wallonia region and speak French; the remaining one per cent speak German."
+    },
+    {
+     "text": "Explain the term ethnic.",
+     "marks": 1,
+     "options": null,
+     "answer": "A social division based on shared culture. People belonging to the same ethnic group believe in their common descent because of similarities of physical type or of culture or both; they need not always have the same religion or nationality."
+    },
+    {
+     "text": "How did the Belgian Government solve their ethnic problem? Explain.",
+     "marks": 2,
+     "options": null,
+     "answer": "1. The Constitution says the number of Dutch and French speaking ministers shall be equal in the Central government, so no single community can make decisions unilaterally.\n2. Many powers of the Central Government have been given to the state governments of the two regions, which are not subordinate to the Central government.\n3. Brussels has a separate government in which both communities have equal representation.\n4. There is a third kind of government, the community government, elected by people of one language community (Dutch, French, German speaking) no matter where they live. (Any two points.)"
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "The growth of digital technology has greatly influenced globalization. Which of the following is its main benefit?",
+   "options": [
+    "Increased Communication Cost",
+    "Limited Access to Information",
+    "Enhanced Connectivity",
+    "Slower Transaction Speed"
+   ],
+   "figure": null,
+   "answer": "(c) Enhanced Connectivity.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Rahul wants to buy a car but he does not have enough money. For this, he needs ₹ 1,00,000. From which of the following would it be appropriate for Rahul to take a loan?",
+   "options": [
+    "Relatives",
+    "Commercial bank",
+    "Trader",
+    "Moneylender"
+   ],
+   "figure": null,
+   "answer": "(b) Commercial bank.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "COMPARISON OF COUNTRIES\n| Country | Monthly incomes of citizens (in Rupees) I | II | III |\n|---|---|---|---|\n| A | 11,500 | 10,500 | 10,000 |\n| B | 5,500 | 7,500 | 19,000 |\n| C | 1,000 | 1,000 | 30,000 |\n| D | 3,500 | 3,500 | 25,000 |\nAs per the data given above in which country will the people prefer to live?",
+   "options": [
+    "Country A",
+    "Country B",
+    "Country D",
+    "Country C"
+   ],
+   "figure": null,
+   "answer": "(a) Country A. In Country A people are neither very rich nor extremely poor, so it is preferred as it has a more equitable distribution of income.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "Evaluate the impact of policy change that took place in India around 1991 by identifying the appropriate statements among the following options:\ni. Indian producers were allowed to compete with producers around the globe.\nii. Barriers on foreign trade and foreign investment were removed to a large extent.\niii. Foreign companies were allowed to set up factories and offices in India.\niv. Businesses were allowed to make decisions freely about what they wished to import or export.",
+   "options": [
+    "All the statements are appropriate.",
+    "Statements i and ii are appropriate.",
+    "Only statement iv is appropriate.",
+    "Statements i, ii and iii are appropriate."
+   ],
+   "figure": null,
+   "answer": "(a) All the statements are appropriate.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Match the following (items shown in the figure):\n(i) Primary Sector\n(ii) Private Sector\n(iii) Service Sector\n(iv) Public Sector\nFigure rows: (a) TISCO logo; (b) vegetables (tomato, cabbage, carrot); (c) Indian Railways emblem; (d) group of persons in different service occupations.",
+   "options": [
+    "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+    "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+    "(a) - (i), (b) - (ii), (c) - (iv), (d) - (iii)",
+    "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)"
+   ],
+   "figure": "fig_p08_table.png",
+   "answer": "(d) (a) - (ii), (b) - (i), (c) - (iv), (d) - (iii). TISCO - Private sector; vegetables - Primary sector; Indian Railways - Public sector; service occupations - Service sector.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Read the information given below and select the correct option\nShyam is a small farmer. He took a loan to meet the expenses of cultivation hoping that there would be a good harvest and he would repay the loan. The harvest, however, fails and he is unable to repay the loan. Next year again he took a loan but the crop is not good and loan repayment cannot be made. He has no option but to sell a part of his land to pay off the loan. Loan/credit instead of helping Shyam improve his condition left him worse off. What kind of situation Shyam is facing?",
+   "options": [
+    "Loan Trap",
+    "Debt Trap",
+    "Credit Trap",
+    "Tariff Trap"
+   ],
+   "figure": null,
+   "answer": "(b) Debt Trap. When a borrower, particularly in rural areas, fails to repay the loan due to crop failure and is left worse off, the situation is called debt-trap.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "\"Information and Communication Technology (ICT) has played a major role in spreading out products and services across countries\". Support this statement.",
+   "options": null,
+   "figure": null,
+   "answer": "Developments in information and communication technology have been changing rapidly; rapid improvement in technology has been one major factor that has stimulated globalisation.\nTelecommunication facilities (telegraph, telephone including mobile phones, fax), aided by satellite communication, are used to contact one another around the world, to access information instantly and to communicate from remote areas.\nComputers have ventured into the world of the Internet, where one can obtain and share information on almost anything; it allows instant electronic mail and voice-mail across the world at negligible costs.\nThus ICT has played a major role in spreading out products and services across countries.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "How is the tertiary sector different from other sectors? Illustrate with a few examples.",
+   "options": null,
+   "figure": null,
+   "answer": "The tertiary sector differs because the other sectors produce goods, but this sector does not produce goods by itself; it provides services that help the development of the primary and secondary sectors. These activities aid the production process, e.g. transport, communication, storage, banking, insurance, trade; hence it is also called the service sector.\n1. Goods produced by the primary and secondary sectors need to be transported to the market; transportation is a service of this sector.\n2. Start-ups need money to begin business and buy machinery; the banking sector provides loans to budding entrepreneurs.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Suppose records show that the average income in a country has been increasing over a period of time. From this, can we conclude that all sections of the economy have become better? Illustrate your answer with an example.",
+   "options": null,
+   "figure": null,
+   "answer": "No. An increase in the average income does not necessarily mean all sections have increased incomes, because only a few sections may have gained. For instance, in India the average income has been rising, but that reflects growth in the services sector, with virtually no growth in agriculture. Average income can also rise when wealth is inequitably distributed: maximum wealth is in the hands of a few rich people while most of the population finds it difficult to meet basic needs. So average income increases but not all sections benefit.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Examine the role of 'Reserve Bank of India' in the economic development of the country.",
+   "options": null,
+   "figure": null,
+   "answer": "The RBI plays a crucial role in economic development by regulating and supervising the financial system. It oversees formal sources of credit, ensuring that commercial banks function properly and follow rules while giving loans to individuals, businesses and farmers. It is the sole authority to issue currency notes in India, managing the money supply and maintaining its stability.\nBy regulating money circulation, it ensures an adequate supply of currency, preventing shortages and excesses. It monitors banks to maintain proper cash reserves so that banks can meet customers' withdrawal demands. It upholds the integrity of the economic system by preventing financial fraud, maintaining stability in banking and promoting public confidence, thereby supporting growth, stability and trust in India's economy.",
+   "or": {
+    "chapter": "Ch19_Economics_Money_and_Credit",
+    "text": "Explain various functions of banks in India.",
+    "answer": "Banks help the public and the government manage the money in the economy. The Reserve Bank of India is the central bank that supervises the functioning of formal sources of loans; issuing currency notes on behalf of the central government is its unique function. Banks provide two chief services: depositing savings and withdrawal of these savings on demand.\nMain functions: accepting deposits from the public and others; lending money to the public (loans) and other institutions; transferring money from one place to another (remittances); collecting money on cheques, drafts and bills; conducting foreign exchange transactions; keeping valuables in safe custody; issuing letters of credit and guarantee; conducting government transactions (State and Central).",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  }
+ ]
+}

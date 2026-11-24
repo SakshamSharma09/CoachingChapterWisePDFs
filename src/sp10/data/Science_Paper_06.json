@@ -1,0 +1,722 @@
+{
+ "subject": "Science",
+ "paper": "Paper_06",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Fertilisation is the process of",
+   "options": [
+    "transfer of male gamete to female gamete",
+    "the formation of gametes by a reproductive organ",
+    "adhesion of male and female reproductive organs",
+    "fusion of nuclei of male and female gamete"
+   ],
+   "figure": null,
+   "answer": "(d) fusion of nuclei of male and female gamete",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "The component of a chromosome that controls heredity is",
+   "options": [
+    "RNA",
+    "Histones",
+    "DNA",
+    "Proteins"
+   ],
+   "figure": null,
+   "answer": "(c) DNA — heritable traits are passed from one generation to the next via DNA, the molecule that encodes genetic information.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "A star-shaped black paper was used to cover a leaf in a destarched plant as shown below. The plant was left in sunlight for four hours and then the leaf was plucked, black paper removed and tested for the presence of starch. The areas which turned blue-black when iodine solution was added were",
+   "options": [
+    "only II",
+    "I, II, III, IV",
+    "I, III, IV",
+    "only IV"
+   ],
+   "figure": "fig_p01_0.png",
+   "answer": "(c) I, III, IV — photosynthesis takes place in the uncovered part, which turns blue-black with iodine.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "A student observed a slide of Yeast under a microscope and saw collection of cells in different parts of the slide marked A, B, C and D as shown below:\nWhich one of the following parts of the slide shows budding in yeast?",
+   "options": [
+    "D",
+    "B",
+    "A",
+    "C"
+   ],
+   "figure": "fig_p01_1.png",
+   "answer": "(b) B — buds appear as protuberances.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "The ozone layer is mainly damaged by:",
+   "options": [
+    "Chlorofluorocarbons",
+    "Sulphur dioxide",
+    "Methane",
+    "Carbon dioxide"
+   ],
+   "figure": null,
+   "answer": "(a) Chlorofluorocarbons — the decrease in ozone in the atmosphere has been linked to synthetic chemicals like CFCs (used as refrigerants and in fire extinguishers).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "The incorrect statement about placenta is:",
+   "options": [
+    "It is a disc embedded in the uterine wall.",
+    "It has a very small surface area for glucose and oxygen to pass from mother to the embryo.",
+    "It contains villi on the embryo's side of the tissue.",
+    "The embryo gets nutrition from the mother's blood through it."
+   ],
+   "figure": null,
+   "answer": "(b) It has a very small surface area for glucose and oxygen to pass from mother to the embryo. (The placenta actually has a large surface area.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "The production of which hormone in adults leads to a gorilla-like appearance called acromegaly?",
+   "options": [
+    "Growth hormone",
+    "Adrenaline",
+    "Thyroxine",
+    "Testosterone"
+   ],
+   "figure": null,
+   "answer": "(a) Growth hormone — produced by the pituitary gland; its excess in adults causes the growth hormone disorder (acromegaly).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch08_Heredity",
+   "text": "Assertion (A): Pea plant is considered ideal for hybridisation experiments.\nReason (R): Pea is self pollinating plant with short life cycle and bears visible contrasting traits.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Pea plants are self-pollinating (pure lines easily obtained), have a short life cycle (many generations in a short time) and show clear-cut visible contrasting traits (tall/dwarf, round/wrinkled seeds etc.).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Assertion (A): Cytokinins are present in highest concentration in fruits and seeds.\nReason (R): Cytokinins are responsible for promoting cell division.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. Cytokinins promote cell division; their highest concentrations occur in fruit and seeds, i.e. areas of rapid cell division.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "What would happen, if all the microorganisms are removed from the environment?",
+   "options": null,
+   "figure": null,
+   "answer": "If microorganisms are removed from the earth's environment, dead bodies of plants and animals would pile up all around the Earth making it a difficult place to live in; environmental pollution would accumulate. The nutrient cycle would stop, disturbing the ecological balance.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "What are trophic levels? Give an example of a food chain and state the different trophic levels in it.",
+   "options": null,
+   "figure": null,
+   "answer": "Each step in a food chain through which the transfer of food takes place constitutes a trophic level. Example: Grass (trophic level I) → Deer (trophic level II) → Lion (trophic level III).",
+   "or": {
+    "text": "What are the problems caused by the non-biodegradable wastes that we generate?",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch13_Our_Environment",
+    "answer": "a. Plastics, which do not get decomposed, accumulate in soil and water bodies and pollute these natural resources.\nb. Non-biodegradable substances like pesticides and fertilizers mix with run-off and enter water bodies. Excess fertilizers cause excess growth of algae on the surface, leading to oxygen depletion and affecting aquatic organisms; toxic pesticides also affect aquatic plants and animals.\nc. Non-biodegradable pesticides like DDT enter the food chain and cause biomagnification in humans and other animals."
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Draw a well-labelled diagram of a neuron. Name the part of a neuron:\ni. Where information is acquired.\nii. Through which information travels as an electrical impulse.",
+   "options": null,
+   "figure": null,
+   "answer": "Diagram (labelled: dendrite, soma/cell body, nucleus, axon, myelin sheath, node of Ranvier, Schwann cell, axon terminal) — see figure fig_p10_1.png.\ni. Information is acquired at the dendrites.\nii. Through the axon, information travels as an electrical impulse.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "What is vegetative propagation? Name two methods in which this process is used to grow many plants. List any two advantages of vegetative propagation.",
+   "options": null,
+   "figure": null,
+   "answer": "Vegetative propagation is an asexual method of plant reproduction in which new plants are obtained from vegetative parts such as leaves, roots and stem, through fragmentation and regeneration of these parts.\nTwo methods: i. grafting ii. cutting.\nAdvantages: i. It is a quicker, cheaper and easier method of plant propagation. ii. It makes possible the production of seedless varieties such as banana, orange, jasmine etc.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Explain how urine is produced in kidneys.",
+   "options": null,
+   "figure": null,
+   "answer": "The kidney has a large number of filtration units called nephrons. Blood enters the kidney and is filtered through a cluster of capillaries (glomerulus); the filtrate is collected by a cup-shaped structure (Bowman's capsule). Some substances such as glucose, amino acids, salts and a major amount of water are selectively re-absorbed as the filtrate flows along the tube of the nephron. The remaining fluid is urine.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Read the following text carefully and answer the questions that follow:\nNutrition is the process of taking food by an organism and the utilization of food for energy. This is a vital process that helps living beings obtain their energy from various sources.\nNutrients are substances that provide nutrition.\nThe mode of nutrition varies from one species to another. Plants do photosynthesis to prepare their own food. Animals depend on plants for food.",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What do you understand by nutrition?",
+     "marks": 1,
+     "options": null,
+     "answer": "Nutrition is the process of taking food by an organism and the utilization of food for energy."
+    },
+    {
+     "text": "Mention how organisms like bread moulds and mushrooms obtain their food.",
+     "marks": 1,
+     "options": null,
+     "answer": "They break down the food materials outside the body and then absorb them (saprophytic mode of nutrition)."
+    },
+    {
+     "text": "What do you understand by autotrophic nutrition?",
+     "marks": 2,
+     "options": null,
+     "answer": "Autotrophic nutrition is the mode in which organisms prepare their own food; plants are autotrophs and perform photosynthesis to prepare their own food, while animals depend on plants for food.",
+     "or": {
+      "text": "What is common for Cuscuta, ticks, and leeches?",
+      "answer": "They are all parasites. A parasite receives its food from the host but gives no benefit to the host in return; the host may be a plant or an animal."
+     }
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch08_Heredity",
+   "text": "Give reasons for the appearance of new combinations of characters in the F2 progeny.",
+   "options": null,
+   "figure": null,
+   "answer": "New combinations in the F2 generation arise from the law of independent assortment: when two pairs of traits are combined in a hybrid, one pair of characters segregates independently of the other pair.\nIn a dihybrid cross, round green (RRyy) plants crossed with wrinkled yellow (rrYY) give round yellow (RrYy) seeds in F1; the dominant alleles suppress the recessive ones, so all F1 show dominant traits, though the recessive genes are present. When F1 plants are crossed, new combinations appear in F2: round yellow, round green, wrinkled yellow and wrinkled green in the ratio 9:3:3:1.",
+   "or": {
+    "text": "Observe the above figure carefully and answer the following:\ni. Which phenomenon does the figure represent?\nii. Which plant hormone is involved?\niii. How this plant hormone brings this movement?",
+    "options": null,
+    "figure": "fig_p03_1.png",
+    "chapter": "Ch06_Control_and_Coordination",
+    "answer": "i. Phototropism, i.e. response of plants to light.\nii. The plant hormone auxin.\niii. Auxin is synthesised at the tip of the shoot. When light comes from one side, auxin moves to the side of the stem away from light; the cells on that shaded side grow faster than those on the lighted side, so the stem bends towards the light."
+   },
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Which of the following statements is not correct?",
+   "options": [
+    "Some metals react with acids to give salt and hydrogen.",
+    "Some non metal oxides react with water to form an acid.",
+    "All metal oxides react with water to give salt and acid.",
+    "All metal carbonates react with acid to give a salt, water and carbon dioxide."
+   ],
+   "figure": null,
+   "answer": "(c) All metal oxides react with water to give salt and acid. Metal oxides are basic in nature and give alkaline solutions when dissolved in water.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Which of the following statement about the reaction below are incorrect?\n$2PbO(s) + C(s) \\rightarrow 2Pb(s) + CO_2(g)$\n(a) Lead is getting reduced.\n(b) Carbon is getting oxidized\n(c) Lead oxide is getting oxidized\n(d) Lead oxide is getting reduced",
+   "options": [
+    "(a) and (d)",
+    "(a) and (c)",
+    "(a) and (b)",
+    "(b) and (d)"
+   ],
+   "figure": null,
+   "answer": "(b) (a) and (c) — lead oxide loses oxygen and is reduced; carbon gains oxygen and is oxidised. So 'lead is getting reduced' and 'lead oxide is getting oxidized' are incorrect.",
+   "or": null,
+   "subparts": null,
+   "note": "Only three options (a) and (d), (a) and (c), (a) and (b) are printed in the paper; the fourth option '(b) and (d)' is added here only to make four options."
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Carbon forms four covalent bonds by sharing its four valence electrons with four univalent atoms, e.g. hydrogen. After the formation of four bonds, carbon attains the electronic configuration of",
+   "options": [
+    "argon",
+    "krypton",
+    "helium",
+    "neon"
+   ],
+   "figure": null,
+   "answer": "(d) neon — carbon is 2, 4; after sharing four electrons its configuration becomes 2, 8, same as neon.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n| Column A | Column B |\n|---|---|\n| (i) Alcohol | (a) - X |\n| (ii) Aldehyde | (b) - CHO |\n| (iii) Ketone | (c) - OH |\n| (iv) Haloalkane | (d) - CO - |",
+   "options": [
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)"
+   ],
+   "figure": null,
+   "answer": "(a) (i) - (c), (ii) - (b), (iii) - (d), (iv) - (a). Alcohol R-OH, aldehyde R-CHO, ketone R-CO-R', haloalkane R-X.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Food cans are coated with tin and not with zinc because:",
+   "options": [
+    "Zinc is more reactive than tin.",
+    "Zinc is costlier than tin.",
+    "Zinc is less reactive than tin.",
+    "Zinc has a higher melting point than that of tin."
+   ],
+   "figure": null,
+   "answer": "(a) Zinc is more reactive than tin. Zinc could react with food items and make them unfit for consumption.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Structural formula of benzene is",
+   "options": [
+    "(structure shown in image: fig_p04_0.png)",
+    "(structure shown in image: fig_p04_1.png)",
+    "(structure shown in image: fig_p04_2.png)",
+    "(structure shown in image: fig_p05_0.png)"
+   ],
+   "figure": "fig_p04_2.png",
+   "answer": "(c) — the ring with alternate double and single bonds between the six carbons, one H on each carbon (C6H6); option (c) image fig_p04_2.png.",
+   "or": null,
+   "subparts": null,
+   "note": "Options (a)-(d) are structure images: a=fig_p04_0.png, b=fig_p04_1.png, c=fig_p04_2.png, d=fig_p05_0.png (figure field holds the correct option c)."
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "If the pH of a solution is 13, it means that it is",
+   "options": [
+    "Weakly acidic",
+    "Weakly basic",
+    "Strongly acidic",
+    "Strongly Basic"
+   ],
+   "figure": null,
+   "answer": "(d) Strongly Basic — the pH scale is 0 to 14; the greater the pH, the higher the basicity.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Assertion (A): A chemical reaction becomes faster at higher temperatures.\nReason (R): At higher temperatures, molecular motion becomes more rapid.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. At higher temperature the particles move faster.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "A student added few pieces of aluminium metal to two test tubes A and B containing aqueous solution of iron sulphate and copper sulphate. In the second part of her experiment, she added iron metal to another test tube C and D containing aqueous solution of aluminium sulphate and copper sulphate.\nIn which test tube or test tubes will she observe colour change? On the basis of this experiment state which one is the most reactive metal and why?",
+   "options": null,
+   "figure": null,
+   "answer": "Colour change will be observed in test tubes A and B (as given in the key): in A the green colour of iron sulphate changes to colourless, because aluminium is more reactive than iron and displaces it; in B the blue colour of copper sulphate changes to colourless. Aluminium is the most reactive metal because it displaces all the other metals.",
+   "or": null,
+   "subparts": null,
+   "note": "Printed key says only A and B; in reality iron would also displace copper in test tube D (blue to pale green), while no reaction occurs in C."
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "i. In what form/forms does Carbon exists in the atmosphere?\nii. What is the structural formula of ethyne?",
+   "options": null,
+   "figure": null,
+   "answer": "i. Carbon exists in the atmosphere only as carbon dioxide gas (CO2), about 0.03% of air. (Carbon also occurs in the earth's crust as carbonates, fossil fuels etc.)\nii. H-C≡C-H (ethyne is C2H2).",
+   "or": {
+    "text": "Write the molecular formula of the following compound and draw their electron dot structure.\ni. Ethane\nii. Ethene\niii. Ethyne",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "answer": "i. Ethane: C2H6 — each C shares one pair with the other C and three pairs with three H atoms (single bond).\nii. Ethene: C2H4 — a double bond (two shared pairs) between the carbons; each C also shares two pairs with two H atoms.\niii. Ethyne: C2H2 — a triple bond (three shared pairs) between the carbons; each C shares one pair with one H atom.\n(The paper shows structural and electron dot diagrams, figs fig_p13_0.png to fig_p13_4.png.)"
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Pratyush took sulphur powder on a spatula and heated it. He collected the gas evolved by inverting a test tube over it, as shown in figure below.\na. What will be the action of gas on\ni. dry litmus paper?\nii. moist litmus paper?\nb. Write a balanced chemical equation for the reaction taking place.",
+   "options": null,
+   "figure": "fig_p05_1.png",
+   "answer": "a. i. No action on dry litmus paper.\nii. It turns moist litmus paper red and then bleaches it.\nb. $S + O_2 \\rightarrow SO_2$",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Read the following text carefully and answer the questions that follow:\nThe dissolving of an acid or a base in water is a highly exothermic reaction. Care must be taken while mixing concentrated nitric acid or sulphuric acid with water. The acid must always be added slowly to water with constant stirring. If water is added to a concentrated acid, the heat generated may cause the mixture to splash out and cause burns. The glass container may also break due to excessive local heating. Look out for the warning sign on the can of concentrated sulphuric acid and on the bottle of sodium hydroxide pellets.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the exothermic reaction?",
+     "marks": 1,
+     "options": null,
+     "answer": "An exothermic reaction is a chemical reaction that releases energy in the form of heat or light."
+    },
+    {
+     "text": "Write an example of an exothermic reaction.",
+     "marks": 1,
+     "options": null,
+     "answer": "Mixing (dissolving) an acid with water is a highly exothermic reaction."
+    },
+    {
+     "text": "How will you obtain sulphuric acid from an acidic oxide?",
+     "marks": 2,
+     "options": null,
+     "answer": "Dissolving sulphur trioxide (an acidic oxide) in water gives sulphuric acid in an exothermic reaction: $SO_3 + H_2O \\rightarrow H_2SO_4$",
+     "or": {
+      "text": "While diluting an acid, why is it recommended that the acid should be added to water and not water to the acid?",
+      "answer": "Dissolving an acid in water is exothermic. If water is added to the acid, the large amount of heat generated can make the mixture splash out and cause burns. Hence acid is added slowly to water with constant stirring."
+     }
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "The white solid compound A decomposes quite rapidly on heating in the presence of a black substance X to form a solid compound B and a gas C. When an aqueous solution of compound B is reacted with silver nitrate solution, then a white precipitate of silver chloride is obtained along with potassium nitrate solution. Gas C does not burn itself but helps to burn other things.\ni. What is compound A?\nii. What is compound B?\niii. What is gas C?\niv. What do you think is the black substance X? What is its function?\nv. What is the general name of substances like X?",
+   "options": null,
+   "figure": null,
+   "answer": "i. A is potassium chlorate, $KClO_3$.\nii. B is potassium chloride, $KCl$.\niii. Gas C is oxygen, $O_2$.\niv. X is manganese dioxide, $MnO_2$; it acts as a catalyst in the decomposition of potassium chlorate to form oxygen gas.\nv. Substances like X are called catalysts.",
+   "or": {
+    "text": "i. On adding dilute HCl to a test tube containing sodium carbonate, an effervescence is observed. Explain the observation giving chemical equation for the reaction. How is the gas released tested in a school laboratory?\nii. What happens when excess carbon dioxide passes through lime water? Write chemical equations to explain your answer.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "answer": "i. Effervescence is due to the formation of $CO_2$ gas: $Na_2CO_3 + 2HCl \\rightarrow 2NaCl + H_2O + CO_2\\uparrow$. Test: pass the gas through lime water, which turns milky: $Ca(OH)_2(aq) + CO_2(g) \\rightarrow CaCO_3(s) + H_2O(l)$ (white precipitate).\nii. When excess $CO_2$ is passed, the milkiness disappears: $CaCO_3(s) + H_2O(l) + CO_2(g) \\rightarrow Ca(HCO_3)_2(aq)$ (soluble in water)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Electricity",
+   "text": "Which of the following statements is/are incorrect?\nA. A neutron has a positive charge of $+1.6 \\times 10^{-19}$ C\nB. An ammeter is a low resistance device.\nC. The resistance of semiconductors decreases with temperature.\nD. One ampere is equal to $10^{-6}$ uA.",
+   "options": [
+    "A and C",
+    "A, B and C",
+    "A and D",
+    "A and B"
+   ],
+   "figure": null,
+   "answer": "(c) A and D. B and C are correct. A neutron has no charge, so A is incorrect; one microampere equals $10^{-6}$ A (an ampere is the bigger unit), so D is incorrect.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "While performing the experiment on tracing the path of a ray of light passing through a glass slab as shown in the given diagram, four students interpreted the results as given below. Which one of the four interpretations in correct?",
+   "options": [
+    "$\\angle r > \\angle e$",
+    "$\\angle i = \\angle r$",
+    "$\\angle r = \\angle e$",
+    "$\\angle i > \\angle r$"
+   ],
+   "figure": "fig_p07_0.png",
+   "answer": "(d) $\\angle i > \\angle r$. Light entering from a rarer to a denser medium bends towards the normal, so the angle of incidence is greater than the angle of refraction; for parallel surfaces $\\angle e = \\angle i$ and $\\angle r < \\angle i$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "Assertion (A): When ciliary muscles contract, eye lens becomes thin.\nReason (R): Ciliary muscles control the power of the eye lens.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Draw the pattern of magnetic field lines around a current carrying straight conductor. How does the strength of the magnetic field produced change:\na. with the distance from the conductor?\nb. with an increase in current in a conductor?",
+   "options": null,
+   "figure": null,
+   "answer": "Field lines are concentric circles around the conductor (diagram in the paper: fig_p14_2.png).\na. The strength of the magnetic field decreases with increase in distance from the conductor.\nb. The strength of the magnetic field increases with increase in current (directly proportional to the current).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "text": "Compare the power used in the $2\\,\\Omega$ resistor in each of the following circuits:\n(i) a 6 V battery in series with $1\\,\\Omega$ and $2\\,\\Omega$ resistors, and\n(ii) a 4 V battery in parallel with $12\\,\\Omega$ and $2\\,\\Omega$ resistors.",
+   "options": null,
+   "figure": null,
+   "answer": "(i) Total resistance $R_s = 2 + 1 + 2 = 5\\,\\Omega$; current $I_1 = 6/5 = 1.2$ A; power in $2\\,\\Omega$: $P_1 = I_1^2 R = (1.2)^2 \\times 2 = 2.88$ W.\n(ii) In parallel, the current in the $2\\,\\Omega$ resistor is independent of the others: $I_2 = 4/2 = 2$ A; $P_2 = (2)^2 \\times 2 = 8$ W.\nRatio $P_1 : P_2 = 2.88/8 = 0.36 : 1$.",
+   "or": {
+    "text": "100 J of heat is produced each second in a $4\\,\\Omega$ resistance. Find the potential difference across the resistor.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch11_Electricity",
+    "answer": "$H = I^2Rt$ gives $I = \\sqrt{H/(Rt)} = \\sqrt{100/(4\\times 1)} = 5$ A. $V = IR = 5 \\times 4 = 20$ V."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "i. An object of 5 cm height is placed at a distance of 20 cm from the optical centre of a concave lens of focal length 18 cm. Calculate (1) image distance and (2) the magnification in this case.\nii. Compare the values of magnification obtained by a concave lens and a convex lens when both the lenses form virtual images.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Official key: $\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u}$ with $f=-18$, $u=-20$; the key then states $v = -180$ cm and $m = -v/u = -9$. (As printed in the key.)\nii. A concave lens always forms a virtual, erect and diminished image, whereas when a convex lens forms a virtual image, the magnification can be greater than 1 (enlarged image).",
+   "or": null,
+   "subparts": null,
+   "note": "The printed key's arithmetic is wrong: with u = -20 cm, f = -18 cm the lens formula gives v = -180/19 cm (about -9.5 cm) and m = v/u about +0.47; do not use the key's v = -180 cm, m = -9."
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "A person uses lenses of power -0.5 D in his spectacles for the correction of his vision.\na. Name the defect of vision the person is suffering from.\nb. List two causes of this defect.\nc. Determine the focal length of the lenses used in the spectacles.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Myopia (near-sightedness / short-sightedness).\nb. Causes: excessive curvature of the eye lens; elongation of the eye ball.\nc. $f = 1/P = 1/(-0.5) = -2$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Distinguish between a convex lens and a concave lens.",
+   "options": null,
+   "figure": null,
+   "answer": "| Convex lens | Concave lens |\n|---|---|\n| 1. It is thicker at the centre than at the edges. | 1. It is thinner at the centre than at the edges. |\n| 2. It has a real focus. | 2. It has a virtual focus. |\n| 3. It converges a parallel beam of light on refraction through it. | 3. It diverges a parallel beam of light on refraction through it. |",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Read the following text carefully and answer the questions that follow:\nMany pure metals like copper, iron and gold are very soft and as such are considered unsuitable for certain uses. Metallic objects around us such as cooking utensils, statues, ornaments, guns etc. are actually not made up of pure metals. Instead of pure metals, alloys are used in the design of most of the useful objects. Making alloys enhances the basic properties of a metal which is the primary constituent (metal) of an alloy.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "How does electrical conductivity and melting point of a metal change when it is converted to its alloy by mixing a small amount of an element in it?",
+     "marks": 1,
+     "options": null,
+     "answer": "Both the electrical conductivity and the melting point of an alloy become less than those of the pure metal (in some cases the melting point may increase)."
+    },
+    {
+     "text": "Name an alloy used for welding two wires together in an electric circuit. Write its major constituents.",
+     "marks": 1,
+     "options": null,
+     "answer": "Solder; lead (Pb) and tin (Sn)."
+    },
+    {
+     "text": "a. What are alloys? How is 'Brass' (an alloy) prepared?",
+     "marks": 2,
+     "options": null,
+     "answer": "An alloy is a homogeneous mixture of two or more metals, or of a metal and a non-metal. Brass is prepared by mixing copper and zinc in definite proportion.",
+     "or": {
+      "text": "b. What is stainless steel? How is it prepared? Write one important property which makes it more useful in making cooking utensils as compared to its primary metal.",
+      "answer": "Stainless steel is an alloy of iron (steel) with nickel and chromium. Iron is first mixed with a small amount of carbon (about 0.05%) so that it becomes hard and strong; then it is mixed with Ni and Cr to form stainless steel. Property: it does not rust."
+     }
+    }
+   ]
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch11_Electricity",
+   "text": "B1, B2, and B3 are three identical bulbs connected as shown in the figure. When all the three bulbs glow, a current of 3A is recorded by the ammeter A.\ni. What happens to the glow of the other two bulbs when the bulb B1 gets fused?\nii. What happens to the reading of A1, A2, A3, and A when the bulb B2 gets fused?\niii. How much power is dissipated in the circuit when all the three bulbs glow together?",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": "i. No effect: the three bulbs are in parallel, so each of the other bulbs still has the same potential difference and resistance and glows as before.\nii. Total resistance with 4.5 V and 3 A: $R_{eq} = 4.5/3 = 1.5\\,\\Omega$, so each bulb has $R = 4.5\\,\\Omega$. When B2 fuses, A2 reads 0; B1 and B3 are in parallel: $R' = 4.5/2 = 2.25\\,\\Omega$, $I = 4.5/2.25 = 2$ A, shared equally, so A1 = 1 A, A3 = 1 A, A = 2 A.\niii. $P = VI = 4.5 \\times 3 = 13.5$ W.",
+   "or": {
+    "text": "1. What is meant by the statement, The resistance of a conductor is one ohm?\n2. Define electric power. Write an expression relating electric power, potential difference and resistance.\n3. How many $132\\,\\Omega$ resistors in parallel are required to carry 5 A on a 220 V line?",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch11_Electricity",
+    "answer": "1. If the potential difference across the ends of a conductor is 1 volt and the current through it is 1 ampere, its resistance is 1 ohm ($1\\,\\Omega = 1\\,V/1\\,A$).\n2. Electric power is the rate at which electric energy is consumed/dissipated: $P = V^2/R$ (also $P = VI$).\n3. $R = V/I = 220/5 = 44\\,\\Omega$. For n resistors in parallel, $R = 132/n = 44$, so $n = 3$ resistors."
+   },
+   "subparts": null
+  }
+ ]
+}

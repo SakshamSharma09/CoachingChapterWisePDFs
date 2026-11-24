@@ -1,0 +1,631 @@
+{
+ "subject": "English",
+ "paper": "Paper_08",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "Read the following passage carefully:\n\n1. The words probiotics, prebiotics, and postbiotics may sound like variations of the same thing, but what a difference a prefix makes. The first is a category of health-promoting microbes. The latter two groups are types of beneficial molecules. But all three biotics are critical for supporting the community of microscopic organisms that live in the gastrointestinal tract, known as the gut microbiome. With both beneficial and harmful bacteria living in the human body, these diet-related factors - the biotics - help tip the balance in the positive direction. It is important to understand their differences, as you'll see, because each of these factors serves a distinct purpose, even as they work together.\n\n2. Despite their importance for the gut microbiome, the health benefits of these 'biotics', which are present in certain foods or result from their metabolism, extend beyond the digestive tract. A growing body of scientific evidence has linked prebiotics, probiotics, and postbiotics, with improvements in metabolic diseases - including obesity and cholesterol abnormalities - depressive symptoms and poor sleep quality, among many other conditions.\n\n3. Besides promoting general gut health, consuming food rich in probiotics can improve irritable bowel syndrome and antibiotic-related diarrhea, prevent traveller's diarrhea, produce vitamins and increase nutrient absorption, and decrease the risk of common infections. In fact, when consumed regularly, probiotics have been found to reduce the occurrence of upper respiratory tract infections (like the common cold).\n\n4. Many different types of beneficial bacteria are considered probiotics. The most common ones include Lactobacillus and Bifidobacterium, of which there are dozens of strains. \"You have to match what it is you're concerned about with the probiotic you should use,\" says Gregor Reid. Many different types of beneficial bacteria are considered probiotics.\n\n5. Some foods, such as yogurt, kefir, kimchee, and fermented soybeans and kombucha naturally contain probiotics. But here's where things get complicated: not all fermented foods or yogurts contain probiotics, Reid says. As a consumer, a good starting point is to look for the phrase \"contains live and active cultures\" on the label; it's even better if specific strains of bacteria are listed, because then you'll know you're getting the right stuff.\n\n6. Simply put, prebiotics are sources of food for those beneficial microbes - the probiotics. They are typically a form of carbohydrate or fiber that we don't have the enzymes to digest. As a result, they move through the digestive tract to the intestine, where beneficial bacteria (probiotics) can feast on them.\n\n7. When you consume foods that are rich in probiotics and prebiotics, the microbes in your gut consume the undigestible prebiotic fiber and produce bioactive compounds called postbiotics. They are ultimately the endgame that we want - they affect how our gut operates and keeps the good bacteria there and the bad bacteria out.\n\nAnswer the following questions, based on the above passage:",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "subparts": [
+    {
+     "text": "I. Which of the following statements best describes the author's attitude towards probiotics? (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. Probiotics, prebiotics and postbiotics are variations of the same thing, with just a difference of a prefix.",
+      "B. All fermented foods or yogurts naturally contain probiotics.",
+      "C. All three biotics are equally important to support microscopic organisms that live in the gut microbiome.",
+      "D. Only probiotics are important as they can improve irritable bowel syndrome and antibiotic-related diarrhea."
+     ],
+     "answer": "(C) All three biotics are equally important to support microscopic organisms that live in the gut microbiome."
+    },
+    {
+     "text": "II. According to the writer, health benefits of all the 'biotics' extend beyond the digestive tract. Rationalise your response in about 40 words. (2 Marks)",
+     "marks": 2,
+     "options": null,
+     "answer": "The writer emphasizes that prebiotics, probiotics, and postbiotics not only promote gut health but also have broader health benefits. Scientific evidence links them to improvements in metabolic diseases, depressive symptoms, sleep quality, and reduction in upper respiratory infections."
+    },
+    {
+     "text": "III. Complete the sentence appropriately. (1 Mark)\nTo get the right probiotic and to match it with your body's requirement, it is important to see the label for ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "contains live and active cultures"
+    },
+    {
+     "text": "IV. The passage includes some words that are opposites of each other. From the sets (A) - (E) below, identify two sets of antonyms. (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. increase and decrease",
+      "B. probiotic and postbiotic",
+      "C. beneficial and harmful",
+      "D. feast and fermented",
+      "E. consuming and digestive"
+     ],
+     "answer": "(A) increase and decrease; (C) beneficial and harmful"
+    },
+    {
+     "text": "V. Complete the sentence appropriately. (1 Mark)\nThe author wants to stress the fact that there is not just one type of beneficial bacteria considered as probiotic, in fact, some probiotics have ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "dozens of strains"
+    },
+    {
+     "text": "VI. Based on the reading of the passage, examine in about 40 words, the importance of prebiotics for the human gut and how they are related to probiotics. (2 Marks)",
+     "marks": 2,
+     "options": null,
+     "answer": "Prebiotics are crucial for gut health as they serve as food for beneficial microbes (probiotics). These undigestible fibers ensure the growth and activity of probiotics, which in turn maintain a balanced gut microbiome and overall health."
+    },
+    {
+     "text": "VII. As a consumer, if you want to pick a probiotic product, what is the most important thing to keep in mind?\nPick the best answer. (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. Any fermented product that contains probiotics.",
+      "B. Checking the label for specific strains of bacteria.",
+      "C. All products under \"probiotics\" section in a grocery store are safe to pick.",
+      "D. Checking the label which clearly says \"probiotics\" is sufficient."
+     ],
+     "answer": "(B) Checking the label for specific strains of bacteria."
+    },
+    {
+     "text": "VIII. \"Despite their importance for the gut microbiome, the health benefits of these 'biotics', which are present in certain foods or result from their metabolism, extend beyond the digestive tract.\" (1 Mark)\nAs per this statement from the passage, how relevant are the 'biotics' for humans?\nPick the best answer.",
+     "marks": 1,
+     "options": [
+      "A. Their relevance has been proven by scientific evidence.",
+      "B. Not very relevant as more study is needed.",
+      "C. Their relevance cannot be generalised for everyone.",
+      "D. Only probiotics are relevant for humans."
+     ],
+     "answer": "(A) Their relevance has been proven by scientific evidence."
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "Read the following passage.\n\n1. A recent study conducted across two age groups-students aged 10-12 and 13-16explored their preferences for ballpoint and micro-tip pens for various writing activities such as note-taking, examinations, and personal writing. The study aimed to understand trends in writing habits and the factors influencing pen selection among students.\n\n2. The results revealed distinct patterns based on age groups and writing purposes. Among students aged 10-12, 65% preferred ballpoint pens for note-taking, citing ease of use and affordability as key factors. However, 35% opted for micro-tip pens, valuing their precision and smooth writing. For examinations, ballpoint pens were the overwhelming choice, with 78% favouring them for their speed and reliability, while 22% stuck with micro-tip pens, appreciating their fine control.\n\n3. In the 13-16 age group, preferences shifted slightly. For note-taking, 60% favoured microtip pens, highlighting their ability to produce neat, legible notes, while 40% continued to use ballpoint pens. During examinations, however, 70% still relied on ballpoint pens, indicating their consistency under time constraints. When it came to personal writing, such as journalling or creative tasks, 58% in this group chose micro-tip pens, appreciating the aesthetic appeal of finer lines, while 42% stuck with ballpoint pens for their convenience.\n\n4. These findings point to the importance of understanding age-specific preferences and task requirements, enabling manufacturers to innovate products. Manufacturers could further explore incorporating hybrid features, such as pens offering the speed of ballpoint pens with the precision of micro-tip pens, to cater to a wider range of student preferences.\n\nAnswer the following questions, based on the passage above",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "subparts": [
+    {
+     "text": "I. Why did the study most likely focus on the two specific age groups of 10-12 and 13-16? (Paragraph 1) (1 Mark)\nThis is so because these age groups ________.",
+     "marks": 1,
+     "options": [
+      "A. represent the largest population of growing students.",
+      "B. are when students develop and refine their writing habits.",
+      "C. were the easiest to survey across various schools.",
+      "D. have a natural preference for ballpoint pens."
+     ],
+     "answer": "B. are when students develop and refine their writing habits. [Option B is the most likely because the study aims to explore writing preferences, which are likely to evolve during these developmental stages.]"
+    },
+    {
+     "text": "II. Identify the phrase in paragraph 1 that conveys the writer's reference to the patterns or preferences observed in how students use pens for various writing tasks. (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "'trends in writing habits'"
+    },
+    {
+     "text": "III. Complete the following by selecting the correct option from those given in the brackets. (Paragraph 2) (1 Mark)\nGeetha, aged 11, wishes to complete her practical file neatly, ensuring her work is legible and appealing. She is most likely to choose a micro-tip pen for this task because the ________ (speed/precision) offered by this type of pen helps produce tidy work.",
+     "marks": 1,
+     "options": null,
+     "answer": "precision"
+    },
+    {
+     "text": "IV. What does the writer mean by 'affordability' while citing the high percentage of ball point pen usage? (Paragraph 2) (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "By 'affordability,' the writer refers to the lower cost of ballpoint pens compared to micro-tip pens, making them accessible and budget-friendly for students."
+    },
+    {
+     "text": "V. Complete the following with the correct option.\nWhen the writer says 'distinct patterns' in the line 'The results revealed distinct patterns based on age groups and writing purposes,' of paragraph 3, s/he means that ________. (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. students in both age groups use pens in the same way for all the listed purposes.",
+      "B. the preferences for pens varied according to the students' age and the type of writing task.",
+      "C. only micro-tip pens were popular across all writing tasks in the 13-16 age group.",
+      "D. students of all age groups preferred ballpoint pens for completing creative writing tasks."
+     ],
+     "answer": "B. The preferences for pens varied according to the students' age and the type of writing task."
+    },
+    {
+     "text": "VI. Complete the following appropriately.\nThe one likely reason why more than 40% of students still chose ballpoint pens for creative tasks, even though micro-tip pens are better suited for such activities is ________. (Paragraph 3) (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "Ballpoints do not dry out quickly unlike micro-tips / Ballpoints work on a variety of surfaces unlike microtips / Ballpoints are less likely to smudge unlike microtips / Ballpoint pens are usually more affordable (any one)"
+    },
+    {
+     "text": "VII. How are 'aesthetic appeal' and 'finer lines' connected? (Paragraph 3) (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "The 'aesthetic appeal' is closely connected to 'finer lines' because finer lines create neat, elegant, and visually pleasing writing."
+    },
+    {
+     "text": "VIII. Elaborate how hybrid features in pens would lead to a commercially viable product. (Paragraph 4) (2 Marks)",
+     "marks": 2,
+     "options": null,
+     "answer": "Hybrid features in pens, such as combining the speed and reliability of ballpoint pens with the precision and aesthetic appeal of micro-tip pens, would likely result in a commercially viable product as such pens would cater to a broader demographic, meeting the needs of students across different age groups and writing tasks. This would capitalise on the growing demand for versatile and functional writing tools. Which would enhance its commercial success."
+    },
+    {
+     "text": "IX. Fill in the blank with ONE suitable word. (Paragraph 4) (1 Mark)\nUnderstanding age-specific preferences helps manufacturers design products that cater to the unique needs of different age groups, ensuring their products are both ________ as well as appealing.",
+     "marks": 1,
+     "options": null,
+     "answer": "functional/useful"
+    }
+   ],
+   "note": "Question V refers to 'paragraph 3' as printed (the quoted line is in paragraph 2); the percentages that are images in the PDF text layer were read from the page image."
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "subparts": [
+    {
+     "text": "i. Fill in the blank by using the correct form of the word in the bracket, for the given portion of a letter:\nTo ensure that this project gains strength, schools may ________ (organize) puppet shows and street plays.",
+     "marks": 1,
+     "options": null,
+     "answer": "organize"
+    },
+    {
+     "text": "ii. Identify the error and supply the correction for the following advertisement of a software.\nThis product handles the basics and then goes beyond that with a collection of additional security features that must take on many security breaches and win.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: must; Correction: will"
+    },
+    {
+     "text": "iii. Report the dialogue between Dolly and Mrs Diaz, by completing the sentence:\nDolly: Have you seen Lee?\nMrs Diaz: No, I haven't seen him since lunchtime.\nIn response to the question about where Lee was, Mrs Diaz says that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "she hasn't seen him since lunchtime."
+    },
+    {
+     "text": "iv. Read the dialogue between Karan and his teacher regarding his absence from school.\nTeacher: Karan, why were you absent yesterday?\nKaran: Yesterday I had cold and fever, sir. I couldn't inform you beforehand.\nTeacher: That's okay. Take care of your health.\nSelect the correct option to complete the reporting of the above dialogue.\nThe teacher asked Karan _________.\nKaran replied that he had cold and fever the previous day and added that he couldn't inform the teacher beforehand. The teacher advised him to take care of his health.",
+     "marks": 1,
+     "options": [
+      "a) why was he absent yesterday",
+      "b) why did he remain absent the previous day",
+      "c) why he had been absent the previous day",
+      "d) the reason he was absent"
+     ],
+     "answer": "(a) why was he absent yesterday"
+    },
+    {
+     "text": "v. Fill in the blank by choosing the correct option.\nHe is an expert on languages, but he knows _________ (a lot of / little / a few) about mathematics.",
+     "marks": 1,
+     "options": null,
+     "answer": "little"
+    },
+    {
+     "text": "vi. Identify the error and supply correction for the given sentence from a technology company's product description.\nOur latest software solution is designed for help businesses streamline their operations.\n| Error | Correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: for help; Correction: to help"
+    },
+    {
+     "text": "vii. Select the option that identifies the error and supplies the correction for the following line, from the headline of a news report:\nTWO CHILD DIE AFTER MASSIVE FIRE BREAKS OUT IN TIRUPATI\n| Option no. | Error | Correction |\n|---|---|---|\n| A | child | children |\n| B | die | dies |\n| C | breaks | break |\n| D | in | at |",
+     "marks": 1,
+     "options": [
+      "A: child -> children",
+      "B: die -> dies",
+      "C: breaks -> break",
+      "D: in -> at"
+     ],
+     "answer": "(A) child - children"
+    },
+    {
+     "text": "viii. Next weekend, I _____my proficiency exam, so I _____ more or less 300 questions so far.",
+     "marks": 1,
+     "options": [
+      "a) am to have /will have finished",
+      "b) am going to have / finished",
+      "c) am having / will have finished",
+      "d) am to have / finish"
+     ],
+     "answer": "(b) am going to have / finished"
+    },
+    {
+     "text": "ix. Report the dialogue between a mother and her son, by completing the sentence:\nMother: Why are you late from school, Amit?\nAmit: While coming from school to the bus stop, I slipped by stepping on a banana peel.\nIn response to the question about being late from school, Amit says that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "while coming from school to the bus stop he slipped by stepping on a banana peel."
+    },
+    {
+     "text": "x. The Captain said to his men, \"Stand at ease\".\nReported speech: ________",
+     "marks": 1,
+     "options": [
+      "a) The Captain wanted his men to stand at ease.",
+      "b) The Captain told his men that they should stand at ease.",
+      "c) The Captain urged his men to stand at ease.",
+      "d) The Captain commanded his men to stand at ease."
+     ],
+     "answer": "(d) The Captain commanded his men to stand at ease."
+    },
+    {
+     "text": "xi. Complete the line from a self-awareness song, by filling the blank with the correct option.\nSticks and stones may break my bones,\nBut words can also hurt me\nStones and sticks ________ only skin,\nwhile words ________ ghosts that haunt me.",
+     "marks": 1,
+     "options": [
+      "A. break, are",
+      "B. broke, were",
+      "C. broken, are",
+      "D. are breaking, are"
+     ],
+     "answer": "A. break, are (the lines are in the present state)"
+    },
+    {
+     "text": "xii. Identify the error and supply the correction, for the following:\nVACCINATE YOURSELF TO COMBAT CORONA\nNo prior appointment required, Walk-in & get your jab\nFacility are available for 18 years and above\nHealth Department, Chandigarh Administration\nUse the given format for your response.\n| error | correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: are; Correction: is"
+    }
+   ],
+   "note": "Twelve 1-mark tasks are printed; any ten are to be attempted (10 marks). In the PDF the option lists of iv, viii and x are displaced; they are placed with their questions here."
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "In recent weeks, there have been several incidents of theft in your area, and despite reaching out to the local law enforcement authorities, there has been no improvement in the situation. Write a letter to the editor of a local newspaper, highlighting this issue and urging higher authorities to take action. You are Jyoti/Arvind residing at 54/47, Lohia Apartments, Nagpur.",
+   "options": null,
+   "figure": null,
+   "answer": "54/47, Lohia Apartments\nNagpur\nDate: 10/12/20xx\n\nThe Editor\nLocal Daily\nNagpur\n\nSubject: Rising Theft Incidents in Our Area\n\nSir/Madam,\n\nI wish to bring to your notice the increasing incidents of theft in our locality. Over the past few weeks, several homes have been targeted, creating fear and insecurity among residents. Despite repeated complaints to the local police, no effective action has been taken, and the situation remains unchanged.\n\nThrough your esteemed newspaper, I urge the higher authorities to take immediate steps, increase police patrolling, and ensure proper safety measures to protect the residents.\n\nYours sincerely,\nJyoti / Arvind",
+   "or": {
+    "text": "The recent pandemic has reinforced the importance of health and exercise. The Resident Welfare Association of Green Park has decided to organise Yoga classes. Write a letter to the Manager Yogshalaya enquiring about trainers, individual/group sessions, time slots and costs involved along with other relevant details. You are Rakesh/Ritika Mathur, 721, Green Park, New Delhi.",
+    "options": null,
+    "figure": null,
+    "chapter": "SKILL_Writing",
+    "answer": "Rakesh/Ritika Mathur,\n721, Green Park,\nNew Delhi.\n28 March 2022\n\nThe Manager\nYogshalaya\nNew Delhi\n\nSubject: Enquiry about available trainers, sessions, and time slots\n\nSir/Madam\n\nI am writing this letter on behalf of the Resident Welfare Association of Green Park, New Delhi, to enquire about Yoga classes for our community. With the recent pandemic situation, we have realized the importance of health and exercise, and we believe that Yoga is an excellent way to stay fit and healthy.\n\nWe have come across your esteemed Yoga center, Yogshalaya, and would like to inquire about the trainers, individual/group sessions, time slots, and costs involved in organizing Yoga classes for our community. We would appreciate it if you could provide us with relevant details such as the experience and qualifications of the trainers, the duration of the sessions, the availability of individual or group sessions, the time slots for the classes, and the costs involved.\n\nWe would also like to know if you provide any special discounts or packages for group bookings. Kindly provide us with all the necessary details so that we can plan accordingly and make the necessary arrangements for our community members.\n\nThank you for your time, and we look forward to hearing from you soon.\n\nSincerely,\nRakesh/Ritika Mathur"
+   },
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "The given pie-chart shows data of a survey done on 100 students in a school in which they were asked what do they do while listening to music. Write an analytical paragraph based on the information given in the chart.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": "The pie chart shows the data of a survey done on 100 students in a school, which asked them what else do they do while listening to music.\nIt is clear from the data shown that around 77 percent of those who surveyed do other things simultaneously. Only 23 percent are there who listened to music only and did nothing else. From the rest 77 per cent, 28 per cent percent said they ate their lunch, dinner or breakfast during that and another 27 per cent said they listened to music while going online or playing on phone. Surprisingly, only a few students said they liked to sleep while music was played on, 2 per cent said they read books simultaneously. 8 percent did exercise and another 8 percent did their household chores. 3 per cent talked to their family members and listened to music at the same time. It is clearly evident from the chart that a large number of participants showed interest in doing other tasks also while listening to music.\nOverall the figures demonstrate that a large proportion of students listened to music while they are eating, while almost a third of them divide their attention between several tasks at the same time.",
+   "or": {
+    "text": "In an article on Education : Physical, Emotional and Mental Well-being, you came across the following statement.\nWrite a paragraph to analyse the given statement.\nGovernment should spend more money on healthcare and education.",
+    "options": null,
+    "figure": null,
+    "chapter": "SKILL_Writing",
+    "answer": "The statement suggests that the government should prioritize spending on healthcare and education. Both healthcare and education are critical for the well-being of society. Adequate healthcare facilities can ensure that citizens have access to medical care and treatment when needed, while education can equip individuals with the skills and knowledge necessary to lead a fulfilling life. Investing in healthcare and education can have long-term benefits for a country, such as improved productivity, higher economic growth, and a healthier population. By prioritizing these areas, the government can ensure that its citizens have a better quality of life and contribute positively to the country's development. Therefore, the government must allocate sufficient funds and resources toward healthcare and education."
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\ni. Read the following extracts and answer the question/complete the sentences that follow:\n\"She had no dowry, no hopes, no means of becoming known, loved and married by a man either rich or distinguished; and she allowed herself to marry a petty clerk in the office of the Board of Education.\"",
+   "subparts": [
+    {
+     "text": "i. Who is the being described here in these lines? (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "Matilda",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "ii. What sort of person is she? (2)",
+     "marks": 2,
+     "options": null,
+     "answer": "She is a pretty lady who is ambitious and discontented with her life.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "iii. Fill in the blank with one word: The outcome of her marriage is that she remained ________. (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "unhappy/unsatisfied",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "iv. What did her husband do? Choose the right option. (1)",
+     "marks": 1,
+     "options": [
+      "a. Petty clerk",
+      "b. Businessman",
+      "c. Diamond Merchant",
+      "d. Board work"
+     ],
+     "answer": "(a) Petty clerk",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    }
+   ],
+   "or": {
+    "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "text": "ii. Read the extract given below carefully and answer the questions that follow:\nTenth May dawned bright and clear. For the past few days, I had been pleasantly besieged by dignitaries and world leaders who were coming to pay their respects before the inauguration. The inauguration would be the largest gathering ever of international leaders on South African soil. The ceremonies took place in the lovely sandstone amphitheatre formed by the Union Buildings in Pretoria. For decades this had been the seat of white supremacy, and now it was the site of a rainbow gathering of different colours and nations for the installation of South Africa's first democratic, non-racial government.",
+    "subparts": [
+     {
+      "text": "i. State any one inference about Nelson Mandela from the given extract. (1)\nI had been pleasantly besieged by dignitaries and world leaders who were coming to pay their respect before the inauguration.",
+      "marks": 1,
+      "options": null,
+      "answer": "We can infer that Nelson Mandela was greeted as president of South Africa on May 10, 1994, and was extremely happy. / He was surrounded by International leaders who were present to pay their respect that day. / He felt that this ceremony marked the beginning of multiracial democracy. / Being an anti-apartheid revolutionary he was happy to witness the abolition of the apartheid regime in South Africa. (any one)",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "ii. State TRUE OR FALSE. (1)\nNone of the terms (a)-(d) can be applied to the question- The inauguration would be the largest gathering ever of international leaders on South African soil.\ni. A hypothesis- a proposed explanation for a phenomenon\nii. An assumption- something that is taken for granted or assumed to be true without proof.\niii. A premise- a proposition that forms the basis of an argument.\niv. A theory- a well-substantiated explanation for a natural phenomenon.",
+      "marks": 1,
+      "options": null,
+      "answer": "True. Explanation: The given statement is a fact as it was a great event because a black person emerged as a leader of the nation and addressed the nation as the President for the first time. International leaders came to witness this historical moment.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "iii. Nelson Mandela is of the view that 'For decades this had been the seat of white supremacy, and now it was the site of a rainbow gathering of different colours and nations for the installation of South Africa's first democratic, non-racial government'. Elaborate in about 40 words with reference to the extract. (2)",
+      "marks": 2,
+      "options": null,
+      "answer": "Nelson Mandela was addressing the Nation in Union Buildings which was considered the official seat of the South African government for decades. Mandela adds that the Union Buildings had been the centre of White dominance for decades. However, the ceremony had instead made it the location of a rainbow gathering of people of all colours and nationalities to form South Africa's first democratic, non-racial government.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "iv. Which phrase would correctly substitute the word 'amphitheatre' in the given sentence from the extract? (1)\nThe ceremonies took place in the lovely sandstone amphitheatre formed by the Union Buildings in Pretoria.",
+      "marks": 1,
+      "options": null,
+      "answer": "A semicircular seating gallery in a theatre / a very large auditorium.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     }
+    ]
+   }
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch22_How_to_Tell_Wild_Animals",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\ni. Read the following extracts and answer the question/complete the sentences that follow:\nThough to distinguish beasts of prey\nA novice might nonplus,\nThe crocodile you always may\nTell from the Hyena thus;\nHyenas come with merry smiles;\nBut if they weep they're Crocodiles.",
+   "subparts": [
+    {
+     "text": "1. A novice would get confused to differentiate between ________.(1)",
+     "marks": 1,
+     "options": null,
+     "answer": "Wild animals like crocodile and hyena.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "2. How are the crocodiles identified in the forest?(1)",
+     "marks": 1,
+     "options": null,
+     "answer": "tears/weeping while they eat their prey.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "3. What, according to the extract, would cause bewilderment?(1)",
+     "marks": 1,
+     "options": [
+      "a. Discovering the similarity between different preys of beasts.",
+      "b. Analysing habits of beasts that prey on hyenas.",
+      "c. Knowing the difference between several beasts of prey.",
+      "d. Drawing the similarities between crocodiles and hyenas."
+     ],
+     "answer": "(c) Knowing the difference between several beasts of prey.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "4. What differences can be drawn between a hyena and a crocodile as given in the extract?(2)",
+     "marks": 2,
+     "options": null,
+     "answer": "Hyenas are very deceptive. They will attack their victim with weird smiles and kill them. Crocodiles pretend to be weeping before attacking or killing their prey.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    }
+   ],
+   "or": {
+    "chapter": "Ch21_A_Tiger_in_the_Zoo",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "text": "ii. He stalks in his vivid stripes\nThe few steps of his cage\nOn pads of velvet quiet\nIn his quiet rage.\nHe should be lurking in shadow\nSliding through long grass\nNear the water hole\nWhere plump deer pass",
+    "subparts": [
+     {
+      "text": "i. He is in a rage because he is (1)",
+      "marks": 1,
+      "options": [
+       "a. hungry",
+       "b. tied",
+       "c. thirsty",
+       "d. in a cage"
+      ],
+      "answer": "(d) in a cage",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "ii. Why is the tiger lurking in the shadow? Answer in 40 words. (2)",
+      "marks": 2,
+      "options": null,
+      "answer": "he wants to catch his prey/he wants to hunt.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "iii. The above lines express the tiger's ________. (1)",
+      "marks": 1,
+      "options": [
+       "a. resignation",
+       "b. fear",
+       "c. anger",
+       "d. acceptance"
+      ],
+      "answer": "(c) anger",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "iv. Complete the sentence appropriately: (1)\nIt is clear that metaphor is the poetic device used for pads of velvet - because ________. (Clue : explain how metaphor is applied here.)",
+      "marks": 1,
+      "options": null,
+      "answer": "it compares the texture of the tiger's paws to the softness and smoothness of velvet, emphasizing the quiet and graceful movement of the tiger.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "v. The contrast in the above extract is between life in the forest and life in the (1)",
+      "marks": 1,
+      "options": [
+       "a. circus",
+       "b. national park",
+       "c. cave",
+       "d. zoo"
+      ],
+      "answer": "(d) zoo",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     }
+    ]
+   },
+   "note": "Alternative (ii) prints five sub-questions carrying 1+2+1+1+1 = 6 marks although the question is for 5 marks; marks kept as printed."
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+   "note": "Five 3-mark questions are printed; any four are to be attempted (12 marks).",
+   "subparts": [
+    {
+     "text": "i. The relationship between the writer's family and the baker was a very commercial one. Do you agree? Justify your response. (Glimpses of India) [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "No, the writer says he was their friend. The baker used to be our friend, companion and guide.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "ii. What is the underlying message for us in our hectic life with reference to the poem, 'Dust of Snow'? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "The underlying message for us in our hectic life with reference to the poem 'Dust of Snow' is that we should enjoy nature to our full capacity and we should have a positive outlook even towards simple acts because they can lead to the learning of greater lessons of enjoying life. No matter how small or significant an incident is, it is the reaction that matters the most.",
+     "chapter": "Ch19_Dust_of_Snow"
+    },
+    {
+     "text": "iii. What was the postman's reaction to see the letter addressed to God? What did he do with the letter? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "When the postman saw the letter, he was astonished as it was addressed to God. He burst into laughter. In his career as a postman, he had never seen such an address. He didn't understand what to do with that letter. So, he went to the postmaster and showed it to him.",
+     "chapter": "Ch01_A_Letter_to_God"
+    },
+    {
+     "text": "iv. How did Anne justify her being a chatterbox in her essay? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Anne wanted to provide convincing arguments to her teacher to support her talkative nature. She argued that talking was a student's trait and important to a student's life. However, she would do her best to keep it under control. In her essay, she wrote that she would never be able to cure herself of the habit. The reason was that her mother talked as much as she did. Besides, there was not much one could do about inherited traits.",
+     "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+    },
+    {
+     "text": "v. Why did Custard cry for a nice safe cage? Why is the dragon called a cowardly dragon? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Custard cried for a nice safe cage to be safe in case some danger comes up. Everybody else in the house is brave and the dragon is the only one who fears a lot. The dragon had a very ferocious and frightening appearance but did not behave in an aggressive manner. This made others think that he was a coward and thus he is called the 'cowardly dragon'.",
+     "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+   "note": "Three 3-mark questions are printed; any two are to be attempted (6 marks).",
+   "subparts": [
+    {
+     "text": "i. \"The only way was to get Tricky out of the house for a period.\" Evaluate why James Herriot had planned this in advance and how did he execute this plan at the surgery. (A Triumph of Surgery) [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Tricki was kept at the surgery to prevent him from overeating, which had become harmful to his health. He was in such poor condition that he could barely walk, his tongue lolling out, and his body swollen like a bloated sausage. Herriot decided to monitor his diet and overall health closely to help him recover.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "ii. How does Bholi become her teacher's masterpiece? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Bholi was definitely her teacher's masterpiece as she was not a simpleton anymore. She became the ideal human being. Now she could take her own decisions. She was capable to choose between right and wrong. Under her guidance, she overcame her handicap of stammering. She changed into a bold and confident girl. Now she had the courage to revolt against a social evil of dowry and refused to marry the greedy Bishamber Nath.",
+     "chapter": "Ch17_Footprints_Bholi"
+    },
+    {
+     "text": "iii. Despite his unusual appearance, Ausable's presence of mind helped him get rid of Max.\nComment with reference to the story The Midnight Visitor. [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Despite his unusual appearance, Ausable's quick thinking helped him outsmart Max. He invented a story about a balcony to explain Max's entry. When Henry, the waiter, knocked, Ausable pretended it was the police, causing Max to panic and escape through the nonexistent balcony. Ausable's presence of mind turned a dangerous situation into a clever victory.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "options": null,
+   "figure": null,
+   "subparts": null,
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words\n\ni. Read the extracts given below and comment on the difference in the nature of help both the characters, of these two stories, received.\na. Suddenly I came out of the clouds and saw two straight lines of lights in front of me. It was a runway! An airport! I was safe! I turned to look for my friend in the black aeroplane but the sky was empty. [The Black Aeroplane]\nb. All through the night Lencho thought only of his one hope: the help of God...The following Sunday, at daybreak he began to write a letter...It was nothing less than a letter to God...The following Sunday Lencho came a bit earlier than usual to ask if there was a letter for him.... Lencho showed not the slightest surprise on seeing the money, such was his confidence. [A Letter to God]",
+   "answer": "Both Lencho and the pilot of the Dakola plane needed help and there is no doubt that both of them received the help too. But still there is a lot of difference between the help received by both of them.\nIn 'The Black Aeroplane' the pilot was caught in the storm and it was difficult to come out of it. But suddenly, out of nowhere, a black aeroplane appeared and helped him come out of the storm. The black aeroplane was without lights but it steered the pilot through the dark clouds. He landed at an airport. He was so happy. He decided to thanks the pilot of that mysterious aeroplane but was told by the lady in the control room that there was no other aeroplane in the air other than his. It is a mystery which was not resolved. The only thing was that he received an unexpected help and was thankful for it.\nOn the other hand, in 'A letter to God', Lencho needed help in the form of pesos to look after his family. He wrote a letter to God and asked for hundred pesos. His conviction touched the postmaster who raised money from his staff and sent it to Lencho. In this case, Lencho received help as he had asked for it. The source of his aid has clearly been revealed whereas it was not revealed in the case of pilot unlike the pilot in The Black Aeroplane', Lencho is not happy and satisfied with the help that he had received.",
+   "or": {
+    "chapter": "Ch24_Amanda",
+    "text": "ii. Amanda loves to live in a dream world and does not appreciate any interference. A parent tries to bring her back to the real world. Therefore, there is always a conflict going on. Elaborate.",
+    "options": null,
+    "figure": null,
+    "answer": "The girl Amanda loves to live in a dream world due to escapism she is always escaping her life in the real world. She can not enjoy golden silence and unbroken freedom in the real world. She yearns for freedom and peace in her life contrary to which she was always scolded. She is constantly reminded of her mistakes. Her parents want her to follow the code of conduct of good behavior. When Amanda thinks herself as a mermaid she desires a tranquil and quiet existence. But in the very next moment, she is dragged from her fantasies by her mother, who inquires her about cleaning her room and shoes. When she imagines herself being Rapunzel, she wishes never to have her hair fall from the tower, and never permit access to the tower to live alone a tranquil life. Her yearning for peace and her parent's persistent pestering to discipline her stands always creates a conflict."
+   }
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch15_Footprints_The_Making_of_a_Scientist",
+   "options": null,
+   "figure": null,
+   "subparts": null,
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words.\n\ni. Imagine you are Richard. You have been invited by Mr. Weiherer to deliver a short address to the students at your erstwhile school. You have been asked to encourage them to take an interest in the study of Science and how research in Science can help the world. Write that short speech.",
+   "answer": "Hello,\nMy dear young friends,\nIt's an honour to stand amongst you and say a few words on how Science has changed the life of a man. Don't you think so what am saying is true; I sincerely feel that study of science has brought a revolution in the world in terms of progress and growth. There has been research after research carried on by scientists which has brought the world closer as a one single unit. Scientific development in one corner of world is affecting every person's life in some way or the other. All comforts that we enjoy in life be it Computers, T.V., Fridge, Mobiles or Airplanes are all the products of scientist's efforts and labour. I very earnestly feel that every child in his school time should pick up the study of science which prepares him to face the world with much more confidence. Being a science student myself, I feel highly blessed to take up the study of science which has developed me into a sound individual.\nThanks!\nHave a great day!\nGood day.",
+   "or": {
+    "chapter": "Ch11_Footprints_The_Thiefs_Story",
+    "text": "ii. Hari Singh says- He knew it but neither his lips nor his eyes showed anything. Anil successfully addressed the situation by not addressing it at all. Elaborate based on your reading of The Thief's Story.",
+    "options": null,
+    "figure": null,
+    "answer": "Anil was a large-hearted person he realized, from the dampness of notes, that Hari Singh had tried to steal the money but since he came back and kept the money back at its place, made Anil realize that Hari Singh was sorry for his act. So, he decided to remain quiet about the matter. He pretended that all was normal and nothing had happened. Anil decided to give him another chance as it dawned upon him that Hari Singh's honesty had prevailed over his temptation. He knew that the discussion of the theft would be counterproductive so in order to encourage and reordered him. He didn't hand him over to the police and 'neither his lips nor his eyes showed anything'."
+   }
+  }
+ ]
+}

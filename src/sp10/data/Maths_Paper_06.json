@@ -1,0 +1,705 @@
+{
+ "subject": "Maths",
+ "paper": "Paper_06",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "If a and b are two positive integers such that the least prime factor of a is 3 and the least prime factor of b is 5. Then, the least prime factor of $(a + b)$ is",
+   "options": [
+    "3",
+    "5",
+    "2",
+    "8"
+   ],
+   "figure": null,
+   "answer": "(c) 2 — Since $5+3=8$, the least prime factor of $a+b$ has to be 2, unless $a+b$ is a prime greater than 2. If $a+b$ were a prime greater than 2 it would be odd, so one of a, b would be even; but then its least prime factor would be 2, which is not 3 or 5. Both a and b are therefore odd, a+b is even and its least prime factor is 2.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "The graph of $y = p(x)$ in a figure given below, for some polynomial $p(x)$. Find the number of zeroes of $p(x)$.",
+   "options": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(b) 2 — The number of zeroes is 2 as the graph intersects the x-axis at two points.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "The number of solutions for two linear equations representing parallel lines is/are",
+   "options": [
+    "0",
+    "1",
+    "$\\infty$",
+    "2"
+   ],
+   "figure": "fig_p02_1.png",
+   "answer": "(a) 0 — Two linear equations representing parallel lines have no solution (the system is inconsistent).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "For what values of k, the equation $kx^2 - 6x - 2 = 0$ has real roots?",
+   "options": [
+    "$k \\leq -2$",
+    "$k \\leq \\frac{-9}{2}$",
+    "$k \\leq -5$",
+    "$k \\geq \\frac{-9}{2}$"
+   ],
+   "figure": null,
+   "answer": "(d) $k \\geq \\frac{-9}{2}$ — For real roots $b^2-4ac \\geq 0$: $(-6)^2-4\\times k\\times(-2)\\geq 0 \\Rightarrow 36+8k\\geq 0 \\Rightarrow k\\geq \\frac{-9}{2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "The nth term of the A.P. 63, 65, 67, 69, ... and the A.P. 3, 10, 17, 24, ... are equal, then the value of n is",
+   "options": [
+    "14",
+    "15",
+    "13",
+    "12"
+   ],
+   "figure": null,
+   "answer": "(c) 13 — For the 1st A.P., $a=63, d=2$: $T_n = 63+(n-1)2 = 2n+61$. For the 2nd A.P., $a=3, d=7$: $t_n = 3+(n-1)7 = 7n-4$. Equating, $7n-4=2n+61 \\Rightarrow 5n=65 \\Rightarrow n=13$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "The distance between the points $(3, -2)$ and $(-3, 2)$ is:",
+   "options": [
+    "$2\\sqrt{10}$",
+    "$\\sqrt{52}$",
+    "$4\\sqrt{10}$",
+    "40"
+   ],
+   "figure": null,
+   "answer": "(b) $\\sqrt{52}$ — $d=\\sqrt{(-3-3)^2+(2-(-2))^2}=\\sqrt{36+16}=\\sqrt{52}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "If the line segment joining the points $(3, -4)$ and $(1, 2)$ is trisected at points $P(a, -2)$ and $Q\\left(\\frac{5}{3}, b\\right)$. Then,",
+   "options": [
+    "$a=\\frac{2}{3}, b=\\frac{1}{3}$",
+    "$a=\\frac{7}{3}, b=0$",
+    "$a=\\frac{1}{3}, b=1$",
+    "$a=\\frac{8}{3}, b=\\frac{2}{3}$"
+   ],
+   "figure": null,
+   "answer": "(b) $a=\\frac{7}{3}, b=0$ — P divides AB, A(3,-4), B(1,2), in the ratio 1:2, so $a=\\frac{1\\times1+2\\times3}{1+2}=\\frac{7}{3}$. Q divides AB in the ratio 2:1, so $b=\\frac{2\\times2+1\\times(-4)}{2+1}=0$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "In the figures find the measures of $\\angle P$ and $\\angle R$",
+   "options": [
+    "$20^\\circ, 30^\\circ$",
+    "$50^\\circ, 40^\\circ$",
+    "$40^\\circ, 50^\\circ$",
+    "$30^\\circ, 20^\\circ$"
+   ],
+   "figure": "fig_p03_c.png",
+   "answer": "(a) $20^\\circ, 30^\\circ$ — In $\\triangle ABC$, $\\angle A=180^\\circ-30^\\circ-20^\\circ=130^\\circ$. $\\frac{AB}{QR}=\\frac{45}{5}=9$ and $\\frac{AC}{QP}=\\frac{63}{7}=9$, with included angles $\\angle A=\\angle Q=130^\\circ$, so by SAS similarity $\\triangle ABC\\sim\\triangle QRP$. Hence $\\angle P=\\angle C=20^\\circ$ and $\\angle R=\\angle B=30^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In Figure, AB is a tangent to the circle with centre at O from an external point A. If $OA = 6$ cm and $OB = 3\\sqrt{3}$ cm, then the length of the tangent is",
+   "options": [
+    "$\\sqrt{33}$ cm",
+    "$3\\sqrt{3}$ cm",
+    "9 cm",
+    "3 cm"
+   ],
+   "figure": "fig_p03_2.png",
+   "answer": "(d) 3 cm — $OB\\perp AB$ (tangent is perpendicular to the radius). In right $\\triangle OBA$, $OA^2=OB^2+AB^2 \\Rightarrow 36=27+AB^2 \\Rightarrow AB=3$ cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "If the distance of a tangent to a circle from its centre is 4 cm, then the length of diameter of the circle is:",
+   "options": [
+    "8 cm",
+    "16 cm",
+    "2 cm",
+    "4 cm"
+   ],
+   "figure": null,
+   "answer": "(a) 8 cm — The distance of a tangent from the centre is the radius, 4 cm, so the diameter is 8 cm.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Which of the following is true for all values of $\\theta\\ (0^\\circ \\leq \\theta \\leq 90^\\circ)$?",
+   "options": [
+    "$\\sec^2\\theta - \\tan^2\\theta = 1$",
+    "$\\cos^2\\theta - \\sin^2\\theta = 1$",
+    "$\\cot^2\\theta - \\tan^2\\theta = 1$",
+    "$\\mathrm{cosec}^2\\theta - \\sec^2\\theta = 1$"
+   ],
+   "figure": null,
+   "answer": "(a) $\\sec^2\\theta-\\tan^2\\theta=1$ — since $\\sec^2\\theta=1+\\tan^2\\theta$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $8\\tan x = 15$, then $\\sin x - \\cos x$ is equal to",
+   "options": [
+    "$\\frac{7}{17}$",
+    "$\\frac{17}{7}$",
+    "$\\frac{1}{17}$",
+    "$\\frac{8}{17}$"
+   ],
+   "figure": null,
+   "answer": "(a) $\\frac{7}{17}$ — $\\tan x=\\frac{15}{8}$, so Perpendicular = 15, Base = 8, Hypotenuse = $\\sqrt{64+225}=17$. $\\sin x-\\cos x=\\frac{15}{17}-\\frac{8}{17}=\\frac{7}{17}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "If the angle of depression of a car from a 100 m high tower is $45^\\circ$, then the distance of the car from the tower is",
+   "options": [
+    "$200\\sqrt{3}$ m",
+    "$100\\sqrt{3}$ m",
+    "200 m",
+    "100 m"
+   ],
+   "figure": null,
+   "answer": "(d) 100 m — Let the distance be x m. $\\tan45^\\circ=\\frac{100}{x}\\Rightarrow 1=\\frac{100}{x}\\Rightarrow x=100$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The ratio of the area of a quadrant of a circle to the area of the same circle is:",
+   "options": [
+    "1 : 2",
+    "1 : 4",
+    "4 : 1",
+    "2 : 1"
+   ],
+   "figure": null,
+   "answer": "(b) 1 : 4 — A quadrant is one fourth of the circle.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The area of the sector of a circle of radius 12 cm is $60\\pi\\ \\mathrm{cm}^2$. The central angle of this sector is:",
+   "options": [
+    "$6^\\circ$",
+    "$150^\\circ$",
+    "$75^\\circ$",
+    "$120^\\circ$"
+   ],
+   "figure": null,
+   "answer": "(b) $150^\\circ$ — $\\frac{\\theta}{360}\\times\\pi r^2=60\\pi \\Rightarrow \\theta=\\frac{60\\times360}{12\\times12}=150^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "Two coins are tossed together. The probability of getting at least one tail is:",
+   "options": [
+    "$\\frac{1}{4}$",
+    "$\\frac{1}{2}$",
+    "1",
+    "$\\frac{3}{4}$"
+   ],
+   "figure": null,
+   "answer": "(d) $\\frac{3}{4}$ — Outcomes {HH, HT, TH, TT}: 4 in all; at least one tail in {HT, TH, TT}: 3. $P=\\frac{3}{4}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "A game of chance consists of spinning an arrow which comes to rest pointing at one of the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and these values are equally likely outcomes. The probability that it will point at a number greater than 5 is",
+   "options": [
+    "$\\frac{1}{4}$",
+    "$\\frac{1}{2}$",
+    "$\\frac{1}{5}$",
+    "$\\frac{1}{3}$"
+   ],
+   "figure": null,
+   "answer": "(b) $\\frac{1}{2}$ — Favourable outcomes {6, 7, 8, 9, 10} = 5 out of 10, so $P=\\frac{5}{10}=\\frac{1}{2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "The cumulative frequency table is useful in determining",
+   "options": [
+    "All of these",
+    "Mode",
+    "Median",
+    "Mean"
+   ],
+   "figure": null,
+   "answer": "(c) Median",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "Assertion (A): In a solid hemisphere of radius 10 cm, a right cone of same radius is removed out. The surface area of the remaining solid is 570.74 cm$^2$ [Take $\\pi = 3.14$ and $\\sqrt{2} = 1.4$]\nReason (R): Expression used here to calculate Surface area of remaining solid = Curved surface area of hemisphere + Curved surface area of cone",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true. (The official solution gives only this answer.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Assertion (A): Sum of first hundred even natural numbers divisible by 5 is 500\nReason (R): Sum of first n-terms of an A.P. is given by $S_n=\\frac{n}{2}[a+l]$ where $l$ = last term.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true. Even natural numbers divisible by 5 are 10, 20, 30, 40, ... an A.P. with $a=10$, $d=10$. $S_{100}=\\frac{100}{2}[2(10)+99(10)]=50500$, not 500. So the reason is correct.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Find the LCM and HCF of the integers 17, 23 and 29 by applying the prime factorisation method.",
+   "options": null,
+   "figure": null,
+   "answer": "Since the three numbers are prime: $17=1\\times17$, $23=1\\times23$, $29=1\\times29$. $\\Rightarrow$ HCF $=1$ and LCM $=17\\times23\\times29=11339$.",
+   "or": {
+    "chapter": "Ch01_Real_Numbers",
+    "text": "Find the largest four-digit number which when divided by 4, 7 and 13 leaves a remainder 3 in each case.",
+    "options": null,
+    "figure": null,
+    "answer": "LCM of (4, 7, 13) = 364. Largest 4-digit number = 9999. On dividing 9999 by 364 the remainder is 171. The greatest 4-digit number divisible by 4, 7 and 13 is $9999-171=9828$. Hence required number $=9828+3=9831$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "text": "ABC is an isosceles triangle with $AB = AC$, circumscribed about a circle. Prove that BC is bisected at E.",
+   "options": null,
+   "figure": "fig_p05_0.png",
+   "answer": "AB = AC ...(i). AD = AF (tangents from A) ...(ii). Subtracting, $AB-AD=AC-AF \\Rightarrow BD=CF$ ...(iii). Also BD = BE (tangents from B) and CF = CE (tangents from C). From (iii), BE = CE. So BC is bisected at the point of contact E.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "text": "In Fig., AB is diameter of a circle centered at O, BC is tangent to the circle at B. If OP bisects the chord AD and $\\angle AOP = 60^\\circ$, then find $m\\angle C$.",
+   "options": null,
+   "figure": "fig_p05_1.png",
+   "answer": "Since OP bisects the chord AD, $\\angle OPA=90^\\circ$ (the line from the centre bisecting a chord is perpendicular to it). In $\\triangle AOP$, $\\angle A=180^\\circ-60^\\circ-90^\\circ=30^\\circ$. The tangent at B is perpendicular to the radius, so $\\angle ABC=90^\\circ$. In $\\triangle ABC$, $\\angle C=180^\\circ-30^\\circ-90^\\circ=60^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove the trigonometric identity : $\\frac{\\sin\\theta}{1+\\cos\\theta}+\\frac{1+\\cos\\theta}{\\sin\\theta}=2\\,\\mathrm{cosec}\\,\\theta$.",
+   "options": null,
+   "figure": null,
+   "answer": "LHS $=\\frac{\\sin^2\\theta+(1+\\cos\\theta)^2}{\\sin\\theta(1+\\cos\\theta)}=\\frac{\\sin^2\\theta+1+2\\cos\\theta+\\cos^2\\theta}{\\sin\\theta(1+\\cos\\theta)}=\\frac{2+2\\cos\\theta}{\\sin\\theta(1+\\cos\\theta)}=\\frac{2(1+\\cos\\theta)}{\\sin\\theta(1+\\cos\\theta)}=\\frac{2}{\\sin\\theta}=2\\,\\mathrm{cosec}\\,\\theta$ = RHS.",
+   "or": {
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "Given $15\\cot A = 8$ find $\\sin A$ and $\\sec A$.",
+    "options": null,
+    "figure": null,
+    "answer": "$\\cot A=\\frac{8}{15}=\\frac{AB}{BC}$, so take $AB=8k$, $BC=15k$. $AC^2=64k^2+225k^2=289k^2 \\Rightarrow AC=17k$. $\\sin A=\\frac{BC}{AC}=\\frac{15}{17}$ and $\\sec A=\\frac{AC}{AB}=\\frac{17}{8}$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "Write the formula for the area of a segment in a circle of radius r given that the sector angle is $\\theta$ (degrees).",
+   "options": null,
+   "figure": null,
+   "answer": "Area of segment = Area of sector $-$ Area of $\\triangle AOB$ $=\\frac{\\theta}{360}\\pi r^2-r^2\\sin\\frac{\\theta}{2}\\cos\\frac{\\theta}{2}=\\left(\\frac{\\pi\\theta}{360}-\\sin\\frac{\\theta}{2}\\cos\\frac{\\theta}{2}\\right)r^2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Lenin is preparing dinner plates. He has 12 pieces of chicken and 16 rolls. If he wants to make all the plates identical without any food left over, what is the greatest number of plates Lenin can prepare?",
+   "options": null,
+   "figure": null,
+   "answer": "To make identical plates with nothing left over, the number of plates must divide both 12 and 16 exactly; the greatest such number is HCF(12, 16) = 4. Each of the 4 plates gets 3 pieces of chicken and 4 rolls. Hence the greatest number of plates is 4.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Polynomials",
+   "text": "Find the zeroes of the quadratic polynomial $3x^2 - 2$ and verify the relationship between the zeroes and the coefficients.",
+   "options": null,
+   "figure": null,
+   "answer": "$3x^2-2=0 \\Rightarrow x^2=\\frac{2}{3} \\Rightarrow x=\\pm\\sqrt{\\frac{2}{3}}$. Zeroes: $\\sqrt{\\frac{2}{3}}$ and $-\\sqrt{\\frac{2}{3}}$. Here $a=3, b=0, c=-2$. Sum of zeroes $=0=\\frac{-b}{a}=\\frac{-0}{3}$. Product of zeroes $=-\\frac{2}{3}=\\frac{c}{a}$. Hence verified.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch13_Statistics",
+   "text": "The observations 29, 32, 48, 50, x, $x + 2$, 72, 78, 84, 95 are arranged in ascending order. What is the value of x if the median of the data is 63?",
+   "options": null,
+   "figure": null,
+   "answer": "$n=10$ (even), so median $=\\frac{5\\text{th}+6\\text{th observation}}{2}$. $63=\\frac{x+(x+2)}{2}\\Rightarrow126=2x+2\\Rightarrow x=62$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "A part of monthly expenses of a family is constant and the remaining varies with the price of wheat. When the rate of wheat is Rs.250 a quintal, the total monthly expenses of the family are Rs.1000 and when it is Rs.240 a quintal, the total monthly expenses are Rs.980. Find the total monthly expenses of the family when the cost of wheat is Rs.350 a quintal.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the constant expenditure be Rs. x and the wheat consumed be y quintals. Then $1000=x+250y$ ...(i) and $980=x+240y$ ...(ii). Subtracting, $y=2$. From (i), $x=1000-500=500$. At Rs.350 per quintal, total expenses $=500+350\\times2=$ Rs.1200.",
+   "or": {
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+    "text": "Solve the system of equations graphically:\n$3x - 4y = 7$\n$5x + 2y = 3$\nShade the region between the lines and the y-axis",
+    "options": null,
+    "figure": null,
+    "answer": "$3x-4y=7$: $y=\\frac{3x-7}{4}$; points (1, -1) and (-3, -4). $5x+2y=3$: $y=\\frac{3-5x}{2}$; points (1, -1) and (3, -6). Plotting both lines, they intersect at A(1, -1). Hence $x=1$, $y=-1$ is the solution. (The region between the two lines and the y-axis is shaded in the graph.)"
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove the following trigonometric identity: $\\frac{\\tan\\theta}{1+\\cot\\theta}+\\frac{\\cot\\theta}{1+\\tan\\theta}=\\tan\\theta+\\cot\\theta-1$",
+   "options": null,
+   "figure": null,
+   "answer": "LHS $=\\frac{\\tan\\theta}{1+\\frac{1}{\\tan\\theta}}+\\frac{\\frac{1}{\\tan\\theta}}{1+\\tan\\theta}=\\frac{\\tan^2\\theta}{1+\\tan\\theta}+\\frac{1}{\\tan\\theta(1+\\tan\\theta)}=\\frac{\\tan^3\\theta+1}{\\tan\\theta(1+\\tan\\theta)}=\\frac{(1+\\tan\\theta)(\\tan^2\\theta-\\tan\\theta+1)}{\\tan\\theta(1+\\tan\\theta)}=\\tan\\theta-1+\\cot\\theta$ = RHS.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "A point P is 26 cm from the centre of the circle. The length of the tangent drawn from P to the circle is 24 cm. Find the radius of the circle.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the tangent touch the circle at Q; $\\angle OQP=90^\\circ$. $OP^2=OQ^2+PQ^2 \\Rightarrow 676=OQ^2+576 \\Rightarrow OQ^2=100 \\Rightarrow OQ=10$ cm. Radius = 10 cm.",
+   "or": {
+    "chapter": "Ch10_Circles",
+    "text": "In the given figure, O is the centre of the circle and TP is the tangent to the circle from an external point T. If $\\angle PBT = 30^\\circ$, prove that BA: AT = 2:1.",
+    "options": null,
+    "figure": "fig_p06_0.png",
+    "answer": "AB is a diameter, so $\u0007ngle APB=90^\\circ$ (angle in a semicircle). By the alternate segment theorem $\u0007ngle TPA=\u0007ngle PBA=30^\\circ$. In $\triangle APB$, $\u0007ngle BAP=180^\\circ-90^\\circ-30^\\circ=60^\\circ$. Exterior angle of $\triangle APT$: $\u0007ngle BAP=\u0007ngle APT+\u0007ngle PTA\\Rightarrow60^\\circ=30^\\circ+\u0007ngle PTA\\Rightarrow\u0007ngle PTA=30^\\circ$. So $\u0007ngle APT=\u0007ngle PTA$ and $AP=AT$. In right $\triangle ABP$, $\\sin30^\\circ=\frac{AP}{BA}\\Rightarrow\frac{1}{2}=\frac{AT}{BA}$. Hence $BA:AT=2:1$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch13_Statistics",
+   "text": "Find the mean marks of students for the following distribution:\n| Marks | Number of students |\n|---|---|\n| 0 and above | 80 |\n| 10 and above | 77 |\n| 20 and above | 72 |\n| 30 and above | 65 |\n| 40 and above | 55 |\n| 50 and above | 43 |\n| 60 and above | 28 |\n| 70 and above | 16 |\n| 80 and above | 10 |\n| 90 and above | 8 |\n| 100 and above | 0 |",
+   "options": null,
+   "figure": null,
+   "answer": "Converting to class intervals (frequency = difference of consecutive values): 0-10: 3, 10-20: 5, 20-30: 7, 30-40: 10, 40-50: 12, 50-60: 15, 60-70: 12, 70-80: 6, 80-90: 2, 90-100: 8; $\\sum f_i=80$. Take $a=55$, $h=10$, $u_i=\\frac{x_i-55}{10}$: $u_i$ = -5, -4, -3, -2, -1, 0, 1, 2, 3, 4 and $f_iu_i$ = -15, -20, -21, -20, -12, 0, 12, 12, 6, 32, so $\\sum f_iu_i=-26$. Mean $=a+\\frac{\\sum f_iu_i}{\\sum f_i}\\times h=55+\\frac{-26}{80}\\times10=55-3.25=51.75$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch06_Triangles",
+   "text": "In an isosceles $\\triangle ABC$, the base AB is produced both the ways to P and Q such that $AP \\times BQ = AC^2$. Prove that $\\triangle APC \\sim \\triangle BCQ$.",
+   "options": null,
+   "figure": "fig_p06_1.png",
+   "answer": "Given CA = CB and $AP\\times BQ=AC^2$. Then $AP\\times BQ=AC\\times BC$, so $\\frac{AP}{BC}=\\frac{AC}{BQ}$ ...(i). Since CA = CB, $\\angle CAB=\\angle CBA$ ...(ii). $\\angle CAB+\\angle CAP=180^\\circ$ and $\\angle CBA+\\angle CBQ=180^\\circ$ (linear pairs); with (ii), $\\angle CAP=\\angle CBQ$ ...(v). In $\\triangle APC$ and $\\triangle BCQ$: $\\angle CAP=\\angle CBQ$ and $\\frac{AP}{BC}=\\frac{AC}{BQ}$. By SAS similarity, $\\triangle APC\\sim\\triangle BCQ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "A train travels at a certain average speed for a distance of 360 km. It would have taken 48 minutes less to travel the same distance if its speed was 5 km/hour more. Find the original speed of the train.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the original speed be x km/h. $\\frac{360}{x}-\\frac{360}{x+5}=\\frac{48}{60}=\\frac{4}{5}$. $\\Rightarrow\\frac{360\\cdot5}{x(x+5)}=\\frac{4}{5}\\Rightarrow\\frac{1800}{x^2+5x}=\\frac{4}{5}\\Rightarrow x^2+5x-2250=0\\Rightarrow(x+50)(x-45)=0$. $x=-50$ (rejected, speed cannot be negative) or $x=45$. Original speed = 45 km/h.",
+   "or": {
+    "chapter": "Ch04_Quadratic_Equations",
+    "text": "Solve for x: $\\frac{3}{x+1}-\\frac{2}{3x-1}=\\frac{1}{2}\\ \\left(x\\neq-1,\\frac{1}{3}\\right)$",
+    "options": null,
+    "figure": null,
+    "answer": "$\\frac{3(3x-1)-2(x+1)}{(x+1)(3x-1)}=\\frac{1}{2}\\Rightarrow 2(7x-5)=3x^2+2x-1\\Rightarrow14x-10=3x^2+2x-1\\Rightarrow x^2-4x+3=0\\Rightarrow(x-1)(x-3)=0$. Hence $x=1$ or $x=3$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "text": "From one face of a solid cube of side 14 cm, the largest possible cone is carved out. Find the volume and surface area of the remaining solid. (Use $\\pi=\\frac{22}{7}$, $\\sqrt{5}=2.2$)",
+   "options": null,
+   "figure": null,
+   "answer": "Cone: diameter 14 cm, radius 7 cm, height 14 cm; slant height $l=\\sqrt{14^2+7^2}=7\\sqrt{5}=15.4$ cm. Volume of remaining solid = volume of cube $-$ volume of cone $=14^3-\\frac{1}{3}\\times\\frac{22}{7}\\times7^2\\times14=2744-\\frac{2156}{3}=\\frac{6076}{3}\\ \\mathrm{cm^3}$. Surface area = surface area of cube $-$ area of base of cone + curved surface area of cone $=6\\times14\\times14-\\frac{22}{7}\\times7\\times7+\\frac{22}{7}\\times7\\times15.4=1176-154+338.8=1360.8\\ \\mathrm{cm^2}$.",
+   "or": {
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "A solid is in the shape of a right-circular cone surmounted on a hemisphere, the radius of each of them being 7 cm and the height of the cone is equal to its diameter. Find the volume of the solid.",
+    "options": null,
+    "figure": null,
+    "answer": "$r=7$ cm, $h=2r=14$ cm. Volume = cone + hemisphere $=\\frac{1}{3}\\pi r^2h+\\frac{2}{3}\\pi r^3=\\frac{2}{3}\\pi r^3+\\frac{2}{3}\\pi r^3=\\frac{4}{3}\\pi r^3=\\frac{4}{3}\\times\\frac{22}{7}\\times7\\times7\\times7=\\frac{4312}{3}=1437.33\\ \\mathrm{cm^3}$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Jaspal Singh is an auto driver. His autorickshaw was too old and he had to spend a lot of money on repair and maintenance every now and then. One day he got to know about the EV scheme of the Government of India where he can not only get a good exchange bonus but also avail heavy discounts on the purchase of an electric vehicle. So, he took a loan of Rs.1,18,000 from a reputed bank and purchased a new autorickshaw.\nJaspal Singh repays his total loan of 118000 rupees by paying every month starting with the first instalment of 1000 rupees.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "If he increases the installment by 100 rupees every month, then what amount will be paid by him in the 4th installment?",
+     "marks": 1,
+     "options": null,
+     "answer": "Installments form an A.P. 1000, 1100, 1200, 1300, ... with $a=1000$, $d=100$, so $a_4=1000+3\times100=1300$, i.e. Rs.1300. (The official solution prints Rs.1400 here, which is a slip; its own list gives the 4th month as 1300.)"
+    },
+    {
+     "text": "If he increases the installment by 100 rupees every month, then what amount will be paid by him in the 30th installment?",
+     "marks": 1,
+     "options": null,
+     "answer": "$a_{30}=1000+(30-1)\\times100=3900$, i.e. Rs.3900."
+    },
+    {
+     "text": "What is the total amount paid till 30th installment?",
+     "marks": 2,
+     "options": null,
+     "answer": "$S_{30}=\\frac{30}{2}[2\\times1000+(30-1)\\times100]=15\\times4900=73500$, i.e. Rs.73500.",
+     "or": {
+      "text": "What amount of loan does he still have to pay after 30th installment?",
+      "answer": "Remaining amount $=118000-73500=$ Rs.44500."
+     }
+    }
+   ]
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Using Cartesian Coordinates we mark a point on a graph by how far along and how far up it is.\nThe left-right (horizontal) direction is commonly called X-axis.\nThe up-down (vertical) direction is commonly called Y-axis.\nIn Green Park, New Delhi Suresh is having a rectangular plot ABCD as shown in the following figure. Sapling of Gulmohar is planted on the boundary at a distance of 1 m from each other. In the plot, Suresh builds his house in the rectangular area PQRS. In the remaining part of plot, Suresh wants to plant grass.",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the coordinates of the midpoints of the diagonal QS.",
+     "marks": 1,
+     "options": null,
+     "answer": "From the figure Q(10, 6) and S(3, 2). Midpoint of QS $=\\left(\\frac{10+3}{2},\\frac{6+2}{2}\\right)=(6.5, 4)$."
+    },
+    {
+     "text": "Find the length and breadth of rectangle PQRS?",
+     "marks": 1,
+     "options": null,
+     "answer": "With R(10, 2): length $RS=\\sqrt{(10-3)^2+(2-2)^2}=7$ m; breadth $RQ=\\sqrt{(10-10)^2+(2-6)^2}=4$ m."
+    },
+    {
+     "text": "Find Area of rectangle PQRS.",
+     "marks": 2,
+     "options": null,
+     "answer": "Area $=l\\times b=7\\times4=28\\ \\mathrm{m^2}$.",
+     "or": {
+      "text": "Find the diagonal of rectangle.",
+      "answer": "Diagonal $=\\sqrt{l^2+b^2}=\\sqrt{7^2+4^2}=\\sqrt{65}$ m."
+     }
+    }
+   ]
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "Totem poles are made from large trees. These poles are carved with symbols or figures and mostly found in western Canada and northwestern United States.\nIn the given picture, two such poles of equal heights are standing 28 m apart. From a point somewhere between them in the same line, the angles of elevation of the top of the two poles are $60^\\circ$ and $30^\\circ$ respectively.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Draw a neat labelled diagram.",
+     "marks": 1,
+     "options": null,
+     "answer": "Let AB and CD be the two poles (each of height h) and M a point between their bases A and C on the same line, with $AM=x$, $MC=28-x$, $\\angle AMB=60^\\circ$, $\\angle CMD=30^\\circ$, $BM=p$, $DM=q$."
+    },
+    {
+     "text": "Find the height of the poles.",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\tan60^\\circ=\\frac{h}{x}\\Rightarrow h=x\\sqrt{3}$; $\\tan30^\\circ=\\frac{h}{28-x}\\Rightarrow h=\\frac{28-x}{\\sqrt{3}}$. Equating, $3x=28-x\\Rightarrow x=7$, so $h=7\\sqrt{3}$ m."
+    },
+    {
+     "text": "If the distances of the top of the poles from the point of observation are taken as p and q, then find a relation between p and q.",
+     "marks": 2,
+     "options": null,
+     "answer": "$BM=p$, $DM=q$. $\\sin60^\\circ=\\frac{h}{p}\\Rightarrow h=\\frac{p\\sqrt{3}}{2}$; $\\sin30^\\circ=\\frac{h}{q}\\Rightarrow h=\\frac{q}{2}$. Hence $\\frac{p\\sqrt{3}}{2}=\\frac{q}{2}\\Rightarrow q=\\sqrt{3}\\,p$.",
+     "or": {
+      "text": "Find the location of the point of observation.",
+      "answer": "$\\tan60^\\circ=\\frac{7\\sqrt{3}}{x}\\Rightarrow x=7$ m $=AM$, and $MC=28-7=21$ m. The point is 7 m from the first pole and 21 m from the second."
+     }
+    }
+   ]
+  }
+ ]
+}

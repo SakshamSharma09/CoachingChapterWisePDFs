@@ -1,0 +1,707 @@
+{
+ "subject": "Science",
+ "paper": "Paper_10",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "As compared to daytime, the amount of carbon dioxide released by the plants during night is more because:",
+   "options": [
+    "(a) Plants do not respire during daytime.",
+    "(b) It is not produced during daytime.",
+    "(c) It is stored in the leaves of plants during daytime.",
+    "(d) Major amount of carbon dioxide produced is used up for photosynthesis during daytime."
+   ],
+   "figure": null,
+   "answer": "(d) Major amount of carbon dioxide produced is used up for photosynthesis during daytime.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "Mendel obtained $F_2$ generation by",
+   "options": [
+    "(a) cross pollinating both the parents.",
+    "(b) self pollinating $F_1$ generation plants",
+    "(c) cross pollinating $F_1$ generation plants with plants having recessive trait.",
+    "(d) cross pollinating $F_1$ generation plants with plants having dominant trait."
+   ],
+   "figure": null,
+   "answer": "(b) self pollinating $F_1$ generation plants.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "In the food chains given below. Select the most efficient food chain in terms of energy:",
+   "options": [
+    "(a) Phytoplankton $\\rightarrow$ Zooplankton $\\rightarrow$ Small Fish $\\rightarrow$ Big Fish",
+    "(b) Plants $\\rightarrow$ Man",
+    "(c) Grass $\\rightarrow$ Grasshopper $\\rightarrow$ Frog $\\rightarrow$ Snake",
+    "(d) Plants $\\rightarrow$ Deer $\\rightarrow$ Lion"
+   ],
+   "figure": null,
+   "answer": "(b) Plants $\\rightarrow$ Man. The shorter the food chain, the less energy is lost, so it is the most efficient.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Match the following with correct response.\n\n| Column A | Column B |\n|---|---|\n| (i) Ductless gland | (a) Mammary gland |\n| (ii) Endocrine hormone system | (b) Salivary gland |\n| (iii) Milk | (c) Pancreas |\n| (iv) Glucagon | (d) Thyroid gland |",
+   "options": [
+    "(a) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(b) (i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(c) (i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(d) (i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)"
+   ],
+   "figure": null,
+   "answer": "(c) (i) - (b), (ii) - (d), (iii) - (a), (iv) - (c) (as given in the paper's key). Explanation given: a ductless gland secretes hormones directly into the bloodstream; salivary glands are exocrine and discharge through ducts; milk is produced by the mammary gland; insulin and glucagon are hormones that regulate blood glucose.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Amongst the following groups of materials the group which contains only biodegradable materials is :",
+   "options": [
+    "(a) Wood, Leather, Paper",
+    "(b) Polythene, Soap, Wool",
+    "(c) Plastic, Leather, Grass",
+    "(d) Glass, Aluminium, Neem leaves"
+   ],
+   "figure": null,
+   "answer": "(a) Wood, Leather, Paper",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "The gastric glands present in the wall of the stomach release:",
+   "options": [
+    "(a) Pepsin and Salivary amylase",
+    "(b) Mucus and Trypsin",
+    "(c) Pepsin and Trypsin",
+    "(d) Mucus and Pepsin"
+   ],
+   "figure": null,
+   "answer": "(d) Mucus and Pepsin",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Which of the following statements is not true about a bud in Hydra?",
+   "options": [
+    "(a) It forms due to repeated cell division at one specific site.",
+    "(b) It detaches from the parent body as soon as it is produced.",
+    "(c) It is an outgrowth.",
+    "(d) It becomes a new independent individual."
+   ],
+   "figure": null,
+   "answer": "(b) It detaches from the parent body as soon as it is produced.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Assertion (A): Testes in human males are located outside the abdominal cavity in scrotum.\nReason (R): Scrotum provides a lower temperature than the normal body temperature for sperm formation.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Human testes lie in the scrotum outside the abdominal cavity so that scrotal temperature stays lower than the internal body temperature.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Assertion (A): Green plants trap only 1% of the energy of sunlight that falls on their leaves.\nReason (R): All green plants are the producers in a food chain.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "What is puberty? Mention any two changes that are common to both boys and girls in early teenage years.",
+   "options": null,
+   "figure": null,
+   "answer": "Puberty is the process in which the body attains sexual maturity by having well-developed sex organs and becomes capable of reproduction.\nChanges (as given in the marking scheme): in females - development of breasts, softening of voice; in males - the larynx develops prominently and the vocal cords become longer and thicker (voice becomes hoarse); growth of hair in other areas of skin such as underarms, face, hands and legs.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Differentiate between biodegradable and non-biodegradable wastes. We generate a lot of non-biodegradable wastes in our daily life. Write any two harmful effects caused by these wastes if not disposed off properly.",
+   "options": null,
+   "figure": null,
+   "answer": "Biodegradable wastes are broken down by biological processes into simpler substances; non-biodegradable wastes are not broken down by biological processes into simpler substances.\nHarmful effects: (any two) excessive use causes pollution; pesticides enter the food chain and cause biomagnification in humans and other animals; clogging of drains; death of cattle due to ingestion of plastics.",
+   "or": {
+    "chapter": "Ch13_Our_Environment",
+    "text": "How is ozone formed in the higher levels of the atmosphere? Damage to the ozone layer is a cause of concern. Justify this statement.",
+    "options": null,
+    "figure": null,
+    "answer": "Ozone is formed in the upper atmosphere by the action of ultraviolet (UV) radiation on oxygen ($\\mathrm{O_2}$) molecules. Damage to the ozone layer is a cause of concern because more ultraviolet rays then reach the earth's surface, causing various health hazards."
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Define reflex action. With the help of a flow chart show the path of a reflex action such as sneezing.",
+   "options": null,
+   "figure": null,
+   "answer": "Reflex action is a sudden/spontaneous/immediate action in response to a stimulus in the environment, e.g. sneezing.\nStimulus $\\rightarrow$ Receptors (Nose) $\\rightarrow$ Sensory neuron $\\rightarrow$ Spinal cord (Relay neuron) $\\rightarrow$ Motor neuron $\\rightarrow$ Effector (Muscles) $\\rightarrow$ Response",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "A pure pea plant having round (R), yellow (Y) seeds is crossed with another pure pea plant having wrinkled (r), green (y) seeds. Subsequently $F_1$ progeny is self-pollinated to obtain $F_2$ progeny.\na. What do the seeds of $F_1$ generation look like?\nb. Give the possible combinations of traits in seeds of $F_2$ generation. Also give their ratio.\nc. State the reason of obtaining seeds of new combination of traits in $F_2$ generation.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Round, yellow.\nb. Round yellow : round green : wrinkled yellow : wrinkled green = 9 : 3 : 3 : 1.\nc. Traits are inherited independently (independent assortment of the traits).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "a. A gas is released during photosynthesis. Name the gas and also state the way by which the gas is evolved.\nb. What are stomata? What governs the opening and closing of stomata?",
+   "options": null,
+   "figure": null,
+   "answer": "a. Oxygen ($\\mathrm{O_2}$) is released. The solar energy trapped by chlorophyll breaks down water molecules by photolysis, which releases oxygen; this oxygen is emitted into the atmosphere.\nb. Stomata are tiny pores on the surface of leaves that help in gaseous exchange and transpiration. Their opening and closing is governed by the guard cells: when water moves into the guard cells they swell and become turgid and the stomata open (generally in light, to take in $\\mathrm{CO_2}$); when water moves out the cells become flaccid and the stomata close (when water is limited, to prevent excess water loss).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "text": "Read the following text carefully and answer the questions that follow:\nA student crossed pea plants having round and yellow seeds with pea plants having wrinkled and green seeds. He found that only one type of seeds were produced in the $F_1$ generation. When these $F_1$ generation pea plants were self-pollinated with each other, then in addition to the seed type of $F_1$ generation, some new types of seed combinations were also obtained in the $F_2$ generation.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Write any two contrasting visible characters other than the ones shown above, taken by Mendel for his experiment.",
+     "marks": 1,
+     "options": null,
+     "answer": "Flower colour (purple or white); plant size (tall or dwarf)."
+    },
+    {
+     "text": "Mention the dominant traits observed in $F_1$ generation.",
+     "marks": 1,
+     "options": null,
+     "answer": "Round and yellow seeds were observed in $F_1$, so round and yellow are the dominant traits."
+    },
+    {
+     "text": "Give reason why the traits which were not visible in the seeds of $F_1$ generation reappeared in the seeds of $F_2$ generation. Write the ratio of different types of seeds obtained in $F_2$ generation in this case.\nOR\nWhat is meant by the terms (I) dominant, and (II) recessive traits? Explain.",
+     "marks": 2,
+     "options": null,
+     "answer": "The traits not shown in $F_1$ were recessive traits, which do not express themselves in the presence of dominant genes; they reappear in $F_2$ when they are inherited independently. Ratio of seed types in $F_2$ = 9 : 3 : 3 : 1.\nOR\nI. The trait that first appears or is visibly expressed in the organism is the dominant trait.\nII. The trait that is present at the gene level but masked and does not show itself in the organism is the recessive trait."
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "In human female reproductive system state the changes that take place once fertilisation has taken place. Write the role of placenta in this process. What happens when the egg is not fertilised?",
+   "options": null,
+   "figure": null,
+   "answer": "After fertilisation a zygote is formed, which marks the beginning of a new life. The zygote undergoes repeated cell divisions and develops into an embryo, which is implanted in the lining of the uterus where it continues to grow. The placenta, a special tissue between the mother and the embryo, supplies oxygen and glucose from the mother's blood to the embryo and removes the waste products produced by the embryo; throughout pregnancy it ensures nourishment and protection. If fertilisation does not occur, the thickened uterine lining is not needed; it breaks down and is expelled through the vagina as blood and mucus (menstruation).",
+   "or": {
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "i. Name the disorder which a person is likely to suffer from due to the following:\nI. Over-secretion of growth hormone\nII. Deficiency of oestrogen in females\nIII. Less secretion of thyroxine\nAlso name the gland that secretes each of the hormones mentioned above.\nii. How is the timing and amount of hormone released regulated? Explain with the help of an example.",
+    "options": null,
+    "figure": null,
+    "answer": "i. I. Gigantism; growth hormone is secreted by the anterior pituitary gland.\nII. Female hypogonadism; oestrogen is secreted by the ovaries.\nIII. Hypothyroidism; thyroxine is secreted by the thyroid gland.\nii. The timing and amount of hormone secretion are regulated by a feedback mechanism. For example, the pancreas releases insulin when the blood sugar level rises."
+   },
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Which of the following statements is not correct?",
+   "options": [
+    "(a) Some metals react with acids to give salt and hydrogen.",
+    "(b) Some non metal oxides react with water to form an acid.",
+    "(c) All metal oxides react with water to give salt and acid.",
+    "(d) All metal carbonates react with acid to give a salt, water and carbon dioxide."
+   ],
+   "figure": null,
+   "answer": "(c) All metal oxides react with water to give salt and acid. Metal oxides are basic in nature and give alkaline solutions when dissolved in water.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which of the given statement is correct or wrong:\nStatement A: Ethane decolorizes bromine water whereas ethyne does not.\nStatement B: Mixture of water and alcohol is used in radiators of vehicles in cold countries.",
+   "options": [
+    "(a) Both - Statement A and Statement B - are false.",
+    "(b) Statement A is true; Statement B is false.",
+    "(c) Statement B is true; Statement A is false.",
+    "(d) Both - Statement A and Statement B - are true."
+   ],
+   "figure": null,
+   "answer": "(c) Statement B is true; Statement A is false. Bromine water is a test for unsaturated hydrocarbons: ethyne (unsaturated) decolourises it, ethane (saturated) does not. Alcohol is used as an antifreeze, lowering the freezing point of the water-based liquid.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Consider the following compounds:\nI. HCl\nII. $\\mathrm{C_2H_5OH}$\nIII. $\\mathrm{C_6H_{12}O_6}$\nIV. $\\mathrm{H_2SO_4}$\nWhich of these compounds do not conduct electricity in solution?",
+   "options": [
+    "(a) I and IV",
+    "(b) III and IV",
+    "(c) I and II",
+    "(d) II and III"
+   ],
+   "figure": null,
+   "answer": "(d) II and III",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n\n| Column A | Column B |\n|---|---|\n| (i) Addition reaction | (a) Hydrogenation |\n| (ii) Substitution reaction | (b) Methanol |\n| (iii) Denaturation | (c) Carbon tetrachloride |\n| (iv) Esterification | (d) Ethyl ethanoate |",
+   "options": [
+    "(a) (i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(b) (i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(c) (i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(d) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)"
+   ],
+   "figure": null,
+   "answer": "(b) (i) - (a), (ii) - (c), (iii) - (b), (iv) - (d). Hydrogenation is an addition reaction; carbon tetrachloride is formed by substitution; denatured alcohol is made by adding methanol; ethyl ethanoate is the product of esterification.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Aluminum is used for making cooking utensils. Which of the following properties of aluminum are responsible for the same?\ni. Good thermal conductivity\nii. Good electrical conductivity\niii. Ductility\niv. High melting point",
+   "options": [
+    "(a) (i) and (ii)",
+    "(b) (ii) and (iii)",
+    "(c) (i) and (iii)",
+    "(d) (i) and (iv)"
+   ],
+   "figure": "fig_p04_0.png",
+   "answer": "(d) (i) and (iv). Aluminium has good thermal conductivity and a high melting point, useful for utensils.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Consider the structures of the three cyclic carbon compounds A, B and C given below and select the correct option from the following:",
+   "options": [
+    "(a) A and C are isomers of hexane and B is benzene.",
+    "(b) A is a saturated cyclic hydrocarbon and B and C are unsaturated cyclic hydrocarbons.",
+    "(c) A is an isomer of hexane, B is benzene and C is an isomer of hexene.",
+    "(d) A is cyclohexane and B and C are the isomers of benzene."
+   ],
+   "figure": "fig_p05_0.png",
+   "answer": "(a) A and C are isomers of hexane and B is benzene.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Four solutions, namely glucose, alcohol, hydrochloric acid and sulphuric acid filled in four separate beakers are connected one by one in an electric circuit with a bulb. The solutions in which the bulb will glow when current is passed are:",
+   "options": [
+    "(a) Hydrochloric acid and sulphuric acid",
+    "(b) Glucose and alcohol",
+    "(c) Alcohol and hydrochloric acid",
+    "(d) Glucose and sulphuric acid"
+   ],
+   "figure": null,
+   "answer": "(a) Hydrochloric acid and sulphuric acid",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Assertion (A): Sodium hydroxide reacts with zinc to produce hydrogen gas.\nReason (R): Acids react with active metals to produce hydrogen gas.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. Sodium hydroxide is a strong base and reacts with zinc: $\\mathrm{Zn(s) + 2NaOH(aq) \\rightarrow Na_2ZnO_2(aq) + H_2(g)}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "A student working in the laboratory added some water to a syrupy liquid taken in a tube. The tube immediately cracked and the liquid which escaped out of it, produced blisters on the skin of the student. What actually happened?",
+   "options": null,
+   "figure": null,
+   "answer": "The syrupy liquid in the test tube was concentrated $\\mathrm{H_2SO_4}$. Adding water to the concentrated acid liberated a large amount of heat, which broke the test tube and burnt the student's skin, causing blisters.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Write one chemical equation each for the reactions in which the following changes occur, specifying the change observed :\na. Change in colour\nb. Change in temperature\nc. Formation of precipitate",
+   "options": null,
+   "figure": null,
+   "answer": "a. $\\mathrm{2Cu + O_2 \\xrightarrow{\\Delta} 2CuO}$ (reddish brown copper turns black).\nb. $\\mathrm{CaO + H_2O \\rightarrow Ca(OH)_2 + heat}$ (rise in temperature).\nc. $\\mathrm{BaCl_2 + Na_2SO_4 \\rightarrow BaSO_4 + 2NaCl}$ (white precipitate of barium sulphate).",
+   "or": {
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "Write the balanced chemical equation for the following reaction:\ni. Phosphorus burns in presence of chlorine to form phosphorus penta chloride.\nii. Burning of natural gas.\niii. The process of respiration",
+    "options": null,
+    "figure": null,
+    "answer": "i. $\\mathrm{P_4(s) + 10Cl_2(g) \\rightarrow 4PCl_5(s)}$\nii. $\\mathrm{CH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l) + Heat\\ energy}$\niii. $\\mathrm{C_6H_{12}O_6(s) + 6O_2(g) \\rightarrow 6CO_2(g) + 6H_2O(l) + Energy}$"
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "a. Write a chemical equation for the reaction in which change in colour is observed when a metal is kept immersed in a salt solution of another metal.\nb. When hydrogen gas is passed over heated copper(II) oxide, copper and steam are formed. Write the balanced chemical equation with physical states for this reaction. State what kind of chemical reaction is this.",
+   "options": null,
+   "figure": null,
+   "answer": "a. $\\mathrm{Fe(s) + CuSO_4(aq) \\rightarrow FeSO_4(aq) + Cu(s)}$ (blue copper sulphate solution turns light green iron sulphate).\nb. $\\mathrm{CuO(s) + H_2(g) \\xrightarrow{heat} Cu(s) + H_2O(g)}$. It is a redox reaction.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Read the following text carefully and answer the questions that follow:\nWhen a more reactive element displaces a less reactive element from its compound, it is called a displacement reaction. The reaction is of two types. Single displacement reaction and double displacement reaction.\nIron being more reactive than copper displaces copper from an aqueous solution of copper sulphate. This is an example of a single displacement reaction.\nOn adding silver nitrate solution to sodium bromide, a yellow ppt of silver bromide and solution of sodium nitrate is formed. This is an example of a double displacement reaction.",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "When dil. sulphuric acid is added to pieces of iron sulphide, hydrogen sulphide gas is produced and soluble ferrous sulphate is formed. Which chemical reaction is involved in this process?",
+     "marks": 1,
+     "options": null,
+     "answer": "Double displacement reaction."
+    },
+    {
+     "text": "Mention reaction which is used for the preparation of oxygen gas in the laboratory.",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\mathrm{2KClO_3 \\xrightarrow{heat} 2KCl(s) + 3O_2(g)}$. It is a decomposition reaction and endothermic in nature."
+    },
+    {
+     "text": "What are the products formed in the double displacement reaction discussed below?\nOR\nWhich elements displace aluminum from its salt?",
+     "marks": 2,
+     "options": null,
+     "figure": "fig_p06_1.png",
+     "answer": "Barium sulphate and sodium chloride.\nOR\nCalcium displaces aluminium from its salt."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "A neutral organic compound X (Molecular formula $\\mathrm{C_2H_6O}$) on reacting with acidified $\\mathrm{K_2Cr_2O_7}$ gives an organic compound Y which is acidic in nature. X reacts with Y on warming in the presence of conc. $\\mathrm{H_2SO_4}$ to give a sweet smelling compound Z.\ni. Identify X, Y and Z.\nii. Write the chemical equations for the reactions in the conversion of (1) X to Y and (2) X to Z.\niii. State the role of (1) acidified $\\mathrm{K_2Cr_2O_7}$ in the conversion of X to Y and (2) conc. $\\mathrm{H_2SO_4}$ in the reaction of X and Y.\niv. Name the reaction which occurs when Z reacts with an alkali.",
+   "options": null,
+   "figure": null,
+   "answer": "i. X is ethanol $\\mathrm{C_2H_5OH}$; Y is ethanoic acid $\\mathrm{CH_3COOH}$; Z is ethyl ethanoate $\\mathrm{CH_3COOC_2H_5}$.\nii. (1) $\\mathrm{CH_3CH_2OH + 2[O] \\xrightarrow{acidified\\ K_2Cr_2O_7} CH_3COOH + H_2O}$\n(2) $\\mathrm{CH_3COOH + C_2H_5OH \\xrightarrow{conc.\\ H_2SO_4} CH_3COOC_2H_5 + H_2O}$\niii. (1) Acidified potassium dichromate is an oxidising agent: it oxidises ethanol to ethanoic acid. (2) Conc. $\\mathrm{H_2SO_4}$ acts as a catalyst (and dehydrating agent) in the esterification, giving the sweet-smelling ester.\niv. Saponification.",
+   "or": {
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "a. Carry out following conversions:\ni. Ethanol to ethene\nii. Ethanol to Ethanoic acid\nb. Differentiate between addition reaction and substitution reaction. Give one example of each.",
+    "options": null,
+    "figure": null,
+    "answer": "a. i. $\\mathrm{CH_3CH_2OH \\xrightarrow{conc.\\ H_2SO_4,\\ 443\\ K} CH_2=CH_2 + H_2O}$\nii. $\\mathrm{CH_3CH_2OH \\xrightarrow{alkaline\\ KMnO_4\\ /\\ acidified\\ K_2Cr_2O_7} CH_3COOH}$\nb. Addition reaction: unsaturated hydrocarbons add other atoms/molecules across the multiple bond to form larger saturated molecules, e.g. $\\mathrm{CH_2=CH_2 + H_2 \\xrightarrow{Ni} CH_3-CH_3}$.\nSubstitution reaction: an atom or group of a saturated hydrocarbon is replaced by another atom or group, e.g. $\\mathrm{CH_4 + Cl_2 \\xrightarrow{sunlight} CH_3Cl + HCl}$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Find the incorrect statement:\nA. Convex mirrors are used by the dentist to see the large images of teeth of patients.\nB. Convex mirrors are used as rear-view mirrors in cars, motorcycles, scooters, etc\nC. Concave mirrors are used for shaving purpose.\nD. Concave mirrors are used by doctors to focus light inside the ear or inside the mouth for medical examination.",
+   "options": [
+    "(a) (B)",
+    "(b) (C)",
+    "(c) (A)",
+    "(d) (D)"
+   ],
+   "figure": null,
+   "answer": "(c) (A). Dentists use concave (not convex) mirrors since they form enlarged images; concave mirrors are also used for shaving. Convex mirrors give a wide field of view and are used as rear-view mirrors.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "What is the relation between angles 1, 2, 3 and 4?",
+   "options": [
+    "(a) $\\angle 1 + \\angle 2 = \\angle 3 + \\angle 4$",
+    "(b) $\\angle 2 + \\angle 3 = \\angle 1 + \\angle 4$",
+    "(c) $\\angle 1 + \\angle 3 = \\angle 2 + \\angle 4$",
+    "(d) $\\angle 2 + \\angle 3 + \\angle 4 = \\angle 1 + \\angle 4$"
+   ],
+   "figure": "fig_p07_0.png",
+   "answer": "(b) $\\angle 2 + \\angle 3 = \\angle 1 + \\angle 4$",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Assertion (A): A solenoid tends to expand, when a current passes through it.\nReason (R): Two straight parallel metallic wires carrying current in same direction attract each other.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true. The currents in the turns of a solenoid are parallel and in the same direction, so the turns attract each other and the solenoid tends to contract.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "Write the conditions for observing a rainbow. Show, by drawing a suitable diagram, how one understands the formation of a rainbow?",
+   "options": null,
+   "figure": null,
+   "answer": "Conditions: (i) the sun comes out after a rainfall; (ii) the observer stands with the sun at his/her back.\nFormation: the rays of light reach the observer through a refraction, followed by a reflection and a refraction inside the raindrop. The figure shows red light from drop 1 and violet light from drop 2 reaching the observer's eye.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "text": "The rest position of the needles in a milliammeter and voltmeter, not in use, are as shown in Figure A. When a student uses these instruments in his experiment, the readings of the needles are in the positions shown in Figure B. Determine the correct values of current and voltage the student should use in his calculations.",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": "The correct values are 38 mA and 3.2 V.",
+   "or": {
+    "chapter": "Ch11_Electricity",
+    "text": "a. Write the mathematical expression for Joule's law of heating.\nb. Compute the heat generated while transferring 96000 coulomb of charge in two hours through a potential difference of 40 V.",
+    "options": null,
+    "figure": null,
+    "answer": "a. $H = I^2Rt$, where $H$ is the heat produced, $I$ the current, $R$ the resistance and $t$ the time.\nb. $Q = 96000$ C, $t = 2\\times60\\times60 = 7200$ s, $V = 40$ V. $H = VIt = VQ = 40\\times96000 = 3.84\\times10^6$ J."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Consider a rectangular cardboard having two holes P and Q through which a current carrying circular loop has been inserted as shown in the diagram.\na. Make this diagram on your answer sheet and draw three magnetic field lines, one each passing through the points 1 (near P), 2 (at the centre of the loop) and 3 (near Q).\nb. List two factors on which the intensity of the magnetic field produced at the centre of the loop depends.\nc. Name the rule you will apply to determine the direction of magnetic field produced due to a current carrying straight conductor.",
+   "options": null,
+   "figure": "fig_p08_1.png",
+   "answer": "a. Field lines are concentric circles around the wire at P and Q (in opposite senses on the two sides) and a straight line perpendicular to the plane of the loop at its centre (point 2), as shown in the marking scheme figure.\nb. Strength of the current in the loop; number of turns of the loop.\nc. Right hand thumb rule.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "Why do different rays deviate differently in the prism?",
+   "options": null,
+   "figure": null,
+   "answer": "Different colours (wavelengths) deviate differently because the angle of refraction is different for different wavelengths of light passing through the glass prism. Light bends on entering a different medium as its speed changes, and different wavelengths travel at different speeds in a medium, so the amount of bending differs. Violet (shorter wavelength, travels slowest) is bent the most and red (longer wavelength) the least.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "What is a Solenoid? Draw the pattern of the magnetic field lines around a current carrying solenoid. Mark on the pattern the region where the magnetic field is uniform.",
+   "options": null,
+   "figure": null,
+   "answer": "A coil of insulated copper wire wound in the form of a cylinder is a solenoid. When current is passed through it, it produces a magnetic field like that of a bar magnet. Inside the solenoid the field lines are parallel straight lines, indicating that the magnetic field is uniform there.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "text": "Read the following text carefully and answer the questions that follow:\nThe electrical energy consumed by an electrical appliance is given by the product of its power rating and the time for which it is used. The SI unit of electrical energy is Joule. Actually, Joule represents a very small quantity of energy and therefore it is inconvenient to use where a large quantity of energy is involved. So for commercial purposes, we use a bigger unit of electrical energy which is called kilowatt-hour. 1 kilowatt-hour is equal to $3.6\\times10^6$ joules of electrical energy.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "The energy dissipated by the heater is E. When the time of operating the heater is doubled, what would be the energy dissipated?",
+     "marks": 1,
+     "options": null,
+     "answer": "$E\\propto t$, so the energy dissipated is doubled ($2E$)."
+    },
+    {
+     "text": "The power of a lamp is 60 W. What will be the energy consumed in 1 minute?",
+     "marks": 1,
+     "options": null,
+     "answer": "$E = Pt = 60\\times1\\times60 = 3600$ J."
+    },
+    {
+     "text": "The electrical refrigerator rated 400 W operates 8 hours a day. The cost of electrical energy is ₹ 5 per kWh. Find the cost of running the refrigerator for one day.\nOR\nCalculate the energy transformed by a 5 A current flowing through a resistor of 2 $\\Omega$ for 30 minutes.",
+     "marks": 2,
+     "options": null,
+     "answer": "$E = 400\\times8 = 3200$ Wh $= 3.2$ kWh; cost $= 3.2\\times5 =$ ₹ 16.\nOR\n$E = I^2Rt = 5\\times5\\times2\\times30\\times60 = 90000$ J $= 90$ kJ."
+    }
+   ]
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "A concave lens of focal length 60 cm is used to form an image of an object of length 9 cm kept at a distance of 30 cm from it. Use lens formula to determine the nature, position and length of the image formed. Also draw labelled ray diagram to show the image formation in the above case.",
+   "options": null,
+   "figure": "fig_p17_0.png",
+   "answer": "$f=-60$ cm, $h=9$ cm, $u=-30$ cm. Lens formula $\\frac{1}{v}-\\frac{1}{u}=\\frac{1}{f}$, so $\\frac{1}{v}=\\frac{1}{f}+\\frac{1}{u}=\\frac{-1}{60}+\\frac{-1}{30}=\\frac{-3}{60}$, $v=-20$ cm. Magnification $m=\\frac{v}{u}=\\frac{-20}{-30}=\\frac{2}{3}$; $h'=m\\times h=\\frac{2}{3}\\times9=6$ cm. The image is virtual, erect and smaller than the object (6 cm long), formed 20 cm from the lens on the same side as the object.",
+   "or": {
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "a. What is a lens? List two main categories of lenses. In which category is a double concave lens placed?\nb. A convex lens of focal length 15 cm forms a real image at a distance of 20 cm from its optical centre. Find the position of the object. Is the image formed by the lens magnified or diminished?",
+    "options": null,
+    "figure": null,
+    "answer": "a. A lens is a transparent material bounded by two surfaces, of which one or both are spherical/curved. Two categories: converging (convex) lens and diverging (concave) lens. A double concave lens is a diverging lens.\nb. $f=15$ cm, $v=20$ cm. $\\frac{1}{u}=\\frac{1}{v}-\\frac{1}{f}=\\frac{1}{20}-\\frac{1}{15}=\\frac{3-4}{60}=-\\frac{1}{60}$, so $u=-60$ cm. $m=\\frac{v}{u}=\\frac{20}{-60}=-\\frac{1}{3}$, so the image is diminished (real and inverted)."
+   },
+   "subparts": null
+  }
+ ]
+}

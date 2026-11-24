@@ -1,0 +1,694 @@
+{
+ "subject": "SST",
+ "paper": "Paper_06",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Match the following:\n\n| | Column I | Column II |\n|---|---|---|\n| (a) | A vision of a society that is so ideal that it is unlikely to actually exist. | (i) Nation-state |\n| (b) | A centralised power exercised sovereign control over a clearly defined territory. | (ii) Utopian |\n| (c) | Socially and politically, it was the dominant class on the continent owning estates in the countryside and also town-houses. | (iii) Modern state |\n| (d) | The majority of its citizens, and not only its rulers, came to develop a sense of common identity and shared history or descent. | (iv) Landed aristocracy |",
+   "options": [
+    "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)",
+    "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)",
+    "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+    "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)"
+   ],
+   "figure": null,
+   "answer": "(c) (a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Study the picture and answer the question that follows:\nWhich of the following correctly describes the above picture?",
+   "options": [
+    "It is a page from the Gita Govinda of Jayadeva",
+    "It is a page from the traditional Chinese 'accordion book'",
+    "It is a page from Rigveda.",
+    "It is page from Panchtantra."
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(a) It is a page from the Gita Govinda of Jayadeva, eighteenth century. This is a palm-leaf handwritten manuscript in accordion format.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Certain events are given below. Choose the appropriate chronological order:\ni. Coming of Simon Commission to India\nii. Demand of Purna Swaraj in Lahore Session of INC.\niii. Government of India Act, 1919\niv. Champaran Satyagraha\nChoose the correct option:",
+   "options": [
+    "ii - iii - i - iv",
+    "i - ii - iv - iii",
+    "iii - ii - iv - i",
+    "iv - iii - i - ii"
+   ],
+   "figure": null,
+   "answer": "(d) iv - iii - i - ii: Champaran Satyagraha (1917), Government of India Act 1919, coming of Simon Commission (1928), demand of Purna Swaraj at the Lahore Session of INC (1929).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Arrange the following incidents in chronological order and choose the correct option.\nI. French Revolution\nII. Napoleon's invasion of Italy\nIII. Unification of Italy\nIV. Vienna Peace Treaty",
+   "options": [
+    "I, II, IV, III",
+    "II, III, I, IV",
+    "II, IV, I, III",
+    "I, III, II, IV"
+   ],
+   "figure": null,
+   "answer": "(a) I, II, IV, III",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Ideas of national unity in the early nineteenth century Europe were closely allied to the ideology of liberalism. Examine the statement.",
+   "options": null,
+   "figure": null,
+   "answer": "1. Liberalism and National Unity: In the early 19th century, ideas of national unity in Europe were closely allied to liberalism. 'Liberalism', originating from the Latin 'liber' meaning 'free', symbolized individual freedom and equality before the law for the emerging middle class.\n2. Political Aspects of Liberalism: Politically, liberalism advocated government by consent, the end of autocracy, and constitutional, representative governance through parliament.\n3. Emphasis on Private Property: 19th-century liberals also stressed the sanctity of private property, aligning their ideology with the pursuit of individual freedoms and the rule of law.",
+   "or": {
+    "text": "How did culture play an important role in creating the idea of the nation? Explain in the context of European Romanticism of the nineteenth century.",
+    "options": null,
+    "figure": null,
+    "answer": "Culture played an important role in creating the idea of the nation: art and poetry, stories and music helped express and shape nationalist feelings:\ni. Romanticism was a cultural movement which sought to develop a particular form of nationalist sentiment.\nii. Romantic artists and poets generally criticized the glorification of reason and science and focused instead on emotions, intuitions and mystical feelings.\niii. Their effort was to create a sense of a shared collective heritage, a common cultural past, as the basis of a nation.\niv. Romantics like Johann Gottfried Herder claimed that German culture was to be discovered among the common people - das volk.\nv. Language too played an important role in developing nationalist sentiments. For example, the use of Polish came to be seen as a symbol of the struggle against Russian dominance.",
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe"
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Why did James Augustus Hickey claim that the Bengal Gazette was 'a commercial paper open to all but influenced by none'? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "From 1780, James Augustus Hickey began to edit the Bengal Gazette, a weekly magazine that described itself as a commercial paper open to all, but influenced by none.\ni. It was a private English weekly magazine in India, independent of colonial influence.\nii. Hickey not only published a lot of advertisements including the import and sale of slaves but also published lots of gossip about the Company's senior officials in India.\niii. Enraged by this, Governor-General Warren Hastings persecuted Hickey, and encouraged the publication of officially sanctioned newspapers that could counter the flow of information that damaged the image of the colonial government.",
+   "or": {
+    "text": "How did Mercier describe the impact of printed word and power of reading on himself?",
+    "options": null,
+    "figure": null,
+    "answer": "Louise-Sebastien Mercier, a novelist in 18th century France, described the impact of the printed word and the power of reading in one of his books in the following way:\na. He compares himself to a man dying of thirst and gulping down some fresh, pure water.\nb. He lighted the lamp and started reading page to page. A clock struck off the hours in the silence of the shadows and he heard nothing.\nc. In spite of the oil running out in the lamp, he kept on reading. He did not want to interrupt his pleasure of reading.",
+    "chapter": "Ch05_History_Print_Culture"
+   },
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "How did tension in the Balkan region lead to the First World War? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "Tension in the Balkan region became a major cause of the First World War. The Balkans, home to many ethnically diverse Slavic groups, included countries like Serbia, Bulgaria, Greece and Romania. The decline of the Ottoman Empire and the rise of romantic nationalism made this region highly unstable. Various Balkan nationalities demanded independence, claiming historical rights and seeking to revive their lost sovereignty. Their conflicts created continuous unrest. At the same time, major European powers - Russia, Germany, Austria-Hungary and Britain - competed to extend their influence in the Balkans. Russia supported Slavic nationalism, while Austria-Hungary tried to suppress it. This rivalry triggered a series of Balkan Wars, increasing hostility between the powers. The assassination of Archduke Franz Ferdinand in this tense atmosphere acted as the spark, ultimately leading to the First World War.",
+   "or": {
+    "text": "Explain the various stages of Italian unification.",
+    "options": null,
+    "figure": null,
+    "answer": "Political Fragmentation of Italy: Italy had a long history of political fragmentation. Italians were scattered over several dynasties as well as the multi-national Habsburg Empire. Italy was divided into seven states during the middle of the nineteenth century. Of these seven states, only Sardinia-Piedmont was ruled by an Italian princely house. At that time, the north of Italy was under Austrian Habsburg, the centre was ruled by the Pope and the southern regions were ruled by the Bourbon kings of Spain. The past revolutionary uprisings, which failed, prompted King Victor Emmanuel II of Sardinia-Piedmont to unify the Italian states through war.\nRole of Mazzini: During the 1830s Giuseppe Mazzini had tried to unite Italy. He formed a coherent programme for uniting the Italian Republic and a secret society called Young Italy. But both the uprisings of 1831 and 1848 failed. Even the ruling elites wanted a unified Italy which would offer economic development and political dominance.\nRole of Cavour: The unification of Italy was a result of many wars. Chief Minister Cavour made a tactful diplomatic alliance with France, and Sardinia-Piedmont succeeded in defeating the Austrian forces in 1859.\nRole of Garibaldi: A large number of armed volunteers under the leadership of Giuseppe Garibaldi joined the unification movement.\nEvents leading to the unification of Italy:\n1859: Sardinia-Piedmont, in alliance with France, defeated the Austrian forces. A large number of people under the leadership of Giuseppe Garibaldi joined the movement.\n1860: Sardinia-Piedmont's forces marched into South Italy and the Kingdom of the Two Sicilies and drove out the Spanish rulers.\n1861: Victor Emmanuel was declared as the king of united Italy and Rome was declared the capital of Italy.",
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe"
+   },
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "On 13th April the infamous Jallianwalla Bagh incident took place. On that day a large crowd gathered in the enclosed ground of Jallianwalla Bagh. Some came to protest against the government's new repressive measures. Others had come to attend the annual Baisakhi fair. Dyer entered the area, blocked the exit points, and opened fire on the crowd, killing hundreds. As the news of Jallianwalla Bagh spread, crowds took to the streets in many north Indian towns. There were strikes, clashes with the police and attacks on government buildings. Seeing violence spread, Mahatma Gandhi called off the movement. While the Rowlatt satyagraha had been a widespread movement, it was still limited mostly to cities and towns. Mahatma Gandhi now felt the need to launch a more broad-based movement in India.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "How did Mahatma Gandhi react to the Rowlatt Act?",
+     "marks": 1,
+     "options": null,
+     "answer": "Mahatma Gandhi decided to launch a nationwide satyagraha against the proposed Rowlatt Act (1919)."
+    },
+    {
+     "text": "What made Mahatma Gandhi call off Rowlatt Satyagraha?",
+     "marks": 1,
+     "options": null,
+     "answer": "As the news of Jallianwalla Bagh spread, crowds took to the streets in many north Indian towns. Seeing violence spread, Mahatma Gandhi decided to call off the movement."
+    },
+    {
+     "text": "Why did Rowlatt Act enrage people?",
+     "marks": 2,
+     "options": null,
+     "answer": "This Act had been hurriedly passed through the Imperial Legislative Council despite the united opposition of the Indian members. It gave the government enormous powers to repress political activities and allowed the detention of political prisoners without trial for two years."
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where Indian National Congress session was held in December, 1920.\nb. The place associated with Cotton Mill Workers Satyagraha.",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "Nagpur (INC session, December 1920) and Ahmedabad (Cotton Mill Workers' Satyagraha). In the map, A (central India) is Nagpur and B (Gujarat) is Ahmedabad. The marking scheme lists 'a. Ahmedabad, b. Nagpur', i.e. the two answers without matching the order of the question parts.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "An artificial lake built in the 11th century for water conservation is ________.",
+   "options": [
+    "Bhopal Lake",
+    "Wular Lake",
+    "Sambhar Lake",
+    "Chilka Lake"
+   ],
+   "figure": null,
+   "answer": "(a) Bhopal Lake",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "Which one of the following terms is used to identify the old and new alluvial respectively?",
+   "options": [
+    "Tarai and Bangar",
+    "Khadas and Tarai",
+    "Bangar and Khadar",
+    "Tarai and Dvars"
+   ],
+   "figure": null,
+   "answer": "(c) Bangar and Khadar. According to their age alluvial soils can be classified as old alluvial (Bangar) and new alluvial (Khadar). Bangar has a higher concentration of kankar nodules than Khadar; Khadar has more fine particles and is more fertile.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Read the given data and find out the state which has the highest share in limestone production.\n\n| Production of Limestone in 2016-17 | Percentage |\n|---|---|\n| Andhra Pradesh | 11 |\n| Chhattisgarh | 10 |\n| Gujarat | 8 |\n| Karnataka | 10 |\n| Madhya Pradesh | 11 |\n| Rajasthan | 21 |\n| Telangana | 8 |\n| Tamil Nadu | 8 |",
+   "options": [
+    "Rajasthan",
+    "Tamil Nadu",
+    "Madhya Pradesh",
+    "Karnataka"
+   ],
+   "figure": null,
+   "answer": "(a) Rajasthan (21%)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following options validates the nature worship and existence of sacred groves?\ni. Certain societies revere a particular tree that they have preserved from time immemorial.\nii. Some patches of forest or parts of large forests are left untouched by the local people and any interference with them is banned.\niii. The Mundas and the Santhal of Chota Nagpur region worship mahua and kadamba trees.\niv. Sacred qualities are ascribed to springs, mountain peaks and animals like langurs.",
+   "options": [
+    "Statement ii, iii & iv are correct.",
+    "Statement i and ii are correct.",
+    "Statement i, ii, & iii are correct.",
+    "Statement ii is correct."
+   ],
+   "figure": null,
+   "answer": "(c) Statement i, ii, & iii are correct. Statements i, ii and iii are about forests and trees while statement iv is about traditional methods of conserving nature by ascribing sacred qualities to springs, mountain peaks, plants and animals.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Expand ICAR:",
+   "options": [
+    "The Indian Council of Agrarian Research",
+    "The Indian Council of Agricultural Research",
+    "The Indian Council of Agronomic Research",
+    "The Indian Committee of Agricultural Research"
+   ],
+   "figure": null,
+   "answer": "(b) The Indian Council of Agricultural Research - an autonomous body responsible for co-ordinating agricultural education and research in India.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Which of the following options represents the steps that can be involved to produce rice in Haryana and Punjab?\ni. Using high-yielding variety seeds.\nii. Using insecticides and pesticides and chemical fertilisers.\niii. Using machines and other modern methods for cultivation.\niv. Production of rice involves subsistence farming methods.",
+   "options": [
+    "Statement i and ii are correct.",
+    "Statement ii is correct.",
+    "Statement i, ii, & iii are correct.",
+    "Statement ii, iii & iv are correct."
+   ],
+   "figure": null,
+   "answer": "(c) Statement i, ii, & iii are correct. Rice is a commercial crop in Haryana and Punjab (but a subsistence crop in Odisha). Commercial farming uses higher doses of modern inputs such as HYV seeds, chemical fertilisers, insecticides and pesticides to obtain higher productivity.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "Resource planning is a complex process. Justify the statement with arguments.",
+   "options": null,
+   "figure": null,
+   "answer": "Resource planning is a complex process which involves:\n1. Identification and inventory of resources across the regions of the country. This involves surveying, mapping and qualitative and quantitative estimation and measurement of the resources.\n2. Evolving a planning structure endowed with appropriate technology, skill and institutional set up for implementing resource development plans.\n3. Matching the resource development plans with overall national development plans.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Highlight the importance of petroleum. Explain the occurrence of petroleum in India.",
+   "options": null,
+   "figure": null,
+   "answer": "Petroleum is formed from the remains of dead plants and animals. It is referred to as 'Black Gold'. Crude oil is considered to be the 'mother of all commodities' as it is used to manufacture various products such as pharmaceuticals, plastics, gasoline, synthetic fabrics, etc.\nImportance of Petroleum:\ni. Petroleum is the major energy source in India.\nii. It provides fuel for heat and lighting.\niii. It provides lubricant for machinery.\niv. It provides the raw material for a number of manufacturing industries.\nv. Petroleum refineries act as a nodal industry for synthetic, textile, fertilizer and chemical industries.\nOccurrence:\ni. Most of the petroleum occurrences in India are associated with anticlines and fault traps.\nii. In regions of folding, anticline or domes, it occurs where oil is trapped in the crest of the up-fold.\niii. Petroleum is also found in fault traps between porous and non-porous rocks.",
+   "or": {
+    "text": "\"Nuclear energy is expected to play an increasingly important role in India.\" Give arguments to support this statement.",
+    "options": null,
+    "figure": null,
+    "answer": "Atomic energy is generated by splitting nuclear substances such as the atoms of uranium, thorium, cheralite and zirconium under controlled conditions. Splitting of these atoms gives out a lot of energy which can be used for a variety of purposes such as generating electricity. This energy is expected to play an increasingly important role in India due to the following reasons:\ni. India has limited reserves of coal and petroleum. Nuclear energy minerals like thorium are found in plenty in India.\nii. Hence, nuclear energy can compensate for the deficiency of fossil fuels.\niii. Nuclear power stations can be established easily and conveniently in those areas where other sources are not available.\niv. Nuclear power releases tremendous amounts of energy. India can utilize this energy for peaceful purposes such as the generation of electricity to run machines in industries.\nv. It is a non-conventional source of energy. After the initial expenses, it becomes very economical.",
+    "chapter": "Ch10_Geography_Minerals_and_Energy"
+   },
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "NTPC shows the way\nNTPC is a major power providing corporation in India. It has ISO certification for EMS (Environment Management System) 14001. The corporation has a pro-active approach for preserving the natural environment and resources like water, oil, gas and fuels in places where it is setting up power plants. This has been possible through-\n- Optimum utilisation of equipment adopting latest techniques and upgrading existing equipment.\n- Minimising waste generation by maximising ash utilisation.\n- Providing green belts for nurturing ecological balance and addressing the question of special purpose vehicles for afforestation.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Which is the major power providing corporation in India?",
+     "marks": 1,
+     "options": null,
+     "answer": "NTPC is a major power providing corporation in India."
+    },
+    {
+     "text": "Name the institution which issues ISO certification for Environment Management System.",
+     "marks": 1,
+     "options": null,
+     "answer": "ISO 14001 sets out the criteria for an environmental management system that an organization can use to enhance its environmental performance, and issues ISO certification (the International Organization for Standardization)."
+    },
+    {
+     "text": "Explain the pro-active approach of NTPC for preserving the natural environment. What does NTPC stand for?",
+     "marks": 2,
+     "options": null,
+     "answer": "The pro-active approach of NTPC: (i) Optimum utilisation of equipment adopting latest techniques and upgrading existing equipment. (ii) Minimising waste generation by maximising ash utilisation. (any two points)\nNTPC stands for National Thermal Power Corporation Limited."
+    }
+   ]
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. Nuclear Power Plant located on the Coromandel coast near Chennai in Tamil Nadu.\nii. India's largest single-location steel-producing facility in Karnataka.\nII. Any two of the following:\niii. Noida - Software Technology Park\niv. Paradeep - Sea Port\nv. Sardar Sarovar - Dam",
+   "options": null,
+   "figure": "fig_p13_0.png",
+   "answer": "i. Kalpakkam - Nuclear Power Plant\nii. Vijayanagar - Iron and Steel Plant\n(The marking scheme gives only part I; the figure shows the marked answer map. Parts iii-v: Noida (Uttar Pradesh), Paradeep (Odisha), Sardar Sarovar (Gujarat) - locations not marked in the printed key.)",
+   "or": null,
+   "subparts": null,
+   "note": "Map mixes power, steel, software parks, ports and dams; Minerals and Energy chosen as main."
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Which of the following statements are correct related to the role of political parties in India?\nI. Play a decisive role in making laws for the country.\nII. Making different interest groups in the country.\nIII. Play a role for shaping public opinion in the country.\nIV. Pulling forward different policies and programmes before voters.",
+   "options": [
+    "Only I, II and IV are correct.",
+    "Only I, II and III are correct.",
+    "Only I, III and IV are correct.",
+    "Only II, III and IV are correct."
+   ],
+   "figure": null,
+   "answer": "(c) Only I, III and IV are correct.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Which of the following options best signifies this cartoon?",
+   "options": [
+    "Poverty and Hunger in India",
+    "Sharing of Powers between State and Union Government",
+    "Power sharing as per Dynastic Succession.",
+    "The States Plead for More Powers"
+   ],
+   "figure": "fig_p06_0.png",
+   "answer": "(d) The States Plead for More Powers",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Which of the following statements will be considered as a positive aspect of dictatorship when compared to democracy?\nStatement i: Dictatorship offers political instability as there is no delay in decision-making.\nStatement ii: Dictatorship has several positive outcomes.\nStatement iii: Dictatorship guarantees a much higher economic development.\nStatement iv: Dictatorships have a slightly higher rate of economic growth.",
+   "options": [
+    "Statement i, ii and iii are right.",
+    "Statement iii is right.",
+    "Only statement iv is right.",
+    "Statement i and ii are right."
+   ],
+   "figure": null,
+   "answer": "(c) Only statement iv is right. Dictatorships have a slightly higher rate of economic growth, but the difference in rates of economic development between less developed countries with dictatorships and democracies is negligible.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Assertion (A): A casteist is a person who thinks that caste is the principal basis of community.\nReason (R): All castes are equal and man-made.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. A casteist thinks that caste is the principal basis of community, but such a belief is faulty as everyone is equal and no caste is superior to others.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "How is the ethnic composition of Belgium very complex? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "The ethnic composition of Belgium is very complex. Ethnic is a social division based on shared culture. People belonging to the same ethnic group believe in their common descent because of similarities of physical type or of culture.\ni. Of the country's total population, 59% live in the Flemish region and speak the Dutch language.\nii. Another 40% live in Wallonia and speak French.\niii. The remaining 1% of the Belgians speak German.\niv. In the capital city Brussels, 80% of people speak French while 20% are Dutch-speaking.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Democracies have had greater success in setting regular free and fair elections. Analyse the statement.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Every democracy holds elections, has different political parties and guarantees the voting rights of its citizens.\nii. A contesting candidate must submit an affidavit of properties and cases pending against him, if any.\niii. Parties are required to hold organizational elections.\niv. The anti-defection law was implemented: the Constitution was amended to prevent elected MLAs and MPs from changing parties.\nv. The Supreme Court passed an order to bring down the influence of money during elections.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "When is democracy considered successful? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "Democracy is considered to be successful when:\ni. The government is accountable to the people and responsive to the needs and expectations of the citizens.\nii. It ensures economic growth and development.\niii. There is a reduction in inequality and poverty.\niv. The rulers elected by the people take all major decisions and not the rich and powerful.\nv. The elections offer a free choice and opportunity to the people.\nvi. The choice is made available to all the people based on political equality.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Describe any five features of Indian National Congress Party.",
+   "options": null,
+   "figure": null,
+   "answer": "Features of Indian National Congress Party:\ni. Popularly known as the Congress Party. One of the oldest parties of the world, founded in 1885.\nii. This party has played a dominant role in Indian politics at National and State level.\niii. The Indian National Congress played an important role in the freedom struggle of India.\niv. Under the leadership of Pt. Jawahar Lal Nehru the party sought to build a modern secular and democratic republic of India.\nv. A centrist party (neither rightist nor leftist) in its ideological orientation. The party espouses secularism and welfare of weaker sections and minorities.\nvi. Supports new economic reforms but with a human face.",
+   "or": {
+    "text": "Examine any two institutional amendments made by different institutions to reform political and their leaders.",
+    "options": null,
+    "figure": null,
+    "answer": "i. The Constitution was amended to prevent elected MLAs and MPs from changing parties.\nii. The Supreme Court passed an order to reduce the influence of money and criminals. Now, it is mandatory for every candidate who contests elections to file an affidavit giving details of his property and criminal cases pending against him.\niii. The Election Commission passed an order making it necessary for political parties to hold their organizational elections and file their income tax returns.\niv. The parties have started doing so but sometimes it is a mere formality. It is not clear if this step has led to greater internal democracy in political parties.",
+    "chapter": "Ch16_PolSci_Political_Parties"
+   },
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "LOCAL GOVERNMENT\nThis new system of local government is the largest experiment in democracy conducted anywhere in the world. There are now about 36 lakh elected representatives in the panchayats and municipalities etc., all over the country. This number is bigger than the population of many countries in the world. Constitutional status for local government has helped to deepen democracy in our country. It has also increased women's representation and voice in our democracy. At the same time, there are many difficulties. While elections are held regularly and enthusiastically, gram sabhas are not held regularly. Most state governments have not transferred significant powers to the local governments. Nor have they given adequate resources. We are thus still a long way from realising the ideal of self-government.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Analyse the significance of the elected representatives in the Panchayats.",
+     "marks": 1,
+     "options": null,
+     "answer": "The significance of the elected representatives in the Panchayats lies in their sheer number, about 36 lakh. This large number indicates a broad base of democratic participation, making it one of the largest experiments in democracy globally. It ensures that a wide range of voices and local issues are represented and addressed at the grassroots level."
+    },
+    {
+     "text": "In what way has the representation of women in democracy influenced by Constitutional status for local government?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Constitutional status of local government has significantly increased women's representation and voice in democracy. By mandating reservations for women in Panchayats and municipalities, it has ensured that women have a platform to participate in governance, influence decision-making, and address issues that specifically affect them and their communities."
+    },
+    {
+     "text": "What has been the impact of granting Constitutional status to local government on the democratic landscape of the country? Analyse any two impacts.",
+     "marks": 2,
+     "options": null,
+     "answer": "Deepening Democracy: Granting Constitutional status to local government has deepened democracy by institutionalizing local governance structures. This has made governance more inclusive and participatory, allowing citizens to have a direct say in their local affairs.\nChallenges in Implementation: Despite the positive impacts, there are challenges such as irregular gram sabhas and inadequate transfer of powers and resources from state governments to local bodies. These issues hinder the full realization of self-government and effective local governance."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "New Economic Policy was adopted by the government of India in the year of:",
+   "options": [
+    "1990",
+    "1991",
+    "1993",
+    "1992"
+   ],
+   "figure": null,
+   "answer": "(b) 1991. The economic policy adopted by the government of India since July 1991 is termed the New Economic Policy or Economic reforms.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Read the information given below and select the correct option\nIt is a festival season two months from now and the shoe manufacturer, Rahim, has received an order from a large trader in town for 3,000 pairs of shoes to be delivered in a month's time. To complete production on time, Rahim has to hire a few more workers for stitching and pasting work. He has to purchase raw materials. To meet these expenses, Rahim obtains loans from two sources. First, he asks the leather supplier to supply leather now and promises to pay him later. Second, he obtains a loan in cash from the large trader as an advance payment for 1000 pairs of shoes with a promise to deliver the whole order by the end of the month. At the end of the month, Rahim is able to deliver the order, make a good profit, and repay the money that he had borrowed. Which situation best describes the above case?",
+   "options": [
+    "Cheque facility of Bank",
+    "Demand Draft facility",
+    "Credit Situation",
+    "Activities of Self Help Groups"
+   ],
+   "figure": null,
+   "answer": "(c) Credit Situation. Rahim obtains credit to meet the working capital needs of production, which helps him meet ongoing expenses, complete production on time and increase his earnings.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Fill in the blank:\n\n| SECTOR | CRITERIA USED |\n|---|---|\n| Industrial | associated with the different kinds of industries |\n| Service | ? |",
+   "options": [
+    "Involves exploitation of natural resources",
+    "Associated with communication",
+    "Involves the production of goods",
+    "Services that help in the production of goods"
+   ],
+   "figure": null,
+   "answer": "(d) Services that help in the production of goods",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Only income is not the proper indicator of the development of the country. Which of the following is not correct in the context of the above statement?",
+   "options": [
+    "Money helps us buy only material goods and services",
+    "Money cannot ensure a pollution-free environment for individuals",
+    "Some people earn more than others do",
+    "Money does not ensure respect and dignity for individuals"
+   ],
+   "figure": null,
+   "answer": "(c) Some people earn more than others do. Income criteria take into account only the economic aspect of life and ignore the social aspect; money cannot buy all the goods and services needed to live well (for example, a pollution-free environment, unadulterated medicines, protection from infectious diseases).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Match the following:\n\n| | Column I | Column II |\n|---|---|---|\n| (a) | Exchange of goods without the use of money | (i) Currency |\n| (b) | The Informal sector of credit | (ii) Bangladesh |\n| (c) | Grameen Bank | (iii) Barter system |\n| (d) | The modern form of money | (iv) Moneylender |",
+   "options": [
+    "(a) - (iii), (b) - (ii), (c) - (iv), (d) - (i)",
+    "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+    "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)",
+    "(a) - (i), (b) - (iv), (c) - (ii), (d) - (iii)"
+   ],
+   "figure": null,
+   "answer": "(b) (a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Read the information given below and select the correct option\nFarmers buy many goods such as tractors, pump sets, electricity, pesticides and fertilizers. Now suppose, if the price of fertilizers or pump sets goes up, the cost of cultivation of the farmers will rise and their profits will be reduced. What kind of situation is being indicated here?",
+   "options": [
+    "This is an example of the primary sector i.e., agriculture being dependent on the secondary sector.",
+    "This is an example of the secondary or industrial sector being dependent on the primary.",
+    "This is an example of the primary sector being dependent on the tertiary sector",
+    "This is an example of the secondary sector being dependent on the tertiary sector."
+   ],
+   "figure": null,
+   "answer": "(a) This is an example of the primary sector i.e., agriculture being dependent on the secondary sector (industry). Economic activities, though grouped into three categories, are highly interdependent.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "'Barriers on foreign trade and foreign investment were removed to a large extent in India since 1991.' Justify the statement.",
+   "options": null,
+   "figure": null,
+   "answer": "In 1991, the Government of India liberalised its policy and decided to remove the barriers on foreign trade and foreign investment as it was realized that the time had come for Indian producers to compete with producers around the globe.\nThe removal of barriers meant that goods could be imported as well as exported easily and also foreign companies could set up their factories and offices in India.\nThe Government held that trade competition would improve the performance of local producers since they would be forced to improve their quality.\nAnother reason was the economic crisis in India in 1990-91 and the support of WTO and IMF, which led the government to remove trade barriers.\nThus, the Indian Government removed barriers to a large extent on foreign trade and foreign investment.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "How does a bank work as a key component of the financial system? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "Banks play an important role in the financial system and the economy. People keep their money safe as deposits with banks. Banks use a major portion of these deposits to extend loans. As a key component of the financial system, banks allocate funds from savers to borrowers in an efficient manner. Banks mediate between those who have surplus funds (the depositors) and those who need these funds (the borrowers). They provide specialized financial services, which reduce the cost of obtaining information about both savings and borrowing opportunities. These financial services help to make the overall economy more efficient.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch18_Economics_Development",
+   "text": "\"People can have different developmental goals.\" Explain the statement with examples.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Social and cultural needs of every person are different and so are goals.\nii. A girl expects as much freedom and opportunity as her brother and that he also shares in the household work, but her brother may not like this.\niii. The people around water bodies, like tribals, may prefer small check dams or tanks to irrigate their lands.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Geography_Lifelines_of_National_Economy",
+   "text": "The pace of change in the communication sector has been rapid in modern times. Support the statement with examples.",
+   "options": null,
+   "figure": null,
+   "answer": "As the pace of change has been rapid in modern times, communication has also transformed rapidly. Long-distance communication is far easier without any physical movement of the communicator or receiver. The following examples substantiate this transformation:\n- The Subscriber Trunk Dialling (STD) telephone facility has marked an evolution in strengthening India's telecom network by incorporating advances in space technology.\n- Mass communication provides entertainment and creates awareness among people about various national programmes and policies. It includes radio, television, newspapers, magazines, books and films.\n- Indian Postal Network is the largest in the world. It handles parcels as well as personal written communication.\n- All India Radio (Akashwani) broadcasts a variety of programmes in national, regional and local languages for various categories of people, spread over different parts of the country.\n- Doordarshan, the national television channel of India, is one of the largest terrestrial networks in the world. It broadcasts a variety of programmes from entertainment, educational to sports, etc. for people of different age groups.",
+   "or": {
+    "text": "Compare the economic activities of the private sector with that of the public sector.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Most of the assets of the public sector are owned by the government while the private sector is owned by individuals or groups of individuals.\nii. Government provides all services in the public sector while in the private sector it depends on the private owner.\niii. Government raises money for various activities through taxes while the private sector collects money for the services they provide.\niv. Activities in the private sector are guided by the motive to earn profits while the public sector is not just to earn profits.\nv. Railways and Post office are examples of the public sector while Tata Steel and Reliance are examples of the private sector.",
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy"
+   },
+   "subparts": null
+  }
+ ]
+}

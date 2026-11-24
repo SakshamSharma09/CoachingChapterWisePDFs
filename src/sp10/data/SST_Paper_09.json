@@ -1,0 +1,699 @@
+{
+ "subject": "SST",
+ "paper": "Paper_09",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) Kaiser William I | (i) Proclaimed king of united Italy |\n| (b) Victor Emmanuel II | (ii) He led the movement to unify the regions of Italy. |\n| (c) Cavour | (iii) Proclaimed as German Emperor |\n| (d) Garibaldi | (iv) He gathered a large number of armed volunteers and marched into South Italy and the Kingdom of the Two Sicilians |",
+   "options": [
+    "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+    "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+    "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)",
+    "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)"
+   ],
+   "figure": null,
+   "answer": "(c) (a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Study the picture and answer the question that follows:\n\nWhich of the following option best describes the above picture?",
+   "options": [
+    "Frontispiece of Biliotheque Bleue",
+    "Frontispiece of Penny Magazine",
+    "Frontispiece of Accordion Book",
+    "Frontispiece of Chap books"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(b) Frontispiece of Penny Magazine — Penny Magazine was published between 1832 and 1835 in England by the Society for the Diffusion of Useful Knowledge. It was aimed primarily at the working class.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Why did the Simon Commission come to India? Identify the correct reason from the following options.",
+   "options": [
+    "To control the campaign against the British in cities",
+    "To suggest changes in the functioning of the constitutional system in India",
+    "To initiate salt law in India",
+    "To look into the functioning of the British"
+   ],
+   "figure": null,
+   "answer": "(b) To suggest changes in the functioning of the constitutional system in India — the commission was to look into the functioning of the constitutional system in India and suggest changes.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Arrange the following in chronological order and choose the correct option:\nI. Napoleonic wars\nII. The Treaty of Vienna\nIII. Greek Struggle for Independence\nIV. Slav Nationalism in Ottoman Empire",
+   "options": [
+    "I, II, III and IV",
+    "IV, II, III and I",
+    "IV, III, II and I",
+    "III, II, I and IV"
+   ],
+   "figure": null,
+   "answer": "(a) I, II, III and IV — Napoleonic wars: 1797; Treaty of Vienna: 25 March 1815; Greek struggle for independence begins: 1821; Slav nationalism gathers force in the Habsburg and Ottoman Empires: 1905.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Describe the great economic hardship that prevailed in Europe during the 1930s.",
+   "options": null,
+   "figure": null,
+   "answer": "The 1830s were years of great economic hardship in Europe: (i) Increase in population all over Europe. (ii) More job seekers than employment. (iii) Small producers in towns faced stiff competition from imports of cheap machine-made goods from England. (iv) Rural population migrated to urban areas, overcrowded slums.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Analyse the process of German Unification.",
+    "options": null,
+    "figure": null,
+    "answer": "(i) Nationalist feelings were widespread among middle-class Germans, who in 1848 tried to unite the different regions of the German confederation into a nation-state governed by an elected parliament. (ii) This liberal initiative to nation-building was repressed by the combined forces of the monarchy and the military, supported by the large landowners (Junkers) of Prussia. (iii) Three wars over seven years with Austria, Denmark and France ended in Prussian victory and completed the process of unification. (iv) On 18 January 1871, the Prussian king Kaiser William I was proclaimed German emperor in a ceremony held at Versailles. (v) The nation-building process in Germany demonstrated the dominance of Prussian state power."
+   },
+   "subparts": null,
+   "note": "Question text says '1930s'; marking scheme answers for the 1830s."
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "The Imperial State in China, was the major producer of printed material. Support this statement with examples.",
+   "options": null,
+   "figure": null,
+   "answer": "(a) China possessed a huge bureaucratic system which recruited its personnel through civil services examination. (b) Textbooks for this examination were printed in large number, under the sponsorship of the imperial state. (c) From the sixteenth century, the number of candidates taking the examination went up and that increased the volume of print.",
+   "or": {
+    "chapter": "Ch05_History_Print_Culture",
+    "text": "Who were the people who employed scribes to write in the 14th century?",
+    "options": null,
+    "figure": null,
+    "answer": "(i) As handwritten books were expensive, only the rich, the aristocrats and the Church could employ scribes. The scribes wrote only for aristocratic circles and rich monastic libraries. (ii) As the demand for books increased, booksellers all over Europe began exporting books to many different countries. Book fairs were held at different places. (iii) Production of handwritten manuscripts was also organised in new ways to meet the expanded demand. (iv) Scribes or skilled hand writers were no longer solely employed by wealthy or influential patrons but increasingly by booksellers as well. (v) One bookseller could employ 50 scribes due to the new technology in printing. It was no longer the monopoly of the rich and the influential."
+   },
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "\"Culture played an important role in creating the idea of the nation in 19th century Europe.\" Evaluate the statement in the context of romanticism.",
+   "options": null,
+   "figure": null,
+   "answer": "In 19th-century Europe, culture played a crucial role in shaping the idea of the nation, especially through Romanticism, a movement that encouraged nationalist feelings. Romantic artists and poets rejected the excessive focus on reason and science, highlighting emotions, intuition and the spiritual bond that united people. They aimed to create a sense of shared cultural heritage as the foundation of nationhood. Thinkers like Johann Gottfried Herder argued that true German culture lived among common people, expressed in folk songs, folk tales and dances. Collecting and preserving these traditions became central to nation-building. The Grimm brothers viewed such folklore as the pure spirit of Germany. In Poland, the use of the Polish language in churches resisted Russian control, while artists like Karol Kurpinski turned folk music and dances into strong nationalist symbols.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "How was liberalism allied to national unity in Europe in the early decades of the 19th century? Analyse.",
+    "options": null,
+    "figure": null,
+    "answer": "In the early decades of the 19th century, liberalism in Europe became closely linked with national unity. For the new middle classes, liberalism meant individual freedom and equality before the law, challenging autocratic rulers. Politically, it supported government by consent, constitutionalism and representative institutions, inspired by the French Revolution. Liberals demanded the end of autocracy and clerical privileges, believing that a nation could be unified only when its people were governed by common laws. Economically, liberalism promoted free markets and the removal of trade restrictions. The formation of the Zollverein in German states abolished internal tariffs and unified markets, encouraging economic integration. Thus, liberalism provided both political and economic foundations that strengthened the movement for national unity in Europe."
+   },
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Read the given text and answer the following questions:\n\nEmboldened with the success, Gandhiji in 1919 decided to launch a nationwide satyagraha against the proposed Rowlatt Act (1919). This Act had been hurriedly passed through the Imperial Legislative Council despite the united opposition of the Indian members. It gave the government enormous powers to repress political activities and allowed the detention of political prisoners without trial for two years. Mahatma Gandhi wanted non-violent civil disobedience against such unjust laws, which would start with a hartal on 6 April. Alarmed by the popular upsurge, local leaders were picked up from Amritsar, and Mahatma Gandhi was barred from entering Delhi. On 10th April, the police in Amritsar fired upon a peaceful procession, provoking widespread attacks on banks, post offices and railway stations. Martial law was imposed and General Dyer took command. On 13th April the infamous Jallianwalla Bagh incident took place.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What emboldened Mahatma Gandhi to launch a nationwide satyagraha?",
+     "marks": 1,
+     "options": null,
+     "answer": "After arriving in India, Mahatma Gandhi successfully organised satyagraha movements in various places like Champaran in Bihar, Kheda and Ahmedabad in Gujarat. Emboldened by this success, Gandhiji decided to launch a nationwide satyagraha in 1919."
+    },
+    {
+     "text": "What was the limitation of Rowlatt Satyagraha?",
+     "marks": 1,
+     "options": null,
+     "answer": "While the Rowlatt satyagraha had been a widespread movement, it was still limited mostly to cities and towns."
+    },
+    {
+     "text": "Explain the infamous incident that took place in Amritsar on 13th April.",
+     "marks": 2,
+     "options": null,
+     "answer": "On 13th April a large crowd gathered in the enclosed ground of Jallianwalla Bagh in Amritsar. People poured in to protest against the government's new repressive measures. General Dyer took command of troops and ordered them to open fire on the peaceful protestors."
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where Gandhiji broke the salt law.\nb. The place where the session of the Indian National Congress was held in September, 1920.",
+   "options": null,
+   "figure": "fig_p04_0.png",
+   "answer": "A - Dandi; B - Calcutta.",
+   "or": null,
+   "subparts": null,
+   "note": "Map question: the candidate marks and labels the places on the outline map of India."
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "Which one of the following is the irrigation system in Meghalaya?",
+   "options": [
+    "To remove water from soil.",
+    "To irrigate land only during rainy season.",
+    "To use bamboo drip irrigation system.",
+    "To use large volumes of water for irrigation."
+   ],
+   "figure": null,
+   "answer": "(c) To use bamboo drip irrigation system.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "In a geography class, the teacher engaged the students in a discussion to identify a specific type of soil. She provided them with four clues. The students had to use these clues to identify the soil type. Based on the clues given, which type of soil is being discussed?\nClues:\ni. It is ideal for growing cotton.\nii. The formation of this soil depends on climatic conditions and parent rock material.\niii. It is typical of the Deccan trap (Basalt) region\niv. They cover the plateaus of Maharashtra, Saurashtra, Malwa, Madhya Pradesh and Chhattisgarh and extend in the south east direction along the Godavari and the Krishna valleys.",
+   "options": [
+    "Laterite soil",
+    "Alluvial soil",
+    "Red soil",
+    "Black soil"
+   ],
+   "figure": null,
+   "answer": "(d) Black soil — these soils are black in colour, also known as regur soils or black cotton soil; ideal for cotton; formation depends on climatic condition and parent rock; typical of the Deccan trap (Basalt) region.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Read the following data and select the appropriate option from the following:\nProduction of Manganese in 2016-17\n\n| State | Percentage |\n|---|---|\n| Andhra Pradesh | 10 |\n| Madhya Pradesh | 27 |\n| Karnataka | 11 |\n| Odisha | 25 |\n| Maharashtra | 25 |\n\nChoose the ODD one out in the context of share manganese production.",
+   "options": [
+    "Maharashtra",
+    "Andhra Pradesh",
+    "Odisha",
+    "Madhya Pradesh"
+   ],
+   "figure": null,
+   "answer": "(b) Andhra Pradesh — the other three (Madhya Pradesh, Odisha, Maharashtra) are more or less equal contributors.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following options validates the nature worship and existence of sacred groves?\ni. Certain societies revere a particular tree that they have preserved from time immemorial.\nii. Some patches of forest or parts of large forests are left untouched by the local people and any interference with them is banned.\niii. The Mundas and the Santhal of Chota Nagpur region worship mahua and kadamba trees.\niv. Sacred qualities are ascribed to springs, mountain peaks and animals like langurs.",
+   "options": [
+    "Statement ii, iii & iv are correct.",
+    "Statement i and ii are correct.",
+    "Statement i, ii, & iii are correct.",
+    "Statement ii is correct."
+   ],
+   "figure": null,
+   "answer": "(c) Statement i, ii, & iii are correct — statements i, ii and iii are about forests and trees while statement iv is about traditional methods of conserving nature by ascribing sacred qualities to springs, mountain peaks, plants and animals.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "________ state is the major producer of pulses.",
+   "options": [
+    "Madhya Pradesh",
+    "Karnataka",
+    "Gujarat",
+    "Maharashtra"
+   ],
+   "figure": null,
+   "answer": "(a) Madhya Pradesh",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Which of the following options represents the steps that the government has undertaken in favour of the farmers?\ni. Encouraging speculators and middlemen for price determination.\nii. Introducing Personal Accident Insurance Scheme.\niii. Announcing minimum support price.\niv. Introducing special weather bulletins and agricultural programmes.",
+   "options": [
+    "Statement i, ii, & iii are correct.",
+    "Statement i and ii are correct.",
+    "Statement ii, iii & iv are correct.",
+    "Statement ii is correct."
+   ],
+   "figure": null,
+   "answer": "(c) Statement ii, iii & iv are correct.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Give any three suggestions to increase the employment in rural society and explain them.",
+   "options": null,
+   "figure": null,
+   "answer": "(i) Banks and cooperatives should provide cheap and easy loans to farmers for buying inputs. (ii) Construction of dams and canals for irrigation. (iii) Improving transportation and storage facilities. (iv) Setting up industries in semi-rural areas, e.g. dal mills, honey collection centres. (v) Developing schools and health centres. (vi) Promoting tourism and local crafts. (any three, with explanation)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "There is an urgent need to develop a sustainable path of energy development. Give two broad measures for it. As concerned citizens, how can you help to conserve energy?",
+   "options": null,
+   "figure": null,
+   "answer": "Two broad measures: (i) Increased use of renewable energy: conventional sources of energy are exhaustible and harmful to the environment; rising prices and limited supply make them unreliable in the long run, so countries should shift to renewable resources like solar and wind energy. (ii) Promotion of energy conservation: economic development depends on the availability of energy; all sectors (agriculture, transport, industry etc.) require energy; much of our energy is from conventional sources with limited supply, so energy must be used judiciously.\nAs concerned citizens we can: (a) switch off electronic devices when not in use; (b) take public transport and carpool; (c) use non-conventional sources of energy, e.g. install a solar panel.",
+   "or": {
+    "chapter": "Ch10_Geography_Minerals_and_Energy",
+    "text": "\"Consumption of energy in all forms has been rising all over the country. There is an urgent need to develop a sustainable path of energy development and energy saving\". Suggest and explain any three measures to solve this burning problem.",
+    "options": null,
+    "figure": null,
+    "answer": "Energy is a basic requirement for economic development. The strategy of economic development that India adopted since independence required an increasing amount of energy consumption, so consumption in all forms has been rising. Measures: (i) Increase the use of renewable energy resources like solar, wind power, biogas, tidal energy and geothermal energy; this decreases dependence on non-renewable sources. (ii) Use public transport instead of individual vehicles to minimise use of petroleum or diesel; pooling is also sustainable. (iii) Promote energy conservation, e.g. switching off electrical devices when not in use."
+   },
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Read the following text carefully and answer the questions that follow:\n\nNational Thermal Power Corporation (NTPC) shows the way\nNTPC is a major power providing corporation in India. It has ISO certification for EMS (Environment Management System) 14001. The corporation has a proactive approach for preserving the natural environment and resources like water, oil, gas and fuels in places where it is setting up power plants.\nThis has been possible through:\n- Optimum utilisation of equipment adopting latest techniques and upgrading existing equipment.\n- Minimising waste generation by maximising ash utilisation.\n- Providing green belts for nurturing ecological balance and addressing the question of special purpose vehicles for afforestation.\n- Reducing environmental pollution through ash pond management, ash water recycling system and liquid waste management.\n- Ecological monitoring, reviews and online database management for all its power stations.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Define the term sustainable development.",
+     "marks": 1,
+     "options": null,
+     "answer": "Sustainable development means 'development' should take place without damaging the environment, and development in the present should not compromise with the needs of the future generation."
+    },
+    {
+     "text": "What is the idea behind ISO certification?",
+     "marks": 1,
+     "options": null,
+     "answer": "ISO certification is a mark of quality and credibility for any company."
+    },
+    {
+     "text": "Examine the proactive approach of National Thermal Power Corporation (NTPC). Write a short note on NTPC.",
+     "marks": 2,
+     "options": null,
+     "answer": "(a) Optimum utilisation of equipment adopting latest techniques and upgrading existing equipment. (b) Minimising waste generation by maximising ash utilisation. NTPC Limited, formerly National Thermal Power Corporation, is an Indian central Public Sector Undertaking under the ownership of the Ministry of Power, Government of India, engaged in generation of electricity and allied activities."
+    }
+   ]
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. The airport named after Sri Guru Ram Das Ji, which was earlier known as Raja Sansi International Airport.\nii. Iron and Steel Plant in Durgapur that is managed by Steel Authority of India Limited.\nII. Any two of the following:\niii. Software Technology Park of West Bengal\niv. Tehri - Dam\nv. Kaiga - Nuclear Power Plant",
+   "options": null,
+   "figure": "fig_p04_0.png",
+   "answer": "Locations on the answer map (fig_p14_0.png): (i) Raja Sansi (Amritsar) airport; (ii) Bhadravati (as printed in the answer map); (iii) Kolkata - Software Technology Park; (iv) Tehri - Dam; (v) Kaiga - Nuclear Power Plant.",
+   "or": null,
+   "subparts": null,
+   "answer_figure": "fig_p14_0.png",
+   "note": "Map question: the candidate marks and labels the places on the outline map of India. Mixed chapters (Manufacturing/Energy/Water); outline map is the same as Q9. The marking scheme's map labels item (ii) as Bhadravati although the question names Durgapur."
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Which of the following statements is common about Biju Janata Dal, Sikkim Democratic Front, Mizo National Front, and Telangana Rashtra Samithi?\nStatement i: These parties are not regional in their ideology or outlook.\nStatement ii: They are regional in their ideology but have a national outlook.\nStatement iii: They all are conscious about their state/regional identity.\nStatement iv: They all are conscious about their national identity.",
+   "options": [
+    "Statement i, ii and iii are right.",
+    "Only statement iv is right.",
+    "Statement iii is right.",
+    "Statement i and ii are right."
+   ],
+   "figure": null,
+   "answer": "(c) Statement iii is right — these parties are conscious about their State identity.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "What do these newspaper clippings have to say about the efforts of decentralisation in India?",
+   "options": [
+    "Low share of women in Panchayats",
+    "Increased participation of women in Panchayats",
+    "One third of the seats of women are reserved in Loksabha",
+    "Women is facing inequality in Panchayats"
+   ],
+   "figure": "fig_p07_0.png",
+   "answer": "(b) Increased participation of women in Panchayats — the clippings are about Panchayats and show a huge number of women elected, i.e. increased participation of women in politics.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Which of the following statements will be considered as our fascination for democracy which when unfulfilled we start blaming the idea of democracy?\nStatement i: There is a delay in decision-making in a democracy.\nStatement ii: Democracy should always provide a method to resolve conflicts.\nStatement iii: Democracy often ignores the demands of a majority of its population.\nStatement iv: Democracy can address all socio-economic and political problems.",
+   "options": [
+    "Only statement iv is right.",
+    "Statement i, ii and iii are right.",
+    "Statement iii is right.",
+    "Statement i and ii are right."
+   ],
+   "figure": null,
+   "answer": "(a) Only statement iv is right — our fascination for democracy pushes us to take a position that democracy can address all socio-economic and political problems; if some expectations are not met, we start blaming the idea of democracy.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Assertion (A): Women face discrimination and disadvantage in India in many ways.\nReason (R): India is a patriarchal society.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A — India is a patriarchal society where men are considered superior to women; hence women face discrimination and disadvantage in many ways.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Explain any three steps taken by the Belgium government to accommodate regional differences.",
+   "options": null,
+   "figure": null,
+   "answer": "(i) Equal number of ministers in the central government: the Constitution prescribes that the number of Dutch and French-speaking ministers shall be equal in the central government. Some special laws require the support of a majority of members from each linguistic group, so no single community can make decisions unilaterally. (ii) Decentralisation of powers: many powers of the central government have been given to state governments of the two regions; the state governments are not subordinate to the Central Government. (iii) Separate government in the capital: Brussels has a separate government with equal representation for both communities; the Dutch-speaking community accepted equal representation in the Central Government.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Democracies accommodate various social divisions. Support the statement.",
+   "options": null,
+   "figure": null,
+   "answer": "1. Democracies develop a procedure to conduct their competition. This reduces the possibility of these tensions becoming explosive or violent. 2. No society can fully and permanently resolve conflicts among different groups, but we can learn to respect these differences and evolve a mechanism to negotiate them. 3. Ability to handle social differences, divisions and conflicts is a definite plus point of democratic regimes. Example: Belgium has successfully negotiated differences among its ethnic population.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "\"Democratic governments in practice are known as accountable.\" Support the statement with arguments.",
+   "options": null,
+   "figure": null,
+   "answer": "i. It is right to expect democracy to form a government that follows procedures and is accountable to the people. ii. The democratic government develops mechanisms for citizens to take part in decision making whenever they think it fit. iii. The democratic government is accountable to the people; if it ignores the will of the people, they will not elect it in the next general election. iv. The procedures and decision-making process should be transparent for a democratic government to be accountable to the people.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Define Political Party. Describe any four main challenges faced by the Indian political parties.",
+   "options": null,
+   "figure": null,
+   "answer": "A political party is a group of people who organize to win elections and hold power in government. They typically share common beliefs about political issues and policies. Four major challenges: (1) Lack of internal democracy: power concentrated in few hands, limiting participation of ordinary members. (2) Dynastic succession: since most parties do not practise open and transparent procedures, there are very few ways for an ordinary worker to rise to the top; leaders are in a position of unfair advantage to favour people close to them or their family members. (3) Money and muscle power: reliance on finances and intimidation tactics can overshadow policy focus. (4) Lack of meaningful choices: parties often do not offer a meaningful choice to voters; to do so, parties must be significantly different.",
+   "or": {
+    "chapter": "Ch16_PolSci_Political_Parties",
+    "text": "Explain any five functions of the ruling party.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Parties contest elections. In most democracies, elections are fought mainly among the candidates put up by political parties. ii. Parties put forward different policies and programmes and the voters choose from them. iii. Parties play a decisive role in making laws for a country. iv. Parties form and run governments. v. Parties that lose in the elections play the role of opposition by voicing different views and criticising government for its failures or wrong policies; they also mobilise opposition to the government. vi. Parties shape public opinion; they raise and highlight issues. vii. Parties provide people access to government machinery and welfare schemes implemented by governments. (any five)"
+   },
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Read the following text carefully and answer the questions that follow:\n\nOne of the key changes made in the Constitution of Belgium was to reduce the power of the Central Government and to give these powers to the regional governments. Regional governments existed in Belgium even earlier. They had their roles and powers. But all these powers were given to these governments and could be withdrawn by the Central Government. The change that took place in 1993 was that the regional governments were given constitutional powers that were no longer dependent on the central government. Thus, Belgium shifted from a unitary to a federal form of government. Sri Lanka continues to be, for all practical purposes, a unitary system where the national government has all the powers. Tamil leaders want Sri Lanka to become a federal system. Federalism is a system of government in which the power is divided between a central authority and various constituent units of the country. Usually, a federation has two levels of government. One is the government for the entire country that is usually responsible for a few subjects of common national interest. The others are governments at the level of provinces or states that look after much of the day-to-day administering of their state. Both these levels of governments enjoy their power independent of the other. In this sense, federations are contrasted with unitary governments. Under the unitary system, either there is only one level of government or the sub-units are subordinate to the central government. The central government can pass on orders to the provincial or the local government. But in a federal system, the central government cannot order the state government to do something. The state government has powers of its own for which it is not answerable to the central government. Both these governments are separately answerable to the people.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "In a federal system, can the central government give orders to state governments? Why or why not?",
+     "marks": 1,
+     "options": null,
+     "answer": "No. In a federal system the central government cannot give orders to state governments because both levels of government have their independent powers."
+    },
+    {
+     "text": "What is the primary demand of Tamil leaders in Sri Lanka regarding the country's government structure?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Tamil leaders want Sri Lanka to follow a federal system."
+    },
+    {
+     "text": "What key change occurred in the Constitution of Belgium in 1993, and how did it transform the country's government structure?",
+     "marks": 2,
+     "options": null,
+     "answer": "In 1993, Belgium shifted from a unitary system to a federal form of government by reducing the power of the Central Government and granting constitutional powers to regional governments, making them independent of the central government."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "The internet allows us to send instant electronic mail (e-mail) and talk (voice-mail) at ________.",
+   "options": [
+    "negligible costs",
+    "restricted access",
+    "high costs",
+    "limited speed"
+   ],
+   "figure": null,
+   "answer": "(a) negligible costs",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Rajiv obtained a loan of ₹ 8 lakhs from a bank for his business. The loan carries an annual interest rate of 10 percent and is to be repaid in monthly installments over a period of 5 years. As collateral, the bank retained Rajiv's valuable equipment until the loan and interest are fully repaid. Which of the following statements is true?",
+   "options": [
+    "Rajiv will repay the loan in a lump sum after 5 years.",
+    "Rajiv had to provide the bank with his personal bank statements to secure the loan.",
+    "The bank will return Rajiv's valuable equipment as soon as he submits his business plan.",
+    "The loan has a fixed interest rate of 5 percent per month."
+   ],
+   "figure": null,
+   "answer": "(b) Rajiv had to provide the bank with his personal bank statements to secure the loan (as given in the marking scheme).",
+   "or": null,
+   "subparts": null,
+   "note": "Marking-scheme key (b) looks doubtful; its own explanation says the bank required business plan/financial statements, not personal statements."
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Rakhi has done an economic survey of her area. The survey has revealed that people earn their livelihood by doing different jobs. The table prepared by Rakhi for this is given below. Study the table carefully and answer the question that follow:\n\n| S.N. | Work | No. of People |\n|---|---|---|\n| 1. | Farmer working his fields | 250 |\n| 2. | Teachers teaching in school | 10 |\n| 3. | Handloom weavers in his/her house | 70 |\n| 4. | Workers working in big factories | 140 |\n| 5. | Employees working at a hospital in the area | 60 |\n| Total | | 530 |\n\nHow many people are working in the unorganised sector?",
+   "options": [
+    "140",
+    "380",
+    "320",
+    "210"
+   ],
+   "figure": null,
+   "answer": "(c) 320 (farmers 250 + handloom weavers 70).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Choose the incorrect option from column A and column B:\n\n| Column A Category of person | Column B Developmental goals/Aspirations |\n|---|---|\n| (a) Landless rural labourers | (i) More days of work and better wages |\n| (b) Prosperous farmers from Punjab | (ii) Availability of other sources of irrigation |\n| (c) Farmers who depend only on rain for growing crops | (iii) Assured a higher support price for their crops |\n| (d) A rural woman from a landowning family | (iv) Regular job and high wages to increase her income |",
+   "options": [
+    "Only C",
+    "Only B",
+    "All of these",
+    "Both B and D"
+   ],
+   "figure": null,
+   "answer": "(b) Only B — prosperous farmers from Punjab want a higher support price for their crops (and cheap labour), not 'availability of other sources of irrigation'.",
+   "or": null,
+   "subparts": null,
+   "note": "Printed options are 'Only C / Only B / All of these / Both B and D' (the (a)-(d) option lists printed above Q33 belong to Q33)."
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) Cooperative societies | (i) A larger part of the earnings of the borrower is used to repay the loan |\n| (b) Credit money | (ii) Small scale organisation formed by people themselves |\n| (c) Cash reserve ratio | (iii) Future monetary claim against an individual that can be used to buy goods and services |\n| (d) The higher cost of borrowing | (iv) A certain minimum amount of deposit that the commercial banks have to hold as reserves with the central bank |",
+   "options": [
+    "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+    "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+    "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)",
+    "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)"
+   ],
+   "figure": null,
+   "answer": "(b) (a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Read the information given below and select the correct option\nIf in a family all 10 members are working in a shop or small family business when 5 are enough to work efficiently then those extra 5 members are actually unemployed. Which situation is being referred to?",
+   "options": [
+    "Educated Unemployment",
+    "Structural Unemployment",
+    "Disguised Unemployment",
+    "Seasonal Unemployment"
+   ],
+   "figure": null,
+   "answer": "(c) Disguised Unemployment — some people seem to be employed but are actually not.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "How did the policy of liberalisation adopted by India in the 1990s promote globalisation? Explain with examples.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Barriers on foreign trade and foreign investment have been removed to a large extent. ii. Goods can be imported and exported easily. iii. Foreign companies can set up factories and offices here. iv. Multinational companies can invest capital easily. v. With increased foreign trade more choices are available for consumers. vi. MNCs produce goods and services globally.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "What can be the alternative mode of payment in place of cash money?",
+   "options": null,
+   "figure": null,
+   "answer": "1. Demand deposits are considered as money because they can be withdrawn when required and the money withdrawn can be used for making payments; so they are also considered as money in the modern economy. 2. Apart from demand deposits, alternative modes of payment in place of cash are debit cards, credit cards, prepaid cards, bank transfers, phone and mobile payments, cheques and money orders.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Define 'Gross Domestic Product' and explain its importance.",
+   "options": null,
+   "figure": null,
+   "answer": "A. The value of final goods and services produced in each sector during a particular year provides the total production of the sector for that year, and the sum of production in the three sectors gives the Gross Domestic Product of a country. B. Importance: (i) Measure of economic performance: GDP helps measure the economic strength and performance of a country. (ii) Indicator of standard of living: a higher GDP often indicates a higher standard of living and better wellbeing of the people.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Suppose you are the Sarpanch of your village. What suggestions will you give for creating additional employment in the village, so that the problem of unemployment of the residents of rural areas can be reduced?",
+   "options": null,
+   "figure": null,
+   "answer": "As Sarpanch: (1) Promote agro-based industries such as food processing, dairy and oil extraction units, which use local produce and create year-round jobs. (2) Establish skill development centres under schemes like PMKVY to train villagers in tailoring, carpentry, handicrafts, mobile repair etc. (3) Make full use of MGNREGA to create employment through village infrastructure projects such as roads, canals, ponds and check dams. (4) Encourage rural entrepreneurship by supporting SHGs and providing microloans through NRLM for poultry, beekeeping, handicrafts etc. (5) Promote eco-tourism showcasing the village's natural and cultural heritage, creating jobs in guiding, hospitality and crafts.",
+   "or": {
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "Highlight any five benefits of organised sector, with examples.",
+    "options": null,
+    "figure": null,
+    "answer": "i. The organised sector covers enterprises or places of work where the terms of employment are regular and therefore people have assured work. ii. They are registered by the government and have to follow its rules and regulations. iii. Laws are followed such as the Factory Act, Minimum Wages Act, Payment of Gratuity Act, Shops and Establishment Act etc. iv. Workers enjoy security of employment and work only a fixed number of hours; for more work they are paid overtime. v. They get paid leave during holidays. vi. They get medical benefits. vii. The factory manager has to ensure facilities like drinking water and a safe working environment."
+   },
+   "subparts": null
+  }
+ ]
+}

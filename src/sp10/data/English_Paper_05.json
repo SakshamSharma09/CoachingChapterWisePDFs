@@ -1,0 +1,624 @@
+{
+ "subject": "English",
+ "paper": "Paper_05",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "1. If they go unaddressed, life's annoyances can affect your well-being. Scientific studies have found that people who rate high on tests for anger are at an increased risk for high blood pressure and heart disease. To process anger in a healthy way, Todd Kashdan, a psychology professor at George Mason University in Virginia, recommends you attempt to understand why you feel upset. Without pinpointing why you're angry, he says, \"You can't get a foothold to figure out what your body is mobilizing to do.\"\n2. When harnessed properly, anger can be a motivator. Frustration can drive us to choose a novel path while problem-solving or to become focused and committed - taking up a new cause, for example. Frustration may also be useful in negotiations. But watch, how you express it: raising your voice during a debate may be helpful, but the same tactic could potentially undermine collaborative work.\n3. Vexation has limits. Kashdan recommends thinking of anger as a speedometer, where 10 kilometres per hour is irritation and 100 kilometres per hour is blind rage. Speed limits are a measure of effectiveness : momentary annoyance during a negotiation might be useful, but rage seldom is. If you use anger as a tool too often, people will learn to avoid you. While others may offer small amounts of time and effort to keep your temper from erupting, you'll miss out on their best contributions.\n4. If you get into a disagreement with someone, pause for a moment and try to understand that person's point of view, then look for a mutually beneficial solution. Once you become angry, your thinking gets too narrow. To bring anger down a notch, psychologists recommend practising deep breathing. Focus on inhaling and exhaling, and picture your breath travelling to your diaphragm. Create a playlist of music to help relax when you feel agitated. Different genres work for different people.\n5. Keep disagreements from turning into fights by improving your communication skills. Avoid cutting others off or using accusatory adverbs like 'always' and 'never'. \"Unhealthy anger, the inability to cool down when upset, can be a symptom of mental health disorders such as depression,\" says Darin Dougherty of the Harvard Medical School. Speak to your doctor if this feels familiar : medication and cognitive behavioural therapy help.\n6. After anger runs its course, let go. Experts offer three steps for decompressing after you've been hurt : make sense of the wrongdoing with a loved one or a therapist; avoid dwelling after you've processed the issue; and, finally move on - find humour in the situation or leave the environment if it has become toxic.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Complete the following statement:\nAccording to the passage, it is important to understand the reason for your anger because ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "it will help you figure out what your body is mobilizing to do"
+    },
+    {
+     "text": "According to the author, which of the following is an effective way to bring down anger?",
+     "marks": 1,
+     "options": [
+      "(A) practising deep breathing",
+      "(B) playing a musical instrument for others",
+      "(C) travelling to different places",
+      "(D) going for a physical workout"
+     ],
+     "answer": "A. practising deep breathing"
+    },
+    {
+     "text": "Select the option that displays what the writer projects, with reference to the following:\nIf you get into a disagreement with someone, pause for a moment and try to understand that person's point of view. (Paragraph 4)",
+     "marks": 1,
+     "options": [
+      "(A) denial",
+      "(B) conviction",
+      "(C) reflection",
+      "(D) compassion"
+     ],
+     "answer": "C. reflection"
+    },
+    {
+     "text": "Select the option which is closest in meaning to 'undermine'. (Paragraph 2)",
+     "marks": 1,
+     "options": [
+      "(A) collective",
+      "(B) emphasize",
+      "(C) unilateral",
+      "(D) weaken"
+     ],
+     "answer": "D. weaken"
+    },
+    {
+     "text": "Explain this statement from Paragraph 2 - \"Frustration can drive us to choose a novel path while problem-solving.\"",
+     "marks": 2,
+     "options": null,
+     "answer": "- anger/frustration can lead us to choose a different approach\n- dissatisfied with the current activity, one moves to a better course of action"
+    },
+    {
+     "text": "How can communication skills help in anger management?",
+     "marks": 1,
+     "options": null,
+     "answer": "Keeps disagreements from turning into fights by avoiding the use of accusatory adverbs like 'always' and 'never'"
+    },
+    {
+     "text": "Complete the sentence appropriately:\nIf your anger remains uncontrolled,",
+     "marks": 1,
+     "options": [
+      "(A) decisions will get delayed resulting in losses.",
+      "(B) you will not receive the best contributions.",
+      "(C) there can be momentary annoyance during a negotiation.",
+      "(D) people will respond equally aggressively."
+     ],
+     "answer": "B. you will not receive best contributions"
+    },
+    {
+     "text": "How can you unwind after letting go of your anger? Give two suggestions from the text.",
+     "marks": 2,
+     "options": null,
+     "answer": "- avoid dwelling in the issue again\n- find humour in the situation or move away from the toxic environment"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "1. Electric vehicles (EV) market is growing rapidly all over the world. In India also the EV market has gained significant momentum. It has grown more after the implementation of FAME (Faster Adoption and Manufacture of Hybrid and Electric Vehicles) scheme in 2015 by Ministry of Heavy Industry and Public Enterprises.\n2. Electric vehicles are solutions to be independent and free from imported energy resources. Electric cars can bring a major change to India in becoming self-sustainable. EV could also be the alternative to decrease carbon dioxide gas. Carbon dioxide from automobiles is one of the causes of air pollution.\n3. An EV can be used for flexible load, for standardizing the grid with substantial share of fluctuating renewable energy generation. EV emits 30-80% less greenhouse gas when compared with Internal Combustion Engine (ICE) vehicle. EVs do not consume any energy when it is stationary as compared to ICE vehicles where fuel is consumed when it is idle. EV is recognised as promising alternatives to vehicles and will potentially replace ICE vehicles in the near future\n4. The electric vehicles have low emissions, high efficiency and smooth operation. The energy consumption and emissions for plug in hybrid electric vehicles found that compared to gasoline vehicles there is 37.5% less energy consumption and 35% less greenhouse gas emissions.\nThe government have started financial policies to encourage EV adoption; however, decision makers have to plan a long-term perspective to get them implemented efficiently.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What does the phrase 'gained significant momentum' in paragraph (1) tell us about the impact of EV market?",
+     "marks": 1,
+     "options": [
+      "(A) It is momentarily important",
+      "(B) It has developed very quickly",
+      "(C) It has gained profit",
+      "(D) It has to develop a significant market"
+     ],
+     "answer": "(B) It has developed very quickly."
+    },
+    {
+     "text": "Select the option that is true for the Assertion and Reason given below:\nAssertion: Electric vehicles can bring a major change to India.\nReason: It can bring India to becoming self-sustainable.",
+     "marks": 1,
+     "options": [
+      "(A) Both the Assertion and Reason are true and the Reason is the correct explanation of the Assertion.",
+      "(B) Both the Assertion and Reason are true but the Reason is not the correct explanation of the Assertion.",
+      "(C) The Assertion is true, but the Reason is false.",
+      "(D) The Assertion is false, but the Reason is true."
+     ],
+     "answer": "(A) Both the Assertion and Reason are true and the Reason is the correct explanation of the Assertion."
+    },
+    {
+     "text": "Give two benefits of using Electric vehicles over Internal Combustion Engine vehicles.",
+     "marks": 2,
+     "options": null,
+     "answer": "- EVs do not consume any energy when stationary compared to ICE\n- EVs emit 30-80% less GHGs than ICE\n- EVs reduce GHGs\n- EVs are energy efficient (any two)"
+    },
+    {
+     "text": "With reference to the passage, the word 'idle' in paragraph (3) most nearly means ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "Stationary / parked / not in use / not running / immobile (any one)"
+    },
+    {
+     "text": "How do electric vehicles contribute to diminishing a country's reliance on imported energy?",
+     "marks": 1,
+     "options": null,
+     "answer": "By making India self-sufficient"
+    },
+    {
+     "text": "Read the given prompt and select the correct option in the brackets to fill in the blank:\nEV could be the alternative to ________ (enhance/reduce) the carbon dioxide gas emission.",
+     "marks": 1,
+     "options": [
+      "enhance",
+      "reduce"
+     ],
+     "answer": "Reduce"
+    },
+    {
+     "text": "Give evidence from the passage to show that government is encouraging the use of Electric Vehicles.",
+     "marks": 1,
+     "options": null,
+     "answer": "FAME Policy / to encourage EV adoption (financial policies)"
+    },
+    {
+     "text": "Complete the sentence suitably:\nThe result of the implementation of FAME (Faster Adoption and Manufacture of Electric vehicles) is ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "EV market gaining momentum"
+    },
+    {
+     "text": "Complete the following with a suitable reason:\nThe long-term perspective by decision makers is to ensure ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "That policies (financial, etc.) are implemented efficiently."
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Fill in the blank by using the correct form of the word in the bracket, for the given portion of an email:\nYou will find in this email a brochure that ________ (present) the various tourist attractions in our city, aimed at boosting local tourism.",
+     "marks": 1,
+     "options": null,
+     "answer": "presents"
+    },
+    {
+     "text": "Identify the error in the given sentence about the highest mountains in the world and supply the correction.\nThe Himalayas is the highest mountains in the world.\nUse the given format for your response.\n| error | correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "error: is; correction: are"
+    },
+    {
+     "text": "Read the conversation and complete the sentence by reporting the reply correctly.\nAnne: I want to order a big pineapple cake for my birthday.\nConfectioner: When is your birthday?\nAnnie told the confectioner ________. The confectioner asked when her birthday was.",
+     "marks": 1,
+     "options": null,
+     "answer": "that she wanted to order a big pineapple cake for her birthday."
+    },
+    {
+     "text": "Read the dialogue between Manish and his father, regarding Manish's cricket coaching.\nFather: Did you get a new coach in the academy to train you?\nManish: Yes, the new coach is very motivating and pushes us to perform better.\nSelect the correct option to complete the reporting of the above dialogue.\nManish's father asked him ________.\nManish answered in the affirmative and added that the new coach was very motivating and pushed them to perform better.",
+     "marks": 1,
+     "options": [
+      "a) whether he gets a new coach in the academy to train him.",
+      "b) whether he got a new coach to train him.",
+      "c) if he got a new coach in the academy to train him.",
+      "d) if he is getting a new coach in the academy to train him."
+     ],
+     "answer": "(c) if he got a new coach in the academy to train him."
+    },
+    {
+     "text": "Fill in the blank by choosing the correct option.\n___________ (Much / Many / Few) time is required to learn a new language.",
+     "marks": 1,
+     "options": [
+      "Much",
+      "Many",
+      "Few"
+     ],
+     "answer": "Much"
+    },
+    {
+     "text": "Read the given sentence from an article on Yoga. Identify the error and supply the correction in the sentence:\nYoga should help lower blood pressure, cholesterol, and blood sugar, all of which are not good for your heart and blood vessels.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: are; Correction: is"
+    },
+    {
+     "text": "Select the option that identifies the error and supplies the correction for the following line, from a news report:\nA school has adopted safety measures like screening of everyone who enters school premises and special sanitization of the school as per WHO guidelines.\n| Option no. | Error | Correction |\n|---|---|---|\n| A | a | the |\n| B | has | have |\n| C | enters | enter |\n| D | the | a |",
+     "marks": 1,
+     "options": [
+      "A: a - the",
+      "B: has - have",
+      "C: enters - enter",
+      "D: the - a"
+     ],
+     "answer": "(A) a - the"
+    },
+    {
+     "text": "Fill in the blank by choosing the correct option from the ones given below:\nGreat News!\nOur school's basketball team ________ the district championship.",
+     "marks": 1,
+     "options": [
+      "a) clinched",
+      "b) clinching",
+      "c) was clinched",
+      "d) had clinched"
+     ],
+     "answer": "(a) clinched"
+    },
+    {
+     "text": "Report the dialogue between the shopkeeper and customer, by completing the sentence:\nCustomer: Do you sell battery operated toys for children?\nShop keeper: Yes, we have a wide range of toys.\nThe customer asked the shopkeeper if he sold battery operated toys for children. In response, the shopkeeper replied ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "(in affirmative) they had a wide range of toys."
+    },
+    {
+     "text": "He said to his friend, \"please wait for me\".\nReported speech: ________",
+     "marks": 1,
+     "options": [
+      "a) He requested his friend that he should wait for him.",
+      "b) He requested his friend to wait for him.",
+      "c) He told his friend to wait for him.",
+      "d) He said to his friend to wait for him."
+     ],
+     "answer": "(b) He requested his friend to wait for him."
+    },
+    {
+     "text": "Complete the line from a self-awareness song, by filling the blank with the correct option.\nThe angel whole and ________ The next right\nIt came again with a great wakening light.\nAnd showed the names whom love of God had blest,\nAnd lo! Ben Adhem's name ________ all the rest.",
+     "marks": 1,
+     "options": [
+      "A. has vanished, led",
+      "B. vanishes, leads",
+      "C. vanished, led",
+      "D. was vanishing, had led"
+     ],
+     "answer": "C. vanished, led (the action started and completed in the past, so Simple Past)"
+    },
+    {
+     "text": "Identify the error and supply the correction, for the following:\nDelhi Government\nCOVID-19 FAMILY FINANCIAL ASSISTANCE SCHEME\nAn assistance of ₹50,000/- will be given to all family living in Delhi on each death of any family member due to COVID-19, whether or not they were earning members.\nUse the given format for your response.\n| error | correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "error: all; correction: every"
+    }
+   ],
+   "note": "Attempt any 10 of 12; the 12 one-mark subparts therefore total 12, question marks = 10"
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "You come across the photograph given below and are upset to see the cattle blocking the road. In case you try to drive them away, their owners will come running from across the road and punish you with harsh words and even a punch or two. Write a letter to the editor of Hindustan Times, Kasturba Gandhi Marg, advocating the need of law for the punishment of such owners.",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": "10-C, SFS, Flats,\nKarol Bagh,\nNew Delhi\n30th July 2018\nThe Editor,\nThe Hindustan Times\nKasturba Gandhi Marg,\nNew Delhi\nSir,\nSubject: Strict laws for cattle owners\nThrough your columns, I'd like to draw the attention to the menace caused by cattle on the roads. With people building palatial houses for themselves, there is little or no space left for the animals. Even those who own or domesticate cattle are least bothered to provide them with a good shelter. The result is that we find them loitering around in public places, thus hindering the traffic. All of us are well aware of the fact that traffic in this city has increased manifold and traffic jams everyday menace. When people try to drive them away, their owners who are also wandering nearby come rushing back and pick up a fight. It ends with just harsh words while at others they become physically violent and even give a punch or two. The need of the hour is that we should have a strict law to punish these people whose cattle roam on roads and create traffic problems. To sort out this problem, kindly address this issue through the esteemed columns of your daily.\nThank you.\nYours sincerely,\nSudheer.",
+   "or": {
+    "chapter": "SKILL_Writing",
+    "text": "You are Ankita/Ankit. You wish to pursue a course on 'Data Science'. Write a letter to the Director, Scaler Data Science, enquiring about the eligibility, duration, fee, scholarship and placement, etc.",
+    "options": null,
+    "figure": null,
+    "answer": "Ankit/Ankita\nPO Box 25415\nBangalore\n29th April 2022\nThe Director\nScaler Data Science Center\nBangalore\nSubject: Inquiry about course details\nSir/Ma'am,\nI am writing this letter to inquire about the eligibility criteria, duration, fee, scholarship and placement opportunities for the Data Science course offered by Scaler Data Science. My name is Ankita/Ankit and I am very interested in pursuing a career in data science. I believe that Scaler Data Science would be the ideal place for me to learn the necessary skills and knowledge to succeed in this field.\nCould you please provide me with the eligibility criteria for the Data Science course? I am also curious to know about the duration of the course and the fees involved. Additionally, do you offer any scholarships or financial assistance to students who demonstrate exceptional merit or financial need?\nLastly, I would appreciate it if you could provide information about the placement opportunities for students who successfully complete the course. It would be helpful to know about the companies that typically hire graduates from your program and the salaries they can expect to earn.\nThank you for considering my request. I look forward to hearing back from you soon.\nYours faithfully\nAnkita/Ankit"
+   },
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "The given double bar graph shows the preferences of children in a school in playing different games over the span of six years. Write an analytical paragraph about the given information.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": "The given double bar graph shows the preferences of children in a school in playing different games over the period of six years i.e., from 2014 to 2019.\nThe graph shows that the highest number of children interested in playing volleyball is in the year 2016 whereas in the year 2019, very less number of children preferred volleyball. The graph shows a hike in the game of volleyball again in the year 2018. The data shows that the preference of people in basketball is almost constant, like in the years 2014, 2017, and 2018 same number of children showed interest in it. Basketball got a slight hike of interested children in the year 2016 but a decline has been seen in it in 2019 which is equal to 2015.\nIf we observe the graph we can see that childrens preference related to volleyball is continuously changing every year. Although initially 200 children were interested in volleyball in 2014. Then it reached 300 in 2015, the greatest hike of 450 in 2016, but it again declined to 250 children in 2017, it again showed a hike of 400 children in 2018 and the lowest number of children i.e., only 150 in 2019.\nWhereas basketball was much preferred in 2014 than volleyball. It shows a decline of 100 children in 2015 but again reached 400 in 2016 and then remained same in 2017 and 2018.\nTo conclude the data shows that throughout the six years basketball was more preferred in comparison to volleyball. Although data shows that volleyball has got the highest number of interested children in 2016 but the numbers are constantly flickering which reached the lowest and is less preferred by the children in the year 2019 also.",
+   "or": {
+    "chapter": "SKILL_Writing",
+    "text": "The given pie charts show percentage of boys of class 12 of two different schools regarding their interest in participation in different quizzes. Write an analytical paragraph describing the given information.",
+    "options": null,
+    "figure": "fig_p07_1.png",
+    "answer": "The given pie charts show the data of two schools about the interest of boys in participation in different quizzes.\nThe most preferred choice of subject by school-1 is maths where 35% students preferred it. Science came second which was preferred by 30% students. The students of school-1 showed equal interest in the quizzes of English and commerce, which shows 10% of participation. For G.K. 15% students from school-1 showed interest. The most preferred subject by school-1 is maths and least ones are English and commerce.\nIn School-2 the most preferred choice of subject was science which was preferred by 35% students. Maths was the second preferred choice, preferred by 25% students. Next is English with 20% students being interested in it and then commerce where only 10% students preferred it. The least preferred choice by the students of school-2 was G.K. which was preferred by only 5% students.\nTo conclude we can say that the top choice for both the schools were maths and science with slight variation in numbers. The students of School-2 were least interested in G.K. whereas School-1 had a tie in their least preferred choice which was both commerce and English."
+   },
+   "subparts": null,
+   "note": "'or' has two pie charts: fig_p07_1.png (School-1) and fig_p07_2.png (School-2)"
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "text": "Read the following extracts and answer the question/complete the sentences that follow:\n\"She suffered incessantly, feeling herself born for all delicacies and luxuries. She suffered from the poverty of her apartment, the shabby walls and the worn chairs. All these things tortured and angered her. When she seated herself for dinner opposite her husband who uncovered the tureen with a delighted air, saying, \"Oh! the good potpie! I know nothing better than that...,\" she would think of elegant dinners of shining silver; she thought of the exquisite food served in marvellous dishes. She had neither frocks nor jewels, nothing. And she loved only those things. She had a rich friend, a schoolmate at the convent, who she did not like to visit- she suffered so much when she returned. She wept for whole days from despair and disappointment.\"",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": {
+    "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom",
+    "text": "Read the extract given below carefully and answer the questions that follow:\nNo one is born hating another person because of the colour of his skin or his background or his religion. People must learn to hate and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite. Even in the grimmest times in prison, When my comrades and I were pushed to our limits, I would see a glimmer of humanity in one of the guards, perhaps just for a second, but it was enough to reassure me and keep me going. Man's goodness is a flame that can be hidden but never extinguished.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "subparts": [
+     {
+      "text": "State any one inference about Nelson Mandela from the given extract.\nI would see a glimmer of humanity in one of the guards, perhaps just for a second.",
+      "marks": 1,
+      "options": null,
+      "answer": "He feels that humanity is still alive. In the long walk of struggle when Nelson Mandela was pushed into prison, he sensed humanity; he observed some essential goodness in one of the guards of the prison. This goodness gave him the strength to keep going and fight racial discrimination.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "State TRUE OR FALSE.\nNone of the terms (a)-(d) can be applied to the question- No one is born hating another person because of the colour of his skin, or his background, or his religion.\ni. A hypothesis- a proposed explanation for a phenomenon\nii. An assumption- something that is taken for granted or assumed to be true without proof.\niii. A premise- a proposition that forms the basis of an argument.\niv. A theory- a well-substantiated explanation for a natural phenomenon.",
+      "marks": 1,
+      "options": [
+       "True",
+       "False"
+      ],
+      "answer": "True. Explanation: The statement is a powerful assertion that emphasizes the idea that hate and prejudice are learned behaviours and not innate characteristics.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "Nelson Mandela is of the view that 'Man's goodness is a flame that can be hidden but never extinguished.' Elaborate in about 40 words with reference to the extract.",
+      "marks": 2,
+      "options": null,
+      "answer": "This line shows that Nelson Mandela is very optimistic and inspirational as he believes that goodness in human beings can be suppressed but never eliminated. This means that each human being has the light and fire of goodness in him. This light may remain dormant in his being for some time; but when the need arises for this light of goodness, it becomes lighted and dispels the darkness. This light may remain burning at low intensity, but it never burns out; nor can it be extinguished.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "Which phrase would correctly substitute the word 'extinguished' in the given sentence from the extract.\nMan's goodness is a flame that can be hidden but never *extinguished*.",
+      "marks": 1,
+      "options": null,
+      "answer": "to cause something to stop burning / blow out something / put a stop.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "Choose the option that is NOT TRUE according to the given extract.",
+     "marks": 1,
+     "options": [
+      "a. Matilda was very pleased with her life.",
+      "b. Matilda envied her friend for being well-off.",
+      "c. Matilda despised the fact that she lived a life of poverty.",
+      "d. Matlida thought of grand dinners and silverware sitting at the dinner table."
+     ],
+     "answer": "a. Matilda was very pleased with her life.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "Why was Matlida Loisel always unhappy?",
+     "marks": 2,
+     "options": null,
+     "answer": "Matilda Loisel was very pretty. She considered herself born for a luxurious life. But in reality, she was married to a petty clerk. The poverty of her apartment and the lack of fashionable clothes and jewellery too added to her unhappiness.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "A characteristic displayed by Mr Loisel in the extract is ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "Contented. Explanation: she (Matilda) struggled to be happy, while he was satisfied with what they had.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "What do you mean by 'Tureen' given in the following line: ......... who uncovered the tureen with a delighted air, saying, \"Oh! the good potpie!\"",
+     "marks": 1,
+     "options": null,
+     "answer": "Tureen means a deep covered dish from which soup is served.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    }
+   ],
+   "note": "Main = extract (i), 'or' = extract (ii); choose ANY ONE. Subpart marks as printed."
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch22_How_to_Tell_Wild_Animals",
+   "text": "Read the following extracts and answer the question/complete the sentences that follow:\nIf when you're walking round your yard\nYou meet a creature there,\nWho hugs you very, very, hard\nBe sure it is a Bear.\nIf you have any doubt, I guess\nHe'll give you just one more caress",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": {
+    "chapter": "Ch21_A_Tiger_in_the_Zoo",
+    "text": "Read the following extracts and answer the question/complete the sentences that follow:\nHe should be lurking in shadow,\nSliding through long grass\nNear the water hole\nWhere plump deer pass",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "subparts": [
+     {
+      "text": "He should be lurking in the shadow to ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "attack the deer who comes to drink water at the water hole.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "Where was the tiger actually? Choose the correct option:",
+      "marks": 1,
+      "options": [
+       "a. Jungle",
+       "b. Natural Habitat",
+       "c. Cage in the Zoo"
+      ],
+      "answer": "Cage in the zoo (option c; the key prints it as '(d)')",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "What is the tiger doing near the water hole in the poem \"A Tiger in a Zoo\"?",
+      "marks": 2,
+      "options": null,
+      "answer": "The tiger is lurking in the shadow, sliding through long grass near the water hole where plump deer pass.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "Which word refers to fat?",
+      "marks": 1,
+      "options": null,
+      "answer": "Plump.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "The word 'You' in the first line here is the ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "The reader of the poem.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "Which distinctive feature of a bear is mentioned here in these lines?",
+     "marks": 1,
+     "options": null,
+     "answer": "Hugging hard to the one it meets.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "Why does the poetess say that a bear's hug may confuse a novice?",
+     "marks": 2,
+     "options": null,
+     "answer": "It is the tendency of a bear to kill his victim by embracing him. He hugs the victim so tight that he usually dies. But a novice who does not know the way of bears may misunderstand his hug. He may think that it is a loving embrace.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "Which poetic device is used here? Choose the correct option:",
+     "marks": 1,
+     "options": [
+      "a. Simile",
+      "b. Alliteration",
+      "c. Hyperbole",
+      "d. Repetition"
+     ],
+     "answer": "The poetic device used here is 'alliteration'. Option (b) is correct.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    }
+   ],
+   "note": "Main = extract (i), 'or' = extract (ii); choose ANY ONE. Subpart marks as printed."
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What did the bakers wear when the author was young?",
+     "marks": 3,
+     "options": null,
+     "answer": "The bakers in the Portuguese days were very simple. They wore a peculiar dress that was a long single piece of frock reaching down to the knees. It was called the 'kabai'. The author described that when he was young, the bakers wore a shirt and a trouser that was longer than half pants and shorter than full pants. This symbolised the identity of a baker.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "It is our attitude towards a situation that makes it positive or negative. Do you agree with it? Express your views with reference to the poem, Dust of Snow.",
+     "marks": 3,
+     "options": null,
+     "answer": "Whatever situation life throws at us, it evokes both positive and negative responses. The poet, in the poem, \"Dust of Snow\" was in a sorrowful mood. However, when a crow shook down the 'dust of snow' on him, his bitter mood changed into a more optimistic one. Now, being in a sorrowful or bad mood already, the poet could have got angry at the crow also. However, the dust of snow becomes a positive medium of change for him. It made him cheerful to some extent and helped him forget his sadness, at least for a few moments. Thus, we see that instead of seeing the negative aspect of a happening, one should see the positive aspect, and one's response may greatly affect the outcome of incidents.",
+     "chapter": "Ch19_Dust_of_Snow"
+    },
+    {
+     "text": "What idea does the Postmaster come up with? What did he do to stick to his resolution? (A Letter to God)",
+     "marks": 3,
+     "options": null,
+     "answer": "The Postmaster comes up with the idea to answer Lencho's letter to God in order to maintain Lencho's faith. To stick to his resolution, the Postmaster gathers money from his employees, contributes part of his own salary, and persuades several friends to donate as well, pooling together what they can. Despite not being able to gather the full amount Lencho requested, the Postmaster sends Lencho a little more than half of it in an envelope, accompanied by a letter signed with the single word \"God\". This act reflects the Postmaster's attempt to uphold Lencho's belief in divine assistance, even though the response falls short of Lencho's expectations.",
+     "chapter": "Ch01_A_Letter_to_God"
+    },
+    {
+     "text": "Why does Anne want to keep a diary?",
+     "marks": 3,
+     "options": null,
+     "answer": "Anne didn't have any real friends to share her feelings and thoughts with. Further, she believed that paper had more patience than people and so she wanted to get all kinds of things off her chest and confide her innermost perceptions of different things with the diary.",
+     "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+    },
+    {
+     "text": "What role does each of Belinda's pets play in the narrative? Select any two of her pets. (The Tale of Custard the Dragon)",
+     "marks": 3,
+     "options": null,
+     "answer": "Belinda's pets add humour and ridicule to the narrative by constantly mocking Custard, the dragon, for his supposed cowardice. Mustard, the dog, boasted loudly about his courage and often bullied Custard to appear brave. Ink, the black cat, portrayed with a sense of mystery like witchcraft, also joined in teasing and belittling him. Even Blink, the tiny mouse - shown as timid and known to be the first to abandon danger - mocked Custard despite his own weaknesses. Ironically, Custard, who was meek, timid, and fearful despite being a dragon, was the only one who bravely fought the pirate and saved the household. This contrast creates humour and highlights the true meaning of courage.",
+     "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+    }
+   ],
+   "note": "Attempt any 4 of 5 (3 marks each); the 5 subparts total 15, question marks = 12"
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "How did Mr. Herriot treat Tricki at the hospital?",
+     "marks": 3,
+     "options": null,
+     "answer": "Mr. Herriot made a bed for Tricki next to the other dogs' beds. He didn't give Tricki anything to eat for two days. He only gave it water. He was kept under keen observation and later given some exercise. Thus, Tricki gradually returned to his good health.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "Bholi's parents accepted the match for her though Bishamber Nath was nearly the same age as her father. Bholi also accepted her parents' decision without voicing her opinion.\ni. What does this tell you about the social conditions prevailing in our society?\nii. How do you think these problems can be addressed?",
+     "marks": 3,
+     "options": null,
+     "answer": "When Bishamber greedily demanded five thousand rupees as a condition to marry a girl with pock marks on her face, Bholi refused to allow him to garland her and told him that he was a contemptible person. These problems can be addressed if proper education is imparted to everyone in the society.",
+     "chapter": "Ch17_Footprints_Bholi"
+    },
+    {
+     "text": "One should never judge a book by its cover. Explain with reference to Ausable and how he outwits Max with his presence of mind. (The Midnight Visitor)",
+     "marks": 3,
+     "options": null,
+     "answer": "Ausable, despite appearing unimpressive and unlike a typical spy, demonstrates cleverness and quick thinking. He uses his calm demeanor and a fabricated story about a balcony to trick Max. When Henry, the waiter, knocks, Ausable pretends it's the police, causing Max to panic and escape through a nonexistent balcony, showcasing Ausable's sharp intellect.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    }
+   ],
+   "note": "Attempt any 2 of 3 (3 marks each); subparts total 9, question marks = 6"
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "text": "In a parallel world, the pilot of the black aeroplane narrates his adventure in a story titled The Old Dakota. You come across an excerpt from the story, which responds to the ending questions of Black Aeroplane and describes the black aeroplane pilot's decision to fly away after watching the Dakota land. Compose the said excerpt of the story employing relevant details from Black Aeroplane.",
+   "options": null,
+   "figure": null,
+   "answer": "The old Dakota\n...I waved the pilot of the old Dakota and gestured him to follow me. Like an obedient child, he started do so. He followed me until he could see the runaway. I was tensed whether he would land safely or not. Because he had already made me understand that he was running short of fuel. I saw him landing safely on the runway. I was relaxed. I felt there was no need to wait. The good deed of the day was done. Once again, I had rescued a plane stuck in storm. So, I decided to fly away from there in search of someone else who may be in need of my help.\nI, as the Marshal of the Air Force, had been using my skills of flying Air planes in the harshest weather since past ten years. Surprising the rescue ones by my mysterious entry and exists.",
+   "or": {
+    "chapter": "Ch24_Amanda",
+    "text": "Read the quote given below carefully. Based on your understanding of the poem, explain how and why this quote can be applied to the poem.\n\"All grown-ups were once children...but only a few of them remember it.\" - Antoine de Saint-Exupery",
+    "options": null,
+    "figure": "fig_p10_0.png",
+    "answer": "It is truly said that 'All grown-ups were once children... but only a few of them remember it.' Bringing up teenagers is truly challenging and fun. Teens can be rebellious and apparently not headed with a highly independent perspective. In such circumstances, yelling at them, and nagging them, as done in the poem with Amanda, will only make matters worse. Forcing decisions on them only make them detached, as we see in Amanda's case, where she wishes to be the alone mermaid, an orphan, or the lonely Rapunzel. Amanda's condition may be witnessed in every child's life. When children are told a long list of do's and don'ts then they feel targeted. Then they start comparing their own life with that of the grown-ups around them be it their own parents, teachers or kids. They feel like shutting off their mind from the outside world. But they should always remember that whatever the parents or teachers are telling is for their good only. Grown-ups can befriend the children but to a certain limits. The habits inculcated in children by their parents will help them in their adult life."
+   },
+   "subparts": null,
+   "note": "Paper: 'Answer ANY ONE of the following two questions, in about 100-120 words'; (i) main, (ii) in 'or'."
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch15_Footprints_The_Making_of_a_Scientist",
+   "text": "Richard's mother had been invited to a talk show after Richard's graduation from Harvard with the highest honours. You attended that the talk show. Write the most memorable thing she spoke and what you think it reveals about her.",
+   "options": null,
+   "figure": "fig_p10_1.png",
+   "answer": "Emcee/Host: Well! Miss Ebright, how does it feel now when your son, Richard was given award for the young scientist as the highest honour at International Science Fair?\nMother: It feels great! I mean it. My son was always a special child who loved to experiment with existing things. His extreme curious nature and love for all forms of life led to this discovery.\nEmcee/Host: Do you treat him in a special way now that he has become so famous?\nMother: For me he is my same child with normal needs and wants. Richard has always been a very polite child right from his childhood. He has never been too demanding. All he ever wanted was to be left alone to himself. So, that he is into his world of science and surroundings.\nEmcee/Host: Do you love him?\nMother: Yes, I do. As a mother he is very dear to me. Being the only child he is all the more closer to me than anyone else. For him his world revolves around me.\nEmcee/Host: He graduated from Harvard University with greatest honours. What is your reaction?\nMother: Well! he very rightly deserves it. He has worked hard for it because of his tremendous efforts, he has won over all obstacles to reach where he is today.",
+   "or": {
+    "chapter": "Ch11_Footprints_The_Thiefs_Story",
+    "text": "How did Anil bring about a change in Hari Singh? (The Thief's Story)",
+    "options": null,
+    "figure": null,
+    "answer": "Despite Hari not being of much use, Anil still kept him in his house with patience and kindness. Even though Hari continued stealing from him, Anil never scolded or punished him. Instead, he showed him trust and care. This kindness deeply touched Hari and made him realise his mistake. He understood the folly of cheating a man who genuinely wanted to help him. In the end, Hari chose education over money and returned the soaked currency notes to Anil. Anil's forgiveness brought a true change within him, transforming him into a better and more honest person."
+   },
+   "subparts": null
+  }
+ ]
+}

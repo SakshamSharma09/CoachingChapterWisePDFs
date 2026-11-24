@@ -1,0 +1,33 @@
+SST items 483
+Ch01_History_Rise_of_Nationalism_in_Europe 48 -> 46 questions 130 marks
+Ch02_History_Nationalism_in_India 43 -> 42 questions 103 marks
+Ch03_History_Making_of_a_Global_World 13 -> 13 questions 22 marks
+Ch05_History_Print_Culture 27 -> 26 questions 62 marks
+Ch06_Geography_Resources_and_Development 20 -> 20 questions 26 marks
+Ch07_Geography_Forest_and_Wildlife 14 -> 10 questions 13 marks
+Ch08_Geography_Water_Resources 17 -> 15 questions 24 marks
+Ch09_Geography_Agriculture 21 -> 21 questions 32 marks
+Ch10_Geography_Minerals_and_Energy 30 -> 30 questions 107 marks
+Ch11_Geography_Manufacturing_Industries 21 -> 20 questions 75 marks
+Ch12_Geography_Lifelines_of_National_Economy 1 -> 1 questions 5 marks
+Ch13_PolSci_Power_sharing 19 -> 18 questions 36 marks
+Ch14_PolSci_Federalism 20 -> 19 questions 47 marks
+Ch15_PolSci_Gender_Religion_and_Caste 13 -> 13 questions 24 marks
+Ch16_PolSci_Political_Parties 29 -> 27 questions 94 marks
+Ch17_PolSci_Outcomes_of_Democracy 28 -> 28 questions 66 marks
+Ch18_Economics_Development 19 -> 16 questions 34 marks
+Ch19_Economics_Money_and_Credit 35 -> 35 questions 69 marks
+Ch20_Economics_Globalisation_and_Indian_Economy 24 -> 23 questions 43 marks
+Ch22_Sectors_of_the_Indian_Economy 41 -> 41 questions 106 marks
+test SecA_History 1 32 questions
+test SecA_History 2 32 questions
+test SecA_History 3 37 questions
+test SecB_Geography 1 37 questions
+test SecB_Geography 2 30 questions
+test SecB_Geography 3 36 questions
+test SecC_Political_Science 1 35 questions
+test SecC_Political_Science 2 30 questions
+test SecC_Political_Science 3 29 questions
+test SecD_Economics 1 36 questions
+test SecD_Economics 2 37 questions
+test SecD_Economics 3 34 questions

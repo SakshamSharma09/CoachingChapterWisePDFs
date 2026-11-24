@@ -1,0 +1,695 @@
+{
+ "subject": "SST",
+ "paper": "Paper_01",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "What do you mean by the French word La Patria?",
+   "options": [
+    "Motherland",
+    "Community land",
+    "Reserved land",
+    "Fatherland"
+   ],
+   "figure": null,
+   "answer": "(d) Fatherland. La Patria means fatherland in French; here fatherland means the country.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Study the picture and answer the question that follows:\nDuring the Salt March, Mahatma Gandhi was accompanied by how many volunteers before they were joined by thousands?",
+   "options": [
+    "66",
+    "97",
+    "78",
+    "58"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(c) 78. During the Salt March Gandhiji was accompanied by 78 volunteers; on the way they were joined by thousands.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_History_Making_of_a_Global_World",
+   "text": "________ routes are known to have existed since before the Christian era and thrived almost till the 15th century.",
+   "options": [
+    "Diamond Routes",
+    "Ho Chin Minh trail",
+    "Mountain passes",
+    "Silk routes"
+   ],
+   "figure": null,
+   "answer": "(d) Silk routes. These routes knitted together vast regions of Asia and linked Asia with Europe and northern Africa.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Istri Dharm Vichar was published by:",
+   "options": [
+    "Ravi Verma",
+    "B. R. Ambedkar",
+    "Rammohan Roy",
+    "Ram Chaddha"
+   ],
+   "figure": null,
+   "answer": "(d) Ram Chaddha. He published the fast selling Istri Dharm Vichar to teach women how to be obedient wives.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_History_Making_of_a_Global_World",
+   "text": "Write a note to explain the effects of The Great Depression on the Indian economy.",
+   "options": null,
+   "figure": null,
+   "answer": "i. The depression immediately affected Indian trade. India's exports and imports nearly halved between 1928 and 1934. As international prices crashed, prices in India plunged.\nii. The fall in prices had a deep impact on poor farmers. Though agricultural prices fell sharply, the colonial government refused to give any relief in taxes. Peasants producing for the world market were the worst hit.\niii. The depression proved less grim for urban India. Because of falling prices, those with fixed incomes (town-dwelling landowners who received rents, middle-class salaried employees) found themselves better off.",
+   "or": {
+    "chapter": "Ch03_History_Making_of_a_Global_World",
+    "text": "Why did European employers find it difficult to recruit labour in Africa? Give two methods they used to recruit and retain labour.",
+    "answer": "i. European employers found it difficult to recruit labour in Africa because historically Africa had abundant land and a relatively small population. For centuries land and livestock sustained African livelihood and people rarely worked for wages.\nii. Two methods used to recruit and retain labour: (a) Heavy taxes were imposed which could be paid only by working for wages on plantations and mines. (b) Inheritance laws were changed so that peasants were displaced from land.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "\"British rule in India would have collapsed if Indians had not cooperated\". How did this statement help in starting a mass movement in India against the British rule?",
+   "options": null,
+   "figure": null,
+   "answer": "i. The idea of non-cooperation was first introduced by Gandhiji in his book Hind Swaraj, where he declared that since the British had established their rule in India with the cooperation of Indians, it would collapse only when the cooperation was withdrawn.\nii. He proposed that the movement should unfold in stages: begin with surrendering of titles awarded by the government; a boycott of civil services, army, police, courts, legislative assemblies, schools and foreign goods would show non-cooperation.\niii. Gandhiji felt that in case the government used repression, a full civil disobedience campaign would be launched.",
+   "or": {
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Why was the Non-Cooperation movement withdrawn by Gandhiji?",
+    "answer": "A. The movement was turning violent.\nB. At Chauri-Chaura in Gorakhpur (Uttar Pradesh), a peaceful demonstration in a bazaar turned into a violent clash in which more than 20 policemen were killed.\nC. Gandhiji also felt that Satyagrahis needed to be properly trained before they would be ready for a mass movement.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Explain three examples to show the contribution of culture to the growth of nationalism in Europe.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Romanticism was a European cultural movement aimed at developing national unity by creating a sense of shared heritage and common history. The Romantic artists' emphasis on emotions, intuition and mystical feelings gave shape and expression to nationalist sentiments.\nii. Folk songs, dances and poetry contributed to popularising the spirit of nationalism and patriotic fervour. Collecting and recording different forms of folk culture was important for building national consciousness; it enabled nationalists to carry the message to a large and diverse audience.\niii. Language played a distinctive role. During the Russian occupation, the use of Polish came to be seen as a symbol of struggle against Russian dominance; Polish was forced out of schools and Russian was imposed everywhere.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Explain the measures introduced by the French revolutionaries to create a sense of collective identity amongst the people during the French Revolution.",
+    "answer": "i. They introduced the ideas of La Patrie (the fatherland) and Le Citoyen (the citizen), emphasizing a united community enjoying equal rights under a Constitution.\nii. They chose a new French flag, the tricolour, to replace the Royal Standard.\niii. The Estates General was elected by the body of active citizens and renamed the National Assembly.\niv. New hymns were composed and martyrs commemorated, all in the name of the nation.\nv. A centralised system of administration was introduced and uniform laws were made for all citizens.\nvi. The French language, as spoken and written in Paris, became the common language of the nation.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Read the given source and answer the questions that follow:\nJikji\nThe Jikji of Korea is among the world's oldest existing books printed with movable metal type. It contains the essential features of Zen Buddhism. About 150 monks of India, China and Korea are mentioned in the book. It was printed in late 14th century. While the first volume of the book is unavailable, the second one is available in the National Library of France. This work marked an important technical change in the print culture. That is why it was inscribed on the UNESCO Memory of the World Register in 2001.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Mention the significance of the Jikji in the history of printing.",
+     "marks": 1,
+     "options": null,
+     "answer": "The Jikji of Korea is among the world's oldest existing books printed with movable metal type."
+    },
+    {
+     "text": "Why was the Jikji inscribed on the UNESCO Memory of the World Register in 2001?",
+     "marks": 1,
+     "options": null,
+     "answer": "This work marked an important technical change in the print culture; that is why it was inscribed on the UNESCO Memory of the World Register in 2001."
+    },
+    {
+     "text": "How does the Jikji contribute to the understanding of Zen Buddhism?",
+     "marks": 2,
+     "options": null,
+     "answer": "The Jikji contains the essential features of Zen Buddhism. About 150 monks of India, China and Korea are mentioned in the book."
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where Gandhiji violated the salt law.\nb. The place where the Indian National Congress Session was held. (Map task: the question carries an outline map of India; the answer is marked on the map.)",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "A - Dandi; B - Calcutta.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "Ninety-five percent of our basic needs for food, shelter, and clothing are obtained from ________.",
+   "options": [
+    "plants",
+    "animals",
+    "land",
+    "water"
+   ],
+   "figure": null,
+   "answer": "(c) land. Land covers about 30% of the earth's surface and provides agricultural land, underground water, minerals such as coal, bauxite, gold and other raw materials; buildings and industries are built on it.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Why does Rinjha's family leave a place and move from place to place?",
+   "options": [
+    "they are tribals",
+    "soil loses fertility",
+    "they like to move",
+    "they don't have a house"
+   ],
+   "figure": null,
+   "answer": "(b) soil loses fertility. Rinjha's family practises slash and burn cultivation; she has no idea about the declining fertility of the soil and her family's search for a fresh patch of land in the next season.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following states have a very high percentage of their forests as unclassed forests managed by local communities?",
+   "options": [
+    "All Northern-Eastern states and parts of Gujarat.",
+    "All Western states and parts of Gujarat.",
+    "All Central states and parts of Gujarat.",
+    "All North-Eastern states and parts of West Bengal."
+   ],
+   "figure": null,
+   "answer": "(a) All Northern-Eastern states and parts of Gujarat have a very high percentage of their forests as unclassed forests managed by local communities.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following options has been proven successful through the Chipko Movement?\ni. Preserving the genetic diversity of plants.\nii. Community afforestation with indigenous species.\niii. Diversified crop production.\niv. Revival of traditional conservation methods.",
+   "options": [
+    "Statement i and ii are correct.",
+    "Statement ii, iii & iv are correct.",
+    "Statement i, ii, & iii are correct.",
+    "Statement ii is correct."
+   ],
+   "figure": null,
+   "answer": "(d) Statement ii is correct. The Chipko movement in the Himalayas not only resisted deforestation in several areas but also showed that community afforestation with indigenous species can be enormously successful.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "Name the global ecological crisis that is created by indiscriminate exploitation of resources.",
+   "options": [
+    "Environmental pollution",
+    "Ozone layer depletion",
+    "Global warming",
+    "All of these"
+   ],
+   "figure": null,
+   "answer": "(d) All of these. Indiscriminate exploitation of resources has led to global ecological crises such as global warming, ozone layer depletion, environmental pollution and land degradation.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "The word matkas refers to:",
+   "options": [
+    "collecting and storing water",
+    "cooking food and eating",
+    "serving food and donating",
+    "washing clothes and cleaning"
+   ],
+   "figure": null,
+   "answer": "(a) collecting and storing water. Earthen pots or matkas are used for collecting and storing water in Rajasthan.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Highlight any three differences between primitive subsistence farming and intensive subsistence farming.",
+   "options": null,
+   "figure": null,
+   "answer": "| Primitive Subsistence Farming | Intensive Subsistence Farming |\n|---|---|\n| Practised on small patches of land with the help of primitive tools. | Practised in areas of high population pressure on land. |\n| Family/community labour works in fields. | Labour-intensive farming. |\n| Depends upon monsoon, natural fertility of the soil and suitability of other environmental conditions to the crops grown. | High doses of bio-chemical inputs and irrigation are used for obtaining high production. |",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "Explain any five causes of air and water pollution.",
+   "options": null,
+   "figure": null,
+   "answer": "Air and water pollution result from a complex interplay of factors.\n1. Undesirable gases: air pollution is caused by gases such as sulphur dioxide and carbon monoxide emitted from industrial sources.\n2. Airborne particulate materials: solid and liquid particles such as dust, sprays, mist and smoke (from factories, refineries, burning of fossil fuels) contribute to air pollution.\n3. Industrial wastes: organic and inorganic industrial wastes discharged into rivers; paper, chemical, textile and tannery industries release dyes, acids, salts and heavy metals into water bodies.\n4. Agricultural runoff: pesticides, fertilizers and synthetic chemicals contaminate water sources.\n5. Solid wastes: fly ash, phospho-gypsum, iron and steel slag further contribute to water pollution.",
+   "or": {
+    "chapter": "Ch11_Geography_Manufacturing_Industries",
+    "text": "\"The economic strength of a country is measured by the development of manufacturing industries.\" Support the statement with arguments.",
+    "answer": "Yes, the economic strength of a country is measured by the development of manufacturing industries because:\na. Manufacturing industries help in modernising agriculture, the backbone of our economy.\nb. They reduce the heavy dependency of people on agricultural income by providing jobs in secondary and tertiary sectors, thus reducing unemployment and poverty.\nc. They help in reducing regional disparities.\nd. Export of manufactured goods expands trade and commerce and brings foreign exchange.\ne. The prosperity of the country depends on transforming raw materials into finished goods of higher value and diversifying industries.\nf. Manufacturing contributes 17% of GDP and the industrial sector shares 27% of GDP.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Read the given source and answer the questions that follow:\nIron Ore\nIron ore is the basic mineral and the backbone of industrial development. India is endowed with fairly abundant resources of iron ore. India is rich in good quality iron ores. Magnetite is the finest iron ore with a very high content of iron up to 70 per cent. It has excellent magnetic qualities, especially valuable in the electrical industry. Hematite ore is the most important industrial iron ore in terms of the quantity used, but has a slightly lower iron content than magnetite (50-60 per cent). In 2018-19, almost the entire production of iron ore (97%) accrued from Odisha, Chhattisgarh, Karnataka and Jharkhand. The remaining production (3%) was from other states.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "In which iron ore is the maximum iron content found?",
+     "marks": 1,
+     "options": null,
+     "answer": "Magnetite."
+    },
+    {
+     "text": "Which is the most important industrial iron ore?",
+     "marks": 1,
+     "options": null,
+     "answer": "Hematite."
+    },
+    {
+     "text": "\"Iron ore is a basic mineral.\" Support the statement.",
+     "marks": 2,
+     "options": null,
+     "answer": "It is abundantly available; India is rich in good quality iron ore; it is important for various industries (the backbone of industrial development)."
+    }
+   ]
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. An international airport serving the capital of Tamil Nadu.\nii. Software Technology Park in the City of Pearls in Telangana.\nII. Any two of the following:\niii. Vijayanagar - Iron and Steel Plant\niv. Tarapur - Nuclear Power Plant\nv. Hirakud - Dam (Map task: the question carries an outline map of India; the answer is marked on the map.)",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "i. Meenambakkam (Chennai) - International Airport.\nii. Hyderabad - Software Technology Park.\niii. Vijayanagar - Iron and Steel Plant.\niv. Tarapur - Nuclear Power Plant.\nv. Hirakud - Dam.\n(Marked answer map is given in the paper's solution.)",
+   "or": null,
+   "subparts": null,
+   "answer_figure": "fig_p12_0.png",
+   "note": "Mixed-chapter map question (airport Ch12, STP/steel plant Ch11, nuclear plant Ch10, dam Ch08); filed under Ch11."
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "It is an organ of the government which executes and enforces laws made by legislature.",
+   "options": [
+    "Defence",
+    "Judiciary",
+    "Legislature",
+    "Executive"
+   ],
+   "figure": null,
+   "answer": "(d) Executive. Legislature makes laws, Executive enforces those laws, Judiciary interprets those laws.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Which of the following statements will be considered as a glitch about the self-declaration affidavit of the candidate contesting the elections?\nStatement i: This system has made a lot of information available to the public.\nStatement ii: It has reduced the influence of the rich and criminals.\nStatement iii: There is no system to check if the information given by the candidates is true.\nStatement iv: The affidavit submitted by the candidates is validated before being accepted.",
+   "options": [
+    "Statement iii is right.",
+    "Statement i and ii are right.",
+    "Only statement iv is right.",
+    "Statement i, ii and iii are right."
+   ],
+   "figure": null,
+   "answer": "(a) Statement iii is right. Every contesting candidate must file an affidavit giving details of property and pending criminal cases; the system has made information available to the public but there is no system to check if the information given is true.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "The Municipal Corporation officers are called:",
+   "options": [
+    "Mayors",
+    "Premiers (Pradhan)",
+    "MLAs",
+    "Sarpanchs"
+   ],
+   "figure": null,
+   "answer": "(a) Mayors.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Assertion (A): Democratic governments in practice are known as accountable.\nReason (R): People have the right to choose their representatives and they have control over the rulers.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Democratic governments are accountable to citizens because people choose their representatives and control the rulers; if representatives do not work properly, people can refuse to re-elect them.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Describe any three characteristics of distribution of power between the Centre and States in India.",
+   "options": null,
+   "figure": null,
+   "answer": "The Constitution clearly distributes legislative powers between the State and Union governments.\ni. Subjects of national importance such as foreign affairs, banking, defence, currency come under the Union List (Central Government).\nii. Subjects of local importance such as police, trade come under the State List (State Government).\niii. Subjects of common interest such as education, marriage come under the Concurrent List (both Centre and State).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Write a note on the National Commission for women.",
+   "options": null,
+   "figure": null,
+   "answer": "The National Commission for Women was set up in 1992 under the National Commission Act, 1990, to review the constitutional and legal safeguards for women and work for their empowerment.\na. It enjoys the powers of a civil court and investigates matters related to safeguards for women under the Constitution.\nb. It deals with a variety of issues relating to women's rights and their promotion.\nc. Its activities include a review of legislation, intervention in specific individual complaints of atrocities and remedial action to safeguard the interest of women.\nd. It can probe matters on its own initiative or on the basis of information through press, electronic media or other sources.\ne. It can ask the concerned state governments to get the complainant justice or rectify the violation of their right.\n(The Commission is an attempt to improve the status of women and work towards their empowerment.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "\"Democratic government is a legitimate government.\" Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "Yes, a democratic government is legitimate because its laws and actions are revealed to the people and there is transparency in its functioning. Features:\ni. There is rule of law: laws are applicable to all citizens, rich or poor.\nii. There is political equality: one person, one vote, one value.\niii. People have the right to challenge the policies and actions of the government; if people are not satisfied with its working they have the right to change it.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Describe the efforts to reform political parties in India.",
+   "options": null,
+   "figure": null,
+   "answer": "Recent efforts to reform political parties and their leaders in India:\ni. To prohibit elected MPs and MLAs from changing parties, the Constitution was amended (anti-defection law).\nii. Whatever the party leaders decide, MPs and MLAs have to accept it.\niii. It is mandatory for every candidate contesting elections to file an affidavit giving details of property and pending criminal cases.\niv. The new system has made a lot of information available to the public and has led to a decline in the influence of the rich and the criminals.\nv. The Election Commission passed an order making it necessary for political parties to hold organisational elections and file income tax returns.\nvi. A law should be made to regulate the internal affairs of parties: maintain a register of members, follow their own constitution, have an independent authority to act as judge in party disputes, and hold open elections to the highest posts.\nvii. It should be made mandatory for parties to give about one-third of tickets to women candidates.",
+   "or": {
+    "chapter": "Ch16_PolSci_Political_Parties",
+    "text": "Explain any four problem areas in the working of political parties.",
+    "answer": "i. Lack of internal democracy: power is concentrated in one or a few leaders at the top; parties do not keep membership registers, hold organisational meetings or conduct internal elections regularly.\nii. Dynastic succession: since parties do not follow open and transparent procedures, there are very few ways for an ordinary worker to rise to the top.\niii. Growing role of money and muscle power, especially during elections; parties focus only on winning and use short-cuts.\niv. Parties often do not offer a meaningful choice to voters; in recent years there has been a decline in ideological differences among parties.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Read the following text carefully and answer the questions that follow:\nPower sharing arrangements can also be seen in the way political parties, pressure groups and movements control or influence those in power. In a democracy, the citizens must have freedom to choose among various contenders for power. In contemporary democracies, this takes the form of competition among different parties. Such competition ensures that power does not remain in one hand. In the long run, power is shared among different political parties that represent different ideologies and social groups. Sometimes this kind of sharing can be direct, when two or more parties form an alliance to contest elections. If their alliance is elected, they form a coalition government and thus share power. In a democracy, we find interest groups, such as those of traders, businessmen, industrialists, farmers and industrial workers. They also will have a share in governmental power, either through participation in governmental committees or bringing influence on the decision-making process.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What does competition among different parties ensure?",
+     "marks": 1,
+     "options": null,
+     "answer": "Such competition ensures that power does not remain in one hand. (Also: power is shared among different political parties representing different ideologies and social groups - any one point.)"
+    },
+    {
+     "text": "How are interest groups associated with politics?",
+     "marks": 1,
+     "options": null,
+     "answer": "They are associated with politics through participation in governmental committees, and they bring influence on the decision-making process (any one point)."
+    },
+    {
+     "text": "Explain the different forms of power sharing.",
+     "marks": 2,
+     "options": null,
+     "answer": "Power is shared among different organs of government (Legislative, Executive, Judiciary); among governments at different levels; among different social groups; among political parties, pressure groups and movements (any two points explained)."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "MGNREGA 2005 is referred to as:",
+   "options": [
+    "Equality of work",
+    "Right to equality",
+    "Right to Work",
+    "Freedom to Work"
+   ],
+   "figure": null,
+   "answer": "(c) Right to Work. MGNREGA 2005 is a law implemented to guarantee the Right to work, with 100 days of employment in a year to all those who are able to work.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Which of the following neighboring countries has better performance in terms of human development than India?",
+   "options": [
+    "Pakistan",
+    "Nepal",
+    "Bangladesh",
+    "Sri Lanka"
+   ],
+   "figure": null,
+   "answer": "(d) Sri Lanka. Sri Lanka has better per capita income, life expectancy at birth and a high literacy rate for the 15+ population.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Which of the following activity is not from the primary sector?",
+   "options": [
+    "Animal husbandry",
+    "Making sugar from sugarcane",
+    "Fishing",
+    "Bee-keeping"
+   ],
+   "figure": null,
+   "answer": "(b) Making sugar from sugarcane. Extracting sugarcane is a primary sector activity, but making sugar from it is a secondary sector activity.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Match the following:\n(a) Commercial banks - (i) Plays a significant role in the improvement of the condition of the poor women in Bangladesh.\n(b) Informal Sources of Credit - (ii) Accepting deposits from the individual\n(c) Krishak cooperative - (iii) Charge very high interest rates\n(d) Grameen bank - (iv) Provides loan for the purchase of agricultural implements etc.",
+   "options": [
+    "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)",
+    "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)",
+    "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+    "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)"
+   ],
+   "figure": null,
+   "answer": "(d) (a) - (ii), (b) - (iii), (c) - (iv), (d) - (i).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "What is the reason for the popularity of banks and cooperatives?",
+   "options": [
+    "Banks provide loans at a very less rate of interest",
+    "Decreasing the number of money lenders",
+    "They do a good amount of advertisement",
+    "People are made to know door to door"
+   ],
+   "figure": null,
+   "answer": "(a) Banks provide loans at a very less rate of interest. Banks and cooperatives charge a low rate of interest, so borrowers' income increases and borrowing is safe; hence people prefer them to other sources of credit.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "The Government can make globalisation more fair by:",
+   "options": [
+    "Increasing employment",
+    "Increasing competition",
+    "Imposing trade barriers",
+    "Implementing the labour laws"
+   ],
+   "figure": null,
+   "answer": "(d) Implementing the labour laws. Implementing labour laws ensures there is no exploitation of workers and their rights are not hampered.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "How is the tertiary sector different from other sectors? Give examples.",
+   "options": null,
+   "figure": null,
+   "answer": "i. The primary sector includes activities which result in the output of natural products.\nii. The secondary sector includes activities which produce a new product by transforming the shape of a natural product.\niii. Tertiary activities neither produce any natural product nor transform it; they support the activities in both sectors. E.g. steel produced in a factory has to move long distances, which is done by a strong network of tertiary activities (transport, trade, banking, insurance, communication).\nHence the tertiary sector does not produce goods by itself; it helps the development of the primary and secondary sectors.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "In situations with high risks, credit might create further problems for the borrower. Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "In high-risk situations credit may lead to a debt-trap. Taking credit involves an interest rate; if the loan is not repaid, the borrower is forced to give up the collateral (asset used as guarantee) to the lender. Example: a small farmer takes a loan to meet cultivation expenses. If the crop fails due to inadequate rain, pest attack or any other reason, he cannot repay the loan and may have to sell part of his land. This is a high-risk situation depending entirely on a good crop.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "How did the policy of liberalisation adopted by India in the 1990s promote globalisation? Explain with examples.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Barriers on foreign trade and foreign investment were removed to a large extent.\nii. Goods can be imported and exported easily.\niii. Foreign companies can set up factories and offices in India.\niv. Multinational companies can invest capital easily.\nv. With increased foreign trade more choices are available for consumers.\nvi. MNCs produce goods and services globally.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Highlight any five ways to increase employment in India.",
+   "options": null,
+   "figure": null,
+   "answer": "1. Investment in agricultural infrastructure: government funding for transportation, storage and road networks can enhance agricultural productivity and create jobs.\n2. Promotion of local industries: encouraging small and medium enterprises stimulates employment through entrepreneurship and local manufacturing.\n3. Development of semi-rural activities: initiatives in semi-rural areas generate employment by tapping rural resources and skills.\n4. Improvement in the education sector: better education and vocational training equip individuals with skills for diverse jobs.\n5. Enhancement of health infrastructure: creates jobs in construction, healthcare services and related sectors.\n6. Expansion of tourism and regional crafts: creates employment in hospitality, handicrafts and cultural preservation, particularly in rural and remote areas.",
+   "or": {
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "Describe any five provisions of National Rural Employment Guarantee Act 2005.",
+    "answer": "MGNREGA, enacted on 25 August 2005, provides a legal guarantee for one hundred days of employment in every financial year to adult members of any rural household willing to do unskilled manual public work at the statutory minimum wage. Provisions:\ni. 100 days assured employment every year to each rural household.\nii. One-third of the proposed jobs to be reserved for women.\niii. If an applicant is not provided employment within 15 days, he/she is entitled to a daily unemployment allowance.\niv. The governments have to establish Central Employment Guarantee Funds and State Employment Guarantee Funds for implementation.\nv. The scheme is to be extended to 600 districts (it provided 220 crore person-days of employment to 4.78 crore households).",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null
+  }
+ ]
+}

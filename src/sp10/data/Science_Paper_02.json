@@ -1,0 +1,737 @@
+{
+ "subject": "Science",
+ "paper": "Paper_02",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Which one of the following is not an excretory product in plants?",
+   "options": [
+    "Dead cells",
+    "CO$_2$",
+    "Resins and gums",
+    "Starch"
+   ],
+   "figure": null,
+   "answer": "(d) Starch — starch is stored food, not an excretory product.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "In an experiment with pea plants, a pure tall plant (TT) is crossed with a pure short plant (tt). The ratio of pure tall plant to pure short plants in F2 generation will be",
+   "options": [
+    "1 : 3",
+    "3 : 1",
+    "2 : 1",
+    "1 : 1"
+   ],
+   "figure": null,
+   "answer": "(d) 1 : 1 — F1 is all Tt; selfing F1 gives F2 = TT : Tt : tt = 1 : 2 : 1, so pure tall (TT) : pure short (tt) = 1 : 1.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Select the option that contains only biodegradable wastes.",
+   "options": [
+    "Jute bag, Mouldy bread, Newspaper",
+    "Cotton cloth, Mango fruit, Nylon wire",
+    "Orange peel, Metal key, Roti",
+    "Aluminium can, Keyboard, Plastic bag"
+   ],
+   "figure": null,
+   "answer": "(a) Jute bag, Mouldy bread, Newspaper — biodegradable wastes are those easily decomposed by microorganisms (orange peel, roti, cotton cloth, mango fruit, jute bag, mouldy bread, newspaper); nylon wire, metal key, aluminium can, keyboard and plastic bag are not.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Match the following with correct response.\n\n| Column A | Column B |\n|---|---|\n| (i) Cretinism | (a) Over secretion of growth hormone |\n| (ii) Gigantism | (b) Under secretion of ADH |\n| (iii) Exophthalmia | (c) Over secretion of thyroxin |\n| (iv) Diabetes insipidus | (d) Deficiency of thyroxin |",
+   "options": [
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)"
+   ],
+   "figure": null,
+   "answer": "(c) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b). Cretinism is stunted physical and mental growth due to deficiency of thyroid hormone; gigantism is caused by excess growth hormone; exophthalmia (protrusion of eyeball) is caused by hyperthyroidism; diabetes insipidus is due to under secretion of ADH.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "A food chain will be more advantageous in terms of energy if it has",
+   "options": [
+    "3 trophic levels",
+    "2 trophic levels",
+    "5 trophic levels",
+    "4 trophic levels"
+   ],
+   "figure": null,
+   "answer": "(b) 2 trophic levels — only about 10% of energy passes to the next level, so fewer levels mean less energy loss.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Which of the following statements about the autotrophs is incorrect?",
+   "options": [
+    "They store carbohydrates in the form of starch",
+    "They convert CO$_2$ and water into carbohydrates in the absence of sunlight",
+    "They synthesize carbohydrates from CO$_2$ and water in the presence of sunlight & chlorophyll",
+    "They constitute the first trophic level in food chains"
+   ],
+   "figure": null,
+   "answer": "(b) They convert CO$_2$ and water into carbohydrates in the absence of sunlight — they do so in the presence of sunlight and chlorophyll (photosynthesis).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Application of Abscisic acid on plants promotes:",
+   "options": [
+    "Formation of flowers",
+    "Development of fruits",
+    "Elongation of stem",
+    "Wilting of leaves"
+   ],
+   "figure": null,
+   "answer": "(d) Wilting of leaves — abscisic acid is a growth inhibitor that promotes wilting of leaves.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Assertion (A): Seeds are matured ovules.\nReason (R): The part of seed which contains stored food for baby plant is called cotyledon.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. The ovule gradually converts into a seed containing the embryo (plumule and radicle) and food stored in the cotyledon.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Assertion (A): Using jute bags while shopping is more environment friendly as compared to polythene bags.\nReason (R): Jute is biodegradable whereas polythene bag is non-biodegradable.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Jute bags can be reused and decompose when discarded, while polybags accumulate as solid waste, clog drains and harm animals.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "List some reasons for adopting contraceptive methods. If a woman is using copper-T will it help in protecting her from sexually transmitted diseases?",
+   "options": null,
+   "figure": null,
+   "answer": "Reasons: i. To prevent unwanted pregnancies. ii. To control population growth. iii. To prevent transmission of sexually transmitted diseases. iv. For proper health of mother and child by increasing the gap between successive pregnancies.\nNo, copper-T will not protect from sexually transmitted diseases because it only prevents implantation in the uterus.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Using the following information form a pathway showing the formation of ozone at higher levels. And also include information that is not mentioned below to complete it.\nOzone, UV, Molecular oxygen.",
+   "options": null,
+   "figure": null,
+   "answer": "UV radiation acts on molecular oxygen (O$_2$) at higher levels of the atmosphere: UV splits some O$_2$ into free oxygen atoms, $\\mathrm{O_2 \\xrightarrow{UV} O + O}$. The free oxygen atoms then combine with molecular oxygen to form ozone: $\\mathrm{O + O_2 \\rightarrow O_3}$.",
+   "or": {
+    "chapter": "Ch13_Our_Environment",
+    "text": "What are decomposers? List two consequences of their absence in the ecosystem.",
+    "options": null,
+    "figure": null,
+    "answer": "Decomposers are micro-organisms which break up dead complex organic matter into simpler forms; they recycle nutrients back into the environment (e.g. bacteria, fungi). Consequences of their absence: i. No nutrient recycling. ii. Natural cleaning will not occur (they are natural scavengers)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "List the functions of testosterone and estrogen.",
+   "options": null,
+   "figure": null,
+   "answer": "Testosterone: develops the male reproductive organs and secondary sexual characters.\nEstrogen: develops the female genital organs and secondary sexual characters.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "Study the following cross that shows the self-pollination in F1, fill in the blank the genotype and phenotype in the F1 generation. What type of cross it is?\n\nParents: RRYY (Round, yellow) $\\times$ rryy (wrinkled, green)\nF1: RrYy (Round, yellow) $\\times$ ?",
+   "options": null,
+   "figure": null,
+   "answer": "Blank: RrYy, Round yellow (self-cross of F1 gives the F2 generation). It is a dihybrid cross, showing inheritance of two different traits simultaneously. Pure-breeding dominant parent (RRYY) crossed with pure-breeding recessive parent (rryy) gives heterozygous dominant progeny RrYy, all round yellow, in F1.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "During respiration in an organism A, one molecule of glucose produces 2 ATP molecules whereas in respiration of another organism B, one molecule of glucose produces 38 ATP molecules.\ni. Which organism is undergoing aerobic respiration?\nii. Which organism is undergoing anaerobic respiration?\niii. Which type of organism A or B can convert glucose into alcohol?\niv. Name one organism which behaves like A.\nv. Name one organism which behaves like B.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Organism B (aerobic respiration produces more ATP).\nii. Organism A (anaerobic respiration produces less ATP).\niii. Organism A.\niv. Yeast (anaerobic respiration).\nv. Human being (aerobic respiration).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "text": "Read the following text carefully and answer the questions that follow:\nSex determination is the method by which distinction between males & females is established in a species. The sex of an individual is determined by specific chromosomes. These chromosomes are called sex chromosomes or allosomes. X and Y chromosomes are called sex chromosomes. The normal chromosomes other than the sex chromosomes of an individual are known as autosomes.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "In XX-XO type of sex determination who produces two different types of gametes?",
+     "marks": 1,
+     "options": null,
+     "answer": "Males — they produce two types of gametes, with or without the X chromosome."
+    },
+    {
+     "text": "A couple has six daughters. What is the possibility of their having a girl next time?",
+     "marks": 1,
+     "options": null,
+     "answer": "50% — half the male gametes carry X and half carry Y, so a girl or a boy is equally likely each time."
+    },
+    {
+     "text": "What is the number of autosomes present in the liver cells of a human female?",
+     "marks": 2,
+     "options": null,
+     "answer": "22 pairs (44 autosomes) — humans have 23 pairs of chromosomes, of which 22 pairs are autosomes and one pair is the sex chromosomes (XX in women).",
+     "or": {
+      "text": "XX-XO type of sex determination and XX-XY type of sex determination are examples of which heterogamety?",
+      "marks": 2,
+      "answer": "Male heterogamety — in both types males produce two kinds of gametes, while females are homogametic (XX) and produce only X gametes."
+     }
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "a. Suggest any two categories of contraceptive methods to control the size of human population which is essential for the prosperity of a country. Also explain about each method briefly.\nb. Name two bacterial and two viral infections each that can get sexually transmitted.\nc. List two advantages of using condom during sexual act.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Categories: i. Mechanical barrier - sperm does not reach the egg. ii. Contraceptive pills - change the hormonal balance so that eggs are not released. iii. Contraceptive devices - placed in the uterus to prevent pregnancy. iv. Surgical methods - blocking/cutting of vas deferens/fallopian tube. (any two)\nb. Bacterial: gonorrhoea, syphilis. Viral: AIDS (HIV), warts.\nc. Protection against sexually transmitted infections (barrier prevents contact of body fluids, reducing risk of HIV, chlamydia, gonorrhoea, HPV); prevention of unintended pregnancy when used correctly and consistently.",
+   "or": {
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "a. Why is the use of iodised salt advisable? Name the disease caused due to deficiency of iodine in our diet and state its one symptom.\nb. How do nerve impulses travel in the body? Explain.",
+    "options": null,
+    "figure": null,
+    "answer": "a. Iodine in iodised salt is essential for the functioning of the thyroid and formation of thyroxine. Deficiency of iodine causes goitre; symptom: swollen neck.\nb. Nerve impulses travel from the dendrite to the cell body, then along the axon to its end. At the end, chemicals are released which cross the gap of the synapse and start a similar electrical impulse in the next neuron, and the impulse travels further in the body."
+   },
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Find the incorrect statement:\nA. The pH of the stomach is approximately 4.5\nB. Plants grow well in natural soil\nC. The pH of acid rain is nearly 5.6\nD. The pH of rainwater is nearly 7",
+   "options": [
+    "Statement (B)",
+    "Statement (D)",
+    "Statement (C)",
+    "Statement (A)"
+   ],
+   "figure": null,
+   "answer": "(d) Statement (A) — the stomach produces gastric juice containing hydrochloric acid, giving a pH of about 1.4.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Soap doesn't work well with woollen garments because:\nA. It is basic in nature and woollen garments have acidic dyes.\nB. It is acidic in nature and woollen garments have basic dyes.",
+   "options": [
+    "(A)",
+    "(B)",
+    "None of these",
+    "Both (A) and (B)"
+   ],
+   "figure": null,
+   "answer": "(a) (A) — soap is basic; acid dyes are used to dye protein fibres such as wool and silk, so soap gets neutralised by the acidic dyes.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Study the following cases:\ni. $\\mathrm{CuSO_4 + Mg \\longrightarrow}$\nii. $\\mathrm{FeSO_4 + Pb \\longrightarrow}$\niii. $\\mathrm{CaSO_4 + Al \\longrightarrow}$\niv. $\\mathrm{ZnSO_4 + Ca \\longrightarrow}$\nThe case/cases in which new product(s) will form is/are:",
+   "options": [
+    "(i) and (iv)",
+    "Only (iii)",
+    "(i), (ii) and (iv)",
+    "Only (i)"
+   ],
+   "figure": null,
+   "answer": "(a) (i) and (iv) — Mg is more reactive than Cu and Ca is more reactive than Zn, so displacement occurs; Pb is less reactive than Fe and Al is less reactive than Ca, so no reaction in (ii) and (iii).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Match the following with the correct response:\n\n| Column A | Column B |\n|---|---|\n| (i) Copper is used in electrical appliances | (a) Hydrogen sulphide |\n| (ii) Sodium is very reactive | (b) Good conductor |\n| (iii) Silver is tarnished | (c) Graphite |\n| (iv) A non-metal and a good conductor | (d) Stored in kerosene |",
+   "options": [
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)"
+   ],
+   "figure": null,
+   "answer": "(a) (i) - (b), (ii) - (d), (iii) - (a), (iv) - (c). Copper is a good conductor; sodium is stored under kerosene; silver is tarnished by hydrogen sulphide; graphite is a non-metal that conducts electricity.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "A metal is heated with dil H$_2$SO$_4$. The gas evolved is collected by the method shown in the figure. Answer the following questions based on it:\nName the method used for the collection of gas.",
+   "options": [
+    "Downward replacement method",
+    "Upward displacement method",
+    "Upward replacement method",
+    "Downward displacement method"
+   ],
+   "figure": "fig_p04_0.png",
+   "answer": "(d) Downward displacement method — hydrogen gas is collected by downward displacement of water.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Few organic reactions are given below. Which of the reactions is not named correctly?",
+   "options": [
+    "$\\mathrm{CH_3CH_2OH \\xrightarrow{acidified\\ K_2Cr_2O_7} CH_3COOH}$ (Cumbustion)",
+    "$\\mathrm{CH_3COOC_2H_5 \\xrightarrow{NaOH} CH_3COONa + C_2H_5OH}$ (Saponification)",
+    "$\\mathrm{CH_3COONa + NaOH \\rightarrow CH_4 + Na_2CO_3}$ (Decarboxylation)",
+    "$\\mathrm{CH_3COOH + C_2H_5OH \\xrightarrow{H^+} CH_3COOC_2H_5 + H_2O}$ (Esterification)"
+   ],
+   "figure": null,
+   "answer": "(a) — the conversion of ethanol to acetic acid with acidified potassium dichromate is an oxidation reaction, not combustion.",
+   "or": null,
+   "subparts": null,
+   "note": "Option (d) read from the page image."
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "NaCl and Na$_2$SO$_4$ belong to the family of",
+   "options": [
+    "neutral salts",
+    "sulphate salts",
+    "sodium salts",
+    "chloride salts"
+   ],
+   "figure": null,
+   "answer": "(c) sodium salts — salts having the same positive radical (Na$^+$) belong to the same family.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Assertion (A): The Plaster of Paris is stored in moisture.\nReason(R): Plaster of Paris sets into a hard mass on wetting with water to form anhydrous calcium sulphate.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true. (Official explanation: Plaster of Paris is stored in a moisture-proof container because it sets into a hard mass on wetting with water to form dihydrated calcium sulphate, gypsum.)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Kedar heated a few crystals of copper sulphate in a dry boiling tube.\na. What will be the color of the copper sulphate after heating?\nb. Will you notice water droplets in the boiling tube?\nc. Where have these come from?",
+   "options": null,
+   "figure": null,
+   "answer": "a. The blue colour of the copper sulphate crystals turns white.\nb. Yes, water droplets will be seen in the boiling tube.\nc. Copper sulphate crystals ($\\mathrm{CuSO_4\\cdot 5H_2O}$) contain water of crystallisation, which is removed on heating.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "A brown substance X on heating in air forms a substance Y. When hydrogen gas is passed over heated Y, it again changes back into X. Name the substances X and Y.",
+   "options": null,
+   "figure": null,
+   "answer": "X is copper (brown powder); on heating in air it forms copper oxide, Y (black): $\\mathrm{2Cu + O_2 \\rightarrow 2CuO}$. When hydrogen is passed over heated black CuO, hydrogen acts as a reducing agent and CuO changes back into copper: $\\mathrm{CuO + H_2 \\rightarrow Cu + H_2O}$.",
+   "or": {
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "2g of silver chloride is taken in a china dish and the china dish is placed in sunlight for some time. What will be your observation in this case ? Write the chemical reaction involved in the form of a balanced chemical equation. Identify the type of chemical reaction.",
+    "options": null,
+    "figure": null,
+    "answer": "The white colour of silver chloride changes to greyish white due to formation of silver metal. $\\mathrm{2AgCl(s) \\xrightarrow{Sunlight} 2Ag(s) + Cl_2(g)}$. It is a decomposition reaction (photolytic decomposition); used in black and white photography."
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Hydrogen is not a metal but it has been assigned a place in the reactivity series of metals. Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "Hydrogen has a tendency to lose an electron and form a positive ion H$^+$ like metals, although it is not a metal. Metals which lose electrons less readily than hydrogen are placed below it, and metals which lose electrons more readily than hydrogen are placed above it in the reactivity series.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Read the following text carefully and answer the questions that follow:\nWhen oxygen combines with other elements or compounds, the process is called oxidation the substances that combine with oxygen are said to have been oxidized. The reduction is exactly the opposite of oxidation. If a substance loses oxygen during a reaction, it is said to be reduced. When hydrogen burns the hydrogen combines with oxygen to form water $2H_2 + O_2 = H_2O$\nThe hydrogen is oxidized in this reaction, but at the same time, the oxygen is reduced. Whatever oxidation occurs reduction must also occur.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Which chemical process is used for obtaining a metal from its oxide?",
+     "marks": 1,
+     "options": null,
+     "answer": "Reduction of the metal oxide."
+    },
+    {
+     "text": "In the given reaction, which reactant species is oxidized?",
+     "marks": 1,
+     "options": null,
+     "answer": "H$_2$ is oxidized."
+    },
+    {
+     "text": "In the given reaction, which reactant species is reduced?",
+     "marks": 2,
+     "options": null,
+     "answer": "O$_2$ is reduced.",
+     "or": {
+      "text": "If four molecules of Hydrogen are combined with oxygen then how many molecules of water are formed?",
+      "marks": 2,
+      "answer": "Four molecules of water are formed ($2H_2 + O_2 \\rightarrow 2H_2O$, so 4 H$_2$ give 4 H$_2$O)."
+     }
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "i. Draw electron dot structure of chlorine molecule. (Atomic Number of Chlorine = 17)\nii. What happens when chlorine reacts with methane in the presence of sunlight? Write the name of the reaction.\niii. Name the two oxidising agents used for the conversion of alcohols to acids.\niv. List four differences in properties between covalent compounds and ionic compounds.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Each Cl atom (2,8,7) has 7 valence electrons; the two atoms share one pair of electrons, giving a single bond with three lone pairs on each Cl (Cl : Cl with one shared pair). (Diagram given in the key.)\nii. Chloromethane is formed: $\\mathrm{CH_4 + Cl_2 \\xrightarrow{Sunlight} CH_3Cl + HCl}$; it is a substitution reaction.\niii. Alkaline KMnO$_4$, acidified KMnO$_4$ and acidified K$_2$Cr$_2$O$_7$ (any two).\niv. Covalent compounds: low melting and boiling points; poor conductors of electricity; generally soft if solids; generally soluble in oil/non-polar solvents. Ionic compounds: high melting and boiling points; conduct electricity in aqueous solution and molten state; hard crystalline solids; generally soluble in water/polar solvents.",
+   "or": {
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "a. Define the term \"homologous series of carbon compounds\". Write a homologous series of compounds having functional group -CHO.\nb. Design an experiment to distinguish between an alcohol and a carboxylic acid. Also write chemical equation for that case in which reaction occurs.",
+    "options": null,
+    "figure": null,
+    "answer": "a. A series of carbon compounds in which the same functional group substitutes for hydrogen in a carbon chain (a sequence of compounds with the same general formula and similar chemical properties). Aldehydes: HCHO, $\\mathrm{CH_3CHO}$, $\\mathrm{C_2H_5CHO}$ (any two).\nb. Add a spatula full of NaHCO$_3$ (or Na$_2$CO$_3$) to a test tube containing the unknown solution and shake well. If a colourless gas (CO$_2$) evolves, the sample is a carboxylic acid; otherwise it is an alcohol. $\\mathrm{CH_3COOH + NaHCO_3 \\rightarrow CH_3COONa + H_2O + CO_2}$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Which of the following statement is incorrect?\nA. A ray of light passing from an optically rarer medium to an optically denser medium bends away from the normal.\nB. A ray of light passing from an optically denser medium to an optically rarer medium bends away from the normal.\nC. A ray of light passing from an optically rarer medium to an optically denser medium bends toward the normal.\nD. A ray light passing from an optically denser medium to an optically rarer medium bends towards the normal.",
+   "options": [
+    "A, B and D",
+    "B and C",
+    "A and C",
+    "A and D"
+   ],
+   "figure": null,
+   "answer": "(b) B and C — as given in the official key. (Explanation in key: a ray going from denser to rarer medium bends away from the normal, and from rarer to denser bends towards the normal. NOTE: that makes B and C the correct statements; the incorrect ones are A and D, i.e. option (d) by the wording of the question.)",
+   "or": null,
+   "subparts": null,
+   "note": "Official key answer (b) conflicts with the question wording ('incorrect'); content-wise (d) A and D."
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "In the following ray diagram the correctly marked angles are:",
+   "options": [
+    "$\\angle A$ and $\\angle D$",
+    "$\\angle r$, $\\angle A$ and $\\angle D$",
+    "$\\angle i$ and $\\angle e$",
+    "$\\angle i$, $\\angle e$ and $\\angle D$"
+   ],
+   "figure": "fig_p06_0.png",
+   "answer": "(b) $\\angle r$, $\\angle A$ and $\\angle D$",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Assertion (A): A neutral body may experience a net nonzero magnetic force.\nReason (R): The net charge on a current-carrying wire is zero, but it can experience a force in a magnetic field.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "State reasons to explain these observations.\na. Our eye is more sensitive to yellow colour but even then danger signals are red in colour.\nb. Violet colour is seen at the bottom of the spectrum when light is displaced by a prism.",
+   "options": null,
+   "figure": null,
+   "answer": "a. By Rayleigh's scattering law the intensity of scattered light $\\propto \\frac{1}{\\lambda^4}$. Yellow has a shorter wavelength than red, so yellow is scattered more than red; red light is scattered least and so can be seen from a longer distance. Hence red is used for danger signals.\nb. Violet light has the shortest wavelength and therefore the highest refractive index in the visible spectrum, so it is deviated the most by the prism and appears at the bottom.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "text": "A hot plate of an electric oven connected to a 220 V line has two resistance coils A and B, each of $24\\ \\Omega$ resistance, which may be used separately, in series, or in parallel. What are the currents in the three cases?",
+   "options": null,
+   "figure": null,
+   "answer": "V = 220 V, $R_A = R_B = 24\\ \\Omega$.\ni. Separately: $I = V/R = 220/24 = 9.2$ A.\nii. In series: $R_S = 24 + 24 = 48\\ \\Omega$, $I = 220/48 = 4.6$ A.\niii. In parallel: $\\frac{1}{R_P} = \\frac{1}{24}+\\frac{1}{24} = \\frac{2}{24}$, $R_P = 12\\ \\Omega$, $I = 220/12 = 18.3$ A.",
+   "or": {
+    "chapter": "Ch11_Electricity",
+    "text": "You have two circuits:\n(i) a 6V battery is series with $1\\ \\Omega$ and $2\\ \\Omega$ resistors\n(ii) a 4V battery in parallel with $12\\ \\Omega$ and $2\\ \\Omega$ resistors\nCompare the power used in $2\\ \\Omega$ resistor in each case.",
+    "options": null,
+    "figure": null,
+    "answer": "(i) $R = 1 + 2 = 3\\ \\Omega$, $I = 6/3 = 2$ A, $P_1 = I^2R = 2^2\\times 2 = 8$ W.\n(ii) The potential difference across each parallel resistor is 4 V, so $P_2 = V^2/R = 4\\times4/2 = 8$ W.\n$P_1 : P_2 = 8 : 8 = 1 : 1$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "case",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "A magnetic field is described by drawing the magnetic field lines. When a small north magnetic pole is placed in the magnetic field created by a magnet, it will experience a force. And if the north pole is free, it will move under the influence of the magnetic field. The path traced by a north magnetic pole free to move under the influence of a magnetic field is called a magnetic field line.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Do the magnetic field lines intersect each other? If not why?",
+     "marks": 1,
+     "options": null,
+     "answer": "No — two field lines never intersect, because at a point of intersection a compass needle would point in two directions, which is impossible. (The official key text under this part only says: the relative strength of the field is shown by the closeness of the field lines and its direction is the tangent to the field line at the point.)"
+    },
+    {
+     "text": "A strong bar magnet is placed vertically above a horizontal wooden board. What will be the magnetic lines of force?",
+     "marks": 2,
+     "options": null,
+     "answer": "The magnetic field, and hence the magnetic lines of force, exist in all the planes all around the magnet (not confined to the horizontal board)."
+    }
+   ],
+   "note": "Marks split between the two parts (1+2) assumed; paper gives only [3] in total. The official key text for the two parts appears mismatched."
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "1. Write the function of each of the following parts of human eye : cornea, iris, crystalline lens, ciliary muscles.\n2. Millions of people of the developing countries of world are suffering from corneal blindness. These people can be cured by replacing the defective cornea with the cornea of a donated eye.\nA charitable society of your city has organised a campaign in your neighbourhood in order to create awareness about this fact.\nIf you are asked to participate in this mission how would you contribute in this noble cause?\n1. State the objective of organising such campaigns.\n2. List two arguments which you would give to motivate the people to donate their eyes after death.\n3. List two values which are developed in the persons who actively participate and contribute in such programme.",
+   "options": null,
+   "figure": null,
+   "answer": "1. Cornea: thin membrane providing about 67% of the eye's focussing power. Iris: controls the amount of light entering the eye by controlling the size of the pupil. Crystalline lens: focuses light on the retina for image formation. Ciliary muscles: contract and relax to change the shape of the lens for focussing the image on the retina (contraction makes the lens thicker, relaxation makes it thinner).\n2. (1) Objective: to educate and help people suffering from corneal blindness that they can be cured by corneal replacement surgery. (2) Arguments: if someone gets vision through your eyes it is an incredible help; the eye is one of the most valuable sense organs, so realise the situation of those who are suffering. (3) Values: the persons who participate are strong-hearted, helpful and compassionate towards people in such situations.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "i. Imagine that you are sitting in a chamber with your back to one wall. An electron beam, moving horizontally from back wall towards the front wall, is deflected by a strong magnetic field to your right side. What is the direction of magnetic field?\nii. Two circular coils A and B placed closed to each other. If the current in the coil A is changed, will some current be induced in coil B? Give reason.",
+   "options": null,
+   "figure": null,
+   "answer": "i. The magnetic field is vertically downward, by Fleming's left-hand rule (the direction of current is taken opposite to the direction of motion of electrons).\nii. Yes, current will be induced in coil B when the current in coil A changes. If the current in A is increased, the induced current in B is opposite to that in A; if it is decreased, it is in the same direction as in A. The change in magnetic field lines around coil B induces the current (electromagnetic induction).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "text": "Read the following text carefully and answer the questions that follow:\nIn 1827, a German physicist Georg Simon Ohm (1787-1854) found out the relationship between the current I, flowing in metallic wire and the potential difference across its terminals. He stated that the electric current flowing through a metallic wire is directly proportional to the potential difference V, across its ends provided its temperature remains the same.\nThe resistance of a circuit is defined as the ratio between the voltage applied to the current flowing through it. Rearranging the above relation, $R = \\frac{V}{I}$\nElectric charge flows easily through some materials than others. The electrical resistance measures how much the flow of this electric charge is restricted within the circuit.",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the unit of electrical resistance?",
+     "marks": 1,
+     "options": null,
+     "answer": "Ohm ($\\Omega$)."
+    },
+    {
+     "text": "Define Ohm's law.",
+     "marks": 1,
+     "options": null,
+     "answer": "The current flowing through a conductor is directly proportional to the potential difference across its ends, provided its temperature remains the same: $V \\propto I$, $V = IR$."
+    },
+    {
+     "text": "From graph which resistance have high resistance?",
+     "marks": 2,
+     "options": null,
+     "answer": "$R_3$ has the highest resistance.",
+     "or": {
+      "text": "What does the slope of V-I graph at any point represent?",
+      "marks": 2,
+      "answer": "The slope of the V-I graph at any point represents resistance."
+     }
+    }
+   ]
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "An object 2 cm high is placed at a distance of 16 cm from a concave mirror which produce a real image 3 cm high.\n(i) What is the focal length of the mirror ?\n(ii) Find the position of the image.",
+   "options": null,
+   "figure": null,
+   "answer": "The image is real, hence inverted: $h_2 = -3$ cm, $h_1 = +2$ cm, $u = -16$ cm.\n$m = h_2/h_1 = -3/2 = -1.5$ and $m = -v/u$, so $v = -mu = -(-1.5)(-16) = -24$ cm. The image is formed 24 cm in front of the mirror (on the left).\n$\\frac{1}{f} = \\frac{1}{v}+\\frac{1}{u} = -\\frac{1}{24}-\\frac{1}{16} = -\\frac{5}{48}$, so $f = -9.6$ cm (negative, confirming a concave mirror).",
+   "or": {
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "a. A 5 cm tall object is placed perpendicular to the principal axis of a convex lens of focal length 20 cm. The distance of the object from the lens is 30 cm. Find the position, nature and size of the image formed.\nb. Draw a labelled ray diagram showing object distance, image distance and focal length in the above case.",
+    "options": null,
+    "figure": null,
+    "answer": "a. $f = 20$ cm, $u = -30$ cm. $\\frac{1}{v} = \\frac{1}{f}+\\frac{1}{u} = \\frac{1}{20}-\\frac{1}{30} = \\frac{1}{60}$, so $v = 60$ cm (on the other side of the lens). Nature: real, inverted and magnified. $m = v/u = 60/(-30) = -2$; $h' = mh = -2\\times5 = -10$ cm (image 10 cm tall, inverted).\nb. Ray diagram (drawn in the key): object between F and 2F; the image forms beyond 2F on the other side, real and inverted, with object distance, image distance and focal length marked."
+   },
+   "subparts": null
+  }
+ ]
+}

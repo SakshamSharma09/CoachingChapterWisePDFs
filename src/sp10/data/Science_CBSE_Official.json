@@ -1,0 +1,739 @@
+{
+ "subject": "Science",
+ "paper": "CBSE_Official",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "During photosynthesis, what happens to carbon dioxide and water as glucose is formed?",
+   "options": [
+    "Carbon dioxide gains hydrogen, while water loses electrons.",
+    "Carbon dioxide loses oxygen, while water gains oxygen.",
+    "Carbon dioxide is oxidised, while water is reduced.",
+    "Both carbon dioxide and water undergo reduction."
+   ],
+   "figure": null,
+   "answer": "(A) Carbon dioxide gains hydrogen, while water loses electrons.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Lime water turns cloudy in the presence of a gas, which is a by-product of respiration. Shown below are four setups kept in sunlight for 24 hours. In which setup is lime water expected to be the cloudiest?",
+   "options": [
+    "P",
+    "Q",
+    "R",
+    "S"
+   ],
+   "figure": "fig_p01_0.png",
+   "answer": "(C) R",
+   "or": null,
+   "subparts": null,
+   "note": "Paper also has a version for visually impaired students (statement about the destarched-leaf experiment, answer B)."
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "During urine formation, tubular reabsorption and secretion take place in the kidneys. Which of the following sets correctly indicates both the substances that are reabsorbed in the kidneys?",
+   "options": [
+    "Glucose and salts",
+    "Glucose and starch",
+    "Glycogen and salts",
+    "Glycogen and starch"
+   ],
+   "figure": null,
+   "answer": "(A) Glucose and salts",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "In a controlled experiment, the anthers of a mustard plant's flowers were carefully removed in the bud stage before they matured. The bud was covered with a paper bag.\nWhat will be the most likely result for these flowers?",
+   "options": [
+    "They will still produce seeds and fruit through self-pollination.",
+    "They will attract more insects and produce larger flowers but no fruit.",
+    "They will not produce any seeds or fruits.",
+    "They will produce seeds and fruits that are genetically identical to the parent."
+   ],
+   "figure": null,
+   "answer": "(C) They will not produce any seeds or fruits.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "The Vas deferens and the Oviduct are both targets for surgical contraception (Vasectomy and Tubectomy respectively). Analysing the process of reproduction, what common biological event is prevented by blocking both these structures?",
+   "options": [
+    "The production of gametes (sperm and egg).",
+    "The implantation of the fertilized egg into the uterine wall.",
+    "The successful meeting and fusion of the male and the female gametes.",
+    "The release of hormones - testosterone and estrogen."
+   ],
+   "figure": null,
+   "answer": "(C) The successful meeting and fusion of the male and female gametes.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "The male gamete of an apple plant has seventeen chromosomes. What is the number of chromosomes in the female gamete and in the cells of the adult plant respectively?",
+   "options": [
+    "17,17",
+    "17,34",
+    "34,34",
+    "34,51"
+   ],
+   "figure": null,
+   "answer": "(B) 17, 34",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "A fish living in a pond ecosystem feeds on small aquatic insects (larvae). These insect larvae, in turn, feed on green algae and small photosynthetic bacteria. In this specific food chain, what is the trophic level classification of fish?",
+   "options": [
+    "Producer",
+    "Primary Consumer",
+    "Secondary Consumer",
+    "Tertiary Consumer"
+   ],
+   "figure": null,
+   "answer": "(C) Secondary Consumer",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Assertion (A): The rate of breathing in aquatic organisms is much lower than in the terrestrial organisms.\nReason (R): The amount of oxygen dissolved in water is less as compared to the amount of oxygen in air.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A.",
+    "Both A and R are true, and R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(D) A is false but R is true.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Assertion (A): In an ecosystem, 1% of energy is available for transfer from one trophic level to the next.\nReason (R): An average of 10% of the food eaten by organisms is available for flow in the form of chemical energy.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A.",
+    "Both A and R are true, and R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(D) A is false but R is true.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "A. Due to narrowing of the bile duct, the bile secretion from the liver to the small intestine was obstructed. How will the process of digestion be affected?\nB. How does the length of the intestine depend on the nature of food habit in different animals?",
+   "options": null,
+   "figure": null,
+   "answer": "A. The bile juice from the liver makes the food alkaline for the pancreatic enzymes to act. In addition, bile salts break down fats into smaller globules, increasing the efficiency of enzyme action. If the bile duct is obstructed, it can lead to improper digestion of fats. (0.5+0.5)\nB. Herbivores eating grass need a longer small intestine to allow the cellulose to be digested. Meat is easier to digest, hence carnivores like tigers have a shorter small intestine. (1)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "A. Which parts of the brain perform certain actions for which we do not have any thinking control? What are such actions called, give two examples.",
+   "options": null,
+   "figure": null,
+   "answer": "The actions on which we do not have any thinking control are controlled by the mid-brain and hind-brain. These are called involuntary actions. Examples (any two): blood pressure, salivation, vomiting.",
+   "or": {
+    "text": "B. How is the information of touch in the 'sensitive plant' controlled and coordinated?",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch06_Control_and_Coordination",
+    "answer": "The information of touch is communicated by electrical-chemical means from cell to cell. Plant cells change shape by changing the amount of water in them, resulting in swelling or shrinking, thus changing shapes and causing movement."
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "What changes are observed in the uterus subsequent to implantation of the young embryo in a human female?",
+   "options": null,
+   "figure": null,
+   "answer": "Uterine lining thickens and is richly supplied with blood vessels to nourish the embryo. A placental connection is developed between the uterus and the embryo.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "How do muscles move at the cellular level and respond when processed messages are received from the brain?",
+   "options": null,
+   "figure": null,
+   "answer": "When a nerve impulse reaches the muscle, the muscle cells move by changing their shape so that they shorten. Muscle cells have special proteins that change both their shape and their arrangement in the cell in response to nervous electrical impulses. When this happens, new arrangements of these proteins give the muscle cells a shorter form.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Study the food chain given below:\nA. In the given food chain, the amount of energy available at the fourth trophic level is 10 kJ, what will be the energy available at the producer level?\nB. Is it possible to have three more trophic levels in the above food chain? Justify.\nC. Which of these trophic levels will have the maximum amount of pesticide, if it had washed down in the water body from agricultural fields. Why?",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "A. 10000 kJ\nB. No, the loss of energy at each step is so much that very little usable energy will be left.\nC. Large fish, due to biological magnification of pesticide.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "text": "In order to study patterns of inheritance, Neha had performed typical Mendelian experiments with pea plants in the field. In experiment one, she crossed a pea plant having white flowers (vv) with another pea plant bearing violet flowers (VV). In another experiment, in addition to the colour of the flower she also focussed on the height of the pea plant. This time she crossed a pea plant having violet flowers and tall height (VVTT) with another pea plant having white flowers and short height (vvtt).\nWhat percentage is expected for the following traits as a result of these experiments? Give a reason.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Violet flowers in F1 and F2 generation in experiment one?",
+     "marks": 1,
+     "options": null,
+     "answer": "In experiment one, in F1 all plants (100%) will have violet (Vv) flowers and in F2, 75% (3/4) plants will have violet flowers (1/4 VV and 2/4 Vv) because violet colour of the flower is a dominant trait in pea plant."
+    },
+    {
+     "text": "Tall height plants with white flowers in F2 generation in experiment two?",
+     "marks": 1,
+     "options": null,
+     "answer": "3/16 or 18.75% pea plants will have tall height and white flowers (vvTT/vvTt) - a combination of a dominant and a recessive trait."
+    },
+    {
+     "text": "C. Percentage of medium height plants with light violet flowers in F1 and F2 generations in experiment two? Give a reason.",
+     "marks": 2,
+     "options": null,
+     "answer": "In pea plants, no half way characteristics are produced because even a single copy of T or V will produce the same result as two copies of T or V. Thus, no plants with medium height and light violet flowers will be produced in F1 or F2 generation (zero percent).",
+     "or": {
+      "text": "D. Percentage of short height plants with white flowers in F1 and F2 generations in experiment two?",
+      "options": null,
+      "answer": "In F1 generation all plants will have only dominant traits so no plant with short height and white flowers (recessive traits) will be produced (zero percent). In F2 generation 1/16 or 6.25% plants will have short height with white flowers (vvtt) as both these traits are recessive."
+     }
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch05_Life_Processes",
+   "text": "A. Observe the structure of hearts A, B and C shown above and answer the following questions\nI. Which of the hearts depicted above is present in both birds and Mammals and how are they able to maintain their body temperature? Give reason for your answer.\nII. Which of the hearts depicted above is present in fishes, how does circulation of blood take place in them?",
+   "options": null,
+   "figure": "fig_p04_0.png",
+   "answer": "I. C - Four chambered heart. (1) The separation of the right side and the left side of the heart is useful to keep oxygenated and deoxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body. This is useful in animals that have high energy needs, such as birds and mammals, which constantly use energy to maintain their body temperature. (2)\nII. A - Two chambered heart. (1) The blood is pumped to the gills, is oxygenated there, and passes directly to the rest of the body. Thus, blood goes only once through the heart in the fish during one cycle of passage through the body. (1)",
+   "or": {
+    "text": "B. I. Observe both the diagrams A and B. Which diagram indicates inhalation? Describe how it occurs.\nII. If diffusion were to move oxygen in our body, it is estimated that it would take 3 years for a molecule of oxygen to get to our toes from our lungs. Then, how is oxygen delivered to all parts of our body?",
+    "options": null,
+    "figure": "fig_p04_1.png",
+    "chapter": "Ch05_Life_Processes",
+    "answer": "I. A depicts inhalation. (1) Ribs get lifted (0.5); diaphragm is flattened (0.5); the chest cavity becomes larger (0.5); air is sucked in (0.5).\nII. In human beings, the respiratory pigment haemoglobin has a very high affinity for oxygen. This pigment is present in the red blood corpuscles. This oxygen-rich blood is then pumped by the heart to the rest of the body. (2)"
+   },
+   "subparts": null,
+   "note": "A separate version for visually impaired students asks for the number of chambers instead of identifying hearts, and for the process of inhalation and how lungs maximise the area of gas exchange (alveoli)."
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Chameleons contain crystals that reflect light and produce colour. Adjusting the spacing between these crystals, they can alter the wavelengths of light reflected, thus changing their skin colour. Based on the above information, we can infer that the change in colour by chameleons is a:",
+   "options": [
+    "chemical change because change in colour takes place.",
+    "chemical change because wavelength of reflected light changes.",
+    "physical change because the space between crystals is adjusted.",
+    "physical change because light is reflected by crystals."
+   ],
+   "figure": null,
+   "answer": "(C) physical change because the space between crystals is adjusted. No new substance is formed in this process, only the spacing between crystals changes, which alters the wavelength of light reflected.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Rishita summarizes the chlor-alkali process in the following table.\n| Option | Product Formed | Use |\n|---|---|---|\n| I | Hydrogen at cathode | Used as a fuel |\n| II | Chlorine at anode | Used to make margarines |\n| III | Sodium Hydroxide near cathode | To make soap |\n| IV | Sodium Hydroxide near anode | To make bleaching powder |\nIdentify the options that are correctly matched.",
+   "options": [
+    "I, II and III",
+    "I and III",
+    "II and IV",
+    "I, II, III and IV"
+   ],
+   "figure": null,
+   "answer": "(B) I and III. II and IV are incorrect as chlorine is produced at the anode, but it is not used to make margarine; and sodium hydroxide is formed near the cathode.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Manjeet wants to wash clothes, but the water available is hard. He compares the action of soap and detergent in hard water, to decide which one to use for washing his clothes. He observes:\n- Soap forms scum in hard water.\n- Detergent produces lather easily in hard water.\nWhich of the following inferences is correct?",
+   "options": [
+    "Ca²⁺ and Mg²⁺ ions react with soap, forming insoluble compounds, whereas detergents do not form such insoluble salts.",
+    "Soap is acidic, and detergents are basic.",
+    "Soap react with Na+ ions in hard water to form scum while detergents do not react with Na+ ions.",
+    "Detergents form lather easily because they are ionic compounds and react with Ca²⁺ and Mg²⁺ ions while soaps do not react with hard water."
+   ],
+   "figure": null,
+   "answer": "(A) Ca²⁺ and Mg²⁺ ions react with soap, forming insoluble compounds, whereas detergents do not form such insoluble salts.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Which of the following salts contain water of crystallisation:\n(i) Plaster of Paris, (ii) Washing soda, (iii) Baking soda and (iv) Gypsum.",
+   "options": [
+    "(i), (ii) and (iii)",
+    "(i), (iii) and (iv)",
+    "(ii), (iii) and (iv)",
+    "(i), (ii) and (iv)"
+   ],
+   "figure": null,
+   "answer": "(D) (i), (ii) and (iv). Plaster of Paris is CaSO₄·½H₂O, washing soda is Na₂CO₃·10H₂O, baking soda is NaHCO₃ (no water of crystallisation) and gypsum is CaSO₄·2H₂O.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which of the following pair of compounds are isomers? (Structural formulae of each pair are given in the paper.)",
+   "options": [
+    "Butane and 2-methylpropane (isobutane), both C₄H₁₀",
+    "Pentane and 2-methylpropane (isobutane)",
+    "Pentane and pent-2-ene",
+    "Pentane and butane"
+   ],
+   "figure": null,
+   "answer": "(A) The compounds in this pair have the same molecular formula but different structural formulae.",
+   "or": null,
+   "subparts": null,
+   "note": "Option structures are drawn in the paper (fig_p06_0.png to fig_p06_3.png, options A to D); described here by name. Visually impaired version: unsaturated hydrocarbon with three carbon atoms, answer propene."
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "A food label is given below. E304 and E307b are added to the flavoured biscuits.\nWhich of the following is added to food packets for the same reason?",
+   "options": [
+    "salt",
+    "vinegar",
+    "nitrogen",
+    "vanilla"
+   ],
+   "figure": "fig_p07_0.png",
+   "answer": "(C) nitrogen. In the label E304 and E307b are antioxidants. Nitrogen is also used as an antioxidant.",
+   "or": null,
+   "subparts": null,
+   "note": "Visually impaired version: 'In the food industry nitrogen is used as a/an' - answer antioxidant."
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Electrical wires made of aluminum",
+   "options": [
+    "corrode easily as aluminium is a very reactive metal.",
+    "corrode easily because porous flaky aluminium oxide is formed.",
+    "do not corrode easily as aluminium oxide forms a protective layer.",
+    "do not corrode easily as aluminium is less reactive than metals like sodium, magnesium and zinc."
+   ],
+   "figure": null,
+   "answer": "(C) do not corrode easily as aluminium oxide forms a protective layer.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Assertion (A): Onion extract loses its smell, when it is added to baking soda solution whereas it retains its smell when added to lemon juice.\nReason (R): Onion acts as an olfactory indicator.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A.",
+    "Both A and R are true, and R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(B) Both A and R are true, and R is not the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Carbon forms millions of compounds whereas silicon, which is just below it in the Periodic Table, forms a few compounds. Explain the reason for the difference in their ability to form compounds.",
+   "options": null,
+   "figure": null,
+   "answer": "Carbon forms millions of compounds because it has small atomic size, therefore it forms strong and stable C-C bonds, showing extensive catenation. Silicon, being larger in size, forms weaker Si-Si bonds and cannot show catenation to the same extent, so it forms fewer compounds.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "A. An organic compound \"X\" with formula C₂H₆O is used to blend with petrol in order to reduce the dependence on fossil fuels and lower down the harmful emissions from the cars. It is also used as a solvent in medicines such as tincture iodine, cough syrups and many tonics.\n(i) Draw the electron dot structure of \"X\".\n(ii) Write the name and formula of the next homologue of \"X\".\n(iii) Write the reaction of \"X\" with acetic acid to form a sweet smelling substance.",
+   "options": null,
+   "figure": null,
+   "answer": "(i) Electron dot structure of ethanol, CH₃CH₂OH (diagram in the key): each C-H, C-C, C-O and O-H bond shown as a shared pair of dots, with two lone pairs on oxygen. (1)\n(ii) Propanol, C₃H₇OH (0.5+0.5)\n(iii) C₂H₅OH + CH₃COOH →(conc. H₂SO₄) CH₃COOC₂H₅ + H₂O (1)",
+   "or": {
+    "text": "B. Ramya performs an experiment in the following two steps:\nStep 1: Heats ethanol with conc. H₂SO₄ at 170°C to get product A.\nStep 2: Passes hydrogen gas over product A, using Ni as a catalyst and gets product B.\n(i) Name the products A and B.\n(ii) Write the reactions involved in both the steps.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "answer": "(i) Product A - Ethene, Product B - Ethane (0.5+0.5)\n(ii) CH₃CH₂OH →(conc. H₂SO₄, 170°C) CH₂=CH₂ + H₂O (1)\nCH₂=CH₂ + H₂ →(Ni) CH₃CH₃ (1)"
+   },
+   "subparts": null,
+   "note": "Visually impaired version of option A asks to name X (ethanol) and write the formula of the next homologue (C₃H₇OH) instead of drawing the structure."
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Give reason for the following:\nA. A solution of sports electrolyte drink conducts electricity, but coconut oil does not.\nB. Milkiness disappears when excess of carbon dioxide is passed through lime water.\nC. An iron bridge near the sea rusts much faster than an iron bridge located in a dry hilly region.",
+   "options": null,
+   "figure": null,
+   "answer": "A. A sports drink contains ions (electrolytes) which help conduct electricity. Coconut oil does not contain ions so it cannot conduct electricity. (1)\nB. Limewater turns milky due to the formation of insoluble calcium carbonate (CaCO₃). When excess CO₂ is passed, calcium carbonate reacts further to form soluble calcium hydrogen carbonate, causing the milkiness to disappear. (1)\nC. Air near the sea contains high moisture (humidity), which speeds up rusting. In a dry hilly region, moisture is low, so rusting occurs much more slowly. (1)",
+   "or": null,
+   "subparts": null,
+   "note": "Three parts from different chapters (conductivity of ionic compounds, carbon dioxide and lime water, rusting)."
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Aavya and Vihan are studying the properties of metals in school. They decide to design and conduct an experiment to test the relative conduction of heat by metals. They use the apparatus (Figure) with rods of five different metals aluminium, silver, copper, iron and zinc attached to a central point. This central point is heated using a burner. The metal rods are of equal length and thickness. They observe that the candles at the end of the rods fall at different times. (Study the graph)",
+   "options": null,
+   "figure": "fig_p09_1.png",
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "On the basis of the graph obtained, which metal is the best conductor of heat?",
+     "marks": 1,
+     "options": null,
+     "answer": "Silver",
+     "figure": "fig_p09_0.png"
+    },
+    {
+     "text": "Gold is a better conductor of heat than aluminium but it is not as good as copper. The time taken for the candle to drop if one of the rods were made of gold would have been:",
+     "marks": 1,
+     "options": [
+      "15 s",
+      "20 s",
+      "35 s",
+      "10 s"
+     ],
+     "answer": "(ii) 20 s"
+    },
+    {
+     "text": "C. The length of all the metal rods is increased by 20% without any change in the thickness. Will the time required for the candles to drop be affected? How and why?",
+     "marks": 2,
+     "options": null,
+     "answer": "Yes, the time required for candles to drop will increase for all the metals. The order of falling of candles will remain the same. Particles vibrate and transfer heat to one another in conduction. Conduction of heat will take more time to travel from one end to the other as a longer distance has to be covered by heat energy.",
+     "or": {
+      "text": "D. Mayank tries the experiment with an apparatus similar to figure (1). He ensures the length of all metal rods is the same. However, the thickness of rods is not the same in his apparatus. Will the inference he draws on the basis of his experiment be correct? Justify your answer.",
+      "options": null,
+      "answer": "No, if the thickness of rods is changed the inference will not be correct. The dimensions of the rods have to be the same. A thicker rod will take more time to conduct heat."
+     }
+    }
+   ],
+   "note": "Visually impaired version: rods A to E with heat sensors beeping at A 30 s, B 10 s, C 15 s, D 60 s, E 50 s; best conductor is metal B."
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "A. I. Refer to the dialogue between Alisha, Drishti and Bhushan in the chemistry lab. They are discussing rusting of iron and formation of ammonia gas. Who all do you agree with and why?\nAlisha: The formation of ammonia by reaction of nitrogen with hydrogen is a reduction reaction.\nDristhti: Both rusting of iron and formation of ammonia are redox reactions.\nBhushan: Rusting of iron is an oxidation reaction.\nII. Assess the following chemical equations. Identify the error(s) and rewrite the equation after correction.\n(i) MgCl₂ + AgNO₃ → AgCl₂ + MgNO₃\n(ii) Al + H₂SO₄ → Al₂SO₄ + H₂O",
+   "options": null,
+   "figure": null,
+   "answer": "I. Drishti (Alisha and Bhushan are partially correct). (1) Oxidation and reduction go hand in hand. In case of formation of ammonia, nitrogen is getting reduced and hydrogen is oxidised. In case of rusting of iron, iron is getting oxidised while oxygen gets reduced. (2)\nII. (i) MgCl₂ + 2AgNO₃ → 2AgCl + Mg(NO₃)₂ (1)\n(ii) 2Al + 3H₂SO₄ → Al₂(SO₄)₃ + 3H₂ (1)",
+   "or": {
+    "text": "B. I. Refer to the dialogue between Daljeet and Avik in the chemistry lab. They have learnt about decomposition reactions. Who has understood decomposition reactions correctly? Justify your answer.\nDaljeet: During a decomposition reaction, a substance decomposes to give two simpler compounds. MgCO₃ decomposes on heating to magnesium oxide and carbon dioxide.\nAvik: No, during a decomposition reaction, a substance decomposes to give two elements. Water on electrolysis gives hydrogen and oxygen, both are elements.\nII. Analyse the observations given in following two cases. Are these observations correct? Give reasons to support your answer.\n(i) Iron fillings are added to an aqueous solution of magnesium sulphate. Observation: The colourless solution turns greenish due to formation of iron sulphate.\n(ii) Aluminium metal is added to dilute sulphuric acid. Observation: Brisk effervescence are seen due to evolution of a gas.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch03_Metals_and_Non-metals",
+    "answer": "I. Both have understood decomposition partially. Decomposition reaction is when a single substance breaks down into simpler substances. The single substance undergoing decomposition has to be a compound while the products formed can be either elements or compounds. MgCO₃ decomposes on heating to magnesium oxide and carbon dioxide; even though both products formed are compounds, it is decomposition. (2) Water on electrolysis gives hydrogen and oxygen, both are elements. It is also a decomposition reaction. (1)\nII. (i) Incorrect observation, iron is less reactive than Mg so it cannot displace magnesium. (1)\n(ii) Hydrogen gas is formed, which produces few bubbles. Brisk effervescence is formed when carbon dioxide is formed. (1)"
+   },
+   "subparts": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "A student wants to determine the focal length of a convex lens using sunlight. Which of the following practical procedures will give the most accurate result?",
+   "options": [
+    "Move the lens close to a wall and measure the blurred circle.",
+    "Hold the lens above a sheet of paper and adjust until the smallest, brightest spot is formed.",
+    "Measure the thickness of the lens with a scale.",
+    "Look through the lens at a distant object."
+   ],
+   "figure": null,
+   "answer": "(B) Hold the lens above a sheet of paper and adjust until the smallest, brightest spot is formed.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Electricity",
+   "text": "An electrical appliance rated 1000 W is operated at 250 V. What current does it draw?",
+   "options": [
+    "0.25 A",
+    "2.5 A",
+    "4.0 A",
+    "10 A"
+   ],
+   "figure": null,
+   "answer": "(C) 4.0 A, since $I=\\frac{P}{V}=\\frac{1000}{250}=4.0$ A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Assertion (A): The apparent depth of a coin in water is less than its real depth.\nReason (R): Light bends away from the normal when it travels from water to air.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A.",
+    "Both A and R are true, and R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(A) Both A and R are true, and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "A. State Snell's Law of refraction.\nB. Define the refractive index of a material with respect to another material giving the mathematical expression.",
+   "options": null,
+   "figure": null,
+   "answer": "A. The ratio of sine of angle of incidence to the sine of angle of refraction is a constant, for the light of a given colour and for the given pair of media. $\\frac{\\sin i}{\\sin r}=\\text{constant}$ (1)\nB. Consider a ray of light travelling from medium 1 into medium 2. Let $v_1$ be the speed of light in medium 1 and $v_2$ the speed of light in medium 2. The refractive index of medium 2 with respect to medium 1 is $n_{21}=\\frac{v_1}{v_2}$. (1)",
+   "or": null,
+   "subparts": null,
+   "note": "The printed key writes n21 = v2/v1; the standard (and correct) expression is v1/v2, as typed here."
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "text": "A. I. State Joule's Law of heating.\nII. What happens to the heat produced in a conductor if the resistance is doubled while keeping other variables constant?",
+   "options": null,
+   "figure": null,
+   "answer": "I. Joule's law of heating: The heat produced in a resistor is (i) directly proportional to the square of current for a given resistance, (ii) directly proportional to resistance for a given current, and (iii) directly proportional to the time for which the current flows through the resistor. $H=I^2Rt$, where $I$ is current and $R$ is resistance. (1)\nII. If resistance is doubled, for the same current $I$, heat $H=I^2(2R)t=2I^2Rt=2H$, i.e. heat doubles. (1)",
+   "or": {
+    "text": "B. I. Define resistivity.\nII. Justify with an example why resistivity is an intrinsic property of a material.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch11_Electricity",
+    "answer": "I. The resistivity ($\\rho$) of a material is defined as the resistance of a wire having unit cross-sectional area and unit length. $R=\\rho\\frac{L}{A}$, where $R$ is the resistance of a wire of length $L$ and cross-sectional area $A$. (1)\nII. Resistivity depends only on the material (not on dimensions). Example: two copper wires of different lengths and thicknesses yield the same $\\rho$ when computed using $\\rho=\\frac{RA}{L}$. (1)"
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "A concave lens forms an image that is 1/3rd the size of the object, as shown in the diagram. If the object is placed 24 cm in front of the lens, determine:\nA. the type of lens.\nB. the image distance\nC. the focal length of the lens",
+   "options": null,
+   "figure": "fig_p12_0.png",
+   "answer": "A. Type of lens: Concave (diverging) lens (given). (1)\nB. For a concave lens the image is upright and diminished, so $m=+\\frac{1}{3}$. With $u=-24$ cm, $v=mu=\\frac{1}{3}\\times(-24)=-8$ cm. Thus the image is located 8 cm on the same side of the lens as the object (virtual image). (1)\nC. $\\frac{1}{f}=\\frac{1}{v}-\\frac{1}{u}$. Substituting $v=-8$ cm, $u=-24$ cm: $\\frac{1}{f}=\\frac{1}{-8}-\\frac{1}{-24}=-\\frac{3}{24}+\\frac{1}{24}=-\\frac{2}{24}=-\\frac{1}{12}$, so $f=-12$ cm. (1)",
+   "or": null,
+   "subparts": null,
+   "note": "Visually impaired version: object 24 cm from a convex lens of focal length 12 cm; find image position and nature (answer: v = +24 cm, real)."
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "A. State the Right-Hand Thumb Rule and describe how it helps determine the direction of magnetic field around a current-carrying conductor.\nB. Explain how the magnetic field changes with distance from the conductor.",
+   "options": null,
+   "figure": null,
+   "answer": "A. Right-hand thumb rule: Imagine that you are holding a current-carrying straight conductor in your right hand such that the thumb points towards the direction of current. Then your fingers will wrap around the conductor in the direction of the field lines of the magnetic field. (1) If the thumb of the right hand points in the direction of conventional current, the curled fingers indicate the direction of the magnetic field lines around the conductor. This helps determine the direction of the magnetic field. (1)\nB. The magnetic field magnitude around a long straight conductor at distance $r$ falls as $B\\propto\\frac{1}{r}$, i.e. it decreases inversely with distance from the conductor. (1)",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch11_Electricity",
+   "text": "The figure shows a circuit with a 15 V battery connected to several resistors. Using the given circuit diagram:\nA. Find the total current supplied by the battery.\nB. Calculate the potential difference between points A and B.",
+   "options": null,
+   "figure": "fig_p13_0.png",
+   "answer": "A. The two 1 Ω resistors are in series (2 Ω) and this combination is in parallel with the 2 Ω resistor: $\\frac{1}{R_{AB}}=\\frac{1}{2}+\\frac{1}{2}$, so $R_{AB}=1\\ \\Omega$. The two 3 Ω resistors are in parallel: $\\frac{1}{R}=\\frac{1}{3}+\\frac{1}{3}$, $R=1.5\\ \\Omega$. The 5 Ω, 1 Ω and 1.5 Ω are in series: $R_s=5+1+1.5=7.5\\ \\Omega$. $V=IR$: $15=I\\times7.5$, $I=2$ A. (2)\nB. $R_{AB}=1\\ \\Omega$, current between A and B is 2 A, $V_{AB}=I\\times R_{AB}=2\\times1=2$ V. (1)",
+   "or": null,
+   "subparts": null,
+   "note": "Visually impaired version: 15 V battery in series with 2, 3 and 5 ohm resistors; find total resistance (10 ohm), current (1.5 A) and voltage drop across 3 ohm (4.5 V)."
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "A school has installed an automatic electromagnetic door-locking system at the main entrance. The locking mechanism uses a solenoid controlled by a switch at the security desk. When electricity flows through the solenoid, it creates a magnetic field strong enough to pull an iron bolt, unlocking the door.\nAs soon as the switch is turned off, the magnetic field disappears, and a spring pushes the bolt back, locking the door.",
+   "options": null,
+   "figure": "fig_p13_1.png",
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Why is an iron core kept inside the solenoid in this locking mechanism?",
+     "marks": 1,
+     "options": null,
+     "answer": "An iron core placed inside the solenoid concentrates and amplifies the magnetic field, producing a stronger pulling force on the bolt."
+    },
+    {
+     "text": "How can we determine the magnetic poles in this solenoid?",
+     "marks": 1,
+     "options": null,
+     "answer": "Using the right-hand thumb rule (curl the fingers of your right hand in the direction of current, then the thumb will point towards the north pole of the solenoid). Alternatively, use a bar magnet with a known north pole towards one of the ends of the solenoid; repulsion will indicate the north pole."
+    },
+    {
+     "text": "C. If the current in the solenoid is increased from 1 A to 2 A, explain how the magnetic effect changes and its effect on unlocking the door.",
+     "marks": 2,
+     "options": null,
+     "answer": "If current increases then the magnetic field B inside a solenoid will also increase as the magnetic field is directly proportional to current (so the pull on the bolt becomes stronger).",
+     "or": {
+      "text": "D. If the source of the current is fixed, how can we increase the magnetic field in the solenoid?",
+      "options": null,
+      "answer": "Increase the number of turns N of the coil, reduce coil length, or insert a soft iron core. (any two points)"
+     }
+    }
+   ],
+   "note": "Visually impaired version uses a compass needle beside a current-carrying charger cable (needle deflects due to the magnetic field of the current; realigns N-S when current is off; deflection increases with current; reversing current reverses deflection by the right-hand thumb rule)."
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "A. I. What is meant by accommodation of the human eye?\nII. What is the near point of a normal eye and what does it signify?\nIII. Name which type of lens is used to correct the defect in which a person cannot see distant objects clearly.\nIV. Draw a diagram to show how the choice of your lens in (III) helps to see distant objects clearly?",
+   "options": null,
+   "figure": null,
+   "answer": "I. Accommodation: ability of the eye lens to change its focal length to focus objects at different distances on the retina. (1)\nII. Near point: the nearest point (about 25 cm for a normal eye) at which an object can be seen distinctly; it signifies the closest comfortable focus. (1)\nIII. A diverging (concave) lens is used to correct myopia (short-sightedness). (1)\nIV. Diagram (in the key): a concave lens in front of the myopic eye diverges the parallel rays from a distant object so that the image forms on the retina. (2)",
+   "or": {
+    "text": "B. I. What is dispersion of light?\nII. Which colour of light deviates the least during dispersion through a prism?\nIII. State why the sky appears dark to an astronaut in outer space.\nIV. Draw a simple labelled diagram to show how white light splits into different colours while passing through a glass prism.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch10_Human_Eye_and_Colourful_World",
+    "answer": "I. Dispersion: splitting of white light into its component colours due to wavelength-dependent refraction. (1)\nII. Red deviates least (longest wavelength). (1)\nIII. There is no atmosphere in space to scatter sunlight, so the sky appears dark. (1)\nIV. Diagram (in the key): white ray incident on a prism splits into VIBGYOR with violet deviating most and red least. (2)"
+   },
+   "subparts": null,
+   "note": "Visually impaired version covers hypermetropia (option A: far point at infinity, convex lens) and the Tyndall effect / scattering (option B: why sky is blue, why red is used for danger signs)."
+  }
+ ]
+}

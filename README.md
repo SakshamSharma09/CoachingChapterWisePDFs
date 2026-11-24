@@ -17,6 +17,7 @@ Class_NN/<Subject>/
     Revision_Notes/       older multi-chapter revision notes
     Reading_Writing/      English reading and writing papers
     Model_Papers/         Class 5 only: 10 per subject (unsolved, answer key, solved)
+Class_10/<Subject>/Sample_Papers_2026-27/, SamplePaper_Chapterwise_Worksheets/, SamplePaper_Sectionwise_Tests/   Class 10 2026-27 sample papers, chapter-wise question worksheets, 80-mark section tests (see docs/ARCHITECTURE.md section 9)
 Class_08/English_Gulmohar/      Gulmohar reader (17 units; NCERT-Type + Hard; unit tests)
 Class_08/English_Ruskin_Bond/   Ruskin Bond-linked reader (chapters 11-12 so far)
 NCERT_Books/                    NCERT chapter PDFs, Classes 6-10 (ChNN_Title.pdf)

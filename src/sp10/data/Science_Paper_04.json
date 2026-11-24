@@ -1,0 +1,745 @@
+{
+ "subject": "Science",
+ "paper": "Paper_04",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "The teacher instructed the student to place a healthy potted shoe flower plant in a dark room for 24 hours prior to an experiment on photosynthesis. The purpose of placing it in a dark room is:",
+   "options": [
+    "To activate the chloroplasts in the leaves",
+    "To denature the enzymes in the leaves",
+    "To increase the intake of carbon dioxide",
+    "To destarch the leaves"
+   ],
+   "figure": null,
+   "answer": "(d) To destarch the leaves",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "The genetic constitution of an organism is called",
+   "options": [
+    "Phenotype",
+    "Genome",
+    "Trait",
+    "Genotype"
+   ],
+   "figure": null,
+   "answer": "(d) Genotype — the genotype is the genetic makeup (DNA sequence) of a cell/organism which determines a specific characteristic.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Organisms which synthesise carbohydrates from inorganic compounds using radiant energy are called",
+   "options": [
+    "Carnivores",
+    "Decomposers",
+    "Herbivores",
+    "Producers"
+   ],
+   "figure": null,
+   "answer": "(d) Producers — producers use solar energy to synthesise food from water and carbon dioxide.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Match the following with correct response.\n\n| Column A | Column B |\n|---|---|\n| (i) Temporal lobe | (a) Speech facial muscular activities |\n| (ii) Parietal lobe | (b) Taste, smell touch and conscious association |\n| (iii) Occipital lobe | (c) Auditory reception |\n| (iv) Frontal lobe | (d) Visual perception |",
+   "options": [
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)"
+   ],
+   "figure": null,
+   "answer": "(c) (i) - (c), (ii) - (b), (iii) - (d), (iv) - (a) — the temporal lobe is concerned with hearing (auditory reception); the parietal lobe with sensation/perception (taste, smell, touch, association); the occipital lobe with visual perception; the frontal lobe with speech and facial muscular activities.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Micro-organisms belong to the group of:",
+   "options": [
+    "Decomposers",
+    "Consumers",
+    "Composers",
+    "Producers"
+   ],
+   "figure": null,
+   "answer": "(a) Decomposers — they break down the dead remains and waste products of organisms.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Which of the following is an incorrect statement?",
+   "options": [
+    "Movement of molecules does not take place among cells",
+    "Organisms grow with time",
+    "Organisms must repair and maintain their structure",
+    "Energy is essential for life processes"
+   ],
+   "figure": null,
+   "answer": "(a) Movement of molecules does not take place among cells — movement of molecules in cells (diffusion, osmosis, etc.) is a vital process, so the statement is incorrect.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Which one of the following is involved in reflex action?",
+   "options": [
+    "Exocrine glad",
+    "Endocrine gland",
+    "Brain",
+    "spinal cord"
+   ],
+   "figure": null,
+   "answer": "(d) spinal cord — reflex action is a rapid, involuntary response to a stimulus controlled mainly by the spinal cord.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Assertion (A): The flowers of papaya is called unisexual flower.\nReason (R): The flower contains stamens only as a sex organ.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(c) A is true but R is false. A unisexual flower has either stamens or carpels only; it is not true that it has only stamens.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Assertion (A): Decomposers keep the environment clean.\nReason (R): They recycle matter by breaking down the organic remains and waste products of plants and animals.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "What are the different methods of contraception?",
+   "options": null,
+   "figure": null,
+   "answer": "(a) Barrier method - a device used to prevent the entry of sperms in the female genital tract, e.g. condom, diaphragm, cervical caps.\n(b) Chemical method - drugs (containing hormones) used by females in the form of pills (oral pills) or vaginal pills/creams.\n(c) Intrauterine contraceptive devices (IUCD) - e.g. copper-T is placed in the uterus; it prevents implantation of the fertilised ovum in the uterus.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "What is biomass? State the basic principle behind the working of a biogas plant. Name the main combustible component of biogas and also state its percentage.",
+   "options": null,
+   "figure": null,
+   "answer": "Biomass: the waste materials produced by plants and animals from which energy can be obtained on a renewable basis.\nPrinciple: anaerobic decomposition of biomass.\nMain combustible component: methane (CH4).\nPercentage: 75%.",
+   "or": {
+    "chapter": "Ch13_Our_Environment",
+    "text": "What is garbage? What does garbage consist of? What is disposal of waste?",
+    "options": null,
+    "figure": null,
+    "answer": "The household waste or rubbish is called garbage. It consists of left-over food, fruit and vegetable peels, fallen leaves of potted plants, waste paper, wooden objects, ragged clothes, etc.\nDisposal of waste means getting rid of unwanted material which would otherwise occupy space and cause pollution. The method depends on the nature of waste; biodegradable waste must be separated from non-biodegradable waste, as together they cannot be treated well (e.g. recycled)."
+   },
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Write a note on geotropism.",
+   "options": null,
+   "figure": null,
+   "answer": "The growth movement of plant parts induced by the stimulus of gravity is called geotropism. Roots bend down and grow towards the soil (towards the centre of the earth) - positive geotropism (main roots are positively geotropic); stems grow away from the centre of the earth - negative geotropism (main stems are negatively geotropic). When an organ grows at right angles to gravity it is diageotropic (e.g. rhizomes of certain grasses, stolons of potato).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "A plant having blue coloured flowers (BB) is crossed with a plant having white coloured flowers (bb):\na. Name the term used for the trait, which is observed in $F_1$ generation. Give its gene combination.\nb. If the plants obtained in $F_1$ generation are self-pollinated, write the percentage of (i) plants with flowers of blue colour, and (ii) plants with flowers of white colour in $F_2$ generation. What did the reappearance of plants with white coloured flowers in $F_2$ generation indicate?",
+   "options": null,
+   "figure": null,
+   "answer": "a. Dominant trait (blue); gene combination Bb.\nb. (i) 75% blue flowers; (ii) 25% white flowers. The reappearance of white flowers in F2 shows that two copies of the recessive trait (gene) are required for its expression/reappearance.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Can you, design any other experiment set-up for testing that $CO_2$ is produced during respiration?",
+   "options": null,
+   "figure": null,
+   "answer": "Yes. Set up a two-head (two-necked) bottle with a water reservoir/funnel, germinating seeds, a delivery tube and a beaker of lime water: germinating seeds are kept in the bottle, water from the reservoir is allowed to flow in so that the air is pushed through the delivery tube into lime water in the beaker; the lime water turns milky, showing that $CO_2$ is produced during respiration.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "text": "Read the following text carefully and answer the questions that follow:\nThe most obvious outcome of the reproductive process is the generation of individuals of similar design, but in sexual reproduction they may not be exactly alike. The resemblances as well as differences are marked. The rules of heredity determine the process by which traits and characteristics are reliably inherited. Many experiments have been done to study the rules of inheritance.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Why an offspring of human being is not a true copy of his parents in sexual reproduction?",
+     "marks": 1,
+     "options": null,
+     "answer": "Because the genetic material from the mother's and father's gametes is mixed together (new combinations), so the offspring has traits from both parents."
+    },
+    {
+     "text": "While performing experiments on inheritance in plants, what is the difference between $F_1$ and $F_2$ generation?",
+     "marks": 1,
+     "options": null,
+     "answer": "The selected plants are crossed to create the $F_1$ (first filial) generation; the $F_2$ generation is the second one, produced by crossing/self-pollination of members of the $F_1$ generation."
+    },
+    {
+     "text": "Why do we say that variations are useful for the survival of a species over time?\nOR\nStudy Mendel's cross between two plants with a pair of contrasting characters: RRYY (Round Yellow) $\\times$ rryy (Wrinkled Green). He observed 4 types of combinations in $F_2$ generation. Which of these were new combinations? Why do new features which are not present in the parents, appear in $F_2$ generation?",
+     "marks": 2,
+     "options": null,
+     "answer": "Variations give natural selection the starting point to work on. Any population always has some variation, which may be advantageous, neutral or harmful to an individual's chance of survival; the advantageous ones help the species survive changing conditions.\nOR\nYellow wrinkled and round green seeds were the two new combinations. They appear in $F_2$ because recessive traits whose alleles were present in $F_1$ but could not express themselves combine in a new way in $F_2$ (independent assortment)."
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "i. In which form is the information for inheritance of features transmitted from one generation to the next generation?\nii. Differentiate between binary fission in Amoeba and Leishmania.\niii. \"Fragmentation cannot be a method of reproduction in all multicellular organisms.\" Justify this statement.",
+   "options": null,
+   "figure": null,
+   "answer": "i. DNA (deoxyribonucleic acid)/genes.\nii. Amoeba: binary fission can take place in any plane. Leishmania: binary fission occurs in a definite orientation in relation to the whip-like structure at one end.\niii. Most multicellular organisms are not simply random collections of cells; they have specialised cells organised into tissues and tissues into organs placed at definite positions in the body, so they cannot simply break into pieces and regenerate.",
+   "or": {
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "Why do we call pituitary gland as the master gland? Where is it located and what are its functions?",
+    "options": null,
+    "figure": null,
+    "answer": "The pituitary gland has three lobes and secretes various hormones that regulate growth, metabolism, sexual development and reproduction; it also controls the functioning of other endocrine glands, hence it is the master gland.\nLocation: pea-sized, in the centre of the brain just below the hypothalamus (also called hypophysis).\nHormones and functions: growth hormone - growth and development of bones and muscles; tropic hormones - regulate secretion of other endocrine glands; prolactin - function of mammary glands in females; vasopressin - water and electrolyte balance; oxytocin - ejection of milk during lactation."
+   },
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Which of the following statements is not correct?",
+   "options": [
+    "Some metals react with acids to give salt and hydrogen.",
+    "Some non metal oxides react with water to form an acid.",
+    "All metal oxides react with water to give salt and acid.",
+    "All metal carbonates react with acid to give a salt, water and carbon dioxide."
+   ],
+   "figure": null,
+   "answer": "(c) All metal oxides react with water to give salt and acid — metal oxides are basic; those that dissolve in water give alkaline solutions (not salt and acid).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which of the given statement is true or false:\nStatement A: Valeric acid is the common name of hexane.\nStatement B: Glycerol is added in the manufacturing of soap.",
+   "options": [
+    "Statement B is true and statement A is false",
+    "Neither statement A nor statement B is false",
+    "Both the statements A and B are false",
+    "Statement A is true and statement B is false"
+   ],
+   "figure": null,
+   "answer": "(c) Both the statements A and B are false (as given in the paper's key). Valeric acid is another name for pentanoic acid; soap is made from fat/oil and NaOH/KOH, giving soap and glycerol (glycerol is a by-product, not added).",
+   "or": null,
+   "subparts": null,
+   "note": "The key's option (c) 'both false' is the paper's answer; statement B is arguably misread by the key."
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Aluminium foil is used for wrapping food because :",
+   "options": [
+    "it is a good conductor of heat",
+    "it is sonorous",
+    "it is ductile",
+    "it is malleable"
+   ],
+   "figure": null,
+   "answer": "(d) it is malleable",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n\n| Column A | Column B |\n|---|---|\n| (1) Soap | (A) Sodium salts of long-chain of sulphonic acids |\n| (2) Detergents | (B) Esterification |\n| (3) The reaction of $CH_3COOH$ with metal hydroxides | (C) Neutralization |\n| (4) The reaction of $CH_3COOH$ with alcohols | (D) Sodium salts of long-chain fatty acids |",
+   "options": [
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)"
+   ],
+   "figure": null,
+   "answer": "(a) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b). Soaps are sodium/potassium salts of long-chain fatty acids; detergents are sodium salts of long-chain sulphonic acids; $CH_3COOH + NaOH \\rightarrow CH_3COONa + H_2O$ is neutralisation; $CH_3COOH + C_2H_5OH \\rightarrow CH_3COOC_2H_5 + H_2O$ is esterification.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "An iron nail is suspended in $CuSO_4$ solution and kept for a while. The solution:",
+   "options": [
+    "Turns green and a coating will be formed on the nail",
+    "Remain blue and no coating will be formed on the nail.",
+    "Remains blue and a coating is found on the nail",
+    "Turns green and no coating will be formed on the nail."
+   ],
+   "figure": "fig_p04_0.png",
+   "answer": "(a) Turns green and a coating will be formed on the nail. Iron is more reactive than copper and displaces it: $CuSO_4(aq) + Fe(s) \\rightarrow FeSO_4(aq) + Cu(s)$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "The correct electron dot structure of a water molecule is",
+   "options": [
+    "H:O:H (no lone pairs shown on O)",
+    "H·O·H with two lone pairs on O, hydrogens joined by single dots",
+    "H:O:H with two lone pairs on O (shared pairs on both sides)",
+    "H:O·H with two lone pairs on O (one shared pair, one single dot)"
+   ],
+   "figure": "fig_p04_q22.png",
+   "answer": "(c) — oxygen shares two electrons with each of the two hydrogen atoms (two shared pairs) and keeps two lone pairs, completing its octet.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "The acid produced in our stomach during digestion and the base used to neutralise the excess acid during indigestion respectively are:",
+   "options": [
+    "HCl, Ca(OH)2",
+    "Amino acids, Ca(OH)2",
+    "HCl, Mg(OH)2",
+    "Lactic acid, Mg(OH)2"
+   ],
+   "figure": null,
+   "answer": "(c) HCl, $Mg(OH)_2$",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Assertion (A): Solutions of compounds like alcohol and glucose do not show acidic character.\nReason (R): They do not show acidic character because they do not dissociate into ions.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Unlike acids such as HCl which give $H^+$ and $Cl^-$ ions, these solutions do not dissociate into ions.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Salt X commonly used in bakery products on heating gets converted into another salt Y which itself is used for removal of hardness of water and a gas Z is evolved. The gas C when passed through lime water, turns it milky. Identify X, Y and Z.",
+   "options": null,
+   "figure": null,
+   "answer": "X is sodium hydrogencarbonate (baking soda, $NaHCO_3$); Y is sodium carbonate ($Na_2CO_3$); gas Z is carbon dioxide ($CO_2$), which turns lime water milky.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "On heating blue coloured powder of copper (II) nitrate in a boiling tube, copper oxide (black), oxygen gas and a brown gas X is formed.\ni. Write a balanced chemical equation of the reaction.\nii. Identify the brown gas X evolved.\niii. Identify the type of reaction.\niv. What could be the pH range of the aqueous solution of the gas X?",
+   "options": null,
+   "figure": null,
+   "answer": "i. $2Cu(NO_3)_2(s) \\xrightarrow{Heat} 2CuO(s) + 4NO_2(g) + O_2(g)$\nii. The brown gas X is nitrogen dioxide ($NO_2$).\niii. Thermal decomposition reaction.\niv. pH < 7, because $NO_2$ dissolves in water to form an acidic solution.",
+   "or": {
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "i. Why are the chips packets puffed when we buy them from market?\nii. Paint is applied on articles made up of iron, why?",
+    "options": null,
+    "figure": null,
+    "answer": "i. Cooking oil in the chips gets oxidised (becomes rancid) on contact with air; to prevent this, the oxygen in the packet is replaced by flushing nitrogen, which puffs up the packet.\nii. Iron reacts with atmospheric oxygen in the presence of moisture (corrosion/rusting). Paint makes a barrier between the surface of the iron article and the atmosphere and prevents corrosion."
+   },
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "case",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Sample pieces of five metals A, B, C, D and E were added to the tabulated solutions separately. The results observed are shown in the table:\n\n| Metal | $FeSO_4$ | $CuSO_4$ | $ZnSO_4$ | $AgNO_3$ | $Al_2(SO_4)_3$ |\n|---|---|---|---|---|---|\n| A | No Change | No Change | No Change | Coating on metal | No Change |\n| B | Grey Deposit on metal | Brown Coating on metal | No Change | Coating on metal | No Change |\n| C | No Change | No Change | No Change | No Change | No Change |\n| D | No Change | -------- | No Change | Coating on metal | No Change |\n| E | -------- | Brown Coating | New Coating | New Coating | No Change |\n\nBased on the observations recorded in the table, answer the following:",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Which is the most reactive metal?",
+     "marks": 1,
+     "options": null,
+     "answer": "Metal E, as it displaces zinc from $ZnSO_4$ solution."
+    },
+    {
+     "text": "Which is the least reactive metal?",
+     "marks": 1,
+     "options": null,
+     "answer": "Metal C, since it has not displaced any of the metals from their salt solutions."
+    },
+    {
+     "text": "What would be observed if metal D were added to a solution of copper (II) sulphate?",
+     "marks": 1,
+     "options": null,
+     "answer": "D is more reactive than Ag and less reactive than Fe, and Cu is below Fe; so D would displace Cu from $CuSO_4$ solution (as stated in the paper's key)."
+    },
+    {
+     "text": "What would be observed if metal E were added to a solution of iron (II) sulphate?",
+     "marks": 1,
+     "options": null,
+     "answer": "E is more reactive than zinc and hence than iron; E displaces Fe from $FeSO_4$ solution and a grey/black coating of iron is deposited on E."
+    },
+    {
+     "text": "Arrange the metals A, B, C, D and E in decreasing order of their reactivity?",
+     "marks": 1,
+     "options": null,
+     "answer": "E > B > D > A > C"
+    }
+   ],
+   "note": "Original has five sub-questions (1)-(5) for 3 marks total; marks per subpart shown are nominal (sum 5, total 3)."
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Read the following text carefully and answer the questions that follow:\nIn a balanced chemical reaction, equal number of atoms are present on both sides of reaction. A balanced chemical reaction is based on law of conservation of mass which means that total mass of reactants and products participating in a reaction must be equal. For example, a balanced chemical equation of burning of magnesium in oxygen to form magnesium oxide is written as:\n$2Mg + O_2 \\rightarrow 2MgO$\nThe mass of reactants ($2 \\times 24 + 32 = 80$) is equal to the mass of products [$2 \\times (24 + 16) = 80$].",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "In a reaction, 35 g of reactant, PQ breaks down into 20 g of product, P and an unknown amount of product, Q. Find the amount of product Q.",
+     "marks": 1,
+     "options": null,
+     "answer": "By the law of conservation of mass, mass of PQ = mass of P + mass of Q, so mass of Q = 35 - 20 = 15 g."
+    },
+    {
+     "text": "The solid mercury (II) oxide is heated, and liquid mercury and oxygen gas are produced. Mention balanced chemical reaction.",
+     "marks": 1,
+     "options": null,
+     "answer": "$2HgO(s) \\rightarrow 2Hg(l) + O_2(g)$"
+    },
+    {
+     "text": "Which laws are satisfied by a balanced chemical equation?\nOR\nIn the given chemical reaction, $2C_6H_6(l) + 15O_2(g) \\rightarrow mCO_2(g) + nH_2O(l)$. Find the values of m and n respectively.",
+     "marks": 2,
+     "options": null,
+     "answer": "The law of conservation of mass is satisfied by a balanced chemical equation.\nOR\nm = 12 and n = 6."
+    }
+   ]
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "A salt X is formed and a gas is evolved when ethanoic acid reacts with sodium hydrogencarbonate. Name the salt X and the gas evolved. Describe an activity and draw the diagram of the apparatus to prove that the evolved gas is the one which you have named. Also, write chemical equation of the reaction involved.",
+   "options": null,
+   "figure": null,
+   "answer": "Salt X is sodium ethanoate ($CH_3COONa$) and the gas evolved is carbon dioxide ($CO_2$).\nActivity: take ethanoic acid and sodium hydrogencarbonate in a test tube; fit a cork with a delivery (bent) tube; dip the other end of the delivery tube in lime water in another test tube. The lime water turns milky, showing that the gas is $CO_2$.\n$CH_3COOH + NaHCO_3 \\rightarrow CH_3COONa + CO_2 + H_2O$",
+   "or": {
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "i. How is vinegar made?\nii. What is glacial acetic acid? What is its melting point?\niii. Why is butanoic acid a weak acid?\niv. Write the name and the formula of the two compounds formed when the ester, $CH_3COOC_2H_5$ undergoes saponification.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Vinegar is a 5-8% solution of acetic acid in water.\nii. Pure ethanoic acid is called glacial acetic acid because it freezes to form ice-like crystals at low temperature (melting point 290 K / 17 °C).\niii. Butanoic acid is a weak acid because it does not ionise completely in solution.\niv. On heating with NaOH (saponification), ethyl ethanoate gives sodium ethanoate ($CH_3COONa$) and ethanol ($C_2H_5OH$)."
+   },
+   "subparts": null,
+   "note": "Answer key for the OR part is partly garbled in the source; typed per standard NCERT facts where the key was unclear. Diagram of apparatus is given only in the answer (fig_p15_0.png).",
+   "answer_figure": "fig_p15_0.png"
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Which of the following statement is incorrect?\nA. A ray of light passing from an optically rarer medium to an optically denser medium bends away from the normal.\nB. A ray of light passing from an optically denser medium to an optically rarer medium bends away from the normal.\nC. A ray of light passing from an optically rarer medium to an optically denser medium bends toward the normal.\nD. A ray light passing from an optically denser medium to an optically rarer medium bends towards the normal.",
+   "options": [
+    "A, B and D",
+    "B and C",
+    "A and C",
+    "A and D"
+   ],
+   "figure": null,
+   "answer": "(d) A and D are the incorrect statements (the paper's key prints option (b) 'B and C'). Rarer to denser bends towards the normal; denser to rarer bends away from the normal.",
+   "or": null,
+   "subparts": null,
+   "note": "Key says (b) B and C, but statements A and D are the incorrect ones, i.e. option (d). Flagged for review."
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "In the following diagram showing dispersion of white light by a glass prism, the colours P and Q respectively are-",
+   "options": [
+    "Violet and Red",
+    "Orange and Green",
+    "Red and Blue",
+    "Red and Violet"
+   ],
+   "figure": "fig_p07_0.png",
+   "answer": "(a) Violet and Red — violet is deviated the most and red the least.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Assertion (A): The magnetic field lines around a current carrying straight wire do not intersect each other.\nReason (R): The magnitude of the magnetic field produced at a given point increases as the current through the wire increases.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(c) A is true but R is false (as per the paper's key).",
+   "or": null,
+   "subparts": null,
+   "note": "Key says (c). Strictly, R is also a true statement (B is proportional to I); (b) would be the textbook answer. Flagged."
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "A person with myopic eye cannot see objects beyond 1.2metre distinctly. What should be the nature of corrective lenses to restore proper vision?",
+   "options": null,
+   "figure": null,
+   "answer": "Far point x = 1.2 m, so focal length of the corrective lens $f = -x = -1.2$ m. Power $P = \\frac{1}{f} = \\frac{1}{-1.2} = -0.83$ D. The person should use a diverging (concave) lens of power -0.83 D.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "sa",
+   "chapter": "Ch11_Electricity",
+   "text": "Two metallic wires A and B are connected in series. Wire A has length l and radius r, while wire B has length 2l and radius 2r. Find the ratio of total resistance of series combination and the resistance of wire A, if both the wires are of the same material?",
+   "options": null,
+   "figure": null,
+   "answer": "$R_1 = \\frac{\\rho l}{\\pi r^2}$; $R_2 = \\frac{\\rho (2l)}{\\pi (2r)^2} = \\frac{\\rho l}{2\\pi r^2}$.\nSeries: $R = R_1 + R_2 = \\frac{\\rho l}{\\pi r^2}\\left(1 + \\frac{1}{2}\\right) = \\frac{3\\rho l}{2\\pi r^2}$.\n$R/R_1 = 3/2$, i.e. the ratio is 3 : 2.",
+   "or": {
+    "chapter": "Ch11_Electricity",
+    "text": "Calculate the number of electrons constituting one coulomb of charge.",
+    "options": null,
+    "figure": null,
+    "answer": "Charge on an electron $= 1.6\\times10^{-19}$ C. Number of electrons $n = \\frac{Q}{e} = \\frac{1}{1.6\\times10^{-19}} = 6.25\\times10^{18}$."
+   },
+   "subparts": null
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "We know a current-carrying conductor placed in a magnetic field experiences a force due to which the conductor moves. How do we think the conductor displaces if-\ni. current in a conductor is increased.\nii. a stronger horse shoe is inserted.",
+   "options": null,
+   "figure": "fig_p07_1.png",
+   "answer": "The force on a current-carrying conductor is $F = BIL$.\ni. If the current I increases, F increases, so the displacement of the conductor increases.\nii. If a stronger horse-shoe magnet is used, B increases, so F increases and the displacement increases.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "A camera in many ways is similar to the human eye, still, there are some basic differences in image formation between the two. Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "Both the camera and the eye have a convex lens that forms a real image. Differences: (i) In a camera, the distance between the lens and the film/screen is adjusted (focal length of the lens is fixed); in the eye, the ciliary muscles change the focal length of the lens keeping the lens-retina distance constant. (ii) The image on the retina is temporary and is recorded in the brain as memory, whereas the image on the camera film is a permanent record.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "AB is a current carrying conductor in the plane of the paper as shown in Figure.\ni. What are the directions of magnetic fields produced by it at points P and Q?\nii. Given $r_1 > r_2$, where will the strength of the magnetic field be larger?",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": "By the right-hand thumb rule (thumb along the current, curled fingers give the field direction): i. at P the magnetic field is directed into the plane of the paper and at Q it is directed out of the plane of the paper. ii. Since $r_1 > r_2$ (field decreases with distance), the field is stronger at Q than at P.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "text": "Read the following text carefully and answer the questions that follow:\nThe rate of flow of charge is called electric current. The SI unit of electric current is Ampere (A). The direction of flow of current is always opposite to the direction of flow of electrons in the current.\nThe electric potential is defined as the amount of work done in bringing a unit-positive test charge from infinity to a point in the electric field. The amount of work done in bringing a unit positive test charge from one point to another point in an electric field is defined as potential difference.\n$V_{AB} = V_B - V_A = \\frac{W_{BA}}{q}$\nThe SI unit of potential and potential difference is volt.",
+   "options": null,
+   "figure": "fig_p08_1.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Write the formula of voltage in terms of work done, current, time and charge.",
+     "marks": 1,
+     "options": null,
+     "answer": "$V = \\frac{W}{q} = \\frac{W}{I t}$"
+    },
+    {
+     "text": "What is the number of electrons flowing per second in a conductor if 1 A current is passing through it?",
+     "marks": 1,
+     "options": null,
+     "answer": "I = 1 A, t = 1 s, so $q = It = 1$ C. $n = \\frac{q}{e} = \\frac{1}{1.6\\times10^{-19}} = 6.25\\times10^{18}$."
+    },
+    {
+     "text": "What would be the potential difference between the two terminals of a battery, if 100 joules of work is required to transfer 20 coulombs of charge from one terminal of the battery to other?\nOR\nThe 2 C of charge is flowing through a conductor in 100 ms, then what would be the current in the circuit?",
+     "marks": 2,
+     "options": null,
+     "answer": "$V = \\frac{W}{q} = \\frac{100}{20} = 5$ V.\nOR\nq = 2 C, t = 100 ms = 0.1 s; $I = \\frac{q}{t} = \\frac{2}{0.1} = 20$ A."
+    }
+   ]
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "A student focussed the image of a candle flame on a white screen using a convex lens. He noted down the position of the candle screen and the lens as under Position of candle = 12.0 cm Position of convex lens = 50.0 cm Position of the screen = 88.0 cm\ni. What is the focal length of the convex lens?\nii. Where will the image be formed if he shifts the candle towards the lens at a position of 31.0 cm?\niii. What will be the nature of the image formed if he further shifts the candle towards the lens?\niv. Draw a ray diagram to show the formation of the image in case (iii) as said above.",
+   "options": null,
+   "figure": null,
+   "answer": "i. u = 50 - 12 = 38 cm (object distance, taken as -38 cm), v = 88 - 50 = 38 cm. By the lens formula $\\frac{1}{v}-\\frac{1}{u}=\\frac{1}{f}$: $\\frac{1}{38}+\\frac{1}{38}=\\frac{1}{f}$, so f = 19 cm.\nii. u = 50 - 31 = 19 cm = f, so the object is at the focus and the image is formed at infinity.\niii. If the candle is shifted further towards the lens (between F and O), the image is virtual, erect and enlarged, formed on the same side of the lens as the object.\niv. Ray diagram: object AB between F and O; a ray parallel to the axis refracts through F; a ray through the optical centre goes undeviated; the refracted rays diverge and, produced backwards, meet at A' forming a virtual, erect, magnified image A'B' on the same side as the object (see answer figure).",
+   "or": {
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "An object 1 m tall is placed on the principal axis of a convex lens and its 40 cm tall image is formed on the screen placed at a distance of 70 cm from the object. What is the focal length of the lens?",
+    "options": null,
+    "figure": null,
+    "answer": "Image on screen, so real and inverted: h = 100 cm, h' = -40 cm. Let the object distance be x, so u = -x and v = 70 - x. $m = \\frac{h'}{h} = \\frac{v}{u}$: $\\frac{-40}{100} = \\frac{70-x}{-x}$, so 40x = 7000 - 100x, x = 50 cm. u = -50 cm, v = 20 cm.\n$\\frac{1}{f} = \\frac{1}{v}-\\frac{1}{u} = \\frac{1}{20}+\\frac{1}{50} = \\frac{7}{100}$, so $f = +\\frac{100}{7} \\approx 14.3$ cm (the paper's key writes 110/7 by an arithmetic slip but gives 14.3 cm)."
+   },
+   "subparts": null,
+   "answer_figure": "fig_p17_0.png",
+   "note": "Key prints f = 110/7 = 14.3 cm; correct value is 100/7 = 14.29 cm; same 14.3 cm."
+  }
+ ]
+}
