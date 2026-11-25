@@ -1,0 +1,12 @@
+Science items 497
+test Case_Based 1 20 questions
+test SecA_Biology 1 36 questions
+test SecA_Biology 2 39 questions
+test SecA_Biology 3 45 questions
+test SecA_Biology 4 38 questions
+test SecB_Chemistry 1 32 questions
+test SecB_Chemistry 2 40 questions
+test SecB_Chemistry 3 43 questions
+test SecC_Physics 1 29 questions
+test SecC_Physics 2 32 questions
+test SecC_Physics 3 32 questions

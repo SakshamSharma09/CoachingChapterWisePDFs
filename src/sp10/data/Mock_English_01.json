@@ -1,0 +1,929 @@
+{
+ "subject": "English",
+ "paper": "Mock_01",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "Read the following passage carefully:\n\n1. The words probiotics, prebiotics, and postbiotics may sound like variations of the same thing, but what a difference a prefix makes. The first is a category of health-promoting microbes. The latter two groups are types of beneficial molecules. But all three biotics are critical for supporting the community of microscopic organisms that live in the gastrointestinal tract, known as the gut microbiome. With both beneficial and harmful bacteria living in the human body, these diet-related factors - the biotics - help tip the balance in the positive direction. It is important to understand their differences, as you'll see, because each of these factors serves a distinct purpose, even as they work together.\n\n2. Despite their importance for the gut microbiome, the health benefits of these 'biotics', which are present in certain foods or result from their metabolism, extend beyond the digestive tract. A growing body of scientific evidence has linked prebiotics, probiotics, and postbiotics, with improvements in metabolic diseases - including obesity and cholesterol abnormalities - depressive symptoms and poor sleep quality, among many other conditions.\n\n3. Besides promoting general gut health, consuming food rich in probiotics can improve irritable bowel syndrome and antibiotic-related diarrhea, prevent traveller's diarrhea, produce vitamins and increase nutrient absorption, and decrease the risk of common infections. In fact, when consumed regularly, probiotics have been found to reduce the occurrence of upper respiratory tract infections (like the common cold).\n\n4. Many different types of beneficial bacteria are considered probiotics. The most common ones include Lactobacillus and Bifidobacterium, of which there are dozens of strains. \"You have to match what it is you're concerned about with the probiotic you should use,\" says Gregor Reid. Many different types of beneficial bacteria are considered probiotics.\n\n5. Some foods, such as yogurt, kefir, kimchee, and fermented soybeans and kombucha naturally contain probiotics. But here's where things get complicated: not all fermented foods or yogurts contain probiotics, Reid says. As a consumer, a good starting point is to look for the phrase \"contains live and active cultures\" on the label; it's even better if specific strains of bacteria are listed, because then you'll know you're getting the right stuff.\n\n6. Simply put, prebiotics are sources of food for those beneficial microbes - the probiotics. They are typically a form of carbohydrate or fiber that we don't have the enzymes to digest. As a result, they move through the digestive tract to the intestine, where beneficial bacteria (probiotics) can feast on them.\n\n7. When you consume foods that are rich in probiotics and prebiotics, the microbes in your gut consume the undigestible prebiotic fiber and produce bioactive compounds called postbiotics. They are ultimately the endgame that we want - they affect how our gut operates and keeps the good bacteria there and the bad bacteria out.\n\nAnswer the following questions, based on the above passage:",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "or": null,
+   "subparts": [
+    {
+     "text": "I. Which of the following statements best describes the author's attitude towards probiotics? (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. Probiotics, prebiotics and postbiotics are variations of the same thing, with just a difference of a prefix.",
+      "B. All fermented foods or yogurts naturally contain probiotics.",
+      "C. All three biotics are equally important to support microscopic organisms that live in the gut microbiome.",
+      "D. Only probiotics are important as they can improve irritable bowel syndrome and antibiotic-related diarrhea."
+     ],
+     "answer": "(C) All three biotics are equally important to support microscopic organisms that live in the gut microbiome."
+    },
+    {
+     "text": "II. According to the writer, health benefits of all the 'biotics' extend beyond the digestive tract. Rationalise your response in about 40 words. (2 Marks)",
+     "marks": 2,
+     "options": null,
+     "answer": "The writer emphasizes that prebiotics, probiotics, and postbiotics not only promote gut health but also have broader health benefits. Scientific evidence links them to improvements in metabolic diseases, depressive symptoms, sleep quality, and reduction in upper respiratory infections."
+    },
+    {
+     "text": "III. Complete the sentence appropriately. (1 Mark)\nTo get the right probiotic and to match it with your body's requirement, it is important to see the label for ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "contains live and active cultures"
+    },
+    {
+     "text": "IV. The passage includes some words that are opposites of each other. From the sets (A) - (E) below, identify two sets of antonyms. (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. increase and decrease",
+      "B. probiotic and postbiotic",
+      "C. beneficial and harmful",
+      "D. feast and fermented",
+      "E. consuming and digestive"
+     ],
+     "answer": "(A) increase and decrease; (C) beneficial and harmful"
+    },
+    {
+     "text": "V. Complete the sentence appropriately. (1 Mark)\nThe author wants to stress the fact that there is not just one type of beneficial bacteria considered as probiotic, in fact, some probiotics have ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "dozens of strains"
+    },
+    {
+     "text": "VI. Based on the reading of the passage, examine in about 40 words, the importance of prebiotics for the human gut and how they are related to probiotics. (2 Marks)",
+     "marks": 2,
+     "options": null,
+     "answer": "Prebiotics are crucial for gut health as they serve as food for beneficial microbes (probiotics). These undigestible fibers ensure the growth and activity of probiotics, which in turn maintain a balanced gut microbiome and overall health."
+    },
+    {
+     "text": "VII. As a consumer, if you want to pick a probiotic product, what is the most important thing to keep in mind?\nPick the best answer. (1 Mark)",
+     "marks": 1,
+     "options": [
+      "A. Any fermented product that contains probiotics.",
+      "B. Checking the label for specific strains of bacteria.",
+      "C. All products under \"probiotics\" section in a grocery store are safe to pick.",
+      "D. Checking the label which clearly says \"probiotics\" is sufficient."
+     ],
+     "answer": "(B) Checking the label for specific strains of bacteria."
+    },
+    {
+     "text": "VIII. \"Despite their importance for the gut microbiome, the health benefits of these 'biotics', which are present in certain foods or result from their metabolism, extend beyond the digestive tract.\" (1 Mark)\nAs per this statement from the passage, how relevant are the 'biotics' for humans?\nPick the best answer.",
+     "marks": 1,
+     "options": [
+      "A. Their relevance has been proven by scientific evidence.",
+      "B. Not very relevant as more study is needed.",
+      "C. Their relevance cannot be generalised for everyone.",
+      "D. Only probiotics are relevant for humans."
+     ],
+     "answer": "(A) Their relevance has been proven by scientific evidence."
+    }
+   ],
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q1"
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "origin": "variant",
+   "basis": "Paper_05 Q2",
+   "basis_question": {
+    "no": 2,
+    "section": "A",
+    "marks": 10,
+    "type": "reading",
+    "chapter": "SKILL_Reading",
+    "text": "1. Electric vehicles (EV) market is growing rapidly all over the world. In India also the EV market has gained significant momentum. It has grown more after the implementation of FAME (Faster Adoption and Manufacture of Hybrid and Electric Vehicles) scheme in 2015 by Ministry of Heavy Industry and Public Enterprises.\n2. Electric vehicles are solutions to be independent and free from imported energy resources. Electric cars can bring a major change to India in becoming self-sustainable. EV could also be the alternative to decrease carbon dioxide gas. Carbon dioxide from automobiles is one of the causes of air pollution.\n3. An EV can be used for flexible load, for standardizing the grid with substantial share of fluctuating renewable energy generation. EV emits 30-80% less greenhouse gas when compared with Internal Combustion Engine (ICE) vehicle. EVs do not consume any energy when it is stationary as compared to ICE vehicles where fuel is consumed when it is idle. EV is recognised as promising alternatives to vehicles and will potentially replace ICE vehicles in the near future\n4. The electric vehicles have low emissions, high efficiency and smooth operation. The energy consumption and emissions for plug in hybrid electric vehicles found that compared to gasoline vehicles there is 37.5% less energy consumption and 35% less greenhouse gas emissions.\nThe government have started financial policies to encourage EV adoption; however, decision makers have to plan a long-term perspective to get them implemented efficiently.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "What does the phrase 'gained significant momentum' in paragraph (1) tell us about the impact of EV market?",
+      "marks": 1,
+      "options": [
+       "(A) It is momentarily important",
+       "(B) It has developed very quickly",
+       "(C) It has gained profit",
+       "(D) It has to develop a significant market"
+      ],
+      "answer": "(B) It has developed very quickly."
+     },
+     {
+      "text": "Select the option that is true for the Assertion and Reason given below:\nAssertion: Electric vehicles can bring a major change to India.\nReason: It can bring India to becoming self-sustainable.",
+      "marks": 1,
+      "options": [
+       "(A) Both the Assertion and Reason are true and the Reason is the correct explanation of the Assertion.",
+       "(B) Both the Assertion and Reason are true but the Reason is not the correct explanation of the Assertion.",
+       "(C) The Assertion is true, but the Reason is false.",
+       "(D) The Assertion is false, but the Reason is true."
+      ],
+      "answer": "(A) Both the Assertion and Reason are true and the Reason is the correct explanation of the Assertion."
+     },
+     {
+      "text": "Give two benefits of using Electric vehicles over Internal Combustion Engine vehicles.",
+      "marks": 2,
+      "options": null,
+      "answer": "- EVs do not consume any energy when stationary compared to ICE\n- EVs emit 30-80% less GHGs than ICE\n- EVs reduce GHGs\n- EVs are energy efficient (any two)"
+     },
+     {
+      "text": "With reference to the passage, the word 'idle' in paragraph (3) most nearly means ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "Stationary / parked / not in use / not running / immobile (any one)"
+     },
+     {
+      "text": "How do electric vehicles contribute to diminishing a country's reliance on imported energy?",
+      "marks": 1,
+      "options": null,
+      "answer": "By making India self-sufficient"
+     },
+     {
+      "text": "Read the given prompt and select the correct option in the brackets to fill in the blank:\nEV could be the alternative to ________ (enhance/reduce) the carbon dioxide gas emission.",
+      "marks": 1,
+      "options": [
+       "enhance",
+       "reduce"
+      ],
+      "answer": "Reduce"
+     },
+     {
+      "text": "Give evidence from the passage to show that government is encouraging the use of Electric Vehicles.",
+      "marks": 1,
+      "options": null,
+      "answer": "FAME Policy / to encourage EV adoption (financial policies)"
+     },
+     {
+      "text": "Complete the sentence suitably:\nThe result of the implementation of FAME (Faster Adoption and Manufacture of Electric vehicles) is ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "EV market gaining momentum"
+     },
+     {
+      "text": "Complete the following with a suitable reason:\nThe long-term perspective by decision makers is to ensure ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "That policies (financial, etc.) are implemented efficiently."
+     }
+    ],
+    "paper": "Paper_05"
+   },
+   "text": "Read the following passage carefully:\n\n1. Millets, once the staple of rural households across India, are making a comeback on urban dining tables. These small-seeded grasses, which include ragi, jowar and bajra, were gradually replaced by rice and wheat after the Green Revolution, when irrigation and government support favoured those two crops. The United Nations declared 2023 the International Year of Millets, a proposal that India, the world's largest producer, had led.\n\n2. Millets are climate-smart crops. They grow with very little water, tolerate poor soils and need few chemical fertilisers. A farmer in a dry region can raise a crop of ragi with a fraction of the water that paddy demands, which makes millets a dependable choice at a time when rainfall is increasingly uncertain.\n\n3. Nutritionally too, millets stand out. They are rich in fibre, iron, calcium and protein, and they release sugar into the blood slowly, which helps people to manage diabetes. Since they contain no gluten, they also suit those who cannot digest wheat. Nutritionists therefore urge families to include millets in at least one meal a day.\n\n4. Yet challenges remain. Many consumers find millets difficult to cook, and processing the grain is laborious. Several states have begun to include millets in school meals and the public distribution system, and food entrepreneurs are launching ready-to-eat products such as cookies and noodles. If such efforts continue, millets may reclaim their place on every plate and help farmers to earn a steady income.",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "What does the phrase 'making a comeback' in paragraph (1) tell us about millets?",
+     "marks": 1,
+     "options": [
+      "(A) They are being sold in new markets only",
+      "(B) They have been invented recently",
+      "(C) They are becoming popular again",
+      "(D) They are being exported to other countries"
+     ],
+     "answer": "(C) They are becoming popular again."
+    },
+    {
+     "text": "Select the option that is true for the Assertion and Reason given below:\nAssertion: Millets are described as climate-smart crops.\nReason: They grow with little water and need few chemical fertilisers.",
+     "marks": 1,
+     "options": [
+      "(A) Both the Assertion and Reason are true and the Reason is the correct explanation of the Assertion.",
+      "(B) Both the Assertion and Reason are true but the Reason is not the correct explanation of the Assertion.",
+      "(C) The Assertion is true, but the Reason is false.",
+      "(D) The Assertion is false, but the Reason is true."
+     ],
+     "answer": "(A) Both the Assertion and Reason are true and the Reason is the correct explanation of the Assertion."
+    },
+    {
+     "text": "Give two nutritional benefits of millets.",
+     "marks": 2,
+     "options": null,
+     "answer": "Any two: they are rich in fibre, iron, calcium and protein; they release sugar slowly into the blood, so they help to manage diabetes; they are gluten-free, so those who cannot digest wheat can eat them. (1 mark each)"
+    },
+    {
+     "text": "With reference to the passage, the word 'laborious' in paragraph (4) most nearly means ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "Any one: requiring much effort / hard / tiring / strenuous / time-consuming."
+    },
+    {
+     "text": "Why were millets gradually replaced by rice and wheat after the Green Revolution?",
+     "marks": 1,
+     "options": null,
+     "answer": "Because irrigation and government support favoured rice and wheat (not millets)."
+    },
+    {
+     "text": "Read the given prompt and select the correct option in the brackets to fill in the blank:\nMillets are a ________ (reliable/uncertain) choice for farmers in dry regions.",
+     "marks": 1,
+     "options": [
+      "reliable",
+      "uncertain"
+     ],
+     "answer": "reliable"
+    },
+    {
+     "text": "Give evidence from the passage to show that efforts are being made to bring millets back into use.",
+     "marks": 1,
+     "options": null,
+     "answer": "Any one: several states have included millets in school meals and the public distribution system; entrepreneurs are launching ready-to-eat millet products; the UN declared 2023 the International Year of Millets."
+    },
+    {
+     "text": "Complete the sentence suitably:\nIndia's role in the International Year of Millets was that it ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "led the proposal (to the United Nations) / is the world's largest producer of millets."
+    },
+    {
+     "text": "Complete the following with a suitable reason:\nNutritionists urge families to eat millets in at least one meal a day because ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "Any one: millets are rich in fibre, iron, calcium and protein / help manage diabetes / are gluten-free."
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Same pattern as the basis: nine sub-questions (1+1+2+1+1+1+1+1+1 = 10 marks)."
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "origin": "variant",
+   "basis": "Paper_08 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "B",
+    "marks": 10,
+    "type": "grammar",
+    "chapter": "SKILL_Grammar",
+    "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "or": null,
+    "subparts": [
+     {
+      "text": "i. Fill in the blank by using the correct form of the word in the bracket, for the given portion of a letter:\nTo ensure that this project gains strength, schools may ________ (organize) puppet shows and street plays.",
+      "marks": 1,
+      "options": null,
+      "answer": "organize"
+     },
+     {
+      "text": "ii. Identify the error and supply the correction for the following advertisement of a software.\nThis product handles the basics and then goes beyond that with a collection of additional security features that must take on many security breaches and win.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n| | |",
+      "marks": 1,
+      "options": null,
+      "answer": "Error: must; Correction: will"
+     },
+     {
+      "text": "iii. Report the dialogue between Dolly and Mrs Diaz, by completing the sentence:\nDolly: Have you seen Lee?\nMrs Diaz: No, I haven't seen him since lunchtime.\nIn response to the question about where Lee was, Mrs Diaz says that ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "she hasn't seen him since lunchtime."
+     },
+     {
+      "text": "iv. Read the dialogue between Karan and his teacher regarding his absence from school.\nTeacher: Karan, why were you absent yesterday?\nKaran: Yesterday I had cold and fever, sir. I couldn't inform you beforehand.\nTeacher: That's okay. Take care of your health.\nSelect the correct option to complete the reporting of the above dialogue.\nThe teacher asked Karan _________.\nKaran replied that he had cold and fever the previous day and added that he couldn't inform the teacher beforehand. The teacher advised him to take care of his health.",
+      "marks": 1,
+      "options": [
+       "a) why was he absent yesterday",
+       "b) why did he remain absent the previous day",
+       "c) why he had been absent the previous day",
+       "d) the reason he was absent"
+      ],
+      "answer": "(a) why was he absent yesterday"
+     },
+     {
+      "text": "v. Fill in the blank by choosing the correct option.\nHe is an expert on languages, but he knows _________ (a lot of / little / a few) about mathematics.",
+      "marks": 1,
+      "options": null,
+      "answer": "little"
+     },
+     {
+      "text": "vi. Identify the error and supply correction for the given sentence from a technology company's product description.\nOur latest software solution is designed for help businesses streamline their operations.\n| Error | Correction |\n|---|---|\n| | |",
+      "marks": 1,
+      "options": null,
+      "answer": "Error: for help; Correction: to help"
+     },
+     {
+      "text": "vii. Select the option that identifies the error and supplies the correction for the following line, from the headline of a news report:\nTWO CHILD DIE AFTER MASSIVE FIRE BREAKS OUT IN TIRUPATI\n| Option no. | Error | Correction |\n|---|---|---|\n| A | child | children |\n| B | die | dies |\n| C | breaks | break |\n| D | in | at |",
+      "marks": 1,
+      "options": [
+       "A: child -> children",
+       "B: die -> dies",
+       "C: breaks -> break",
+       "D: in -> at"
+      ],
+      "answer": "(A) child - children"
+     },
+     {
+      "text": "viii. Next weekend, I _____my proficiency exam, so I _____ more or less 300 questions so far.",
+      "marks": 1,
+      "options": [
+       "a) am to have /will have finished",
+       "b) am going to have / finished",
+       "c) am having / will have finished",
+       "d) am to have / finish"
+      ],
+      "answer": "(b) am going to have / finished"
+     },
+     {
+      "text": "ix. Report the dialogue between a mother and her son, by completing the sentence:\nMother: Why are you late from school, Amit?\nAmit: While coming from school to the bus stop, I slipped by stepping on a banana peel.\nIn response to the question about being late from school, Amit says that ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "while coming from school to the bus stop he slipped by stepping on a banana peel."
+     },
+     {
+      "text": "x. The Captain said to his men, \"Stand at ease\".\nReported speech: ________",
+      "marks": 1,
+      "options": [
+       "a) The Captain wanted his men to stand at ease.",
+       "b) The Captain told his men that they should stand at ease.",
+       "c) The Captain urged his men to stand at ease.",
+       "d) The Captain commanded his men to stand at ease."
+      ],
+      "answer": "(d) The Captain commanded his men to stand at ease."
+     },
+     {
+      "text": "xi. Complete the line from a self-awareness song, by filling the blank with the correct option.\nSticks and stones may break my bones,\nBut words can also hurt me\nStones and sticks ________ only skin,\nwhile words ________ ghosts that haunt me.",
+      "marks": 1,
+      "options": [
+       "A. break, are",
+       "B. broke, were",
+       "C. broken, are",
+       "D. are breaking, are"
+      ],
+      "answer": "A. break, are (the lines are in the present state)"
+     },
+     {
+      "text": "xii. Identify the error and supply the correction, for the following:\nVACCINATE YOURSELF TO COMBAT CORONA\nNo prior appointment required, Walk-in & get your jab\nFacility are available for 18 years and above\nHealth Department, Chandigarh Administration\nUse the given format for your response.\n| error | correction |\n|---|---|\n| | |",
+      "marks": 1,
+      "options": null,
+      "answer": "Error: are; Correction: is"
+     }
+    ],
+    "note": "Twelve 1-mark tasks are printed; any ten are to be attempted (10 marks). In the PDF the option lists of iv, viii and x are displaced; they are placed with their questions here.",
+    "paper": "Paper_08"
+   },
+   "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "i. Fill in the blank by using the correct form of the word in the bracket, for the given portion of a letter:\nTo ensure that the cleanliness drive succeeds, residents must ________ (segregate) dry and wet waste.",
+     "marks": 1,
+     "options": null,
+     "answer": "segregate"
+    },
+    {
+     "text": "ii. Identify the error and supply the correction for the following advertisement of a fitness app.\nOur new app tracks your steps, monitors your sleep and gives you a personalised plan that will helps you stay healthy.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: helps; Correction: help"
+    },
+    {
+     "text": "iii. Report the dialogue between Meera and Mr Rao, by completing the sentence:\nMeera: Have you finished the project?\nMr Rao: No, I haven't started it yet.\nIn response to the question about the project, Mr Rao says that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "he hasn't started it yet."
+    },
+    {
+     "text": "iv. Read the dialogue between a Principal and a student regarding the student's absence from the assembly.\nPrincipal: Why did you not attend the assembly today?\nStudent: I was waiting for my bus, ma'am. It broke down on the way.\nPrincipal: Make sure you leave earlier tomorrow.\nSelect the correct option to complete the reporting of the above dialogue.\nThe Principal asked the student _________.\nThe student replied that he had been waiting for his bus and added that it had broken down on the way. The Principal advised him to make sure he left earlier the next day.",
+     "marks": 1,
+     "options": [
+      "a) why he did not attend the assembly that day",
+      "b) why did he not attend the assembly today",
+      "c) why he has not attended the assembly today",
+      "d) the reason he did not attend the assembly"
+     ],
+     "answer": "(a) why he did not attend the assembly that day"
+    },
+    {
+     "text": "v. Fill in the blank by choosing the correct option.\nThere is ________ (few / a little / many) milk left in the jug, so we can make only one cup of tea.",
+     "marks": 1,
+     "options": null,
+     "answer": "a little"
+    },
+    {
+     "text": "vi. Identify the error and supply the correction for the given sentence from a school circular.\nThe committee has decided for organise a blood donation camp in the school.\n| Error | Correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: for organise; Correction: to organise"
+    },
+    {
+     "text": "vii. Select the option that identifies the error and supplies the correction for the following line, from the headline of a news report:\nTHREE WORKER INJURED AFTER ROOF COLLAPSES AT SITE\n| Option no. | Error | Correction |\n|---|---|---|\n| A | worker | workers |\n| B | injured | injures |\n| C | collapses | collapse |\n| D | at | on |",
+     "marks": 1,
+     "options": [
+      "A: worker -> workers",
+      "B: injured -> injures",
+      "C: collapses -> collapse",
+      "D: at -> on"
+     ],
+     "answer": "(A) worker - workers"
+    },
+    {
+     "text": "viii. By the time the guests arrive tomorrow, we _____ the entire house, and mother _____ dinner for two hours.",
+     "marks": 1,
+     "options": [
+      "a) will have cleaned / will have been cooking",
+      "b) will clean / has cooked",
+      "c) have cleaned / will cook",
+      "d) are cleaning / cooked"
+     ],
+     "answer": "(a) will have cleaned / will have been cooking"
+    },
+    {
+     "text": "ix. Report the dialogue between a mother and her son, by completing the sentence:\nMother: Why have you not done your homework, Rohan?\nRohan: I was feeling unwell the whole afternoon.\nIn response to the question about the homework, Rohan says that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "he was feeling unwell the whole afternoon."
+    },
+    {
+     "text": "x. The teacher said to the class, \"Please submit your notebooks tomorrow.\"\nReported speech: ________",
+     "marks": 1,
+     "options": [
+      "a) The teacher told the class that they should submit their notebooks the next day.",
+      "b) The teacher requested the class to submit their notebooks the next day.",
+      "c) The teacher wanted to know if the class would submit their notebooks.",
+      "d) The teacher said that the class submitted their notebooks the next day."
+     ],
+     "answer": "(b) The teacher requested the class to submit their notebooks the next day."
+    },
+    {
+     "text": "xi. Complete the lines from a poem about a river, by filling the blanks with the correct option.\nA river ________ its course through hills and plains,\nYet its waters ________ the sea in the end.",
+     "marks": 1,
+     "options": [
+      "A. cuts, reach",
+      "B. cut, reaches",
+      "C. is cutting, reached",
+      "D. cutting, reach"
+     ],
+     "answer": "A. cuts, reach (the lines state general truths in the simple present; the plural subject 'waters' takes 'reach')"
+    },
+    {
+     "text": "xii. Identify the error and supply the correction, for the following:\nANNUAL BOOK FAIR\nEntry are free for students and parents\nTimings: 10 a.m. to 5 p.m.\nLibrary Committee, Government Senior Secondary School\nUse the given format for your response.\n| error | correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: are; Correction: is"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Twelve 1-mark tasks are printed; any ten are to be attempted (10 marks)."
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "You have been involved with an NGO, 'VERDICT' working in the field of education. In July 2012, your organisation admitted 150 students, who were engaged in other activities, in the Govt, and public schools under RTEA-2009. Write a letter to the editor of a newspaper relating your experience and suggesting what more could be done in the field of education. You are Ankit/Ankita living at 'Nehru Vihar', New Delhi.",
+   "options": null,
+   "figure": null,
+   "answer": "15, Nehru Vihar,\nDelhi\n17th August 20XX\nThe Editor,\nThe Hindustan Times,\nDelhi\nSir,\nSubject: Importance of Education\nEducation plays an important role in our lives because it is true that education is key to success without education nothing is possible in the world. It plays a significant role in the development of our society. Education brings many changes to our society. If we want to develop our society, then we should get an education. I have been involved with an NGO called 'Verdict' for the past two years. Our core field of work is to spread awareness about the importance of education and to provide education. In July 2012, we got 150 students admitted in Government and public schools under the provisions of RTEA-2009.\nMy experience with the NGO has been an overwhelming one, yet an eye-opening one too. A lot still needs to be done if we want our country to develop and progress. One possible solution to this situation is to make it compulsory for 'Each One to Teach One.' Along with this, if the schools are compelled to turn to afternoon classes and provide education to the lower strata people at subsidized fees, the problem would be solved to a great extent.\nThus, I say that it is time to get education for making our futures more and brighter in the coming generation.\nThank you.\nYours sincerely,\nAnkita.",
+   "or": {
+    "chapter": "SKILL_Writing",
+    "text": "You are Sudha/Sudhir, Principal of Vasant School, Agra. Your school has started a Music Department. Write a letter to the Manager of Melody House, M.G. Road, Agra, wholesale suppliers of musical instruments, placing a detailed order for five musical instruments for the school. Ask for a discount on the catalogue price.",
+    "options": null,
+    "figure": null,
+    "answer": "Principal\nPrincipal of Vasant School\nAgra\n29 March, 2022\nThe Manager\nMelody House\nM.G. Road\nAgra\nSubject: Placing order for musical instruments\nSir/Madam\nI am writing to place an order for musical instruments for the newly established Music Department at Vasant School, Agra. We have heard great things about the quality of instruments that you supply and would like to order five different types of instruments for our students. The instruments that we would like to order are as follows:\n1. Two acoustic guitars (model no. A-1)\n2. One keyboard (model no. K-3)\n3. One drum set (model no. D-5)\n4. One violin (model no. V-2)\nWe are looking for high-quality instruments that will last our students for years to come, and we believe that your instruments will provide the best value for our investment. We would also appreciate it if you could provide us with a discount on the catalogue price, as we are ordering a bulk quantity of instruments.\nPlease let us know the availability of the instruments and the estimated time of delivery. Additionally, we would like to request a warranty on the instruments, so we would appreciate it if you could provide us with the details on that as well.\nThank you for your attention to this matter, and we look forward to hearing back from you soon.\nSincerely,\nSignature\n(Sudha/Sudhir)",
+    "subparts": null
+   },
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q4"
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "origin": "ncert",
+   "text": "Read the product details mentioned on an online shopping website for a foldable solar-powered study lamp.\n\n- Charges in three to four hours of sunlight and works for ten hours on a full charge\n- Three brightness levels and a flexible neck to direct the light\n- Foldable, lightweight body that fits easily into a school bag\n- Made of recycled plastic with a water-resistant finish\n- Built-in battery indicator and a USB port to charge a phone\n- Comes in three colours and carries a two-year warranty\n\nNow, analyse why this lamp would be a good purchase for students. Write an analytical paragraph in about 120 words, considering factors such as its sustainability, convenience, utility, durability and student appeal.",
+   "options": null,
+   "answer": "Marking: Content-2, Organisation of ideas-2, Accuracy-1. Analytical paragraph carries no title or heading and must not be a mere description or summary. Suggested response: The foldable solar-powered study lamp is an excellent purchase for students. Firstly, it runs on sunlight, which saves electricity and makes it a sustainable choice, and its body of recycled plastic shows concern for the environment. Secondly, it is convenient: it is light, folds easily and slips into a school bag, so a student can study anywhere, even during a power cut. Moreover, the three brightness levels and the flexible neck let the user direct the light as needed and reduce strain on the eyes. The battery indicator and the USB port add to its usefulness, while the water-resistant finish and the two-year warranty assure durability. Finally, its attractive colours appeal to young users, making it a smart investment.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "marks": 5,
+    "chapter": "SKILL_Writing",
+    "figure": null,
+    "options": null,
+    "text": "Meera, a student of Grade X, has been invited to become the Secretary of her school's Eco Club, which needs about 5 hours of her time every week. Study the SWOT notes and write an analytical paragraph in 100-120 words to evaluate whether she should accept the responsibility.\n\n| Strengths | Weaknesses | Opportunities | Threats |\n|---|---|---|---|\n| Builds leadership and organisational skills | Takes time away from study and revision | Chance to represent the school in district-level environment contests | Clash of club events with pre-board examinations |\n| Gives a chance to work with like-minded friends | Needs regular coordination with many members | Opportunity to work with local NGOs and municipal bodies | Risk of tiredness from balancing many duties |\n| Guidance from the teacher in charge and senior members | Leaves less time for hobbies and rest | A strong addition to her profile for future courses | Possible disagreement among club members |",
+    "answer": "Marking: Content-2, Organisation of ideas-2, Accuracy-1. Suggested response: Accepting the post of Secretary of the Eco Club would be advisable for Meera, provided she plans her time carefully. The role will build her leadership and organisational skills, and the guidance of the teacher in charge and senior members will support her. It also offers valuable opportunities, such as representing the school in district-level contests and working with NGOs and municipal bodies, which will strengthen her profile for future courses. However, she must not ignore the threats. The weekly commitment of five hours, the clash of events with pre-board examinations and the risk of exhaustion could affect her studies. If she schedules her revision first and shares work with other members, the benefits will outweigh the risks.",
+    "subparts": null
+   },
+   "note": "Writing (analytical paragraph) with internal choice, like the official paper's Q5: attempt either the main question or the OR."
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch12_Footprints_The_Midnight_Visitor",
+   "origin": "ncert",
+   "text": "Read the given situations from 'The Midnight Visitor' (A and B) and answer the questions for ANY ONE of the two.\n\nA\nFowler, a young man who dreams of becoming a writer, has been invited to the hotel room of the mysterious Mr Ausable, who calmly describes himself as a secret agent and speaks of a dangerous visitor expected that night. (The Midnight Visitor)",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "Which of the following best describes Fowler's attitude when he first meets Ausable?",
+     "marks": 1,
+     "options": [
+      "(a) He is curious and thrilled by the idea of adventure.",
+      "(b) He is bored and wants to leave at once.",
+      "(c) He is angry that he has been called to the room.",
+      "(d) He is afraid and phones the police."
+     ],
+     "answer": "(a) He is curious and thrilled by the idea of adventure (Fowler is a young, imaginative writer who longs for excitement to write about).",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "State whether the following statement is True or False:\nAusable gives the impression of being nervous and unprepared for the visitor.",
+     "marks": 1,
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": "False - he appears calm, confident and well prepared; he plans cleverly to deal with the visitor.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "Complete the sentence suitably:\nThe title of the lesson, 'The Midnight Visitor', is apt because ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "Any one: the story is built around a visitor who comes at night to the hotel room to take the secret papers, and the suspense centres on that midnight meeting.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "Which qualities of Ausable help him in his work as an agent? Support your answer with any two qualities.",
+     "marks": 2,
+     "options": null,
+     "answer": "Ausable is calm, cool-headed and quick-witted; he is resourceful and clever at planning, and so he can deal with danger and outwit the enemy. (Any two qualities with brief justification, 1 mark each)",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    }
+   ],
+   "figure": null,
+   "or": {
+    "marks": 5,
+    "chapter": "Ch12_Footprints_The_Midnight_Visitor",
+    "figure": null,
+    "options": null,
+    "text": "B\nAt the close of the story, Fowler learns that the 'agent' with whom he spent the night had much more imagination and cleverness than he had thought. (The Midnight Visitor)",
+    "answer": "(see sub-questions)",
+    "subparts": [
+     {
+      "text": "How does the ending of the story affect Fowler's opinion of Ausable?",
+      "marks": 1,
+      "options": [
+       "(a) He decides that Ausable is dull and ordinary.",
+       "(b) He realises that Ausable is far cleverer and more inventive than he had imagined.",
+       "(c) He feels that Ausable is a dangerous criminal.",
+       "(d) He feels that Ausable has deserted him."
+      ],
+      "answer": "(b) He realises that Ausable is far cleverer and more inventive than he had imagined.",
+      "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+     },
+     {
+      "text": "State whether the following statement is True or False:\nFowler, as a would-be writer, is someone who values imagination.",
+      "marks": 1,
+      "options": [
+       "True",
+       "False"
+      ],
+      "answer": "True - Fowler wants to be a writer, and the story shows him drawn to adventure and ideas.",
+      "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+     },
+     {
+      "text": "Complete the sentence suitably:\nThe story is a good example of suspense because the reader ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "Any one: is kept guessing who the visitor is and what will happen until the end / does not know the truth about Ausable's plan until the surprise ending.",
+      "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+     },
+     {
+      "text": "'Things are not always what they seem.' How is this true of 'The Midnight Visitor'? Answer in about 40 words.",
+      "marks": 2,
+      "options": null,
+      "answer": "At first Ausable appears to be a secret agent in danger, and the night looks as if it will end in violence. The ending shows that his calm and clever planning have been behind everything, so the surprise ending proves that first impressions can deceive. (Any suitable answer, 2 marks)",
+      "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+     }
+    ]
+   },
+   "note": "Attempt any one of A / B (5 marks). Situations are described in own words (no verbatim quotation) to keep to facts of the lesson."
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch25_The_Trees",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\ni. Read the lines given below and answer the questions that follow:\nThe trees inside are moving out into the forest,\nthe forest that was empty all these days\nWhere no bird could sit\nno insect hide\nno sun bury its feet in shadow.",
+   "subparts": [
+    {
+     "text": "i. Complete the sentence appropriately. (1)\nIt is clear that Personification is the poetic device used for 'No sun bury its feet....' because (Clue: explain how personification applies here)",
+     "marks": 1,
+     "options": null,
+     "answer": "the sun, which is non-human, is attributed the human feature of having feet.",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "ii. State whether the following statement is True or False: (1)\nThe extract uses trees as a symbol for conservative people.",
+     "marks": 1,
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": "False - (Trees are symbolic of woman. Adrienne Rich is a feminist poet.)",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "iii. Select the appropriate option to complete the sentence, according to the extract. The idea of a forest that has been 'empty all these days' is ________. (1)",
+     "marks": 1,
+     "options": [
+      "A. unnatural",
+      "B. scary",
+      "C. magical",
+      "D. legendary"
+     ],
+     "answer": "Option A (Trees are an integral part of nature/forest. So, it is unnatural to depict treeless forest.)",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "iv. Which three things cannot happen in a treeless forest? (2)",
+     "marks": 2,
+     "options": null,
+     "answer": "A forest is a natural habitat for numerous birds and insects. When forests are cleared, no bird can make its nest, nor can insects hide in the bark of the trees and there's nothing to shade the area from sunlight.",
+     "chapter": "Ch25_The_Trees"
+    }
+   ],
+   "or": {
+    "chapter": "Ch27_The_Tale_of_Custard_the_Dragon",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "text": "ii. Read the extract given below and answer the questions that follow:\nSuddenly, suddenly they heard a nasty sound,\nAnd Mustard growled, and they all looked around.\nMeowch! cried Ink, and ooh! cried Belinda,\nFor there was a pirate, climbing in the window.",
+    "subparts": [
+     {
+      "text": "i. What can you infer from the repetition 'suddenly, suddenly' in the above extract? (1)",
+      "marks": 1,
+      "options": [
+       "a. There was an immediate change in the scene.",
+       "b. It focuses on the hasty attack and the loud noise.",
+       "c. It emphasises that an unexpected noise was heard.",
+       "d. It draws our attention to the loud cry that occurred."
+      ],
+      "answer": "(c) It emphasises that an unexpected noise was heard.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "ii. What did Mustard do when he heard a nasty sound? (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "Mustard growled when he heard a nasty sound.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "iii. Fill in the blank with one word. The rhyming scheme of the lines ________. (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "The rhyming scheme is a a b b.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "iv. The poet could have included a burglar or an intruder in the poem, but chose to include a pirate. Explain this choice. (2)",
+      "marks": 2,
+      "options": null,
+      "answer": "The poet chose a pirate over any burglar or a thief because a pirate looks evil and nasty. The way his leg crippled as one of them was of wood, pistol in both of his hands and a cutlass between his teeth was scarier than a burglar.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     }
+    ]
+   },
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q7"
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "origin": "variant",
+   "basis": "Paper_02 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "C",
+    "marks": 12,
+    "type": "literature",
+    "chapter": "Ch05_Glimpses_of_India",
+    "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+    "options": null,
+    "figure": null,
+    "answer": "1. Baker's furnace was considered essential in traditional Goan village. The description by the author that all festivals in Goa were incomplete without bakery products - be it marriages, engagements or any other ceremony signify the importance of a baker in the village. Traditional sweet bread, known as 'Bol' was given with marriage gifts. At Christmas 'Bolinhas' and cakes were a must.\n2. Nature holds the profound power to uplift and renew the human spirit, often in the simplest ways. A small, unexpected touch of snow can instantly transform a negative mood, replacing gloom with calm and hope. Such gentle moments reflect nature's ability to influence our emotions, soothe our minds, and enhance overall emotional well-being effortlessly.\n3. The postmaster didn't want to shake Lencho's faith in God. So he decided to help Lencho by sending him some money. He asked the post office employees, relatives and friends, to contribute some amount for this good cause.\n4. Anne wrote her punishment essays creatively, and her humorous poem about the father goose cleverly mocked the situation. Mr. Keesing and the class enjoyed her wit. Impressed by her intelligence and originality, he realised punishing her was pointless and stopped doing so.\n5. Belinda saw a pirate climbing up the window. He had pistols in his hands and a sword in his teeth. It was clear that his intentions were not good. That's why Belinda got scared and cried for help.",
+    "or": null,
+    "subparts": [
+     {
+      "text": "Baker's furnace was considered essential in a traditional Goan village. What reasons does the writer give to support his point?",
+      "marks": 3,
+      "options": null,
+      "answer": "Baker's furnace was considered essential in traditional Goan village. The description by the author that all festivals in Goa were incomplete without bakery products - be it marriages, engagements or any other ceremony signify the importance of a baker in the village. Traditional sweet bread, known as 'Bol' was given with marriage gifts. At Christmas 'Bolinhas' and cakes were a must.",
+      "chapter": "Ch05_Glimpses_of_India"
+     },
+     {
+      "text": "'Dust of Snow' highlights the poet's positive attitude towards nature. Comment on how Robert Frost presents the power of nature in his poem. (Dust of Snow)",
+      "marks": 3,
+      "options": null,
+      "answer": "Nature holds the profound power to uplift and renew the human spirit, often in the simplest ways. A small, unexpected touch of snow can instantly transform a negative mood, replacing gloom with calm and hope. Such gentle moments reflect nature's ability to influence our emotions, soothe our minds, and enhance overall emotional well-being effortlessly.",
+      "chapter": "Ch19_Dust_of_Snow"
+     },
+     {
+      "text": "How did the postmaster help Lencho?",
+      "marks": 3,
+      "options": null,
+      "answer": "The postmaster didn't want to shake Lencho's faith in God. So he decided to help Lencho by sending him some money. He asked the post office employees, relatives and friends, to contribute some amount for this good cause.",
+      "chapter": "Ch01_A_Letter_to_God"
+     },
+     {
+      "text": "Why did Mr. Keesing decide to stop punishing Anne? (From the Diary of Anne Frank)",
+      "marks": 3,
+      "options": null,
+      "answer": "Anne wrote her punishment essays creatively, and her humorous poem about the father goose cleverly mocked the situation. Mr. Keesing and the class enjoyed her wit. Impressed by her intelligence and originality, he realised punishing her was pointless and stopped doing so.",
+      "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+     },
+     {
+      "text": "Why did Belinda cry for help?",
+      "marks": 3,
+      "options": null,
+      "answer": "Belinda saw a pirate climbing up the window. He had pistols in his hands and a sword in his teeth. It was clear that his intentions were not good. That's why Belinda got scared and cried for help.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     }
+    ],
+    "note": "Attempt any 4 of 5 (3 marks each); subpart marks total 15 but question carries 12.",
+    "paper": "Paper_02"
+   },
+   "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "The people of Coorg are described as brave and proud. What special features of the Kodavus does the writer mention? (Glimpses of India)",
+     "marks": 3,
+     "options": null,
+     "answer": "The Kodavus of Coorg are a martial people, proud of their courage. They are the only community in India permitted to carry firearms without a licence. They are known for their hospitality and bravery, and Coorg has given the country brave soldiers; General Cariappa, the first Indian Chief of the Army, came from Coorg.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "How did the crow change the mood of the poet? Why did the poet feel that he had 'saved' a part of the day? (Dust of Snow)",
+     "marks": 3,
+     "options": null,
+     "answer": "The poet was sad and full of regret. A crow shook down a dust of snow from a hemlock tree on him. This unexpected touch changed his mood, he felt cheerful and lively, and so part of a day he had regretted was saved from being wasted.",
+     "chapter": "Ch19_Dust_of_Snow"
+    },
+    {
+     "text": "Why was Lencho angry on opening the envelope sent by the postmaster? What did he do? (A Letter to God)",
+     "marks": 3,
+     "options": null,
+     "answer": "Lencho had asked God for one hundred pesos, but the envelope contained only seventy. He believed that God could not make a mistake and so thought the post-office employees had stolen the rest. He wrote a second letter to God, asking Him not to send the money through the mail.",
+     "chapter": "Ch01_A_Letter_to_God"
+    },
+    {
+     "text": "What was Anne's argument in her first essay on the topic 'A Chatterbox'? (From the Diary of Anne Frank)",
+     "marks": 3,
+     "options": null,
+     "answer": "Mr Keesing punished Anne for talking in class by asking her to write an essay on 'A Chatterbox'. Anne argued that talking is a student's trait and she would try to keep it within limits, but she could never be cured because her mother talked as much as she did and one cannot change an inherited trait.",
+     "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+    },
+    {
+     "text": "The others in the house called Custard a coward. How did Custard finally prove them wrong? (The Tale of Custard the Dragon)",
+     "marks": 3,
+     "options": null,
+     "answer": "Belinda, Ink, Blink and Mustard were all brave, while Custard cried for a nice safe cage. When a pirate climbed in and the others hid in fear, Custard rushed at him and swallowed him whole. He thus proved himself brave and saved all.",
+     "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Attempt any 4 of 5 (3 marks each); subpart marks total 15 but question carries 12."
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "origin": "ncert",
+   "text": "Answer any two of the following three questions, in about 40-50 words.  (2 x 3 = 6)",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "What steps did Herriot take to help Tricki recover at the surgery? (A Triumph of Surgery)",
+     "marks": 3,
+     "options": null,
+     "answer": "Herriot took Tricki away from Mrs Pumphrey's pampering and put him on a strict diet with no rich food. He gave him exercise and let him mix with the other dogs in the surgery. Within a short time Tricki became active and healthy again.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "Mrs Pumphrey's love for Tricki was misplaced. Support the statement with two examples from the lesson. (A Triumph of Surgery)",
+     "marks": 3,
+     "options": null,
+     "answer": "Mrs Pumphrey overfed Tricki with rich food like cream cakes and chocolates and spoiled him with too much pampering and comfort. As a result he became fat, lazy and ill. Her excess care harmed rather than helped him.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "Why is the lesson titled 'A Triumph of Surgery' although no operation is performed on Tricki? (A Triumph of Surgery)",
+     "marks": 3,
+     "options": null,
+     "answer": "Mrs Pumphrey, grateful for the cure, thought Herriot had saved Tricki by a great surgical feat. In fact, Tricki recovered only because of a strict diet and exercise, so the title is humorous and ironic and shows how an owner's wrong beliefs led her to praise the vet.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Three 3-mark questions are printed; any two are to be attempted (6 marks)."
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "text": "In a parallel world, the pilot of the black aeroplane narrates his adventure in a story titled The Old Dakota. You come across an excerpt from the story, which responds to the ending questions of Black Aeroplane and describes the black aeroplane pilot's decision to fly away after watching the Dakota land. Compose the said excerpt of the story employing relevant details from Black Aeroplane.",
+   "options": null,
+   "figure": null,
+   "answer": "The old Dakota\n...I waved the pilot of the old Dakota and gestured him to follow me. Like an obedient child, he started do so. He followed me until he could see the runaway. I was tensed whether he would land safely or not. Because he had already made me understand that he was running short of fuel. I saw him landing safely on the runway. I was relaxed. I felt there was no need to wait. The good deed of the day was done. Once again, I had rescued a plane stuck in storm. So, I decided to fly away from there in search of someone else who may be in need of my help.\nI, as the Marshal of the Air Force, had been using my skills of flying Air planes in the harshest weather since past ten years. Surprising the rescue ones by my mysterious entry and exists.",
+   "or": {
+    "chapter": "Ch24_Amanda",
+    "text": "Read the quote given below carefully. Based on your understanding of the poem, explain how and why this quote can be applied to the poem.\n\"All grown-ups were once children...but only a few of them remember it.\" - Antoine de Saint-Exupery",
+    "options": null,
+    "figure": "fig_p10_0.png",
+    "answer": "It is truly said that 'All grown-ups were once children... but only a few of them remember it.' Bringing up teenagers is truly challenging and fun. Teens can be rebellious and apparently not headed with a highly independent perspective. In such circumstances, yelling at them, and nagging them, as done in the poem with Amanda, will only make matters worse. Forcing decisions on them only make them detached, as we see in Amanda's case, where she wishes to be the alone mermaid, an orphan, or the lonely Rapunzel. Amanda's condition may be witnessed in every child's life. When children are told a long list of do's and don'ts then they feel targeted. Then they start comparing their own life with that of the grown-ups around them be it their own parents, teachers or kids. They feel like shutting off their mind from the outside world. But they should always remember that whatever the parents or teachers are telling is for their good only. Grown-ups can befriend the children but to a certain limits. The habits inculcated in children by their parents will help them in their adult life."
+   },
+   "subparts": null,
+   "note": "Paper: 'Answer ANY ONE of the following two questions, in about 100-120 words'; (i) main, (ii) in 'or'.",
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q10"
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "origin": "variant",
+   "basis": "Paper_03 Q11",
+   "basis_question": {
+    "no": 11,
+    "section": "C",
+    "marks": 6,
+    "type": "literature",
+    "chapter": "Ch16_Footprints_The_Necklace",
+    "text": "Answer ANY ONE of the following two questions, in about 100-120 words.\n\nMadam Forestier writes a diary entry after having met Matilda, knowing the truth and seeing the transformation in her friend. Write a short diary entry as Madam Forestier about your encounter and how you felt. You may begin like this.\n20th July, Monday 9:00 pm\nI couldn't recognise Matilda at all. I wish she had told me the truth about the necklace.",
+    "options": null,
+    "figure": null,
+    "answer": "20th July Monday 9:00 PM\nI couldn't recognise Matilda at all. I wish she had told me the truth about the necklace, which she didn't. I feel so sorry for her. The poor lady had to go through so much just for the sake of one artificial necklace worth 400 francs. I am surprised she hid this all from me fearing I would demand the real price of the necklace from her. Oh! I wish she should have at least spoken to me once, so that I could have got her out of this predicament. My innocent friend, Matilda, whom I love so dearly, had to go through this pain of having lost my necklace in the ball. She during this course of life has become a much tougher person. She no longer is that sweet face of woman she used to be. It clearly pains to see her like this. I would like to help her.\nMadam Forestier",
+    "or": {
+     "text": "Sometimes deception is a way of life. Explain this statement by citing facts from the lesson 'The Thief's Story'.",
+     "options": null,
+     "figure": null,
+     "chapter": "Ch11_Footprints_The_Thiefs_Story",
+     "answer": "For some people, deception is a way to lead life easily. Such people deceive others by changing their own names, identities and making excuses to devise a new way of making money. Anil was the most trustworthy person Hari Singh had ever met. But Hari Singh was a thief and couldn't be expected to be honest with Anil. He came to Anil with a false identity. He took undue advantage of his trust. Anil had blind faith in human nature. He employed him just out of sympathy and compassion for him. He trusted him and ignored his misdeed. He handed over all the financial transactions without any verification. In a way, he gave him a chance to improve. He knew everything when Hari Singh stole money and came back but he didn't say anything. It made Hari Singh realise his mistake and leave the style of deception as a way of life.",
+     "subparts": null
+    },
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words.\n\nMonsieur Loisel returns home in the early hours after the ball and discovers that Matilda has lost Madame Forestier's necklace. Write a short diary entry as Monsieur Loisel describing the events of that night and your feelings. You may begin like this.\n15th January, Tuesday 3:00 am\nI can hardly write. The necklace is lost, and I do not know what to do.",
+   "options": null,
+   "answer": "15th January, Tuesday 3:00 am\nI can hardly write. The necklace is lost, and I do not know what to do. We were leaving the Minister's ball, tired and happy, when Matilda cried out that the diamonds were gone from her neck. We searched her dress, the cloak and the street, and I walked back over the whole way on foot but found nothing. I could only tell her to write to Madame Forestier that the clasp was being mended, to gain time. Poor Matilda is pale with fear, and I cannot bear her sorrow. My savings are small and the loss is heavy. Yet I must be strong, find a jeweller tomorrow and save our name.\nMonsieur Loisel",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch17_Footprints_Bholi",
+    "text": "Bholi's refusal to marry Bishamber marks the final stage of her transformation. Explain this statement by citing facts from the lesson 'Bholi'.",
+    "options": null,
+    "figure": null,
+    "answer": "Bholi, once a shy and stammering girl who was considered unattractive because of her pockmarked face, becomes confident after going to school, where her teacher shows her kindness and she learns to speak. At her wedding, Bishamber demands a dowry from her father, Ramlal. Bholi, who is now bold, refuses to marry such a greedy man who has made her father suffer. She says that she will stay with her old parents, take care of them and teach in the school. Her firm speech shows how education gave her courage and self-respect.",
+    "subparts": null
+   },
+   "note": "Attempt any one of the two (6 marks)."
+  }
+ ]
+}

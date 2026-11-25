@@ -1,0 +1,29 @@
+Maths items 520
+Ch01_Real_Numbers 39 -> 35 questions 66 marks
+Ch02_Polynomials 28 -> 28 questions 59 marks
+Ch03_Pair_of_Linear_Equations_in_Two_Variables 32 -> 32 questions 84 marks
+Ch04_Quadratic_Equations 41 -> 41 questions 119 marks
+Ch05_Arithmetic_Progressions 38 -> 38 questions 86 marks
+Ch06_Triangles 36 -> 35 questions 77 marks
+Ch07_Coordinate_Geometry 40 -> 40 questions 81 marks
+Ch08_Introduction_to_Trigonometry 53 -> 53 questions 102 marks
+Ch09_Some_Applications_of_Trigonometry 31 -> 31 questions 102 marks
+Ch10_Circles 46 -> 45 questions 97 marks
+Ch11_Areas_Related_to_Circles 39 -> 39 questions 66 marks
+Ch12_Surface_Areas_and_Volumes 35 -> 35 questions 114 marks
+Ch13_Statistics 34 -> 34 questions 91 marks
+Ch14_Probability 28 -> 28 questions 37 marks
+test SecA_1mark_MCQ_and_AR 1 80 questions
+test SecA_1mark_MCQ_and_AR 2 80 questions
+test SecA_1mark_MCQ_and_AR 3 70 questions
+test SecB_2mark 1 40 questions
+test SecB_2mark 2 40 questions
+test SecC_3mark 1 28 questions
+test SecC_3mark 2 28 questions
+test SecC_3mark 3 28 questions
+test SecD_5mark 1 16 questions
+test SecD_5mark 2 16 questions
+test SecD_5mark 3 16 questions
+test SecD_5mark 4 16 questions
+test SecE_Case_Based_4mark 1 20 questions
+test SecE_Case_Based_4mark 2 20 questions

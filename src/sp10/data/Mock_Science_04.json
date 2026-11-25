@@ -1,0 +1,1089 @@
+{
+ "subject": "Science",
+ "paper": "Mock_04",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "ncert",
+   "text": "Which of the following shows the correct sequence of the parts through which food passes in the human alimentary canal?",
+   "options": [
+    "Mouth → stomach → oesophagus → small intestine → large intestine",
+    "Mouth → oesophagus → stomach → small intestine → large intestine",
+    "Mouth → oesophagus → small intestine → stomach → large intestine",
+    "Mouth → stomach → small intestine → oesophagus → large intestine"
+   ],
+   "answer": "(b) Mouth → oesophagus → stomach → small intestine → large intestine — food moves from the mouth through the oesophagus to the stomach, then the small intestine (digestion and absorption) and finally the large intestine.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "origin": "variant",
+   "basis": "Paper_09 Q2",
+   "basis_question": {
+    "no": 2,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch08_Heredity",
+    "text": "In an experiment to study independent inheritance of two separate traits : shape and colour of seeds, the ratio of the different combinations in F₂ progeny would be",
+    "options": [
+     "1 : 3",
+     "1 : 2 : 1",
+     "9 : 1 : 1 : 3",
+     "9 : 3 : 3 : 1"
+    ],
+    "figure": null,
+    "answer": "(d) 9 : 3 : 3 : 1",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "A pea plant having round yellow seeds (RRYY) is crossed with a plant having wrinkled green seeds (rryy). The F₁ plants are self-pollinated. The fraction of F₂ plants that will have wrinkled green seeds is",
+   "options": [
+    "$\\frac{1}{16}$",
+    "$\\frac{3}{16}$",
+    "$\\frac{9}{16}$",
+    "$\\frac{1}{4}$"
+   ],
+   "answer": "(a) $\\frac{1}{16}$ — the dihybrid F₂ ratio is 9 : 3 : 3 : 1 (round yellow : round green : wrinkled yellow : wrinkled green); wrinkled green is the double recessive class, 1 out of 16.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "variant",
+   "basis": "Paper_01 Q5",
+   "basis_question": {
+    "no": 5,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch13_Our_Environment",
+    "text": "Steps of a food chain are called:",
+    "options": [
+     "Food steps",
+     "Trophic levels",
+     "Food levels",
+     "Trophic steps"
+    ],
+    "figure": null,
+    "answer": "(b) Trophic levels - each step or level of the food chain forms a trophic level.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "In a food chain, the producers contain 5000 J of energy. According to the 10 per cent law, the energy available to the secondary consumers is",
+   "options": [
+    "500 J",
+    "50 J",
+    "5 J",
+    "2500 J"
+   ],
+   "answer": "(b) 50 J — only about 10% passes to each next level: 5000 J → 500 J (primary consumers) → 50 J (secondary consumers).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "ncert",
+   "text": "Which part of the human brain is mainly responsible for maintaining the posture and balance of the body?",
+   "options": [
+    "Cerebrum",
+    "Medulla oblongata",
+    "Cerebellum",
+    "Pituitary gland"
+   ],
+   "answer": "(c) Cerebellum — the cerebellum, a part of the hind-brain, coordinates voluntary movements, posture and balance; the medulla controls involuntary actions such as blood pressure and vomiting.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "ncert",
+   "text": "Which of the following is a non-biodegradable substance?",
+   "options": [
+    "Vegetable peels",
+    "Jute bag",
+    "DDT",
+    "Cow dung"
+   ],
+   "answer": "(c) DDT — DDT cannot be broken down by decomposers, so it persists in the environment and enters food chains; the others are decomposed by microorganisms.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "ncert",
+   "text": "During sudden vigorous exercise, the muscle cells break down glucose in the absence of sufficient oxygen. The product formed which causes cramps is",
+   "options": [
+    "Ethanol and carbon dioxide",
+    "Lactic acid",
+    "Carbon dioxide and water",
+    "Pyruvate and water"
+   ],
+   "answer": "(b) Lactic acid — in muscle cells, pyruvate is converted to lactic acid (3-carbon compound) when oxygen is deficient; its build-up causes cramps.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "ncert",
+   "text": "Which of the following plant hormones promotes cell division and is found in greater concentration in fruits and seeds?",
+   "options": [
+    "Auxin",
+    "Gibberellin",
+    "Abscisic acid",
+    "Cytokinin"
+   ],
+   "answer": "(d) Cytokinin — cytokinins promote cell division and are abundant in areas of rapid cell division such as fruits and seeds; auxin and gibberellin help in growth, abscisic acid inhibits growth.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "variant",
+   "basis": "Paper_04 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "A",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch07_How_do_Organisms_Reproduce",
+    "text": "Assertion (A): The flowers of papaya is called unisexual flower.\nReason (R): The flower contains stamens only as a sex organ.",
+    "options": [
+     "(a) Both A and R are true and R is the correct explanation of A.",
+     "(b) Both A and R are true but R is not the correct explanation of A.",
+     "(c) A is true but R is false.",
+     "(d) A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(c) A is true but R is false. A unisexual flower has either stamens or carpels only; it is not true that it has only stamens.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Assertion (A): The flowers of papaya are called unisexual flowers.\nReason (R): A unisexual flower contains either stamens or carpels, but not both.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. A unisexual flower has only the male (stamens) or only the female (carpels) part, and this is exactly why papaya flowers are called unisexual.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "ncert",
+   "text": "Assertion (A): The number of trophic levels in a food chain is usually limited to three or four.\nReason (R): About 90% of the energy at each trophic level is passed on to the next trophic level.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "answer": "(c) A is true but R is false. A is true, but R is false: only about 10% of the energy is passed to the next level, so very little energy remains after 3-4 steps to support more levels.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "variant",
+   "basis": "Paper_01 Q10",
+   "basis_question": {
+    "no": 10,
+    "section": "A",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch07_How_do_Organisms_Reproduce",
+    "text": "How will an organism be benefited if it reproduces through spores?",
+    "options": null,
+    "figure": null,
+    "answer": "The spores are covered by thick walls that protect them until they come into contact with a suitable moist surface and can begin to grow.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "State two advantages of vegetative propagation in plants.",
+   "options": null,
+   "answer": "i. Plants which have lost the capacity to produce seeds (seedless varieties such as banana, orange, rose, jasmine) can be propagated by this method. (1)\nii. Plants raised by vegetative propagation bear flowers and fruits earlier than those grown from seeds; the offspring are genetically identical to the parent, so the desirable characters are retained. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "The maximum concentration of harmful chemicals accumulates in human beings. State the phenomenon involved and justify this statement.",
+   "options": null,
+   "figure": null,
+   "answer": "Human beings are always placed at the top of a food chain. The concentration of harmful chemicals (non-biodegradable substances) goes on increasing at every trophic level; as human beings are placed at the apex of every food chain, the maximum concentration of harmful chemicals gets accumulated in their body. This phenomenon is called biomagnification.",
+   "or": {
+    "text": "Carnivores cannot be self-dependent and have to depend on herbivores. Explain.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch13_Our_Environment",
+    "answer": "Food chain starts with producers i.e. autotrophs. Carnivores cannot prepare their food by themselves, they are dependent on herbivores which in turn are dependent on producers who can photosynthesise and prepare their food with the help of sunlight."
+   },
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q11"
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "variant",
+   "basis": "Paper_06 Q12",
+   "basis_question": {
+    "no": 12,
+    "section": "A",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "Draw a well-labelled diagram of a neuron. Name the part of a neuron:\ni. Where information is acquired.\nii. Through which information travels as an electrical impulse.",
+    "options": null,
+    "figure": null,
+    "answer": "Diagram (labelled: dendrite, soma/cell body, nucleus, axon, myelin sheath, node of Ranvier, Schwann cell, axon terminal) — see figure fig_p10_1.png.\ni. Information is acquired at the dendrites.\nii. Through the axon, information travels as an electrical impulse.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "Trace the path of an electrical impulse in a neuron. Name the part of a neuron:\ni. which receives information from the receptor.\nii. at which the electrical impulse is converted into a chemical signal.",
+   "options": null,
+   "answer": "The impulse is acquired at the tips of the dendrites, travels to the cell body (soma), then along the axon to its end.\ni. Dendrites (dendritic tip) receive information. (1)\nii. The axon terminal/end (nerve ending) where the impulse sets off the release of a chemical (neurotransmitter) across the synapse. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "origin": "ncert",
+   "text": "How is the sex of a child determined in human beings? Explain with the help of a cross. Who determines the sex of the child, the mother or the father?",
+   "options": null,
+   "answer": "Humans have 23 pairs of chromosomes; 22 pairs are autosomes and one pair is the sex chromosomes. Females have two X chromosomes (XX) and males have one X and one Y (XY). (1)\nCross: Female (XX) × Male (XY). All eggs carry X; sperms are of two kinds, half carry X and half carry Y. (1)\nIf a sperm carrying X fuses with the egg, the zygote is XX (girl); if a sperm carrying Y fuses with the egg, the zygote is XY (boy). Chances of a boy or a girl are equal (50% each). Since the egg always carries X, the father's sperm (X or Y) determines the sex of the child. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "i. Describe the structure and function of the basic filtering unit of kidney.\nii. List two factors on which reabsorption of water from urine depends?",
+   "options": null,
+   "figure": null,
+   "answer": "i. The basic filtering unit is the nephron: a cluster of very thin-walled blood capillaries (glomerulus) associated with the cup-shaped end (Bowman's capsule) of a tube that collects the filtered urine. Each kidney has a large number of nephrons packed close together. Some substances in the initial filtrate, such as glucose, amino acids, salts and a major amount of water, are selectively re-absorbed as the urine flows along the tube. (Diagram: fig_p13_0.png)\nii. The amount of water reabsorbed depends on (i) the amount of excess water present in the body and (ii) the amount of dissolved waste to be excreted out of the body.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q14"
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "origin": "variant",
+   "basis": "Paper_08 Q15",
+   "basis_question": {
+    "no": 15,
+    "section": "A",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch08_Heredity",
+    "text": "A student crossed pea plants having round and yellow seeds with pea plants having wrinkled and green seeds. He found that only one type of seeds were produced in the F₁ generation. When these F₁ generation pea plants were self-pollinated with each other, then in addition to the seed type of F₁ generation, some new types of seed combinations were also obtained in the F₂ generation.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "i. Which traits in the above mentioned cross are dominant traits?",
+      "marks": 1,
+      "options": null,
+      "answer": "Round and yellow are the dominant traits."
+     },
+     {
+      "text": "ii. What are the new possible combinations of seeds likely to be observed in F₂ generation?",
+      "marks": 1,
+      "options": null,
+      "answer": "The F₂ progeny of the dihybrid cross show four phenotypes; the new combinations are round green and wrinkled yellow (the other two are round yellow and wrinkled green)."
+     },
+     {
+      "text": "iii. Give reason why the traits which were not visible in the seeds of F₁ generation reappeared in the seeds of F₂ generation. Write the ratio of different types of seeds obtained in F₂ generation in this case.\nOR\nWhat is meant by the terms (I) dominant, and (II) recessive traits? Explain.",
+      "marks": 2,
+      "options": null,
+      "answer": "The traits not shown in F₁ were recessive traits. Recessive traits do not show their presence in the presence of dominant traits, but when the F₁ plants were self-crossed, the recessive alleles recombined in F₂ and the traits appeared. Ratio of seed types in F₂ = 9 : 3 : 3 : 1.\nOR\n(I) The trait that first appears/is visibly expressed in the organism is called the dominant trait. (II) The trait that is present at the gene level but is masked and does not show itself in the organism is called the recessive trait."
+     }
+    ],
+    "paper": "Paper_08"
+   },
+   "text": "A student crossed tall pea plants having round seeds (TTRR) with dwarf pea plants having wrinkled seeds (ttrr). All the F₁ plants were tall with round seeds. When these F₁ plants were self-pollinated, 640 plants were obtained in the F₂ generation, which included new combinations of characters along with the parental types.",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "i. Which traits are dominant in the above cross?",
+     "marks": 1,
+     "options": null,
+     "answer": "Tallness and round seed shape are the dominant traits (they alone appear in F₁)."
+    },
+    {
+     "text": "ii. Name the new combinations of characters likely to be observed in the F₂ generation.",
+     "marks": 1,
+     "options": null,
+     "answer": "Tall plants with wrinkled seeds and dwarf plants with round seeds (the parental combinations tall round and dwarf wrinkled also appear)."
+    },
+    {
+     "text": "iii. Write the phenotypic ratio in the F₂ generation. Calculate the number of tall plants with round seeds and of dwarf plants with wrinkled seeds among the 640 plants.\nOR\nHow do the F₂ results of this cross show that tall/dwarf and round/wrinkled traits are inherited independently of each other?",
+     "marks": 2,
+     "options": null,
+     "answer": "Phenotypic ratio = 9 : 3 : 3 : 1 (tall round : tall wrinkled : dwarf round : dwarf wrinkled). Tall round = $\\frac{9}{16}\\times640=360$ plants; dwarf wrinkled = $\\frac{1}{16}\\times640=40$ plants.\nOR\nIn F₂, besides the parental combinations (tall round, dwarf wrinkled), new combinations (tall wrinkled, dwarf round) appear. This shows that the height trait and the seed shape trait were separated and re-assorted independently during gamete formation, i.e. each pair of traits is inherited independently of the other."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Draw a neat diagram showing fertilisation in a flower and label (a) Pollen tube, (b) Male germ cell and (c) Female germ cell, on it. Explain the process of fertilisation in a flower. What happens to the\ni. ovary and\nii. ovule after fertilisation?",
+   "options": null,
+   "figure": null,
+   "answer": "Process of fertilisation: 1. On reaching the stigma the pollen grain germinates and the pollen tube carries two male gametes (germ cells) down to the ovule. 2. One male gamete fuses with the egg cell in the embryo sac to form the zygote. 3. The second male gamete fuses with the secondary nucleus to form the primary endosperm nucleus (double fertilisation). 4. The ovule develops into a seed containing the embryo.\ni. The ovary grows rapidly and ripens to form the fruit.\nii. The ovule forms the seed (embryo with plumule and radicle).",
+   "or": {
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "a. Analyse the given situations and interpret the possible reason for each:\ni. Iodine deficiency in diet increases the possibility of a disease of swollen neck in a person.\nii. Some people in population may have very short heights (dwarfs).\niii. Thick facial hairs develop in boys at the age of 10-12 years.\nb. Explain two reasons which necessitate the need of chemical communication in multicellular organisms.",
+    "options": null,
+    "figure": null,
+    "answer": "a. i. Iodine is necessary for the thyroid gland to make thyroxine; its deficiency causes goitre.\nii. Deficiency of growth hormone in childhood causes dwarfism.\niii. Secretion of testosterone during puberty in males.\nb. Hormones (chemical compounds) can reach all cells of the body steadily and persistently; and hormones help to coordinate growth, development and responses to the environment."
+   },
+   "subparts": null,
+   "answer_figure": "fig_p12_1.png",
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q16"
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "ncert",
+   "text": "Which of the following salts does not contain water of crystallisation?",
+   "options": [
+    "Blue vitriol",
+    "Washing soda",
+    "Gypsum",
+    "Baking soda"
+   ],
+   "answer": "(d) Baking soda — baking soda ($NaHCO_3$) is anhydrous; blue vitriol ($CuSO_4\\cdot5H_2O$), washing soda ($Na_2CO_3\\cdot10H_2O$) and gypsum ($CaSO_4\\cdot2H_2O$) contain water of crystallisation.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "variant",
+   "basis": "Paper_07 Q20",
+   "basis_question": {
+    "no": 20,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "Match the following with the correct response:\n| Column A | Column B |\n|---|---|\n| (i) Catenation | (a) Butene |\n| (ii) Alkane | (b) Carbon compounds |\n| (iii) Alkene | (c) Ethyne |\n| (iv) Alkyne | (d) Ethane |",
+    "options": [
+     "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+     "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+     "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+     "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)"
+    ],
+    "figure": null,
+    "answer": "(b) (i) - (b), (ii) - (d), (iii) - (a), (iv) - (c). Catenation is the linkage of atoms of the same element into chains (carbon compounds); ethane is an alkane, butene an alkene, ethyne an alkyne.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Match the compounds in Column A with the functional groups in Column B:\n| Column A | Column B |\n|---|---|\n| (i) $CH_3CH_2OH$ | (a) Ketone |\n| (ii) $CH_3COOH$ | (b) Alcohol |\n| (iii) $CH_3CHO$ | (c) Carboxylic acid |\n| (iv) $CH_3COCH_3$ | (d) Aldehyde |",
+   "options": [
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (b), (ii) - (c), (iii) - (d), (iv) - (a)",
+    "(i) - (b), (ii) - (d), (iii) - (c), (iv) - (a)"
+   ],
+   "answer": "(c) (i) - (b), (ii) - (c), (iii) - (d), (iv) - (a) — ethanol is an alcohol (-OH), ethanoic acid a carboxylic acid (-COOH), ethanal an aldehyde (-CHO) and propanone a ketone (>C=O).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "ncert",
+   "text": "Brass is an alloy of",
+   "options": [
+    "Copper and tin",
+    "Copper and zinc",
+    "Iron and carbon",
+    "Lead and tin"
+   ],
+   "answer": "(b) Copper and zinc — brass is an alloy of copper and zinc (bronze is copper and tin; solder is lead and tin).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "ncert",
+   "text": "The total number of covalent bonds present in one molecule of butane, $C_4H_{10}$, is",
+   "options": [
+    "10",
+    "12",
+    "13",
+    "14"
+   ],
+   "answer": "(c) 13 — butane has 3 C-C single bonds and 10 C-H single bonds, 3 + 10 = 13 covalent bonds.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "variant",
+   "basis": "Paper_08 Q21",
+   "basis_question": {
+    "no": 21,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch03_Metals_and_Non-metals",
+    "text": "The property of metal by which it can be drawn into wires is called:",
+    "options": [
+     "Ductility",
+     "Sonorous",
+     "Conductivity",
+     "Malleability"
+    ],
+    "figure": "fig_p04_0.png",
+    "answer": "(a) Ductility",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "The property of metals by which they can be beaten into thin sheets is called",
+   "options": [
+    "Ductility",
+    "Sonority",
+    "Conductivity",
+    "Malleability"
+   ],
+   "answer": "(d) Malleability — malleability is the ability to be beaten into thin sheets (e.g. aluminium foil); ductility is the ability to be drawn into wires.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "ncert",
+   "text": "Soaps are sodium or potassium salts of",
+   "options": [
+    "short-chain alcohols",
+    "long-chain carboxylic acids",
+    "short-chain aldehydes",
+    "long-chain hydrocarbons"
+   ],
+   "answer": "(b) long-chain carboxylic acids — soaps are sodium or potassium salts of long-chain carboxylic (fatty) acids.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_06 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "If the pH of a solution is 13, it means that it is",
+    "options": [
+     "Weakly acidic",
+     "Weakly basic",
+     "Strongly acidic",
+     "Strongly Basic"
+    ],
+    "figure": null,
+    "answer": "(d) Strongly Basic — the pH scale is 0 to 14; the greater the pH, the higher the basicity.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "If the pH of a solution is 2, it means that the solution is",
+   "options": [
+    "Weakly acidic",
+    "Weakly basic",
+    "Strongly acidic",
+    "Strongly basic"
+   ],
+   "answer": "(c) Strongly acidic — on the pH scale, values close to 0 (below about 3) indicate a strongly acidic solution.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_01 Q24",
+   "basis_question": {
+    "no": 24,
+    "section": "B",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "Assertion (A): To dilute concentrated sulphuric acid water is added to the acid slowly.\nReason: A lot of heat energy will be given out in the dilution of concentrated sulphuric acid.",
+    "options": [
+     "Both A and R are true, and R is the correct explanation of A.",
+     "Both A and R are true, and R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(a) Both A and R are true and R is the correct explanation of A (as printed in the key). Note: the standard practice is to add the acid to water slowly with constant stirring, because dilution is highly exothermic and water added to concentrated acid can spurt and burn the skin.",
+    "or": null,
+    "subparts": null,
+    "note": "The assertion as printed says water is added to the acid, which is the wrong procedure; the key nevertheless marks option (a). Teacher check advised.",
+    "paper": "Paper_01"
+   },
+   "text": "Assertion (A): Pure dry hydrogen chloride gas turns dry blue litmus paper red.\nReason (R): Acids produce hydrogen ions (H⁺) only in the presence of water.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "answer": "(d) A is false but R is true. A is false: dry HCl gas does not ionise in the absence of water, so no H⁺ ions are produced and dry blue litmus does not change colour. R is true.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "State the observations you would make on adding ammonium hydroxide to aqueous solution of (i) Ferrous sulphate (ii) Aluminium chloride?",
+   "options": null,
+   "figure": null,
+   "answer": "i. A dirty green precipitate of ferrous hydroxide is formed: $2NH_4OH(aq) + FeSO_4(aq) \\rightarrow Fe(OH)_2(ppt) + (NH_4)_2SO_4(aq)$.\nii. A white precipitate of aluminium hydroxide is formed: $3NH_4OH(aq) + AlCl_3(aq) \\rightarrow Al(OH)_3(ppt) + 3NH_4Cl(aq)$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q25"
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "A brown substance X on heating in air forms a substance Y. When hydrogen gas is passed over heated Y, it again changes back into X. Name the substances X and Y.",
+   "options": null,
+   "figure": null,
+   "answer": "X is copper (brown powder); on heating in air it forms copper oxide, Y (black): $\\mathrm{2Cu + O_2 \\rightarrow 2CuO}$. When hydrogen is passed over heated black CuO, hydrogen acts as a reducing agent and CuO changes back into copper: $\\mathrm{CuO + H_2 \\rightarrow Cu + H_2O}$.",
+   "or": {
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "2g of silver chloride is taken in a china dish and the china dish is placed in sunlight for some time. What will be your observation in this case ? Write the chemical reaction involved in the form of a balanced chemical equation. Identify the type of chemical reaction.",
+    "options": null,
+    "figure": null,
+    "answer": "The white colour of silver chloride changes to greyish white due to formation of silver metal. $\\mathrm{2AgCl(s) \\xrightarrow{Sunlight} 2Ag(s) + Cl_2(g)}$. It is a decomposition reaction (photolytic decomposition); used in black and white photography."
+   },
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q26"
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "ncert",
+   "text": "Show the formation of sodium oxide ($Na_2O$) by the transfer of electrons between the combining atoms. State two properties of ionic compounds.",
+   "options": null,
+   "answer": "Sodium (2, 8, 1) has one valence electron and oxygen (2, 6) needs two electrons to complete its octet. Each of two sodium atoms loses one electron to form $Na^+$ (2, 8), and the oxygen atom gains the two electrons to form $O^{2-}$ (2, 8). (1½)\n$2Na \\rightarrow 2Na^+ + 2e^-$; $O + 2e^- \\rightarrow O^{2-}$; the oppositely charged ions attract each other by electrostatic force giving $Na_2O$. (½)\nProperties of ionic compounds (any two): they are hard, solid and brittle; have high melting and boiling points; are soluble in water but generally insoluble in kerosene/petrol; conduct electricity in the molten state or in solution but not in the solid state. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "origin": "variant",
+   "basis": "Paper_08 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "B",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "Redox reactions are those reactions in which oxidation and reduction occur simultaneously. A redox reaction is made up of two half reactions. In the first half reaction, oxidation takes place and in second half reaction, reduction occurs. Oxidation is a process in which a substance loses electrons and in reduction, a substance gains electrons. The substance which gains electrons is reduced and acts as an oxidising agent. On the other hand, a substance which loses electrons is oxidised and acts as a reducing agent.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "i. Illustrate where oxidation and reduction occurs together with an example?",
+      "marks": 1,
+      "options": null,
+      "answer": "Oxidation and reduction occurring together is called a redox reaction. Example: CuO + H₂ → Cu + H₂O; here copper oxide is reduced to copper whereas hydrogen is oxidised to water."
+     },
+     {
+      "text": "ii. What do you mean by oxidising agent and reducing agent?",
+      "marks": 1,
+      "options": null,
+      "answer": "An oxidising agent gives oxygen to (or removes hydrogen from) other substances, i.e. it gains electrons and is itself reduced. A reducing agent loses (donates) electrons to another species in a redox reaction and is itself oxidised."
+     },
+     {
+      "text": "iii. For the given reaction, identify the oxidation and reduction parts.\nZnO + CO → Zn + CO₂\nOR\nIn the following reaction, which substance is reduced?\nPbS + 4H₂O₂ → PbSO₄ + 4H₂O",
+      "marks": 2,
+      "options": null,
+      "answer": "ZnO is reduced to Zn and CO is oxidised to CO₂.\nOR\nH₂O₂ is reduced to water (by removal of oxygen)."
+     }
+    ],
+    "paper": "Paper_08"
+   },
+   "text": "A teacher performed three activities in the laboratory. In the first, she heated lead nitrate powder in a dry boiling tube and brown fumes were seen. In the second, she added zinc granules to dilute sulphuric acid and bubbles of a colourless gas were seen. In the third, she mixed aqueous solutions of sodium sulphate and barium chloride, and a white precipitate was formed.",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "i. Name the type of reaction in the first activity and write its balanced chemical equation.",
+     "marks": 1,
+     "options": null,
+     "answer": "Thermal decomposition reaction: $2Pb(NO_3)_2 \\xrightarrow{heat} 2PbO + 4NO_2 + O_2$ (brown fumes are of $NO_2$)."
+    },
+    {
+     "text": "ii. Name the gas evolved in the second activity and give the test for it.",
+     "marks": 1,
+     "options": null,
+     "answer": "Hydrogen gas ($Zn + H_2SO_4 \\rightarrow ZnSO_4 + H_2$). When a burning matchstick is brought near the gas it burns with a pop sound."
+    },
+    {
+     "text": "iii. Write the balanced chemical equation for the third activity and name the white precipitate. Identify the type of reaction.\nOR\nZinc is added to copper sulphate solution. State the observation and write the balanced chemical equation. Name the type of reaction.",
+     "marks": 2,
+     "options": null,
+     "answer": "$Na_2SO_4 + BaCl_2 \\rightarrow BaSO_4\\downarrow + 2NaCl$. The white precipitate is barium sulphate. It is a double displacement (precipitation) reaction.\nOR\nThe blue colour of copper sulphate solution fades (becomes colourless) and a reddish-brown deposit of copper forms on the zinc: $Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu$. It is a displacement reaction."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "variant",
+   "basis": "Paper_07 Q29",
+   "basis_question": {
+    "no": 29,
+    "section": "B",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "i. What happens when a small piece of sodium is dropped in ethanol? Write the equation for this reaction.\nii. Why is glacial acetic acid called so?\niii. What happens when ethanol is heated at 443 K in the presence of conc. H2SO4? Write the role of conc. H2SO4 in this case.\niv. Write an equation showing saponification.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Sodium reacts with ethanol with evolution of hydrogen: $2Na + 2CH_3CH_2OH \\rightarrow 2CH_3CH_2O^-Na^+ + H_2\\uparrow$ (sodium ethoxide).\nii. Pure ethanoic acid has melting point 290 K, so it often freezes in winter in cold climates; hence the name glacial acetic acid.\niii. Heating ethanol at 443 K with excess conc. $H_2SO_4$ dehydrates it to ethene: $CH_3CH_2OH \\xrightarrow{443\\,K,\\ conc.\\ H_2SO_4} CH_2=CH_2 + H_2O$. Conc. $H_2SO_4$ acts as a dehydrating agent.\niv. Saponification: ester treated with NaOH gives alcohol and sodium salt of the carboxylic acid: $CH_3COOC_2H_5 \\xrightarrow{NaOH} C_2H_5OH + CH_3COONa$.",
+    "or": {
+     "text": "Name an alcohol and a carboxylic acid having two carbon atoms in their structures. Draw their structures and state how this alcohol can be converted into a carboxylic acid. What happens when these two compounds react in the presence of an acid? Write chemical equations for the reactions involved in the two cases mentioned above.",
+     "options": null,
+     "figure": null,
+     "chapter": "Ch04_Carbon_and_its_Compounds",
+     "answer": "Ethanol ($CH_3CH_2OH$, H-C(H)(H)-C(H)(H)-OH) and ethanoic acid ($CH_3COOH$, H3C-C(=O)-OH).\nOn adding alkaline $KMnO_4$ or acidified $K_2Cr_2O_7$ (with heat), the alcohol is oxidised to the carboxylic acid: $C_2H_5OH \\xrightarrow{alkaline\\ KMnO_4,\\ heat} CH_3COOH$.\nWith an acid catalyst, an ester is formed: $C_2H_5OH + CH_3COOH \\xrightarrow{acid} CH_3COOC_2H_5 + H_2O$."
+    },
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "i. What is observed when ethanoic acid is added to sodium hydrogencarbonate? Write the chemical equation.\nii. Why are most carbon compounds poor conductors of electricity?\niii. What happens when ethanol is heated with alkaline $KMnO_4$? Write the role of $KMnO_4$ in the reaction.\niv. What is hydrogenation? Write the equation for the hydrogenation of ethene.",
+   "options": null,
+   "answer": "i. Brisk effervescence due to evolution of carbon dioxide: $CH_3COOH + NaHCO_3 \\rightarrow CH_3COONa + H_2O + CO_2$. (1½)\nii. Carbon compounds are covalent; they have no free electrons or ions to conduct electric current. (1)\niii. Ethanol is oxidised to ethanoic acid: $CH_3CH_2OH \\xrightarrow{alkaline\\ KMnO_4,\\ heat} CH_3COOH$; $KMnO_4$ acts as an oxidising agent. (1½)\niv. Addition of hydrogen to unsaturated hydrocarbons in the presence of a catalyst such as nickel or palladium to give saturated compounds: $CH_2=CH_2 + H_2 \\xrightarrow{Ni} CH_3-CH_3$. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "What is a homologous series? Write the molecular formulae of the first three members of the alkane series. State two characteristics of a homologous series. What is the molecular formula of the alkane having six carbon atoms?",
+    "options": null,
+    "figure": null,
+    "answer": "A series of carbon compounds with the same functional group in which successive members differ by a $-CH_2-$ unit. First three alkanes: $CH_4$ (methane), $C_2H_6$ (ethane), $C_3H_8$ (propane). Characteristics (any two): same general formula ($C_nH_{2n+2}$ for alkanes); successive members differ by $CH_2$ (14 u); similar chemical properties; gradation in physical properties (melting and boiling points increase with molecular mass). Alkane with six carbons: $C_6H_{14}$ (hexane)."
+   }
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "origin": "variant",
+   "basis": "Paper_03 Q31",
+   "basis_question": {
+    "no": 31,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "On regular reflection from the surface XY, the reflected ray will go along:",
+    "options": [
+     "B",
+     "D",
+     "A",
+     "C"
+    ],
+    "figure": "fig_p06_1.png",
+    "answer": "(b) D — on regular reflection $\\angle r = \\angle i$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "A ray of light is incident on a plane mirror making an angle of $35^\\circ$ with the normal at the point of incidence. The angle between the incident ray and the reflected ray is",
+   "options": [
+    "$35^\\circ$",
+    "$55^\\circ$",
+    "$70^\\circ$",
+    "$110^\\circ$"
+   ],
+   "answer": "(c) $70^\\circ$ — by the law of reflection $\\angle r=\\angle i=35^\\circ$, so the angle between the incident and reflected rays = $35^\\circ+35^\\circ=70^\\circ$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "origin": "ncert",
+   "text": "The change in the focal length of the eye lens so that we can see both nearby and distant objects clearly is brought about by",
+   "options": [
+    "Iris",
+    "Ciliary muscles",
+    "Retina",
+    "Optic nerve"
+   ],
+   "answer": "(b) Ciliary muscles — the ciliary muscles change the curvature (thickness) of the eye lens, thereby changing its focal length (accommodation).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Assertion (A): A solenoid tends to expand, when a current passes through it.\nReason (R): Two straight parallel metallic wires carrying current in same direction attract each other.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true. The currents in the turns of a solenoid are parallel and in the same direction, so the turns attract each other and the solenoid tends to contract.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q32"
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "origin": "ncert",
+   "text": "Why does the Sun appear reddish at sunrise and sunset?",
+   "options": null,
+   "answer": "At sunrise and sunset the Sun is near the horizon, so sunlight has to travel a longer path through the atmosphere. (1) Most of the blue light and shorter wavelengths are scattered away by the particles in the air, so the light that reaches our eyes is mainly of longer wavelength, red. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "origin": "variant",
+   "basis": "Paper_01 Q34",
+   "basis_question": {
+    "no": 34,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch11_Electricity",
+    "text": "Compute the heat generated while transferring 96,000 coulomb of charge in one hour through a potential difference of 50V.",
+    "options": null,
+    "figure": null,
+    "answer": "Work done to transfer charge $Q$ through potential difference $V$ is $VQ$ joule. $W = 50\\times96{,}000 = 48{,}00{,}000\\ \\mathrm{J} = 4.8\\times10^6\\ \\mathrm{J}$, which is equal to the heat generated.",
+    "or": {
+     "text": "Calculate the resistance of an electric bulb which allows a 10A current when connected to a 220V power source?",
+     "options": null,
+     "figure": null,
+     "chapter": "Ch11_Electricity",
+     "answer": "$I=10$ A, $V=220$ V. $R=\\frac{V}{I}=\\frac{220}{10}=22\\ \\Omega$"
+    },
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Calculate the heat generated while transferring 72,000 coulomb of charge in half an hour through a potential difference of 25 V.",
+   "options": null,
+   "answer": "Heat generated = work done = $VQ$. $H = 25\\times72{,}000 = 18{,}00{,}000\\ \\mathrm{J} = 1.8\\times10^6\\ \\mathrm{J}$ (the time given is not needed).",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch11_Electricity",
+    "text": "Calculate the resistance of an electric heater which draws a current of 5 A when connected to a 230 V supply.",
+    "options": null,
+    "figure": null,
+    "answer": "$V=230$ V, $I=5$ A. $R=\\frac{V}{I}=\\frac{230}{5}=46\\ \\Omega$."
+   }
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "i. Imagine that you are sitting in a chamber with your back to one wall. An electron beam, moving horizontally from back wall towards the front wall, is deflected by a strong magnetic field to your right side. What is the direction of magnetic field?\nii. Two circular coils A and B placed closed to each other. If the current in the coil A is changed, will some current be induced in coil B? Give reason.",
+   "options": null,
+   "figure": null,
+   "answer": "i. The magnetic field is vertically downward, by Fleming's left-hand rule (the direction of current is taken opposite to the direction of motion of electrons).\nii. Yes, current will be induced in coil B when the current in coil A changes. If the current in A is increased, the induced current in B is opposite to that in A; if it is decreased, it is in the same direction as in A. The change in magnetic field lines around coil B induces the current (electromagnetic induction).",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q37"
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "What are the common defects of vision that can be corrected by the use of suitable eyeglasses or spectacles?",
+   "options": null,
+   "figure": null,
+   "answer": "The common defects of vision are: i. Myopia or near-sightedness; ii. Hypermetropia or far-sightedness; iii. Presbyopia; iv. Astigmatism.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q35"
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "a. Draw a labelled diagram to show the pattern of magnetic field lines on a horizontal white board due to a straight current carrying conductor passing perpendicular through its centre. If the direction of current in the conductor is vertically downwards, mark the direction of (i) current, and (ii) magnetic field lines.\nb. State the right hand thumb rule and check whether the directions marked on the diagram are in accordance with this rule.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Diagram: concentric circles on the board centred on the conductor; with the current vertically downwards (into the board when seen from above), the field lines are marked as circles with the direction clockwise when viewed from above (by the right hand thumb rule). (Diagram not reproduced.)\nb. Right hand thumb rule: imagine holding a current-carrying straight conductor in your right hand such that the thumb points in the direction of the current; then the fingers wrap around the conductor in the direction of the magnetic field lines. The directions marked on the diagram are in accordance with this rule.",
+   "or": null,
+   "subparts": null,
+   "note": "The printed solution gives only the rule in text (diagram not extractable); the field direction stated here is derived from the rule.",
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q37"
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "text": "In a domestic circuit five LED bulbs are arranged as shown. The source voltage is 220 V and the power rating of each bulb is marked in the circuit diagram (bulb A: 22 W, 220 V; bulbs B, C, D, E: 11 W, 55 V each, with keys K₁ and K₂). Based on the following circuit diagram, answer the following questions:",
+   "options": null,
+   "figure": "fig_p07_1.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "a. State what happens when\ni. key K₁ is closed.\nii. key K₂ is closed.",
+     "marks": 1,
+     "options": null,
+     "answer": "i. Bulb A glows. ii. Bulbs B, C, D and E glow."
+    },
+    {
+     "text": "b. Find the current drawn by the bulb B when it glows.",
+     "marks": 1,
+     "options": null,
+     "answer": "P = V × I; 11 = 55 × I; I = 11/55 = 0.2 A."
+    },
+    {
+     "text": "c. Calculate\ni. the resistance of bulb B, and\nii. total resistance of the combination of four bulbs B, C, D and E.\nOR\nWhat would happen to the glow of all the bulbs in the circuit when keys K₁ and K₂ both are closed and the bulb C suddenly get fused? Give reason to justify your answer.",
+     "marks": 2,
+     "options": null,
+     "answer": "i. Resistance of bulb B, R = V/I = 55 V / 0.2 A = 275 Ω.\nii. Total resistance of the series combination of four bulbs = 4 × 275 = 1100 Ω.\nOR\nBulb A will keep glowing with the same brightness. The other bulbs B, D and E will stop glowing. Reason: bulbs B, D and E are connected in series with the fused bulb C, so no current flows through them; bulb A is unaffected as it is connected in parallel combination."
+    }
+   ],
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q38"
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "origin": "variant",
+   "basis": "Paper_10 Q39",
+   "basis_question": {
+    "no": 39,
+    "section": "C",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "A concave lens of focal length 60 cm is used to form an image of an object of length 9 cm kept at a distance of 30 cm from it. Use lens formula to determine the nature, position and length of the image formed. Also draw labelled ray diagram to show the image formation in the above case.",
+    "options": null,
+    "figure": "fig_p17_0.png",
+    "answer": "$f=-60$ cm, $h=9$ cm, $u=-30$ cm. Lens formula $\\frac{1}{v}-\\frac{1}{u}=\\frac{1}{f}$, so $\\frac{1}{v}=\\frac{1}{f}+\\frac{1}{u}=\\frac{-1}{60}+\\frac{-1}{30}=\\frac{-3}{60}$, $v=-20$ cm. Magnification $m=\\frac{v}{u}=\\frac{-20}{-30}=\\frac{2}{3}$; $h'=m\\times h=\\frac{2}{3}\\times9=6$ cm. The image is virtual, erect and smaller than the object (6 cm long), formed 20 cm from the lens on the same side as the object.",
+    "or": {
+     "chapter": "Ch09_Light_Reflection_and_Refraction",
+     "text": "a. What is a lens? List two main categories of lenses. In which category is a double concave lens placed?\nb. A convex lens of focal length 15 cm forms a real image at a distance of 20 cm from its optical centre. Find the position of the object. Is the image formed by the lens magnified or diminished?",
+     "options": null,
+     "figure": null,
+     "answer": "a. A lens is a transparent material bounded by two surfaces, of which one or both are spherical/curved. Two categories: converging (convex) lens and diverging (concave) lens. A double concave lens is a diverging lens.\nb. $f=15$ cm, $v=20$ cm. $\\frac{1}{u}=\\frac{1}{v}-\\frac{1}{f}=\\frac{1}{20}-\\frac{1}{15}=\\frac{3-4}{60}=-\\frac{1}{60}$, so $u=-60$ cm. $m=\\frac{v}{u}=\\frac{20}{-60}=-\\frac{1}{3}$, so the image is diminished (real and inverted)."
+    },
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "A concave lens of focal length 30 cm is used to form an image of an object of height 12 cm placed at a distance of 15 cm from it. Use the lens formula to determine the nature, position and height of the image formed. Also draw a labelled ray diagram for the image formation in this case.",
+   "options": null,
+   "answer": "$f=-30$ cm, $u=-15$ cm, $h=12$ cm. From $\\frac{1}{v}-\\frac{1}{u}=\\frac{1}{f}$: $\\frac{1}{v}=\\frac{1}{f}+\\frac{1}{u}=-\\frac{1}{30}-\\frac{1}{15}=-\\frac{3}{30}$, so $v=-10$ cm. Magnification $m=\\frac{v}{u}=\\frac{-10}{-15}=\\frac{2}{3}$; $h'=m h=\\frac{2}{3}\\times12=8$ cm. The image is virtual, erect and diminished (8 cm tall), formed 10 cm from the lens on the same side as the object. Ray diagram: a ray parallel to the principal axis diverges as if from the principal focus F on the object side; a ray through the optical centre goes undeviated; the two diverging rays appear to meet at the image, between the lens and F, on the object side (5 marks: 1 formula/data, 1 v, 1 m and h', 1 nature, 1 diagram).",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "a. Define the power of a lens and state its SI unit. Find the power of a concave lens of focal length 25 cm.\nb. A convex lens of focal length 12 cm forms a real image at a distance of 30 cm from its optical centre. Find the position of the object. Is the image magnified or diminished?",
+    "options": null,
+    "figure": null,
+    "answer": "a. Power of a lens is the reciprocal of its focal length (in metres), $P=\\frac{1}{f}$; its SI unit is dioptre (D). For the concave lens $f=-25$ cm $=-0.25$ m, so $P=\\frac{1}{-0.25}=-4$ D.\nb. $f=12$ cm, $v=30$ cm. $\\frac{1}{u}=\\frac{1}{v}-\\frac{1}{f}=\\frac{1}{30}-\\frac{1}{12}=\\frac{2-5}{60}=-\\frac{1}{20}$, so $u=-20$ cm (object 20 cm in front of the lens). $m=\\frac{v}{u}=\\frac{30}{-20}=-1.5$, so the image is magnified (real and inverted)."
+   }
+  }
+ ]
+}

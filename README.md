@@ -17,7 +17,7 @@ Class_NN/<Subject>/
     Revision_Notes/       older multi-chapter revision notes
     Reading_Writing/      English reading and writing papers
     Model_Papers/         Class 5 only: 10 per subject (unsolved, answer key, solved)
-Class_10/<Subject>/Sample_Papers_2026-27/, SamplePaper_Chapterwise_Worksheets/, SamplePaper_Sectionwise_Tests/   Class 10 2026-27 sample papers, chapter-wise question worksheets, 80-mark section tests (see docs/ARCHITECTURE.md section 9)
+Class_10/<Subject>/Sample_Papers_2026-27/ SamplePaper_Chapterwise_Worksheets/ SamplePaper_Sectionwise_Tests/ Mock_Papers_2026-27/   Class 10 2026-27 sample papers, chapter-wise question worksheets, 80-mark section tests, 5 mock papers per subject (see docs/ARCHITECTURE.md sections 9 and 9b)
 Class_08/English_Gulmohar/      Gulmohar reader (17 units; NCERT-Type + Hard; unit tests)
 Class_08/English_Ruskin_Bond/   Ruskin Bond-linked reader (chapters 11-12 so far)
 NCERT_Books/                    NCERT chapter PDFs, Classes 6-10 (ChNN_Title.pdf)
@@ -35,7 +35,7 @@ src/                            generator source (Python)
 | 9 | all products incl. Part 2 | all products | all products incl. Part 2 | graded, worksheets, notes, practice | graded, worksheets, notes, practice |
 | 10 | all products + 2026-27 sample-paper set | all products + sample-paper set | all products + sample-paper set | all products + sample-paper set | all products + sample-paper set |
 
-Class 10 also has, per subject, the 11 original 2026-27 sample papers (CBSE official + 10), chapter-wise worksheets of every distinct sample-paper question (with answer keys) and 80-mark section-wise tests (318 PDFs in total; see docs/ARCHITECTURE.md section 9).
+Class 10 also has, per subject, the 11 original 2026-27 sample papers (CBSE official + 10), chapter-wise worksheets of every distinct sample-paper question (with answer keys) and 80-mark section-wise tests, and 5 mock papers per subject with answer keys (35% real sample questions, 40% changed-values versions, 25% NCERT-style; generated questions are labelled). See docs/ARCHITECTURE.md sections 9 and 9b.
 
 Worksheets, answer keys and chapter notes exist for all 257 chapters in Classes 6–10 (Maths 60, Science 62, SST 77, English 36, Hindi 22).
 

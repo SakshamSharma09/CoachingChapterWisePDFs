@@ -1,0 +1,1197 @@
+{
+ "subject": "SST",
+ "paper": "Gen",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "In Belgium, which community forms the majority of the country's population?",
+   "options": [
+    "(a) French-speaking community",
+    "(b) Dutch-speaking community",
+    "(c) German-speaking community",
+    "(d) Italian-speaking community"
+   ],
+   "figure": null,
+   "answer": "(b) Dutch-speaking community — About 59 per cent of the Belgian population lives in the Flemish region and speaks Dutch; about 40 per cent lives in the Wallonia region and speaks French; about 1 per cent speaks German.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Which of the following is an example of horizontal distribution of power?",
+   "options": [
+    "(a) Power shared between the Union and the State governments",
+    "(b) Power shared among the legislature, executive and judiciary",
+    "(c) Power shared between a coalition of parties",
+    "(d) Power shared between the State government and the local government"
+   ],
+   "figure": null,
+   "answer": "(b) Power shared among the legislature, executive and judiciary — Horizontal distribution places different organs of government at the same level (legislature, executive, judiciary), so that none can exercise unlimited power and each checks the others.",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the appropriate answer from the options given below as the correct answer:\nAssertion (A): Belgium's leaders took a different path from Sri Lanka's and built a system of accommodation of regional and linguistic differences.\nReason (R): In Belgium the Constitution requires that the number of Dutch-speaking and French-speaking ministers in the central government be equal.",
+   "options": [
+    "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "(B) Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+    "(C) (A) is true, but (R) is false.",
+    "(D) (A) is false, but (R) is true."
+   ],
+   "figure": null,
+   "answer": "(B) Both (A) and (R) are true and (R) is not the correct explanation of (A). — Both statements are true, but the equal number of ministers is only one element of the accommodation; it does not by itself explain the whole Belgian path (community governments, powerful state governments, separate Brussels government).",
+   "or": null,
+   "subparts": null,
+   "origin": "variant",
+   "basis": "SST_CBSE_Official Q20 (AR on power sharing)"
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "What is majoritarianism? Mention one way in which it was visible in Sri Lanka.",
+   "options": null,
+   "figure": null,
+   "answer": "Majoritarianism is the belief that the majority community should be able to rule a country in whatever way it wants, by disregarding the wishes and needs of the minority. (1)\nIn Sri Lanka, the 1956 Act recognised Sinhala as the only official language, disregarding Tamil (other examples: preferential policies for Sinhala applicants in university positions and government jobs; a state policy to protect and foster Buddhism). (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "variant",
+   "basis": "SST_CBSE_Official Q24 (Belgium/Sri Lanka)"
+  },
+  {
+   "no": 5,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Distinguish between the prudential and the moral reasons for power sharing. Which of the two do you consider more convincing? Give one reason.",
+   "options": null,
+   "figure": null,
+   "answer": "Prudential reasons: power sharing helps reduce the possibility of conflict between social groups; since social conflict often leads to violence and political instability, power sharing is a good way to ensure the stability of political order. (1)\nMoral reasons: power sharing is valuable in itself, because it is the very spirit of democracy; sharing power with those affected by its exercise and living with its effects is a legitimate demand. (1)\nAny reasoned choice, e.g. moral reasons are more convincing because they value democracy for its own sake and not merely for the benefit it brings. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 6,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Compare how the Belgian and Sri Lankan governments responded to ethnic differences in their countries. What lesson does the comparison offer about power sharing?",
+   "options": null,
+   "figure": null,
+   "answer": "Sri Lanka (any 2): (1) Sinhala was made the only official language in 1956, ignoring Tamil; (2) preferential policies for Sinhala applicants in university positions and government jobs; (3) a new Constitution mandated that the state protect and foster Buddhism. The Sri Lankan Tamils felt alienated, which led to mutual suspicion, conflict and a civil war. (2)\nBelgium (any 2): (1) the Constitution requires equal numbers of Dutch and French-speaking ministers in the central government; (2) many powers of the central government were given to the state governments of the two regions; (3) Brussels has a separate government in which both communities have equal representation; (4) the 'community government', elected by people of one language community irrespective of where they live, has power over cultural, educational and language-related issues. (2)\nLesson: power sharing is good for democracy; accommodating differences, as Belgium did, preserves unity, whereas imposing the will of the majority, as in Sri Lanka, undermines national unity. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "variant",
+   "basis": "SST_CBSE_Official Q24 / SP Belgium-Sri Lanka LA"
+  },
+  {
+   "no": 7,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Read the given text and answer the following questions:\nPower sharing in Belgium\nThe Belgian leaders recognised the existence of regional differences and cultural diversities. Between 1970 and 1993 they amended their Constitution four times so that everyone could live together within the same country. The arrangement they worked out is different from any other country and is very innovative. In Brussels, the capital, the Dutch-speaking people are a minority, but they are given equal representation in the Brussels government, because the French-speaking people, who are a majority in Brussels, are a minority in the country as a whole.\nSource: Democratic Politics-II, NCERT (adapted)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Why did the Belgian leaders amend their Constitution several times?",
+     "marks": 1,
+     "options": null,
+     "answer": "To accommodate regional differences and cultural diversities so that everyone could live together in the same country."
+    },
+    {
+     "text": "Why are the Dutch-speaking people given equal representation in the Brussels government?",
+     "marks": 1,
+     "options": null,
+     "answer": "Though a minority in Brussels, the Dutch-speaking people are a majority in the country as a whole, while the French-speaking majority of Brussels is a minority in the country; equal representation reassures both."
+    },
+    {
+     "text": "Explain any one feature of the Belgian model that helped to avoid the division of the country.",
+     "marks": 2,
+     "options": null,
+     "answer": "(Any one, explained) The central government has equal numbers of Dutch and French-speaking ministers; or many central powers were given to the regional governments, which are not subordinate to the centre; or the community government looks after cultural, educational and language issues. This gave each community a share in power and removed fear of domination. (2)"
+    }
+   ],
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Which of the following subjects is in the Concurrent List?",
+   "options": [
+    "(a) Defence",
+    "(b) Police",
+    "(c) Education",
+    "(d) Currency"
+   ],
+   "figure": null,
+   "answer": "(c) Education — Defence and currency are Union List subjects, police is a State List subject; education, forests, trade unions, marriage, adoption and succession are in the Concurrent List.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Which of the following countries is an example of a 'holding together' federation?",
+   "options": [
+    "(a) United States of America",
+    "(b) Switzerland",
+    "(c) Australia",
+    "(d) India"
+   ],
+   "figure": null,
+   "answer": "(d) India — In holding together federations (India, Spain, Belgium) a large country divides its power between the national government and the states; the USA, Switzerland and Australia are 'coming together' federations.",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "What is meant by a 'coming together' federation? Give one example.",
+   "options": null,
+   "figure": null,
+   "answer": "A 'coming together' federation is one in which independent States come together on their own to form a bigger unit, so as to increase their security. (1)\nExample: USA, Switzerland or Australia (any one). (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "'Local government is the third tier of democracy in India.' Explain by describing any three features of the arrangement introduced by the Constitutional amendment of 1992.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 3 points)\n1. Holding regular elections to local government bodies is now constitutionally mandatory.\n2. Seats are reserved in the elected bodies and the executive heads of these institutions for the Scheduled Castes, Scheduled Tribes and Other Backward Classes.\n3. At least one-third of all positions are reserved for women.\n4. An independent institution called the State Election Commission has been created in each State to conduct panchayat and municipal elections.\n5. State governments are required to share some powers and revenue with local government bodies; the nature of sharing varies from State to State.",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 12,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Describe the language policy of India. How has it helped in strengthening federalism?",
+   "options": null,
+   "figure": null,
+   "answer": "Language policy (any 3): (3)\n- The Constitution did not give the status of national language to any one language.\n- Hindi was identified as the official language, but it is the mother tongue of only about 40 per cent of Indians, so many other languages were recognised.\n- Besides Hindi, there are 21 other languages recognised as Scheduled Languages by the Constitution.\n- A candidate in an examination conducted for the central government positions may opt to take the examination in any of these languages.\n- Use of English as an additional official language was allowed to continue beyond the initial fifteen years.\nHow it strengthened federalism (2): accommodating linguistic diversity and not imposing one language reduced regional resentment, as the Sri Lankan experience of imposing Sinhala shows; it helped keep the country united.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 13,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Read the given text and answer the following questions:\nPanchayati Raj\nIn a village, the villagers meet in the Gram Sabha to discuss the work of the Gram Panchayat. Each village, or a group of villages in some States, has a Gram Panchayat. This is a council consisting of several ward members, called panches, and a president or sarpanch. They are directly elected by all the adult population living in that ward or village. It is the decision-making body for the entire village. The panchayat works under the overall supervision of the Gram Sabha. All the voters in the village are its members. It has to meet at least twice or thrice in a year to approve the annual budget of the gram panchayat and to review the performance of the government.\nSource: Democratic Politics-II, NCERT (adapted)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Who are the members of the Gram Sabha?",
+     "marks": 1,
+     "options": null,
+     "answer": "All the voters in the village."
+    },
+    {
+     "text": "Name the head of the Gram Panchayat.",
+     "marks": 1,
+     "options": null,
+     "answer": "The sarpanch (president)."
+    },
+    {
+     "text": "State any two functions of the Gram Sabha.",
+     "marks": 2,
+     "options": null,
+     "answer": "It approves the annual budget of the gram panchayat and reviews its performance; it supervises the working of the panchayat and makes it accountable to the people. (1+1)"
+    }
+   ],
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "The sexual division of labour means that",
+   "options": [
+    "(a) Women and men get equal wages for equal work",
+    "(b) Work inside the home is done by women while work outside the home is done by men",
+    "(c) Women are not permitted to work in factories",
+    "(d) Men and women work in separate offices"
+   ],
+   "figure": null,
+   "answer": "(b) Work inside the home is done by women while work outside the home is done by men — Most women, in addition to their paid work, do all the work inside the home such as cooking, cleaning and looking after children, while men are expected to work outside the home.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Which of the following statements about the Indian State and religion is correct?",
+   "options": [
+    "(a) India has made Hinduism the official religion",
+    "(b) India is a secular state with no official religion",
+    "(c) India has made Buddhism the state religion",
+    "(d) The Constitution allows the state to favour one religion"
+   ],
+   "figure": null,
+   "answer": "(b) India is a secular state with no official religion — Unlike Sri Lanka (Buddhism), Pakistan (Islam) and England (Christianity), India has no official religion; the Constitution provides freedom to profess, practise and propagate any religion.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Which of the following is correctly matched?",
+   "options": [
+    "(a) Jotiba Phule - worked against caste discrimination and founded the Satyashodhak Samaj",
+    "(b) Periyar E.V. Ramaswami Naicker - first Governor-General of free India",
+    "(c) B.R. Ambedkar - founder of the Indian National Congress",
+    "(d) Mahatma Gandhi - leader of the Self-Respect Movement of Tamil Nadu"
+   ],
+   "figure": null,
+   "answer": "(a) Jotiba Phule - worked against caste discrimination and founded the Satyashodhak Samaj — Jotiba Phule, Gandhiji, B.R. Ambedkar and Periyar E.V. Ramaswami Naicker are named in the textbook among the leaders and reformers who worked to establish a society without caste discrimination.",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the appropriate answer from the options given below as the correct answer:\nAssertion (A): Communal politics is based on the belief that religion is the principal basis of social community.\nReason (R): A communal mind-set leads to the belief that people following different religions can belong to the same social community.",
+   "options": [
+    "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "(B) Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+    "(C) (A) is true, but (R) is false.",
+    "(D) (A) is false, but (R) is true."
+   ],
+   "figure": null,
+   "answer": "(C) (A) is true, but (R) is false. — A is true; R is false because communalism holds that followers of different religions cannot belong to the same social community, and that their interests are always opposed.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "What are feminist movements? State any one demand made by them.",
+   "options": null,
+   "figure": null,
+   "answer": "Feminist movements are the radical women's movements which aimed at equality in personal and family life as well as in politics and public life. (1)\nDemands (any one): the vote for women; enhanced opportunities for education and careers; equal wages for equal work; equal participation in public life. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Elections in India are not decided by caste alone. Give any two pieces of evidence.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 2) No parliamentary constituency has a clear majority of one single caste, so every candidate and party needs to win the confidence of more than one caste and community; no party wins the votes of all voters of a caste or community; ruling parties and sitting MPs and MLAs frequently lose elections in India, which would not happen if castes were fixed 'vote banks'. (1+1)",
+   "or": null,
+   "subparts": null,
+   "origin": "variant",
+   "basis": "SST_CBSE_Official Q26"
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Explain any three ways in which women in India continue to face disadvantage and discrimination in spite of improvements.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 3)\n1. The literacy rate among women is lower than that among men, and a smaller proportion of girl students go for higher studies.\n2. Women are paid less than men for the same work, even though the Equal Wages Act provides for equal wages for equal work.\n3. The sex ratio is adverse: sex-selective abortion has led to a decline in the child sex ratio.\n4. There are reports of harassment, exploitation and violence against women in public places and at home.\n5. The proportion of women in legislatures is low.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "How do caste inequalities continue to exist in India despite economic and social change? Explain with three points.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 3) Every caste group has not shared equally in the process of change: (1) the descendants of the groups that had access to education in the past are able to take better advantage of the modern education system, and are better off in economic status; (2) the people who were barred from education or who got education only recently are lagging behind; (3) caste continues to influence the economic status of people; (4) caste in the form of untouchability and discrimination, though banned, has not disappeared completely; (5) caste continues to be a factor in marriage practices.",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "'Secularism does not mean that religion has no place in public life.' Support the statement with the help of provisions of the Indian State (any three).",
+   "options": null,
+   "figure": null,
+   "answer": "1. There is no official religion for the Indian state; unlike Sri Lanka, Pakistan or England, India does not give a special status to any religion.\n2. The Constitution provides to all individuals and communities freedom to profess, practise and propagate any religion, or not to follow any.\n3. The Constitution prohibits discrimination on grounds of religion.\n4. At the same time, the state can intervene in religious matters to ensure equality within religious communities (for example, by banning untouchability).",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 23,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Explain the different forms that communalism can take in politics. Why is communalism a threat to democracy?",
+   "options": null,
+   "figure": null,
+   "answer": "Forms (any 4, 1 mark each, with explanation): (4)\n1. Everyday beliefs: stereotypes about religious communities and belief in the superiority of one's religion.\n2. A communal mind often leads to a quest for political dominance of one's own religious community; for the minority community it can take the form of a desire to form a separate political unit.\n3. Political mobilisation on religious lines: use of sacred symbols, religious leaders, emotional appeal and fear in order to bring the followers of one religion together in the political arena.\n4. Communal violence, riots and massacres (for example, at the time of the Partition).\nThreat (1): Communalism assumes that the interests of different religious groups are opposed; this prevents equal treatment of all citizens and endangers national unity.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 24,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Read the given text and answer the following questions:\nWomen's participation\nIn a Class 10 discussion, students were told that in an average day an Indian woman works about an hour more than an average man, but much of her work is not paid and is therefore not valued. Women are also mostly absent from the top posts. Women's movements and organisations have demanded that a reasonable share of seats in the elected bodies should be reserved for women. In India, one-third of seats in rural and urban local bodies (panchayats and municipalities) are reserved for women. This has brought lakhs of women into the political arena and resulted in a new generation of women leaders.\nSource: Democratic Politics-II, NCERT (adapted)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the sexual division of labour?",
+     "marks": 1,
+     "options": null,
+     "answer": "A system in which all work inside the home is either done by the women of the family or organised by them, while men do the work outside the home."
+    },
+    {
+     "text": "Why is the work done by women often not valued?",
+     "marks": 1,
+     "options": null,
+     "answer": "Because much of it (housework, caring for children) is unpaid and is therefore not recognised as productive work."
+    },
+    {
+     "text": "Write any two ways in which the reservation for women in local bodies has helped.",
+     "marks": 2,
+     "options": null,
+     "answer": "(Any two) It has brought a large number of women into public life and politics; it has produced a new generation of women leaders; it has given women decision-making roles at the grassroots level; it has improved their status and confidence. (1+1)"
+    }
+   ],
+   "origin": "variant",
+   "basis": "Gender case in sample papers"
+  },
+  {
+   "no": 25,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Read the given text and answer the following questions:\nCaste and politics\nCaste has also been a factor in elections. When parties choose candidates in elections, they keep in mind the caste composition of the electorate and nominate candidates from different castes so as to win the necessary support to win elections. When governments are formed, political parties usually take care that representatives of different castes and tribes find a place in it. Political parties and candidates in elections make appeals to caste sentiments to muster support. Some political parties are known to favour some castes and are seen as their representatives. Universal adult franchise and the principle of one-person-one-vote compelled political leaders to gear up to the task of mobilising and securing political support. It also brought new consciousness among the people of castes that were treated as inferior and low.\nSource: Democratic Politics-II, NCERT (adapted)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Name any one factor that compels parties to look at caste composition while choosing candidates.",
+     "marks": 1,
+     "options": null,
+     "answer": "The caste composition of the electorate in the constituency."
+    },
+    {
+     "text": "What is meant by 'one-person-one-vote'?",
+     "marks": 1,
+     "options": null,
+     "answer": "Every adult citizen has one vote, and every vote has equal value irrespective of caste, religion or gender."
+    },
+    {
+     "text": "How has caste influenced politics in India? Give one positive and one negative impact.",
+     "marks": 2,
+     "options": null,
+     "answer": "Positive: political competition has given disadvantaged castes a chance to demand their share of power and has made them more aware. Negative: an exclusive focus on caste can divert attention from other burning issues such as poverty, development and corruption, and can lead to tensions, conflict and violence. (1+1)"
+    }
+   ],
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 26,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Which organisation prepares the Human Development Report that compares countries on the basis of education, health and per capita income?",
+   "options": [
+    "(a) World Bank",
+    "(b) United Nations Development Programme (UNDP)",
+    "(c) World Trade Organisation",
+    "(d) International Monetary Fund"
+   ],
+   "figure": null,
+   "answer": "(b) United Nations Development Programme (UNDP) — The UNDP's Human Development Report ranks countries on the basis of the educational levels of the people, their health status and per capita income.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 27,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "What does the Infant Mortality Rate (IMR) indicate?",
+   "options": [
+    "(a) Number of children who die before reaching age 5 per 1000 children",
+    "(b) Number of children dead before the age of one year as a proportion of 1000 live births in that particular year",
+    "(c) Number of live births per 1000 population",
+    "(d) Average life of an infant"
+   ],
+   "figure": null,
+   "answer": "(b) Number of children dead before the age of one year as a proportion of 1000 live births in that particular year — Infant Mortality Rate: the number of children that die before the age of one year as a proportion of 1000 live births in that particular year.",
+   "or": null,
+   "subparts": null,
+   "origin": "variant",
+   "basis": "SST_CBSE_Official Q38 (development indicators)"
+  },
+  {
+   "no": 28,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch18_Economics_Development",
+   "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the appropriate answer from the options given below as the correct answer:\nAssertion (A): Averages can hide disparities.\nReason (R): Two countries with the same average income may differ widely in how income is distributed among their people.",
+   "options": [
+    "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "(B) Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+    "(C) (A) is true, but (R) is false.",
+    "(D) (A) is false, but (R) is true."
+   ],
+   "figure": null,
+   "answer": "(A) Both (A) and (R) are true and (R) is the correct explanation of (A). — Average income is the total income divided by the number of people; it does not show how income is distributed, so R explains A.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Define per capita income. Why is it not a sufficient measure of development?",
+   "options": null,
+   "figure": null,
+   "answer": "Per capita income is the average income of a country, obtained by dividing the total income of the country by its total population. (1)\nIt does not reveal how income is distributed among people, and ignores non-income aspects such as health, education, equality and freedom, so it is not sufficient. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 30,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch18_Economics_Development",
+   "text": "State any two reasons for which different persons may have different development goals.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 2) Different people have different life situations, so their goals differ. A landless rural labourer may want more days of work and better wages, a prosperous farmer may want assured high prices for crops, and girls may want freedom and equal opportunity; people look at what is best for them, and the goals of one may conflict with those of another. (1+1)",
+   "or": null,
+   "subparts": null,
+   "origin": "variant",
+   "basis": "SST_CBSE_Official Q29 (goals of national development)"
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Why is sustainability of development important? Explain with the help of two examples from the NCERT textbook.",
+   "options": null,
+   "figure": null,
+   "answer": "Sustainable development means development which meets the needs of the present without compromising the ability of future generations to meet their needs; resources must not be over-used. (1)\nExamples (any 2): (a) in several regions of Punjab, groundwater has been overused and its level is falling; (b) crude oil, a non-renewable resource, will be exhausted if used at the present rate; (c) environmental degradation such as pollution of air and water also reduces the possibility of development. (2)",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Explain how the availability of public facilities makes a difference to the development of a State. Give examples.",
+   "options": null,
+   "figure": null,
+   "answer": "Public facilities such as primary health care, schools, the Public Distribution System (ration shops) and midday meals are provided by the government and improve people's quality of life. (1)\nKerala has a low Infant Mortality Rate and high literacy because of better basic health and educational facilities and an effective PDS, even though its per capita income is not the highest among States. (1)\nTamil Nadu's midday meal scheme (attracting poor children to school and improving nutrition) is another example. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch18_Economics_Development",
+   "text": "A student compares three States using the table below (figures are illustrative). Analyse the data and suggest what each State should focus on. (1+2+2)\n\n| State | Infant Mortality Rate (per 1,000 live births) | Literacy Rate (%) | Net Attendance Ratio, Secondary (%) |\n|---|---|---|---|\n| P | 8 | 96 | 92 |\n| Q | 30 | 70 | 65 |\n| R | 45 | 58 | 52 |",
+   "options": null,
+   "figure": null,
+   "answer": "1. State P has the best performance on all three indicators: lowest IMR, highest literacy and highest attendance, so it has the highest level of human development among the three. (1)\n2. R has the highest IMR and the lowest literacy and attendance, showing the lowest level of development; Q lies in between. Where literacy and attendance are high, infant deaths are low: health and education are connected. (2)\n3. Suggestions: P should maintain its achievements and work on sustainability and quality; Q should improve health care and increase secondary school enrolment; R should give priority to basic health facilities, nutrition and schools, particularly for girls. (2)",
+   "or": null,
+   "subparts": null,
+   "origin": "variant",
+   "basis": "SST_CBSE_Official Q38"
+  },
+  {
+   "no": 34,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Read the given text and answer the following questions:\nDevelopment and income\nA group of students studied three villages with the same average income. In Village A, income is shared fairly equally; in Village B, a few families earn most of the income; in Village C, income is lower but people have free access to a good school, a clinic and a ration shop. The students found that people of Village C felt more secure about their future, though they earn less. They concluded that income is only one of the indicators of development.\nSource: based on Economics - Understanding Economic Development, NCERT, Chapter 1",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Why is average income not always a good measure to compare villages?",
+     "marks": 1,
+     "options": null,
+     "answer": "It does not show how income is distributed among the people."
+    },
+    {
+     "text": "Name any two non-income goals that people may value.",
+     "marks": 1,
+     "options": null,
+     "answer": "Equal treatment, freedom, security, respect of others (any two); or health, education."
+    },
+    {
+     "text": "How does Village C show that income alone is not enough for development?",
+     "marks": 2,
+     "options": null,
+     "answer": "Though its income is lower, it has public facilities (school, clinic, ration shop) that improve quality of life; people value security and basic services as well as income. (2)"
+    }
+   ],
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 35,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "A multinational corporation (MNC) is a company that",
+   "options": [
+    "(a) Sells goods only in the foreign markets",
+    "(b) Owns or controls production in more than one nation",
+    "(c) Is owned by the governments of more than one country",
+    "(d) Produces goods only for export"
+   ],
+   "figure": null,
+   "answer": "(b) Owns or controls production in more than one nation — MNCs set up offices and factories for production in regions where they can get cheap labour and other resources.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "text": "How do multinational corporations spread their production in other countries? Explain any three ways.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 3) 1. MNCs set up production jointly with some of the local companies of the country (joint production), providing the local company with additional investment for new machinery. (1)\n2. They buy local companies and then expand production, e.g. the takeover of Parle's Thums Up by Coca-Cola. (1)\n3. They place orders for production with small producers in developing countries and sell the products under their own brand, as is done with garments, footwear and sports items. (1)\n4. They set up production in Special Economic Zones where they get facilities such as roads, power and tax concessions.",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 37,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "In India, 24 December is observed every year as",
+   "options": [
+    "(a) World Consumer Rights Day",
+    "(b) National Consumer Day",
+    "(c) National Standards Day",
+    "(d) Right to Information Day"
+   ],
+   "figure": null,
+   "answer": "(b) National Consumer Day — 24 December is celebrated as National Consumer Day in India, as the Consumer Protection Act (COPRA) was enacted on that day in 1986.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 38,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Which mark is used to certify the purity of gold jewellery?",
+   "options": [
+    "(a) ISI",
+    "(b) Agmark",
+    "(c) Hallmark",
+    "(d) FPO"
+   ],
+   "figure": null,
+   "answer": "(c) Hallmark — Hallmark certifies the purity of gold jewellery; ISI is used on industrial and consumer goods and Agmark on agricultural products.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 39,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Agmark is the quality certification mark for",
+   "options": [
+    "(a) Electrical goods",
+    "(b) Gold ornaments",
+    "(c) Agricultural commodities such as pulses and spices",
+    "(d) Packaged water"
+   ],
+   "figure": null,
+   "answer": "(c) Agricultural commodities such as pulses and spices — Agmark certifies agricultural commodities; the standards are set and monitored by a government agency.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 40,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Under the three-tier quasi-judicial machinery set up by the Consumer Protection Act, a consumer who is not satisfied with the decision of the District level court can appeal to the",
+   "options": [
+    "(a) Supreme Court directly",
+    "(b) State level court",
+    "(c) Consumer Protection Council",
+    "(d) Gram Sabha"
+   ],
+   "figure": null,
+   "answer": "(b) State level court — The three tiers are the District level, the State level and the National level; a dissatisfied consumer can appeal to the State level and then to the National level.",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 41,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "A consumer who checks the price, date of manufacture and expiry date on a packed product is making use of the",
+   "options": [
+    "(a) Right to Safety",
+    "(b) Right to be informed",
+    "(c) Right to Represent",
+    "(d) Right to Seek Redressal"
+   ],
+   "figure": null,
+   "answer": "(b) Right to be informed — The right to be informed about the price, quantity, quality, purity, date of manufacture and expiry date entitles the consumer to this information on the label.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 42,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "The Right to Information (RTI) Act was passed in India in",
+   "options": [
+    "(a) 1986",
+    "(b) 1991",
+    "(c) 2005",
+    "(d) 2019"
+   ],
+   "figure": null,
+   "answer": "(c) 2005 — The RTI Act was passed in October 2005; it gives citizens the right to information about the functioning of government departments.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 43,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the appropriate answer from the options given below as the correct answer:\nAssertion (A): The consumer movement in India arose out of the dissatisfaction of consumers with unfair trade practices.\nReason (R): Food shortages, hoarding, black marketing and adulteration of food and edible oil were rampant in the years before the movement took shape.",
+   "options": [
+    "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "(B) Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+    "(C) (A) is true, but (R) is false.",
+    "(D) (A) is false, but (R) is true."
+   ],
+   "figure": null,
+   "answer": "(A) Both (A) and (R) are true and (R) is the correct explanation of (A). — Both are true; these malpractices caused dissatisfaction, and organised action from the 1960s led to the consumer movement.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 44,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the appropriate answer from the options given below as the correct answer:\nAssertion (A): The Right to Information Act gives a citizen the power to seek information from government offices.\nReason (R): The Act was passed so that government functioning could be made more transparent and accountable.",
+   "options": [
+    "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "(B) Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+    "(C) (A) is true, but (R) is false.",
+    "(D) (A) is false, but (R) is true."
+   ],
+   "figure": null,
+   "answer": "(A) Both (A) and (R) are true and (R) is the correct explanation of (A). — Both are true and R is the correct explanation: the RTI Act ensures that people can ask what government departments are doing, which makes them more accountable.",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 45,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "What are consumer rights? Give any one right.",
+   "options": null,
+   "figure": null,
+   "answer": "Consumer rights are the legal entitlements of consumers, such as the right to be protected against the marketing of goods and services that are hazardous to life and property. (1)\nOne right (any one): Right to safety; Right to be informed; Right to choose; Right to seek redressal; Right to represent. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 46,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "What is the full form of COPRA? Mention one provision of it.",
+   "options": null,
+   "figure": null,
+   "answer": "COPRA stands for the Consumer Protection Act (1986). (1)\nIt set up a three-tier quasi-judicial machinery (consumer courts) for redressal of consumer disputes at the district, state and national levels. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 47,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Why do we need standards such as ISI and Agmark for goods? Give two reasons.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 2) They assure the consumer about the quality of the product; they protect the consumer from adulteration and substandard goods (e.g. in edible oil, spices and jewellery); they help the consumer to make informed choices in a market where he cannot judge the quality of the product by himself. (1+1)",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 48,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "How can the Right to Information Act help a citizen? Explain with one example.",
+   "options": null,
+   "figure": null,
+   "answer": "The RTI Act allows citizens to ask for information about the functioning of government departments, such as the progress of an application or the use of funds. (1)\nExample: a person can ask why an application for a ration card has not been processed, or can inspect the records of a development work in the village. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 49,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "State two ways in which consumers can be exploited in the market.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 2) Selling less than the quantity shown (use of faulty weights and measures); selling adulterated or defective goods; charging more than the Maximum Retail Price; hiding information about the product; misleading advertisements; not giving a bill or cash memo. (1+1)",
+   "or": null,
+   "subparts": null,
+   "origin": "variant",
+   "basis": "Consumer exploitation (textbook)"
+  },
+  {
+   "no": 50,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Explain any three rights of consumers with one example for each.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 3, 1 mark each) (1) Right to safety: protection against goods, such as faulty electrical appliances or LPG cylinders, that are hazardous to life; (2) Right to be informed: details of ingredients, price, batch number, date of manufacture and expiry date must be given on the pack; (3) Right to choose: consumers should be free to select from a variety of products and not be forced to buy one; (4) Right to seek redressal: against unfair trade practices, one can complain in a consumer court; (5) Right to represent: consumers are represented in consumer courts, and consumer organisations can raise their issues.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 51,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "How does the consumer movement help the consumer? Explain with the help of any three points.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 3)\n1. It originated from consumer dissatisfaction caused by food shortages, hoarding, black marketing and adulteration; it forced the government and businesses to listen.\n2. Consumer groups organise awareness campaigns and exhibitions and write articles, so that consumers know their rights.\n3. They help consumers fight cases in consumer courts; the Consumer Protection Act of 1986 resulted from the movement.\n4. They put pressure on business firms and the government to correct unfair trade practices and to follow standards.\n5. 24 December is celebrated as National Consumer Day.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 52,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Describe the quasi-judicial machinery under COPRA for redressal of consumer disputes.",
+   "options": null,
+   "figure": null,
+   "answer": "COPRA (1986) provided for a three-tier quasi-judicial machinery: (1)\n1. District level court (the lowest), which handles complaints of smaller claims. (1)\n2. State level court, and 3. National level court, the highest. If a consumer is not satisfied with the decision of the district level, he or she can appeal to the State level and then to the National level. A consumer can file a complaint on his or her own; a lawyer is not essential. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 53,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Why are consumers unable to protect themselves in the market? State three reasons and mention why awareness is necessary.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 3) 1. Information about the product is available more to the producer or seller; the consumer cannot judge quality. 2. Producers are few and powerful and may pass on poor quality goods and use unfair practices; consumers are scattered, weak and unorganised. 3. Legal procedure is long and costly for individual buyers. 4. Rules and regulations for the safety of consumers exist, but not many consumers know about them or ask for them. Hence awareness of rights, COPRA and consumer courts is necessary.",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 54,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "What are the responsibilities of a consumer? Mention any three responsibilities along with their importance.",
+   "options": null,
+   "figure": null,
+   "answer": "(Any 3) 1. Ask for a cash memo or bill when buying, as it serves as evidence of purchase. 2. Check the quality mark (ISI, Agmark, Hallmark), the MRP and the expiry date. 3. Be aware of your rights and file a complaint with consumer courts or authorities when you are cheated. 4. Avoid buying under pressure or misleading advertisements; verify quantity and weights. Awareness and responsible buying together reduce exploitation.",
+   "or": null,
+   "subparts": null,
+   "origin": "variant",
+   "basis": "Consumer responsibilities"
+  },
+  {
+   "no": 55,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "What is the Right to Information Act? Explain how it has been useful to citizens, giving any three points. How is it related to the consumer movement?",
+   "options": null,
+   "figure": null,
+   "answer": "1. The RTI Act, passed in October 2005, ensures all citizens the right to get information about the functions of government departments. (1)\n2. Usefulness (any 3, 3 marks): it makes government functioning transparent; helps citizens to find the status of applications (ration cards, pension, licences) and the use of funds; helps expose corruption; makes officials accountable to the citizens.\n3. Link (1): like the consumer movement, it shows that organised, informed citizens can bring about change.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 56,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Explain the consumer rights recognised in India and the redressal system for a consumer.",
+   "options": null,
+   "figure": null,
+   "answer": "Rights (any 3, 3 marks): safety, information, choice, seeking redressal, representation, with a brief explanation of each.\nRedressal (2 marks): COPRA 1986 set up the three-tier machinery, with consumer courts at district, state and national level; a consumer may appeal from district to state and then to national level; a consumer may file a complaint on his or her own, and a lawyer is not necessary.",
+   "or": null,
+   "subparts": null,
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 57,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "How are consumers' interests protected by quality standards and certification marks? Explain the role of ISI, Agmark and Hallmark with examples. Why must the consumer still be careful?",
+   "options": null,
+   "figure": null,
+   "answer": "1. Quality standards ensure that goods and services reach the minimum standards of quality and safety. (1)\n2. ISI: used for industrial and consumer goods such as electrical appliances and packaged products (Bureau of Indian Standards). (1)\n3. Agmark: for agricultural commodities such as pulses, spices and edible oils. (1)\n4. Hallmark: for gold jewellery, to ensure purity. (1)\n5. Even with these marks, consumers should check the mark, read labels, ask for a bill and complain when needed, since violations and fake marks exist. (1)",
+   "or": null,
+   "subparts": null,
+   "origin": "related",
+   "basis": ""
+  },
+  {
+   "no": 58,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Read the given text and answer the following questions:\nConsumer exploitation\nRamesh bought a packet of branded edible oil from a shop. When he reached home, he found that the quantity in the packet was less than that printed on it, and the price charged was higher than the printed MRP. The shopkeeper refused to take the packet back and did not give a bill. Ramesh decided to approach the consumer court.\nSource: Economics - Understanding Economic Development, NCERT (adapted)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Which two unfair trade practices were followed by the shopkeeper?",
+     "marks": 1,
+     "options": null,
+     "answer": "Selling a smaller quantity than shown and charging more than the printed MRP."
+    },
+    {
+     "text": "Why is a cash memo important for Ramesh?",
+     "marks": 1,
+     "options": null,
+     "answer": "It is evidence of purchase that can be produced in a consumer court."
+    },
+    {
+     "text": "Which consumer right can Ramesh exercise? Explain how he can get redressal.",
+     "marks": 2,
+     "options": null,
+     "answer": "Right to seek redressal (and the right to be informed). He can file a complaint in the district-level consumer court under COPRA; if dissatisfied with the decision, he can appeal to the State and then the National level. (2)"
+    }
+   ],
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 59,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Read the given text and answer the following questions:\nConsumer awareness\nSapna, a Class 10 student, observed that the pack of spices that her mother bought carried the Agmark symbol, a packaged-water bottle carried the ISI mark, and a necklace was hallmarked. She also learnt from a teacher that the Right to Information Act is a tool to ask government offices for details of works done. She decided to form a consumer club in her school.\nSource: Economics - Understanding Economic Development, NCERT (adapted)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Identify the item for which the Hallmark is used.",
+     "marks": 1,
+     "options": null,
+     "answer": "Gold jewellery."
+    },
+    {
+     "text": "What does the Agmark symbol on spices indicate?",
+     "marks": 1,
+     "options": null,
+     "answer": "The quality of agricultural commodities is certified according to the standards set."
+    },
+    {
+     "text": "State two activities a school consumer club can undertake.",
+     "marks": 2,
+     "options": null,
+     "answer": "(Any two) Holding awareness campaigns on consumer rights; checking quality marks and expiry dates; helping students file complaints; publishing posters and articles; organising exhibitions. (1+1)"
+    }
+   ],
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 60,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Read the given text and answer the following questions:\nConsumer movement in India\nIn the 1960s, consumer organisations were mostly engaged in writing articles and holding exhibitions. They set up groups to look into the malpractices in ration shops and overcharging in road transport. In India, the consumer movement arose out of the dissatisfaction of the consumers, as many unfair practices were indulged in by the sellers: food shortages, hoarding, black marketing and adulteration of food and edible oil were rampant. The consumer movement gave rise to the Consumer Protection Act, 1986, popularly known as COPRA.\nSource: Economics - Understanding Economic Development, NCERT (adapted)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What were the main reasons behind the consumer movement in India?",
+     "marks": 1,
+     "options": null,
+     "answer": "Dissatisfaction caused by food shortages, hoarding, black marketing and adulteration of food and edible oil."
+    },
+    {
+     "text": "Mention any one activity of consumer organisations in the 1960s.",
+     "marks": 1,
+     "options": null,
+     "answer": "Writing articles, holding exhibitions, or looking into malpractices in ration shops or overcharging in road transport."
+    },
+    {
+     "text": "Describe the role of COPRA in protecting consumers.",
+     "marks": 2,
+     "options": null,
+     "answer": "It gave consumers legal rights and set up consumer courts at district, state and national level for redressal of disputes. (2)"
+    }
+   ],
+   "origin": "ncert",
+   "basis": ""
+  },
+  {
+   "no": 61,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch21_Economics_Consumer_Rights",
+   "text": "Read the given text and answer the following questions:\nRight to Information\nIn a village, people found that the work of a road was shown as completed on paper, though no road was constructed. A group of residents filed an application under the Right to Information Act in the concerned office asking for details of money spent and the work done. After the details were provided, officials had to explain the discrepancies.\nSource: Economics - Understanding Economic Development, NCERT (adapted)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Under which law did the villagers seek information?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Right to Information Act, 2005."
+    },
+    {
+     "text": "What was the benefit of using this law here?",
+     "marks": 1,
+     "options": null,
+     "answer": "It made the officials accountable and the records public."
+    },
+    {
+     "text": "Explain how the RTI Act is a tool for good governance.",
+     "marks": 2,
+     "options": null,
+     "answer": "It makes government working open and transparent, discourages corruption and makes officials answerable to the citizens; people can scrutinise the use of public money. (2)"
+    }
+   ],
+   "origin": "related",
+   "basis": ""
+  }
+ ]
+}

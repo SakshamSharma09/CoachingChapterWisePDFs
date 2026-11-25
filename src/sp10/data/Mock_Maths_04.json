@@ -1,0 +1,1093 @@
+{
+ "subject": "Maths",
+ "paper": "Mock_04",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "origin": "variant",
+   "basis": "Paper_01 Q1",
+   "basis_question": {
+    "no": 1,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch01_Real_Numbers",
+    "text": "$(2 - 5\\sqrt{3})^2$ is",
+    "options": [
+     "a rational number",
+     "a negative integer",
+     "an irrational number",
+     "a positive integer"
+    ],
+    "figure": null,
+    "answer": "(c) an irrational number — $(2-5\\sqrt{3})^2 = 4 + 75 - 20\\sqrt{3} = 79 - 20\\sqrt{3}$, which is irrational.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "$(3\\sqrt2-2\\sqrt3)^2$ is",
+   "options": [
+    "a positive integer",
+    "an irrational number",
+    "a negative integer",
+    "a rational number"
+   ],
+   "answer": "(b) an irrational number — $(3\\sqrt2-2\\sqrt3)^2=18+12-12\\sqrt6=30-12\\sqrt6$, which is irrational.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "origin": "ncert",
+   "text": "The quadratic polynomial whose sum and product of zeroes are $-3$ and $2$ respectively is",
+   "options": [
+    "$x^2-3x+2$",
+    "$x^2+3x+2$",
+    "$x^2+3x-2$",
+    "$x^2-3x-2$"
+   ],
+   "answer": "(b) $x^2+3x+2$ — polynomial $=x^2-(\\text{sum})x+\\text{product}=x^2-(-3)x+2=x^2+3x+2$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "origin": "ncert",
+   "text": "The value of $k$ for which the pair of equations $2x+3y=7$ and $(k-1)x+(k+2)y=3k$ has infinitely many solutions is",
+   "options": [
+    "5",
+    "7",
+    "9",
+    "-7"
+   ],
+   "answer": "(b) 7 — for infinitely many solutions $\\frac{k-1}{2}=\\frac{k+2}{3}=\\frac{3k}{7}$. From the first two, $3k-3=2k+4\\Rightarrow k=7$. Check: $\\frac{3k}{7}=3=\\frac{k-1}{2}$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "If the equation $9x^2+6kx+4=0$ has equal roots, then the roots are both equal to",
+   "options": [
+    "0",
+    "$\\pm3$",
+    "$\\pm\\frac{2}{3}$",
+    "$\\pm\\frac{3}{2}$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\pm\\frac{2}{3}$ — $a=9,b=6k,c=4$; equal roots so $D=b^2-4ac=36k^2-144=0\\Rightarrow k^2=4\\Rightarrow k=\\pm2$. Roots $=\\frac{-b}{2a}=\\frac{\\mp12}{18}=\\mp\\frac{2}{3}$, i.e. both roots are equal to $\\pm\\frac{2}{3}$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q5"
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "variant",
+   "basis": "Paper_09 Q5",
+   "basis_question": {
+    "no": 5,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch05_Arithmetic_Progressions",
+    "text": "The common difference of the A.P. whose $n^{\\text{th}}$ term is given by $a_n = 3n + 7$, is:",
+    "options": [
+     "3",
+     "7",
+     "3n",
+     "1"
+    ],
+    "figure": null,
+    "answer": "(a) 3 — $a_1=10$, $a_2=13$, $d=a_2-a_1=3$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "The common difference of the A.P. whose $n^{\\text{th}}$ term is $a_n=7-4n$, is:",
+   "options": [
+    "4",
+    "7",
+    "-4",
+    "3"
+   ],
+   "answer": "(c) $-4$ — $a_1=3$, $a_2=-1$, $d=a_2-a_1=-4$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "ncert",
+   "text": "The point on the x-axis which is equidistant from $A(2,-5)$ and $B(-2,9)$ is",
+   "options": [
+    "$(7,0)$",
+    "$(-7,0)$",
+    "$(0,-7)$",
+    "$(0,7)$"
+   ],
+   "answer": "(b) $(-7,0)$ — let the point be $(x,0)$. $(x-2)^2+25=(x+2)^2+81\\Rightarrow-8x=56\\Rightarrow x=-7$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "variant",
+   "basis": "Paper_08 Q14",
+   "basis_question": {
+    "no": 14,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch07_Coordinate_Geometry",
+    "text": "In what ratio does x-axis divide the line segment joining the points $A(2, -3)$ and $B(5, 6)$?",
+    "options": [
+     "$2:3$",
+     "$3:5$",
+     "$2:1$",
+     "$1:2$"
+    ],
+    "figure": null,
+    "answer": "(d) $1:2$ — let the x-axis cut AB in ratio $k:1$; $y=\\frac{6k-3}{k+1}=0\\Rightarrow k=\\frac12$, so the ratio is $1:2$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "In what ratio does the x-axis divide the line segment joining the points $A(3,-2)$ and $B(5,3)$?",
+   "options": [
+    "$3:2$",
+    "$2:3$",
+    "$2:5$",
+    "$1:3$"
+   ],
+   "answer": "(b) $2:3$ — let the x-axis cut AB in ratio $k:1$; $y=\\frac{3k-2}{k+1}=0\\Rightarrow k=\\frac23$, so the ratio is $2:3$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "origin": "variant",
+   "basis": "Paper_09 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch06_Triangles",
+    "text": "In the given figure, $AB \\parallel PQ$. If $AB = 6$ cm, $PQ = 2$ cm and $OB = 3$ cm, then the length of OP is:",
+    "options": [
+     "3 cm",
+     "1 cm",
+     "9 cm",
+     "4 cm"
+    ],
+    "figure": "fig_p02_1.png",
+    "answer": "(b) 1 cm — $\\triangle ABO\\sim\\triangle QPO$ (AA): $\\frac{AB}{QP}=\\frac{OB}{OP}\\Rightarrow\\frac62=\\frac3{OP}\\Rightarrow OP=1$ cm.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "In a figure, the lines AQ and BP intersect at O and $AB\\parallel PQ$. If $AB=9$ cm, $PQ=3$ cm and $OP=4$ cm, then the length of OB is:",
+   "options": [
+    "3 cm",
+    "6 cm",
+    "12 cm",
+    "27 cm"
+   ],
+   "answer": "(c) 12 cm — $\\triangle ABO\\sim\\triangle QPO$ (AA): $\\frac{AB}{QP}=\\frac{OB}{OP}\\Rightarrow\\frac93=\\frac{OB}{4}\\Rightarrow OB=12$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, PA is a tangent from an external point P to a circle with centre O. If $\\angle AOP = 70^\\circ$, then the measure of $\\angle APO$ is:",
+   "options": [
+    "$90^\\circ$",
+    "$110^\\circ$",
+    "$20^\\circ$",
+    "$70^\\circ$"
+   ],
+   "figure": "fig_p03_1.png",
+   "answer": "(c) $20^\\circ$ — The radius is perpendicular to the tangent, so $\\angle PAO=90^\\circ$. In $\\triangle APO$: $90^\\circ+70^\\circ+\\angle APO=180^\\circ\\Rightarrow\\angle APO=20^\\circ$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q9"
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In Figure, if AD, AE and BC are tangents to the circle at D, E and F respectively. Then,",
+   "options": [
+    "4AD = AB + BC + CA",
+    "AD = AB + BC + CA",
+    "2AD = AB + BC + CA",
+    "3AD = AB + BC + CA"
+   ],
+   "figure": "fig_p02_2.png",
+   "answer": "(c) 2AD = AB + BC + CA — tangents from an external point are equal: AD = AE, CD = CF, BE = BF. $2AD=AD+AE=(AC+CD)+(AB+BE)=AC+AB+(CF+BF)=AC+AB+BC$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q9"
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_01 Q15",
+   "basis_question": {
+    "no": 15,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "If $4\\tan\\theta = 3$, then $\\frac{4\\sin\\theta - \\cos\\theta}{4\\sin\\theta + \\cos\\theta}$ is equal to",
+    "options": [
+     "$\\frac{1}{3}$",
+     "$\\frac{3}{4}$",
+     "$\\frac{1}{2}$",
+     "$\\frac{2}{3}$"
+    ],
+    "figure": null,
+    "answer": "(c) $\\frac{1}{2}$ — Dividing numerator and denominator by $\\cos\\theta$: $\\frac{4\\tan\\theta - 1}{4\\tan\\theta + 1} = \\frac{3-1}{3+1} = \\frac{2}{4} = \\frac{1}{2}$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "If $5\\tan\\theta=4$, then $\\frac{5\\sin\\theta-3\\cos\\theta}{5\\sin\\theta+2\\cos\\theta}$ is equal to",
+   "options": [
+    "$\\frac14$",
+    "$\\frac16$",
+    "$\\frac13$",
+    "$\\frac25$"
+   ],
+   "answer": "(b) $\\frac16$ — dividing numerator and denominator by $\\cos\\theta$: $\\frac{5\\tan\\theta-3}{5\\tan\\theta+2}=\\frac{4-3}{4+2}=\\frac16$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "The value of $\\left(\\frac{1}{\\sec^2 A}+\\frac{1}{\\operatorname{cosec}^2 A}\\right)$ is:",
+   "options": [
+    "0",
+    "-1",
+    "1",
+    "more than 1"
+   ],
+   "figure": null,
+   "answer": "(c) 1 — $\\cos^2A+\\sin^2A=1$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q15"
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_07 Q13",
+   "basis_question": {
+    "no": 13,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch09_Some_Applications_of_Trigonometry",
+    "text": "The top of a broken tree has its top end touching the ground at a distance 15 m from the bottom, the angle made by the broken end with the ground is $30^\\circ$. Then length of broken part is",
+    "options": [
+     "$5\\sqrt{3}$ m",
+     "$\\sqrt{3}$ m",
+     "$10\\sqrt{3}$ m",
+     "10 m"
+    ],
+    "figure": null,
+    "answer": "(c) $10\\sqrt{3}$ m — Let the broken part be x. $\\cos30^\\circ=\\frac{15}{x}\\Rightarrow x\\times\\frac{\\sqrt3}{2}=15\\Rightarrow x=10\\sqrt3$ m.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "The top of a broken tree touches the ground at a distance of 12 m from its base, making an angle of $60^\\circ$ with the ground. Then the length of the broken part is",
+   "options": [
+    "12 m",
+    "$12\\sqrt3$ m",
+    "24 m",
+    "$8\\sqrt3$ m"
+   ],
+   "answer": "(c) 24 m — let the broken part be $x$. $\\cos60^\\circ=\\frac{12}{x}\\Rightarrow\\frac12=\\frac{12}{x}\\Rightarrow x=24$ m.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "origin": "variant",
+   "basis": "Paper_06 Q14",
+   "basis_question": {
+    "no": 14,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "text": "The ratio of the area of a quadrant of a circle to the area of the same circle is:",
+    "options": [
+     "1 : 2",
+     "1 : 4",
+     "4 : 1",
+     "2 : 1"
+    ],
+    "figure": null,
+    "answer": "(b) 1 : 4 — A quadrant is one fourth of the circle.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "The ratio of the area of a sector of angle $60^\\circ$ of a circle to the area of the circle is:",
+   "options": [
+    "1 : 3",
+    "1 : 2",
+    "1 : 6",
+    "6 : 1"
+   ],
+   "answer": "(c) 1 : 6 — ratio $=\\frac{60^\\circ}{360^\\circ}=\\frac16$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "origin": "variant",
+   "basis": "Paper_07 Q15",
+   "basis_question": {
+    "no": 15,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "text": "The angle of the major sector and the corresponding minor sector of a circle are",
+    "options": [
+     "Complementary Angles",
+     "Reflex Angles",
+     "Supplementary Angles",
+     "Conjugate Angles"
+    ],
+    "figure": null,
+    "answer": "(d) Conjugate Angles — they add up to $360^\\circ$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "If the angle of a minor sector of a circle is $75^\\circ$, then the angle of the corresponding major sector is",
+   "options": [
+    "$105^\\circ$",
+    "$285^\\circ$",
+    "$15^\\circ$",
+    "$255^\\circ$"
+   ],
+   "answer": "(b) $285^\\circ$ — the two angles add up to $360^\\circ$; $360^\\circ-75^\\circ=285^\\circ$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "origin": "variant",
+   "basis": "Paper_03 Q15",
+   "basis_question": {
+    "no": 15,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch14_Probability",
+    "text": "A child's game has 8 triangles of which 5 are blue and rest are red and 10 squares of which 6 are blue and the rest are red. One piece is lost at random. The probability that it is a square of blue colour is",
+    "options": [
+     "$\\frac{2}{3}$",
+     "$\\frac{4}{9}$",
+     "$\\frac{1}{3}$",
+     "$\\frac{6}{10}$"
+    ],
+    "figure": null,
+    "answer": "(c) $\\frac{1}{3}$ — total pieces $=8+10=18$; blue squares $=6$. Probability $=\\frac{6}{18}=\\frac{1}{3}$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "A box contains 12 red, 8 green and 5 yellow marbles. One marble is drawn at random. The probability that it is not green is",
+   "options": [
+    "$\\frac{8}{25}$",
+    "$\\frac{12}{25}$",
+    "$\\frac{17}{25}$",
+    "$\\frac{3}{5}$"
+   ],
+   "answer": "(c) $\\frac{17}{25}$ — total marbles $=12+8+5=25$; not green $=12+5=17$. Probability $=\\frac{17}{25}$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "origin": "variant",
+   "basis": "Paper_05 Q16",
+   "basis_question": {
+    "no": 16,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch14_Probability",
+    "text": "Which of the following cannot be the probability of an event?",
+    "options": [
+     "$\\frac13$",
+     "3%",
+     "0.1",
+     "$\\frac53$"
+    ],
+    "figure": null,
+    "answer": "(d) $\\frac53$ — Probability lies between 0 and 1, and $\\frac53>1$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "Which of the following cannot be the probability of an event?",
+   "options": [
+    "99%",
+    "$\\frac49$",
+    "$-\\frac25$",
+    "0.03"
+   ],
+   "answer": "(c) $-\\frac25$ — probability of an event always lies between 0 and 1, and $-\\frac25<0$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "origin": "ncert",
+   "text": "The modal class of a grouped frequency distribution is $20-30$ with frequency 10. The frequencies of the preceding and the succeeding classes are 4 and 6 respectively. The mode of the distribution is",
+   "options": [
+    "24",
+    "26",
+    "27",
+    "28"
+   ],
+   "answer": "(b) 26 — Mode $=l+\\frac{f_1-f_0}{2f_1-f_0-f_2}\\times h=20+\\frac{10-4}{20-4-6}\\times10=20+6=26$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "variant",
+   "basis": "Paper_02 Q19",
+   "basis_question": {
+    "no": 19,
+    "section": "A",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "Assertion (A): If we join two hemispheres of same radius along their bases, then we get a sphere.\nReason (R): Total Surface Area of a sphere of radius r is $3\\pi r^2$.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(c) A is true but R is false. (TSA of a sphere is $4\\pi r^2$, not $3\\pi r^2$.)",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Assertion (A): The total surface area of a hemisphere of radius $r$ is $3\\pi r^2$.\nReason (R): The curved surface area of a hemisphere of radius $r$ is $2\\pi r^2$.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. (TSA = curved surface $2\\pi r^2$ + flat circular base $\\pi r^2$ = $3\\pi r^2$.)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "ncert",
+   "text": "Assertion (A): If the sum of the first $n$ terms of an A.P. is $S_n=n^2+2n$, then its common difference is 2.\nReason (R): The $n^{\\text{th}}$ term of an A.P. is given by $a_n=S_n+S_{n-1}$.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(c) A is true but R is false. ($a_1=S_1=3$, $a_2=S_2-S_1=8-3=5$, so $d=2$. But the correct relation is $a_n=S_n-S_{n-1}$, not $S_n+S_{n-1}$.)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "origin": "variant",
+   "basis": "Paper_02 Q21",
+   "basis_question": {
+    "no": 21,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch01_Real_Numbers",
+    "text": "In a teachers' workshop, the number of teachers teaching French, Hindi and English are 48, 80 and 144 respectively. Find the minimum number of rooms required if in each room the same number of teachers are seated and all of them are of the same subject.",
+    "options": null,
+    "figure": null,
+    "answer": "Minimum number of rooms means the maximum number of teachers in a room, so find HCF of 48, 80, 144. $48=2^4\\times3$, $80=2^4\\times5$, $144=2^4\\times3^2$; HCF $=2^4=16$. Total number of rooms required $=\\frac{48}{16}+\\frac{80}{16}+\\frac{144}{16}=3+5+9=17$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "In a school workshop, the numbers of students from three classes are 60, 84 and 108. Find the minimum number of rooms required if each room seats the same number of students and all students in a room are from the same class.",
+   "options": null,
+   "answer": "Minimum number of rooms means the maximum number of students per room, so find the HCF of 60, 84, 108. $60=2^2\\times3\\times5$, $84=2^2\\times3\\times7$, $108=2^2\\times3^3$; HCF $=2^2\\times3=12$. Rooms required $=\\frac{60}{12}+\\frac{84}{12}+\\frac{108}{12}=5+7+9=21$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Triangles",
+   "text": "In a $\\Delta$ABC, D and E are points on the sides AB and AC respectively such that $DE\\parallel BC$. If AD = x, DB = x-2, AE = x + 2 and EC = x - 1, find the value of x.",
+   "options": null,
+   "figure": null,
+   "answer": "By the basic proportionality theorem, $\\frac{AD}{DB}=\\frac{AE}{EC}\\Rightarrow\\frac{x}{x-2}=\\frac{x+2}{x-1}\\Rightarrow x(x-1)=(x+2)(x-2)\\Rightarrow x^2-x=x^2-4\\Rightarrow x=4$ cm.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q22"
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "text": "In Fig., there are two concentric circles with centre $O$. If $ARC$ and $AQB$ are tangents to the smaller circle from the point $A$ lying on the larger circle, find the length of $AC$, if $AQ=5$ cm.",
+   "options": null,
+   "figure": "fig_p05_1.png",
+   "answer": "$AC$ and $AB$ are tangents from the external point $A$ to the smaller circle, so $AC=AB$. $AB$ is a chord of the bigger circle and $OQ\\perp AB$ (radius to the point of contact), so $OQ$ bisects the chord: $AQ=QB$, $AB=2AQ=10$ cm. Hence $AC=10$ cm.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q25"
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Evaluate: $\\frac{5\\cos^260^\\circ+4\\sec^230^\\circ-\\tan^245^\\circ}{\\sin^230^\\circ+\\cos^230^\\circ}$",
+   "options": null,
+   "figure": null,
+   "answer": "$=\\frac{5\\left(\\frac12\\right)^2+4\\left(\\frac{2}{\\sqrt3}\\right)^2-1}{\\left(\\frac12\\right)^2+\\left(\\frac{\\sqrt3}{2}\\right)^2}=\\frac{\\frac54+\\frac{16}{3}-1}{\\frac14+\\frac34}=\\frac{\\frac{15+64-12}{12}}{1}=\\frac{67}{12}$.",
+   "or": {
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "Prove that: $\\frac{\\sin\\theta-\\cos\\theta+1}{\\cos\\theta+\\sin\\theta-1}=\\frac{1}{\\sec\\theta-\\tan\\theta}$",
+    "options": null,
+    "figure": null,
+    "answer": "LHS $=\\frac{\\sin\\theta-\\cos\\theta+1}{\\sin\\theta+\\cos\\theta-1}$. Dividing numerator and denominator by $\\cos\\theta$: $=\\frac{\\tan\\theta-1+\\sec\\theta}{\\tan\\theta+1-\\sec\\theta}=\\frac{(\\tan\\theta+\\sec\\theta)-1}{(\\tan\\theta-\\sec\\theta)+1}$. Multiply and divide by $(\\tan\\theta-\\sec\\theta)$: $=\\frac{(\\tan^2\\theta-\\sec^2\\theta)-(\\tan\\theta-\\sec\\theta)}{\\{(\\tan\\theta-\\sec\\theta)+1\\}(\\tan\\theta-\\sec\\theta)}=\\frac{-1-\\tan\\theta+\\sec\\theta}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}=\\frac{-(\\tan\\theta-\\sec\\theta+1)}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}=\\frac{-1}{\\tan\\theta-\\sec\\theta}=\\frac{1}{\\sec\\theta-\\tan\\theta}$ = RHS."
+   },
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q21"
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "In a circle of radius 21 cm, an arc subtends an angle of $60^\\circ$ at the centre. Find the area of the sector formed by the arc. Also, find the length of the arc.",
+   "options": null,
+   "figure": null,
+   "answer": "Area of sector $=\\frac{60^\\circ}{360^\\circ}\\times\\frac{22}7\\times21\\times21=231$ cm$^2$. Length of arc $=\\frac{60^\\circ}{360^\\circ}\\times2\\times\\frac{22}7\\times21=22$ cm.",
+   "or": {
+    "text": "In the given figure, $ABCD$ is a square of side 10 cm. A sector of radius 5 cm is cut out from one of the corners. Find the area of the shaded region. (Take $\\pi=3.14$)",
+    "figure": "fig_p05_0.png",
+    "answer": "Area of shaded region $=$ area of square $-$ area of sector $=10^2-\\frac{90}{360}\\pi(5)^2=100-\\frac{3.14\\times25}4=100-19.625\\approx80.38$ cm$^2$.",
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "options": null
+   },
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q24"
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "origin": "ncert",
+   "text": "Given that $\\sqrt7$ is irrational, prove that $4-5\\sqrt7$ is irrational.",
+   "options": null,
+   "answer": "Suppose $4-5\\sqrt7$ is rational, say $4-5\\sqrt7=\\frac pq$ where $p,q$ are integers, $q\\neq0$ (1 mark). Then $\\sqrt7=\\frac{4-\\frac pq}{5}=\\frac{4q-p}{5q}$ (1 mark). Since $p,q$ are integers, $\\frac{4q-p}{5q}$ is rational, so $\\sqrt7$ would be rational. This contradicts the fact that $\\sqrt7$ is irrational. Hence our assumption is wrong and $4-5\\sqrt7$ is irrational (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Polynomials",
+   "origin": "ncert",
+   "text": "Find the zeroes of the polynomial $6x^2-7x-3$ and verify the relationship between the zeroes and the coefficients.",
+   "options": null,
+   "answer": "$6x^2-7x-3=6x^2-9x+2x-3=3x(2x-3)+1(2x-3)=(2x-3)(3x+1)$. Zeroes: $x=\\frac32$ and $x=-\\frac13$ (1.5 marks). Sum of zeroes $=\\frac32-\\frac13=\\frac76=-\\frac{(-7)}{6}$ ✓. Product $=\\frac32\\times\\left(-\\frac13\\right)=-\\frac12=\\frac{-3}{6}$ ✓ (1.5 marks).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch13_Statistics",
+   "origin": "variant",
+   "basis": "Paper_04 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch13_Statistics",
+    "text": "An aircraft has 120 passenger seats. The number of seats occupied during 100 flights is given in the following table, calculate the mean number of seats:\n\n| Number of seats | 100-104 | 104-108 | 108-112 | 112-116 | 116-120 |\n|---|---|---|---|---|---|\n| Frequency | 15 | 20 | 32 | 18 | 15 |",
+    "options": null,
+    "figure": null,
+    "answer": "Class marks $x_i$: 102, 106, 110, 114, 118. Take assumed mean $a=110$; deviations $d_i=x_i-a$: $-8,-4,0,4,8$; $f_id_i$: $-120,-80,0,72,120$; $\\sum f_i=100$, $\\sum f_id_i=-8$. Mean $=a+\\frac{\\sum f_id_i}{\\sum f_i}=110+\\frac{-8}{100}=110-0.08=109.92$. But seats cannot be in decimal, so the mean number of seats is 109. (The source prints '100 - 0.08' by a typo.)",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "The number of customers visiting a shop on each of 100 days is recorded in the following table. Calculate the mean number of customers per day.\n\n| Number of customers | 10-20 | 20-30 | 30-40 | 40-50 | 50-60 |\n|---|---|---|---|---|---|\n| Number of days | 12 | 18 | 30 | 25 | 15 |",
+   "options": null,
+   "answer": "Class marks $x_i$: 15, 25, 35, 45, 55. Take assumed mean $a=35$; $d_i=x_i-a$: $-20,-10,0,10,20$; $f_id_i$: $-240,-180,0,250,300$; $\\sum f_i=100$, $\\sum f_id_i=130$. Mean $=a+\\frac{\\sum f_id_i}{\\sum f_i}=35+\\frac{130}{100}=36.3$ customers per day.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "A part of monthly expenses of a family is constant and the remaining varies with the price of wheat. When the rate of wheat is Rs.250 a quintal, the total monthly expenses of the family are Rs.1000 and when it is Rs.240 a quintal, the total monthly expenses are Rs.980. Find the total monthly expenses of the family when the cost of wheat is Rs.350 a quintal.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the constant expenditure be Rs. x and the wheat consumed be y quintals. Then $1000=x+250y$ ...(i) and $980=x+240y$ ...(ii). Subtracting, $y=2$. From (i), $x=1000-500=500$. At Rs.350 per quintal, total expenses $=500+350\\times2=$ Rs.1200.",
+   "or": {
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+    "text": "Solve the system of equations graphically:\n$3x - 4y = 7$\n$5x + 2y = 3$\nShade the region between the lines and the y-axis",
+    "options": null,
+    "figure": null,
+    "answer": "$3x-4y=7$: $y=\\frac{3x-7}{4}$; points (1, -1) and (-3, -4). $5x+2y=3$: $y=\\frac{3-5x}{2}$; points (1, -1) and (3, -6). Plotting both lines, they intersect at A(1, -1). Hence $x=1$, $y=-1$ is the solution. (The region between the two lines and the y-axis is shaded in the graph.)"
+   },
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q29"
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_05 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "Prove that $\\frac{\\tan\\theta}{1-\\tan\\theta}-\\frac{\\cot\\theta}{1-\\cot\\theta}=\\frac{\\cos\\theta+\\sin\\theta}{\\cos\\theta-\\sin\\theta}$.",
+    "options": null,
+    "figure": null,
+    "answer": "LHS $=\\frac{\\frac{\\sin\\theta}{\\cos\\theta}}{1-\\frac{\\sin\\theta}{\\cos\\theta}}-\\frac{\\frac{\\cos\\theta}{\\sin\\theta}}{1-\\frac{\\cos\\theta}{\\sin\\theta}}=\\frac{\\sin\\theta}{\\cos\\theta-\\sin\\theta}-\\frac{\\cos\\theta}{\\sin\\theta-\\cos\\theta}=\\frac{\\sin\\theta}{\\cos\\theta-\\sin\\theta}+\\frac{\\cos\\theta}{\\cos\\theta-\\sin\\theta}=\\frac{\\sin\\theta+\\cos\\theta}{\\cos\\theta-\\sin\\theta}=$ RHS.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "Prove that $\\frac{\\cot\\theta}{1-\\tan\\theta}+\\frac{\\tan\\theta}{1-\\cot\\theta}=1+\\sec\\theta\\operatorname{cosec}\\theta$.",
+   "options": null,
+   "answer": "LHS $=\\frac{\\frac{\\cos\\theta}{\\sin\\theta}}{1-\\frac{\\sin\\theta}{\\cos\\theta}}+\\frac{\\frac{\\sin\\theta}{\\cos\\theta}}{1-\\frac{\\cos\\theta}{\\sin\\theta}}=\\frac{\\cos^2\\theta}{\\sin\\theta(\\cos\\theta-\\sin\\theta)}+\\frac{\\sin^2\\theta}{\\cos\\theta(\\sin\\theta-\\cos\\theta)}=\\frac{1}{\\cos\\theta-\\sin\\theta}\\left[\\frac{\\cos^2\\theta}{\\sin\\theta}-\\frac{\\sin^2\\theta}{\\cos\\theta}\\right]=\\frac{\\cos^3\\theta-\\sin^3\\theta}{\\sin\\theta\\cos\\theta(\\cos\\theta-\\sin\\theta)}=\\frac{\\cos^2\\theta+\\sin\\theta\\cos\\theta+\\sin^2\\theta}{\\sin\\theta\\cos\\theta}=\\frac{1+\\sin\\theta\\cos\\theta}{\\sin\\theta\\cos\\theta}=\\sec\\theta\\operatorname{cosec}\\theta+1=$ RHS.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "A point P is 26 cm from the centre of the circle. The length of the tangent drawn from P to the circle is 24 cm. Find the radius of the circle.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the tangent touch the circle at Q; $\\angle OQP=90^\\circ$. $OP^2=OQ^2+PQ^2 \\Rightarrow 676=OQ^2+576 \\Rightarrow OQ^2=100 \\Rightarrow OQ=10$ cm. Radius = 10 cm.",
+   "or": {
+    "chapter": "Ch10_Circles",
+    "text": "In the given figure, O is the centre of the circle and TP is the tangent to the circle from an external point T. If $\\angle PBT = 30^\\circ$, prove that BA: AT = 2:1.",
+    "options": null,
+    "figure": "fig_p06_0.png",
+    "answer": "AB is a diameter, so $\u0007ngle APB=90^\\circ$ (angle in a semicircle). By the alternate segment theorem $\u0007ngle TPA=\u0007ngle PBA=30^\\circ$. In $\triangle APB$, $\u0007ngle BAP=180^\\circ-90^\\circ-30^\\circ=60^\\circ$. Exterior angle of $\triangle APT$: $\u0007ngle BAP=\u0007ngle APT+\u0007ngle PTA\\Rightarrow60^\\circ=30^\\circ+\u0007ngle PTA\\Rightarrow\u0007ngle PTA=30^\\circ$. So $\u0007ngle APT=\u0007ngle PTA$ and $AP=AT$. In right $\triangle ABP$, $\\sin30^\\circ=\frac{AP}{BA}\\Rightarrow\frac{1}{2}=\frac{AT}{BA}$. Hence $BA:AT=2:1$."
+   },
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q31"
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch13_Statistics",
+   "origin": "ncert",
+   "text": "The following frequency distribution has total frequency 100 and its median is 31. Find the missing frequencies $x$ and $y$.\n\n| Class | 0-10 | 10-20 | 20-30 | 30-40 | 40-50 | 50-60 |\n|---|---|---|---|---|---|---|\n| Frequency | 8 | $x$ | 25 | 20 | $y$ | 10 |",
+   "options": null,
+   "answer": "Total: $8+x+25+20+y+10=100\\Rightarrow x+y=37$ ...(i). Since the median 31 lies in $30-40$, the median class is $30-40$: $l=30$, $f=20$, $h=10$, $n=100$, $cf=8+x+25=33+x$. Median $=l+\\frac{\\frac n2-cf}{f}\\times h\\Rightarrow31=30+\\frac{50-(33+x)}{20}\\times10\\Rightarrow1=\\frac{17-x}{2}\\Rightarrow x=15$. From (i), $y=22$. (Check: cumulative frequency before $30-40$ is $8+15+25=48<50$.)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch06_Triangles",
+   "origin": "variant",
+   "basis": "Paper_01 Q33",
+   "basis_question": {
+    "no": 33,
+    "section": "D",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch06_Triangles",
+    "text": "ABCD is a parallelogram, P is a point on side BC and DP when produced meets AB produced at L. Prove that\\ni. $\\frac{DP}{PL} = \\frac{DC}{BL}$\\nii. $\\frac{DL}{DP} = \\frac{AL}{DC}$\\niii. If LP : PD = 2 : 3 then find BP : BC.",
+    "options": null,
+    "figure": "fig_p05_2.png",
+    "answer": "i. $\\triangle DPC \\sim \\triangle LPB$, so $\\frac{DP}{PL} = \\frac{PC}{PB} = \\frac{DC}{BL}$. ii. In $\\triangle LDA$, BP || AD, so by the Basic Proportionality Theorem $\\frac{LP}{PD} = \\frac{LB}{BA}$. Adding 1 to both sides: $\\frac{LP + PD}{PD} = \\frac{LB + BA}{BA} \\Rightarrow \\frac{DL}{DP} = \\frac{AL}{AB} = \\frac{AL}{DC}$ (AB = CD). iii. $\\frac{LP}{LD} = \\frac{PB}{AD}$ ($\\triangle LPB \\sim \\triangle LDA$) $\\Rightarrow \\frac{2}{5} = \\frac{PB}{BC}$ (AD = BC). So BP : BC = 2 : 5.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "ABCD is a parallelogram. E is a point on side AD and BE, when produced, meets CD produced at F. Prove that\ni. $\\triangle AEB\\sim\\triangle DEF$\nii. $\\frac{BE}{EF}=\\frac{AB}{DF}$\niii. If $AE:ED=3:2$ and $AB=12$ cm, find DF and CF.",
+   "options": null,
+   "answer": "i. $AB\\parallel CD$, i.e. $AB\\parallel DF$. $\\angle AEB=\\angle DEF$ (vertically opposite) and $\\angle EAB=\\angle EDF$ (alternate angles, AD transversal). So $\\triangle AEB\\sim\\triangle DEF$ (AA). ii. Corresponding sides of similar triangles are proportional: $\\frac{AE}{DE}=\\frac{BE}{FE}=\\frac{AB}{DF}$, hence $\\frac{BE}{EF}=\\frac{AB}{DF}$. iii. $\\frac{AE}{DE}=\\frac{AB}{DF}\\Rightarrow\\frac32=\\frac{12}{DF}\\Rightarrow DF=8$ cm. $CD=AB=12$ cm (opposite sides of a parallelogram) and F lies on CD produced beyond D, so $CF=CD+DF=12+8=20$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "variant",
+   "basis": "Paper_06 Q34",
+   "basis_question": {
+    "no": 34,
+    "section": "D",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch04_Quadratic_Equations",
+    "text": "A train travels at a certain average speed for a distance of 360 km. It would have taken 48 minutes less to travel the same distance if its speed was 5 km/hour more. Find the original speed of the train.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the original speed be x km/h. $\\frac{360}{x}-\\frac{360}{x+5}=\\frac{48}{60}=\\frac{4}{5}$. $\\Rightarrow\\frac{360\\cdot5}{x(x+5)}=\\frac{4}{5}\\Rightarrow\\frac{1800}{x^2+5x}=\\frac{4}{5}\\Rightarrow x^2+5x-2250=0\\Rightarrow(x+50)(x-45)=0$. $x=-50$ (rejected, speed cannot be negative) or $x=45$. Original speed = 45 km/h.",
+    "or": {
+     "chapter": "Ch04_Quadratic_Equations",
+     "text": "Solve for x: $\\frac{3}{x+1}-\\frac{2}{3x-1}=\\frac{1}{2}\\ \\left(x\\neq-1,\\frac{1}{3}\\right)$",
+     "options": null,
+     "figure": null,
+     "answer": "$\\frac{3(3x-1)-2(x+1)}{(x+1)(3x-1)}=\\frac{1}{2}\\Rightarrow 2(7x-5)=3x^2+2x-1\\Rightarrow14x-10=3x^2+2x-1\\Rightarrow x^2-4x+3=0\\Rightarrow(x-1)(x-3)=0$. Hence $x=1$ or $x=3$."
+    },
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "A train travels a distance of 240 km at a uniform speed. If the speed had been 10 km/h more, it would have taken 2 hours less for the same journey. Find the original speed of the train.",
+   "options": null,
+   "answer": "Let the original speed be $x$ km/h. $\\frac{240}{x}-\\frac{240}{x+10}=2\\Rightarrow\\frac{240\\times10}{x(x+10)}=2\\Rightarrow x^2+10x-1200=0\\Rightarrow(x+40)(x-30)=0$. $x=-40$ (rejected, speed cannot be negative) or $x=30$. Original speed $=30$ km/h.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch04_Quadratic_Equations",
+    "text": "Solve for $x$: $\\frac{1}{x-2}+\\frac{2}{x-1}=\\frac{6}{x}\\ \\ (x\\neq0,1,2)$",
+    "options": null,
+    "figure": null,
+    "answer": "$\\frac{(x-1)+2(x-2)}{(x-2)(x-1)}=\\frac6x\\Rightarrow\\frac{3x-5}{x^2-3x+2}=\\frac6x\\Rightarrow x(3x-5)=6(x^2-3x+2)\\Rightarrow3x^2-5x=6x^2-18x+12\\Rightarrow3x^2-13x+12=0\\Rightarrow(x-3)(3x-4)=0$. Hence $x=3$ or $x=\\frac43$."
+   }
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "variant",
+   "basis": "Paper_02 Q34",
+   "basis_question": {
+    "no": 34,
+    "section": "D",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "In a cylindrical vessel of radius 10 cm, containing some water, 9000 small spherical balls are dropped which are completely immersed in water which raises the water level. If each spherical ball is of radius 0.5 cm, then find the rise in the level of water in the vessel.",
+    "options": null,
+    "figure": null,
+    "answer": "Volume of raised water in cylinder = volume of 9000 spherical balls. $\\pi(10)^2H=9000\\times\\frac{4}{3}\\times\\pi\\times(0.5)^3\\Rightarrow H=15$ cm.",
+    "or": {
+     "text": "In Figure, from a solid cube of side 7 cm, a cylinder of radius 2.1 cm and height 7 cm is scooped out. Find the total surface area of the remaining solid.",
+     "options": null,
+     "figure": "fig_p06_0.png",
+     "chapter": "Ch12_Surface_Areas_and_Volumes",
+     "answer": "Cube edge $a=7$ cm; cylinder radius $r=2.1=\\frac{21}{10}$ cm, height $h=7$ cm. TSA of remaining solid = TSA of cube $-\\,2\\times$(area of upper circle) + CSA of cylinder $=6a^2+2\\pi rh-2\\pi r^2=6\\times49+2\\times\\frac{22}{7}\\times2.1\\times7-2\\times\\frac{22}{7}\\times(2.1)^2=294+92.4-27.72=294+64.68=358.68\\ cm^2$."
+    },
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "In a cylindrical vessel of radius 8 cm, containing some water, 6000 small spherical balls, each of radius 0.4 cm, are dropped and are completely immersed in the water. Find the rise in the level of water in the vessel.",
+   "options": null,
+   "answer": "Volume of water displaced = volume of 6000 balls. $\\pi(8)^2H=6000\\times\\frac43\\pi(0.4)^3\\Rightarrow64H=6000\\times\\frac43\\times0.064=512\\Rightarrow H=8$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "A toy is in the form of a cone of radius 2.1 cm mounted on a hemisphere of the same radius. The height of the conical part is 6 cm. Find the volume of the toy. (Take $\\pi=\\frac{22}{7}$)",
+    "options": null,
+    "figure": null,
+    "answer": "Volume $=$ volume of cone $+$ volume of hemisphere $=\\frac13\\pi r^2h+\\frac23\\pi r^3=\\frac13\\times\\frac{22}7\\times(2.1)^2\\times6+\\frac23\\times\\frac{22}7\\times(2.1)^3=27.72+19.404=47.124$ cm$^3$."
+   }
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "ncert",
+   "text": "Meera starts a savings plan. She saves Rs. 500 in the first month and increases her saving by Rs. 150 every month, so that her monthly savings form an A.P.",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "How much does she save in the 5th month?",
+     "marks": 1,
+     "options": null,
+     "answer": "$a=500$, $d=150$. $a_5=500+4\\times150=$ Rs. 1100."
+    },
+    {
+     "text": "In which month will she save Rs. 2000?",
+     "marks": 1,
+     "options": null,
+     "answer": "$500+(n-1)150=2000\\Rightarrow(n-1)=10\\Rightarrow n=11$. In the 11th month."
+    },
+    {
+     "text": "Find her total savings in the first 12 months.",
+     "marks": 2,
+     "options": null,
+     "answer": "$S_{12}=\\frac{12}{2}[2\\times500+11\\times150]=6\\times2650=$ Rs. 15900.",
+     "or": {
+      "text": "Find her total savings in the first 20 months.",
+      "options": null,
+      "answer": "$S_{20}=\\frac{20}{2}[2\\times500+19\\times150]=10\\times3850=$ Rs. 38500."
+     }
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "In a society, there is a circular park having two gates. The gates are placed at points $A(10, 20)$ and $B(50, 50)$, as shown in the figure below. Two fountains are installed at points P and Q on AB such that $AP=PQ=QB$.",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the coordinates of the centre C.",
+     "marks": 1,
+     "options": null,
+     "answer": "$C=\\left(\\frac{10+50}{2},\\frac{20+50}{2}\\right)=(30,35)$."
+    },
+    {
+     "text": "Find the radius of the circular park.",
+     "marks": 1,
+     "options": null,
+     "answer": "Radius $=\\sqrt{(30-10)^2+(35-20)^2}=25$."
+    },
+    {
+     "text": "Find the coordinates of the point P.",
+     "marks": 2,
+     "options": null,
+     "answer": "P divides AB in the ratio $1:2$: $P=\\left(\\frac{1\\times50+2\\times10}{3},\\frac{1\\times50+2\\times20}{3}\\right)=\\left(\\frac{70}{3},30\\right)$.",
+     "or": {
+      "text": "Find the distance of the fountain at Q from gate A.",
+      "options": null,
+      "figure": null,
+      "answer": "$AB=2\\times25=50$; $AQ=\\frac23AB=\\frac23\\times50=\\frac{100}{3}$."
+     }
+    }
+   ],
+   "figure2": "fig_p08_1.png",
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q38"
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "Totem poles are made from large trees. These poles are carved with symbols or figures and mostly found in western Canada and northwestern United States.\nIn the given picture, two such poles of equal heights are standing 28 m apart. From a point somewhere between them in the same line, the angles of elevation of the top of the two poles are $60^\\circ$ and $30^\\circ$ respectively.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Draw a neat labelled diagram.",
+     "marks": 1,
+     "options": null,
+     "answer": "Let AB and CD be the two poles (each of height h) and M a point between their bases A and C on the same line, with $AM=x$, $MC=28-x$, $\\angle AMB=60^\\circ$, $\\angle CMD=30^\\circ$, $BM=p$, $DM=q$."
+    },
+    {
+     "text": "Find the height of the poles.",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\tan60^\\circ=\\frac{h}{x}\\Rightarrow h=x\\sqrt{3}$; $\\tan30^\\circ=\\frac{h}{28-x}\\Rightarrow h=\\frac{28-x}{\\sqrt{3}}$. Equating, $3x=28-x\\Rightarrow x=7$, so $h=7\\sqrt{3}$ m."
+    },
+    {
+     "text": "If the distances of the top of the poles from the point of observation are taken as p and q, then find a relation between p and q.",
+     "marks": 2,
+     "options": null,
+     "answer": "$BM=p$, $DM=q$. $\\sin60^\\circ=\\frac{h}{p}\\Rightarrow h=\\frac{p\\sqrt{3}}{2}$; $\\sin30^\\circ=\\frac{h}{q}\\Rightarrow h=\\frac{q}{2}$. Hence $\\frac{p\\sqrt{3}}{2}=\\frac{q}{2}\\Rightarrow q=\\sqrt{3}\\,p$.",
+     "or": {
+      "text": "Find the location of the point of observation.",
+      "answer": "$\\tan60^\\circ=\\frac{7\\sqrt{3}}{x}\\Rightarrow x=7$ m $=AM$, and $MC=28-7=21$ m. The point is 7 m from the first pole and 21 m from the second."
+     }
+    }
+   ],
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q38"
+  }
+ ]
+}

@@ -1,0 +1,1063 @@
+{
+ "subject": "SST",
+ "paper": "Mock_03",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "origin": "variant",
+   "basis": "Paper_09 Q4",
+   "basis_question": {
+    "no": 4,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Arrange the following in chronological order and choose the correct option:\nI. Napoleonic wars\nII. The Treaty of Vienna\nIII. Greek Struggle for Independence\nIV. Slav Nationalism in Ottoman Empire",
+    "options": [
+     "I, II, III and IV",
+     "IV, II, III and I",
+     "IV, III, II and I",
+     "III, II, I and IV"
+    ],
+    "figure": null,
+    "answer": "(a) I, II, III and IV — Napoleonic wars: 1797; Treaty of Vienna: 25 March 1815; Greek struggle for independence begins: 1821; Slav nationalism gathers force in the Habsburg and Ottoman Empires: 1905.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "Arrange the following in chronological order and choose the correct option:\nI. Congress of Vienna redraws the map of Europe\nII. Formation of the Prussian-led customs union (Zollverein)\nIII. Meeting of the Frankfurt Parliament in St Paul's Church\nIV. Proclamation of the German Empire at Versailles",
+   "options": [
+    "II, I, III and IV",
+    "I, III, II and IV",
+    "I, II, III and IV",
+    "I, II, IV and III"
+   ],
+   "answer": "(c) I, II, III and IV — Treaty of Vienna: 1815; Zollverein formed: 1834; Frankfurt Parliament: 18 May 1848; German Empire proclaimed at Versailles: January 1871.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "ncert",
+   "text": "The Rowlatt Act (1919) gave the government enormous powers to:",
+   "options": [
+    "abolish the salt tax",
+    "repress political activities and detain political prisoners for two years without trial",
+    "introduce provincial self-government",
+    "remove restrictions on the vernacular press"
+   ],
+   "answer": "(b) repress political activities and detain political prisoners for two years without trial. The Act was hurriedly passed through the Imperial Legislative Council despite the united opposition of the Indian members; Gandhiji launched a nationwide satyagraha against it.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_History_Making_of_a_Global_World",
+   "origin": "ncert",
+   "text": "Which two institutions were set up by the Bretton Woods Conference of July 1944 to deal with external surpluses and deficits of its member nations and to finance post-war reconstruction?",
+   "options": [
+    "International Monetary Fund and World Bank",
+    "World Trade Organisation and International Monetary Fund",
+    "United Nations and World Bank",
+    "World Bank and Asian Development Bank"
+   ],
+   "answer": "(a) International Monetary Fund and World Bank — the Bretton Woods Conference (New Hampshire, USA) set up the IMF and the International Bank for Reconstruction and Development (World Bank); the system is also known as the Bretton Woods system.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "origin": "ncert",
+   "text": "Which was the first book printed by Johann Gutenberg on his printing press?",
+   "options": [
+    "The Gospels",
+    "The Bible",
+    "The Diamond Sutra",
+    "The Jikji"
+   ],
+   "answer": "(b) The Bible — Gutenberg printed 180 copies of the Bible in three years, which was then a very fast production by the standards of the time.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_History_Making_of_a_Global_World",
+   "text": "In what ways did food items offer scope for long distance cultural exchange?",
+   "options": null,
+   "figure": null,
+   "answer": "Food offers many examples of long distance cultural exchange. Traders and travellers introduced new crops to the lands they travelled. It is believed that noodles travelled to the West from China to become spaghetti; Arab traders took pasta to Sicily (Italy) in the fifth century. Many common foods such as potatoes, soya, groundnuts, maize, tomatoes, chillies and sweet potatoes were not known in India until about five centuries ago; they were introduced in Europe and Asia after Columbus discovered America.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Write a note on Count Camillo de Cavour.",
+    "answer": "Count Camillo de Cavour was Chief Minister of the Sardinia-Piedmont state who led the movement to unify the regions of Italy. He was neither a revolutionary nor a democrat. Like many wealthy and educated members of the Italian elite, he spoke French much better than Italian. He engineered a careful diplomatic alliance with France, which helped Sardinia-Piedmont defeat the Austrian forces in 1859 and free the northern part of Italy from the Austrian Habsburgs.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q5"
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "\"British rule in India would have collapsed if Indians had not cooperated\". How did this statement help in starting a mass movement in India against the British rule?",
+   "options": null,
+   "figure": null,
+   "answer": "i. The idea of non-cooperation was first introduced by Gandhiji in his book Hind Swaraj, where he declared that since the British had established their rule in India with the cooperation of Indians, it would collapse only when the cooperation was withdrawn.\nii. He proposed that the movement should unfold in stages: begin with surrendering of titles awarded by the government; a boycott of civil services, army, police, courts, legislative assemblies, schools and foreign goods would show non-cooperation.\niii. Gandhiji felt that in case the government used repression, a full civil disobedience campaign would be launched.",
+   "or": {
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Why was the Non-Cooperation movement withdrawn by Gandhiji?",
+    "answer": "A. The movement was turning violent.\nB. At Chauri-Chaura in Gorakhpur (Uttar Pradesh), a peaceful demonstration in a bazaar turned into a violent clash in which more than 20 policemen were killed.\nC. Gandhiji also felt that Satyagrahis needed to be properly trained before they would be ready for a mass movement.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q6"
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "How did tension in the Balkan region lead to the First World War? Explain.",
+   "options": null,
+   "figure": null,
+   "answer": "Tension in the Balkan region became a major cause of the First World War. The Balkans, home to many ethnically diverse Slavic groups, included countries like Serbia, Bulgaria, Greece and Romania. The decline of the Ottoman Empire and the rise of romantic nationalism made this region highly unstable. Various Balkan nationalities demanded independence, claiming historical rights and seeking to revive their lost sovereignty. Their conflicts created continuous unrest. At the same time, major European powers - Russia, Germany, Austria-Hungary and Britain - competed to extend their influence in the Balkans. Russia supported Slavic nationalism, while Austria-Hungary tried to suppress it. This rivalry triggered a series of Balkan Wars, increasing hostility between the powers. The assassination of Archduke Franz Ferdinand in this tense atmosphere acted as the spark, ultimately leading to the First World War.",
+   "or": {
+    "text": "Explain the various stages of Italian unification.",
+    "options": null,
+    "figure": null,
+    "answer": "Political Fragmentation of Italy: Italy had a long history of political fragmentation. Italians were scattered over several dynasties as well as the multi-national Habsburg Empire. Italy was divided into seven states during the middle of the nineteenth century. Of these seven states, only Sardinia-Piedmont was ruled by an Italian princely house. At that time, the north of Italy was under Austrian Habsburg, the centre was ruled by the Pope and the southern regions were ruled by the Bourbon kings of Spain. The past revolutionary uprisings, which failed, prompted King Victor Emmanuel II of Sardinia-Piedmont to unify the Italian states through war.\nRole of Mazzini: During the 1830s Giuseppe Mazzini had tried to unite Italy. He formed a coherent programme for uniting the Italian Republic and a secret society called Young Italy. But both the uprisings of 1831 and 1848 failed. Even the ruling elites wanted a unified Italy which would offer economic development and political dominance.\nRole of Cavour: The unification of Italy was a result of many wars. Chief Minister Cavour made a tactful diplomatic alliance with France, and Sardinia-Piedmont succeeded in defeating the Austrian forces in 1859.\nRole of Garibaldi: A large number of armed volunteers under the leadership of Giuseppe Garibaldi joined the unification movement.\nEvents leading to the unification of Italy:\n1859: Sardinia-Piedmont, in alliance with France, defeated the Austrian forces. A large number of people under the leadership of Giuseppe Garibaldi joined the movement.\n1860: Sardinia-Piedmont's forces marched into South Italy and the Kingdom of the Two Sicilies and drove out the Spanish rulers.\n1861: Victor Emmanuel was declared as the king of united Italy and Rome was declared the capital of Italy.",
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe"
+   },
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q7"
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Read the given source and answer the questions that follow:\nJikji\nThe Jikji of Korea is among the world's oldest existing books printed with movable metal type. It contains the essential features of Zen Buddhism. About 150 monks of India, China and Korea are mentioned in the book. It was printed in late 14th century. While the first volume of the book is unavailable, the second one is available in the National Library of France. This work marked an important technical change in the print culture. That is why it was inscribed on the UNESCO Memory of the World Register in 2001.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Mention the significance of the Jikji in the history of printing.",
+     "marks": 1,
+     "options": null,
+     "answer": "The Jikji of Korea is among the world's oldest existing books printed with movable metal type."
+    },
+    {
+     "text": "Why was the Jikji inscribed on the UNESCO Memory of the World Register in 2001?",
+     "marks": 1,
+     "options": null,
+     "answer": "This work marked an important technical change in the print culture; that is why it was inscribed on the UNESCO Memory of the World Register in 2001."
+    },
+    {
+     "text": "How does the Jikji contribute to the understanding of Zen Buddhism?",
+     "marks": 2,
+     "options": null,
+     "answer": "The Jikji contains the essential features of Zen Buddhism. About 150 monks of India, China and Korea are mentioned in the book."
+    }
+   ],
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q8"
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "variant",
+   "basis": "Paper_05 Q9",
+   "basis_question": {
+    "no": 9,
+    "section": "A",
+    "marks": 2,
+    "type": "map",
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where the session of INC was held in September 1920.\nb. The place where Mahatma Gandhi broke Salt Law.",
+    "options": null,
+    "figure": "fig_p03_0.png",
+    "answer": "A - Calcutta (Congress special session, September 1920); B - Dandi (Salt Law broken).",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "On a blank outline map of India, locate and mark the following places and write their names against them:\na. The place where the Jallianwala Bagh massacre took place in 1919.\nb. The place where Gandhiji led a satyagraha among the cotton mill workers in 1918.",
+   "options": null,
+   "answer": "a - Amritsar (Punjab); b - Ahmedabad (Gujarat).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "origin": "ncert",
+   "text": "The Hirakud multipurpose project is built on which river?",
+   "options": [
+    "Godavari",
+    "Mahanadi",
+    "Krishna",
+    "Narmada"
+   ],
+   "answer": "(b) Mahanadi — the Hirakud dam is in Odisha.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Which are two important wheat-growing zones in the country?",
+   "options": [
+    "Northern plains and Coastal areas",
+    "The Ganga-Satluj plains in the northwest and black soil region of the Deccan",
+    "South India and Central India",
+    "Northern Eastern India and Rajasthan"
+   ],
+   "figure": null,
+   "answer": "(b) The Ganga-Satluj plains in the northwest and black soil region of the Deccan. Major wheat-producing states are Punjab, Haryana, Uttar Pradesh, Bihar, Rajasthan and parts of Madhya Pradesh.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q11"
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "origin": "ncert",
+   "text": "The Indian Wildlife (Protection) Act, which provided protection to habitats and listed protected species, was implemented in:",
+   "options": [
+    "1952",
+    "1972",
+    "1982",
+    "1992"
+   ],
+   "answer": "(b) 1972 — the Act banned hunting, gave legal protection to habitats, and restricted trade in wildlife; many national parks and wildlife sanctuaries were created under it, and lists of protected species were published.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "origin": "ncert",
+   "text": "As per IUCN classification, species whose population has declined and which are likely to move into the 'endangered' category in the near future if the negative factors continue to operate are called:",
+   "options": [
+    "Endemic species",
+    "Endangered species",
+    "Vulnerable species",
+    "Extinct species"
+   ],
+   "answer": "(c) Vulnerable species — examples: blue sheep, Asiatic elephant, Gangetic dolphin. Endangered species are in danger of extinction; extinct species are no longer found in any known or likely habitat.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "origin": "variant",
+   "basis": "Paper_10 Q11",
+   "basis_question": {
+    "no": 11,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch06_Geography_Resources_and_Development",
+    "text": "The teacher is asking questions regarding the viewpoints of Gandhiji on resource conservation. She gave students the following clues. She told the students to identify the incorrect clues. The following are the clues:\ni. Gandhiji was very apt in voicing his concern about resource conservation.\nii. He said, \"There is enough for everybody's need and not for anybody's greed.\"\niii. He placed greedy and selfish individuals and the exploitative nature of modern technology as the root cause for resource depletion at the global level.\niv. He was against production by the masses and wanted to replace it with mass production.\nIdentify the incorrect clue.",
+    "options": [
+     "Clue iv",
+     "Clue iii and iv",
+     "Clue i",
+     "Clue ii and iii"
+    ],
+    "figure": null,
+    "answer": "(a) Clue iv — he was against mass production and wanted to replace it with production by the masses.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "A teacher asked students to identify the incorrect clue about the Earth Summit held in Rio de Janeiro. The clues are:\ni. It was the first International Earth Summit, held in June 1992 in Rio de Janeiro, Brazil.\nii. More than 100 heads of state met to find ways of achieving socio-economic development without degrading the environment.\niii. It adopted Agenda 21 to achieve global sustainable development through global cooperation on common interests, mutual needs and shared responsibilities.\niv. Agenda 21 was a declaration to be implemented only by the developing countries, while the developed countries were exempted.\nIdentify the incorrect clue.",
+   "options": [
+    "Clue i",
+    "Clue ii and iii",
+    "Clue iv",
+    "Clue i and ii"
+   ],
+   "answer": "(c) Clue iv — Agenda 21 is a declaration signed by world leaders to combat environmental damage, poverty and disease through global cooperation; every local government was expected to draw up its own local Agenda 21. It was not meant only for developing countries.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "origin": "variant",
+   "basis": "Paper_10 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "C",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+    "text": "Assertion (A): Sometimes a caste group becomes a vote bank for a party.\nReason (R): Selecting the candidate from the same caste helps in ensuring better governance.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(c) A is true but R is false — a caste group may become a vote bank as people select candidates of their own caste, but it is wrong to select a candidate on the basis of caste instead of personal abilities.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Assertion (A): In Indian elections, caste is not the only factor that decides the result.\nReason (R): No parliamentary constituency in the country has a clear majority of a single caste, so every party and candidate needs to win the confidence of more than one caste and community.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Since no constituency has a majority of one caste, parties must seek support across castes; voters also have strong attachment to parties and the performance of governments matters, so ruling parties and MPs often lose elections.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch09_Geography_Agriculture",
+   "origin": "variant",
+   "basis": "Paper_08 Q16",
+   "basis_question": {
+    "no": 16,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch09_Geography_Agriculture",
+    "text": "Explain any three institutional reforms taken for the development of Indian agriculture.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Land Reforms: land redistribution and tenancy reforms aimed to address historical inequities in land ownership, providing land to landless farmers and securing their rights; this enhanced agricultural productivity and reduced social inequalities.\nii. Rural Credit Institutions: institutions like Regional Rural Banks (RRBs) and Self-Help Groups (SHGs) improved access to credit for farmers, enabling investments in modern techniques and inputs.\niii. Krishi Vigyan Kendras (KVKs): agricultural extension centres spread knowledge about modern farming practices, crop management and technology adoption, promoting sustainable agricultural development and improved yields.",
+    "or": null,
+    "subparts": null,
+    "note": "Marked [2] in the paper although it asks for any three reforms.",
+    "paper": "Paper_08"
+   },
+   "text": "Explain any two measures taken by the Government of India to improve the condition of farmers in the 1990s.",
+   "options": null,
+   "answer": "i. Kisan Credit Card (KCC) and Personal Accident Insurance Scheme (PAIS): farmers could get credit easily, and insurance cover was provided to them and their families against accidents.\nii. Minimum Support Price (MSP) and procurement: the government announced MSP and remunerative prices to protect farmers from price fluctuations and to ensure a fair return.\n(Also acceptable: special weather bulletins and agricultural programmes on radio and television to spread information and advice; setting up of Grameen banks and cooperative societies for credit.) [1 mark each for any two]",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "origin": "variant",
+   "basis": "Paper_08 Q17",
+   "basis_question": {
+    "no": 17,
+    "section": "B",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch11_Geography_Manufacturing_Industries",
+    "text": "How do industries increase air pollution? Suggest any three measures to reduce air pollution.",
+    "options": null,
+    "figure": null,
+    "answer": "Industries increase air pollution by releasing harmful gases and particulate matter into the atmosphere. Air pollution occurs when undesirable gases such as sulphur dioxide and carbon monoxide accumulate in high concentrations. Industrial activities also emit airborne particles, including dust, mist, sprays and smoke. Smoke from chemical and paper factories, brick kilns, refineries and smelting plants, and the burning of fossil fuels in factories that fail to follow pollution norms worsen the situation. Toxic gas leaks can also occur, posing severe long-term health hazards.\nMeasures: install smoke stacks equipped with electrostatic precipitators, fabric filters, scrubbers and inertial separators to reduce particulate matter; use cleaner fuels like oil or gas instead of coal; increase chimney height and shift towards renewable energy sources.",
+    "or": {
+     "chapter": "Ch11_Geography_Manufacturing_Industries",
+     "text": "Explain the pro-active approach by the National Thermal Power Corporation (NTPC) for preserving the natural environment and resources.",
+     "answer": "NTPC has adopted a pro-active approach to preserving the natural environment and resources around the thermal power plants it sets up, in line with its ISO certification under EMS 14001. To ensure minimum pollution near these plants, the measures it adopts are:\ni. Utilising the latest techniques and upgrading existing equipment to minimise the generation of polluting by-products.\nii. Maximising the utilisation of ash generated so that the waste generated is reduced.\niii. Establishing green belts and forests to maintain an ecological balance around the generation plants.\niv. Setting up ash pond management, ash water recycling and liquid waste management systems in the plants.\nv. Monitoring, reviewing and managing the databases online for all the power plants set up.",
+     "options": null,
+     "figure": null
+    },
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "How do industries cause water pollution? Suggest any three measures to minimise water pollution caused by industries.",
+   "options": null,
+   "answer": "Industries cause water pollution through organic and inorganic wastes and effluents discharged into rivers. The polluting industries include paper, pulp, chemical, textile and dyeing, petroleum refineries, tanneries, electroplating, etc.; they throw dyes, detergents, acids, salts and heavy metals like lead and mercury, pesticides, fertilisers, synthetic chemicals, plastics and rubber into water bodies. Thermal pollution occurs when hot water from factories and thermal plants is drained into rivers and ponds before cooling.\nMeasures: i. Minimise water use in processing by reusing and recycling it in two or more successive stages. ii. Harvest rainwater to meet the water requirement of industries. iii. Treat hot water and effluents before releasing them into rivers and ponds. (Also: install effluent treatment plants.)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch11_Geography_Manufacturing_Industries",
+    "text": "'Manufacturing industries are considered the backbone of economic development.' Support the statement with any five points.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Manufacturing helps in modernising agriculture by providing machines, fertilisers and other inputs and by supporting agro-based processing.\nii. It reduces the heavy dependence of people on agricultural income by creating jobs in the secondary and tertiary sectors.\niii. Industrial development is a precondition for eradication of unemployment and poverty.\niv. It brings down regional disparities by establishing industries in tribal and backward areas.\nv. Export of manufactured goods expands trade and commerce and brings in much-needed foreign exchange.\nvi. Countries that transform raw materials into a wide variety of higher-value finished goods become prosperous. [any five]"
+   }
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "origin": "ncert",
+   "text": "Read the following text carefully and answer the questions that follow:\nIndia is a tropical country and receives abundant sunshine throughout most of the year. Photovoltaic technology converts sunlight directly into electricity. Solar energy is fast becoming popular in rural and remote areas. The largest solar plant of India is located at Madhapur, near Bhuj, in Gujarat. The use of solar energy is expected to minimise the dependence of rural households on firewood and dung cakes, which in turn contributes to the conservation of the environment and to the availability of adequate manure for agriculture.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Name the technology that converts sunlight directly into electricity.",
+     "marks": 1,
+     "options": null,
+     "answer": "Photovoltaic technology."
+    },
+    {
+     "text": "Where is the largest solar plant of India located?",
+     "marks": 1,
+     "options": null,
+     "answer": "At Madhapur, near Bhuj, in Gujarat."
+    },
+    {
+     "text": "How does the use of solar energy in rural areas help conserve the environment and agriculture? Explain.",
+     "marks": 2,
+     "options": null,
+     "answer": "Solar energy reduces the dependence of rural households on firewood and dung cakes for cooking and heating. Less firewood is cut, so forests are conserved, and dung cakes are saved, which can then be used as manure to maintain soil fertility. Solar energy is also a pollution-free, renewable source."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "origin": "ncert",
+   "text": "On a blank outline map of India, locate and label the following:\na. An iron and steel plant in Chhattisgarh.\nb. A software technology park in Karnataka.\nc. A major cotton textile centre in Gujarat.",
+   "options": null,
+   "answer": "a - Bhilai; b - Bengaluru; c - Ahmedabad. (1 mark for each correctly located and labelled place.)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "variant",
+   "basis": "Paper_01 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "C",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "Assertion (A): Democratic governments in practice are known as accountable.\nReason (R): People have the right to choose their representatives and they have control over the rulers.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(a) Both A and R are true and R is the correct explanation of A. Democratic governments are accountable to citizens because people choose their representatives and control the rulers; if representatives do not work properly, people can refuse to re-elect them.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Assertion (A): Democracy provides a method to resolve differences and conflicts among social groups peacefully.\nReason (R): Democracies in every country have completely eliminated social differences and conflicts.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(c) A is true but R is false. Democracy accommodates social diversity and provides a way of peacefully handling differences, but it does not completely eliminate social differences and conflicts; it only reduces their intensity.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "origin": "ncert",
+   "text": "Which political party was formed in 1984 under the leadership of Kanshi Ram to represent and secure power for the Bahujan samaj, including Dalits, Adivasis, OBCs and religious minorities?",
+   "options": [
+    "Nationalist Congress Party",
+    "Bahujan Samaj Party",
+    "Communist Party of India",
+    "Bharatiya Janata Party"
+   ],
+   "answer": "(b) Bahujan Samaj Party — it was formed under the leadership of Kanshi Ram in 1984.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Seats are not reserved in the elected bodies and the executive heads of these institutions for:",
+   "options": [
+    "Scheduled Tribes",
+    "General Caste",
+    "Scheduled Castes",
+    "Other Backward Classes"
+   ],
+   "figure": null,
+   "answer": "(b) General Caste. Seats are reserved for the Scheduled Castes, Scheduled Tribes and Other Backward Classes.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q22"
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "variant",
+   "basis": "Paper_07 Q22",
+   "basis_question": {
+    "no": 22,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "Which of the following statements will be considered as a condition for achieving the outcome of social accommodation of democracy?\nStatement i: The majority always needs to work with the minority so that governments function to represent the general view.\nStatement ii: Rule by the majority should not become rule by the majority community in terms of religion or race or linguistic group, etc.\nStatement iii: Majority and minority opinions should be made permanent so that they have complete liberty to express their opinions.\nStatement iv: Rule by majority means in every decision-making all the top-scoring parties get an opportunity to voice their opinion.",
+    "options": [
+     "Statement i, ii and iii are right.",
+     "Statement iii is right.",
+     "Statement i and ii are right.",
+     "Only statement iv is right."
+    ],
+    "figure": null,
+    "answer": "(c) Statement i and ii are right. Democracy is not simply rule by majority opinion; the majority must work with the minority, and majority and minority opinions are not permanent. Rule by the majority must not become rule by the majority community.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Which of the following statements about the economic outcomes of democracy are correct?\nStatement i: Economic growth depends on many factors such as population size, global situation, cooperation from other countries and the economic priorities adopted by the country.\nStatement ii: Democracy always guarantees a higher rate of economic growth than a dictatorship.\nStatement iii: Democracies can have sizeable economic inequalities in the distribution of income.\nStatement iv: Democracies have completely eliminated poverty.",
+   "options": [
+    "Statements i and ii",
+    "Statements i and iii",
+    "Statements ii and iv",
+    "Statements iii and iv"
+   ],
+   "answer": "(b) Statements i and iii. Democracy does not guarantee higher economic growth than dictatorship (the difference is small, and growth depends on many factors), and economic inequalities and poverty persist in many democracies, so statements ii and iv are incorrect.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_PolSci_Federalism",
+   "origin": "variant",
+   "basis": "Paper_08 Q24",
+   "basis_question": {
+    "no": 24,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch14_PolSci_Federalism",
+    "text": "What are the demerits of local self government?",
+    "options": null,
+    "figure": null,
+    "answer": "A. The government is mostly dominated by upper caste people.\nB. Ignorance, illiteracy and poverty of the villagers.\nC. Lack of adequate funds.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "Explain any two benefits of decentralisation of power (local self-government).",
+   "options": null,
+   "answer": "i. Most problems and issues are best settled at the local level; people have better knowledge of local problems and know where to spend money and how to manage things more efficiently.\nii. At the local level people can directly participate in decision making, which helps them learn to take part in democratic governance and strengthens democracy. (Also: it reduces the burden on the central and state governments.) [1 mark each]",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Suggest three steps to enhance the literacy rate among women in India.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Gender-inclusive education policies: prioritise girls' education, ensure equal access to quality schooling and promote female-friendly learning environments.\nii. Community awareness programmes: emphasise the value of women's education and remove societal and cultural barriers that prevent women from pursuing higher education.\niii. Adult literacy programmes: targeted literacy programmes for adult women, focusing on practical skills and relevant knowledge to empower them economically and socially.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q25"
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "text": "Democratic government is a responsive government. Support the statement.",
+   "options": null,
+   "figure": null,
+   "answer": "In a democracy people have the right to choose their representatives and have control over them. Democracies also ensure transparency in decision-making. Any individual can question the decisions made by a ruler or government and check whether it is beneficial for the country or not. A government is responsive in the sense that it responds to the needs and expectations of the citizens. A democratic government is a responsive government; this is the most basic outcome of democracy.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q26"
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "origin": "ncert",
+   "text": "Explain any three challenges faced by political parties in India. Suggest any two ways to reform political parties.",
+   "options": null,
+   "answer": "Challenges:\ni. Lack of internal democracy: parties do not keep membership registers, do not hold organisational meetings or elections regularly; power is concentrated in one or a few leaders at the top, and ordinary members have little information.\nii. Dynastic succession: since most parties do not practise open and transparent procedures, those who happen to be close to the party leaders get undue advantages, and top positions are cornered by family members of leaders.\niii. Money and muscle power: parties tend to nominate candidates who can raise a lot of money and win elections, and rich people and companies influence party decisions; criminals are sometimes nominated.\n(iv. Parties do not offer meaningful choices to voters, as policies of different parties are often similar.)\nReforms (any two): the Constitution was amended to prevent MLAs and MPs from changing parties (anti-defection law); the Supreme Court ordered that every candidate must file an affidavit giving details of property and criminal cases; the Election Commission made it compulsory for parties to hold organisational elections and file income tax returns; parties should maintain a register of members, have an independent authority, give one-third tickets to women, and there may be state funding of elections. [3 marks for challenges, 2 marks for reforms]",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Read the following text carefully and answer the questions that follow:\nTwo different sets of reasons can be given in favour of power-sharing. Firstly, power-sharing is good because it helps to reduce the possibility of conflict between social groups. Since social conflict often leads to violence and political instability, power-sharing is a good way to ensure the stability of political order. Imposing the will of the majority community over others may look like an attractive option in the short run, but in the long run, it undermines the unity of the nation. The tyranny of the majority is not just oppressive for the minority; it often brings ruin to the majority as well. There is a second, deeper reason why power sharing is good for democracies. Power-sharing is the very spirit of democracy. A democratic rule involves sharing power with those affected by its exercise, and who have to live with its effects. People have a right to be consulted on how they are to be governed. A legitimate government is one where citizens, through participation, acquire a stake in the system. The first set of reasons is Prudential and the second is moral. While prudential reasons stress that power-sharing will bring out better outcomes, the former emphasises the very act of powersharing as valuable.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the essence of a legitimate government in a democracy?",
+     "marks": 1,
+     "options": null,
+     "answer": "A legitimate government is one where citizens, through participation and consultation on how they are governed, acquire a stake in the system."
+    },
+    {
+     "text": "What is the downside of imposing the will of the majority community over others?",
+     "marks": 1,
+     "options": null,
+     "answer": "It leads to the tyranny of the majority, which is oppressive for the minority and often ruins the majority as well; it undermines national unity in the long run."
+    },
+    {
+     "text": "How does power-sharing contribute to the stability of political order?",
+     "marks": 2,
+     "options": null,
+     "answer": "Power-sharing helps to reduce the possibility of conflict between social groups. Since social conflict often leads to violence and political instability, power-sharing is a good way to ensure the stability of political order."
+    }
+   ],
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q28"
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "origin": "variant",
+   "basis": "Paper_03 Q29",
+   "basis_question": {
+    "no": 29,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "Underemployment is mainly found in:",
+    "options": [
+     "Banking",
+     "Industry",
+     "Agriculture",
+     "Services"
+    ],
+    "figure": null,
+    "answer": "(c) Agriculture. Too many people work on a plot of farmland than are actually required, so even if a few are moved out, production is not affected.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "The sector that consists of activities which help in the development of the primary and secondary sectors, such as transport, storage, communication, banking and trade, is called the:",
+   "options": [
+    "Primary sector",
+    "Secondary sector",
+    "Tertiary sector",
+    "Public sector"
+   ],
+   "answer": "(c) Tertiary sector — activities in this sector help in the development of the primary and secondary sectors; they produce services rather than goods, and are also called the service sector.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "origin": "variant",
+   "basis": "Paper_01 Q30",
+   "basis_question": {
+    "no": 30,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch18_Economics_Development",
+    "text": "Which of the following neighboring countries has better performance in terms of human development than India?",
+    "options": [
+     "Pakistan",
+     "Nepal",
+     "Bangladesh",
+     "Sri Lanka"
+    ],
+    "figure": null,
+    "answer": "(d) Sri Lanka. Sri Lanka has better per capita income, life expectancy at birth and a high literacy rate for the 15+ population.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Which of the following sets of indicators is used by the UNDP to compute the Human Development Index (HDI)?",
+   "options": [
+    "Literacy rate, population growth and employment",
+    "Health (life expectancy), education (years of schooling) and per capita income",
+    "Per capita income, population density and exports",
+    "Sex ratio, GDP and urbanisation"
+   ],
+   "answer": "(b) Health (life expectancy), education (years of schooling) and per capita income — the HDI compares countries on these three dimensions, not on income alone.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "origin": "variant",
+   "basis": "Paper_07 Q34",
+   "basis_question": {
+    "no": 34,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "Read the information given below and select the correct option\nKamal is a daily wage labourer in a nearby grocery shop. He goes to the shop at 7:30 in the morning and works till 8:00 p.m. in the evening. He gets no other allowances apart from his wages. He is not paid for the days he does not work. He has, therefore, no leave or paid holidays. Nor was he given any formal letter saying that he has been employed in the shop. He can be asked to leave anytime with his employer. In which sector Kamal is engaged? Tick the most appropriate option.",
+    "options": [
+     "Organised Sector",
+     "Public Sector",
+     "Unorganised Sector",
+     "Primary Sector"
+    ],
+    "figure": null,
+    "answer": "(c) Unorganised Sector - small and scattered units largely outside government control; jobs are low-paid, not regular, no overtime, paid leave or holidays, and employment is not secure.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Read the information given below and select the correct option.\nMeena is a permanent teacher in a government school. She works fixed hours every day, gets a monthly salary with allowances, paid leave, medical benefits and a provident fund, and receives a pension on retirement. Her employment is secure and she has a formal appointment letter. In which sector is Meena's job?",
+   "options": [
+    "Unorganised sector",
+    "Organised sector",
+    "Primary sector",
+    "Secondary sector"
+   ],
+   "answer": "(b) Organised sector — the employment terms are regular and assured, the enterprise is registered and follows government rules, and workers get paid leave, provident fund, pension and other benefits.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "origin": "variant",
+   "basis": "Paper_10 Q33",
+   "basis_question": {
+    "no": 33,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch19_Economics_Money_and_Credit",
+    "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) The earliest method to buy and sell products | (i) NSSO |\n| (b) Source of credit for a rich urban household in India | (ii) Collateral |\n| (c) The most important term of the credit | (iii) Barter system |\n| (d) An organisation that conducted All India Debt and Investment Survey, 2003 | (iv) Formal sources of credit |",
+    "options": [
+     "(a) - (i), (b) - (iv), (c) - (ii), (d) - (iii)",
+     "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)",
+     "(a) - (iii), (b) - (ii), (c) - (iv), (d) - (i)",
+     "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+    ],
+    "figure": null,
+    "answer": "(d) (a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) Issues currency notes on behalf of the central government | (i) Self-Help Group |\n| (b) Asset offered as a guarantee for a loan | (ii) Demand deposits |\n| (c) Bank deposits that can be withdrawn on demand | (iii) Reserve Bank of India |\n| (d) A small group of 15-20 neighbours who pool their savings | (iv) Collateral |",
+   "options": [
+    "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)",
+    "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+    "(a) - (i), (b) - (iv), (c) - (ii), (d) - (iii)",
+    "(a) - (iii), (b) - (ii), (c) - (iv), (d) - (i)"
+   ],
+   "answer": "(b) (a) - (iii), (b) - (iv), (c) - (ii), (d) - (i). The RBI issues currency notes on behalf of the central government; collateral is the asset pledged as a guarantee; demand deposits can be withdrawn on demand; a Self-Help Group is a small group of 15-20 members who save and lend among themselves.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "origin": "variant",
+   "basis": "Paper_02 Q34",
+   "basis_question": {
+    "no": 34,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch19_Economics_Money_and_Credit",
+    "text": "Read the information given below and select the correct option\nShyam is a small farmer. He took a loan to meet the expenses of cultivation hoping that there would be a good harvest and he would repay the loan. The harvest, however, fails and he is unable to repay the loan. Next year again he took a loan but the crop is not good and loan repayment cannot be made. He has no option but to sell a part of his land to pay off the loan. Loan/credit instead of helping Shyam improve his condition left him worse off. What kind of situation Shyam is facing?",
+    "options": [
+     "Loan Trap",
+     "Debt Trap",
+     "Credit Trap",
+     "Tariff Trap"
+    ],
+    "figure": null,
+    "answer": "(b) Debt Trap. When a borrower, particularly in rural areas, fails to repay the loan due to crop failure and is left worse off, the situation is called debt-trap.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Read the information given below and select the correct option.\nAnil took a loan of Rs 5 lakh from a bank to set up a shop. As a guarantee, he deposited the papers of his house with the bank, which can sell the house if he fails to repay the loan. What is this guarantee called?",
+   "options": [
+    "Principal",
+    "Interest",
+    "Instalment",
+    "Collateral"
+   ],
+   "answer": "(d) Collateral — an asset (such as land, building, vehicle or livestock) that the borrower owns and uses as a guarantee to the lender until the loan is repaid; if the borrower fails to repay, the lender has the right to sell it to recover the payment.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "ncert",
+   "text": "Assertion (A): Information and communication technology has played no role in the spread of globalisation.\nReason (R): Developments in telecommunication, computers and the internet allow production to be spread across countries and enable instant contact between distant places.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(d) A is false but R is true. Technology, especially information and communication technology (telecommunication facilities, computers, the internet), has played a major role in spreading production across countries; for example, call centres and data-entry work are done in India for companies abroad.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Workers are exploited in the unorganised sector. Do you agree with this view? Give reasons in support of your answer.",
+   "options": null,
+   "figure": null,
+   "answer": "Yes, workers are exploited in the unorganised sector:\ni. It is characterised by small and scattered units largely outside government control.\nii. There are rules and regulations but they are not followed.\niii. Jobs are low-paid and often not regular.\niv. There is no provision for overtime, paid leave, holidays or leave due to sickness.\nv. Employment is not secure; people can be asked to leave without any reason.\nvi. On retirement there is no pension or provident fund.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q35"
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "origin": "variant",
+   "basis": "Paper_03 Q36",
+   "basis_question": {
+    "no": 36,
+    "section": "D",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch19_Economics_Money_and_Credit",
+    "text": "Manav needs a loan to set-up a small business. On what basis will Manav decide whether to borrow from the bank or the moneylender? Discuss.",
+    "options": null,
+    "figure": null,
+    "answer": "Manav will decide on the basis of the loan terms:\ni. The collateral and documentation required - he should be able to provide these.\nii. The difference between the rates of interest charged by formal and informal sources.\niii. The mode of repayment - size of instalment, frequency (monthly, quarterly, half-yearly, annually) or full repayment at the end of a period.\niv. His own capacity to repay after analysing the information collected, and the penalty in case of default.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Explain any three terms of credit that a borrower should consider before taking a loan.",
+   "options": null,
+   "answer": "i. Interest rate: the amount the borrower pays in addition to the principal; it differs widely between formal sources (banks) and informal sources (moneylenders).\nii. Collateral: an asset such as land, building, vehicle or a fixed deposit that the borrower owns and offers as a guarantee until the loan is repaid; the lender can sell it if the loan is not repaid.\niii. Documentation requirements and mode of repayment: the papers required (e.g. proof of identity, income) and how the loan is to be repaid - size and frequency of instalments or a lump sum at the end. [1 mark each; any three of interest rate, collateral, documentation, mode of repayment]",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "variant",
+   "basis": "Paper_09 Q35",
+   "basis_question": {
+    "no": 35,
+    "section": "D",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+    "text": "How did the policy of liberalisation adopted by India in the 1990s promote globalisation? Explain with examples.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Barriers on foreign trade and foreign investment have been removed to a large extent. ii. Goods can be imported and exported easily. iii. Foreign companies can set up factories and offices here. iv. Multinational companies can invest capital easily. v. With increased foreign trade more choices are available for consumers. vi. MNCs produce goods and services globally.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "Explain any three ways in which multinational companies (MNCs) spread their production in other countries.",
+   "options": null,
+   "answer": "i. Joint production: MNCs set up production jointly with some of the local companies of other countries; the local company provides land and knowledge of the market, and the MNC provides investment and technology (e.g. Ford Motors in India).\nii. Buying up local companies: MNCs buy local companies and then expand production.\niii. Placing orders with small producers: MNCs place orders for production of goods such as garments, footwear and sports items with small producers; the products are supplied to the MNCs, which sell them under their own brand names to customers.\n[1 mark each for any three]",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "origin": "variant",
+   "basis": "Paper_03 Q38",
+   "basis_question": {
+    "no": 38,
+    "section": "D",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "Explain any five differences between public and private sectors.",
+    "options": null,
+    "figure": null,
+    "answer": "| Basis | Public Sector | Private Sector |\n|---|---|---|\n| Ownership | Most assets are owned by the government. | Most assets are owned by individuals or groups of individuals. |\n| Service provision | The government provides services. | Services are provided by private owners. |\n| Funding | The government raises money for various activities through taxes. | Private sector collects money through the services it provides. |\n| Profit motive | Activities are focused on public welfare, not just profit. | Activities are guided by the motive to earn profits. |\n| Examples | Railways, Post Office, etc. | Tata Steel, Reliance, etc. |",
+    "or": {
+     "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+     "text": "Define the term unorganised sector. Explain any the reasons why people like to work in the organised sector.",
+     "options": null,
+     "figure": null,
+     "answer": "The unorganised sector includes small and scattered units which are largely outside government control. There are rules and regulations but they are not followed; jobs are low paid and irregular, and employment is not secure.\nReasons people prefer the organised sector:\ni. Workers enjoy security of employment and work only a fixed number of hours.\nii. Enterprises are registered by the government and follow rules such as the Factories Act, Industrial Disputes Act, Minimum Wages Act, etc.\niii. Workers get paid leave, payment during holidays, provident fund, gratuity, pension on retirement, etc.\niv. Workers get medical benefits and facilities like a safe working environment and clean drinking water.\nv. Terms of employment are regular; people have assured work."
+    },
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Explain any five reasons why the government needs the public sector in the economy.",
+   "options": null,
+   "answer": "i. There are activities which the government has to undertake because private firms will not take them up: building roads, bridges, railways, harbours, generating electricity, providing irrigation through dams, which require heavy spending that is beyond the capacity of private enterprises.\nii. The government can raise funds through taxes to support these activities, which benefit all.\niii. Some activities, such as sale of electricity or running railways, are done by the government at affordable rates for the public.\niv. The government must support agriculture and industry, e.g. by procuring wheat and rice at a minimum support price and selling them through ration shops (Food Corporation of India), ensuring food security for the poor.\nv. The government must spend on health and education and provide for them for all, and run programmes for poverty removal and employment generation; it also looks after the development of backward regions. [any five]",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "Explain the main provisions of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), 2005, and state how it helps in solving the problem of unemployment.",
+    "options": null,
+    "figure": null,
+    "answer": "i. The Act guarantees 100 days of employment in a year to every household in rural areas (in the districts notified under the Act).\nii. If the government fails to provide employment to those who ask for it, it will give unemployment allowances to the people.\niii. The types of work that would in future help to increase the production from land are given preference under the Act.\niv. It provides employment to rural people in their own area, thus reducing distress migration, and creates durable assets like roads, tanks and check dams that help raise production.\nv. Since employment is made a legal right, it helps reduce underemployment and unemployment in rural areas and increases income of poor families."
+   }
+  }
+ ]
+}

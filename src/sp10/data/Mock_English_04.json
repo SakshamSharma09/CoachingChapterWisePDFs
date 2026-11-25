@@ -1,0 +1,921 @@
+{
+ "subject": "English",
+ "paper": "Mock_04",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "1. After more than two years of halted travel, India's tourism and hospitality industry is now cautiously hopeful. Tourism constituted almost 3% of India's GDP and generated around 100 million jobs in 2019. But the sector was severely hit in India - like in other countries - in the past two years.\n2. Indians are now travelling with a vengeance - 'revenge travel', as the phenomenon is called. And many, experts say, now prefer to travel within the country instead of flying to more expensive destinations abroad. The industry is also benefitting from new trends borne of the pandemic such as micro-holidays and workcations.\n3. According to a survey, 51 percent of Indian travellers believed that international travel remained an important means of expanding their horizons and connecting with other cultures. Over two years, the survey said, Indian travellers are now dreaming about their next international trip and more than 70 percent of Indians are excited about being able to travel internationally.\n4. There has also been an increase in the number of students going abroad to study. The increasing desire to study overseas is credited to the pent-up demand from the pandemic's two-year duration. This has got further pronounced because of growing aspirations and affordability among the middle-class students from Tier II and Tier III cities.\n\nThe table below shows foreign travel by Indians for different purposes from 2019 to 2022.\n\n| Purpose | 2019 | 2020 | 2021 | 2022 |\n|---|---|---|---|---|\n| Business | 14.7 L | 2.6 L | 1.2 L | 4.6 L |\n| Job | 25.2 L | 7.1 L | 8.3 L | 21.4 L |\n| Residency | 89.5 L | 28.9 L | 34.6 L | 72.5 L |\n| Education | 5.8 L | 2.6 L | 4.4 L | 6.5 L |\n| Tourists | 63.8 L | 13.1 L | 12.8 L | 30.8 L |\n| Visit | 42.1 L | 10.1 L | 15.1 L | 40.9 L |\n| Medical | 1,448 | 390 | 545 | 1,253 |\n| Pilgrimage | 8.8 L | 1.1 L | 4,139 | 4.6 L |\n| Others | 2.6 L | 54,775 | 58,767 | 1.6 L |\n| Total | 2.5 Crore | 66.2 L | 77.2 L | 1.8 Crore |",
+   "options": null,
+   "figure": null,
+   "answer": "1. both scenarios reflect pent-up demand being released after restrictions.\n2. fact; objective detail\n3. Indians, confined by pandemic restrictions for over two years, are eager to explore new destinations, embrace diverse cultures, and enjoy the freedom of international travel, reflecting a strong desire to break free from prolonged isolation.\n4. Education (official key: educational purposes, due to pent-up demand and growing aspirations among middle-class students from Tier II and Tier III cities).\n5. The tourism and hospitality industry.\n6. Official key: In 2019 the maximum number of Indians undertook foreign travel for 'Business'; in 2022 for 'Visit'. One inference: shift in travel purposes from primarily business-related in 2019 to more visit-oriented in 2022, indicating a broadening of travel motivations possibly influenced by post-pandemic trends. (Note: as printed, the table shows Residency as the highest figure in both years.)\n7. Due to pent-up demand from the pandemic's two-year duration, along with growing aspirations and increased affordability among middle-class students, particularly from Tier II and Tier III cities.\n8. B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).\n9. New trends such as revenge travel, micro-holidays, and workcations have emerged, with many Indians preferring to travel within the country instead of going abroad.",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Complete the following analogy appropriately, based on your understanding of paragraphs 1 and 2. We can say that the situation when people were travelling with a vengeance is comparable to people going out to dine in hordes, because ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "both scenarios reflect pent-up demand being released after restrictions."
+    },
+    {
+     "text": "Fill in the blanks with the appropriate option from those given in brackets, based on your understanding of paragraph 1. The statement that, 'Tourism constituted almost 3% of India's GDP and generated around 100 million jobs in 2019', is a/an ________ (fact/opinion) because it is a/an ________ (subjective judgement/objective detail).",
+     "marks": 1,
+     "options": null,
+     "answer": "fact; objective detail"
+    },
+    {
+     "text": "Justify the following in about 40 words. After being cooped up inside their houses for more than two years, Indians are now excited about being able to travel internationally.",
+     "marks": 2,
+     "options": null,
+     "answer": "Indians, confined by pandemic restrictions for over two years, are eager to explore new destinations, embrace diverse cultures, and enjoy the freedom of international travel, reflecting a strong desire to break free from prolonged isolation."
+    },
+    {
+     "text": "Based on the given table, for which 'purpose' did Indian foreign travel increase in 2022 as compared to 2019?",
+     "marks": 1,
+     "options": null,
+     "answer": "Education (official key: educational purposes, due to pent-up demand and growing aspirations among middle-class students from Tier II and Tier III cities)."
+    },
+    {
+     "text": "'The industry is also benefitting from new trends borne of the pandemic such as micro-holidays and workcations.' Which 'industry' is being talked about here?",
+     "marks": 1,
+     "options": null,
+     "answer": "The tourism and hospitality industry."
+    },
+    {
+     "text": "As per the given table, for which purpose did maximum number of Indians undertake foreign travel in 2019 and in 2022? State any one inference that can be drawn from this.",
+     "marks": 1,
+     "options": null,
+     "answer": "Official key: In 2019 the maximum number of Indians undertook foreign travel for 'Business'; in 2022 for 'Visit'. One inference: shift in travel purposes from primarily business-related in 2019 to more visit-oriented in 2022, indicating a broadening of travel motivations possibly influenced by post-pandemic trends. (Note: as printed, the table shows Residency as the highest figure in both years.)"
+    },
+    {
+     "text": "Why are students today choosing to go abroad to study?",
+     "marks": 1,
+     "options": null,
+     "answer": "Due to pent-up demand from the pandemic's two-year duration, along with growing aspirations and increased affordability among middle-class students, particularly from Tier II and Tier III cities."
+    },
+    {
+     "text": "Assertion (A): The tourism and hospitality industry in India is experiencing a recovery due to domestic travel and new trends like micro-holidays and workcations.\nReason (R): The pandemic has created pent-up demand, with Indians eager for both domestic and international travel opportunities, along with an increased interest in studying abroad.",
+     "marks": 1,
+     "options": [
+      "A. Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "C. (A) is true, but (R) is false.",
+      "D. (A) is false, but (R) is true."
+     ],
+     "answer": "B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)."
+    },
+    {
+     "text": "What new travel trends have emerged in India's tourism industry after the pandemic?",
+     "marks": 1,
+     "options": null,
+     "answer": "New trends such as revenge travel, micro-holidays, and workcations have emerged, with many Indians preferring to travel within the country instead of going abroad."
+    }
+   ],
+   "note": "Official key lists answers out of order (answers to VI and VII are swapped); matched here by content.",
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q2"
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "origin": "variant",
+   "basis": "Paper_09 Q2",
+   "basis_question": {
+    "no": 2,
+    "section": "A",
+    "marks": 10,
+    "type": "reading",
+    "chapter": "SKILL_Reading",
+    "text": "Read the passage given below:\n\n1. Increasing traffic congestion every year is causing increasing air pollution, wasting time and productivity and diverse respiratory diseases. Moreover, the cost of solving or reducing traffic congestion is enormous. However, neglecting the traffic jam problem would increase the social problems among citizens.\n\n2. The number of vehicles has increased considerably in the city in the past five years. Due to this increase, the city roads witness frequent traffic congestions, but above all, the vehicles emitting pollutants are affecting the environment adversely.\n\n3. The Capital's vehicular population saw an addition of more than five lakh vehicles last year, registering an increase of over 4%, according to the Delhi Economic Survey 2020-21.\n\n4. In spite of the largest road network, through metro and bus services in major cities the transport system is not being able to keep pace with the growing demand. Consequently, more and more people use their private vehicles, leading to increased congestion on the roads. In spite of these challenges, people in India prefer road travel over air and other means of travel. Citizens of Delhi/NCR have, time and again, pondered over the possibilities of how to reduce the traffic congestion in the city, especially during the peak hours. People should use public transport, the government must increase the facilities of public transport, people should avoid unnecessary collection of vehicles and should use carpool and vehicle sharing.\n\n5. What is required is the proper implementation of corrective measures by citizens to get an organized traffic management system.\n\nBased on your understanding of the passage, answer the questions given below:",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "or": null,
+    "subparts": [
+     {
+      "text": "I. Infer one reason for the following, based on information in paragraph 1. Reducing traffic congestion is not easy. (1 Mark)",
+      "marks": 1,
+      "options": null,
+      "answer": "The cost of solving or reducing traffic congestion is enormous."
+     },
+     {
+      "text": "II. Select the appropriate option to complete the following sentence. The reasons for increased traffic congestion are ________. (1 Mark)\n1. use of private vehicles\n2. increase in demand for cars\n3. inability to keep pace with population control\n4. travelling by public transport\n5. emission of pollutants",
+      "marks": 1,
+      "options": [
+       "a. 4, 5",
+       "b. 1, 5",
+       "c. 1, 2",
+       "d. 2, 3"
+      ],
+      "answer": "c. 1, 2"
+     },
+     {
+      "text": "III. Complete the following analogy correctly with a word/phrase from the paragraph 5. (1)\norganized : chaotic : : lowest : ________\nClue : Just as organized is an antonym of chaotic, lowest is an antonym of ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "organized : chaotic : : lowest : peak"
+     },
+     {
+      "text": "IV. The vehicles emit pollutants which affect _______ badly (1 Mark)",
+      "marks": 1,
+      "options": null,
+      "answer": "The vehicles emit pollutants which affect the environment badly."
+     },
+     {
+      "text": "V. Complete the following sentence. Use of public transport will reduce ________. (1 Mark)",
+      "marks": 1,
+      "options": null,
+      "answer": "Use of public transport will reduce traffic congestion, air pollution, and the overall burden on the city's infrastructure."
+     },
+     {
+      "text": "VI. Select the appropriate option which states the methods of reducing traffic congestions. (1)\n(1) start car pooling\n(2) add electric buses\n(3) increase in public modes of transport\n(4) increase car collection points\n(5) increase taxation",
+      "marks": 1,
+      "options": [
+       "a. 1, 4, 5",
+       "b. 3 ,5",
+       "c. 2, 3, 4",
+       "d. 1, 3"
+      ],
+      "answer": "(d) 1, 3"
+     },
+     {
+      "text": "VII. Analyze the status of traffic between the years 2019-2022. (1)\n(Chart: traffic congestion 2019 - 56%, 2020 - 44%, 2021 - 48%, 2022 - 51%.)\nFor the visually challenged candidates only.\nWhat is required to get an organized traffic management system? (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "The provided data shows fluctuations in traffic congestion levels between 2019 and 2022: In 2019, traffic congestion was at its peak with 56%. However, in 2020, there was a significant decrease to 44% likely due to lockdowns and restrictions. In 2021, traffic congestion slightly increased to 48%. By 2022, congestion had risen again to 51%. Overall, despite variations, traffic congestion remained a persistent issue throughout these years, indicating the need for sustainable solutions to alleviate congestion and its associated problems.\nFor the visually challenged candidates only: To establish an organized traffic management system, it requires active citizen participation, adoption of carpooling and vehicle sharing, improved infrastructure, along with government initiatives to enhance public transportation facilities, synchronize traffic signals, implement technological solutions, conduct awareness campaigns, formulate supportive policies, conduct data analysis, and foster collaboration among stakeholders for effective implementation of corrective measures.",
+      "figure": "fig_p04_0.png"
+     },
+     {
+      "text": "VIII. Give the reasons for increase in vehicular congestion. (1 Mark)",
+      "marks": 1,
+      "options": null,
+      "answer": "The increase in vehicular congestion is attributed to rising vehicle numbers, inadequate public transport infrastructure, preference for private vehicles due to inefficiencies in existing transport systems, insufficient carpooling and lack of effective traffic management measures in Delhi/NCR."
+     },
+     {
+      "text": "IX. Fill in the blank by selecting the correct option. (1)\nThere are ________ consequences of increasing vehicular congestion.",
+      "marks": 1,
+      "options": [
+       "a. beneficial",
+       "b. adverse",
+       "c. implicit",
+       "d. explicit"
+      ],
+      "answer": "(b) adverse"
+     },
+     {
+      "text": "X. Substitute the underlined word with ONE WORD similar in meaning in the following sentence. (1)\nCitizens of Delhi/NCR have time and time again pondered over the possibilities of how to reduce traffic congestion. (underlined word: pondered)",
+      "marks": 1,
+      "options": null,
+      "answer": "Citizens of Delhi/NCR have, time and again, contemplated over the possibilities of how to reduce the traffic congestion in the city, especially during the peak hours. (contemplated)"
+     }
+    ],
+    "note": "Sub-question VII has an alternative for visually challenged candidates, kept inside the same sub-question; its chart is the figure. In X the underlined word is not visible in the text layer (taken as 'pondered' from the answer).",
+    "paper": "Paper_09"
+   },
+   "text": "Read the passage given below:\n\n1. Once dismissed as the 'poor man's grain', millets are making a comeback on Indian plates. Jowar, bajra and ragi were staple foods for centuries, until wheat and rice, supplied at subsidised rates, took over most kitchens in the decades after the Green Revolution.\n\n2. Nutritionists point out that millets are rich in fibre, iron and calcium. They release sugar slowly into the blood, which makes them a sensible choice for people with diabetes, and they are free of gluten.\n\n3. Farmers, too, have reasons to welcome them. Millets need very little water, grow in poor soil and can withstand high temperatures. A paddy crop may need thousands of litres of water for every kilogram of grain, but as groundwater levels fall in many regions, such thirsty crops are becoming harder to sustain.\n\n4. Yet the revival faces hurdles. Removing the husk of millets is laborious, and many city dwellers are unfamiliar with the recipes. To change this, the government declared 2023 the International Year of Millets, start-ups are launching ready-to-eat millet products and several schools have added millet meals to their menus.\n\n5. Experts caution that the revival will last only if farmers are assured of fair prices and consumers find these products affordable.\n\nThe table below shows the percentage of households in a town that cooked millets at least once a week.\n\n| Year | 2019 | 2020 | 2021 | 2022 |\n|---|---|---|---|---|\n| Households (%) | 12% | 15% | 19% | 27% |\n\nBased on your understanding of the passage, answer the questions given below:",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "I. Infer one reason for the following, based on information in paragraph 1. Millets disappeared from many kitchens. (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "Wheat and rice, supplied at subsidised rates, took over most kitchens after the Green Revolution."
+    },
+    {
+     "text": "II. Select the appropriate option to complete the following sentence. Farmers favour millets because ________. (1 Mark)\n1. they need very little water\n2. they grow in poor soil\n3. they need heavy irrigation\n4. they are costly to husk\n5. they need rich soil",
+     "marks": 1,
+     "options": [
+      "a. 1, 2",
+      "b. 3, 4",
+      "c. 4, 5",
+      "d. 3, 5"
+     ],
+     "answer": "(a) 1, 2"
+    },
+    {
+     "text": "III. Complete the following analogy correctly with a word from paragraph 3. (1)\nbear : tolerate : : resist : ________\nClue : Just as 'tolerate' is a synonym of 'bear', ________ is a synonym of 'resist'.",
+     "marks": 1,
+     "options": null,
+     "answer": "bear : tolerate : : resist : withstand"
+    },
+    {
+     "text": "IV. Complete the sentence. Millets are a sensible choice for people with diabetes because they ________. (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "release sugar slowly into the blood."
+    },
+    {
+     "text": "V. Complete the sentence. The revival of millets will last only if ________. (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "farmers are assured of fair prices and consumers find millet products affordable."
+    },
+    {
+     "text": "VI. Select the option that lists the steps taken to bring millets back to the plate. (1)\n(1) declaring an International Year of Millets\n(2) banning the sale of rice\n(3) launching ready-to-eat millet products\n(4) adding millet meals to school menus\n(5) increasing the price of wheat",
+     "marks": 1,
+     "options": [
+      "a. 1, 2, 5",
+      "b. 1, 3, 4",
+      "c. 2, 3",
+      "d. 4, 5"
+     ],
+     "answer": "(b) 1, 3, 4"
+    },
+    {
+     "text": "VII. Analyse the trend shown in the table about the use of millets in the town between 2019 and 2022. (1)\nFor the visually challenged candidates only.\nWhat do experts say is needed for the revival of millets to last? (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "The share of households cooking millets weekly rose steadily every year, from 12% in 2019 to 15% in 2020, 19% in 2021 and 27% in 2022; it more than doubled in four years, showing growing acceptance of millets.\nFor the visually challenged candidates only: Farmers must be assured of fair prices and consumers must find the products affordable."
+    },
+    {
+     "text": "VIII. Give two reasons why millets are still not popular among city dwellers. (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "Removing the husk of millets is laborious and many city dwellers are unfamiliar with the recipes."
+    },
+    {
+     "text": "IX. Fill in the blank by selecting the correct option. (1)\nMillets can be called a ________ crop because they survive harsh conditions.",
+     "marks": 1,
+     "options": [
+      "a. fragile",
+      "b. resilient",
+      "c. seasonal",
+      "d. luxury"
+     ],
+     "answer": "(b) resilient"
+    },
+    {
+     "text": "X. Substitute the underlined word with ONE WORD similar in meaning in the following sentence. (1)\nExperts caution that the revival will last only if farmers are assured of fair prices. (underlined word: caution)",
+     "marks": 1,
+     "options": null,
+     "answer": "Experts warn that the revival will last only if farmers are assured of fair prices. (warn)"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Ten 1-mark sub-questions, all compulsory. New passage of the same style as the basis (factual/discursive, with a data table)."
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "origin": "ncert",
+   "text": "Complete any ten of the twelve following tasks, as directed.",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "Fill in the blank with the correct option to complete the line of a school circular:\nDear Parents,\nWe are pleased to inform you that the Annual Sports Day _________________ on 14 December.",
+     "marks": 1,
+     "options": [
+      "A. will be held",
+      "B. is holding",
+      "C. has held",
+      "D. was holding"
+     ],
+     "answer": "A. will be held"
+    },
+    {
+     "text": "Report the principal's instruction.\nPrincipal: \"Submit your project files before the winter break.\"",
+     "marks": 1,
+     "options": null,
+     "answer": "The principal told/ordered/instructed the students to submit their project files before the winter break."
+    },
+    {
+     "text": "Select the correct option to complete the sentence.\nNeither of the two options _________________ correct.",
+     "marks": 1,
+     "options": [
+      "A. are",
+      "B. is",
+      "C. were",
+      "D. have"
+     ],
+     "answer": "B. is"
+    },
+    {
+     "text": "Meera asked Rohan, \"Did you collect the tickets yesterday?\"\nReport Meera's question by completing the following sentence.\nMeera asked Rohan _________________.",
+     "marks": 1,
+     "options": null,
+     "answer": "if/whether he had collected the tickets the previous day/the day before."
+    },
+    {
+     "text": "Identify and correct the error in the given line from a volunteer report:\nEach of the volunteers were given a certificate of appreciation at the end of the drive.\nError | Correction",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: were    Correction: was"
+    },
+    {
+     "text": "Select the correct option to complete the instruction on an admit card.\nYou _________________ carry your admit card; you will not be allowed inside the hall without it.",
+     "marks": 1,
+     "options": [
+      "A. might",
+      "B. must",
+      "C. could",
+      "D. may"
+     ],
+     "answer": "B. must"
+    },
+    {
+     "text": "The given sentence has an error. Select the option that correctly identifies the error and the correction.\nHe is looking forward to meet his cousins during the holidays.\n\n| No. | Error | Correction |\n|---|---|---|\n| A. | is | was |\n| B. | looking | look |\n| C. | to meet | to meeting |\n| D. | during | in |",
+     "marks": 1,
+     "options": [
+      "A. is - was",
+      "B. looking - look",
+      "C. to meet - to meeting",
+      "D. during - in"
+     ],
+     "answer": "C. to meet - to meeting"
+    },
+    {
+     "text": "The teacher asked Nikhil, \"Why have you not completed your assignment?\"\nReport it correctly to complete the following sentence.\nThe teacher asked Nikhil _________________.",
+     "marks": 1,
+     "options": null,
+     "answer": "why he had not completed his assignment."
+    },
+    {
+     "text": "Choose the correct option to fill in the blank.\nThere was _______ traffic on the highway, so we reached the venue early.",
+     "marks": 1,
+     "options": [
+      "A. few",
+      "B. a few",
+      "C. little",
+      "D. many"
+     ],
+     "answer": "C. little"
+    },
+    {
+     "text": "Identify the error and suggest the correction.\nShe did not knew the answer to the last question of the quiz.\nError | Correction",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: knew    Correction: know"
+    },
+    {
+     "text": "Fill in the blank by choosing the correct option from those given in brackets.\nHad the bus not broken down, we ____________ on time. (would reach / would have reached)",
+     "marks": 1,
+     "options": [
+      "would reach",
+      "would have reached"
+     ],
+     "answer": "would have reached"
+    },
+    {
+     "text": "Fill in the blank with the correct form of the verb given in brackets.\nBy the time the rescue team arrived, the villagers ____________ (leave) the flooded area.",
+     "marks": 1,
+     "options": null,
+     "answer": "had left"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "12 one-mark tasks are given; any ten are to be attempted (10 marks)."
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "There is an alarming increase in the percentage of students suffering from obesity. Given below are some of the findings of a survey conducted to identify causes:\n- unhealthy diet - 40%\n- lack of exercise - 30%\n- stress and anxiety - 25%\n- genetic factors - 5%\nAnalyse the causes for obesity.\n\nAge group affected\n| Age group | % |\n|---|---|\n| 0 - 5 years | 13% |\n| 5 - 8 years | 20% |\n| 8 - 12 years | 28% |\n| 13 - 15 years | 25% |\n| 16 - 18 years | 14% |",
+   "options": null,
+   "figure": null,
+   "answer": "The survey clearly highlights the major causes behind the rising obesity among students. An unhealthy diet contributes the highest, at 40%, showing that excessive junk food and sugary snacks play a significant role. Lack of exercise accounts for 30%, indicating reduced physical activity and increasing screen time. Stress and anxiety affect 25% of students, leading to overeating and irregular routines. Genetic factors contribute the remaining 5%. The age-wise data shows that obesity is most common in the 8-12 age group at 28%, followed by 13-15 years at 25%, and 5-8 years at 20%. Younger children aged 0-5 years constitute 13%, while 16-18 years account for 14%. These figures highlight the urgent need for healthier habits and active lifestyles.",
+   "or": {
+    "chapter": "SKILL_Writing",
+    "text": "Teenagers have different tastes in spending their free time. The following data shows how teenagers spend their free time. Write an analytical paragraph in about 120 words analyzing how boys and girls spend their free time:\n| S. No. | Hobbies | Boys (%) | Girls (%) |\n|---|---|---|---|\n| 1. | Reading books and comics | 12% | 25% |\n| 2. | Watching movies and songs | 15% | 35% |\n| 3. | Talking to their friends | 10% | 20% |\n| 4. | Watching sports | 16% | 4% |\n| 5. | Playing outdoor and indoor games | 40% | 20% |",
+    "options": null,
+    "figure": null,
+    "answer": "The data reveals distinct preferences in how boys and girls spend their free time. Girls show a stronger inclination towards reading books and comics (25%) and watching movies and songs (35%) compared to boys, who spend 12% and 15% of their time on these activities, respectively. Talking to friends is more popular among girls (20%) than boys (10%). Conversely, boys are significantly more interested in watching sports (16%) and playing outdoor and indoor games (40%), whereas only 4% and 20% of girls engage in these activities, respectively. These differences highlight gender-specific interests, with girls leaning towards entertainment and social activities, while boys favor sports and games. Understanding these preferences can help in designing more engaging and inclusive recreational programs for teenagers."
+   },
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q5"
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "figure": "fig_p06_0.png",
+   "options": null,
+   "subparts": null,
+   "text": "The given double line graph shows the number of different types of books in two libraries. Write an analytical paragraph using the information given in the graph.\n\n(Graph: number of books in Library X and Library Y by type - Fiction, Non-Fiction, Fantasy, Adventure.)",
+   "answer": "The given double line graph shows the number of different types of books the two different libraries have.\nThe graph provides information that there are mainly four types of books namely fiction, non fiction, fantasy and adventure, that the libraries X and Y have. Library X has fifteen books of fiction, thirty non-fiction, twenty books of fantasy and the highest number of books it has is of adventure which levels off fifty. It has a lots of books on adventure and a very less number of fiction books.\nOn the other hand, library Y has 15 more fiction books that is around 30 compared to library X. But it has 10 non-fiction books less than library X. There is a huge difference between the number of fantasy books the two libraries have. Library Y has 45 books whereas library X has only 20 books of fantasy. The data shows that both libraries have same number of books on adventure that numbered 50. It is the only genre that both libraries have in plenty overall. The figures show that both libraries X and Y have a huge demand of books with adventurous stories that is why they have it in plenty which is in equal number in both libraries. But we have seen fantasy books are also in high demand in library Y which can soon equal to adventure books. However, library X has only adventure books in plenty whereas all other books are very less in number comparatively.",
+   "or": {
+    "marks": 5,
+    "chapter": "SKILL_Writing",
+    "figure": "fig_p06_1.png",
+    "options": null,
+    "text": "The given bar graph shows the increasing use of skin care products by men and women over the period of three months. Write an analytical paragraph elaborating the given information in about 100 words:\n\n(Bar graphs: 'Products used by Men' and 'Products used by Women' - Facewash, Toner, Sunscreen - number of times used in June, July and August.)",
+    "answer": "The provided bar graph illustrates the upward trend in the usage of skincare products by both men and women over three months. The graph depicts the growth in the percentage of individuals using these products during the given period. As evident from the data, there has been a significant increase in the adoption of skincare products by both genders. This rise may be attributed to various factors, such as growing awareness of skincare benefits, changing societal norms regarding grooming, and increased marketing efforts by the cosmetic industry.\nIn June, facewash emerged as the most commonly used skincare product for both genders, with men utilizing it around 35 times and women 25 times during the month. However, there were notable disparities between the genders in their use of toner and sunscreen. Women incorporated toner into their skincare routine more frequently than men, whereas men were observed to use sunscreen more often compared to women. This data suggests that facewash holds universal appeal, being a preferred choice for both men and women. On the other hand, toner and sunscreen seem to cater to specific gender preferences, with women prioritizing toner and men emphasizing the importance of sunscreen in their skincare regimen."
+   },
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q5"
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "text": "Read the extract given below and answer the questions that follow:\nInstead of being delighted, as her husband had hoped, she threw the invitation spitefully upon the table murmuring, \"What do you suppose I want with that\"?",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": {
+    "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom",
+    "text": "Read the extract given below and answer the questions that follow:\nWe, who were outlaws not so long ago, have today been given the rare privilege to be host to the nations of the world on our own soil. We thank all of our distinguished international guests for having come to take possession with the people of our country of what is, after all, a common victory for justice, for peace, for human dignity. We have, at last, achieved our political emancipation. We pledge ourselves to liberate all our people from the continuing bondage of poverty, deprivation, suffering, gender and other discrimination. Never, never and never again shall it be that this beautiful land will again experience the oppression of one by another. The sun shall never set on so glorious a human achievement. Let freedom reign. God bless Africa!",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "subparts": [
+     {
+      "text": "The guests at the spectacular ceremony are being called distinguished because:",
+      "marks": 1,
+      "options": [
+       "A. They have been invited as guests to attend it.",
+       "B. They are eminent world leaders witnessing it.",
+       "C. They are visiting the country for this purpose.",
+       "D. They have resumed diplomatic relations with the country."
+      ],
+      "answer": "(B) 'Distinguished' here means 'someone different from the common'. The guest list consisted of some prominent and well known leaders of the world.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "Mention the words or phrase from the extract that encompasses the quality of equality, liberty, and self-respect.",
+      "marks": 1,
+      "options": null,
+      "answer": "human dignity - it can be best defined with the virtue of equality, liberty and self-respect.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "Why was this a 'rare privilege' according to the speaker? Elaborate in about 40 words with reference to the extract.",
+      "marks": 2,
+      "options": null,
+      "answer": "It was a rare privilege because after decades of resentment Blacks got equal rights as Whites. It was the first time they were experiencing something like this.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "How do you think the speaker feels? Choose the option that best fits his state of mind.",
+      "marks": 1,
+      "options": [
+       "A. (i) emotional (ii) elated (iii) unmindful",
+       "B. (i) elated (ii) unmindful (iii) overwhelmed",
+       "C. (i) overwhelmed (ii) elated (iii) honoured",
+       "D. (i) elated (ii) honoured (iii) unmindful"
+      ],
+      "answer": "(C) is correct. 'Unmindful' means careless or forgetful; the speaker is recalling years of struggle and asking his fellow citizens to maintain this freedom carefully, so options A, B and D, which express 'unmindful' as the speaker's feeling, are incorrect.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "The invitation was",
+     "marks": 1,
+     "options": [
+      "a. to attend a wedding ceremony",
+      "b. to attend an opera",
+      "c. to watch a horse race",
+      "d. to attend an official dance party"
+     ],
+     "answer": "(d) to attend an official dance party",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "The husband had hoped for his wife's happy reaction because:",
+     "marks": 1,
+     "options": [
+      "a. she rarely got a chance to attend a function.",
+      "b. most employees used to get invited.",
+      "c. both (a) and (b) are correct.",
+      "d. both (a) and (b) are incorrect."
+     ],
+     "answer": "(d) both (a) and (b) are incorrect",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "The lady was frustrated because ________.",
+     "marks": 2,
+     "options": null,
+     "answer": "she had nothing good to wear and adorn herself with",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "Which word in the passage means the same as whispering?",
+     "marks": 1,
+     "options": null,
+     "answer": "murmured",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    }
+   ],
+   "note": "Marks per subpart not printed in the paper; assigned 1/1/2/1 (two-mark item is the 'elaborate/why' question). Main = extract (i) with 'or' = extract (ii); choose ANY ONE.",
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q6"
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch22_How_to_Tell_Wild_Animals",
+   "origin": "variant",
+   "basis": "Paper_08 Q7",
+   "basis_question": {
+    "no": 7,
+    "section": "C",
+    "marks": 5,
+    "type": "literature",
+    "chapter": "Ch22_How_to_Tell_Wild_Animals",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\ni. Read the following extracts and answer the question/complete the sentences that follow:\nThough to distinguish beasts of prey\nA novice might nonplus,\nThe crocodile you always may\nTell from the Hyena thus;\nHyenas come with merry smiles;\nBut if they weep they're Crocodiles.",
+    "subparts": [
+     {
+      "text": "1. A novice would get confused to differentiate between ________.(1)",
+      "marks": 1,
+      "options": null,
+      "answer": "Wild animals like crocodile and hyena.",
+      "chapter": "Ch22_How_to_Tell_Wild_Animals"
+     },
+     {
+      "text": "2. How are the crocodiles identified in the forest?(1)",
+      "marks": 1,
+      "options": null,
+      "answer": "tears/weeping while they eat their prey.",
+      "chapter": "Ch22_How_to_Tell_Wild_Animals"
+     },
+     {
+      "text": "3. What, according to the extract, would cause bewilderment?(1)",
+      "marks": 1,
+      "options": [
+       "a. Discovering the similarity between different preys of beasts.",
+       "b. Analysing habits of beasts that prey on hyenas.",
+       "c. Knowing the difference between several beasts of prey.",
+       "d. Drawing the similarities between crocodiles and hyenas."
+      ],
+      "answer": "(c) Knowing the difference between several beasts of prey.",
+      "chapter": "Ch22_How_to_Tell_Wild_Animals"
+     },
+     {
+      "text": "4. What differences can be drawn between a hyena and a crocodile as given in the extract?(2)",
+      "marks": 2,
+      "options": null,
+      "answer": "Hyenas are very deceptive. They will attack their victim with weird smiles and kill them. Crocodiles pretend to be weeping before attacking or killing their prey.",
+      "chapter": "Ch22_How_to_Tell_Wild_Animals"
+     }
+    ],
+    "or": {
+     "chapter": "Ch21_A_Tiger_in_the_Zoo",
+     "options": null,
+     "figure": null,
+     "answer": "(see sub-questions)",
+     "text": "ii. He stalks in his vivid stripes\nThe few steps of his cage\nOn pads of velvet quiet\nIn his quiet rage.\nHe should be lurking in shadow\nSliding through long grass\nNear the water hole\nWhere plump deer pass",
+     "subparts": [
+      {
+       "text": "i. He is in a rage because he is (1)",
+       "marks": 1,
+       "options": [
+        "a. hungry",
+        "b. tied",
+        "c. thirsty",
+        "d. in a cage"
+       ],
+       "answer": "(d) in a cage",
+       "chapter": "Ch21_A_Tiger_in_the_Zoo"
+      },
+      {
+       "text": "ii. Why is the tiger lurking in the shadow? Answer in 40 words. (2)",
+       "marks": 2,
+       "options": null,
+       "answer": "he wants to catch his prey/he wants to hunt.",
+       "chapter": "Ch21_A_Tiger_in_the_Zoo"
+      },
+      {
+       "text": "iii. The above lines express the tiger's ________. (1)",
+       "marks": 1,
+       "options": [
+        "a. resignation",
+        "b. fear",
+        "c. anger",
+        "d. acceptance"
+       ],
+       "answer": "(c) anger",
+       "chapter": "Ch21_A_Tiger_in_the_Zoo"
+      },
+      {
+       "text": "iv. Complete the sentence appropriately: (1)\nIt is clear that metaphor is the poetic device used for pads of velvet - because ________. (Clue : explain how metaphor is applied here.)",
+       "marks": 1,
+       "options": null,
+       "answer": "it compares the texture of the tiger's paws to the softness and smoothness of velvet, emphasizing the quiet and graceful movement of the tiger.",
+       "chapter": "Ch21_A_Tiger_in_the_Zoo"
+      },
+      {
+       "text": "v. The contrast in the above extract is between life in the forest and life in the (1)",
+       "marks": 1,
+       "options": [
+        "a. circus",
+        "b. national park",
+        "c. cave",
+        "d. zoo"
+       ],
+       "answer": "(d) zoo",
+       "chapter": "Ch21_A_Tiger_in_the_Zoo"
+      }
+     ]
+    },
+    "note": "Alternative (ii) prints five sub-questions carrying 1+2+1+1+1 = 6 marks although the question is for 5 marks; marks kept as printed.",
+    "paper": "Paper_08"
+   },
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\ni. Read the following extract and answer the question/complete the sentences that follow:\nIf he roars at you as you're dyin',\nYou'll know it is the Asian Lion.",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "1. The poet suggests that the Asian Lion can be recognised by its ________. (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "roar.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "2. At what moment is the traveller expected to hear the roar? (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "While the traveller is dying, i.e. after the lion has attacked him.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "3. The tone of the poem in the extract is ________. (1)",
+     "marks": 1,
+     "options": [
+      "a. serious",
+      "b. sorrowful",
+      "c. humorous",
+      "d. angry"
+     ],
+     "answer": "(c) humorous",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "4. How does the poet create humour through this advice? (2)",
+     "marks": 2,
+     "options": null,
+     "answer": "The poet gives a 'rule' for identifying the animal that can be used only when it is too late to benefit from it. This absurd, mock-serious advice makes fun of guidebooks and of the traveller's danger and so amuses the reader.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    }
+   ],
+   "figure": null,
+   "or": {
+    "chapter": "Ch21_A_Tiger_in_the_Zoo",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "text": "ii. Read the following extract and answer the questions that follow:\nStalking the length of his cage,\nIgnoring visitors.",
+    "subparts": [
+     {
+      "text": "i. 'Ignoring visitors' shows that the tiger is ________. (1)",
+      "marks": 1,
+      "options": [
+       "a. indifferent to the crowd that has come to watch him",
+       "b. afraid of the visitors",
+       "c. friendly towards the visitors",
+       "d. hungry for the visitors' food"
+      ],
+      "answer": "(a) indifferent to the crowd that has come to watch him",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "ii. Where would the tiger rather be, according to the poet? (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "In the jungle, hunting/lurking in the shadows and long grass near the water hole.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "iii. The poet wants the reader to feel ________ for the tiger. (1)",
+      "marks": 1,
+      "options": [
+       "a. envy",
+       "b. sympathy",
+       "c. fear",
+       "d. amusement"
+      ],
+      "answer": "(b) sympathy",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "iv. Why is a cage an unsuitable place for the tiger? Answer in about 40 words. (2)",
+      "marks": 2,
+      "options": null,
+      "answer": "The tiger is a wild, powerful hunter that belongs in the jungle. In the cage its strength is wasted and it can only pace up and down. It cannot hunt or roam freely, so it lives in 'quiet rage' and the poet pities it.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     }
+    ]
+   },
+   "note": "Choose ANY ONE of the two extracts (5 marks: 1+1+1+2)."
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "origin": "variant",
+   "basis": "Paper_10 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "C",
+    "marks": 12,
+    "type": "literature",
+    "chapter": "Ch05_Glimpses_of_India",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "or": null,
+    "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+    "note": "Five 3-mark questions are printed; any four are to be attempted (12 marks).",
+    "subparts": [
+     {
+      "text": "i. When can we get a whole view of Coorg? [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "The climb to the Brahmagiri hills helps one appreciate a panoramic view of the entire misty landscape of Coorg. A walk across the rope bridge leads to the sixty-four-acre island of Nisargadhama. Running into Buddhist monks from India's largest Tibetan settlement, at nearby Bylakuppe, is a bonus.",
+      "chapter": "Ch05_Glimpses_of_India"
+     },
+     {
+      "text": "ii. The poem, A Tiger in the Zoo moves from the zoo to the jungle; and back again to the zoo. What effect does the poet want to bring out with this? Elaborate. [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "The poet in \"A Tiger in the Zoo\" contrasts the tiger's natural habitat in the jungle with its captivity in a zoo. This movement underscores the confinement and loss of freedom experienced by the tiger, highlighting the contrast between its wild, predatory nature and its subdued, restricted existence in captivity. It evokes a sense of pity for the tiger and raises awareness about the impact of human intervention on wild animals.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "iii. To what end does the playwright employ Lomov's palpitations in the play? [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "Ivan Lomov is a pretentious, proud, self-serving, argumentative, hysterical hypochondriac. A wealthy landowner Lomov comes to his neighbour with the over intentions of marriage, but he really wishes to expand his own land boundaries and he himself is suffering due to a weak hearth and sleep-sickness.",
+      "chapter": "Ch09_The_Proposal"
+     },
+     {
+      "text": "iv. How was Anne feeling about her chance of moving to the next grade? [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "Confident. She was not worried about her chances.",
+      "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+     },
+     {
+      "text": "v. The tone of the speaker contrasts with the seriousness of the subject matter. Justify. [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "'Fire and Ice' is a symbolic poem by Robert Frost. The poet wants to aware the humanity that everything will end one day as a result a human misdeeds. His aim is aphorism-brevity for Frost truth remains ambiguous. That's why the tone contrasts with the seriousness of the subject matter.",
+      "chapter": "Ch20_Fire_and_Ice"
+     }
+    ],
+    "paper": "Paper_10"
+   },
+   "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "i. What role did the traditional Goan baker, the 'pader', and his bread play in the life of the village? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "The baker was a familiar figure who came every day, announcing his arrival with the jingling sound of his bamboo staff. Bread was essential to Goan life: it was needed for festivals, weddings and everyday meals. The baker was therefore respected and loved by the community.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "ii. 'He should be lurking in shadow.' What does the poet of 'A Tiger in the Zoo' want the reader to understand through the words 'should be'? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "'Should be' tells us what is natural for the tiger: to hide in the shadows and hunt in the jungle. But he is not doing so; he is confined in a cage. The words show the poet's sympathy for the tiger and his disapproval of keeping wild animals captive.",
+     "chapter": "Ch21_A_Tiger_in_the_Zoo"
+    },
+    {
+     "text": "iii. Why do Lomov and Natalya quarrel over the Oxen Meadows? What does the quarrel show about them? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Both claim that the Oxen Meadows belong to their own family. Lomov has come to propose, but the argument over ownership grows heated. It shows that both are proud, quarrelsome and stubborn, and the proposal is forgotten in a petty dispute.",
+     "chapter": "Ch09_The_Proposal"
+    },
+    {
+     "text": "iv. How did Anne Frank respond to the punishment of writing about being a chatterbox, and what does it show about her? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Anne wrote an essay arguing that talkativeness was a trait she had inherited from her mother, and later wrote a humorous poem on the subject. Mr Keesing took it in good humour. It shows Anne's wit, creativity and resourcefulness in handling a difficult situation.",
+     "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+    },
+    {
+     "text": "v. In 'Fire and Ice', the poet says 'I think I know enough of hate / To say that for destruction ice / Is also great'. What does ice stand for here, and what is the poet's point? [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Ice stands for hatred and cold indifference, while fire stands for desire/passion. The poet says hatred can destroy the world as surely as burning desire. He gives no preference between them and warns that human feelings can bring the end of the world.",
+     "chapter": "Ch20_Fire_and_Ice"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Five 3-mark questions are printed; any four are to be attempted (12 marks)."
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "origin": "ncert",
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words.\n\nMrs Pumphrey loved her pet dog Tricki Woo dearly, yet her way of showing love almost harmed him. Do you agree? Justify your answer with reference to the lesson 'A Triumph of Surgery'.",
+   "options": null,
+   "answer": "Yes, her love was misguided. Mrs Pumphrey pampered Tricki with rich food: cakes, chocolates and cream, and gave him very little exercise. As a result he became fat, lazy and ill, and he lost interest in everything. Her affection blinded her to what was good for him. Mr Herriot, the vet, saw that the dog was suffering from overeating, not from a serious disease. He took Tricki to the hospital, put him on a strict diet and let him play with other dogs. Tricki soon became lively and healthy again. The story shows that true love for a pet means caring for its real needs and not spoiling it.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+    "options": null,
+    "figure": null,
+    "subparts": null,
+    "text": "Describe how Mr Herriot treated Tricki Woo at the hospital and what change came over the dog. What does the story teach about caring for pets? Answer in about 100-120 words with reference to the lesson 'A Triumph of Surgery'.",
+    "answer": "Mr Herriot realised that Tricki was only overfed and unfit. At the hospital he stopped the rich food and gave him a simple, controlled diet. Tricki was kept with other dogs and was not pampered. He gradually recovered, became active and cheerful again, and was soon a healthy dog who enjoyed his food and company. When Mrs Pumphrey came to take him home she was amazed at the change. The story teaches that pets need proper food, exercise and company, and that too much indulgence is harmful. Real care means thinking of the animal's health."
+   }
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "origin": "variant",
+   "basis": "Paper_03 Q10",
+   "basis_question": {
+    "no": 10,
+    "section": "C",
+    "marks": 6,
+    "type": "literature",
+    "chapter": "Ch03_Two_Stories_about_Flying",
+    "text": "Answer ANY ONE of the following two questions, in about 100-120 words\n\nImagine that the narrator shared his story with friends and family once he got home. One of them, a spiritual leader, decided to incorporate the story as part of his weekly sermon to the congregation. Another friend, a psychologist, worked the story into his next lecture on survival instinct and crisis management.\nDo you think the two interpretations of the story would be different? If so, how?\nWhat insights might the narrator get about his mysterious experience, if he were to attend both the sessions? Answer in the context of the lesson Two Stories about Flying.",
+    "options": null,
+    "figure": null,
+    "answer": "Yes, two interpretations of the story would be different. Spiritually, a person has deep faith in God and he recalls him in the time of distress he will definitely be answered. God will surely send help through his messengers as done in chapter 1. A letter to god. The postmaster became the messenger of God. Whereas psychologically, it interprets 'Never say die' till the end.\nThe narrator might also have got the insight of never to lose hope in the most hopeless situation. No one know who may come to save you. The narrator was hopeless when he was caught in the storm. He lost all contact with Paris control and all his instruments were dead. Then came a help from unknown source in form of the mysterious pilot of the black aeroplane to guide the narrator to safety.",
+    "or": {
+     "text": "What message does the poet give to the readers? Answer in the context of the poem Fire and Ice.",
+     "options": null,
+     "figure": null,
+     "chapter": "Ch20_Fire_and_Ice",
+     "answer": "The poem 'Fire and Ice' echoes Robert Frost's claim which he once made that, \"my poem begins in delight but ends in wisdom\". In this poem, the poet considers the age-old question of whether the world will end in fire or in ice. It is quite interesting that the poet does not give his own opinion in this regard. It is illogical to ask which one is stronger as we know both of them are equally harmful to the world. Fire is a metaphor used for lust, greed, avarice, and intolerance, whereas, ice can be associated with hatred and indifference. The fire of lust and greed gets publicity, but the coldness of hatred is also dangerous as it is a silent killer. All of such dark sides of human nature can obstruct the progress of human civilization.",
+     "subparts": null
+    },
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words\n\nThe young seagull and the pilot in the black aeroplane story both face fear, but each overcomes it in a different way. Compare how the two come through their trials. Answer in the context of the lesson 'Two Stories about Flying'.",
+   "options": null,
+   "answer": "The young seagull was afraid to fly and stayed on the ledge while his family called and taunted him. Hunger made him dive when his mother tempted him with food, and he found that his wings could carry him. His fear was overcome by need and encouragement. The pilot, flying through a storm at night, lost his bearings, and his instruments and radio failed. He stayed calm and trusted his own judgement, and a mysterious black aeroplane guided him to a safe landing. Thus the bird's fear was conquered with the help of his family, while the pilot's survival came from courage, presence of mind and unexpected help. Both stories show that fear can be overcome.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch19_Dust_of_Snow",
+    "options": null,
+    "figure": null,
+    "subparts": null,
+    "text": "How does a small, ordinary incident change the poet's mood in the poem 'Dust of Snow'? Answer in about 100-120 words.",
+    "answer": "The poet was in a gloomy, regretful mood, feeling that the day was going badly. A crow sitting in a hemlock tree shook down some dust of snow on him. The tiny, unexpected touch of nature surprised him and lifted his spirits. His mood changed from sadness to cheerfulness, and he felt that part of the day he had been regretting was saved. The poem shows that even a small, common event in nature, even a crow, which is usually regarded as an ordinary bird, can bring joy and change our outlook on life."
+   }
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch15_Footprints_The_Making_of_a_Scientist",
+   "origin": "ncert",
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words.\n\nRichard Ebright's journey to becoming a scientist shows that curiosity and a supportive home can shape a career. Explain with reference to the lesson 'The Making of a Scientist'.",
+   "options": null,
+   "answer": "Richard Ebright was a curious boy who became interested in nature at a young age. He began by collecting butterflies, and his hobby soon grew into serious study and experiments. His mother encouraged him, provided books and materials, and let him follow his interests. He read widely, asked questions and did not give up when he faced difficulties. As a result he moved from a collector to a researcher, took part in science projects and competitions, and went on to become a scientist. His story shows that curiosity, hard work and support from parents and teachers help a child grow into a scientist.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch15_Footprints_The_Making_of_a_Scientist",
+    "options": null,
+    "figure": null,
+    "subparts": null,
+    "text": "What qualities of Richard Ebright helped him to become a scientist? Support your answer with examples from the lesson 'The Making of a Scientist'. Answer in about 100-120 words.",
+    "answer": "Richard Ebright was curious, observant and hard-working. As a child he asked questions about everything and began collecting butterflies, which led him to study and observe them closely. He was determined: he read many books and carried out projects instead of giving up when a task was difficult. He was independent in his thinking and willing to try new ideas. He also made good use of the support of his mother and others who encouraged him. These qualities of curiosity, perseverance and a questioning mind helped him to progress from a young hobbyist to a scientist."
+   }
+  }
+ ]
+}

@@ -1,0 +1,908 @@
+{
+ "subject": "English",
+ "paper": "Mock_05",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "1. In today's contemporary online shopping landscape, a perfect storm of choice engulfs consumers. Research consistently indicates that individuals presented with a limited selection tend to make more confident and efficient decisions compared to those confronted with overwhelming choices.\n2. Consequently, assisting consumers in navigating the vast expanse of options available online has evolved into a thriving industry on a global scale. Many brands and retailers now employ marketing strategies revolving around the aspects given in the table below:\n\n| Aspect | Description |\n|---|---|\n| Industry | Helping consumers decide what to buy online. |\n| Marketing tools | Selecting, differentiation and discovery. |\n| Data utilization | Digital advertising, cataloging people by gender, income level, personal interests and more. |\n| Retail Assistance | Algorithms, influencers and ad tech. |\n| Challenge | Choice fatigue due to the overwhelming volume of consumer choices. |\n| Solution | Lifestyle influencers on Instagram providing aspirational content and product recommendations. |\n\n3. For a relatively new breed of consumer product startups, a different approach emerges entirely. Rather than attempting to navigate the existing sea of products, these companies claim to revolutionize conventional consumer choices. Some brands offer limited, functional, mid-priced products, instilling customer confidence and breaking the cycle of consumerism.\n4. The global product abundance could be more equitable. Unfortunately, creators often prioritize wealthier consumers.\n5. For startups promising accessible simplicity, their very structure may eventually lead them back to an overwhelming array of choices. Most of these companies rely on hundreds of millions of dollars in venture capital funding, and their inventors typically expect rapid growth.\n(Adapted for academic usage)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What does the use of the phrase 'a perfect storm of choice', by the writer, in paragraph 1, tell us about their feelings?",
+     "marks": 1,
+     "options": [
+      "(A) The consumers are elated",
+      "(B) The consumers are confused",
+      "(C) The consumers are confident",
+      "(D) The consumers are decisive"
+     ],
+     "answer": "(B) The consumers are confused"
+    },
+    {
+     "text": "Identify the word in paragraph 2, that indicates that the writer feels assisting consumers has become a profitable industry.",
+     "marks": 1,
+     "options": null,
+     "answer": "Thriving"
+    },
+    {
+     "text": "Based on the aspects mentioned in the table, mention the marketing approach that is primarily concerned with understanding consumers based on various factors.",
+     "marks": 1,
+     "options": null,
+     "answer": "Data utilization"
+    },
+    {
+     "text": "Complete the following analogy approximately, based on your understanding of the table:\nCataloging people by gender, income level, personal interests etc. is to Data utilization as Algorithms, influencers, and ad tech are to ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "Retail Assistance"
+    },
+    {
+     "text": "Which aspect in the table pertains to presenting consumers with carefully selected choices to assist decision-making?",
+     "marks": 1,
+     "options": [
+      "(A) Challenge",
+      "(B) Data utilization",
+      "(C) Marketing trends",
+      "(D) Retail assistance"
+     ],
+     "answer": "(C) Marketing Trends (as given in the key; the table row concerned is 'Marketing tools' - 'Selecting, differentiation and discovery')"
+    },
+    {
+     "text": "Based on your understanding, fill the blank with the appropriate option from those given in brackets:\nThe solution to combat choice fatigue to ________ (follow/employ/recommend) lifestyle influencers on Instagram who provide self-improving content and product references.",
+     "marks": 1,
+     "options": [
+      "follow",
+      "employ",
+      "recommend"
+     ],
+     "answer": "follow"
+    },
+    {
+     "text": "Complete the sentence suitably:\nThe different approach to revolutionise consumer choices is to ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "offer limited, functional, mid-priced products / instil customer confidence / break the cycle of consumerism"
+    },
+    {
+     "text": "Complete the following with a suitable reason:\nThe writer believes that the global product abundance cannot be equitable because ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "creators often prioritise wealthier consumers"
+    },
+    {
+     "text": "In the context of the last paragraph though the startups promise simplicity of access, what are the drawbacks of such a structure?",
+     "marks": 2,
+     "options": null,
+     "answer": "- Overwhelming array of choices\n- Depends on venture capital funding\n- Expectation of rapid growth"
+    }
+   ],
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q2"
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "origin": "variant",
+   "basis": "Paper_07 Q2",
+   "basis_question": {
+    "no": 2,
+    "section": "A",
+    "marks": 10,
+    "type": "reading",
+    "chapter": "SKILL_Reading",
+    "text": "Read the following passage carefully:\n1. Monsoon is the most delightful season: dark clouds adding drama to the skies, air fragrant with the unmatched scent of wet earth getting drenched in the rains.\n2. This one is for nostalgia. Though recently a neighbouring small town called Mawsynram has overtaken it, Cherrapunji is forever etched in our memories as the wettest place on earth. It may be officially the second wettest place, but that's still a lot of rain to revel in ! The best part about Sohra, as it is locally called, is that unlike other hill stations in the northeast, the roads are in good condition and driving in the rain is not a hazard. There are several waterfalls and viewpoints, including the milky white Nohkalikai Falls, which at 340 metres, is among the tallest waterfalls in the country.\n3. Kochi in Kerala is the city that welcomes the monsoon into the country and is at its greenest this time of the year. A nice breeze makes the walk around the old Fort Kochi area more enjoyable. Slow boat rides on the backwaters become more magical when rain starts to fall on the placid waters.\n4. Gopalpur-on-Sea in Odisha, boasts of miles and miles of picturesque and unexplored beaches. One may sit on the golden sand and watch the casuarinas sway in the cool monsoon breeze.\nPlaces in India with Highest Annual Rainfall (calculated in approximation)\n| S. No. | Place | State | Rainfall in mm | Rainfall in inches |\n| 1 | Mawsynram | Meghalaya | 11,871 | 467.4 |\n| 2 | Cherrapunji | Meghalaya | 11,777 | 463.7 |\n| 3 | Agumbe | Karnataka | 7,083 | 278.5 |\n| 4 | Mahe | Puducherry | 6,990 | 275.2 |\n| 5 | Tuticorin | Tamil Nadu | 6,492 | 255 |\n| 6 | Amboli | Maharashtra | 6,250 | 246 |\n| 7 | Mahabaleshwar | Maharashtra | 6,117 | 240.9 |\nAnswer the following questions, based on the above passage :",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "i. Complete the following analogy correctly with a word/phrase from Paragraph 1.\nGolden : Sand : : ________ : Land",
+      "marks": 1,
+      "options": null,
+      "answer": "wet/drenched"
+     },
+     {
+      "text": "ii. Based on the information given in the table, fill in the blanks :\n________ is the wettest place in India and ________ officially stands next to it.",
+      "marks": 2,
+      "options": null,
+      "answer": "Mawsynram; Cherrapunji/Sohra"
+     },
+     {
+      "text": "iii. Infer the reason for the opinion provided below :\n| Opinion | Reason |\n| Driving in the rain is not a hazard in Sohra | |",
+      "marks": 1,
+      "options": null,
+      "answer": "Reason: The roads are in good condition"
+     },
+     {
+      "text": "iv. How can the beauty of Kochi be enjoyed during the monsoon? (Any two)",
+      "marks": 1,
+      "options": null,
+      "answer": "a walk around the old Fort Kochi area; slow boat rides on the backwaters."
+     },
+     {
+      "text": "v. Based on the text, which of the following options sums up the theme of the text?",
+      "marks": 1,
+      "options": [
+       "(A) Nostalgic about the places he has visited in India.",
+       "(B) Boastful about the picturesque beaches of Odisha.",
+       "(C) Appreciative of monsoon as a delightful season.",
+       "(D) Critical of the hill stations situated in the northeast."
+      ],
+      "answer": "C. Appreciative of monsoon as a delightful season"
+     },
+     {
+      "text": "vi. In the line - 'It boasts of miles and miles of picturesque and unexplored beaches, what does 'picturesque' most nearly mean?",
+      "marks": 1,
+      "options": [
+       "(A) placid",
+       "(B) attractive",
+       "(C) boastful",
+       "(D) serene"
+      ],
+      "answer": "B. attractive"
+     },
+     {
+      "text": "vii. Fill in the blank by selecting the correct option.\nNohkalikai Falls, which at 340 metres, is located in ________, which is the other name of ________.",
+      "marks": 2,
+      "options": [
+       "(A) Mawsynram, Cherrapunji",
+       "(B) Cherrapunji, Sohra",
+       "(C) Sohra, Mawsynram",
+       "(D) Mawsynram, Sohra"
+      ],
+      "answer": "B. Cherrapunji, Sohra"
+     },
+     {
+      "text": "viii. Replace the word 'reminiscence' with one word similar in meaning in the following sentence from Paragraph 2.\nA wave of reminiscence swept over me when I saw my childhood home.",
+      "marks": 1,
+      "options": null,
+      "answer": "Nostalgia/memories"
+     }
+    ],
+    "paper": "Paper_07"
+   },
+   "text": "Read the following passage carefully:\n1. For centuries, millets were a staple on Indian plates. Hardy and drought-resistant, they grew well in dry regions where wheat and rice struggled. After the Green Revolution, however, cheap and plentiful rice and wheat pushed them to the margins, and millets came to be dismissed as the 'food of the poor'.\n2. In recent years, nutritionists have changed that verdict. Millets are rich in fibre and minerals, and they release sugar slowly into the blood, which makes them a sensible choice for people worried about diabetes. Farmers, too, like them: they need little water and few chemical fertilisers, and they can survive uncertain rains.\n3. Three of the best-known millets are shown in the table below.\n\n| Millet | English name | Chief growing region | Notable benefit |\n|---|---|---|---|\n| Ragi | Finger millet | Karnataka | Rich in calcium |\n| Bajra | Pearl millet | Rajasthan | Rich in iron |\n| Jowar | Sorghum | Maharashtra | High in fibre |\n\n4. The challenge now is to make millets attractive to young city consumers who find them unfamiliar. Chefs and food start-ups are turning them into pasta, biscuits and dosas, and a few schools have added millet laddoos to the midday meal. If such efforts continue, an old grain may well become the new favourite.\nAnswer the following questions, based on the above passage:",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "i. Identify the word in paragraph 1 which means 'strong and able to survive difficult conditions'.",
+     "marks": 1,
+     "options": null,
+     "answer": "Hardy"
+    },
+    {
+     "text": "ii. Based on the information given in the table, fill in the blanks:\n________ is rich in calcium and is chiefly grown in ________.",
+     "marks": 2,
+     "options": null,
+     "answer": "Ragi (finger millet); Karnataka"
+    },
+    {
+     "text": "iii. Infer the reason for the opinion provided below:\n| Opinion | Reason |\n|---|---|\n| Farmers like to grow millets | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Reason: They need little water and few chemical fertilisers / they can survive uncertain rains."
+    },
+    {
+     "text": "iv. In what forms are chefs and food start-ups presenting millets to young consumers? (Any two)",
+     "marks": 1,
+     "options": null,
+     "answer": "Pasta; biscuits; dosas (any two)"
+    },
+    {
+     "text": "v. Based on the text, which of the following options sums up the theme of the passage?",
+     "marks": 1,
+     "options": [
+      "(A) Rice and wheat are harmful to health.",
+      "(B) Millets are returning to favour because of their nutritional and farming benefits.",
+      "(C) Farmers should stop growing wheat and rice.",
+      "(D) Schools should serve only millet dishes."
+     ],
+     "answer": "(B) Millets are returning to favour because of their nutritional and farming benefits."
+    },
+    {
+     "text": "vi. In the line - 'millets were a staple on Indian plates', what does 'staple' most nearly mean?",
+     "marks": 1,
+     "options": [
+      "(A) a wire used for fastening papers",
+      "(B) main item of diet",
+      "(C) a rare delicacy",
+      "(D) a seasonal dish"
+     ],
+     "answer": "(B) main item of diet"
+    },
+    {
+     "text": "vii. Fill in the blank by selecting the correct option.\nMillets were pushed to the margins after the ________ because ________.",
+     "marks": 2,
+     "options": [
+      "(A) Green Revolution, cheap and plentiful rice and wheat became available",
+      "(B) Green Revolution, they were found to be unhealthy",
+      "(C) International Year of Millets, farmers lost interest in them",
+      "(D) International Year of Millets, they needed too much water"
+     ],
+     "answer": "(A) Green Revolution, cheap and plentiful rice and wheat became available"
+    },
+    {
+     "text": "viii. Replace the word 'dismissed' with one word similar in meaning in the following sentence.\nThe teacher dismissed the suggestion as impractical.",
+     "marks": 1,
+     "options": null,
+     "answer": "Rejected / disregarded"
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "origin": "variant",
+   "basis": "Paper_06 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "B",
+    "marks": 10,
+    "type": "grammar",
+    "chapter": "SKILL_Grammar",
+    "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "i. Fill in the blank by using the correct form of the word in the bracket, for the given portion of a letter:\nTherefore, I request you to please consider this request of ________ (construct) a park in our society so that each and every person can benefit and we can enjoy a healthy environment amidst the concrete jungle.",
+      "marks": 1,
+      "options": null,
+      "answer": "constructing"
+     },
+     {
+      "text": "ii. Read the given sentence from a movie review article. Identify the error and supply the correction in the sentence.\nThe movie doesn't let you rest and is packed with engaged action sequences.\nUse the given format for your response.\n| Error | Correction |",
+      "marks": 1,
+      "options": null,
+      "answer": "| Error | Correction |\n| engaged | engaging |"
+     },
+     {
+      "text": "iii. Read the conversation given below between a receptionist and a guest. Complete the sentence by filling in the blank:\nReceptionist: Good to see you again, sir!\nGuest: Indeed, it's always nice to be back here.\nThe guest replied that ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "it's always nice to be back there.",
+      "note": "Options a-d printed under this item in the paper actually belong to item iv."
+     },
+     {
+      "text": "iv. Read the dialogue between Yogita and Nandini, regarding the progress of a task.\nYogita: How long have you been working on this task?\nNandini: I ve been working for two hours.\nSelect the correct option to complete the reporting of the above dialogue.\nYogita asked Nandini ________.\nNandini replied that she had been working for two hours.",
+      "marks": 1,
+      "options": [
+       "a) for how long had she been working on this task",
+       "b) for how long was she working on the task",
+       "c) how long she had been working on that task",
+       "d) how long had she been working on this task"
+      ],
+      "answer": "(c) how long she had been working on that task"
+     },
+     {
+      "text": "v. Fill in the blank by choosing the correct option.\nBoth players in the tennis match have been warned by the referee but ________ (either / neither / every) of them seems to take it seriously.",
+      "marks": 1,
+      "options": null,
+      "answer": "Neither"
+     },
+     {
+      "text": "vi. Identify the error in the given sentence that shows grandmother and grandson relation and supply the correction.\nMy grandmother and I were good friends. He used to wake me up early and get me ready for the school.\nUse the given format for your response.\n| error | correction |",
+      "marks": 1,
+      "options": null,
+      "answer": "| error | correction |\n| He | She |"
+     },
+     {
+      "text": "vii. Select the option that identifies the error and supplies the correction for the following line, from a news report:\nEducation plays a important role in building an individual's identity and personality.\n| Option no. | Error | Correction |\n| A | plays | play |\n| B | a | an |\n| C | in | for |\n| D | an | the |",
+      "marks": 1,
+      "options": [
+       "A: plays - play",
+       "B: a - an",
+       "C: in - for",
+       "D: an - the"
+      ],
+      "answer": "(B) a - an"
+     },
+     {
+      "text": "viii. Complete the given narrative by filling in the blank with the correct option:\nThe children ________ better safety procedures after the unexpected fire in the school.",
+      "marks": 1,
+      "options": [
+       "a) called in",
+       "b) called out",
+       "c) called for",
+       "d) called by"
+      ],
+      "answer": "(c) called for"
+     },
+     {
+      "text": "ix. Read the conversation and complete the sentence by reporting the reply correctly.\nLiz: Hey Mike, good to see you!\nMike: Hi Liz, I haven't seen you since June.\nLiz greeted Mike when they met accidentally and said it was good to see him.\nMike greeted back and replied that ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "he had not seen her since June.",
+      "note": "Options a-d printed under this item in the paper actually belong to item x."
+     },
+     {
+      "text": "x. \"I am leaving the city tomorrow,\" the lecturer said.\nHe said that ________ leaving the city ________.",
+      "marks": 1,
+      "options": [
+       "a) he was, that day",
+       "b) he is, tomorrow",
+       "c) I was, previous day",
+       "d) he was, the following day"
+      ],
+      "answer": "(d) he was, the following day"
+     },
+     {
+      "text": "xi. Complete the line from a self-awareness song, by filling the blank with the correct option.\n\"And with a look made of all sweet accord,\nAnswered, \"The names of those who ________ the lord.\n\"And is mine one?\" said Abou. \"Nay, not so,\"\nReplied the angel. Abou ________ more low,",
+      "marks": 1,
+      "options": [
+       "A. Love, spoken",
+       "B. Loves, spoke",
+       "C. love, spoke",
+       "D. loves, speak"
+      ],
+      "answer": "C. love, spoke. The first blank is in a direct speech where the situation is of present. The second blank shows the past situation where action started in the past and was completed in the past itself."
+     },
+     {
+      "text": "xii. Identify the error and supply the correction, for the following:\nSurat\nHI LIFE EXHIBITION\nYou're last chance to make a fashion statement\nLAST DAY TODAY\nUse the given format for your response.\n| error | correction |",
+      "marks": 1,
+      "options": null,
+      "answer": "| error | correction |\n| You're | Your |"
+     }
+    ],
+    "note": "Any 10 of 12 one-mark items attempted; the 12 subparts total 12 marks.",
+    "paper": "Paper_06"
+   },
+   "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "i. Fill in the blank by using the correct form of the word in the bracket, for the given portion of a letter:\nI am writing to express my sincere gratitude for ________ (organise) the blood donation camp in our colony last Sunday.",
+     "marks": 1,
+     "options": null,
+     "answer": "organising"
+    },
+    {
+     "text": "ii. Read the given sentence from a museum notice. Identify the error and supply the correction in the sentence.\nThe museum offer free entry to all students on Sundays.\nUse the given format for your response.\n| Error | Correction |",
+     "marks": 1,
+     "options": null,
+     "answer": "| Error | Correction |\n| offer | offers |"
+    },
+    {
+     "text": "iii. Read the conversation given below between a shopkeeper and a customer. Complete the sentence by filling in the blank:\nShopkeeper: Can I help you, madam?\nCustomer: Thank you, I am just looking.\nThe customer replied that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "she was just looking."
+    },
+    {
+     "text": "iv. Read the dialogue between Ravi and Meena.\nRavi: Where did you buy this bag?\nSelect the correct option to complete the reporting of the above dialogue.\nRavi asked Meena ________.",
+     "marks": 1,
+     "options": [
+      "a) where she had bought that bag",
+      "b) where had she bought that bag",
+      "c) where did she buy this bag",
+      "d) where she bought this bag"
+     ],
+     "answer": "(a) where she had bought that bag"
+    },
+    {
+     "text": "v. Fill in the blank by choosing the correct option.\nI have invited both my cousins, but ________ (either / neither / every) of them can attend the function.",
+     "marks": 1,
+     "options": null,
+     "answer": "neither"
+    },
+    {
+     "text": "vi. Identify the error in the given sentence that shows aunt and niece relation and supply the correction.\nMy aunt and I went to the fair. He bought me a kite and some balloons.\nUse the given format for your response.\n| error | correction |",
+     "marks": 1,
+     "options": null,
+     "answer": "| error | correction |\n| He | She |"
+    },
+    {
+     "text": "vii. Select the option that identifies the error and supplies the correction for the following line, from a news report:\nThe news about the floods were shocking for everyone in the town.\n| Option no. | Error | Correction |\n| A | were | was |\n| B | about | on |\n| C | for | to |\n| D | shocking | shocked |",
+     "marks": 1,
+     "options": [
+      "A: were - was",
+      "B: about - on",
+      "C: for - to",
+      "D: shocking - shocked"
+     ],
+     "answer": "(A) were - was"
+    },
+    {
+     "text": "viii. Complete the given narrative by filling in the blank with the correct option:\nThe cricket match was ________ because of heavy rain.",
+     "marks": 1,
+     "options": [
+      "a) called off",
+      "b) called on",
+      "c) called up",
+      "d) called by"
+     ],
+     "answer": "(a) called off"
+    },
+    {
+     "text": "ix. Read the conversation and complete the sentence by reporting the reply correctly.\nNeha: Did you watch the match last night?\nArjun: No, I had gone to my grandparents' house.\nNeha asked Arjun if he had watched the match the previous night.\nArjun replied that ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "he had gone to his grandparents' house."
+    },
+    {
+     "text": "x. \"We will start the trek tomorrow,\" the guide said.\nThe guide said that ________ start the trek ________.",
+     "marks": 1,
+     "options": [
+      "a) they would, the next day",
+      "b) we will, tomorrow",
+      "c) they will, the next day",
+      "d) we would, that day"
+     ],
+     "answer": "(a) they would, the next day"
+    },
+    {
+     "text": "xi. Complete the lines from a poem, by filling the blanks with the correct option.\n\"When the first rain ________ the dusty street,\nThe children ________ out to dance.\"",
+     "marks": 1,
+     "options": [
+      "A. hit, ran",
+      "B. hits, ran",
+      "C. hit, run",
+      "D. had hit, runs"
+     ],
+     "answer": "A. hit, ran. Both actions belong to a completed past event, so simple past forms are needed."
+    },
+    {
+     "text": "xii. Identify the error and supply the correction, for the following:\nSUNRISE BOOK FAIR\nAll the book's are at half price\nVisit us this weekend\nUse the given format for your response.\n| error | correction |",
+     "marks": 1,
+     "options": null,
+     "answer": "| error | correction |\n| book's | books |"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Any 10 of 12 one-mark items attempted; the 12 subparts total 12 marks."
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "The Pros and Cons of using the internet in everyday life are numerous. The internet is like a double-edged sword. Based on the information provided in the table below, write an analytical paragraph on the topic 'Advantages and Disadvantages of the Internet'.\n\nPros and Cons of Internet\n\n| Pros | Cons |\n|---|---|\n| (1) Connectivity | (1) Data Security |\n| (2) Communication speed and versatile working | (2) Social Isolation |\n| (3) Learning Re-defined | (3) Addiction towards it |\n| (4) Transfer of Data | (4) Plagiarism and copyright |",
+   "options": null,
+   "figure": null,
+   "answer": "Analytical Paragraph: Advantages and Disadvantages of the Internet\nThe internet has become an integral part of everyday life, offering numerous benefits along with certain drawbacks. One of its key advantages is connectivity, enabling people across the world to stay linked instantly. It also enhances communication speed and supports versatile working, making tasks quicker and more efficient. The internet has redefined learning by providing easy access to information, online courses, and educational resources. Additionally, it allows fast transfer of data, supporting both personal and professional needs.\nHowever, the internet also poses challenges. Data security is a major concern as online platforms are vulnerable to hacking and misuse. Excessive use of the internet can lead to social isolation, reducing real-life interactions. Many users, especially youth, may develop addiction, affecting their productivity. Moreover, plagiarism and copyright violations have increased due to the easy availability of online content.\nThus, while the internet is highly useful, its responsible use is essential.",
+   "or": {
+    "text": "In the past few years, the teaching-learning process has taken a leap and gone beyond the four walls of the classroom. Today, it has become possible to learn not just by sitting in a physical classroom, but from anywhere. Given below is a chart depicting the differences between E-learning and Classroom learning. Write an analytical paragraph, assessing the benefits and drawbacks of both, by selecting features that support your analysis.\n\n| E-learning | vs. | Classroom learning |\n|---|---|---|\n| accessible anytime anywhere; at your own pace; no travel costs, saves time | | same place, same time; caters to the needs of the class; transportation cost and time consuming |",
+    "options": null,
+    "figure": null,
+    "chapter": "SKILL_Writing",
+    "answer": "The shift from traditional classrooms to digital platforms has transformed the teaching-learning process. E-learning offers flexible access to lessons anytime and anywhere, allowing students to learn at their own pace. It eliminates travel, saving both time and money. Classroom learning, in contrast, requires students to be present at the same place and time, which may not suit individual learning needs. However, it provides direct interaction with teachers and peers, catering effectively to the needs of the entire class. It also involves transportation costs and additional time. Therefore, both methods have clear benefits and drawbacks: e-learning is convenient and economical, while classroom learning supports structured guidance and personal engagement.",
+    "subparts": null
+   },
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q5"
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "origin": "variant",
+   "basis": "Paper_08 Q4",
+   "basis_question": {
+    "no": 4,
+    "section": "B",
+    "marks": 5,
+    "type": "writing",
+    "chapter": "SKILL_Writing",
+    "text": "In recent weeks, there have been several incidents of theft in your area, and despite reaching out to the local law enforcement authorities, there has been no improvement in the situation. Write a letter to the editor of a local newspaper, highlighting this issue and urging higher authorities to take action. You are Jyoti/Arvind residing at 54/47, Lohia Apartments, Nagpur.",
+    "options": null,
+    "figure": null,
+    "answer": "54/47, Lohia Apartments\nNagpur\nDate: 10/12/20xx\n\nThe Editor\nLocal Daily\nNagpur\n\nSubject: Rising Theft Incidents in Our Area\n\nSir/Madam,\n\nI wish to bring to your notice the increasing incidents of theft in our locality. Over the past few weeks, several homes have been targeted, creating fear and insecurity among residents. Despite repeated complaints to the local police, no effective action has been taken, and the situation remains unchanged.\n\nThrough your esteemed newspaper, I urge the higher authorities to take immediate steps, increase police patrolling, and ensure proper safety measures to protect the residents.\n\nYours sincerely,\nJyoti / Arvind",
+    "or": {
+     "text": "The recent pandemic has reinforced the importance of health and exercise. The Resident Welfare Association of Green Park has decided to organise Yoga classes. Write a letter to the Manager Yogshalaya enquiring about trainers, individual/group sessions, time slots and costs involved along with other relevant details. You are Rakesh/Ritika Mathur, 721, Green Park, New Delhi.",
+     "options": null,
+     "figure": null,
+     "chapter": "SKILL_Writing",
+     "answer": "Rakesh/Ritika Mathur,\n721, Green Park,\nNew Delhi.\n28 March 2022\n\nThe Manager\nYogshalaya\nNew Delhi\n\nSubject: Enquiry about available trainers, sessions, and time slots\n\nSir/Madam\n\nI am writing this letter on behalf of the Resident Welfare Association of Green Park, New Delhi, to enquire about Yoga classes for our community. With the recent pandemic situation, we have realized the importance of health and exercise, and we believe that Yoga is an excellent way to stay fit and healthy.\n\nWe have come across your esteemed Yoga center, Yogshalaya, and would like to inquire about the trainers, individual/group sessions, time slots, and costs involved in organizing Yoga classes for our community. We would appreciate it if you could provide us with relevant details such as the experience and qualifications of the trainers, the duration of the sessions, the availability of individual or group sessions, the time slots for the classes, and the costs involved.\n\nWe would also like to know if you provide any special discounts or packages for group bookings. Kindly provide us with all the necessary details so that we can plan accordingly and make the necessary arrangements for our community members.\n\nThank you for your time, and we look forward to hearing from you soon.\n\nSincerely,\nRakesh/Ritika Mathur"
+    },
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "In recent weeks, loudspeakers playing at high volume late into the evening in your neighbourhood have disturbed students preparing for their board examinations, and requests to the organisers have been ignored. Write a letter to the editor of a local newspaper, highlighting this issue and urging the authorities to take action. You are Kavita/Karan residing at 12/9, Rajendra Colony, Jaipur.",
+   "options": null,
+   "answer": "12/9, Rajendra Colony\nJaipur\nDate: 14/01/20xx\n\nThe Editor\nThe Local Herald\nJaipur\n\nSubject: Noise pollution disturbing students\n\nSir/Madam,\n\nThrough the columns of your newspaper, I wish to draw the attention of the authorities to the problem of noise pollution in our locality. For the past few weeks, loudspeakers have been played at high volume till late in the evening, making it very difficult for students to study. With the board examinations approaching, this has caused great stress and loss of concentration among them. Elderly residents and patients are also troubled.\n\nWe have requested the organisers to lower the volume, but our appeals have been ignored. I therefore urge the local administration and the police to enforce the rules on permitted sound levels and time limits, and to take strict action against offenders.\n\nI hope you will publish this letter so that the matter receives prompt attention.\n\nYours sincerely,\nKavita / Karan",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "Your Resident Welfare Association wants to start a coding course for school children during the summer vacation. Write a letter to the Manager, Digital Skills Academy, enquiring about the courses, batch timings, fees, qualifications of the trainers and other relevant details. You are Anita/Anil Verma, 15, Shanti Nagar, Lucknow.",
+    "options": null,
+    "figure": null,
+    "chapter": "SKILL_Writing",
+    "answer": "Anita/Anil Verma\n15, Shanti Nagar\nLucknow\n20 April 20xx\n\nThe Manager\nDigital Skills Academy\nLucknow\n\nSubject: Enquiry about coding courses for children\n\nSir/Madam,\n\nI am writing on behalf of the Resident Welfare Association of Shanti Nagar to enquire about the coding courses you offer for school children during the summer vacation. Many parents in our colony wish to enrol their children and would like to have some details first.\n\nKindly let us know the courses available for different age groups, the duration of the course, the batch timings, and the fee structure. We would also like to know the qualifications and experience of the trainers, the number of students in a batch, and whether a certificate is given at the end. If a discount is available for group enrolment, please inform us.\n\nWe shall be grateful for an early reply so that we can plan accordingly.\n\nYours sincerely,\nAnita / Anil Verma"
+   }
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "options": null,
+   "figure": null,
+   "answer": "(see sub-questions)",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\ni. Read the following extracts and answer the question/complete the sentences that follow:\n\"She had no dowry, no hopes, no means of becoming known, loved and married by a man either rich or distinguished; and she allowed herself to marry a petty clerk in the office of the Board of Education.\"",
+   "subparts": [
+    {
+     "text": "i. Who is the being described here in these lines? (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "Matilda",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "ii. What sort of person is she? (2)",
+     "marks": 2,
+     "options": null,
+     "answer": "She is a pretty lady who is ambitious and discontented with her life.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "iii. Fill in the blank with one word: The outcome of her marriage is that she remained ________. (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "unhappy/unsatisfied",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "iv. What did her husband do? Choose the right option. (1)",
+     "marks": 1,
+     "options": [
+      "a. Petty clerk",
+      "b. Businessman",
+      "c. Diamond Merchant",
+      "d. Board work"
+     ],
+     "answer": "(a) Petty clerk",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    }
+   ],
+   "or": {
+    "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "text": "ii. Read the extract given below carefully and answer the questions that follow:\nTenth May dawned bright and clear. For the past few days, I had been pleasantly besieged by dignitaries and world leaders who were coming to pay their respects before the inauguration. The inauguration would be the largest gathering ever of international leaders on South African soil. The ceremonies took place in the lovely sandstone amphitheatre formed by the Union Buildings in Pretoria. For decades this had been the seat of white supremacy, and now it was the site of a rainbow gathering of different colours and nations for the installation of South Africa's first democratic, non-racial government.",
+    "subparts": [
+     {
+      "text": "i. State any one inference about Nelson Mandela from the given extract. (1)\nI had been pleasantly besieged by dignitaries and world leaders who were coming to pay their respect before the inauguration.",
+      "marks": 1,
+      "options": null,
+      "answer": "We can infer that Nelson Mandela was greeted as president of South Africa on May 10, 1994, and was extremely happy. / He was surrounded by International leaders who were present to pay their respect that day. / He felt that this ceremony marked the beginning of multiracial democracy. / Being an anti-apartheid revolutionary he was happy to witness the abolition of the apartheid regime in South Africa. (any one)",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "ii. State TRUE OR FALSE. (1)\nNone of the terms (a)-(d) can be applied to the question- The inauguration would be the largest gathering ever of international leaders on South African soil.\ni. A hypothesis- a proposed explanation for a phenomenon\nii. An assumption- something that is taken for granted or assumed to be true without proof.\niii. A premise- a proposition that forms the basis of an argument.\niv. A theory- a well-substantiated explanation for a natural phenomenon.",
+      "marks": 1,
+      "options": null,
+      "answer": "True. Explanation: The given statement is a fact as it was a great event because a black person emerged as a leader of the nation and addressed the nation as the President for the first time. International leaders came to witness this historical moment.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "iii. Nelson Mandela is of the view that 'For decades this had been the seat of white supremacy, and now it was the site of a rainbow gathering of different colours and nations for the installation of South Africa's first democratic, non-racial government'. Elaborate in about 40 words with reference to the extract. (2)",
+      "marks": 2,
+      "options": null,
+      "answer": "Nelson Mandela was addressing the Nation in Union Buildings which was considered the official seat of the South African government for decades. Mandela adds that the Union Buildings had been the centre of White dominance for decades. However, the ceremony had instead made it the location of a rainbow gathering of people of all colours and nationalities to form South Africa's first democratic, non-racial government.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "iv. Which phrase would correctly substitute the word 'amphitheatre' in the given sentence from the extract? (1)\nThe ceremonies took place in the lovely sandstone amphitheatre formed by the Union Buildings in Pretoria.",
+      "marks": 1,
+      "options": null,
+      "answer": "A semicircular seating gallery in a theatre / a very large auditorium.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     }
+    ]
+   },
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q6"
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch22_How_to_Tell_Wild_Animals",
+   "origin": "ncert",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\ni. Read the following extract and answer the questions that follow:\n\"If he roars at you as you're dyin',\nYou'll know it is the Asian Lion.\"",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "i. Which animal is being identified in these lines? (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "The Asian Lion.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "ii. Why is the poet's way of identifying the animal humorous? (2)",
+     "marks": 2,
+     "options": null,
+     "answer": "The poet says that you will recognise the animal only when it roars at you as you are dying, that is, when it is too late to make use of the knowledge. This absurd, tongue-in-cheek advice creates humour.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "iii. Pick out the pair of rhyming words from the extract. (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "dyin' - Lion",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "iv. Fill in the blank with one word: The tone of the poem as a whole is ________. (1)",
+     "marks": 1,
+     "options": null,
+     "answer": "humorous / light-hearted / playful",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    }
+   ],
+   "figure": null,
+   "or": {
+    "chapter": "Ch22_How_to_Tell_Wild_Animals",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "text": "ii. Read the following extract and answer the questions that follow:\n\"As soon as he has leapt on you,\nYou'll know it is the Leopard.\"",
+    "subparts": [
+     {
+      "text": "i. Which animal is being identified in these lines? (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "The Leopard.",
+      "chapter": "Ch22_How_to_Tell_Wild_Animals"
+     },
+     {
+      "text": "ii. What does the poet suggest about the usefulness of such a description for a traveller? (2)",
+      "marks": 2,
+      "options": null,
+      "answer": "The poet suggests it is of no practical use, because the animal is identified only after it has already attacked; the exaggeration makes the poem funny rather than instructive.",
+      "chapter": "Ch22_How_to_Tell_Wild_Animals"
+     },
+     {
+      "text": "iii. What does the phrase 'leapt on you' suggest about the animal? (1)",
+      "marks": 1,
+      "options": null,
+      "answer": "That it is a fast, powerful animal that attacks suddenly.",
+      "chapter": "Ch22_How_to_Tell_Wild_Animals"
+     },
+     {
+      "text": "iv. State whether the following is TRUE or FALSE. (1)\nThe poem teaches readers a serious method of identifying wild animals.",
+      "marks": 1,
+      "options": null,
+      "answer": "False. The poem is a humorous nonsense verse and not a real guide.",
+      "chapter": "Ch22_How_to_Tell_Wild_Animals"
+     }
+    ]
+   }
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What did the bakers wear when the author was young?",
+     "marks": 3,
+     "options": null,
+     "answer": "The bakers in the Portuguese days were very simple. They wore a peculiar dress that was a long single piece of frock reaching down to the knees. It was called the 'kabai'. The author described that when he was young, the bakers wore a shirt and a trouser that was longer than half pants and shorter than full pants. This symbolised the identity of a baker.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "It is our attitude towards a situation that makes it positive or negative. Do you agree with it? Express your views with reference to the poem, Dust of Snow.",
+     "marks": 3,
+     "options": null,
+     "answer": "Whatever situation life throws at us, it evokes both positive and negative responses. The poet, in the poem, \"Dust of Snow\" was in a sorrowful mood. However, when a crow shook down the 'dust of snow' on him, his bitter mood changed into a more optimistic one. Now, being in a sorrowful or bad mood already, the poet could have got angry at the crow also. However, the dust of snow becomes a positive medium of change for him. It made him cheerful to some extent and helped him forget his sadness, at least for a few moments. Thus, we see that instead of seeing the negative aspect of a happening, one should see the positive aspect, and one's response may greatly affect the outcome of incidents.",
+     "chapter": "Ch19_Dust_of_Snow"
+    },
+    {
+     "text": "What idea does the Postmaster come up with? What did he do to stick to his resolution? (A Letter to God)",
+     "marks": 3,
+     "options": null,
+     "answer": "The Postmaster comes up with the idea to answer Lencho's letter to God in order to maintain Lencho's faith. To stick to his resolution, the Postmaster gathers money from his employees, contributes part of his own salary, and persuades several friends to donate as well, pooling together what they can. Despite not being able to gather the full amount Lencho requested, the Postmaster sends Lencho a little more than half of it in an envelope, accompanied by a letter signed with the single word \"God\". This act reflects the Postmaster's attempt to uphold Lencho's belief in divine assistance, even though the response falls short of Lencho's expectations.",
+     "chapter": "Ch01_A_Letter_to_God"
+    },
+    {
+     "text": "Why does Anne want to keep a diary?",
+     "marks": 3,
+     "options": null,
+     "answer": "Anne didn't have any real friends to share her feelings and thoughts with. Further, she believed that paper had more patience than people and so she wanted to get all kinds of things off her chest and confide her innermost perceptions of different things with the diary.",
+     "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+    },
+    {
+     "text": "What role does each of Belinda's pets play in the narrative? Select any two of her pets. (The Tale of Custard the Dragon)",
+     "marks": 3,
+     "options": null,
+     "answer": "Belinda's pets add humour and ridicule to the narrative by constantly mocking Custard, the dragon, for his supposed cowardice. Mustard, the dog, boasted loudly about his courage and often bullied Custard to appear brave. Ink, the black cat, portrayed with a sense of mystery like witchcraft, also joined in teasing and belittling him. Even Blink, the tiny mouse - shown as timid and known to be the first to abandon danger - mocked Custard despite his own weaknesses. Ironically, Custard, who was meek, timid, and fearful despite being a dragon, was the only one who bravely fought the pirate and saved the household. This contrast creates humour and highlights the true meaning of courage.",
+     "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+    }
+   ],
+   "note": "Attempt any 4 of 5 (3 marks each); the 5 subparts total 15, question marks = 12",
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q8"
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "origin": "variant",
+   "basis": "Paper_02 Q9",
+   "basis_question": {
+    "no": 9,
+    "section": "C",
+    "marks": 6,
+    "type": "literature",
+    "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+    "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+    "options": null,
+    "figure": null,
+    "answer": "1. She never realised that Tricki was a greedy dog and this would spoil his health. She could not even refuse to answer Tricki drooling for cream cakes and chocolates. Mrs. Pumphrey fed him excessively, spoiling Tricki's health to such an extent that he had to be hospitalised.\n2. The phrase means Bholi's heart was overflowing with a new hope and a new life when she took a vow to serve her parents in their old age and to teach the students in the same school where she had learnt a lot.\n3. Ausable cleverly outwitted Max without using a weapon. He employed psychological manipulation. He cooked up a story of a balcony under his window and convinced Max about this lie.",
+    "or": null,
+    "subparts": [
+     {
+      "text": "How did Mrs. Pumphrey spoil Tricki?",
+      "marks": 3,
+      "options": null,
+      "answer": "She never realised that Tricki was a greedy dog and this would spoil his health. She could not even refuse to answer Tricki drooling for cream cakes and chocolates. Mrs. Pumphrey fed him excessively, spoiling Tricki's health to such an extent that he had to be hospitalised.",
+      "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+     },
+     {
+      "text": "Bholi's heart was overflowing with a new hope and a new life. What does the phrase the new hope and the new life means to Bholi?",
+      "marks": 3,
+      "options": null,
+      "answer": "The phrase means Bholi's heart was overflowing with a new hope and a new life when she took a vow to serve her parents in their old age and to teach the students in the same school where she had learnt a lot.",
+      "chapter": "Ch17_Footprints_Bholi"
+     },
+     {
+      "text": "How did Ausable get rid of Max without using a weapon. (The Midnight Visitor)",
+      "marks": 3,
+      "options": null,
+      "answer": "Ausable cleverly outwitted Max without using a weapon. He employed psychological manipulation. He cooked up a story of a balcony under his window and convinced Max about this lie.",
+      "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+     }
+    ],
+    "note": "Attempt any 2 of 3 (3 marks each); subpart marks total 9 but question carries 6.",
+    "paper": "Paper_02"
+   },
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+   "options": null,
+   "answer": "1. Herriot realised that Tricki was overfed and had no exercise. He took Tricki away from Mrs Pumphrey's pampering, put him on a strict diet and kept him with other dogs. Within a few days Tricki became active, lively and healthy again, and went home cured.\n2. Bholi's teacher was kind and patient. She encouraged Bholi to speak without fear and to learn, which gave her confidence and self-respect. Because of this, Bholi later refused to marry a greedy man who demanded dowry and decided to become a teacher and serve her parents.\n3. Max had come to take away the secret papers Ausable had. Ausable stayed calm, did not use a weapon and tricked Max with a false story about a balcony. Max fell for the lie and was outwitted, showing Ausable's presence of mind.",
+   "subparts": [
+    {
+     "text": "How did Herriot bring Tricki back to good health? (A Triumph of Surgery)",
+     "marks": 3,
+     "options": null,
+     "answer": "Herriot realised that Tricki was overfed and had no exercise. He took Tricki away from Mrs Pumphrey's pampering, put him on a strict diet and kept him with other dogs. Within a few days Tricki became active, lively and healthy again, and went home cured.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "How did Bholi's teacher change her life? (Bholi)",
+     "marks": 3,
+     "options": null,
+     "answer": "Bholi's teacher was kind and patient. She encouraged Bholi to speak without fear and to learn, which gave her confidence and self-respect. Because of this, Bholi later refused to marry a greedy man who demanded dowry and decided to become a teacher and serve her parents.",
+     "chapter": "Ch17_Footprints_Bholi"
+    },
+    {
+     "text": "What was Max after, and how was he outwitted? (The Midnight Visitor)",
+     "marks": 3,
+     "options": null,
+     "answer": "Max had come to take away the secret papers Ausable had. Ausable stayed calm, did not use a weapon and tricked Max with a false story about a balcony. Max fell for the lie and was outwitted, showing Ausable's presence of mind.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Attempt any 2 of 3 (3 marks each); subpart marks total 9 but question carries 6."
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "origin": "ncert",
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+   "options": null,
+   "answer": "1. The young seagull was afraid that his wings would not support him and that he would fall into the sea. His brothers and sister had already flown, but he stayed on the ledge. His mother tempted the hungry bird with a piece of fish, and he finally leapt, found his wings and flew.\n2. On a dark stormy night the pilot saw a black aeroplane with no lights flying beside him. Tired and anxious, he followed it through the clouds and reached the airfield safely. The controller later said that no other plane had been in the sky that night, which surprised him.\n3. Both stories show that fear can be overcome. The young seagull conquers his fear of flying with the push of hunger and his mother's tricks. The pilot, in danger, trusts the mysterious plane and lands safely. Both discover that courage and trust lead to success.",
+   "subparts": [
+    {
+     "text": "Why did the young seagull refuse to fly, and how was he made to fly? (His First Flight)",
+     "marks": 3,
+     "options": null,
+     "answer": "The young seagull was afraid that his wings would not support him and that he would fall into the sea. His brothers and sister had already flown, but he stayed on the ledge. His mother tempted the hungry bird with a piece of fish, and he finally leapt, found his wings and flew.",
+     "chapter": "Ch03_Two_Stories_about_Flying"
+    },
+    {
+     "text": "What happened to the pilot on the stormy night, and how did he reach safety? (The Black Aeroplane)",
+     "marks": 3,
+     "options": null,
+     "answer": "On a dark stormy night the pilot saw a black aeroplane with no lights flying beside him. Tired and anxious, he followed it through the clouds and reached the airfield safely. The controller later said that no other plane had been in the sky that night, which surprised him.",
+     "chapter": "Ch03_Two_Stories_about_Flying"
+    },
+    {
+     "text": "How do the two stories, in different ways, show that fear can be overcome?",
+     "marks": 3,
+     "options": null,
+     "answer": "Both stories show that fear can be overcome. The young seagull conquers his fear of flying with the push of hunger and his mother's tricks. The pilot, in danger, trusts the mysterious plane and lands safely. Both discover that courage and trust lead to success.",
+     "chapter": "Ch03_Two_Stories_about_Flying"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Attempt any 2 of 3 (3 marks each); subpart marks total 9 but question carries 6."
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch15_Footprints_The_Making_of_a_Scientist",
+   "origin": "ncert",
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+   "options": null,
+   "answer": "1. From childhood Ebright's mother encouraged his curiosity. She gave him books and the equipment he needed and showed interest in his hobbies instead of forcing him. This support gave him freedom and confidence to explore, collect and experiment, which helped him grow into a scientist.\n2. Collecting butterflies taught Ebright to observe closely, to classify and record his findings and to ask questions about what he saw. This spirit of enquiry and patient work led him to take up scientific projects, so his hobby became the first step of a scientific career.\n3. Richard Ebright was curious, hardworking and determined. He liked to ask questions, think independently and carry on even when faced with difficulties. His willingness to take on challenges and learn from them made him a successful scientist.",
+   "subparts": [
+    {
+     "text": "How did Ebright's mother help him in his early interests?",
+     "marks": 3,
+     "options": null,
+     "answer": "From childhood Ebright's mother encouraged his curiosity. She gave him books and the equipment he needed and showed interest in his hobbies instead of forcing him. This support gave him freedom and confidence to explore, collect and experiment, which helped him grow into a scientist.",
+     "chapter": "Ch15_Footprints_The_Making_of_a_Scientist"
+    },
+    {
+     "text": "How did his collection of butterflies become the beginning of Ebright's scientific career?",
+     "marks": 3,
+     "options": null,
+     "answer": "Collecting butterflies taught Ebright to observe closely, to classify and record his findings and to ask questions about what he saw. This spirit of enquiry and patient work led him to take up scientific projects, so his hobby became the first step of a scientific career.",
+     "chapter": "Ch15_Footprints_The_Making_of_a_Scientist"
+    },
+    {
+     "text": "Which qualities of Richard Ebright helped him become a scientist?",
+     "marks": 3,
+     "options": null,
+     "answer": "Richard Ebright was curious, hardworking and determined. He liked to ask questions, think independently and carry on even when faced with difficulties. His willingness to take on challenges and learn from them made him a successful scientist.",
+     "chapter": "Ch15_Footprints_The_Making_of_a_Scientist"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Attempt any 2 of 3 (3 marks each); subpart marks total 9 but question carries 6."
+  }
+ ]
+}

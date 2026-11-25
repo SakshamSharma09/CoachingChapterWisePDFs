@@ -1,0 +1,1174 @@
+{
+ "subject": "Science",
+ "paper": "Mock_01",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "variant",
+   "basis": "Paper_04 Q6",
+   "basis_question": {
+    "no": 6,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch05_Life_Processes",
+    "text": "Which of the following is an incorrect statement?",
+    "options": [
+     "Movement of molecules does not take place among cells",
+     "Organisms grow with time",
+     "Organisms must repair and maintain their structure",
+     "Energy is essential for life processes"
+    ],
+    "figure": null,
+    "answer": "(a) Movement of molecules does not take place among cells — movement of molecules in cells (diffusion, osmosis, etc.) is a vital process, so the statement is incorrect.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Which of the following is an incorrect statement about respiration?",
+   "options": [
+    "Breakdown of glucose to pyruvate takes place in the cytoplasm",
+    "The energy released during respiration is stored as ATP",
+    "Breakdown of pyruvate in the presence of oxygen takes place in mitochondria",
+    "Breakdown of glucose to pyruvate takes place in mitochondria"
+   ],
+   "answer": "(d) Breakdown of glucose to pyruvate takes place in mitochondria — this first step (glycolysis) takes place in the cytoplasm; only the later breakdown of pyruvate in the presence of oxygen occurs in the mitochondria.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "origin": "variant",
+   "basis": "Paper_07 Q2",
+   "basis_question": {
+    "no": 2,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch08_Heredity",
+    "text": "The unit of heredity is:",
+    "options": [
+     "Chromatin",
+     "DNA",
+     "Gene",
+     "Chromosome"
+    ],
+    "figure": null,
+    "answer": "(c) Gene",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Thread-like structures in the nucleus that carry genes and become visible at the time of cell division are:",
+   "options": [
+    "Nucleoli",
+    "Chromosomes",
+    "Ribosomes",
+    "Centrioles"
+   ],
+   "answer": "(b) Chromosomes — genes are located on chromosomes, which are made of DNA and protein.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "text": "In an ecosystem, the amount of energy of sunlight captured by green plants to convert it into food energy is :",
+   "options": [
+    "90%",
+    "1%",
+    "99%",
+    "10%"
+   ],
+   "figure": null,
+   "answer": "(b) 1%",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q3"
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "ncert",
+   "text": "Which part of the human brain is mainly responsible for maintaining posture and balance of the body?",
+   "options": [
+    "Cerebrum",
+    "Cerebellum",
+    "Medulla",
+    "Hypothalamus"
+   ],
+   "answer": "(b) Cerebellum — it precisely coordinates voluntary movements, maintains posture and equilibrium.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "variant",
+   "basis": "Paper_09 Q7",
+   "basis_question": {
+    "no": 7,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch13_Our_Environment",
+    "text": "Disposable plastic plates should not be used because:",
+    "options": [
+     "They are made of materials with light weight.",
+     "They are made of biodegradable materials.",
+     "They are made of toxic materials.",
+     "They are made of non-biodegradable material."
+    ],
+    "figure": null,
+    "answer": "(d) They are made of non-biodegradable material. Non-biodegradable substances are not broken down, persist in the environment for a long time and may harm members of the ecosystem.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "Disposable thermocol cups should not be used because:",
+   "options": [
+    "They are made of plant-based fibres.",
+    "They are decomposed quickly by bacteria.",
+    "They are made of non-biodegradable material.",
+    "They are very light in weight."
+   ],
+   "answer": "(c) They are made of non-biodegradable material — such material is not broken down by decomposers, persists in the environment and causes pollution.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "variant",
+   "basis": "Paper_02 Q6",
+   "basis_question": {
+    "no": 6,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch05_Life_Processes",
+    "text": "Which of the following statements about the autotrophs is incorrect?",
+    "options": [
+     "They store carbohydrates in the form of starch",
+     "They convert CO$_2$ and water into carbohydrates in the absence of sunlight",
+     "They synthesize carbohydrates from CO$_2$ and water in the presence of sunlight & chlorophyll",
+     "They constitute the first trophic level in food chains"
+    ],
+    "figure": null,
+    "answer": "(b) They convert CO$_2$ and water into carbohydrates in the absence of sunlight — they do so in the presence of sunlight and chlorophyll (photosynthesis).",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Which of the following statements about heterotrophs is incorrect?",
+   "options": [
+    "They depend on other organisms for their food",
+    "They convert CO$_2$ and water into carbohydrates in the presence of sunlight",
+    "Animals and fungi are examples of heterotrophs",
+    "They occupy the second and higher trophic levels of a food chain"
+   ],
+   "answer": "(b) They convert CO$_2$ and water into carbohydrates in the presence of sunlight — this is done by autotrophs; heterotrophs depend on other organisms for their food.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Application of Abscisic acid on plants promotes:",
+   "options": [
+    "Formation of flowers",
+    "Development of fruits",
+    "Elongation of stem",
+    "Wilting of leaves"
+   ],
+   "figure": null,
+   "answer": "(d) Wilting of leaves — abscisic acid is a growth inhibitor that promotes wilting of leaves.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q7"
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "variant",
+   "basis": "Paper_08 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "A",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch07_How_do_Organisms_Reproduce",
+    "text": "Assertion (A): Amoeba always produces two daughter amoebae while Plasmodium divides into many daughter cells.\nReason (R): Amoeba undergoes binary fission while Plasmodium undergoes multiple fission.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "Assertion (A): Offspring produced by vegetative propagation are genetically similar to the parent plant.\nReason (R): Vegetative propagation involves the fusion of male and female gametes.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(c) A is true but R is false. Vegetative propagation is asexual: new plants arise from parts of the parent (stem, root, leaf) without gametes, so the offspring are genetically identical.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "variant",
+   "basis": "Paper_08 Q9",
+   "basis_question": {
+    "no": 9,
+    "section": "A",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch13_Our_Environment",
+    "text": "Assertion (A): Use of jute bags for shopping reduces pollution.\nReason (R): Jute is biodegradable and its bag may be reused as and when needed.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "Assertion (A): Depletion of the ozone layer is harmful to living organisms.\nReason (R): Chlorofluorocarbons (CFCs) released from refrigerators and aerosol sprays are responsible for the depletion of ozone.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. Ozone depletion is harmful because more UV radiation reaches the earth; R only states the cause of depletion, not why it is harmful.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "variant",
+   "basis": "Paper_07 Q10",
+   "basis_question": {
+    "no": 10,
+    "section": "A",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch07_How_do_Organisms_Reproduce",
+    "text": "What are sexually transmitted diseases? Name one sexually transmitted disease each, caused by a virus and a bacterium. List two benefits of using mechanical barriers during the sexual act.",
+    "options": null,
+    "figure": null,
+    "answer": "Sexually transmitted diseases are those which spread by sexual contact from an infected person.\nBacterial: Gonorrhoea / Syphilis.\nViral: HIV/AIDS.\nBenefits of mechanical barriers: i. to avoid pregnancy; ii. to prevent sexually transmitted diseases.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Name two sexually transmitted diseases, one caused by a bacterium and the other by a virus. State two ways by which the spread of such diseases can be prevented.",
+   "options": null,
+   "answer": "Bacterial: Gonorrhoea / Syphilis (1/2 mark). Viral: HIV-AIDS / warts (1/2 mark).\nPrevention (any two, 1 mark): use of mechanical barriers such as condoms during the sexual act; avoiding sexual contact with multiple or infected partners.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "a. State with reason the consequence of decrease in number of carnivores in an ecosystem.\nb. In a food chain, state the trophic level at which the concentration of harmful chemicals is maximum. Why is it so?",
+   "options": null,
+   "figure": null,
+   "answer": "a. The population of herbivores will increase as their predators are fewer, leading to imbalance in species composition and trophic dynamics and disruption of the ecosystem.\nb. The top carnivore (tertiary consumer), because harmful chemicals are non-biodegradable and keep on accumulating at each trophic level as they pass along the food chain (biomagnification).",
+   "or": {
+    "chapter": "Ch13_Our_Environment",
+    "text": "i. Why does a kitchen garden called an artificial ecosystem while a forest is considered to be a natural ecosystem?\nii. While designing an artificial ecosystem at home, write any two things to be kept in mind to convert it into a self-sustaining system. Give reason to justify your answer.",
+    "options": null,
+    "figure": null,
+    "answer": "i. A kitchen garden is man-made, with specific biotic (plants such as vegetables) and abiotic elements maintained by humans, so it is artificial; a forest develops and is maintained by nature without human control, so it is natural.\nii. Keep a balance between biotic and abiotic factors, and ensure recycling of nutrients and waste, so that the system sustains itself without continuous outside input."
+   },
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q11"
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "ncert",
+   "text": "What is a reflex action? Name the sequence of parts through which the nerve impulse travels in the reflex action of withdrawing the hand on touching a hot object.",
+   "options": null,
+   "answer": "A reflex action is a sudden, rapid, automatic (involuntary) response to a stimulus. (1)\nPath (reflex arc): receptor (temperature receptor in skin) $\\rightarrow$ sensory neuron $\\rightarrow$ spinal cord (relay neuron) $\\rightarrow$ motor neuron $\\rightarrow$ effector (muscles of the arm). (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "origin": "ncert",
+   "text": "A pure tall pea plant (TT) is crossed with a pure dwarf pea plant (tt). Write the genotype and phenotype of the F$_1$ generation. When the F$_1$ plants are self-pollinated, what is the phenotypic ratio in the F$_2$ generation? Which trait is dominant and how do you know?",
+   "options": null,
+   "answer": "F$_1$: genotype Tt, phenotype all tall plants. (1)\nSelf-pollination of Tt $\\times$ Tt gives gametes T, t from each parent: F$_2$ genotypes TT : Tt : tt = 1 : 2 : 1. (1)\nPhenotypic ratio tall : dwarf = 3 : 1.\nTallness is dominant because it alone is expressed in F$_1$ although the dwarf trait is present in the F$_1$ plants (it reappears in F$_2$). (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "The digestion of food in human alimentary canal is a complex process. State the enzyme/salt present in the following and mention their function in the process of digestion:\ni. Saliva\nii. Bile Juice\niii. Pancreatic Juice",
+   "options": null,
+   "figure": null,
+   "answer": "i. Saliva: salivary amylase - converts starch into sugar.\nii. Bile juice: bile salts - make the acidic food alkaline and emulsify fats.\niii. Pancreatic juice: trypsin - helps in digestion of proteins (lipase - breaks down emulsified fats).",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q14"
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "origin": "ncert",
+   "text": "In a dihybrid cross a pea plant with round, yellow seeds (RRYY) was crossed with a pea plant with wrinkled, green seeds (rryy). All the F$_1$ plants had round, yellow seeds. The F$_1$ plants were self-pollinated to obtain the F$_2$ generation.",
+   "options": null,
+   "answer": "(see subparts)",
+   "subparts": [
+    {
+     "text": "The genotype of the F$_1$ plants is:",
+     "marks": 1,
+     "options": [
+      "RRYY",
+      "RrYy",
+      "rryy",
+      "RRyy"
+     ],
+     "answer": "(b) RrYy"
+    },
+    {
+     "text": "Name the two new combinations of characters that appear in the F$_2$ generation and were not present in the parents.",
+     "marks": 1,
+     "options": null,
+     "answer": "Round, green seeds and wrinkled, yellow seeds."
+    },
+    {
+     "text": "Write the phenotypic ratio of the F$_2$ generation.",
+     "marks": 1,
+     "options": null,
+     "answer": "Round yellow : round green : wrinkled yellow : wrinkled green = 9 : 3 : 3 : 1."
+    },
+    {
+     "text": "If a total of 640 plants were raised in the F$_2$ generation, how many would be expected to have round, green seeds?",
+     "marks": 1,
+     "options": null,
+     "answer": "Round green = $\\frac{3}{16} \\times 640 = 120$ plants."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "ncert",
+   "text": "Describe the events that take place in a flower from pollination to the formation of the seed and the fruit. Differentiate between self-pollination and cross-pollination.",
+   "options": null,
+   "answer": "Events (3 marks): Pollen from the anther is transferred to the stigma (pollination). A pollen tube grows out of the pollen grain, passes through the style and reaches the ovule in the ovary, carrying the male germ cell. The male gamete fuses with the female gamete (egg) in the ovule to form the zygote (fertilisation). The zygote divides repeatedly to form the embryo inside the ovule. The ovule develops a tough coat and becomes the seed; the ovary grows, ripens and becomes the fruit, while petals, sepals and other parts wither and fall off.\nDifference (2 marks): Self-pollination is the transfer of pollen from the anther to the stigma of the same flower (or another flower of the same plant); cross-pollination is the transfer of pollen to the stigma of a flower of a different plant of the same species. Cross-pollination needs agents such as wind, water or insects and gives more genetic variation.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "ncert",
+   "text": "A solution turns red litmus paper blue. The pH of the solution is most likely:",
+   "options": [
+    "1",
+    "4",
+    "6",
+    "10"
+   ],
+   "answer": "(d) 10 — a solution that turns red litmus blue is basic, so its pH is greater than 7.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "variant",
+   "basis": "Paper_03 Q19",
+   "basis_question": {
+    "no": 19,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "Which of the following statements are false about soaps and detergents?\ni. Soaps are water soluble while detergents are not.\nii. Soaps are non-biodegradable while detergents are biodegradable.\niii. Hardness of water is due to presence of Ca and Mg salts which form scum with soap.\niv. The polar group in soaps is -COONa.",
+    "options": [
+     "(i), (ii) and (iv) only",
+     "(iii) and (iv) only",
+     "(i), (ii) and (iii) only",
+     "(i) and (ii) only"
+    ],
+    "figure": null,
+    "answer": "(d) (i) and (ii) only — both soaps and detergents are water soluble; soaps are biodegradable while detergents are generally not.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Which of the following statements about soaps and detergents are false?\ni. Soaps are sodium or potassium salts of long-chain carboxylic acids.\nii. Soaps work well in hard water.\niii. Detergents form scum with hard water.\niv. A soap molecule has a hydrophilic ionic end and a hydrophobic hydrocarbon tail.",
+   "options": [
+    "(i) and (iv) only",
+    "(ii) and (iii) only",
+    "(i), (ii) and (iii) only",
+    "(ii) and (iv) only"
+   ],
+   "answer": "(b) (ii) and (iii) only — soaps form scum with the calcium and magnesium salts of hard water and so do not work well in it, whereas detergents do not form scum.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "variant",
+   "basis": "Paper_08 Q19",
+   "basis_question": {
+    "no": 19,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch03_Metals_and_Non-metals",
+    "text": "The metals which are found in both free state as well as combined state are:",
+    "options": [
+     "Gold and silver",
+     "Gold and platinum",
+     "Platinum and silver",
+     "Copper and silver"
+    ],
+    "figure": null,
+    "answer": "(d) Copper and silver",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "Which of the following metals is found in nature only in the combined state?",
+   "options": [
+    "Gold",
+    "Platinum",
+    "Sodium",
+    "Copper"
+   ],
+   "answer": "(c) Sodium — it is highly reactive and occurs only as compounds (e.g. NaCl); gold and platinum occur in the free state and copper/silver in both.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "variant",
+   "basis": "Paper_07 Q22",
+   "basis_question": {
+    "no": 22,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "Consider the following statements about homologous series of carbon compounds:\na. All succeeding members differ by -CH2 unit.\nb. Melting point and boiling point increases with increasing molecular mass.\nc. The difference in molecular masses between two successive members is 16 u.\nd. C2H2 and C3H4 are NOT the successive members of alkyne series.\nThe correct statements are -",
+    "options": [
+     "(b) and (c)",
+     "(a) and (c)",
+     "(c) and (d)",
+     "(a) and (b)"
+    ],
+    "figure": null,
+    "answer": "(d) (a) and (b)",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Consider the following statements about the homologous series of carbon compounds:\na. All members have the same functional group and similar chemical properties.\nb. Two successive members differ by a $-CH_2-$ unit, i.e. by 14 u.\nc. Melting and boiling points remain unchanged along the series.\nd. $C_3H_8$ and $C_5H_{12}$ are successive members of the alkane series.\nThe correct statements are:",
+   "options": [
+    "(c) and (d)",
+    "(a) and (b)",
+    "(b) and (c)",
+    "(a) and (d)"
+   ],
+   "answer": "(b) (a) and (b) — physical properties change gradually along the series, and $C_3H_8$, $C_5H_{12}$ differ by $C_2H_4$, so they are not successive members.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "ncert",
+   "text": "Which of the following metals will NOT displace hydrogen from dilute hydrochloric acid?",
+   "options": [
+    "Zinc",
+    "Iron",
+    "Copper",
+    "Magnesium"
+   ],
+   "answer": "(c) Copper — it is below hydrogen in the reactivity series; Zn, Fe and Mg are above hydrogen and displace it.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_10 Q17",
+   "basis_question": {
+    "no": 17,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "Which of the following statements is not correct?",
+    "options": [
+     "(a) Some metals react with acids to give salt and hydrogen.",
+     "(b) Some non metal oxides react with water to form an acid.",
+     "(c) All metal oxides react with water to give salt and acid.",
+     "(d) All metal carbonates react with acid to give a salt, water and carbon dioxide."
+    ],
+    "figure": null,
+    "answer": "(c) All metal oxides react with water to give salt and acid. Metal oxides are basic in nature and give alkaline solutions when dissolved in water.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Which of the following statements is not correct?",
+   "options": [
+    "(a) Acids react with bases to give salt and water.",
+    "(b) Metal hydrogencarbonates react with acids to give salt, carbon dioxide and water.",
+    "(c) All bases dissolve in water to form alkalis.",
+    "(d) Acids turn blue litmus red."
+   ],
+   "answer": "(c) All bases dissolve in water to form alkalis — bases that are soluble in water are called alkalis; many bases such as $Cu(OH)_2$ and $Fe(OH)_3$ are insoluble.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_03 Q17",
+   "basis_question": {
+    "no": 17,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "Find the incorrect statement:\nA. The pH of the stomach is approximately 4.5\nB. Plants grow well in natural soil\nC. The pH of acid rain is nearly 5.6\nD. The pH of rainwater is nearly 7",
+    "options": [
+     "Statement (B)",
+     "Statement (D)",
+     "Statement (C)",
+     "Statement (A)"
+    ],
+    "figure": null,
+    "answer": "(d) Statement (A) — the human stomach produces gastric juice containing hydrochloric acid, resulting in a pH of about 1.4.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Find the incorrect statement:\nA. The pH of pure water is 7.\nB. Tooth decay starts when the pH of the mouth falls below 5.5.\nC. The pH of the gastric juice in the stomach is about 7.4.\nD. The pH of acid rain is less than 5.6.",
+   "options": [
+    "Statement (A)",
+    "Statement (C)",
+    "Statement (D)",
+    "Statement (B)"
+   ],
+   "answer": "(b) Statement (C) — gastric juice contains hydrochloric acid and has a pH of about 1.4–2, not 7.4.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_04 Q24",
+   "basis_question": {
+    "no": 24,
+    "section": "B",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "Assertion (A): Solutions of compounds like alcohol and glucose do not show acidic character.\nReason (R): They do not show acidic character because they do not dissociate into ions.",
+    "options": [
+     "(a) Both A and R are true and R is the correct explanation of A.",
+     "(b) Both A and R are true but R is not the correct explanation of A.",
+     "(c) A is true but R is false.",
+     "(d) A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(a) Both A and R are true and R is the correct explanation of A. Unlike acids such as HCl which give $H^+$ and $Cl^-$ ions, these solutions do not dissociate into ions.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Assertion (A): Sodium hydrogencarbonate is used as an antacid.\nReason (R): Sodium hydrogencarbonate is a strong base and neutralises the excess hydrochloric acid in the stomach.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(c) A is true but R is false. Sodium hydrogencarbonate is a mild, non-corrosive base; a strong base would harm the stomach lining.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Student added a few drops of phenolphthalein to an unknown solution A and B. Solution A acquired pink color. And solution B was added to it drop wise and the solution ultimately became colorless. Predict the nature of the solution A and B.",
+   "options": null,
+   "figure": null,
+   "answer": "Solution A is basic, because phenolphthalein turns pink in a basic solution. Solution B is an acid, because adding it drop by drop neutralised the base and the solution became colourless.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q25"
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "origin": "variant",
+   "basis": "Paper_05 Q26",
+   "basis_question": {
+    "no": 26,
+    "section": "B",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "Why are decomposition reactions called the opposite of combination reactions? Write one chemical equation each for these two types of reactions mentioning the name of the reactant(s) and the product(s) involved in the reactions.",
+    "options": null,
+    "figure": null,
+    "answer": "In a combination reaction a single product is formed from two or more reactants, whereas in a decomposition reaction a single reactant breaks down to give two or more products; so the two are opposite.\nCombination: $C(s) + O_2(g) \\rightarrow CO_2(g) + Heat$ (carbon + oxygen gives carbon dioxide).\nDecomposition: $CaCO_3(s) \\xrightarrow{Heat} CaO(s) + CO_2(g)$ (calcium carbonate gives calcium oxide and carbon dioxide).",
+    "or": {
+     "chapter": "Ch01_Chemical_Reactions_and_Equations",
+     "text": "Identify the substance oxidized and substance reduced in the following reaction. Write the ionic equation for the substance oxidized and reduced.\n$H_2(g) + Cl_2(g) \\rightarrow 2HCl(g)$",
+     "options": null,
+     "figure": null,
+     "answer": "Substance oxidised: $H_2$; $H_2 \\rightarrow 2H^+ + 2e^-$.\nSubstance reduced: $Cl_2$; $Cl_2 + 2e^- \\rightarrow 2Cl^-$."
+    },
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "What is a displacement reaction? Write the balanced chemical equation for the reaction of iron nails with copper sulphate solution and state two observations.",
+   "options": null,
+   "answer": "A displacement reaction is one in which a more reactive element displaces a less reactive element from its compound. (1)\n$Fe(s) + CuSO_4(aq) \\rightarrow FeSO_4(aq) + Cu(s)$ (1)\nObservations: the blue colour of the copper sulphate solution fades to pale green; a reddish-brown deposit of copper forms on the iron nail. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "Identify the substance oxidised and the substance reduced in the following reaction. Why is it called a redox reaction?\n$CuO(s) + H_2(g) \\rightarrow Cu(s) + H_2O(l)$",
+    "options": null,
+    "figure": null,
+    "answer": "$H_2$ is oxidised (it gains oxygen to form $H_2O$). (1)\n$CuO$ is reduced (it loses oxygen to form Cu). (1)\nOxidation and reduction occur simultaneously in the same reaction, so it is a redox reaction. (1)"
+   }
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "variant",
+   "basis": "Paper_05 Q27",
+   "basis_question": {
+    "no": 27,
+    "section": "B",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch03_Metals_and_Non-metals",
+    "text": "There are 3 unknown metals - A, B and C. C displaces B from its oxide while with oxide of A, there is no reaction. Give the reactivity order of A, B and C.",
+    "options": null,
+    "figure": null,
+    "answer": "C displaces B from its oxide, so C is more reactive than B. C does not displace A from its oxide, so A is more reactive than C. Reactivity order: B < C < A (i.e. A > C > B).",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "Three metals X, Y and Z are tested. X displaces Y from the solution of its salt, while Z displaces X from the solution of its salt.\ni. Arrange X, Y and Z in decreasing order of reactivity.\nii. Which of them will react most vigorously with dilute hydrochloric acid?\niii. If Y is copper and X is iron, name one metal that Z could be.",
+   "options": null,
+   "answer": "i. Z displaces X, so Z > X; X displaces Y, so X > Y. Order: Z > X > Y. (1)\nii. Z, the most reactive metal. (1)\niii. Z must be more reactive than iron: zinc / aluminium / magnesium (any one). (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "Read the following text carefully and answer the questions that follow:\nIn a balanced chemical reaction, equal number of atoms are present on both sides of reaction. A balanced chemical reaction is based on law of conservation of mass which means that total mass of reactants and products participating in a reaction must be equal. For example, a balanced chemical equation of burning of magnesium in oxygen to form magnesium oxide is written as:\n$2Mg + O_2 \\rightarrow 2MgO$\nThe mass of reactants ($2 \\times 24 + 32 = 80$) is equal to the mass of products [$2 \\times (24 + 16) = 80$].",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "In a reaction, 35 g of reactant, PQ breaks down into 20 g of product, P and an unknown amount of product, Q. Find the amount of product Q.",
+     "marks": 1,
+     "options": null,
+     "answer": "By the law of conservation of mass, mass of PQ = mass of P + mass of Q, so mass of Q = 35 - 20 = 15 g."
+    },
+    {
+     "text": "The solid mercury (II) oxide is heated, and liquid mercury and oxygen gas are produced. Mention balanced chemical reaction.",
+     "marks": 1,
+     "options": null,
+     "answer": "$2HgO(s) \\rightarrow 2Hg(l) + O_2(g)$"
+    },
+    {
+     "text": "Which laws are satisfied by a balanced chemical equation?\nOR\nIn the given chemical reaction, $2C_6H_6(l) + 15O_2(g) \\rightarrow mCO_2(g) + nH_2O(l)$. Find the values of m and n respectively.",
+     "marks": 2,
+     "options": null,
+     "answer": "The law of conservation of mass is satisfied by a balanced chemical equation.\nOR\nm = 12 and n = 6."
+    }
+   ],
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q28"
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "A saturated organic compound 'A' with two carbon atoms belongs to the homologous series of alcohols. On oxidation, it forms an organic acid 'B' with molecular mass 60 u. On heating 'A' with excess concentrated sulphuric acid at 443 K, an unsaturated hydrocarbon 'C' is formed.\ni. Name A, B and C.\nii. Calculate molecular mass of C.\niii. What happens when a pinch of sodium carbonate is added to compound B? Write chemical equation for the reaction.\niv. Draw electron dot structure of compound B.",
+   "options": null,
+   "figure": null,
+   "answer": "i. A = ethanol (ethyl alcohol, C₂H₅OH); B = ethanoic acid (acetic acid, CH₃COOH); C = ethene (C₂H₄, CH₂=CH₂).\nii. Molecular mass of ethene = 12 × 2 + 1 × 4 = 24 + 4 = 28 u.\niii. Brisk effervescence is observed (CO₂ is evolved). 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂.\niv. Electron dot structure of ethanoic acid (CH₃COOH): the carbon of CH₃ shares one pair with each of three H and one pair with the carboxyl carbon; the carboxyl carbon has a double bond (two shared pairs) to one O and a single bond (one shared pair) to O-H; the OH oxygen shares one pair with H, and each oxygen carries lone pairs to complete its octet. (Diagram not reproduced.)",
+   "or": {
+    "text": "i. What is a homologous series of carbon compounds? Write general formula for alkynes. Name and draw the electron dot structure of first homologue of this series.\nii. State the meaning of the functional group in an organic compound. Write the formula of the functional group present in alcohols and carboxylic acids.",
+    "options": null,
+    "figure": null,
+    "answer": "i. A homologous series is a series of compounds with the same general formula and the same functional group that differ only in the carbon chain length by a CH₂ unit, with comparable chemical and physical properties. General formula of alkynes: CₙH₂ₙ₋₂. First homologue: ethyne (C₂H₂), electron dot structure H:C:::C:H (three shared pairs between the carbons, one shared pair with each H).\nii. A functional group is an atom or group of atoms which makes carbon compounds reactive and decides their properties. Alcohols: -OH. Carboxylic acids: -COOH.",
+    "subparts": null,
+    "chapter": "Ch04_Carbon_and_its_Compounds"
+   },
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q29"
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "origin": "variant",
+   "basis": "Paper_06 Q31",
+   "basis_question": {
+    "no": 31,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "While performing the experiment on tracing the path of a ray of light passing through a glass slab as shown in the given diagram, four students interpreted the results as given below. Which one of the four interpretations in correct?",
+    "options": [
+     "$\\angle r > \\angle e$",
+     "$\\angle i = \\angle r$",
+     "$\\angle r = \\angle e$",
+     "$\\angle i > \\angle r$"
+    ],
+    "figure": "fig_p07_0.png",
+    "answer": "(d) $\\angle i > \\angle r$. Light entering from a rarer to a denser medium bends towards the normal, so the angle of incidence is greater than the angle of refraction; for parallel surfaces $\\angle e = \\angle i$ and $\\angle r < \\angle i$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "A student traces the path of a ray of light through a rectangular glass slab and measures the angle of incidence $\\angle i$, the angle of refraction $\\angle r$ at the first face and the angle of emergence $\\angle e$ from the opposite face. Which of the following interpretations is correct?",
+   "options": [
+    "$\\angle i = \\angle e$",
+    "$\\angle r > \\angle i$",
+    "$\\angle r = \\angle e$",
+    "$\\angle i < \\angle r$"
+   ],
+   "answer": "(a) $\\angle i = \\angle e$. The two faces of the slab are parallel, so the emergent ray is parallel to the incident ray (laterally displaced), giving $\\angle i = \\angle e$ and $\\angle r < \\angle i$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "In the following ray diagram the correctly marked angles are:",
+   "options": [
+    "$\\angle A$ and $\\angle D$",
+    "$\\angle r$, $\\angle A$ and $\\angle D$",
+    "$\\angle i$ and $\\angle e$",
+    "$\\angle i$, $\\angle e$ and $\\angle D$"
+   ],
+   "figure": "fig_p06_0.png",
+   "answer": "(b) $\\angle r$, $\\angle A$ and $\\angle D$",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q31"
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "origin": "variant",
+   "basis": "Paper_01 Q32",
+   "basis_question": {
+    "no": 32,
+    "section": "C",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch12_Magnetic_Effects_of_Current",
+    "text": "Assertion (A): A current-carrying rod is suspended between U-shaped magnet, the rod deflects.\nReason (R): A force is exerted on the rod due to magnetic field.",
+    "options": [
+     "Both A and R are true, and R is the correct explanation of A.",
+     "Both A and R are true, and R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(a) Both A and R are true and R is the correct explanation of A. A force is exerted on a current-carrying conductor in a magnetic field; its direction is given by Fleming's left-hand rule.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Assertion (A): The direction of force on a current-carrying conductor placed in a magnetic field reverses when the direction of current is reversed.\nReason (R): The direction of force on the conductor is given by Fleming's right-hand rule.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(c) A is true but R is false. The direction of force is given by Fleming's left-hand rule; Fleming's right-hand rule gives the direction of induced current.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "origin": "variant",
+   "basis": "Paper_01 Q33",
+   "basis_question": {
+    "no": 33,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch10_Human_Eye_and_Colourful_World",
+    "text": "Student sitting at the back bench in a class is not able to see what is written on the blackboard. He, however, sees it clearly when sitting on the front seat at an approximate distance of 1.5 m from the blackboard. Draw ray diagrams to illustrate the image formation of the blackboard when he is seated at the\ni. back seat\nii. front seat.",
+    "options": null,
+    "figure": null,
+    "answer": "The student is suffering from myopia (short-sightedness), caused by 1. excessive curvature of the cornea, or 2. elongation of the eyeball.\ni. Back seat: rays from the distant blackboard (nearly parallel) are focused in front of the retina (diagram in the key).\nii. Front seat (about 1.5 m): the image is formed on the retina (diagram in the key).",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "A student cannot read a book clearly kept at the normal near point of 25 cm, but can read it clearly when it is held at about 60 cm from the eye. Name the defect of vision he is suffering from, state two possible causes of this defect and name the type of lens used to correct it.",
+   "options": null,
+   "answer": "Defect: hypermetropia (long-sightedness) (1/2 mark).\nCauses (any two): the focal length of the eye lens is too long / eye lens is too thin; the eyeball has become too small (short). (1)\nCorrection: a convex lens of suitable power, which converges the rays so that the image forms on the retina (1/2 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "origin": "variant",
+   "basis": "Paper_03 Q34",
+   "basis_question": {
+    "no": 34,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch11_Electricity",
+    "text": "Several electric bulbs designed to be used on a 220V electric supply line are rated 10W. How many lamps can be connected in parallel with each other across the two wires of 220V line if the maximum allowable current is 5A?",
+    "options": null,
+    "figure": null,
+    "answer": "Let the current through each bulb be I. $P = VI$, $10 = 220\\, I$, so $I = \\frac{1}{22}$ A. Let n bulbs be connected in parallel; total current $= n \\times \\frac{1}{22} = 5$ A, so $n = 110$. 110 such bulbs can be lighted within the allowable limit of 5 A.",
+    "or": {
+     "chapter": "Ch11_Electricity",
+     "text": "The values of the current I flowing in a given resistor for corresponding values of potential difference V across the resistor are given below:\n\n| I (amperes) | 0.5 | 1.0 | 2.0 | 3.0 | 4.0 |\n|---|---|---|---|---|---|\n| V (volts) | 1.6 | 3.4 | 6.7 | 10.2 | 13.2 |\n\nPlot a graph between V and I and calculate the resistance of that resistor.",
+     "options": null,
+     "figure": null,
+     "answer": "The graph of V against I is (almost) a straight line, so the slope of the line between any two points gives the resistance. Taking two points: $R = \\frac{V_2 - V_1}{I_2 - I_1}$ (key: $\\frac{BC}{AC}$ with the points chosen on the line) $= \\frac{12-1.6}{3.3-0.5} = \\frac{10.4}{2.8} = 3.7\\ \\Omega$ (graph given in the key)."
+    },
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Several electric bulbs, each designed for a 220 V supply and rated 40 W, are connected in parallel across a 220 V line. How many bulbs can be connected if the maximum allowable current is 10 A?",
+   "options": null,
+   "answer": "Current through each bulb: $I = \\frac{P}{V} = \\frac{40}{220} = \\frac{2}{11}$ A. (1)\nIf n bulbs are in parallel, total current $= n \\times \\frac{2}{11} = 10$ A, so $n = \\frac{10 \\times 11}{2} = 55$. Hence 55 bulbs can be connected. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch11_Electricity",
+    "text": "The values of the current I flowing in a resistor for corresponding values of potential difference V across it are given below:\n\n| I (amperes) | 1.0 | 2.0 | 3.0 | 4.0 | 5.0 |\n|---|---|---|---|---|---|\n| V (volts) | 4.0 | 8.0 | 12.0 | 16.0 | 20.0 |\n\nPlot a graph between V and I and calculate the resistance of the resistor.",
+    "options": null,
+    "figure": null,
+    "answer": "The graph of V against I is a straight line through the origin (Ohm's law). (1)\nResistance = slope of the line $= \\frac{V_2 - V_1}{I_2 - I_1} = \\frac{16 - 8}{4 - 2} = \\frac{8}{2} = 4\\ \\Omega$. (1)"
+   }
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "AB is a current carrying conductor in the plane of the paper as shown in Figure.\ni. What are the directions of magnetic fields produced by it at points P and Q?\nii. Given $r_1 > r_2$, where will the strength of the magnetic field be larger?",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": "By the right-hand thumb rule (thumb along the current, curled fingers give the field direction): i. at P the magnetic field is directed into the plane of the paper and at Q it is directed out of the plane of the paper. ii. Since $r_1 > r_2$ (field decreases with distance), the field is stronger at Q than at P.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q37"
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "1. Write the function of each of the following parts of human eye : cornea, iris, crystalline lens, ciliary muscles.\n2. Millions of people of the developing countries of world are suffering from corneal blindness. These people can be cured by replacing the defective cornea with the cornea of a donated eye.\nA charitable society of your city has organised a campaign in your neighbourhood in order to create awareness about this fact.\nIf you are asked to participate in this mission how would you contribute in this noble cause?\n1. State the objective of organising such campaigns.\n2. List two arguments which you would give to motivate the people to donate their eyes after death.\n3. List two values which are developed in the persons who actively participate and contribute in such programme.",
+   "options": null,
+   "figure": null,
+   "answer": "1. Cornea: thin membrane providing about 67% of the eye's focussing power. Iris: controls the amount of light entering the eye by controlling the size of the pupil. Crystalline lens: focuses light on the retina for image formation. Ciliary muscles: contract and relax to change the shape of the lens for focussing the image on the retina (contraction makes the lens thicker, relaxation makes it thinner).\n2. (1) Objective: to educate and help people suffering from corneal blindness that they can be cured by corneal replacement surgery. (2) Arguments: if someone gets vision through your eyes it is an incredible help; the eye is one of the most valuable sense organs, so realise the situation of those who are suffering. (3) Values: the persons who participate are strong-hearted, helpful and compassionate towards people in such situations.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q36"
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "a. Draw the pattern of magnetic field lines around a current carrying straight conductor through which current is flowing vertically upward. Mark the direction of the field lines corresponding to the direction of current in the conductor.\nb. An alpha particle enters a uniform magnetic field at right angles to it as shown in the diagram.\ni. Name the rule which can help in determining the direction of force acting on the alpha particle in this case.\nii. Apply this rule and find the direction of force on the alpha particle.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": "a. Concentric circular field lines around the conductor in a plane perpendicular to it, with the direction given by the right-hand thumb rule (diagram in the key showing direction of current and corresponding field lines).\nb. i. Fleming's Left Hand Rule.\nii. Out of the plane of the paper.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q35"
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "origin": "ncert",
+   "text": "The electric iron in Rohan's house is marked 1100 W, 220 V. It is used for 2 hours every day on a 220 V supply. The electricity company charges Rs 6 per unit (1 kWh).",
+   "options": null,
+   "answer": "(see subparts)",
+   "subparts": [
+    {
+     "text": "The current drawn by the electric iron is:",
+     "marks": 1,
+     "options": [
+      "2 A",
+      "5 A",
+      "10 A",
+      "0.5 A"
+     ],
+     "answer": "(b) 5 A — $I = \\frac{P}{V} = \\frac{1100}{220} = 5$ A."
+    },
+    {
+     "text": "Calculate the resistance of the heating element of the iron.",
+     "marks": 1,
+     "options": null,
+     "answer": "$R = \\frac{V}{I} = \\frac{220}{5} = 44\\ \\Omega$ (or $R = \\frac{V^2}{P} = \\frac{220^2}{1100} = 44\\ \\Omega$)."
+    },
+    {
+     "text": "Calculate the electrical energy consumed by the iron in 2 hours, in kWh.",
+     "marks": 1,
+     "options": null,
+     "answer": "$E = P \\times t = 1.1\\ \\text{kW} \\times 2\\ \\text{h} = 2.2$ kWh."
+    },
+    {
+     "text": "Find the cost of using the iron for 30 days.",
+     "marks": 1,
+     "options": null,
+     "answer": "Energy in 30 days $= 2.2 \\times 30 = 66$ kWh; cost $= 66 \\times 6 = $ Rs 396."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "origin": "variant",
+   "basis": "Paper_04 Q39",
+   "basis_question": {
+    "no": 39,
+    "section": "C",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "A student focussed the image of a candle flame on a white screen using a convex lens. He noted down the position of the candle screen and the lens as under Position of candle = 12.0 cm Position of convex lens = 50.0 cm Position of the screen = 88.0 cm\ni. What is the focal length of the convex lens?\nii. Where will the image be formed if he shifts the candle towards the lens at a position of 31.0 cm?\niii. What will be the nature of the image formed if he further shifts the candle towards the lens?\niv. Draw a ray diagram to show the formation of the image in case (iii) as said above.",
+    "options": null,
+    "figure": null,
+    "answer": "i. u = 50 - 12 = 38 cm (object distance, taken as -38 cm), v = 88 - 50 = 38 cm. By the lens formula $\\frac{1}{v}-\\frac{1}{u}=\\frac{1}{f}$: $\\frac{1}{38}+\\frac{1}{38}=\\frac{1}{f}$, so f = 19 cm.\nii. u = 50 - 31 = 19 cm = f, so the object is at the focus and the image is formed at infinity.\niii. If the candle is shifted further towards the lens (between F and O), the image is virtual, erect and enlarged, formed on the same side of the lens as the object.\niv. Ray diagram: object AB between F and O; a ray parallel to the axis refracts through F; a ray through the optical centre goes undeviated; the refracted rays diverge and, produced backwards, meet at A' forming a virtual, erect, magnified image A'B' on the same side as the object (see answer figure).",
+    "or": {
+     "chapter": "Ch09_Light_Reflection_and_Refraction",
+     "text": "An object 1 m tall is placed on the principal axis of a convex lens and its 40 cm tall image is formed on the screen placed at a distance of 70 cm from the object. What is the focal length of the lens?",
+     "options": null,
+     "figure": null,
+     "answer": "Image on screen, so real and inverted: h = 100 cm, h' = -40 cm. Let the object distance be x, so u = -x and v = 70 - x. $m = \\frac{h'}{h} = \\frac{v}{u}$: $\\frac{-40}{100} = \\frac{70-x}{-x}$, so 40x = 7000 - 100x, x = 50 cm. u = -50 cm, v = 20 cm.\n$\\frac{1}{f} = \\frac{1}{v}-\\frac{1}{u} = \\frac{1}{20}+\\frac{1}{50} = \\frac{7}{100}$, so $f = +\\frac{100}{7} \\approx 14.3$ cm (the paper's key writes 110/7 by an arithmetic slip but gives 14.3 cm)."
+    },
+    "subparts": null,
+    "answer_figure": "fig_p17_0.png",
+    "note": "Key prints f = 110/7 = 14.3 cm; correct value is 100/7 = 14.29 cm; same 14.3 cm.",
+    "paper": "Paper_04"
+   },
+   "text": "A student focussed the image of a candle flame on a white screen using a convex lens. He noted the positions: candle = 10.0 cm, convex lens = 60.0 cm, screen = 110.0 cm (the image on the screen was sharp).\ni. What is the focal length of the convex lens?\nii. The candle is now shifted to the 25.0 cm mark. Find the position of the new image.\niii. If the candle is shifted further to the 45.0 cm mark, what will be the nature of the image formed?\niv. Draw a ray diagram to show the image formation in case (iii).",
+   "options": null,
+   "answer": "i. $u = -(60-10) = -50$ cm, $v = 110 - 60 = 50$ cm. $\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u} = \\frac{1}{50} + \\frac{1}{50} = \\frac{1}{25}$, so $f = 25$ cm. (1)\nii. $u = -(60 - 25) = -35$ cm. $\\frac{1}{v} = \\frac{1}{f} + \\frac{1}{u} = \\frac{1}{25} - \\frac{1}{35} = \\frac{2}{175}$, so $v = 87.5$ cm. The image is formed 87.5 cm from the lens on the other side, i.e. at the 147.5 cm mark (real, inverted, magnified). (2)\niii. $u = -(60-45) = -15$ cm, which is less than f (25 cm). The object lies between F and the optical centre, so the image is virtual, erect and magnified, on the same side as the object. (1)\niv. Ray diagram: object AB between F and O; a ray parallel to the principal axis refracts through F; a ray through the optical centre passes undeviated; the refracted rays diverge and, when produced backwards, meet at A', giving a virtual, erect, enlarged image A'B' on the same side as the object. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "A 5 cm tall object is placed perpendicular to the principal axis of a convex lens of focal length 10 cm. The distance of the object from the lens is 15 cm. Find the position, size and nature of the image formed.",
+    "options": null,
+    "figure": null,
+    "answer": "$u = -15$ cm, $f = +10$ cm, $h = 5$ cm. $\\frac{1}{v} = \\frac{1}{f} + \\frac{1}{u} = \\frac{1}{10} - \\frac{1}{15} = \\frac{1}{30}$, so $v = +30$ cm: image on the other side of the lens, 30 cm from it. (2)\n$m = \\frac{v}{u} = \\frac{30}{-15} = -2$. (1)\n$h' = m h = -2 \\times 5 = -10$ cm: the image is 10 cm tall. (1)\nNature: real, inverted and magnified. (1)"
+   }
+  }
+ ]
+}

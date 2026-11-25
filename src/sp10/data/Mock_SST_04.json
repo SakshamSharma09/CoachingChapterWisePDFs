@@ -1,0 +1,1036 @@
+{
+ "subject": "SST",
+ "paper": "Mock_04",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "What do you mean by the French word La Patria?",
+   "options": [
+    "Motherland",
+    "Community land",
+    "Reserved land",
+    "Fatherland"
+   ],
+   "figure": null,
+   "answer": "(d) Fatherland. La Patria means fatherland in French; here fatherland means the country.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q1"
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "text": "Study the picture and answer the question that follows: Which of the following option is correct regarding the picture?",
+   "options": [
+    "It is a page from the Panchtantra book",
+    "It is a page from the Ninety Five Theses.",
+    "It is a page from the oldest Japanese book - Diamond Sutra.",
+    "It is a page from the traditional Chinese accordion book"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(c) It is a page from the oldest Japanese book - Diamond Sutra. The oldest Japanese book, printed in AD 868, is the Buddhist Diamond Sutra, containing six sheets of text and woodcut illustrations.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q2"
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "variant",
+   "basis": "Paper_04 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Choose the correct option, related to the founders of the Swaraj Party within the Congress.",
+    "options": [
+     "Acharya Kripalani and Jayaprakash Narayan",
+     "Mahatma Gandhi and Sardar Patel",
+     "C.R. Das and Motilal Nehru",
+     "Subhas Chandra Bose and Jawaharlal Nehru"
+    ],
+    "figure": null,
+    "answer": "(c) C.R. Das and Motilal Nehru",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "The Poona Pact of 1932, which gave the depressed classes reserved seats in the provincial and central legislative councils, was signed between",
+   "options": [
+    "Mahatma Gandhi and Lord Irwin",
+    "Mahatma Gandhi and Dr B.R. Ambedkar",
+    "C.R. Das and Motilal Nehru",
+    "Jawaharlal Nehru and Subhas Chandra Bose"
+   ],
+   "answer": "(b) Mahatma Gandhi and Dr B.R. Ambedkar. The Poona Pact (September 1932) gave the Depressed Classes reserved seats in the central and provincial legislative councils, but they were to be voted in by the general electorate.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "The business groups and industrialists lost enthusiasm for the Civil Disobedience Movement because:",
+   "options": [
+    "They lost faith in Gandhiji's methods",
+    "They were worried about their self-esteem",
+    "They were worried about prolonged disruption of business",
+    "They were frightened by the British repression"
+   ],
+   "figure": null,
+   "answer": "(c) They were worried about prolonged disruption of business. After the failure of the Round Table Conference, business groups were no longer uniformly enthusiastic. They were apprehensive of the spread of militant activities and worried about prolonged disruption of business, as well as of the growing influence of socialism amongst the younger members of the Congress.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q3"
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "Describe the great economic hardship that prevailed in Europe during the 1930s.",
+   "options": null,
+   "figure": null,
+   "answer": "The 1830s were years of great economic hardship in Europe: (i) Increase in population all over Europe. (ii) More job seekers than employment. (iii) Small producers in towns faced stiff competition from imports of cheap machine-made goods from England. (iv) Rural population migrated to urban areas, overcrowded slums.",
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Analyse the process of German Unification.",
+    "options": null,
+    "figure": null,
+    "answer": "(i) Nationalist feelings were widespread among middle-class Germans, who in 1848 tried to unite the different regions of the German confederation into a nation-state governed by an elected parliament. (ii) This liberal initiative to nation-building was repressed by the combined forces of the monarchy and the military, supported by the large landowners (Junkers) of Prussia. (iii) Three wars over seven years with Austria, Denmark and France ended in Prussian victory and completed the process of unification. (iv) On 18 January 1871, the Prussian king Kaiser William I was proclaimed German emperor in a ceremony held at Versailles. (v) The nation-building process in Germany demonstrated the dominance of Prussian state power."
+   },
+   "subparts": null,
+   "note": "Question text says '1930s'; marking scheme answers for the 1830s.",
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q5"
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_History_Print_Culture",
+   "origin": "ncert",
+   "text": "Why did some people in Europe fear the spread of printed books? Give any three reasons.",
+   "options": null,
+   "answer": "Reasons (any three):\ni. Many feared that easily available printed books could have a negative effect on people's minds and encourage rebellious and irreligious thoughts.\nii. Religious authorities and monarchs feared that their authority would be destroyed if people could read and interpret texts for themselves.\niii. Critics worried that the authority of 'valued' literature would be destroyed by cheap print.\niv. The case of Menocchio, an Italian miller who reinterpreted the Bible after reading books and was hauled up by the Roman Church and executed, made the Church more severe; it began to control publishers and booksellers and from 1558 maintained an Index of Prohibited Books.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "origin": "variant",
+   "basis": "Paper_08 Q7",
+   "basis_question": {
+    "no": 7,
+    "section": "A",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "How did ideas of national unity in early nineteenth-century Europe allied to the ideology of liberalism? Explain.",
+    "options": null,
+    "figure": null,
+    "answer": "The ideology of liberalism allied with nationalism in the following ways:\ni. In the political sense, liberalism stood for freedom for the individual and equality of all before the law. It emphasised the end of aristocracy and clerical privileges, a constitution and representative government through parliament and the inviolability of private property, drawing its basic foundation from the French Revolution.\nii. In the economic sense, liberalism stood for the freedom of markets and the abolition of state-imposed restrictions on the movement of goods and capital.\niii. From the very beginning, voting rights were granted only to property-owning men, excluding men without property and all women. However, throughout the nineteenth century and early twentieth century, many movements were organised demanding equal political rights.",
+    "or": {
+     "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+     "text": "What did Liberal Nationalism stand for? Explain any four ideas of liberal-nationalists during the end of the nineteenth century.",
+     "answer": "Liberal Nationalism: the term 'liberalism' derives from the Latin root liber, meaning free. For the new middle classes liberalism stood for freedom for the individual and equality of all before the law.\nIdeas of liberal nationalism (any four):\ni. Ideas of national unity in early-nineteenth-century Europe were closely allied to the ideology of liberalism.\nii. Liberalism, which gained momentum after the French Revolution, aimed to abolish autocracy and the special privileges held by the clergy.\niii. Politically, it emphasised the concept of government by consent.\niv. In the economic sphere, liberalism stood for the freedom of markets and the abolition of state-imposed restrictions on the movement of goods and capital.\nv. It stood for a constitution and representative government through parliament.\nvi. It stressed the inviolability of private property.\nvii. Equality before the law did not necessarily stand for universal suffrage.",
+     "options": null,
+     "figure": null
+    },
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "Describe the roles played by Giuseppe Mazzini, Count Cavour and Giuseppe Garibaldi in the unification of Italy.",
+   "options": null,
+   "answer": "i. Giuseppe Mazzini, a revolutionary, formed a secret society called Young Italy in Marseilles (1831) and Young Europe in Berne; he believed that Italy could not remain a patchwork of small states and must be a single unified republic.\nii. Count Cavour, chief minister of Sardinia-Piedmont, was neither a revolutionary nor a democrat; he led the movement to unify the regions of Italy. He engineered a tactful diplomatic alliance with France, which helped Sardinia-Piedmont defeat the Austrian forces in 1859.\niii. Giuseppe Garibaldi led the armed volunteers (the Red Shirts) in 1860, marched into South Italy and the Kingdom of the Two Sicilies and, with the support of local peasants, drove out the Spanish rulers.\niv. In 1861 Victor Emmanuel II was proclaimed king of united Italy.\nv. Thus Mazzini provided the ideal, Cavour the diplomacy and Garibaldi the military action in the unification of Italy.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Explain any five steps taken by the French revolutionaries to create a sense of collective identity among the French people.",
+    "options": null,
+    "figure": null,
+    "answer": "Steps taken (any five):\ni. The ideas of la patrie (the fatherland) and le citoyen (the citizen) emphasised the notion of a united community enjoying equal rights under a constitution.\nii. A new French tricolour flag replaced the royal standard.\niii. The Estates General was renamed the National Assembly and was elected by a body of active citizens.\niv. New hymns were composed, oaths were taken and martyrs commemorated, all in the name of the nation.\nv. A centralised administrative system made uniform laws for all citizens within its territory.\nvi. Internal customs duties and dues were abolished and a uniform system of weights and measures was adopted.\nvii. Regional dialects were discouraged and French, as spoken and written in Paris, became the common language of the nation."
+   }
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "variant",
+   "basis": "Paper_06 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "A",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "On 13th April the infamous Jallianwalla Bagh incident took place. On that day a large crowd gathered in the enclosed ground of Jallianwalla Bagh. Some came to protest against the government's new repressive measures. Others had come to attend the annual Baisakhi fair. Dyer entered the area, blocked the exit points, and opened fire on the crowd, killing hundreds. As the news of Jallianwalla Bagh spread, crowds took to the streets in many north Indian towns. There were strikes, clashes with the police and attacks on government buildings. Seeing violence spread, Mahatma Gandhi called off the movement. While the Rowlatt satyagraha had been a widespread movement, it was still limited mostly to cities and towns. Mahatma Gandhi now felt the need to launch a more broad-based movement in India.",
+    "options": null,
+    "figure": null,
+    "answer": "",
+    "or": null,
+    "subparts": [
+     {
+      "text": "How did Mahatma Gandhi react to the Rowlatt Act?",
+      "marks": 1,
+      "options": null,
+      "answer": "Mahatma Gandhi decided to launch a nationwide satyagraha against the proposed Rowlatt Act (1919)."
+     },
+     {
+      "text": "What made Mahatma Gandhi call off Rowlatt Satyagraha?",
+      "marks": 1,
+      "options": null,
+      "answer": "As the news of Jallianwalla Bagh spread, crowds took to the streets in many north Indian towns. Seeing violence spread, Mahatma Gandhi decided to call off the movement."
+     },
+     {
+      "text": "Why did Rowlatt Act enrage people?",
+      "marks": 2,
+      "options": null,
+      "answer": "This Act had been hurriedly passed through the Imperial Legislative Council despite the united opposition of the Indian members. It gave the government enormous powers to repress political activities and allowed the detention of political prisoners without trial for two years."
+     }
+    ],
+    "paper": "Paper_06"
+   },
+   "text": "On 12 March 1930 Mahatma Gandhi started his famous march from Sabarmati Ashram towards the coastal village of Dandi, accompanied by 78 volunteers. Salt was a staple consumed by the rich and the poor alike, yet the British government held a monopoly over its manufacture and levied a tax on it. Gandhiji had first sent a letter to Viceroy Irwin stating eleven demands, but the Viceroy was unwilling to negotiate. The marchers covered about 240 miles in 24 days. On 6 April he reached Dandi and ceremonially violated the law by manufacturing salt from sea water. This marked the beginning of the Civil Disobedience Movement, in which people were asked not only to refuse cooperation with the British but also to break colonial laws.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Which law did Gandhiji break at Dandi?",
+     "marks": 1,
+     "options": null,
+     "answer": "Gandhiji broke the Salt Law, by manufacturing salt from sea water at Dandi."
+    },
+    {
+     "text": "Why did Gandhiji consider salt a powerful symbol that could unite the nation?",
+     "marks": 1,
+     "options": null,
+     "answer": "Salt was one of the most essential items of food, consumed by the rich and the poor alike, and the tax on it and the state monopoly over its production were oppressive; hence it could unite all sections of the nation."
+    },
+    {
+     "text": "Describe the Dandi March.",
+     "marks": 2,
+     "options": null,
+     "answer": "Gandhiji started the march on 12 March 1930 from Sabarmati Ashram with 78 volunteers. They covered about 240 miles in 24 days. On 6 April he reached Dandi and ceremonially violated the salt law by manufacturing salt from sea water. This began the Civil Disobedience Movement."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where Indian National Congress session was held in 1927\nb. The place associated with the Movement of Indigo Planters.",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "A - Madras; B - Champaran.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q9"
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "What is the above picture showing?",
+   "options": [
+    "The picture shows a hole through which rainwater flows directly to the apartments",
+    "The picture shows a hole through which rainwater flows and getting waste",
+    "The picture shows a hole through which rainwater flows and used using taps",
+    "The picture shows a hole through which rainwater flows down into an underground tanka."
+   ],
+   "figure": "fig_p05_0.png",
+   "answer": "(d) The picture shows a hole through which rainwater flows down into an underground tanka. Rooftop harvesting was common across the towns and villages of the Thar. Rainwater that falls on the sloping roofs of houses is taken through a pipe into an underground tanka (circular holes in the ground) built in the main house or in the courtyard.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q15"
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "Which one of the following terms is used to identify the old and new alluvial respectively?",
+   "options": [
+    "Tarai and Bangar",
+    "Khadas and Tarai",
+    "Bangar and Khadar",
+    "Tarai and Dvars"
+   ],
+   "figure": null,
+   "answer": "(c) Bangar and Khadar. According to their age alluvial soils can be classified as old alluvial (Bangar) and new alluvial (Khadar). Bangar has a higher concentration of kankar nodules than Khadar; Khadar has more fine particles and is more fertile.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q11"
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Read the following data and select the appropriate option from the following:\nProduction of Manganese in 2016-17\n\n| State | Percentage |\n|---|---|\n| Andhra Pradesh | 10 |\n| Madhya Pradesh | 27 |\n| Karnataka | 11 |\n| Odisha | 25 |\n| Maharashtra | 25 |\n\nChoose the ODD one out in the context of share manganese production.",
+   "options": [
+    "Maharashtra",
+    "Andhra Pradesh",
+    "Odisha",
+    "Madhya Pradesh"
+   ],
+   "figure": null,
+   "answer": "(b) Andhra Pradesh — the other three (Madhya Pradesh, Odisha, Maharashtra) are more or less equal contributors.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q12"
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following states has the largest area under permanent forests?",
+   "options": [
+    "West Bengal",
+    "Assam",
+    "Madhya Pradesh",
+    "Manipur"
+   ],
+   "figure": null,
+   "answer": "(c) Madhya Pradesh has the largest area under permanent forests.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q12"
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "origin": "ncert",
+   "text": "Which of the following crops helps to restore soil fertility by fixing nitrogen from the air?",
+   "options": [
+    "Rice",
+    "Cotton",
+    "Gram",
+    "Jute"
+   ],
+   "answer": "(c) Gram. Pulses (except arhar) are leguminous crops; they help in restoring soil fertility by fixing nitrogen from the air.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "origin": "variant",
+   "basis": "Paper_07 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "C",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+    "text": "Assertion (A): Equal Remuneration Act, 1976, provides that equal wages should be paid for equal work, irrespective of gender and caste.\nReason (R): Women are physically weak so they are righteously paid less than men.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(c) A is true but R is false. The Act provides equal wages for equal work. Women are considered inferior to men and are therefore paid less, but this belief is unjustifiable as both are equal.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Assertion (A): Reservation of seats for women in panchayats and municipalities has increased the participation of women in local government.\nReason (R): One-third of the seats in local government bodies are reserved for women.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Since one-third of the seats in rural and urban local bodies are reserved for women, a large number of women have been elected to these bodies.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "origin": "ncert",
+   "text": "What is black soil? State any two of its characteristics.",
+   "options": null,
+   "answer": "Black soil (regur soil) is a soil formed by the weathering of volcanic rock (lava flows); it is ideal for growing cotton (1 mark).\nCharacteristics (any two, 1 mark): (i) It is made of extremely fine, clayey material and has a great capacity to hold moisture. (ii) It is rich in calcium carbonate, magnesium, potash and lime, but poor in phosphoric content. (iii) It develops deep cracks in hot weather, which helps in aeration of the soil. (iv) It is sticky when wet and difficult to work unless tilled immediately after the first rain.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Highlight the importance of petroleum. Explain the occurrence of petroleum in India.",
+   "options": null,
+   "figure": null,
+   "answer": "Petroleum is formed from the remains of dead plants and animals. It is referred to as 'Black Gold'. Crude oil is considered to be the 'mother of all commodities' as it is used to manufacture various products such as pharmaceuticals, plastics, gasoline, synthetic fabrics, etc.\nImportance of Petroleum:\ni. Petroleum is the major energy source in India.\nii. It provides fuel for heat and lighting.\niii. It provides lubricant for machinery.\niv. It provides the raw material for a number of manufacturing industries.\nv. Petroleum refineries act as a nodal industry for synthetic, textile, fertilizer and chemical industries.\nOccurrence:\ni. Most of the petroleum occurrences in India are associated with anticlines and fault traps.\nii. In regions of folding, anticline or domes, it occurs where oil is trapped in the crest of the up-fold.\niii. Petroleum is also found in fault traps between porous and non-porous rocks.",
+   "or": {
+    "text": "\"Nuclear energy is expected to play an increasingly important role in India.\" Give arguments to support this statement.",
+    "options": null,
+    "figure": null,
+    "answer": "Atomic energy is generated by splitting nuclear substances such as the atoms of uranium, thorium, cheralite and zirconium under controlled conditions. Splitting of these atoms gives out a lot of energy which can be used for a variety of purposes such as generating electricity. This energy is expected to play an increasingly important role in India due to the following reasons:\ni. India has limited reserves of coal and petroleum. Nuclear energy minerals like thorium are found in plenty in India.\nii. Hence, nuclear energy can compensate for the deficiency of fossil fuels.\niii. Nuclear power stations can be established easily and conveniently in those areas where other sources are not available.\niv. Nuclear power releases tremendous amounts of energy. India can utilize this energy for peaceful purposes such as the generation of electricity to run machines in industries.\nv. It is a non-conventional source of energy. After the initial expenses, it becomes very economical.",
+    "chapter": "Ch10_Geography_Minerals_and_Energy"
+   },
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q17"
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "origin": "ncert",
+   "text": "The iron and steel industry is the basic industry since all other industries depend on it for their machinery. It is called a heavy industry because all the raw materials as well as finished goods are heavy and bulky. The main raw materials are iron ore, coking coal and limestone, along with manganese. The industry is concentrated in the Chotanagpur plateau region, where steel plants such as Jamshedpur, Bokaro and Rourkela are located. In spite of being a leading producer of steel, India is not able to perform to its full potential because of limited availability of coking coal, lower productivity of labour, irregular supply of energy and poor infrastructure.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Why is the iron and steel industry called a basic industry?",
+     "marks": 1,
+     "options": null,
+     "answer": "Because all other industries depend on it for their machinery (it supplies the base materials and machines to other industries)."
+    },
+    {
+     "text": "Why is it called a heavy industry?",
+     "marks": 1,
+     "options": null,
+     "answer": "Because the raw materials (iron ore, coking coal, limestone) as well as the finished goods are heavy and bulky."
+    },
+    {
+     "text": "State any two reasons for the concentration of the iron and steel industry in the Chotanagpur plateau region.",
+     "marks": 2,
+     "options": null,
+     "answer": "Reasons (any two): low cost of iron ore; high grade raw materials in close proximity; relatively cheap labour; vast growth potential in the domestic market."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "origin": "variant",
+   "basis": "Paper_09 Q19",
+   "basis_question": {
+    "no": 19,
+    "section": "B",
+    "marks": 3,
+    "type": "map",
+    "chapter": "Ch11_Geography_Manufacturing_Industries",
+    "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. The airport named after Sri Guru Ram Das Ji, which was earlier known as Raja Sansi International Airport.\nii. Iron and Steel Plant in Durgapur that is managed by Steel Authority of India Limited.\nII. Any two of the following:\niii. Software Technology Park of West Bengal\niv. Tehri - Dam\nv. Kaiga - Nuclear Power Plant",
+    "options": null,
+    "figure": "fig_p04_0.png",
+    "answer": "Locations on the answer map (fig_p14_0.png): (i) Raja Sansi (Amritsar) airport; (ii) Bhadravati (as printed in the answer map); (iii) Kolkata - Software Technology Park; (iv) Tehri - Dam; (v) Kaiga - Nuclear Power Plant.",
+    "or": null,
+    "subparts": null,
+    "answer_figure": "fig_p14_0.png",
+    "note": "Map question: the candidate marks and labels the places on the outline map of India. Mixed chapters (Manufacturing/Energy/Water); outline map is the same as Q9. The marking scheme's map labels item (ii) as Bhadravati although the question names Durgapur.",
+    "paper": "Paper_09"
+   },
+   "text": "On a blank outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. The iron and steel plant located in Rourkela.\nii. The international airport at Mumbai named after Chhatrapati Shivaji.\nII. Any two of the following:\niii. Software Technology Park of Karnataka\niv. Hirakud Dam\nv. Narora Nuclear Power Plant",
+   "options": null,
+   "answer": "Places to be marked and labelled on the outline map of India: (i) Rourkela (Odisha) - iron and steel plant; (ii) Mumbai (Maharashtra) - Chhatrapati Shivaji International Airport; (iii) Bengaluru (Karnataka) - Software Technology Park; (iv) Hirakud Dam on the river Mahanadi, Odisha; (v) Narora (Uttar Pradesh) - Nuclear Power Plant. 1 mark for the one place in I and 1 mark for each of two places in II.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Assertion (A): Sex-selective abortion led to the decline of the sex ratio in India.\nReason (R): Desire for a male child makes Indian families abort girls.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Indian parents who want a son seek ways to abort a girl child; sex-selective abortion is immoral and legally banned in India.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q23"
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "origin": "variant",
+   "basis": "Paper_06 Q20",
+   "basis_question": {
+    "no": 20,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch16_PolSci_Political_Parties",
+    "text": "Which of the following statements are correct related to the role of political parties in India?\nI. Play a decisive role in making laws for the country.\nII. Making different interest groups in the country.\nIII. Play a role for shaping public opinion in the country.\nIV. Pulling forward different policies and programmes before voters.",
+    "options": [
+     "Only I, II and IV are correct.",
+     "Only I, II and III are correct.",
+     "Only I, III and IV are correct.",
+     "Only II, III and IV are correct."
+    ],
+    "figure": null,
+    "answer": "(c) Only I, III and IV are correct.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "Which of the following are the challenges faced by political parties in India?\nI. Lack of internal democracy within parties.\nII. Dynastic succession in leadership.\nIII. Growing role of money and muscle power.\nIV. Providing voters with a meaningful choice.",
+   "options": [
+    "Only I, II and III are correct.",
+    "Only I, II and IV are correct.",
+    "Only II, III and IV are correct.",
+    "Only I, III and IV are correct."
+   ],
+   "answer": "(a) Only I, II and III are correct. Statement IV is not a challenge as stated; the challenge is that parties often fail to offer voters a meaningful choice.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "variant",
+   "basis": "Paper_04 Q22",
+   "basis_question": {
+    "no": 22,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "Which of the following outcomes of democracy will be negated if someone is barred from being in the majority on the basis of birth?\nStatement i: Accountable, responsive and legitimate government.\nStatement ii: Reduction of inequality and poverty.\nStatement iii: Accommodation of social diversity.\nStatement iv: Dignity and freedom of the citizens.",
+    "options": [
+     "Statement iii is right.",
+     "Only statement iv is right.",
+     "Statement i and ii are right.",
+     "Statement i, ii and iii are right."
+    ],
+    "figure": null,
+    "answer": "(a) Statement iii is right. If someone is barred from being in the majority on the basis of birth, democratic rule ceases to be accommodative for that person or group.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Which of the following reasons makes a democratic government a legitimate government?",
+   "options": [
+    "It takes quick decisions",
+    "It is free from corruption",
+    "It is people's own government",
+    "It always ensures economic growth"
+   ],
+   "answer": "(c) It is people's own government. Democracy may be slow, but it is a legitimate government because it is the people's own government.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "origin": "ncert",
+   "text": "What does the 'sexual division of labour' mean?",
+   "options": [
+    "Men and women share household work equally",
+    "Men and women are legally assigned separate jobs",
+    "Women do or organise all the work inside the home while men mostly do the work outside",
+    "Women are barred from working outside the home"
+   ],
+   "answer": "(c) A system in which all the work inside the home is either done by the women of the family or organised by them through domestic helpers, while men mostly do the work outside the home.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "origin": "ncert",
+   "text": "Give any two reasons why power sharing is desirable.",
+   "options": null,
+   "answer": "Prudential reason: power sharing reduces the possibility of conflict between social groups and so ensures the stability of the political order (1 mark).\nMoral reason: power sharing is the very spirit of democracy; it involves sharing power with those affected by its exercise and respects their voice (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "variant",
+   "basis": "Paper_07 Q25",
+   "basis_question": {
+    "no": 25,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "How does the quality of democracy depend on the degree of public participation?",
+    "options": null,
+    "figure": null,
+    "answer": "When people are asked about the way democracy functions, they always come up with more expectations and many complaints. When people want more, they are eventually improving the quality of democracy. The fact that people are complaining is itself a testimony to the success of democracy: it shows that people have developed awareness and the ability to expect and to look critically at power holders.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "How does democracy promote the dignity and freedom of citizens better than other forms of government?",
+   "options": null,
+   "answer": "Democracy is based on the principle of political equality: every adult has one vote and every vote has equal value, which recognises the dignity of each individual (1 mark). It provides citizens the freedom to express views, form groups and take part in decisions, and it allows people to struggle against injustice and discrimination, such as the demand of women for equal treatment. Non-democratic governments often deny these (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "variant",
+   "basis": "Paper_06 Q26",
+   "basis_question": {
+    "no": 26,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "When is democracy considered successful? Explain.",
+    "options": null,
+    "figure": null,
+    "answer": "Democracy is considered to be successful when:\ni. The government is accountable to the people and responsive to the needs and expectations of the citizens.\nii. It ensures economic growth and development.\niii. There is a reduction in inequality and poverty.\niv. The rulers elected by the people take all major decisions and not the rich and powerful.\nv. The elections offer a free choice and opportunity to the people.\nvi. The choice is made available to all the people based on political equality.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "How does democracy accommodate social diversity? Explain with an example.",
+   "options": null,
+   "answer": "i. Democracy produces a harmonious social life because it provides a way of peacefully resolving conflicts among different groups through negotiation.\nii. Democracy requires that the majority works with the minority so that governments represent the general view; majority and minority are not permanent.\niii. Example: Belgium accommodated its Dutch, French and German speaking communities through power sharing, while Sri Lanka's majoritarian approach to the Sinhala-Tamil issue led to a civil war.\niv. A democracy that fails to accommodate social diversity does not succeed in this respect.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "text": "Describe any five features of Indian National Congress Party.",
+   "options": null,
+   "figure": null,
+   "answer": "Features of Indian National Congress Party:\ni. Popularly known as the Congress Party. One of the oldest parties of the world, founded in 1885.\nii. This party has played a dominant role in Indian politics at National and State level.\niii. The Indian National Congress played an important role in the freedom struggle of India.\niv. Under the leadership of Pt. Jawahar Lal Nehru the party sought to build a modern secular and democratic republic of India.\nv. A centrist party (neither rightist nor leftist) in its ideological orientation. The party espouses secularism and welfare of weaker sections and minorities.\nvi. Supports new economic reforms but with a human face.",
+   "or": {
+    "text": "Examine any two institutional amendments made by different institutions to reform political and their leaders.",
+    "options": null,
+    "figure": null,
+    "answer": "i. The Constitution was amended to prevent elected MLAs and MPs from changing parties.\nii. The Supreme Court passed an order to reduce the influence of money and criminals. Now, it is mandatory for every candidate who contests elections to file an affidavit giving details of his property and criminal cases pending against him.\niii. The Election Commission passed an order making it necessary for political parties to hold their organizational elections and file their income tax returns.\niv. The parties have started doing so but sometimes it is a mere formality. It is not clear if this step has led to greater internal democracy in political parties.",
+    "chapter": "Ch16_PolSci_Political_Parties"
+   },
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q27"
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch14_PolSci_Federalism",
+   "origin": "variant",
+   "basis": "Paper_09 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "C",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch14_PolSci_Federalism",
+    "text": "Read the following text carefully and answer the questions that follow:\n\nOne of the key changes made in the Constitution of Belgium was to reduce the power of the Central Government and to give these powers to the regional governments. Regional governments existed in Belgium even earlier. They had their roles and powers. But all these powers were given to these governments and could be withdrawn by the Central Government. The change that took place in 1993 was that the regional governments were given constitutional powers that were no longer dependent on the central government. Thus, Belgium shifted from a unitary to a federal form of government. Sri Lanka continues to be, for all practical purposes, a unitary system where the national government has all the powers. Tamil leaders want Sri Lanka to become a federal system. Federalism is a system of government in which the power is divided between a central authority and various constituent units of the country. Usually, a federation has two levels of government. One is the government for the entire country that is usually responsible for a few subjects of common national interest. The others are governments at the level of provinces or states that look after much of the day-to-day administering of their state. Both these levels of governments enjoy their power independent of the other. In this sense, federations are contrasted with unitary governments. Under the unitary system, either there is only one level of government or the sub-units are subordinate to the central government. The central government can pass on orders to the provincial or the local government. But in a federal system, the central government cannot order the state government to do something. The state government has powers of its own for which it is not answerable to the central government. Both these governments are separately answerable to the people.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "In a federal system, can the central government give orders to state governments? Why or why not?",
+      "marks": 1,
+      "options": null,
+      "answer": "No. In a federal system the central government cannot give orders to state governments because both levels of government have their independent powers."
+     },
+     {
+      "text": "What is the primary demand of Tamil leaders in Sri Lanka regarding the country's government structure?",
+      "marks": 1,
+      "options": null,
+      "answer": "The Tamil leaders want Sri Lanka to follow a federal system."
+     },
+     {
+      "text": "What key change occurred in the Constitution of Belgium in 1993, and how did it transform the country's government structure?",
+      "marks": 2,
+      "options": null,
+      "answer": "In 1993, Belgium shifted from a unitary system to a federal form of government by reducing the power of the Central Government and granting constitutional powers to regional governments, making them independent of the central government."
+     }
+    ],
+    "paper": "Paper_09"
+   },
+   "text": "India has a federal system. The Constitution provides for a three-fold distribution of legislative powers between the Union Government and the State Governments. The Union List includes subjects of national importance such as defence of the country, foreign affairs, banking, communications and currency, on which only the Union Government can make laws. The State List contains subjects of state and local importance such as police, trade, commerce, agriculture and irrigation. The Concurrent List includes subjects of common interest to both, such as education, forests, trade unions, marriage, adoption and succession. Subjects that do not fall in any list, such as computer software, are called residuary subjects, and the Union Government has the power to legislate on them.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "In which list are subjects such as education and forests included?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Concurrent List."
+    },
+    {
+     "text": "Who has the power to make laws on residuary subjects?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Union Government (Parliament)."
+    },
+    {
+     "text": "Distinguish between the Union List and the State List with one example of each.",
+     "marks": 2,
+     "options": null,
+     "answer": "The Union List includes subjects of national importance on which only the Union Government can legislate, e.g. defence. The State List includes subjects of state and local importance on which the State Governments normally legislate, e.g. police or agriculture."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "variant",
+   "basis": "Paper_10 Q29",
+   "basis_question": {
+    "no": 29,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+    "text": "Which one among the following is a far-reaching change in the Economic Policy of India in 1991?",
+    "options": [
+     "Putting barriers on foreign trade",
+     "Removing barriers on trade",
+     "Protection to domestic and foreign producers",
+     "Restrictions on foreign competition"
+    ],
+    "figure": null,
+    "answer": "(b) Removing barriers on trade",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Taxes on imports are an example of trade barriers. Such a tax on imports is called",
+   "options": [
+    "Quotas",
+    "Tariffs",
+    "Subsidies",
+    "Dividends"
+   ],
+   "answer": "(b) Tariffs. A tax on imports is called a tariff; a quota is a limit on the quantity of imports.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "origin": "variant",
+   "basis": "Paper_09 Q33",
+   "basis_question": {
+    "no": 33,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch19_Economics_Money_and_Credit",
+    "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) Cooperative societies | (i) A larger part of the earnings of the borrower is used to repay the loan |\n| (b) Credit money | (ii) Small scale organisation formed by people themselves |\n| (c) Cash reserve ratio | (iii) Future monetary claim against an individual that can be used to buy goods and services |\n| (d) The higher cost of borrowing | (iv) A certain minimum amount of deposit that the commercial banks have to hold as reserves with the central bank |",
+    "options": [
+     "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+     "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+     "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)",
+     "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)"
+    ],
+    "figure": null,
+    "answer": "(b) (a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) Collateral | (i) An asset that the borrower owns and uses as a guarantee to the lender until the loan is repaid |\n| (b) Formal sector loans | (ii) Supervised by the Reserve Bank of India |\n| (c) Demand deposits | (iii) Deposits that can be withdrawn from the bank on demand |\n| (d) Terms of credit | (iv) Interest rate, collateral and documentation requirement and mode of repayment |",
+   "options": [
+    "(a) - (ii), (b) - (i), (c) - (iii), (d) - (iv)",
+    "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+    "(a) - (i), (b) - (ii), (c) - (iii), (d) - (iv)",
+    "(a) - (iv), (b) - (ii), (c) - (iii), (d) - (i)"
+   ],
+   "answer": "(c) (a) - (i), (b) - (ii), (c) - (iii), (d) - (iv)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Which of the following activity is not from the primary sector?",
+   "options": [
+    "Animal husbandry",
+    "Making sugar from sugarcane",
+    "Fishing",
+    "Bee-keeping"
+   ],
+   "figure": null,
+   "answer": "(b) Making sugar from sugarcane. Extracting sugarcane is a primary sector activity, but making sugar from it is a secondary sector activity.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q31"
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "origin": "ncert",
+   "text": "The Human Development Report published by the UNDP compares countries on the basis of",
+   "options": [
+    "Only per capita income and exports",
+    "Industrial output and literacy only",
+    "Foreign trade and employment only",
+    "Educational levels, health status and per capita income"
+   ],
+   "answer": "(d) Educational levels of the people, their health status and per capita income.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Read the information given below and select the correct option\nA shoe manufacturer, M. Salim has to make a payment to the leather supplier and writes a cheque for a specific amount. This means that the shoe manufacturer instructs his bank to pay this amount to the leather supplier. The leather supplier takes this cheque and deposits it in his own account in the bank. The money is transferred from one bank account to another bank account in a couple of days. The transaction is complete without any payment of cash. What kind of payment system is indicated here?",
+   "options": [
+    "Cheque Payments",
+    "Loan activities of Bank",
+    "Demand Draft",
+    "Electronic payments"
+   ],
+   "figure": null,
+   "answer": "(a) Cheque Payments - a cheque is a paper instructing the bank to pay a specific amount from the person's account to the person in whose name the cheque has been issued.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q30"
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "origin": "ncert",
+   "text": "Assertion (A): Workers in the unorganised sector enjoy job security and paid leave.\nReason (R): Jobs in the unorganised sector are low-paid and often not regular.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(d) A is false but R is true. Workers in the unorganised sector do not have job security or paid leave; their jobs are low-paid and irregular.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "variant",
+   "basis": "Paper_07 Q35",
+   "basis_question": {
+    "no": 35,
+    "section": "D",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+    "text": "What were the reasons for putting barriers to foreign trade and foreign investment by the Indian government? Why did it wish to remove these barriers?",
+    "options": null,
+    "figure": null,
+    "answer": "Barriers were put to protect domestic producers from foreign competition, especially when industries had just begun to come up in the 1950s and 1960s. After independence imports had exceeded exports and the country was in huge debt, so the government decided to minimise imports and foreign investment and maximise exports. Competition from imports (except essential goods) would have given a death blow to growing industries. The policy was changed in 1991 because:\ni. The government felt that domestic producers were now ready to compete with foreign industries.\nii. Foreign competition would improve the quality of goods and services produced by Indian industries.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "What is trade liberalisation? Explain two of its effects on Indian producers and consumers.",
+   "options": null,
+   "answer": "Trade liberalisation is the removal of barriers or restrictions set by the government on foreign trade (1 mark).\nEffects: i. Indian producers get a chance to sell their goods in foreign markets and also have to compete with imported goods, which pushes them to improve quality. ii. Consumers, especially the well-off, get a wider choice of goods at lower prices and of better quality. (1 mark each)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Explain the term debt-trap. Why is it more rampant in rural areas? Give two reasons.",
+   "options": null,
+   "figure": null,
+   "answer": "Debt-trap refers to a situation where farmers are unable to return the money taken from lenders and, in order to repay previous loans, take more loans, and the cycle continues unless the farmer loses his land. More rampant in rural areas because: i. A borrower repays a loan by selling the agricultural produce, which sometimes may not be enough to repay the loan. ii. Rural borrowers normally depend on informal sources of credit who charge a high rate of interest; the repayment amount may sometimes be larger than their income.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q36"
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch18_Economics_Development",
+   "origin": "variant",
+   "basis": "Paper_07 Q37",
+   "basis_question": {
+    "no": 37,
+    "section": "D",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch18_Economics_Development",
+    "text": "\"For development, people look at a mix of goals\". Support the statement with three suitable examples.",
+    "options": null,
+    "figure": null,
+    "answer": "Income is not the only factor leading to development; other factors like freedom, respect, peace and harmony are as important.\ni. If women are engaged in paid work, their dignity in the household and society increases - so besides income, dignity is an important goal.\nii. If there is respect for women, there would be more sharing of housework and greater acceptance of women working outside.\niii. A safe and secure environment may allow more women to take up a variety of jobs or run a business. These are goals other than income; development is not only better income but also other important things in life like human values.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "\"Different persons can have different developmental goals.\" Support the statement with three suitable examples.",
+   "options": null,
+   "answer": "Different people have different aspirations and so different goals:\ni. A landless rural labourer wants more days of work and better wages, and a school for his children, while a prosperous farmer wants a higher and assured price for crops so that his children can study abroad.\nii. A girl expects as much freedom and opportunity as her brother and wants security, rather than only a higher income.\niii. For a rich person development may mean more income, whereas for others it may mean dignity or a clean environment. Thus what is development for one may not be development for another, and goals may even conflict.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "origin": "ncert",
+   "text": "Describe the main features of the Mahatma Gandhi National Rural Employment Guarantee Act, 2005. How does it help to tackle the problem of unemployment in rural India?",
+   "options": null,
+   "answer": "Features of MGNREGA 2005 (3 marks):\ni. It guarantees 100 days of employment in a year to every rural household in the country, i.e. it makes employment a right (Right to Work).\nii. If the government fails to provide employment, it will give unemployment allowances to the people.\niii. The types of work given preference are those that will increase the production from land.\nHow it helps (2 marks): it provides work to the rural unemployed and underemployed, creates durable assets in villages, increases income and production from land, and reduces the migration of labour to cities.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  }
+ ]
+}

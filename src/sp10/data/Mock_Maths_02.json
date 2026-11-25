@@ -1,0 +1,1078 @@
+{
+ "subject": "Maths",
+ "paper": "Mock_02",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "Raju bought a fish from a shop for his aquarium. The shop keeper takes out one fish from a tank containing 15 male fish and 18 female fish. The probability that the fish taken out is a male fish is",
+   "options": [
+    "$\\frac{6}{11}$",
+    "$\\frac{5}{12}$",
+    "$\\frac{7}{11}$",
+    "$\\frac{5}{11}$"
+   ],
+   "figure": null,
+   "answer": "(d) $\\frac{5}{11}$ — total fish $=15+18=33$; $P(\\text{male})=\\frac{15}{33}=\\frac5{11}$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q1"
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "₹ 9,000 were divided equally among a certain number of persons. If there been 20 more persons, each would have got ₹ 160 less. Find the original number of persons.",
+   "options": [
+    "24",
+    "25",
+    "26",
+    "27"
+   ],
+   "figure": null,
+   "answer": "(b) 25 — let the number of persons be $x$: $\\frac{9000}{x}-\\frac{9000}{x+20}=160\\Rightarrow\\frac{9000\\times20}{x(x+20)}=160\\Rightarrow x^2+20x-1125=0\\Rightarrow(x+45)(x-25)=0$, so $x=25$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q4"
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "variant",
+   "basis": "Paper_01 Q18",
+   "basis_question": {
+    "no": 18,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "A cylindrical vessel 32 cm high and 18 cm as the radius of the base, is filled with sand. This bucket is emptied on the ground and a conical heap of sand is formed. If the height of the conical heap is 24 cm, the radius of its base is",
+    "options": [
+     "12 cm",
+     "48 cm",
+     "36 cm",
+     "24 cm"
+    ],
+    "figure": null,
+    "answer": "(c) 36 cm — Volume of sand $= \\pi (18)^2 \\times 32 = 10368\\pi$ cm³. Conical heap: $\\frac{1}{3}\\pi r_2^2 \\times 24 = 10368\\pi \\Rightarrow 8 r_2^2 = 10368 \\Rightarrow r_2^2 = 1296 \\Rightarrow r_2 = 36$ cm.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "A cylindrical tank 27 cm high and having a base of radius 12 cm is filled with sand. The sand is emptied on the ground and a conical heap of height 16 cm is formed. The radius of the base of the heap is",
+   "options": [
+    "18 cm",
+    "27 cm",
+    "36 cm",
+    "24 cm"
+   ],
+   "answer": "(b) 27 cm — Volume of sand $=\\pi(12)^2\\times27=3888\\pi$ cm³. For the cone: $\\frac13\\pi r^2\\times16=3888\\pi\\Rightarrow r^2=729\\Rightarrow r=27$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "For what values of k, the equation $kx^2 - 6x - 2 = 0$ has real roots?",
+   "options": [
+    "$k \\leq -2$",
+    "$k \\leq \\frac{-9}{2}$",
+    "$k \\leq -5$",
+    "$k \\geq \\frac{-9}{2}$"
+   ],
+   "figure": null,
+   "answer": "(d) $k \\geq \\frac{-9}{2}$ — For real roots $b^2-4ac \\geq 0$: $(-6)^2-4\\times k\\times(-2)\\geq 0 \\Rightarrow 36+8k\\geq 0 \\Rightarrow k\\geq \\frac{-9}{2}$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q4"
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "variant",
+   "basis": "Paper_08 Q10",
+   "basis_question": {
+    "no": 10,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch05_Arithmetic_Progressions",
+    "text": "How many three-digit numbers are divisible by 9?",
+    "options": [
+     "86",
+     "100",
+     "96",
+     "90"
+    ],
+    "figure": null,
+    "answer": "(b) 100 — the numbers are 108, 117, ..., 999; $108+(n-1)9=999\\Rightarrow n=100$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "How many three-digit numbers are divisible by 7?",
+   "options": [
+    "128",
+    "129",
+    "127",
+    "130"
+   ],
+   "answer": "(a) 128 — the numbers are 105, 112, ..., 994; $105+(n-1)7=994\\Rightarrow n-1=127\\Rightarrow n=128$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "If $(a, 0)$, $(0, b)$ and $(x, y)$ are collinear, then",
+   "options": [
+    "$ay-bx=1$",
+    "$ax+by=1$",
+    "$ay+bx=ab$",
+    "$ax-by=ab$"
+   ],
+   "figure": null,
+   "answer": "(c) $ay+bx=ab$ — For collinear points the area of the triangle is 0: $\\frac12|a(b-y)+0(y-0)+x(0-b)|=0 \\Rightarrow ab-ay-bx=0 \\Rightarrow ay+bx=ab$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q7"
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "text": "The graph of $y=f(x)$ is shown in the figure for some polynomial $f(x)$. The number of zeroes of $f(x)$ is",
+   "options": [
+    "2",
+    "0",
+    "3",
+    "4"
+   ],
+   "figure": "fig_p01_0.png",
+   "answer": "(b) 0 — The graph of $y=f(x)$ neither intersects nor touches the x-axis, so the number of zeroes of $f(x)$ is 0.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q2"
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "origin": "variant",
+   "basis": "Paper_04 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch06_Triangles",
+    "text": "In the adjoining figure $AC\\parallel BD$. If $EB=4$ cm, $ED=8$ cm, $AC=6$ cm, $AE=3$ cm then $CE$ and $BD$ are respectively",
+    "options": [
+     "4 cm, 6 cm",
+     "7.5 cm, 9.5 cm",
+     "6 cm, 8 cm",
+     "5 cm, 7 cm"
+    ],
+    "figure": "fig_p02_1.png",
+    "answer": "(c) 6 cm, 8 cm — In $\\triangle ACE$ and $\\triangle DEB$: $\\angle AEC=\\angle DEB$ (vertically opposite), $\\angle ECA=\\angle EDB$ (alternate angles, $AC\\parallel BD$), so $\\triangle ACE\\sim\\triangle DEB$ (AA). $\\frac{EB}{AE}=\\frac{ED}{EC}\\Rightarrow\\frac43=\\frac8{EC}\\Rightarrow EC=6$ cm. Also $\\frac{EB}{AE}=\\frac{BD}{AC}\\Rightarrow\\frac43=\\frac{BD}{6}\\Rightarrow BD=8$ cm.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "In the figure, line segments $AB$ and $CD$ intersect at $E$ and $AC\\parallel BD$. If $EB=6$ cm, $ED=9$ cm, $AC=10$ cm and $AE=4$ cm, then $CE$ and $BD$ are respectively",
+   "options": [
+    "6 cm, 15 cm",
+    "8 cm, 12 cm",
+    "6 cm, 12 cm",
+    "5 cm, 15 cm"
+   ],
+   "answer": "(a) 6 cm, 15 cm — $\\triangle ACE\\sim\\triangle BDE$ (AA: vertically opposite angles and alternate angles). $\\frac{EB}{AE}=\\frac{ED}{EC}\\Rightarrow\\frac64=\\frac9{EC}\\Rightarrow EC=6$ cm; $\\frac{EB}{AE}=\\frac{BD}{AC}\\Rightarrow\\frac64=\\frac{BD}{10}\\Rightarrow BD=15$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "In the given figure, if $AB$ is a tangent to the circle with centre $O$ such that $OB=6$ cm and $\\angle AOB=60^\\circ$, then the length of $OA$ is:",
+   "options": [
+    "3 cm",
+    "$4\\sqrt3$ cm",
+    "12 cm",
+    "$3\\sqrt3$ cm"
+   ],
+   "figure": "fig_p03_1.png",
+   "answer": "(c) 12 cm — $\\angle OBA=90^\\circ$, so $\\cos60^\\circ=\\frac{OB}{OA}\\Rightarrow OA=\\frac{6}{1/2}=12$ cm.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q10"
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "text": "If the distance of a tangent to a circle from its centre is 4 cm, then the length of diameter of the circle is:",
+   "options": [
+    "8 cm",
+    "16 cm",
+    "2 cm",
+    "4 cm"
+   ],
+   "figure": null,
+   "answer": "(a) 8 cm — The distance of a tangent from the centre is the radius, 4 cm, so the diameter is 8 cm.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q10"
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "$\\left(\\frac{1}{\\cot^2\\theta}\\right)-\\left(\\frac{1}{\\cos^2\\theta}\\right)$ is equal to:",
+   "options": [
+    "1",
+    "$\\sec^2\\theta$",
+    "-1",
+    "0"
+   ],
+   "figure": null,
+   "answer": "(c) -1 — $\\tan^2\\theta-\\sec^2\\theta=-1$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q12"
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "If the prime factorisation of 2520 is $2^3 \\times 3^a \\times b \\times 7$, then the value of $a + 2b$ is:",
+   "options": [
+    "9",
+    "10",
+    "7",
+    "12"
+   ],
+   "figure": null,
+   "answer": "(d) 12 — $2520 = 2^3\\times 3^2\\times 5\\times 7$, so $a=2$, $b=5$ and $a+2b = 2+2\\times5 = 12$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q1"
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "ncert",
+   "text": "The angle of elevation of the top of a vertical tower from a point on the ground, $20\\sqrt3$ m away from its foot, is $30^\\circ$. The height of the tower is",
+   "options": [
+    "20 m",
+    "$20\\sqrt3$ m",
+    "60 m",
+    "$\\frac{20}{\\sqrt3}$ m"
+   ],
+   "answer": "(a) 20 m — $\\tan30^\\circ=\\frac{h}{20\\sqrt3}\\Rightarrow h=\\frac1{\\sqrt3}\\times20\\sqrt3=20$ m.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "Area of a sector of angle $\\theta$ (in degrees) of a circle with radius $r$ is:",
+   "options": [
+    "$\\frac\\theta{180}\\times\\pi r^2$",
+    "$\\frac\\theta{180}\\times2\\pi r$",
+    "$\\frac\\theta{360}\\times2\\pi r$",
+    "$\\frac\\theta{720}\\times2\\pi r^2$"
+   ],
+   "figure": null,
+   "answer": "(d) $\\frac\\theta{720}\\times2\\pi r^2$ — Area of sector $=\\frac\\theta{360}\\times\\pi r^2=\\frac\\theta{720}\\times2\\pi r^2$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q15"
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "origin": "variant",
+   "basis": "Paper_04 Q15",
+   "basis_question": {
+    "no": 15,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "text": "The angle of the sector of a circle whose area is one-eighth of the area of the circle is:",
+    "options": [
+     "$60^\\circ$",
+     "$45^\\circ$",
+     "$90^\\circ$",
+     "$22\\frac12^\\circ$"
+    ],
+    "figure": null,
+    "answer": "(b) $45^\\circ$ — $\\frac{\\theta}{360^\\circ}=\\frac18\\Rightarrow\\theta=45^\\circ$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "The angle of the sector of a circle whose area is $\\frac5{12}$ of the area of the circle is",
+   "options": [
+    "$120^\\circ$",
+    "$150^\\circ$",
+    "$135^\\circ$",
+    "$75^\\circ$"
+   ],
+   "answer": "(b) $150^\\circ$ — $\\frac{\\theta}{360^\\circ}=\\frac5{12}\\Rightarrow\\theta=150^\\circ$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "origin": "variant",
+   "basis": "Paper_09 Q17",
+   "basis_question": {
+    "no": 17,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch14_Probability",
+    "text": "In an experiment of throwing a pair of dice, the probability of not getting a doublet is:",
+    "options": [
+     "$\\frac15$",
+     "$\\frac16$",
+     "$\\frac56$",
+     "$\\frac1{30}$"
+    ],
+    "figure": null,
+    "answer": "(c) $\\frac56$ — $P(\\text{doublet})=\\frac6{36}=\\frac16$, so $P(\\text{not doublet})=\\frac56$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "Two dice are thrown together. The probability that the sum of the numbers on the dice is a prime number is",
+   "options": [
+    "$\\frac13$",
+    "$\\frac5{12}$",
+    "$\\frac7{12}$",
+    "$\\frac12$"
+   ],
+   "answer": "(b) $\\frac5{12}$ — sums 2, 3, 5, 7, 11 occur in $1+2+4+6+2=15$ ways out of 36; $P=\\frac{15}{36}=\\frac5{12}$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "A dice is thrown once. The probability of getting an odd number is",
+   "options": [
+    "$\\frac{2}{6}$",
+    "$\\frac{4}{6}$",
+    "1",
+    "$\\frac{1}{2}$"
+   ],
+   "figure": null,
+   "answer": "(d) $\\frac{1}{2}$ — Odd numbers 1, 3, 5: $\\frac{3}{6}=\\frac12$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q17"
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "text": "If $\\sum f_iu_i=29$, $\\sum f_i=30$, $a=47.5$ and $h=15$, then the value of $\\bar{x}$ is",
+   "options": [
+    "63",
+    "62",
+    "26",
+    "64"
+   ],
+   "figure": null,
+   "answer": "(b) 62 — $\\bar{x}=a+\\frac{\\sum f_iu_i}{\\sum f_i}\\times h=47.5+\\frac{29}{30}\\times15=47.5+14.5=62$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q18"
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "ncert",
+   "text": "Assertion (A): The volume of a cone of base radius $r$ and height $h$ is $\\pi r^2h$.\nReason (R): The volume of a cone is one-third of the volume of a cylinder of the same base radius and the same height.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "answer": "(d) A is false but R is true. — Volume of the cone is $\\frac13\\pi r^2h$, so A is false; R is true.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Assertion (A): Arithmetic mean between 8 and 12 is 10.\nReason (R): Arithmetic mean between two numbers $a$ and $b$ is given as $\\frac{a+b}{2}$.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q20"
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "origin": "variant",
+   "basis": "Paper_05 Q22",
+   "basis_question": {
+    "no": 22,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch01_Real_Numbers",
+    "text": "Prove that $\\sqrt5$ is an irrational number.",
+    "options": null,
+    "figure": null,
+    "answer": "Assume $\\sqrt5$ is rational: $\\sqrt5=\\frac ab$, where $a,b$ are co-prime integers. Squaring: $5b^2=a^2$, so 5 divides $a^2$, hence 5 divides $a$ ...(i). Let $a=5c$: $5b^2=25c^2\\Rightarrow b^2=5c^2$, so 5 divides $b^2$, hence 5 divides $b$ ...(ii). From (i) and (ii), 5 is a common factor of $a$ and $b$, contradicting that they are co-prime. So our assumption is wrong; $\\sqrt5$ is irrational.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "Prove that $5-\\sqrt3$ is an irrational number, given that $\\sqrt3$ is irrational.",
+   "options": null,
+   "answer": "Assume $5-\\sqrt3$ is rational, say $5-\\sqrt3=\\frac ab$ with $a,b$ integers, $b\\neq0$. Then $\\sqrt3=5-\\frac ab=\\frac{5b-a}{b}$, which is rational. This contradicts the fact that $\\sqrt3$ is irrational. Hence $5-\\sqrt3$ is irrational.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Triangles",
+   "origin": "variant",
+   "basis": "Paper_07 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch06_Triangles",
+    "text": "In the given figure, CM and RN are respectively the medians of $\\triangle ABC$ and $\\triangle PQR$. If $\\triangle ABC\\sim\\triangle PQR$, then prove that $\\triangle AMC\\sim\\triangle PNR$.",
+    "options": null,
+    "figure": "fig_p05_0.png",
+    "answer": "Since $\\triangle ABC\\sim\\triangle PQR$: $\\angle A=\\angle P$ and $\\frac{AB}{PQ}=\\frac{BC}{QR}=\\frac{AC}{PR}$. As CM and RN are medians, $AB=2AM$ and $PQ=2PN$, so $\\frac{2AM}{2PN}=\\frac{AC}{PR}\\Rightarrow\\frac{AM}{PN}=\\frac{AC}{PR}$. With $\\angle A=\\angle P$, by SAS similarity $\\triangle AMC\\sim\\triangle PNR$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "In $\\triangle ABC$ and $\\triangle PQR$, $AD$ and $PS$ are medians drawn to sides $BC$ and $QR$ respectively. If $\\triangle ABC\\sim\\triangle PQR$, prove that $\\triangle ABD\\sim\\triangle PQS$.",
+   "options": null,
+   "answer": "Since $\\triangle ABC\\sim\\triangle PQR$: $\\angle B=\\angle Q$ and $\\frac{AB}{PQ}=\\frac{BC}{QR}$. As $AD$, $PS$ are medians, $BC=2BD$ and $QR=2QS$, so $\\frac{AB}{PQ}=\\frac{2BD}{2QS}=\\frac{BD}{QS}$. With $\\angle B=\\angle Q$, by SAS similarity $\\triangle ABD\\sim\\triangle PQS$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "origin": "variant",
+   "basis": "Paper_02 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch10_Circles",
+    "text": "In fig common tangents PQ and RS to two circles intersect at A. Prove that PQ = RS.",
+    "options": null,
+    "figure": "fig_p04_0.png",
+    "answer": "Tangents drawn from an external point to a circle are equal. So AP = AR and AQ = AS. Adding, AP + AQ = AR + AS, i.e. PQ = RS. Hence proved.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle with centre $O$. If $\\angle APB=80^\\circ$, find $\\angle OAB$.",
+   "options": null,
+   "answer": "$\\angle OAP=\\angle OBP=90^\\circ$, so in quadrilateral $OAPB$: $\\angle AOB=360^\\circ-90^\\circ-90^\\circ-80^\\circ=100^\\circ$. In $\\triangle OAB$, $OA=OB$ (radii), so $\\angle OAB=\\frac{180^\\circ-100^\\circ}{2}=40^\\circ$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove that $\\frac{1+\\sec\\theta-\\tan\\theta}{1+\\sec\\theta+\\tan\\theta}=\\frac{1-\\sin\\theta}{\\cos\\theta}$.",
+   "options": null,
+   "figure": null,
+   "answer": "LHS $=\\frac{(\\sec^2\\theta-\\tan^2\\theta)+(\\sec\\theta-\\tan\\theta)}{1+\\sec\\theta+\\tan\\theta}=\\frac{(\\sec\\theta-\\tan\\theta)(\\sec\\theta+\\tan\\theta+1)}{1+\\sec\\theta+\\tan\\theta}=\\sec\\theta-\\tan\\theta=\\frac1{\\cos\\theta}-\\frac{\\sin\\theta}{\\cos\\theta}=\\frac{1-\\sin\\theta}{\\cos\\theta}=$ RHS.",
+   "or": {
+    "text": "Prove that: $(\\operatorname{cosec}A-\\sin A)(\\sec A-\\cos A)=\\frac1{\\tan A+\\cot A}$",
+    "answer": "LHS $=\\left(\\frac1{\\sin A}-\\sin A\\right)\\left(\\frac1{\\cos A}-\\cos A\\right)=\\frac{1-\\sin^2A}{\\sin A}\\cdot\\frac{1-\\cos^2A}{\\cos A}=\\frac{\\cos^2A}{\\sin A}\\cdot\\frac{\\sin^2A}{\\cos A}=\\sin A\\cos A$. RHS $=\\frac1{\\frac{\\sin A}{\\cos A}+\\frac{\\cos A}{\\sin A}}=\\frac{\\sin A\\cos A}{\\sin^2A+\\cos^2A}=\\sin A\\cos A$. LHS = RHS.",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q21"
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "origin": "variant",
+   "basis": "Paper_07 Q24",
+   "basis_question": {
+    "no": 24,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "text": "Find the perimeter of the shaded region if ABCD is a square of side 21 cm and APB and CPD are semicircles. ($\\pi=\\frac{22}{7}$)",
+    "options": null,
+    "figure": "fig_p05_1.png",
+    "answer": "Radius of each semicircle $r=\\frac{21}{2}$ cm. Perimeter of shaded region $=AD+BC+$ arcs of the semicircles APB and CPD $=21+21+2(\\pi r)=42+2\\left(\\frac{22}{7}\\times\\frac{21}{2}\\right)=42+66=108$ cm.",
+    "or": {
+     "chapter": "Ch11_Areas_Related_to_Circles",
+     "text": "A horse is tethered to one corner of a rectangular field of dimensions 70 m $\\times$ 52 m, by a rope of length 21 m. How much area of the field can it graze?",
+     "options": null,
+     "figure": null,
+     "answer": "The area grazed is a quadrant of a circle of radius 21 m: $\\frac14\\pi r^2=\\frac14\\times\\frac{22}{7}\\times21^2=\\frac{693}{2}=346.5\\ \\mathrm{m^2}$."
+    },
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "$ABCD$ is a square of side 28 cm. Semicircles are drawn inside the square with $AB$ and $CD$ as diameters. The shaded region is the part of the square lying outside the two semicircles. Find the perimeter of the shaded region. (Use $\\pi=\\frac{22}7$)",
+   "options": null,
+   "answer": "Radius of each semicircle $r=14$ cm. Perimeter $=AD+BC+$ two semicircular arcs $=28+28+2(\\pi r)=56+2\\left(\\frac{22}7\\times14\\right)=56+88=144$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "text": "A horse is tethered to one corner of a rectangular field of dimensions 80 m $\\times$ 50 m by a rope of length 28 m. How much area of the field can it graze? (Use $\\pi=\\frac{22}7$)",
+    "options": null,
+    "figure": null,
+    "answer": "The grazed region is a quadrant of radius 28 m: $\\frac14\\pi r^2=\\frac14\\times\\frac{22}7\\times28\\times28=616\\ \\mathrm{m^2}$."
+   }
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "There is a circular path around a sports field. Sonia takes 18 minutes to drive one round of the field, while Ravi takes 12 minutes for the same. Suppose they both start at the same point and at the same time and go in the same direction. After how many minutes will they meet again at the starting point?",
+   "options": null,
+   "figure": null,
+   "answer": "They meet again after LCM(18, 12) minutes. $18=2\\times3^2$, $12=2^2\\times3$, so LCM $=2^2\\times3^2=36$. Sonia and Ravi will meet again at the starting point after 36 minutes.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q26"
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "variant",
+   "basis": "Paper_02 Q27",
+   "basis_question": {
+    "no": 27,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch07_Coordinate_Geometry",
+    "text": "A point P divides the line segment joining the points A (3, - 5) and B (- 4, 8) such that $\\frac{AP}{PB}=\\frac{k}{1}$. If P lies on the line x + y = 0, then find the value of k.",
+    "options": null,
+    "figure": null,
+    "answer": "P divides AB in the ratio $k:1$. By the section formula, P $=\\left(\\frac{-4k+3}{k+1},\\frac{8k-5}{k+1}\\right)$. Since P lies on $x+y=0$: $\\frac{-4k+3}{k+1}+\\frac{8k-5}{k+1}=0\\Rightarrow-4k+3+8k-5=0\\Rightarrow4k-2=0\\Rightarrow k=\\frac{1}{2}$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "A point $P$ divides the line segment joining $A(-2,5)$ and $B(4,-7)$ such that $\\frac{AP}{PB}=\\frac k1$. If $P$ lies on the line $x+2y=0$, find the value of $k$.",
+   "options": null,
+   "answer": "By the section formula $P=\\left(\\frac{4k-2}{k+1},\\frac{-7k+5}{k+1}\\right)$. Since $P$ lies on $x+2y=0$: $\\frac{4k-2}{k+1}+\\frac{2(-7k+5)}{k+1}=0\\Rightarrow4k-2-14k+10=0\\Rightarrow-10k+8=0\\Rightarrow k=\\frac45$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "ncert",
+   "text": "A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train.",
+   "options": null,
+   "answer": "Let the speed be $x$ km/h. $\\frac{360}{x}-\\frac{360}{x+5}=1\\Rightarrow360\\times5=x(x+5)\\Rightarrow x^2+5x-1800=0\\Rightarrow(x+45)(x-40)=0$. Since speed cannot be negative, $x=40$. The speed of the train is 40 km/h. (Check: 9 h at 40 km/h; 8 h at 45 km/h.)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "origin": "variant",
+   "basis": "Paper_01 Q31",
+   "basis_question": {
+    "no": 31,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch10_Circles",
+    "text": "In the given figure, a triangle ABC is drawn to circumscribe a circle of radius 3 cm such that the segments BD and DC into which BC is divided by the point of contact D, are of lengths 6 cm and 9 cm respectively. If the area of $\\triangle ABC$ = 54 cm² then find the lengths of sides AB and AC.",
+    "options": null,
+    "figure": "fig_p05_1.png",
+    "answer": "Let the circle touch AB at E and AC at F. Tangents from the same external point are equal: $AE = AF = x$, $BD = BE = 6$ cm, $CD = CF = 9$ cm. Area($\\triangle ABC$) = Area($\\triangle BOC$) + Area($\\triangle AOB$) + Area($\\triangle AOC$): $54 = \\frac{1}{2} \\times BC \\times OD + \\frac{1}{2} \\times AB \\times OE + \\frac{1}{2} \\times AC \\times OF \\Rightarrow 108 = 15 \\times 3 + (6+x) \\times 3 + (9+x) \\times 3 \\Rightarrow 36 = 15 + 6 + x + 9 + x \\Rightarrow 36 = 30 + 2x \\Rightarrow x = 3$ cm. So $AB = 6 + 3 = 9$ cm and $AC = 9 + 3 = 12$ cm.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "A triangle $ABC$ is drawn to circumscribe a circle of radius 4 cm. The circle touches $BC$ at $D$ such that $BD=8$ cm and $DC=6$ cm. If the area of $\\triangle ABC$ is 84 cm², find the lengths of the sides $AB$ and $AC$.",
+   "options": null,
+   "answer": "Let the circle touch $AB$ at $E$ and $AC$ at $F$, and $AE=AF=x$. Tangents from a point are equal: $BE=BD=8$, $CF=CD=6$. Area $=\\frac12(BC+AB+AC)\\times4$: $84=2[14+(8+x)+(6+x)]=2(28+2x)\\Rightarrow42=28+2x\\Rightarrow x=7$ cm. So $AB=8+7=15$ cm and $AC=6+7=13$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "Prove the trigonometric identity: $\\sec^6\\theta=\\tan^6\\theta+3\\tan^2\\theta\\sec^2\\theta+1$",
+   "options": null,
+   "figure": null,
+   "answer": "Prove $\\sec^6\\theta-\\tan^6\\theta=3\\tan^2\\theta\\sec^2\\theta+1$. LHS $=(\\sec^2\\theta)^3-(\\tan^2\\theta)^3=(\\sec^2\\theta-\\tan^2\\theta)[\\sec^4\\theta+\\sec^2\\theta\\tan^2\\theta+\\tan^4\\theta]=\\sec^4\\theta+\\tan^4\\theta+\\sec^2\\theta\\tan^2\\theta=(\\sec^2\\theta-\\tan^2\\theta)^2+3\\sec^2\\theta\\tan^2\\theta=1+3\\sec^2\\theta\\tan^2\\theta=$ RHS.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q30"
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "A path separates two walls. A ladder leaning against one wall rests at a point on the path. It reaches a height of 90 m on the wall and makes an angle of $60^\\circ$ with the ground. If while resting at the same point on the path, it were made to lean against the other wall, it would have made an angle of $45^\\circ$ with the ground. Find the height it would have reached on the second wall.",
+   "options": null,
+   "figure": null,
+   "answer": "Let AB be the path, with the ladder resting at C. In right $\\triangle DAC$ (height 90 m): $\\operatorname{cosec}60^\\circ=\\frac{DC}{AD}\\Rightarrow\\frac{2}{\\sqrt{3}}=\\frac{DC}{90}\\Rightarrow DC=\\frac{180}{\\sqrt{3}}$ m (ladder length). The ladder length is the same, so $CE=DC=\\frac{180}{\\sqrt{3}}$ m. In right $\\triangle EBC$: $\\sin45^\\circ=\\frac{BE}{CE}\\Rightarrow BE=\\frac{1}{\\sqrt{2}}\\times\\frac{180}{\\sqrt{3}}=30\\sqrt{6}\\approx73.47$ m.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q31"
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "origin": "ncert",
+   "text": "A boat takes 18 km upstream and 36 km downstream in 6 hours. It takes 30 km upstream and 24 km downstream in 7 hours. Find the speed of the boat in still water and the speed of the stream.",
+   "options": null,
+   "answer": "Let speed of boat $=x$ km/h, stream $=y$ km/h. Put $u=\\frac1{x-y}$, $v=\\frac1{x+y}$. Then $18u+36v=6$, i.e. $3u+6v=1$ ...(i); $30u+24v=7$ ...(ii). (i)$\\times10$: $30u+60v=10$. Subtracting (ii): $36v=3\\Rightarrow v=\\frac1{12}$. Then $3u=1-\\frac12\\Rightarrow u=\\frac16$. So $x-y=6$ and $x+y=12$, giving $x=9$, $y=3$. Speed of boat in still water $=9$ km/h; speed of stream $=3$ km/h. (Check: $\\frac{18}6+\\frac{36}{12}=6$, $\\frac{30}6+\\frac{24}{12}=7$.)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+    "text": "The denominator of a fraction is 4 more than its numerator. If 3 is added to both the numerator and the denominator, the fraction becomes $\\frac45$. Form a pair of linear equations and find the fraction.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the fraction be $\\frac xy$. Then $y-x=4$ ...(i) and $\\frac{x+3}{y+3}=\\frac45\\Rightarrow5x+15=4y+12\\Rightarrow5x-4y=-3$ ...(ii). From (i) $y=x+4$; in (ii): $5x-4x-16=-3\\Rightarrow x=13$, $y=17$. The fraction is $\\frac{13}{17}$."
+   }
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "ncert",
+   "text": "Show that the points $A(1,2)$, $B(4,3)$, $C(3,6)$ and $D(0,5)$ are the vertices of a square. Also find its area.",
+   "options": null,
+   "answer": "$AB=\\sqrt{3^2+1^2}=\\sqrt{10}$, $BC=\\sqrt{(-1)^2+3^2}=\\sqrt{10}$, $CD=\\sqrt{3^2+1^2}=\\sqrt{10}$, $DA=\\sqrt{1^2+3^2}=\\sqrt{10}$. All four sides are equal. Diagonals: $AC=\\sqrt{2^2+4^2}=\\sqrt{20}$, $BD=\\sqrt{4^2+2^2}=\\sqrt{20}$, so the diagonals are equal. A quadrilateral with equal sides and equal diagonals is a square. Area $=(\\sqrt{10})^2=10$ square units.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch07_Coordinate_Geometry",
+    "text": "Find the ratio in which the line $3x+y-9=0$ divides the line segment joining the points $(1,3)$ and $(2,7)$. Also find the point of division.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the line divide the segment in the ratio $k:1$ at $P=\\left(\\frac{2k+1}{k+1},\\frac{7k+3}{k+1}\\right)$. P lies on the line: $3(2k+1)+(7k+3)-9(k+1)=0\\Rightarrow4k-3=0\\Rightarrow k=\\frac34$. Ratio $=3:4$. $P=\\left(\\frac{10}7,\\frac{33}7\\right)$ (check: $3\\times\\frac{10}7+\\frac{33}7=9$)."
+   }
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "variant",
+   "basis": "Paper_05 Q35",
+   "basis_question": {
+    "no": 35,
+    "section": "D",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "A conical vessel of radius 6 cm and height 8 cm is completely filled with water. A sphere is lowered into the water and its size is such that when it touches the sides, it is just immersed as shown in Figure. What fraction of water over flows?",
+    "options": null,
+    "figure": "fig_p07_0.png",
+    "answer": "Volume of cone $V_2=\\frac13\\pi\\times6^2\\times8=96\\pi$ cm$^3$. Slant height $l=\\sqrt{6^2+8^2}=10$ cm. Let the sphere's radius be $r$ (it is the in-radius of the triangular section). In right $\\triangle MRO$, $\\sin\\theta=\\frac{OM}{OR}$ where $\\sin\\theta=\\frac{6}{10}=\\frac35$, $OM=r$ and $OR=8-r$: $\\frac r{8-r}=\\frac35\\Rightarrow5r=24-3r\\Rightarrow r=3$ cm. Volume of sphere $V_1=\\frac43\\pi\\times3^3=36\\pi$ cm$^3$. The water that flows out equals the volume of the sphere. Fraction $=\\frac{V_1}{V_2}=\\frac{36\\pi}{96\\pi}=\\frac38$.",
+    "or": {
+     "text": "A spherical glass vessel (shown below) has a cylindrical neck, which is 8 cm long and 2 cm wide. The diameter of the spherical part is 9 cm. Find the capacity of the glass vessel in mL. (Take 1 cm$^3$ = 1 mL and $\\pi=\\frac{22}7$)",
+     "figure": "fig_p07_1.png",
+     "answer": "Volume of vessel $=$ volume of sphere $+$ volume of cylinder $=\\frac43\\pi R^3+\\pi r^2h=\\frac43\\times\\frac{22}7\\times\\frac92\\times\\frac92\\times\\frac92+\\frac{22}7\\times1\\times1\\times8=407$ cm$^3=407$ mL.",
+     "chapter": "Ch12_Surface_Areas_and_Volumes",
+     "options": null
+    },
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "A conical vessel of base radius 5 cm and height 12 cm is completely filled with water. A sphere is lowered into the water and its size is such that it just touches the curved surface of the cone and the water surface, so that it is just immersed. What fraction of the water overflows?",
+   "options": null,
+   "answer": "Slant height $=\\sqrt{5^2+12^2}=13$ cm. Volume of cone $=\\frac13\\pi(5)^2(12)=100\\pi$ cm³. The sphere is the incircle of the axial section (isosceles triangle with sides 13, 13, 10): area $=\\frac12\\times10\\times12=60$, $s=\\frac{13+13+10}2=18$, so $r=\\frac{60}{18}=\\frac{10}3$ cm. (Equivalently, $\\frac r{12-r}=\\frac5{13}\\Rightarrow r=\\frac{10}3$.) Volume of sphere $=\\frac43\\pi\\left(\\frac{10}3\\right)^3=\\frac{4000\\pi}{81}$ cm³. Water overflowing equals the sphere's volume; fraction $=\\frac{4000\\pi/81}{100\\pi}=\\frac{40}{81}$.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "A spherical glass vessel has a cylindrical neck 14 cm long and 7 cm wide (diameter). The diameter of the spherical part is 21 cm. Find the capacity of the vessel in mL. (Take 1 cm³ = 1 mL and $\\pi=\\frac{22}7$)",
+    "options": null,
+    "figure": null,
+    "answer": "Volume $=\\frac43\\pi R^3+\\pi r^2h=\\frac43\\times\\frac{22}7\\times\\left(\\frac{21}2\\right)^3+\\frac{22}7\\times\\left(\\frac72\\right)^2\\times14=4851+539=5390$ cm³ $=5390$ mL."
+   }
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "ncert",
+   "text": "If the sum of the first 6 terms of an AP is 72 and the sum of its first 15 terms is 450, find the sum of its first $n$ terms. Hence find its 10th term.",
+   "options": null,
+   "answer": "$S_6=\\frac62(2a+5d)=72\\Rightarrow2a+5d=24$ ...(i). $S_{15}=\\frac{15}2(2a+14d)=450\\Rightarrow2a+14d=60$ ...(ii). Subtracting: $9d=36\\Rightarrow d=4$, then $a=2$. $S_n=\\frac n2[4+4(n-1)]=2n^2$. $a_{10}=S_{10}-S_9=200-162=38$ (also $2+9\\times4=38$).",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch05_Arithmetic_Progressions",
+    "text": "How many terms of the AP $8,13,18,\\ldots$ must be taken so that their sum is 204?",
+    "options": null,
+    "figure": null,
+    "answer": "$a=8$, $d=5$. $\\frac n2[16+5(n-1)]=204\\Rightarrow n(5n+11)=408\\Rightarrow5n^2+11n-408=0$. $D=121+8160=8281=91^2$, $n=\\frac{-11\\pm91}{10}$, so $n=8$ (the value $-10.2$ is rejected). 8 terms are needed (check: $S_8=4(16+35)=204$)."
+   }
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_Polynomials",
+   "text": "The below picture are few natural examples of parabolic shape which is represented by a quadratic polynomial. A parabolic arch is an arch in the shape of a parabola. In structures, their curve represents an efficient method of load, and so can be found in bridges and in architecture in a variety of forms.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "In the standard form of quadratic polynomial, $ax^2+bx+c$, what are a, b and c?",
+     "marks": 1,
+     "options": null,
+     "answer": "a is a non zero real number and b and c are any real numbers."
+    },
+    {
+     "text": "If the roots of the quadratic polynomial are equal, what is the discriminant D?",
+     "marks": 1,
+     "options": null,
+     "answer": "D = 0"
+    },
+    {
+     "text": "If $\\alpha$ and $\\frac{1}{\\alpha}$ are the zeroes of the quadratic polynomial $2x^2-x+8k$, then find the value of k?",
+     "marks": 2,
+     "options": null,
+     "answer": "Product of zeroes $\\alpha\\times\\frac{1}{\\alpha}=\\frac{8k}{2}\\Rightarrow1=4k\\Rightarrow k=\\frac{1}{4}.$",
+     "or": {
+      "text": "What is the relation between zeros and coefficient for a quadratic polynomial?",
+      "options": null,
+      "answer": "$\\alpha+\\beta=-\\frac{b}{a}$ i.e. $\\frac{-\\text{coefficient of }x}{\\text{coefficient of }x^2}$; $\\alpha\\beta=\\frac{c}{a}$ i.e. $\\frac{\\text{constant term}}{\\text{coeff of }x^2}$."
+     }
+    }
+   ],
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q36"
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_Statistics",
+   "origin": "variant",
+   "basis": "Paper_02 Q37",
+   "basis_question": {
+    "no": 37,
+    "section": "E",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch13_Statistics",
+    "text": "BINGO is game of chance. The host has 75 balls numbered 1 through 75. Each player has a BINGO card with some numbers written on it. The participant cancels the number on the card when called out a number written on the ball selected at random. Whosoever cancels all the numbers on his/her card, says BINGO and wins the game.\nThe table given below, shows the data of one such game where 48 balls were used before Tara said BINGO.\n\n| Numbers announced | Number of times |\n|---|---|\n| 0 - 15 | 8 |\n| 15 - 30 | 9 |\n| 30 - 45 | 10 |\n| 45 - 60 | 12 |\n| 60 - 75 | 9 |\n\nBased on the above information, answer the following:",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "Write the median class.",
+      "marks": 1,
+      "options": null,
+      "answer": "Cumulative frequencies: 8, 17, 27, 39, 48 ($N=48$). $\\frac{N}{2}=24$, so the median class is 30 - 45."
+     },
+     {
+      "text": "When first ball was picked up, what was the probability of calling out an even number?",
+      "marks": 1,
+      "options": null,
+      "answer": "P(picking up an even number) $=\\frac{37}{75}$."
+     },
+     {
+      "text": "Find median of the given data.",
+      "marks": 2,
+      "options": null,
+      "answer": "Median $=30+\\frac{\\frac{48}{2}-17}{10}\\times15=40.5$",
+      "or": {
+       "text": "Find mode of the given data.",
+       "options": null,
+       "answer": "Modal class is 45 - 60. Mode $=45+\\frac{12-10}{2\\times12-10-9}\\times15=51$."
+      }
+     }
+    ],
+    "paper": "Paper_02"
+   },
+   "text": "A school conducted an online quiz for its Class X students. The time taken (in minutes) by 50 students to complete the quiz is given below.\n\n| Time taken (in min) | Number of students |\n|---|---|\n| 10 - 20 | 7 |\n| 20 - 30 | 10 |\n| 30 - 40 | 16 |\n| 40 - 50 | 12 |\n| 50 - 60 | 5 |\n\nBased on the above information, answer the following:",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "Write the median class.",
+     "marks": 1,
+     "options": null,
+     "answer": "Cumulative frequencies: 7, 17, 33, 45, 50 ($N=50$). $\\frac N2=25$, so the median class is 30 - 40."
+    },
+    {
+     "text": "If a student is chosen at random, what is the probability that the student took 40 minutes or more?",
+     "marks": 1,
+     "options": null,
+     "answer": "Students taking 40 min or more $=12+5=17$, so $P=\\frac{17}{50}$."
+    },
+    {
+     "text": "Find the median of the given data.",
+     "marks": 2,
+     "options": null,
+     "answer": "Median $=l+\\frac{\\frac N2-cf}{f}\\times h=30+\\frac{25-17}{16}\\times10=30+5=35$ minutes.",
+     "or": {
+      "text": "Find the mode of the given data.",
+      "options": null,
+      "answer": "Modal class is 30 - 40. Mode $=30+\\frac{16-10}{2\\times16-10-12}\\times10=30+\\frac6{10}\\times10=36$ minutes."
+     }
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch06_Triangles",
+   "origin": "variant",
+   "basis": "Paper_10 Q38",
+   "basis_question": {
+    "no": 38,
+    "section": "E",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch06_Triangles",
+    "text": "Ashok wanted to determine the height of a tree on the corner of his block. He knew that a certain fence by the tree was 4 feet tall. At 3 PM, he measured the shadow of the fence to be 2.5 feet tall. Then he measured the tree's shadow to be 11.3 feet.",
+    "options": null,
+    "figure": "fig_p07_0.png",
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "What is the height of the tree?",
+      "marks": 1,
+      "options": null,
+      "answer": "The fence (AB = 4 ft, shadow BC = 2.5 ft) and the tree (PQ, shadow QR = 11.3 ft) form similar triangles: $\\frac{AB}{PQ}=\\frac{BC}{QR}\\Rightarrow\\frac4{PQ}=\\frac{2.5}{11.3}\\Rightarrow PQ=18.08$ feet."
+     },
+     {
+      "text": "What will be length of shadow of tree at 12:00 pm?",
+      "marks": 1,
+      "options": null,
+      "answer": "0 (the sun is overhead at noon, so the shadow length is zero)."
+     },
+     {
+      "text": "Write the name triangle formed for this situation.",
+      "marks": 2,
+      "options": null,
+      "answer": "Right triangle.",
+      "or": {
+       "text": "What will be the length of wall at 12:00 pm?",
+       "options": null,
+       "figure": null,
+       "answer": "Zero (as given in the official solution)."
+      }
+     }
+    ],
+    "paper": "Paper_10"
+   },
+   "text": "Meera wanted to find the height of a lamp post near her house. At 4 PM she measured the shadow of a vertical stick 2 m tall to be 3 m long. At the same time the shadow of the lamp post was 21 m long. (The stick and the lamp post are both vertical, and the ground is level.)",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "What is the height of the lamp post?",
+     "marks": 1,
+     "options": null,
+     "answer": "The stick and the lamp post with their shadows form similar triangles: $\\frac{2}{h}=\\frac{3}{21}\\Rightarrow h=14$ m."
+    },
+    {
+     "text": "Later in the day the shadow of the stick becomes 1.5 m. What is the length of the shadow of the lamp post at that time?",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\frac{2}{14}=\\frac{1.5}{x}\\Rightarrow x=10.5$ m."
+    },
+    {
+     "text": "Name the criterion by which the two triangles formed are similar, and give the reason.",
+     "marks": 2,
+     "options": null,
+     "answer": "AA similarity: each triangle has a right angle at the foot of the vertical object, and the sun's rays make the same angle with the ground at the same time, so two angles are equal.",
+     "or": {
+      "text": "Find the distance from the top of the lamp post to the tip of its shadow at 4 PM.",
+      "options": null,
+      "answer": "By Pythagoras: $\\sqrt{14^2+21^2}=\\sqrt{637}=7\\sqrt{13}\\approx25.2$ m."
+     }
+    }
+   ],
+   "figure": null,
+   "or": null
+  }
+ ]
+}

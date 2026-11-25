@@ -1,0 +1,6 @@
+Hindi items 290
+mock Hindi 1 80
+mock Hindi 2 80
+mock Hindi 3 80
+mock Hindi 4 80
+mock Hindi 5 80

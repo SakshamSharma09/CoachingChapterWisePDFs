@@ -18,6 +18,8 @@ FOLDER = {"Maths": "Maths", "Science": "Science", "SST": "Social_Science", "Engl
 TITLE = {"Maths": "MATHEMATICS", "Science": "SCIENCE", "SST": "SOCIAL SCIENCE", "English": "ENGLISH", "Hindi": "HINDI"}
 PAPERS = ["CBSE_Official"] + ["Paper_%02d" % i for i in range(1, 11)]
 PTAG = {p: ("CBSE" if p == "CBSE_Official" else "SP" + p[-2:]) for p in PAPERS}
+PTAG["Generated"] = "Gen"; PTAG["Mock"] = "Mock"
+PAPERS_ALL = PAPERS + ["Generated"]
 
 CSS = """
 .q{display:grid;grid-template-columns:28px 1fr 46px;column-gap:4px;margin:5px 0;}
@@ -63,6 +65,7 @@ def figs(it, paper, sub):
     return out
 
 def mk_item(q, paper, sub, alt=False):
+    paper = q.get("paper") or paper
     sps = []
     for sp in q.get("subparts") or []:
         d = dict(text=sp.get("text") or "", marks=sp.get("marks") or 0, options=sp.get("options"), answer=sp.get("answer"),
@@ -75,9 +78,9 @@ def mk_item(q, paper, sub, alt=False):
         m = re.search(r"SKILL_\w+", q.get("note") or "")
         if m: chap = m.group(0)
     return dict(sub=sub, paper=paper, no=q["no"], alt=alt, section=q.get("section"), marks=q.get("marks") or 0, type=q.get("type"),
-                chapter=chap, text=q.get("text") or "", options=q.get("options"), figs=figs(q, paper, sub),
+                chapter=chap, text=q.get("text") or "", options=q.get("options"), figs=(figs(q, paper, sub) or ([str(WORK / "SST" / "Paper_05" / "fig_p03_0.png")] if (sub == "SST" and q.get("type") == "map" and paper in ("Generated", "Mock")) else [])),
                 afigs=[str(WORK / sub / paper / q["answer_figure"])] if q.get("answer_figure") and (WORK / sub / paper / q["answer_figure"]).exists() else [],
-                answer=q.get("answer"), subparts=sps, note=q.get("note"), srcs=[(paper, q["no"], alt)])
+                answer=q.get("answer"), subparts=sps, note=q.get("note"), srcs=[(paper, q["no"], alt)], origin=q.get("origin"), basis=q.get("basis"))
 
 def load(sub):
     items = []
@@ -92,6 +95,10 @@ def load(sub):
                 oo["chapter"] = o.get("chapter") or q["chapter"]
                 oo["figure"] = o.get("figure"); oo["subparts"] = o.get("subparts"); oo["answer"] = o.get("answer")
                 items += split_lit(mk_item(oo, p, sub, alt=True))
+    for f in sorted((HERE / "data").glob(f"Gen_{sub}_*.json")):
+        for i, q in enumerate(json.load(open(f, encoding="utf-8"))["questions"], 1):
+            q = dict(q); q["no"] = q.get("no") or i
+            items += split_lit(mk_item(q, "Generated", sub))
     return items
 
 def split_lit(it):
@@ -121,7 +128,7 @@ def dedupe(items):
         s = sig(it)[:1500]; hit = None
         if len(s) < 8: kept.append(it); by[it["chapter"]].append((s, it)); continue
         for s2, k in by[it["chapter"]]:
-            if s2 == s or difflib.SequenceMatcher(None, s, s2, autojunk=False).ratio() >= 0.9:
+            if s2 == s or difflib.SequenceMatcher(None, s, s2, autojunk=False).ratio() >= (0.985 if it["srcs"][0][0] == "Generated" or k["srcs"][0][0] == "Generated" else 0.9):
                 hit = k; break
         if hit: hit["srcs"] += it["srcs"]
         else: kept.append(it); by[it["chapter"]].append((s, it))
@@ -166,6 +173,11 @@ def figs_html(fs, small=False):
     return f"<div class='fg{' sm' if small else ''}'>" + "".join(f"<img src='{Path(f).as_uri()}'>" for f in fs) + "</div>"
 
 def src_tag(it, with_ch=False):
+    if it.get("srctxt"):
+        return f"<span class='src'>{it['srctxt']}" + (f" · {it['chapter']}" if with_ch else "") + "</span>"
+    if it["srcs"] and it["srcs"][0][0] == "Generated":
+        o = {"ncert": "NCERT-style", "variant": "changed-values version", "related": "related question"}.get(it.get("origin"), "generated")
+        return f"<span class='src'>Generated ({o}" + (f"; based on {it['basis']}" if it.get("basis") else "") + ")" + (f" · {it['chapter']}" if with_ch else "") + "</span>"
     s = ", ".join(sorted({f"{PTAG[p]} Q{n}{'(OR)' if a else ''}" for p, n, a in it["srcs"]}, key=lambda x: (x[:4] != "CBSE", x)))
     return f"<span class='src'>Source: {s}" + (f" · {it['chapter']}" if with_ch else "") + "</span>"
 
@@ -189,8 +201,9 @@ def body_html(it, key=False, chtag=False):
         if it["answer"]: h += f"<div class='ans'>{rich(it['answer'])}{figs_html(it['afigs'], True)}</div>"
         elif it["afigs"]: h += f"<div class='ans'>{figs_html(it['afigs'], True)}</div>"
         if it.get("note"):
-            h += f"<div class='nt'>Note: {rich(it['note'])}</div>"
-    return h + src_tag(it, chtag)
+            nt = re.sub(r"SKILL_\w+[;:]?\s*", "", it["note"]).strip()
+            if nt: h += f"<div class='nt'>Note: {rich(nt)}</div>"
+    return h + ('' if it.get('nosrc') else src_tag(it, chtag))
 
 def page(sub, title, sub_title, stats, qhtml):
     hi = sub == "Hindi"
@@ -275,13 +288,14 @@ def make_tests(sub, items, total=80):
     tests = {}
     rnd = random.Random(2026)
     for g, pool in sorted(groups.items()):
-        pool = dedupe(sorted(pool, key=lambda x: (PAPERS.index(x["paper"]), x["no"])))
+        pool = dedupe(sorted(pool, key=lambda x: (PAPERS_ALL.index(x["paper"]), x["no"])))
         # also drop duplicates across chapters
         seen = []; uniq = []
         for it in pool:
             s = sig(it)[:800]
-            if any(difflib.SequenceMatcher(None, s, s2, autojunk=False).ratio() >= 0.9 for s2 in seen): continue
-            seen.append(s); uniq.append(it)
+            gen = it["srcs"][0][0] == "Generated"
+            if any(difflib.SequenceMatcher(None, s, s2, autojunk=False).ratio() >= (0.985 if (gen or g2) else 0.9) for s2, g2 in seen): continue
+            seen.append((s, gen)); uniq.append(it)
         pool = uniq
         bych = collections.defaultdict(list)
         for it in pool: bych[it["chapter"]].append(it)
@@ -337,6 +351,46 @@ def build_tests(sub, items, pg):
             to_pdf_retry(pg, html, out / f"{g}_Test_{n:02d}{'_Answer_Key' if key else ''}.pdf", f"Mastermind Coaching Classes — Class 10 {sub} · {gname} test {n}")
         print("test", g, n, len(its), "questions", flush=True)
 
+# ------------------------------------------------------------------ mock papers
+SEC_NAME = {"Maths": {"A": "Section A — Multiple choice and assertion–reason (1 mark each)", "B": "Section B — Very short answer (2 marks each)", "C": "Section C — Short answer (3 marks each)", "D": "Section D — Long answer (5 marks each)", "E": "Section E — Case-based questions (4 marks each)"}}
+ORIGIN = {"real": "real sample-paper question", "variant": "changed-values version", "ncert": "NCERT-style question"}
+
+def mock_item(q, sub, n, key=True):
+    it = mk_item(q, "Mock", sub); it["nosrc"] = not key
+    o = q.get("origin"); b = q.get("basis")
+    txt = {"real": f"Real sample question ({b})", "variant": f"Variant of {b}", "ncert": "NCERT-style question (original)"}.get(o, "")
+    it["srctxt"] = f"Mock paper source: {txt}"
+    return it
+
+def build_mocks(sub, pg):
+    out = REPO / "Class_10" / FOLDER[sub] / "Mock_Papers_2026-27"; out.mkdir(parents=True, exist_ok=True)
+    for f in sorted((HERE / "data").glob(f"Mock_{sub}_*.json")):
+        j = json.load(open(f, encoding="utf-8")); n = int(f.stem[-2:])
+        if any(q.get("text") is None and not q.get("subparts") for q in j["questions"]): print("incomplete", f.name); continue
+        qs = j["questions"]; tot = sum(q["marks"] for q in qs)
+        for key in (False, True):
+            qh = ""; last = None
+            for q in qs:
+                it = mock_item(q, sub, n, key); sec = q.get("section")
+                if sec != last:
+                    cnt = [x for x in qs if x.get("section") == sec]
+                    qh += f"<div class='sec'><span>Section {sec}</span><span class='pill'>{len(cnt)} questions · {sum(x['marks'] for x in cnt)} marks</span></div>"; last = sec
+                it_or = None
+                if q.get("or"):
+                    oo = dict(q); o = q["or"]
+                    oo.update({k: o.get(k) for k in ("text", "options", "figure", "answer", "subparts", "note") if k in o}); oo["or"] = None
+                    it_or = mock_item(oo, sub, n, key)
+                body = body_html(it, key, key)
+                if it_or: body += "<div style='text-align:center;font-weight:700;margin:4px 0'>OR</div>" + body_html(it_or, key, key)
+                qh += f"<div class='q'><div class='no'>{q['no']}.</div><div>{body}</div><div class='mk'>[{q['marks']}]</div></div>"
+            qh += f"<div class='end'><span>{'END OF ANSWER KEY' if key else 'END OF PAPER'}</span><span>Total: {tot} marks</span></div>"
+            instr = "" if key else ("<div class='ttl'><div class='c'><b>Time allowed:</b> 3 hours &nbsp; <b>Maximum marks:</b> 80. All questions are compulsory; internal choice is given in some questions. Marks are shown at the right of each question.</div></div>")
+            html = page(sub, f"CLASS 10 — {TITLE[sub]} · MOCK PAPER {n} (2026–27 PATTERN) · {'ANSWER KEY' if key else '80 MARKS'}",
+                        "Pattern follows the 2026–27 CBSE sample paper; about 35% real sample questions, 40% changed-value versions, 25% NCERT-style questions" if not key else "Each key line names the source of the question (real sample paper / changed-values version / NCERT-style)",
+                        [f"Questions: {len(qs)}", f"Total marks: {tot}", "Time: 3 hours"], instr + qh)
+            to_pdf_retry(pg, html, out / f"Mock_Paper_{n:02d}{'_Answer_Key' if key else ''}.pdf", f"Mastermind Coaching Classes — Class 10 {sub} · Mock paper {n}")
+        print("mock", sub, n, tot, flush=True)
+
 if __name__ == "__main__":
     sub = sys.argv[1]; what = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith("--") else "both"
     only = sys.argv[sys.argv.index("--only") + 1] if "--only" in sys.argv else None
@@ -349,4 +403,5 @@ if __name__ == "__main__":
         br = p.chromium.launch(**({'executable_path': os.environ.get('CHROMIUM_PATH') or _c[-1]} if (os.environ.get('CHROMIUM_PATH') or _c) else {})); pg = br.new_page()
         if what in ("ws", "both"): build_worksheets(sub, items, pg, only)
         if what in ("tests", "both"): build_tests(sub, items, pg)
+        if what in ("mock",): build_mocks(sub, pg)
         br.close()

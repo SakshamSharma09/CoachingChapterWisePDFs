@@ -1,0 +1,60 @@
+English items 519
+Ch01_A_Letter_to_God 19 -> 19 questions 73 marks
+Ch02_Nelson_Mandela_Long_Walk_to_Freedom 15 -> 15 questions 63 marks
+Ch03_Two_Stories_about_Flying 16 -> 16 questions 80 marks
+Ch04_From_the_Diary_of_Anne_Frank 19 -> 19 questions 63 marks
+Ch05_Glimpses_of_India 18 -> 18 questions 58 marks
+Ch06_Mijbil_the_Otter 9 -> 9 questions 31 marks
+Ch07_Madam_Rides_the_Bus 10 -> 10 questions 37 marks
+Ch08_The_Sermon_at_Benares 13 -> 13 questions 49 marks
+Ch09_The_Proposal 15 -> 15 questions 51 marks
+Ch10_Footprints_A_Triumph_of_Surgery 16 -> 16 questions 50 marks
+Ch11_Footprints_The_Thiefs_Story 17 -> 17 questions 83 marks
+Ch12_Footprints_The_Midnight_Visitor 17 -> 17 questions 64 marks
+Ch13_Footprints_A_Question_of_Trust 13 -> 13 questions 47 marks
+Ch14_Footprints_Footprints_Without_Feet 12 -> 12 questions 38 marks
+Ch15_Footprints_The_Making_of_a_Scientist 10 -> 10 questions 49 marks
+Ch16_Footprints_The_Necklace 11 -> 11 questions 58 marks
+Ch17_Footprints_Bholi 23 -> 23 questions 82 marks
+Ch18_Footprints_The_Book_That_Saved_the_Earth 13 -> 13 questions 51 marks
+Ch19_Dust_of_Snow 17 -> 17 questions 55 marks
+Ch20_Fire_and_Ice 22 -> 22 questions 85 marks
+Ch21_A_Tiger_in_the_Zoo 22 -> 22 questions 80 marks
+Ch22_How_to_Tell_Wild_Animals 11 -> 11 questions 46 marks
+Ch23_The_Ball_Poem 13 -> 13 questions 46 marks
+Ch24_Amanda 17 -> 17 questions 71 marks
+Ch25_The_Trees 12 -> 12 questions 48 marks
+Ch26_Fog 13 -> 13 questions 43 marks
+Ch27_The_Tale_of_Custard_the_Dragon 23 -> 23 questions 83 marks
+Ch28_For_Anne_Gregory 12 -> 12 questions 40 marks
+SKILL_Grammar 17 -> 17 questions 170 marks
+SKILL_Reading 24 -> 24 questions 240 marks
+SKILL_Writing 50 -> 49 questions 250 marks
+test SecA_Reading 1 8 questions
+test SecA_Reading 2 8 questions
+test SecA_Reading 3 8 questions
+test SecB_Writing 1 16 questions
+test SecB_Writing 2 15 questions
+test SecB_Writing 3 16 questions
+test SecC_Grammar 1 8 questions
+test SecC_Grammar 2 8 questions
+test SecD_Literature 1 19 questions
+test SecD_Literature 2 21 questions
+test SecD_Literature 3 20 questions
+test SecD_Literature 4 20 questions
+test SecD_Literature 5 20 questions
+test SecD_Literature 6 21 questions
+test SecD_Literature 7 21 questions
+test SecD_Literature 8 21 questions
+test SecD_Literature 9 21 questions
+test SecD_Literature 10 20 questions
+test SecD_Literature 11 23 questions
+test SecD_Literature 12 20 questions
+test SecD_Literature 13 21 questions
+test SecD_Literature 14 21 questions
+test SecD_Literature 15 22 questions
+test SecD_Literature 16 22 questions
+test SecD_Literature 17 23 questions
+test SecD_Literature 18 20 questions
+test SecD_Literature 19 23 questions
+test SecD_Literature 20 22 questions

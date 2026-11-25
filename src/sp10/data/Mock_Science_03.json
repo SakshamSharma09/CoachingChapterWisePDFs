@@ -1,0 +1,1137 @@
+{
+ "subject": "Science",
+ "paper": "Mock_03",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "variant",
+   "basis": "Paper_09 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch07_How_do_Organisms_Reproduce",
+    "text": "Choose the correct order of the stages of binary fission in Leishmania.",
+    "options": [
+     "I, III, V, II, IV",
+     "I, III, II, V, IV",
+     "I, II, III, V, IV",
+     "I, II, III, IV, V"
+    ],
+    "figure": "fig_p02_0.png",
+    "answer": "(b) I, III, II, V, IV. Binary fission in Leishmania occurs in a definite orientation: a constriction appears after nuclear division, the membrane expands inwards from the centre, the cytoplasm divides into two equal pieces each with a single nucleus, and the daughter cells split off.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "Choose the correct order of the events in the binary fission of Amoeba.\nI. A constriction appears in the middle of the cell.\nII. The nucleus elongates and divides into two.\nIII. The cytoplasm divides, giving two daughter cells, each with one nucleus.\nIV. The two daughter Amoebae grow to full size.",
+   "options": [
+    "I, II, III, IV",
+    "II, I, III, IV",
+    "II, III, I, IV",
+    "I, III, II, IV"
+   ],
+   "answer": "(b) II, I, III, IV. In Amoeba the nucleus divides first, then a constriction appears and the cytoplasm divides into two daughter cells, each of which grows to full size.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "In human males, all the chromosomes are paired perfectly except one. This/these unpaired chromosome is/are\ni. large chromosome\nii. small chromosome\niii. Y-chromosome\niv. X-chromosome",
+   "options": [
+    "(i) and (ii)",
+    "(iii) and (iv)",
+    "(iii) only",
+    "(ii) and (iv)"
+   ],
+   "figure": null,
+   "answer": "(b) (iii) and (iv) — males have XY (23rd pair), the heterogametic sex; the 22 pairs of autosomes are perfectly paired, the unpaired chromosomes are X and Y.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q2"
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "An organism which breaks down the food material outside the body and then absorbs it is",
+   "options": [
+    "a bacteria, Rhizobium",
+    "a plant parasite, Cuscuta",
+    "an animal parasite, Tapeworm",
+    "a fungi, Rhizopus"
+   ],
+   "figure": null,
+   "answer": "(d) a fungi, Rhizopus — fungi break down food outside the body and then absorb it.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q1"
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "variant",
+   "basis": "Paper_06 Q6",
+   "basis_question": {
+    "no": 6,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch07_How_do_Organisms_Reproduce",
+    "text": "The incorrect statement about placenta is:",
+    "options": [
+     "It is a disc embedded in the uterine wall.",
+     "It has a very small surface area for glucose and oxygen to pass from mother to the embryo.",
+     "It contains villi on the embryo's side of the tissue.",
+     "The embryo gets nutrition from the mother's blood through it."
+    ],
+    "figure": null,
+    "answer": "(b) It has a very small surface area for glucose and oxygen to pass from mother to the embryo. (The placenta actually has a large surface area.)",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "The incorrect statement about the human male reproductive system is:",
+   "options": [
+    "The testes lie outside the abdominal cavity in the scrotum because sperm formation needs a lower temperature.",
+    "Sperms produced in the testes are delivered through the vas deferens.",
+    "The secretions of the prostate gland and seminal vesicles provide nourishment to sperms and make their transport easier.",
+    "The urethra carries only urine and never carries sperms."
+   ],
+   "answer": "(d) The urethra carries only urine and never carries sperms. (The urethra is a common passage for both urine and semen/sperms.)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "variant",
+   "basis": "Paper_01 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch13_Our_Environment",
+    "text": "An example of a man-made ecosystem is:",
+    "options": [
+     "Grassland",
+     "Garden",
+     "Desert",
+     "River"
+    ],
+    "figure": null,
+    "answer": "(b) Garden - an ecosystem may be natural or man-made; a garden is man-made, whereas deserts, rivers and grasslands are natural ecosystems.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Which of the following is a natural ecosystem?",
+   "options": [
+    "Aquarium",
+    "Crop field",
+    "Forest",
+    "Garden"
+   ],
+   "answer": "(c) Forest. Forest is a natural ecosystem; an aquarium, a crop field and a garden are man-made (artificial) ecosystems.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "variant",
+   "basis": "Paper_10 Q7",
+   "basis_question": {
+    "no": 7,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch07_How_do_Organisms_Reproduce",
+    "text": "Which of the following statements is not true about a bud in Hydra?",
+    "options": [
+     "(a) It forms due to repeated cell division at one specific site.",
+     "(b) It detaches from the parent body as soon as it is produced.",
+     "(c) It is an outgrowth.",
+     "(d) It becomes a new independent individual."
+    ],
+    "figure": null,
+    "answer": "(b) It detaches from the parent body as soon as it is produced.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Which of the following statements is not true about regeneration?",
+   "options": [
+    "It is carried out by specialised cells in organisms like Hydra and Planaria.",
+    "The specialised cells divide and form a mass of cells.",
+    "The mass of cells changes into different cell types and tissues.",
+    "Every multicellular organism can regenerate a lost body part into a complete individual, e.g. human beings."
+   ],
+   "answer": "(d). Regeneration is seen only in simple organisms such as Hydra and Planaria; complex organisms like human beings cannot regenerate a whole individual from a cut part.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "ncert",
+   "text": "The part of the human brain that maintains the posture and balance of the body and ensures precision of voluntary actions is the:",
+   "options": [
+    "cerebrum",
+    "cerebellum",
+    "medulla",
+    "pituitary"
+   ],
+   "answer": "(b) cerebellum. It is part of the hind-brain and is responsible for posture, balance and precision of voluntary actions such as picking up a pencil.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch08_Heredity",
+   "text": "Assertion (A): Each human trait is influenced by both paternal and maternal DNA.\nReason (R): As compared to the father, the mother contributes more amount of genetic material to the child.",
+   "options": [
+    "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+    "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+    "Assertion (A) is true, but Reason (R) is false.",
+    "Assertion (A) is false, but Reason (R) is true."
+   ],
+   "figure": null,
+   "answer": "(c) Assertion (A) is true, but Reason (R) is false. An individual inherits half of the nuclear genetic material from each parent (23 chromosomes each); the mother does not contribute more.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q8"
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Assertion (A): Cytokinins are present in highest concentration in fruits and seeds.\nReason (R): Cytokinins are responsible for promoting cell division.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. Cytokinins promote cell division; their highest concentrations occur in fruit and seeds, i.e. areas of rapid cell division.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q9"
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "What would happen, if all the microorganisms are removed from the environment?",
+   "options": null,
+   "figure": null,
+   "answer": "If microorganisms are removed from the earth's environment, dead bodies of plants and animals would pile up all around the Earth making it a difficult place to live in; environmental pollution would accumulate. The nutrient cycle would stop, disturbing the ecological balance.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q10"
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "variant",
+   "basis": "Paper_04 Q11",
+   "basis_question": {
+    "no": 11,
+    "section": "A",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch13_Our_Environment",
+    "text": "What is biomass? State the basic principle behind the working of a biogas plant. Name the main combustible component of biogas and also state its percentage.",
+    "options": null,
+    "figure": null,
+    "answer": "Biomass: the waste materials produced by plants and animals from which energy can be obtained on a renewable basis.\nPrinciple: anaerobic decomposition of biomass.\nMain combustible component: methane (CH4).\nPercentage: 75%.",
+    "or": {
+     "chapter": "Ch13_Our_Environment",
+     "text": "What is garbage? What does garbage consist of? What is disposal of waste?",
+     "options": null,
+     "figure": null,
+     "answer": "The household waste or rubbish is called garbage. It consists of left-over food, fruit and vegetable peels, fallen leaves of potted plants, waste paper, wooden objects, ragged clothes, etc.\nDisposal of waste means getting rid of unwanted material which would otherwise occupy space and cause pollution. The method depends on the nature of waste; biodegradable waste must be separated from non-biodegradable waste, as together they cannot be treated well (e.g. recycled)."
+    },
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "State the ten per cent law of energy flow in a food chain. If producers of an ecosystem fix 20,000 J of energy, how much energy will be available to the secondary consumers in the food chain grass $\\rightarrow$ grasshopper $\\rightarrow$ frog $\\rightarrow$ snake? (Frog is the secondary consumer.)",
+   "options": null,
+   "answer": "Ten per cent law: only about 10% of the energy of one trophic level is passed on to the next trophic level; the rest is lost as heat in respiration and other life processes. (1)\nProducers (grass) = 20,000 J; primary consumer (grasshopper) = 10% of 20,000 = 2,000 J; secondary consumer (frog) = 10% of 2,000 = 200 J. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "Differentiate between biodegradable and non-biodegradable substances. Give one example of each.",
+    "answer": "Biodegradable substances are broken down by the action of micro-organisms (decomposers) into simple harmless substances, e.g. vegetable peels, paper, cotton. Non-biodegradable substances are not broken down by biological processes and persist in the environment, causing pollution, e.g. plastic, DDT, glass.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch13_Our_Environment"
+   }
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "variant",
+   "basis": "Paper_05 Q12",
+   "basis_question": {
+    "no": 12,
+    "section": "A",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "Name a plant growth hormone synthesized at the shoot tip. Explain its effect on the growth of a plant in response to light.",
+    "options": null,
+    "figure": null,
+    "answer": "Auxin. When light comes from one side, auxin at the shoot tip diffuses towards the shaded side of the shoot. The higher concentration of auxin on the shaded side makes those cells grow longer than those on the lighted side, so the shoot bends towards the light.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "Name a plant hormone that promotes cell division. Where in a plant is it present in greater concentration and why?",
+   "options": null,
+   "answer": "Cytokinin. It is present in greater concentration in areas of rapid cell division, such as fruits and seeds, because it promotes cell division there (1 + 1).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "ncert",
+   "text": "Differentiate between pollination and fertilisation in a flower. State the site at which each takes place.",
+   "options": null,
+   "answer": "Pollination: transfer of pollen grains from the anther of a stamen to the stigma of a carpel (same flower or another flower). (1)\nFertilisation: fusion of the male gamete (from the pollen tube) with the female gamete (egg cell) to form the zygote. (1)\nSite: pollination takes place on the stigma; fertilisation takes place in the ovule inside the ovary. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "ncert",
+   "text": "Describe the role of each of the following in the digestion of food in human beings: (i) saliva, (ii) bile, (iii) pancreatic juice.",
+   "options": null,
+   "answer": "(i) Saliva contains the enzyme salivary amylase, which breaks down starch into sugar (maltose). (1)\n(ii) Bile, secreted by the liver, makes the food alkaline so that pancreatic enzymes can act, and emulsifies (breaks into small globules) the fats. (1)\n(iii) Pancreatic juice contains trypsin, which digests proteins, and lipase, which breaks down emulsified fats. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "variant",
+   "basis": "Paper_06 Q15",
+   "basis_question": {
+    "no": 15,
+    "section": "A",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch05_Life_Processes",
+    "text": "Read the following text carefully and answer the questions that follow:\nNutrition is the process of taking food by an organism and the utilization of food for energy. This is a vital process that helps living beings obtain their energy from various sources.\nNutrients are substances that provide nutrition.\nThe mode of nutrition varies from one species to another. Plants do photosynthesis to prepare their own food. Animals depend on plants for food.",
+    "options": null,
+    "figure": "fig_p03_0.png",
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "What do you understand by nutrition?",
+      "marks": 1,
+      "options": null,
+      "answer": "Nutrition is the process of taking food by an organism and the utilization of food for energy."
+     },
+     {
+      "text": "Mention how organisms like bread moulds and mushrooms obtain their food.",
+      "marks": 1,
+      "options": null,
+      "answer": "They break down the food materials outside the body and then absorb them (saprophytic mode of nutrition)."
+     },
+     {
+      "text": "What do you understand by autotrophic nutrition?",
+      "marks": 2,
+      "options": null,
+      "answer": "Autotrophic nutrition is the mode in which organisms prepare their own food; plants are autotrophs and perform photosynthesis to prepare their own food, while animals depend on plants for food.",
+      "or": {
+       "text": "What is common for Cuscuta, ticks, and leeches?",
+       "answer": "They are all parasites. A parasite receives its food from the host but gives no benefit to the host in return; the host may be a plant or an animal."
+      }
+     }
+    ],
+    "paper": "Paper_06"
+   },
+   "text": "Read the following text carefully and answer the questions that follow:\nRespiration is the process in which food is broken down in the cells to release energy. The first step, the breakdown of glucose (a 6-carbon molecule) into a 3-carbon molecule called pyruvate, takes place in the cytoplasm. Pyruvate is then broken down further in different ways depending on the availability of oxygen. In the presence of oxygen, pyruvate is broken down in the mitochondria into carbon dioxide and water, releasing a large amount of energy. In the absence of oxygen, as in yeast, pyruvate is converted into ethanol and carbon dioxide. The energy released is stored as ATP, which is used for various activities of the cell.",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "Where does the first step of respiration, the breakdown of glucose, take place? Name the 3-carbon compound formed.",
+     "marks": 1,
+     "options": null,
+     "answer": "It takes place in the cytoplasm; the 3-carbon compound formed is pyruvate."
+    },
+    {
+     "text": "Name the cell organelle in which aerobic respiration takes place.",
+     "marks": 1,
+     "options": null,
+     "answer": "Mitochondria."
+    },
+    {
+     "text": "Write the products of anaerobic respiration in (a) yeast and (b) human muscle cells.",
+     "marks": 2,
+     "options": null,
+     "answer": "(a) In yeast: ethanol and carbon dioxide (with release of energy). (b) In human muscle cells: lactic acid (a 3-carbon compound) with release of energy.",
+     "or": {
+      "text": "Why do we sometimes get muscle cramps after sudden, vigorous exercise?",
+      "answer": "During sudden vigorous activity the supply of oxygen to muscle cells is insufficient, so pyruvate is converted into lactic acid (anaerobic respiration). The build-up of lactic acid in the muscles causes cramps."
+     }
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch08_Heredity",
+   "text": "How is the sex of the child determined in human beings?",
+   "options": null,
+   "figure": null,
+   "answer": "Sex chromosomes determine sex in human beings: males have 44 + XY chromosomes and females 44 + XX. Males produce two types of gametes (50% carrying X and 50% carrying Y); females produce only one type, all carrying X (females are homogametic). If a sperm carrying Y fuses with an egg (X), the zygote is XY and develops into a male child. If a sperm carrying X fuses with an egg (X), the zygote is XX and develops into a female child.",
+   "or": {
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "Compare nervous and hormonal mechanism for control.",
+    "options": null,
+    "figure": null,
+    "answer": "| Nervous system | Hormonal system |\n|---|---|\n| Made of neurons | Made of hormones |\n| Messages transmitted as electrical impulses | Messages transmitted as chemicals called hormones |\n| Messages travel along nerve fibres | Messages travel through the blood stream |\n| Messages travel very quickly | Messages travel very slowly |\n| Effect of message usually lasts a very short while | Effect of message usually lasts longer |\n| Sense organs are receptors; nerve cells located in them receive information | Glands are effectors which secrete hormones when the brain commands |"
+   },
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q16"
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Soap doesn't work well with woollen garments because:\nA. It is basic in nature and woollen garments have acidic dyes.\nB. It is acidic in nature and woollen garments have basic dyes.",
+   "options": [
+    "(A)",
+    "(B)",
+    "None of these",
+    "Both (A) and (B)"
+   ],
+   "figure": null,
+   "answer": "(a) (A). Soap is basic in nature; acid dyes are used to dye protein fibres such as wool and silk, so the soap gets neutralised by the acidic dyes.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q18"
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "variant",
+   "basis": "Paper_05 Q19",
+   "basis_question": {
+    "no": 19,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch03_Metals_and_Non-metals",
+    "text": "Which one of the following metals is malleable and a poor conductor of electricity?",
+    "options": [
+     "Copper",
+     "Silver",
+     "Lead",
+     "Zinc"
+    ],
+    "figure": null,
+    "answer": "(c) Lead",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "Which one of the following metals is so soft that it can be cut with a knife and is stored under kerosene oil?",
+   "options": [
+    "Aluminium",
+    "Sodium",
+    "Magnesium",
+    "Zinc"
+   ],
+   "answer": "(b) Sodium. Sodium is a very soft, highly reactive metal; it is kept immersed in kerosene to prevent it from reacting with oxygen and moisture of air.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Few organic reactions are given below. Which of the reactions is not named correctly?",
+   "options": [
+    "$\\mathrm{CH_3CH_2OH \\xrightarrow{acidified\\ K_2Cr_2O_7} CH_3COOH}$ (Cumbustion)",
+    "$\\mathrm{CH_3COOC_2H_5 \\xrightarrow{NaOH} CH_3COONa + C_2H_5OH}$ (Saponification)",
+    "$\\mathrm{CH_3COONa + NaOH \\rightarrow CH_4 + Na_2CO_3}$ (Decarboxylation)",
+    "$\\mathrm{CH_3COOH + C_2H_5OH \\xrightarrow{H^+} CH_3COOC_2H_5 + H_2O}$ (Esterification)"
+   ],
+   "figure": null,
+   "answer": "(a) — the conversion of ethanol to acetic acid with acidified potassium dichromate is an oxidation reaction, not combustion.",
+   "or": null,
+   "subparts": null,
+   "note": "Option (d) read from the page image.",
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q22"
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which of the given statement is true or false:\nStatement A: Valeric acid is the common name of hexane.\nStatement B: Glycerol is added in the manufacturing of soap.",
+   "options": [
+    "Statement B is true and statement A is false",
+    "Neither statement A nor statement B is false",
+    "Both the statements A and B are false",
+    "Statement A is true and statement B is false"
+   ],
+   "figure": null,
+   "answer": "(c) Both the statements A and B are false (as given in the paper's key). Valeric acid is another name for pentanoic acid; soap is made from fat/oil and NaOH/KOH, giving soap and glycerol (glycerol is a by-product, not added).",
+   "or": null,
+   "subparts": null,
+   "note": "The key's option (c) 'both false' is the paper's answer; statement B is arguably misread by the key.",
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q18"
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Aluminium foil is used for wrapping food because :",
+   "options": [
+    "it is a good conductor of heat",
+    "it is sonorous",
+    "it is ductile",
+    "it is malleable"
+   ],
+   "figure": null,
+   "answer": "(d) it is malleable",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q19"
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "variant",
+   "basis": "Paper_04 Q20",
+   "basis_question": {
+    "no": 20,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "Match the following with the correct response:\n\n| Column A | Column B |\n|---|---|\n| (1) Soap | (A) Sodium salts of long-chain of sulphonic acids |\n| (2) Detergents | (B) Esterification |\n| (3) The reaction of $CH_3COOH$ with metal hydroxides | (C) Neutralization |\n| (4) The reaction of $CH_3COOH$ with alcohols | (D) Sodium salts of long-chain fatty acids |",
+    "options": [
+     "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+     "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+     "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+     "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)"
+    ],
+    "figure": null,
+    "answer": "(a) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b). Soaps are sodium/potassium salts of long-chain fatty acids; detergents are sodium salts of long-chain sulphonic acids; $CH_3COOH + NaOH \\rightarrow CH_3COONa + H_2O$ is neutralisation; $CH_3COOH + C_2H_5OH \\rightarrow CH_3COOC_2H_5 + H_2O$ is esterification.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Match the following with the correct response:\n\n| Column A | Column B |\n|---|---|\n| (1) Ethanol heated with excess conc. $H_2SO_4$ at 443 K | (A) Saponification |\n| (2) Vegetable oil + $H_2$ in presence of nickel catalyst | (B) Hydrogenation |\n| (3) Ester + NaOH | (C) Dehydration to give ethene |\n| (4) Ethanol + acidified $K_2Cr_2O_7$ | (D) Oxidation to ethanoic acid |",
+   "options": [
+    "(1) - (B), (2) - (C), (3) - (A), (4) - (D)",
+    "(1) - (C), (2) - (B), (3) - (A), (4) - (D)",
+    "(1) - (C), (2) - (B), (3) - (D), (4) - (A)",
+    "(1) - (A), (2) - (D), (3) - (C), (4) - (B)"
+   ],
+   "answer": "(b) (1) - (C), (2) - (B), (3) - (A), (4) - (D). Hot conc. $H_2SO_4$ removes water from ethanol giving ethene; unsaturated oils add hydrogen (Ni) to form saturated fats; alkaline hydrolysis of an ester is saponification; acidified $K_2Cr_2O_7$ oxidises ethanol to ethanoic acid.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "ncert",
+   "text": "A solution turns red litmus paper blue. The pH of the solution is likely to be:",
+   "options": [
+    "1",
+    "4",
+    "5",
+    "10"
+   ],
+   "answer": "(d) 10. A solution that turns red litmus blue is basic, so its pH is greater than 7.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "origin": "ncert",
+   "text": "Assertion (A): The reaction of quicklime with water is an exothermic reaction.\nReason (R): Heat is absorbed during the formation of slaked lime from quicklime and water.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(c) A is true but R is false. $CaO + H_2O \\rightarrow Ca(OH)_2 + heat$; a large amount of heat is released (not absorbed), so the reaction is exothermic.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_01 Q25",
+   "basis_question": {
+    "no": 25,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "Metal compound A reacts with dilute hydrochloric acid to produce effervescence. The gas evolved extinguishes a burning candle. Write a balanced chemical equation for the reaction if one of the compounds formed is calcium chloride.",
+    "options": null,
+    "figure": null,
+    "answer": "Carbon dioxide is the gas that extinguishes a burning candle; it is produced with effervescence when dilute HCl acts on a metal carbonate or hydrogen carbonate. Since calcium chloride is formed, compound A is calcium carbonate (calcium hydrogen carbonate does not exist as a solid).\n$\\mathrm{CaCO_3(s) + 2HCl(aq) \\rightarrow CaCl_2(aq) + CO_2(g) + H_2O(l)}$",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "A metal carbonate X reacts with dilute hydrochloric acid to produce brisk effervescence. The gas evolved turns lime water milky. If sodium chloride is one of the products formed, identify X, write a balanced chemical equation for the reaction, and state what happens when the gas is passed in excess through lime water.",
+   "options": null,
+   "answer": "X is sodium carbonate. $\\mathrm{Na_2CO_3(s) + 2HCl(aq) \\rightarrow 2NaCl(aq) + H_2O(l) + CO_2(g)}$ (1)\nWhen $CO_2$ is passed in excess through lime water, the milkiness first appears due to $CaCO_3$ and then disappears because soluble calcium hydrogencarbonate is formed: $\\mathrm{CaCO_3 + H_2O + CO_2 \\rightarrow Ca(HCO_3)_2}$ (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Give an example of each of the following :\ni. A carbon compound containing two double bonds.\nii. A molecule in which central atom is linked to three other atoms.\niii. An organic compound which is soluble in water.",
+   "options": null,
+   "figure": null,
+   "answer": "i. Carbon dioxide ($\\mathrm{O=C=O}$).\nii. Ammonia ($\\mathrm{NH_3}$).\niii. Ammonium chloride (as given in the key; ethanol / ethanoic acid are also water-soluble organic compounds).",
+   "or": {
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "Write the names and structural formulae of all the possible isomers of hexane.",
+    "options": null,
+    "figure": null,
+    "answer": "The key shows only one structure, n-hexane: $\\mathrm{CH_3-CH_2-CH_2-CH_2-CH_2-CH_3}$ (drawn as a chain of six carbons, each bonded to hydrogens). (The five isomers of hexane are: n-hexane, 2-methylpentane, 3-methylpentane, 2,2-dimethylbutane and 2,3-dimethylbutane.)"
+   },
+   "subparts": null,
+   "note": "Key's answer to part iii (ammonium chloride) is not an organic compound; kept as printed.",
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q26"
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "ncert",
+   "text": "Explain the following:\n(a) Sodium, potassium and lithium are stored under oil.\n(b) Aluminium is a highly reactive metal, yet it is used to make cooking utensils.\n(c) Carbonate and sulphide ores are usually converted into oxides during the process of extraction.",
+   "options": null,
+   "answer": "(a) These metals are so reactive that they react vigorously with oxygen and moisture of air and may catch fire; keeping them under oil prevents contact with air and water. (1)\n(b) Aluminium forms a thin, tough, protective layer of aluminium oxide on its surface which prevents further reaction/corrosion. (1)\n(c) Metals are obtained more easily from their oxides by reduction than from carbonates or sulphides; carbonate ores are calcined and sulphide ores are roasted to convert them into oxides. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_06 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "B",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "Read the following text carefully and answer the questions that follow:\nThe dissolving of an acid or a base in water is a highly exothermic reaction. Care must be taken while mixing concentrated nitric acid or sulphuric acid with water. The acid must always be added slowly to water with constant stirring. If water is added to a concentrated acid, the heat generated may cause the mixture to splash out and cause burns. The glass container may also break due to excessive local heating. Look out for the warning sign on the can of concentrated sulphuric acid and on the bottle of sodium hydroxide pellets.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "What is the exothermic reaction?",
+      "marks": 1,
+      "options": null,
+      "answer": "An exothermic reaction is a chemical reaction that releases energy in the form of heat or light."
+     },
+     {
+      "text": "Write an example of an exothermic reaction.",
+      "marks": 1,
+      "options": null,
+      "answer": "Mixing (dissolving) an acid with water is a highly exothermic reaction."
+     },
+     {
+      "text": "How will you obtain sulphuric acid from an acidic oxide?",
+      "marks": 2,
+      "options": null,
+      "answer": "Dissolving sulphur trioxide (an acidic oxide) in water gives sulphuric acid in an exothermic reaction: $SO_3 + H_2O \\rightarrow H_2SO_4$",
+      "or": {
+       "text": "While diluting an acid, why is it recommended that the acid should be added to water and not water to the acid?",
+       "answer": "Dissolving an acid in water is exothermic. If water is added to the acid, the large amount of heat generated can make the mixture splash out and cause burns. Hence acid is added slowly to water with constant stirring."
+      }
+     }
+    ],
+    "paper": "Paper_06"
+   },
+   "text": "Read the following text carefully and answer the questions that follow:\nSodium hydrogencarbonate, commonly called baking soda, is a mild non-corrosive basic salt. It is produced using sodium chloride as one of the raw materials: $NaCl + H_2O + CO_2 + NH_3 \\rightarrow NH_4Cl + NaHCO_3$. Baking powder is a mixture of baking soda and a mild edible acid such as tartaric acid. When baking powder is heated or mixed with water, carbon dioxide is produced, which makes breads and cakes soft and spongy. Baking soda is also used in some antacids and in soda-acid fire extinguishers.",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "Write the chemical formula of baking soda.",
+     "marks": 1,
+     "options": null,
+     "answer": "$NaHCO_3$ (sodium hydrogencarbonate)."
+    },
+    {
+     "text": "Name the gas that makes cakes soft and spongy when baking powder is used.",
+     "marks": 1,
+     "options": null,
+     "answer": "Carbon dioxide ($CO_2$)."
+    },
+    {
+     "text": "Write the balanced chemical equation for the reaction that takes place when baking soda is heated.",
+     "marks": 2,
+     "options": null,
+     "answer": "$2NaHCO_3 \\xrightarrow{Heat} Na_2CO_3 + H_2O + CO_2$ (formulae 1, balancing 1)",
+     "or": {
+      "text": "Why is baking soda used as an antacid? Write the equation of the reaction involved.",
+      "answer": "It is a mild non-corrosive base which neutralises the excess hydrochloric acid in the stomach and gives relief from acidity without harming the stomach. $NaHCO_3 + HCl \\rightarrow NaCl + H_2O + CO_2$"
+     }
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "text": "i. Identify the type of reactions taking place in each of the following cases and write the balanced chemical equations for the reactions\na. Barium chloride solution is mixed, with copper sulphate solution and a white precipitate is obtained.\nb. On heating copper powder in air, the surface of the copper powder turns black.\nii. What happens when hydrogen gas is passed over the heated copper oxide? Write the chemical equation involved in this reaction.",
+   "options": null,
+   "figure": null,
+   "answer": "i. a. $\\mathrm{BaCl_2(aq) + CuSO_4(aq) \\rightarrow BaSO_4(s) + CuCl_2(aq)}$ — double displacement (precipitation) reaction.\nb. $\\mathrm{2Cu(s) + O_2(g) \\xrightarrow{Heat} 2CuO(s)}$ — combination (oxidation) reaction; copper is oxidised.\nii. The black coating of copper oxide on the surface turns brown as copper is obtained: $\\mathrm{CuO(s) + H_2(g) \\xrightarrow{Heat} Cu(s) + H_2O(l)}$ (redox reaction).",
+   "or": {
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "A cloth strip dipped in onion juice is used for testing a liquid X. The liquid X changes its odour. Which type of an indicator is onion juice? The liquid X turns blue litmus red. List the observations the liquid X will show on reacting with the following:\ni. Zinc granules\nii. Solid sodium carbonate\nWrite the chemical equations for the reactions involved.",
+    "options": null,
+    "figure": null,
+    "answer": "Onion juice is an olfactory indicator (its odour changes in acid/base). Liquid X turns blue litmus red, so it is an acid.\ni. With zinc granules: hydrogen gas is evolved with effervescence; acid + Zn $\\rightarrow$ zinc salt + $\\mathrm{H_2}$ (e.g. $\\mathrm{Zn + 2HCl \\rightarrow ZnCl_2 + H_2}$).\nii. With solid sodium carbonate: carbon dioxide gas is evolved with brisk effervescence; acid + $\\mathrm{Na_2CO_3}$ $\\rightarrow$ sodium salt + $\\mathrm{H_2O + CO_2}$ (e.g. $\\mathrm{Na_2CO_3 + 2HCl \\rightarrow 2NaCl + H_2O + CO_2}$)."
+   },
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q29"
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Electricity",
+   "origin": "ncert",
+   "text": "Three resistors of $2\\,\\Omega$, $3\\,\\Omega$ and $6\\,\\Omega$ are connected in parallel. Their equivalent resistance is:",
+   "options": [
+    "$11\\,\\Omega$",
+    "$1\\,\\Omega$",
+    "$2\\,\\Omega$",
+    "$\\frac{1}{11}\\,\\Omega$"
+   ],
+   "answer": "(b) $1\\,\\Omega$. $\\frac{1}{R} = \\frac{1}{2}+\\frac{1}{3}+\\frac{1}{6} = \\frac{3+2+1}{6} = 1$, so $R = 1\\,\\Omega$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "origin": "variant",
+   "basis": "Paper_08 Q30",
+   "basis_question": {
+    "no": 30,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "Find the incorrect statement:\nA. Convex mirrors are used by the dentist to see the large images of teeth of patients.\nB. Convex mirrors are used as rear-view mirrors in cars, motorcycles, scooters, etc\nC. Concave mirrors are used for shaving purpose.\nD. Concave mirrors are used by doctors to focus light inside the ear or inside the mouth for medical examination.",
+    "options": [
+     "(B)",
+     "(C)",
+     "(A)",
+     "(D)"
+    ],
+    "figure": null,
+    "answer": "(c) (A). Concave mirrors (not convex) are used by dentists since they form enlarged images; convex mirrors form diminished images and give a wide field of view, hence are used as rear-view mirrors.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "Find the incorrect statement about a convex lens:",
+   "options": [
+    "It converges a beam of light parallel to its principal axis to a point on the other side of the lens.",
+    "Its focal length is taken as positive.",
+    "It always forms a real and inverted image, whatever the position of the object.",
+    "It is thicker at the centre than at the edges."
+   ],
+   "answer": "(c). A convex lens forms a real, inverted image only when the object is beyond its focus; when the object is placed between the optical centre and the focus, the image is virtual, erect and enlarged.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "origin": "variant",
+   "basis": "Paper_06 Q32",
+   "basis_question": {
+    "no": 32,
+    "section": "C",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch10_Human_Eye_and_Colourful_World",
+    "text": "Assertion (A): When ciliary muscles contract, eye lens becomes thin.\nReason (R): Ciliary muscles control the power of the eye lens.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(d) A is false but R is true.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "Assertion (A): Hypermetropia is corrected by using a concave lens of suitable power.\nReason (R): In hypermetropia, the image of a nearby object is formed behind the retina.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(d) A is false but R is true. In hypermetropia the image of a nearby object forms behind the retina, so a convex lens (which converges the rays) is used for correction, not a concave lens.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "origin": "variant",
+   "basis": "Paper_06 Q33",
+   "basis_question": {
+    "no": 33,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch12_Magnetic_Effects_of_Current",
+    "text": "Draw the pattern of magnetic field lines around a current carrying straight conductor. How does the strength of the magnetic field produced change:\na. with the distance from the conductor?\nb. with an increase in current in a conductor?",
+    "options": null,
+    "figure": null,
+    "answer": "Field lines are concentric circles around the conductor (diagram in the paper: fig_p14_2.png).\na. The strength of the magnetic field decreases with increase in distance from the conductor.\nb. The strength of the magnetic field increases with increase in current (directly proportional to the current).",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "Draw the pattern of magnetic field lines of a current-carrying solenoid. What does the pattern inside the solenoid indicate? State two ways of increasing the strength of the magnetic field produced by it.",
+   "options": null,
+   "answer": "Pattern (to be drawn): outside, the field lines resemble those of a bar magnet, emerging from one end (north pole) and entering the other (south pole); inside the solenoid they are parallel straight lines along the axis.\nParallel straight lines inside indicate that the magnetic field is uniform (same strength and direction at all points) inside the solenoid. (1)\nStrength is increased by increasing the current, by increasing the number of turns per unit length, or by placing a soft iron core inside (any two). (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "origin": "variant",
+   "basis": "Paper_07 Q34",
+   "basis_question": {
+    "no": 34,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch11_Electricity",
+    "text": "Calculate the equivalent resistance of the following electric circuit:",
+    "options": null,
+    "figure": "fig_p07_1.png",
+    "answer": "The two $10\\,\\Omega$ resistors in the middle are in series: $R_s = 10 + 10 = 20\\,\\Omega$. This is in parallel with the $20\\,\\Omega$ resistor: $\\frac{1}{R_p} = \\frac{1}{20} + \\frac{1}{20} = \\frac{1}{10}$, so $R_p = 10\\,\\Omega$. Total $R = 10 + R_p + 20 = 10 + 10 + 20 = 40\\,\\Omega$.",
+    "or": {
+     "text": "In the experiment to study the dependence of current (I) on the potential difference (V) across a resistor, a student obtained a graph as shown.\ni. What does the graph depict about the dependence of current on the potential difference?\nii. Find the current that flows through the resistor when the potential difference across it is 2.5 V.",
+     "options": null,
+     "figure": "fig_p08_0.png",
+     "chapter": "Ch11_Electricity",
+     "answer": "i. $I \\propto V$: current is directly proportional to the applied potential difference.\nii. From the graph (0.1 A per volt), at 2.5 V the current is 0.25 A."
+    },
+    "subparts": null,
+    "note": "Marking-scheme line for the total prints '20 + 10 + 10 = 40' but the resistors outside the parallel part are 10 and 20 ohm per the figure; the total 40 ohm is as in the key.",
+    "paper": "Paper_07"
+   },
+   "text": "A $5\\,\\Omega$ resistor is connected in series with a parallel combination of two $12\\,\\Omega$ resistors, and this whole combination is further connected in series with a $7\\,\\Omega$ resistor. Calculate the equivalent resistance of the circuit.",
+   "options": null,
+   "answer": "Two $12\\,\\Omega$ resistors in parallel: $\\frac{1}{R_p} = \\frac{1}{12}+\\frac{1}{12} = \\frac{1}{6}$, so $R_p = 6\\,\\Omega$. (1)\nTotal $R = 5 + 6 + 7 = 18\\,\\Omega$. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "In an experiment to study the dependence of the current (I) on the potential difference (V) across a resistor, a student recorded:\n\n| V (volt) | 1.0 | 2.0 | 3.0 | 4.0 |\n|---|---|---|---|---|\n| I (ampere) | 0.2 | 0.4 | 0.6 | 0.8 |\n\ni. What do the readings show about the dependence of current on potential difference?\nii. Find the current that flows through the resistor when the potential difference across it is 5.5 V.",
+    "answer": "i. $\\frac{V}{I} = 5\\,\\Omega$ is constant, so $I \\propto V$: the current is directly proportional to the potential difference (Ohm's law). (1)\nii. $R = 5\\,\\Omega$, so $I = \\frac{V}{R} = \\frac{5.5}{5} = 1.1\\,A$. (1)",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch11_Electricity"
+   }
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Distinguish between a convex lens and a concave lens.",
+   "options": null,
+   "figure": null,
+   "answer": "| Convex lens | Concave lens |\n|---|---|\n| 1. It is thicker at the centre than at the edges. | 1. It is thinner at the centre than at the edges. |\n| 2. It has a real focus. | 2. It has a virtual focus. |\n| 3. It converges a parallel beam of light on refraction through it. | 3. It diverges a parallel beam of light on refraction through it. |",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q37"
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "origin": "ncert",
+   "text": "A person needs a lens of power $-2.5\\,D$ for correcting his distant vision and a lens of power $+2.0\\,D$ for correcting his near vision. (i) Name the defects of vision he is suffering from. (ii) Find the focal length of the lens required for correcting each of them and state the nature of the lens.",
+   "options": null,
+   "answer": "(i) Needing a diverging lens for distant objects shows myopia; needing a converging lens for reading shows hypermetropia. (1)\n(ii) Distant vision: $f = \\frac{1}{P} = \\frac{1}{-2.5}\\,m = -0.4\\,m = -40\\,cm$; concave lens. (1)\nNear vision: $f = \\frac{1}{+2.0}\\,m = 0.5\\,m = +50\\,cm$; convex lens. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "origin": "ncert",
+   "text": "An object 4 cm tall is placed at a distance of 15 cm in front of a concave mirror of focal length 10 cm. Find the position, nature and size of the image formed.",
+   "options": null,
+   "answer": "$u = -15\\,cm$, $f = -10\\,cm$, $h = 4\\,cm$.\n$\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u} = -\\frac{1}{10} + \\frac{1}{15} = \\frac{-3+2}{30} = -\\frac{1}{30}$, so $v = -30\\,cm$: the image is 30 cm in front of the mirror. (1)\n$m = -\\frac{v}{u} = -\\frac{-30}{-15} = -2$. (1)\n$h' = m h = -2 \\times 4 = -8\\,cm$: the image is real, inverted and enlarged, 8 cm tall. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Read the following text carefully and answer the questions that follow:\nAndre Marie Ampere suggested that a magnet must exert an equal and opposite force on a current-carrying conductor, which was experimentally found to be true. But we know that current is due to charges in motion. Thus, it is clear that a charge moving in a magnetic field experience a force, except when it is moving in a direction parallel to it. If the direction of motion is perpendicular to the direction of magnetic field, the magnitude of force experienced depends on the charge, velocity (v), strength of magnetic field (B), and sine of the angle between v and B. Direction of magnetic force is given by Fleming's left-hand rule.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "If an electron is travelling horizontally towards east. A magnetic field in vertically downward direction exerts a force on the electron along which direction?",
+     "marks": 1,
+     "options": null,
+     "answer": "Using Fleming's left-hand rule, the force on the electron is towards the south."
+    },
+    {
+     "text": "A charged particle is moving with velocity v in a magnetic field of induction B. The force on the particle will be maximum when",
+     "marks": 1,
+     "options": null,
+     "answer": "The force $F = qvB\\sin\\theta$ is maximum when $\\theta = 90^\\circ$, i.e. when the velocity is perpendicular to the magnetic field."
+    },
+    {
+     "text": "A uniform magnetic field exists in the plane of paper pointing from left to right as shown in figure. In the field, an electron and a proton move as shown. Where do the electron and the proton experience the force?",
+     "marks": 2,
+     "options": null,
+     "answer": "The direction of current is opposite to the motion of electrons, so the currents due to the electron (moving down) and the proton (moving up) are in the same direction, from bottom to top. By Fleming's left-hand rule, both the electron and the proton experience forces pointing into the plane of the paper.",
+     "figure": "fig_p08_0.png",
+     "or": {
+      "text": "An electron beam enters a magnetic field at right angles to it as shown in the figure. What would be the direction of force acting on the electron beam?",
+      "marks": 2,
+      "figure": "fig_p08_1.png",
+      "answer": "By Fleming's left-hand rule the force is perpendicular to both the magnetic field and the current (beam) direction, i.e. into the plane of the page."
+     }
+    }
+   ],
+   "figure_extra": "fig_p07_1.png",
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q38"
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch11_Electricity",
+   "origin": "variant",
+   "basis": "Paper_03 Q39",
+   "basis_question": {
+    "no": 39,
+    "section": "C",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch11_Electricity",
+    "text": "What is meant by resistance of a conductor? Name and define its SI unit. List the factors on Which the resistance of a wire affected, if (i) its length is doubled, (ii) its radius is doubled?",
+    "options": null,
+    "figure": null,
+    "answer": "Resistance is the property of a conductor to oppose the flow of electric current through it. Its SI unit is the ohm ($\\Omega$): if a potential difference of 1 V across a conductor drives a current of 1 A, its resistance is 1 ohm.\n$R = \\frac{\\rho l}{A}$.\ni. If the length is doubled, $R' = \\frac{\\rho (2l)}{A} = 2R$: resistance is doubled.\nii. If the radius is doubled, $A = \\pi r^2$ becomes $\\pi (2r)^2 = 4\\pi r^2$, so $R' = \\frac{\\rho l}{4\\pi r^2} = \\frac{R}{4}$: resistance becomes one-fourth.",
+    "or": {
+     "chapter": "Ch11_Electricity",
+     "text": "i. What is meant by resistance of a conductor? Define its SI unit.\nii. List two factors on which the resistance of a rectangular conductor depends.\niii. How will the resistance of a wire be affected if its\nI. length is doubled, and\nII. radius is also doubled?\nGive justification for your answer.",
+     "options": null,
+     "figure": null,
+     "answer": "i. Resistance is the quality of a conductor that opposes the flow of electric current; it is the ratio of the potential difference across its ends to the current flowing. The SI unit is the ohm ($\\Omega$).\nii. Length of the conductor and area of cross-section (also the material/resistivity and temperature).\niii. $R = \\frac{\\rho l}{A}$. I. If the length is doubled, $R_1 = \\frac{\\rho (2l)}{A} = 2R$, the resistance doubles. II. If the radius is doubled, $R_2 = \\frac{\\rho l}{\\pi(2r)^2} = \\frac{1}{4}R$, the resistance becomes one-fourth of the initial resistance."
+    },
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "What is meant by the resistivity of a material? Write its SI unit. A wire has a resistance of $12\\,\\Omega$. Find the new resistance of the wire if (i) its length is tripled, (ii) its radius is halved (the material and other quantities remaining the same). Justify your answers.",
+   "options": null,
+   "answer": "Resistivity is the resistance of a conductor of unit length and unit area of cross-section; it depends on the material (and temperature) of the conductor. SI unit: ohm-metre ($\\Omega\\,m$). (1 + 1)\n$R = \\frac{\\rho l}{A}$. (1)\ni. Length tripled: $R' = \\frac{\\rho (3l)}{A} = 3R = 3\\times 12 = 36\\,\\Omega$. (1)\nii. Radius halved: area $A = \\pi r^2$ becomes $\\pi (r/2)^2 = \\frac{A}{4}$, so $R'' = \\frac{\\rho l}{A/4} = 4R = 48\\,\\Omega$. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "i. State Ohm's law and write its mathematical form.\nii. A wire of resistance $20\\,\\Omega$ is cut into four equal parts and the four parts are connected in parallel. Find the equivalent resistance of the combination.\niii. Why is an alloy rather than a pure metal used in the heating element of an electric heater?",
+    "answer": "i. At constant temperature, the current flowing through a conductor is directly proportional to the potential difference across its ends: $V = IR$. (1)\nii. Each part has resistance $\\frac{20}{4} = 5\\,\\Omega$. In parallel: $\\frac{1}{R} = \\frac{4}{5}$, so $R = 1.25\\,\\Omega$. (2)\niii. Alloys have higher resistivity than pure metals and do not oxidise (burn) easily at high temperatures, so they last longer and produce more heat. (2)",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch11_Electricity"
+   }
+  }
+ ]
+}

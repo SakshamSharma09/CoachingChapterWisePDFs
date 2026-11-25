@@ -1,0 +1,1059 @@
+{
+ "subject": "Maths",
+ "paper": "Mock_03",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "What is the largest number that divides each one of 1152 and 1664 exactly?",
+   "options": [
+    "64",
+    "128",
+    "32",
+    "256"
+   ],
+   "figure": null,
+   "answer": "(b) 128 — The required number is HCF(1152, 1664). $1152=2^7\\times3^2$ and $1664=2^7\\times13$, so HCF $=2^7=128$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q1"
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "origin": "variant",
+   "basis": "Paper_03 Q1",
+   "basis_question": {
+    "no": 1,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch01_Real_Numbers",
+    "text": "If the HCF of 65 and 117 is expressible in the form $65m-117$, then the value of 'm' is",
+    "options": [
+     "1",
+     "4",
+     "3",
+     "2"
+    ],
+    "figure": null,
+    "answer": "(d) 2 — HCF(65, 117): $117=65\\times1+52$, $65=52\\times1+13$, $52=13\\times4+0$, so HCF $=13$. $65m-117=13\\Rightarrow65m=130\\Rightarrow m=2$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "If the HCF of 21 and 56 is expressible in the form $21m-56$, then the value of $m$ is",
+   "options": [
+    "2",
+    "4",
+    "3",
+    "1"
+   ],
+   "answer": "(c) 3 — HCF(21, 56): $56=21\\times2+14$, $21=14\\times1+7$, $14=7\\times2+0$, so HCF $=7$. $21m-56=7\\Rightarrow21m=63\\Rightarrow m=3$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "variant",
+   "basis": "Paper_02 Q4",
+   "basis_question": {
+    "no": 4,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch04_Quadratic_Equations",
+    "text": "The sum of two numbers is 8 and the sum of their reciprocals is $\\frac{8}{15}$. Find the numbers.",
+    "options": [
+     "4, 4",
+     "7, 1",
+     "5, 3",
+     "2, 6"
+    ],
+    "figure": null,
+    "answer": "(c) 5, 3 — Let the numbers be $x,y$: $x+y=8$ and $\\frac{1}{x}+\\frac{1}{y}=\\frac{8}{15}$. Put $x=8-y$: $\\frac{1}{8-y}+\\frac{1}{y}=\\frac{8}{15}\\Rightarrow\\frac{8}{y(8-y)}=\\frac{8}{15}\\Rightarrow y^2-8y+15=0\\Rightarrow(y-5)(y-3)=0$, so $y=5$ or $3$, and $x=3$ or $5$. The numbers are 5 and 3.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "The sum of two numbers is 9 and the sum of their reciprocals is $\\frac{9}{20}$. Find the numbers.",
+   "options": [
+    "3, 6",
+    "4, 5",
+    "2, 7",
+    "1, 8"
+   ],
+   "answer": "(b) 4, 5 — Let the numbers be $x$ and $9-x$: $\\frac1x+\\frac1{9-x}=\\frac9{20}\\Rightarrow\\frac{9}{x(9-x)}=\\frac9{20}\\Rightarrow x^2-9x+20=0\\Rightarrow(x-4)(x-5)=0$. The numbers are 4 and 5.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "variant",
+   "basis": "Paper_03 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch04_Quadratic_Equations",
+    "text": "By a reduction of Re.1 per kg in the price of sugar, Radha can buy one kg sugar more for Rs.56. The original price of 1 kg of sugar is",
+    "options": [
+     "Rs.7",
+     "Rs.9",
+     "Rs.6",
+     "Rs.8"
+    ],
+    "figure": null,
+    "answer": "(d) Rs.8 — let the original price be Rs. $x$ per kg. Sugar bought for Rs. 56 originally $=\\frac{56}{x}$ kg; at new price $(x-1)$ it is $\\frac{56}{x-1}$ kg. So $\\frac{56}{x-1}-\\frac{56}{x}=1\\Rightarrow\\frac{56}{x^2-x}=1\\Rightarrow x^2-x-56=0\\Rightarrow(x+7)(x-8)=0$. $x=-7$ is not possible, so $x=8$. Original price is Rs. 8.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "By a reduction of Rs.2 per kg in the price of rice, Meena can buy 2 kg more rice for Rs.80. The original price of 1 kg of rice is",
+   "options": [
+    "Rs.8",
+    "Rs.12",
+    "Rs.10",
+    "Rs.9"
+   ],
+   "answer": "(c) Rs.10 — let the original price be Rs. $x$ per kg. $\\frac{80}{x-2}-\\frac{80}{x}=2\\Rightarrow\\frac{160}{x(x-2)}=2\\Rightarrow x^2-2x-80=0\\Rightarrow(x-10)(x+8)=0$. $x=-8$ is rejected, so $x=10$. Original price is Rs. 10 (check: $\\frac{80}{10}=8$ kg, $\\frac{80}{8}=10$ kg).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "text": "The discriminant of the quadratic equation $bx^2 + ax + c = 0;\\ b \\neq 0$ is given by:",
+   "options": [
+    "$\\sqrt{a^2-4bc}$",
+    "$a^2-4bc$",
+    "$b^2-4ac$",
+    "$\\sqrt{b^2-4ac}$"
+   ],
+   "figure": null,
+   "answer": "(b) $a^2-4bc$ — here the coefficient of $x^2$ is b, of x is a and the constant is c, so $D=a^2-4bc$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q4"
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "variant",
+   "basis": "Paper_06 Q6",
+   "basis_question": {
+    "no": 6,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch07_Coordinate_Geometry",
+    "text": "The distance between the points $(3, -2)$ and $(-3, 2)$ is:",
+    "options": [
+     "$2\\sqrt{10}$",
+     "$\\sqrt{52}$",
+     "$4\\sqrt{10}$",
+     "40"
+    ],
+    "figure": null,
+    "answer": "(b) $\\sqrt{52}$ — $d=\\sqrt{(-3-3)^2+(2-(-2))^2}=\\sqrt{36+16}=\\sqrt{52}$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "The distance between the points $(5,-1)$ and $(-3,3)$ is:",
+   "options": [
+    "$2\\sqrt{10}$",
+    "$4\\sqrt{5}$",
+    "$\\sqrt{40}$",
+    "80"
+   ],
+   "answer": "(b) $4\\sqrt{5}$ — $d=\\sqrt{(-3-5)^2+(3-(-1))^2}=\\sqrt{64+16}=\\sqrt{80}=4\\sqrt5$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "Which of the following statements is false?",
+   "options": [
+    "Two right triangles are always similar.",
+    "Two circles are always similar.",
+    "Two equilateral triangles are always similar.",
+    "Two squares are always similar."
+   ],
+   "figure": null,
+   "answer": "(a) Two right triangles are always similar.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q11"
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "text": "Raina is 1.5 m tall. At an instant, his shadow is 1.8 m long. At the same instant, the shadow of a pole is 9 m long. How tall is the pole?",
+   "options": [
+    "7.5 m",
+    "6.2 m",
+    "6.5 m",
+    "8.5 m"
+   ],
+   "figure": null,
+   "answer": "(a) 7.5 m — by similar triangles $\\frac{h}{9}=\\frac{1.5}{1.8}\\Rightarrow h=7.5$ m.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q13"
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "origin": "variant",
+   "basis": "Paper_08 Q17",
+   "basis_question": {
+    "no": 17,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch10_Circles",
+    "text": "AP and PQ are tangents drawn from a point A to a circle with centre O and radius 9 cm. If $OA = 15$ cm, then $AP + AQ =$",
+    "options": [
+     "18 cm",
+     "12 cm",
+     "36 cm",
+     "24 cm"
+    ],
+    "figure": null,
+    "answer": "(d) 24 cm — $OP\\perp AP$, so $AP^2=15^2-9^2=144$, $AP=12$ cm; $AP=AQ=12$ cm (tangents from A), so $AP+AQ=24$ cm.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "PA and PB are tangents drawn from a point P to a circle with centre O and radius 8 cm. If $OP=17$ cm, then $PA+PB=$",
+   "options": [
+    "15 cm",
+    "60 cm",
+    "30 cm",
+    "34 cm"
+   ],
+   "answer": "(c) 30 cm — $OA\\perp PA$, so $PA^2=17^2-8^2=225$, $PA=15$ cm; $PB=PA=15$ cm (tangents from P), so $PA+PB=30$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "ncert",
+   "text": "If $5\\tan\\theta=12$, where $\\theta$ is an acute angle, then the value of $\\sin\\theta$ is",
+   "options": [
+    "$\\frac{5}{13}$",
+    "$\\frac{12}{13}$",
+    "$\\frac{13}{12}$",
+    "$\\frac{12}{5}$"
+   ],
+   "answer": "(b) $\\frac{12}{13}$ — $\\tan\\theta=\\frac{12}{5}$, so take perpendicular $=12k$, base $=5k$, hypotenuse $=\\sqrt{144+25}k=13k$. $\\sin\\theta=\\frac{12}{13}$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "text": "If the angle of depression of a car from a 100 m high tower is $45^\\circ$, then the distance of the car from the tower is",
+   "options": [
+    "$200\\sqrt{3}$ m",
+    "$100\\sqrt{3}$ m",
+    "200 m",
+    "100 m"
+   ],
+   "figure": null,
+   "answer": "(d) 100 m — Let the distance be x m. $\\tan45^\\circ=\\frac{100}{x}\\Rightarrow 1=\\frac{100}{x}\\Rightarrow x=100$ m.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q13"
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_07 Q12",
+   "basis_question": {
+    "no": 12,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "If $x = a\\sin\\theta$ and $y = b\\cos\\theta$, then $b^2x^2 + a^2y^2$ is equal to:",
+    "options": [
+     "$a^2+b^2$",
+     "$a^2b^2$",
+     "$\\frac{a^2+b^2}{a^2b^2}$",
+     "1"
+    ],
+    "figure": null,
+    "answer": "(b) $a^2b^2$ — $b^2x^2+a^2y^2=a^2b^2\\sin^2\\theta+a^2b^2\\cos^2\\theta=a^2b^2$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "If $x=3\\sin\\theta$ and $y=4\\cos\\theta$, then $16x^2+9y^2$ is equal to:",
+   "options": [
+    "25",
+    "12",
+    "144",
+    "1"
+   ],
+   "answer": "(c) 144 — $16x^2+9y^2=16\\cdot9\\sin^2\\theta+9\\cdot16\\cos^2\\theta=144(\\sin^2\\theta+\\cos^2\\theta)=144$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "In the given figure, the shaded region represents:",
+   "options": [
+    "minor segment",
+    "major segment",
+    "minor sector",
+    "major sector"
+   ],
+   "figure": "fig_p03_0.png",
+   "answer": "(a) minor segment",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q15"
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "text": "The area of the sector of a circle with radius 6 cm which subtends an angle of $60^\\circ$ at the centre of the circle is:",
+   "options": [
+    "$\\frac{142}{7}$ cm$^2$",
+    "$\\frac{132}{7}$ cm$^2$",
+    "$\\frac{152}{7}$ cm$^2$",
+    "$\\frac{122}{7}$ cm$^2$"
+   ],
+   "figure": null,
+   "answer": "(b) $\\frac{132}{7}$ cm$^2$ — Area $=\\frac{60}{360}\\times\\pi\\times6^2=6\\pi=6\\times\\frac{22}{7}=\\frac{132}{7}$ cm$^2$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q14"
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch14_Probability",
+   "text": "For an event E, if $P(E)+P(\\bar{E})=q$, then the value of $q^2-4$ is:",
+   "options": [
+    "-3",
+    "5",
+    "3",
+    "-5"
+   ],
+   "figure": null,
+   "answer": "(a) -3 — $P(E)+P(\\bar E)=1$, so $q=1$ and $q^2-4=-3$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q16"
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "origin": "ncert",
+   "text": "For a grouped frequency distribution, the modal class is 30 - 40 with frequency 12. The frequencies of the preceding and the succeeding classes are 8 and 6 respectively. The mode of the data is",
+   "options": [
+    "36",
+    "33",
+    "32",
+    "34"
+   ],
+   "answer": "(d) 34 — Mode $=l+\\frac{f_1-f_0}{2f_1-f_0-f_2}\\times h=30+\\frac{12-8}{24-8-6}\\times10=30+4=34$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "ncert",
+   "text": "The curved surface area of a cone of base radius 7 cm and height 24 cm is (use $\\pi=\\frac{22}{7}$)",
+   "options": [
+    "154 cm$^2$",
+    "528 cm$^2$",
+    "1100 cm$^2$",
+    "550 cm$^2$"
+   ],
+   "answer": "(d) 550 cm$^2$ — slant height $l=\\sqrt{7^2+24^2}=\\sqrt{625}=25$ cm. CSA $=\\pi rl=\\frac{22}{7}\\times7\\times25=550$ cm$^2$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Statistics",
+   "origin": "variant",
+   "basis": "Paper_02 Q18",
+   "basis_question": {
+    "no": 18,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch13_Statistics",
+    "text": "The class mark of the median class of the following data is:\n\n| Class Interval | 10 – 25 | 25 – 40 | 40 – 55 | 55 – 70 | 70 – 85 | 85 – 100 |\n|---|---|---|---|---|---|---|\n| Frequency | 2 | 3 | 7 | 6 | 6 | 6 |",
+    "options": [
+     "47.5",
+     "55",
+     "62.5",
+     "40"
+    ],
+    "figure": null,
+    "answer": "(c) 62.5 — cumulative frequencies 2, 5, 12, 18, 24, 30; $N=30$, $\\frac{N}{2}=15$, so the median class is 55 – 70 and its class mark is $\\frac{55+70}{2}=62.5$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "The class mark of the median class of the following data is:\n\n| Class Interval | 5 – 15 | 15 – 25 | 25 – 35 | 35 – 45 | 45 – 55 | 55 – 65 |\n|---|---|---|---|---|---|---|\n| Frequency | 3 | 5 | 8 | 12 | 7 | 5 |",
+   "options": [
+    "30",
+    "40",
+    "50",
+    "35"
+   ],
+   "answer": "(b) 40 — cumulative frequencies 3, 8, 16, 28, 35, 40; $N=40$, $\\frac N2=20$, so the median class is 35 – 45 and its class mark is $\\frac{35+45}{2}=40$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Assertion (A): If (0, 3), (1, 1), and (-1, 2) be the midpoints of the sides of a triangle, then the centroid of the original triangle is (0, 2)\nReason (R): The centroids of the triangle and joins the midpoints of the sides of triangle are same.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q13"
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Assertion (A): For two prime numbers $x$ and $y\\,(x<y)$, $\\text{HCF}(x,y)=x$ and $\\text{LCM}(x,y)=y$.\nReason (R): $\\text{HCF}(x,y)\\le\\text{LCM}(x,y)$, where $x,y$ are any two natural numbers.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(d) A is false but R is true. (For two distinct primes, HCF = 1 and LCM = $xy$.)",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q20"
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "On comparing the ratios $\\frac{a_1}{a_2}$, $\\frac{b_1}{b_2}$ and $\\frac{c_1}{c_2}$, find out whether the lines representing the pair of linear equations intersect at a point, are parallel or coincide: $6x-3y+10=0$; $2x-y+9=0$.",
+   "options": null,
+   "figure": null,
+   "answer": "Comparing with $a_1x+b_1y+c_1=0$ and $a_2x+b_2y+c_2=0$: $a_1=6,b_1=-3,c_1=10$; $a_2=2,b_2=-1,c_2=9$. $\\frac{a_1}{a_2}=\\frac{6}{2}=3$, $\\frac{b_1}{b_2}=\\frac{-3}{-1}=3$, $\\frac{c_1}{c_2}=\\frac{10}{9}$. Since $\\frac{a_1}{a_2}=\\frac{b_1}{b_2}\\ne\\frac{c_1}{c_2}$, the lines are parallel to each other.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q21"
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Triangles",
+   "text": "In the given figure, $AB\\parallel DE$ and $BD\\parallel EF$. Prove that $DC^2=CF\\times AC$.",
+   "options": null,
+   "figure": "fig_p04_1.png",
+   "answer": "In $\\triangle ABC$, $AB\\parallel DE$, so $\\frac{CD}{DA}=\\frac{CE}{EB}$ ...(i) (Thales). In $\\triangle CDB$, $BD\\parallel EF$, so $\\frac{CF}{FD}=\\frac{CE}{EB}$ ...(ii). From (i), (ii): $\\frac{CD}{DA}=\\frac{CF}{FD}\\Rightarrow\\frac{DA}{DC}=\\frac{FD}{CF}\\Rightarrow\\frac{DA}{DC}+1=\\frac{FD}{CF}+1\\Rightarrow\\frac{DA+DC}{DC}=\\frac{FD+CF}{CF}\\Rightarrow\\frac{AC}{DC}=\\frac{DC}{CF}\\Rightarrow DC^2=CF\\times AC$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q23"
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Circles",
+   "origin": "variant",
+   "basis": "Paper_06 Q22",
+   "basis_question": {
+    "no": 22,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch10_Circles",
+    "text": "ABC is an isosceles triangle with $AB = AC$, circumscribed about a circle. Prove that BC is bisected at E.",
+    "options": null,
+    "figure": "fig_p05_0.png",
+    "answer": "AB = AC ...(i). AD = AF (tangents from A) ...(ii). Subtracting, $AB-AD=AC-AF \\Rightarrow BD=CF$ ...(iii). Also BD = BE (tangents from B) and CF = CE (tangents from C). From (iii), BE = CE. So BC is bisected at the point of contact E.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "A circle is inscribed in $\\triangle ABC$ and touches the sides $AB$, $BC$ and $CA$ at $D$, $E$ and $F$ respectively. If $AB=12$ cm, $BC=8$ cm and $CA=10$ cm, find the length $AD$.",
+   "options": null,
+   "answer": "Tangents from an external point are equal: $AD=AF=x$, $BD=BE=12-x$, $CE=CF=10-x$ ...(1 mark). Since $BE+CE=BC$: $(12-x)+(10-x)=8\\Rightarrow22-2x=8\\Rightarrow x=7$. So $AD=7$ cm ...(1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_10 Q24",
+   "basis_question": {
+    "no": 24,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "If $A=60^\\circ$ and $B=30^\\circ$, verify that: $\\cos(A+B)=\\cos A\\cos B-\\sin A\\sin B$",
+    "options": null,
+    "figure": null,
+    "answer": "LHS $=\\cos90^\\circ=0$. RHS $=\\cos60^\\circ\\cos30^\\circ-\\sin60^\\circ\\sin30^\\circ=\\frac12\\cdot\\frac{\\sqrt3}2-\\frac{\\sqrt3}2\\cdot\\frac12=0$. LHS = RHS, verified.",
+    "or": {
+     "text": "If $\\sin\\theta=\\frac{a}{\\sqrt{a^2+b^2}}$, $0<\\theta<90^\\circ$, find the values of $\\cos\\theta$ and $\\tan\\theta$",
+     "options": null,
+     "figure": null,
+     "answer": "$\\cos\\theta=\\sqrt{1-\\frac{a^2}{a^2+b^2}}=\\sqrt{\\frac{b^2}{a^2+b^2}}=\\frac{b}{\\sqrt{a^2+b^2}}$ and $\\tan\\theta=\\frac{\\sin\\theta}{\\cos\\theta}=\\frac ab$.",
+     "chapter": "Ch08_Introduction_to_Trigonometry"
+    },
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "If $A=30^\\circ$ and $B=60^\\circ$, verify that: $\\sin(A+B)=\\sin A\\cos B+\\cos A\\sin B$",
+   "options": null,
+   "answer": "LHS $=\\sin90^\\circ=1$. RHS $=\\sin30^\\circ\\cos60^\\circ+\\cos30^\\circ\\sin60^\\circ=\\frac12\\cdot\\frac12+\\frac{\\sqrt3}2\\cdot\\frac{\\sqrt3}2=\\frac14+\\frac34=1$. LHS = RHS, verified.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "If $\\tan\\theta=\\frac{p}{q}$, $0<\\theta<90^\\circ$, find the values of $\\sin\\theta$ and $\\cos\\theta$.",
+    "answer": "Take perpendicular $=p$, base $=q$, hypotenuse $=\\sqrt{p^2+q^2}$. $\\sin\\theta=\\frac{p}{\\sqrt{p^2+q^2}}$ and $\\cos\\theta=\\frac{q}{\\sqrt{p^2+q^2}}$.",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "options": null,
+    "figure": null
+   }
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "origin": "variant",
+   "basis": "Paper_04 Q25",
+   "basis_question": {
+    "no": 25,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch11_Areas_Related_to_Circles",
+    "text": "In the given figure, $ABCD$ is a trapezium with $AB\\parallel DC$. Find the area of the shaded region. (Keep the answer in terms of $\\pi$).",
+    "options": null,
+    "figure": "fig_p05_1.png",
+    "answer": "$ABCD$ is a trapezium, so $\\angle A=120^\\circ$ and $\\angle C=60^\\circ$. Area of shaded region $=\\frac{120}{360}\\times\\pi\\times3^2+\\frac{60}{360}\\times\\pi\\times6^2=3\\pi+6\\pi=9\\pi$ cm$^2$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "$ABCD$ is a trapezium with $AB\\parallel DC$ and $\\angle A=45^\\circ$, and $AD=14$ cm. Two sectors are shaded inside the trapezium: one with centre $A$ and radius 4 cm, the other with centre $D$ and radius 8 cm. Find the area of the shaded region. (Keep the answer in terms of $\\pi$).",
+   "options": null,
+   "answer": "As $AB\\parallel DC$, $\\angle A+\\angle D=180^\\circ$, so $\\angle D=135^\\circ$. Area of shaded region $=\\frac{45}{360}\\times\\pi\\times4^2+\\frac{135}{360}\\times\\pi\\times8^2=2\\pi+24\\pi=26\\pi$ cm$^2$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Real_Numbers",
+   "origin": "ncert",
+   "text": "Prove that $\\sqrt{7}$ is an irrational number.",
+   "options": null,
+   "answer": "Let, if possible, $\\sqrt7$ be rational: $\\sqrt7=\\frac pq$, where $p,q$ are co-prime integers, $q\\ne0$ ...(1). Squaring, $7q^2=p^2$, so 7 divides $p^2$ and hence 7 divides $p$. Let $p=7m$. Then $7q^2=49m^2\\Rightarrow q^2=7m^2$, so 7 divides $q$ ...(1). Thus 7 is a common factor of $p$ and $q$, contradicting that they are co-prime ...(1). Hence $\\sqrt7$ is irrational.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "variant",
+   "basis": "Paper_03 Q27",
+   "basis_question": {
+    "no": 27,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch07_Coordinate_Geometry",
+    "text": "Point A lies on the line segment PQ joining P(6, -6) and Q (-4, -1) in such a way that $\\frac{PA}{PQ}=\\frac{2}{5}$. If the point A also lies on the line $3x+k(y+1)=0$, find the value of k.",
+    "options": null,
+    "figure": null,
+    "answer": "$\\frac{PA}{PQ}=\\frac{2}{5}\\Rightarrow\\frac{PA}{PQ-PA}=\\frac{2}{5-2}\\Rightarrow\\frac{PA}{AQ}=\\frac{2}{3}$, so $PA:AQ=2:3$. By the section formula, $x=\\frac{2(-4)+3\\times6}{2+3}=\\frac{10}{5}=2$, $y=\\frac{2(-1)+3(-6)}{5}=\\frac{-20}{5}=-4$. So A is $(2,-4)$. A lies on $3x+k(y+1)=0$: $3\\times2+k(-4+1)=0\\Rightarrow6-3k=0\\Rightarrow k=2$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Point A lies on the line segment PQ joining $P(-2,8)$ and $Q(8,-2)$ in such a way that $\\frac{PA}{PQ}=\\frac{3}{5}$. If the point A also lies on the line $4x+k(y+2)=0$, find the value of k.",
+   "options": null,
+   "answer": "$\\frac{PA}{PQ}=\\frac35\\Rightarrow\\frac{PA}{AQ}=\\frac32$, so $PA:AQ=3:2$. By the section formula, $x=\\frac{3(8)+2(-2)}{5}=\\frac{20}{5}=4$, $y=\\frac{3(-2)+2(8)}{5}=\\frac{10}{5}=2$. So A is $(4,2)$. A lies on $4x+k(y+2)=0$: $16+k(4)=0\\Rightarrow k=-4$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "origin": "variant",
+   "basis": "Paper_08 Q26",
+   "basis_question": {
+    "no": 26,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+    "text": "The area of a rectangle gets reduced by $8\\ \\mathrm{m}^2$, when its length is reduced by 5 m and its breadth is increased by 3 m. If we increase the length by 3 m and breadth by 2 m, the area is increased by $74\\ \\mathrm{m}^2$. Find the length and the breadth of the rectangle.",
+    "options": null,
+    "figure": null,
+    "answer": "Let length $=x$ m, breadth $=y$ m. $xy-(x-5)(y+3)=8\\Rightarrow 3x-5y=7$ ... (i). $(x+3)(y+2)-xy=74\\Rightarrow 2x+3y=68$ ... (ii). Multiplying (i) by 3 and (ii) by 5: $9x-15y=21$, $10x+15y=340$; adding, $19x=361\\Rightarrow x=19$. Then $y=\\frac{171-21}{15}=10$. Length = 19 m, breadth = 10 m.",
+    "or": {
+     "text": "A man sold a chair and a table together for ₹1520 thereby making a profit of 25% on the chair and 10% on table. By selling them together for ₹1535 he would have made a profit of 10% on the chair and 25% on the table. Find the cost price of each.",
+     "options": null,
+     "figure": null,
+     "answer": "Let cost prices of chair and table be ₹$x$ and ₹$y$. $\\frac{125}{100}x+\\frac{110}{100}y=1520\\Rightarrow 25x+22y=30400$ ... (i). $\\frac{110}{100}x+\\frac{125}{100}y=1535\\Rightarrow 22x+25y=30700$ ... (ii). (ii) − (i): $x-y=-100$ ... (iii). (i) + (ii): $x+y=1300$ ... (iv). Solving, $x=600$, $y=700$. Cost price of chair = ₹600 and of table = ₹700.",
+     "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables"
+    },
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "A boat goes 24 km upstream and 36 km downstream in 6 hours, and 36 km upstream and 24 km downstream in $6\\frac12$ hours. Find the speed of the boat in still water and the speed of the stream.",
+   "options": null,
+   "answer": "Let speed of boat $=x$ km/h and speed of stream $=y$ km/h. Upstream speed $=x-y$, downstream speed $=x+y$. Let $p=\\frac1{x-y}$, $q=\\frac1{x+y}$. Then $24p+36q=6$ ...(i) and $36p+24q=6.5$ ...(ii). Adding: $60(p+q)=12.5$; subtracting (ii)-(i): $12(p-q)=0.5$. So $p+q=\\frac{5}{24}$ and $p-q=\\frac1{24}$, giving $p=\\frac18$, $q=\\frac1{12}$. Hence $x-y=8$ and $x+y=12$, so $x=10$, $y=2$. Speed of boat in still water $=10$ km/h; speed of stream $=2$ km/h.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "A two-digit number is 4 times the sum of its digits. If 18 is added to the number, the digits get reversed. Find the number.",
+    "answer": "Let tens digit $=x$, units digit $=y$. $10x+y=4(x+y)\\Rightarrow2x-y=0$ ...(i). $(10x+y)+18=10y+x\\Rightarrow y-x=2$ ...(ii). Adding (i) and (ii): $x=2$, so $y=4$. The number is 24. (Check: $24=4\\times6$; $24+18=42$.)",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables"
+   }
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "origin": "ncert",
+   "text": "Two concentric circles have radii 13 cm and 5 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+   "options": null,
+   "answer": "Let O be the centre and AB the chord of the larger circle touching the smaller circle at P. Then $OP\\perp AB$ (tangent is perpendicular to radius), $OP=5$ cm, $OA=13$ cm ...(1). In right $\\triangle OPA$: $AP^2=13^2-5^2=144\\Rightarrow AP=12$ cm ...(1). The perpendicular from the centre bisects the chord, so $AB=2\\times12=24$ cm ...(1).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_03 Q30",
+   "basis_question": {
+    "no": 30,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "Prove that $\\frac{\\sin\\theta-\\cos\\theta+1}{\\sin\\theta+\\cos\\theta-1}=\\frac{1}{\\sec\\theta-\\tan\\theta}$, using identity $\\sec^2\\theta=1+\\tan^2\\theta$.",
+    "options": null,
+    "figure": null,
+    "answer": "LHS $=\\frac{\\sin\\theta-\\cos\\theta+1}{\\sin\\theta+\\cos\\theta-1}$. Dividing numerator and denominator by $\\cos\\theta$: $=\\frac{\\tan\\theta-1+\\sec\\theta}{\\tan\\theta+1-\\sec\\theta}=\\frac{(\\tan\\theta+\\sec\\theta)-1}{(\\tan\\theta-\\sec\\theta)+1}$. Multiplying and dividing by $(\\tan\\theta-\\sec\\theta)$: $=\\frac{\\{(\\tan\\theta+\\sec\\theta)-1\\}(\\tan\\theta-\\sec\\theta)}{\\{(\\tan\\theta-\\sec\\theta)+1\\}(\\tan\\theta-\\sec\\theta)}=\\frac{(\\tan^2\\theta-\\sec^2\\theta)-(\\tan\\theta-\\sec\\theta)}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}=\\frac{-1-\\tan\\theta+\\sec\\theta}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}$ (as $\\tan^2\\theta-\\sec^2\\theta=-1$) $=\\frac{-(\\tan\\theta-\\sec\\theta+1)}{(\\tan\\theta-\\sec\\theta+1)(\\tan\\theta-\\sec\\theta)}=\\frac{-1}{\\tan\\theta-\\sec\\theta}=\\frac{1}{\\sec\\theta-\\tan\\theta}=$ RHS. Hence proved.",
+    "or": {
+     "text": "Prove that: $\\frac{\\tan\\theta+\\sec\\theta-1}{\\tan\\theta-\\sec\\theta+1}=\\frac{1+\\sin\\theta}{\\cos\\theta}$",
+     "options": null,
+     "figure": null,
+     "chapter": "Ch08_Introduction_to_Trigonometry",
+     "answer": "LHS $=\\frac{(\\tan\\theta+\\sec\\theta)-1}{\\tan\\theta-\\sec\\theta+1}=\\frac{(\\sec\\theta+\\tan\\theta)-(\\sec^2\\theta-\\tan^2\\theta)}{\\tan\\theta-\\sec\\theta+1}$ (using $\\sec^2\\theta-\\tan^2\\theta=1$) $=\\frac{(\\sec\\theta+\\tan\\theta)-(\\sec\\theta+\\tan\\theta)(\\sec\\theta-\\tan\\theta)}{\\tan\\theta-\\sec\\theta+1}=\\frac{(\\sec\\theta+\\tan\\theta)[1-(\\sec\\theta-\\tan\\theta)]}{\\tan\\theta-\\sec\\theta+1}=\\frac{(\\sec\\theta+\\tan\\theta)(1-\\sec\\theta+\\tan\\theta)}{(\\tan\\theta-\\sec\\theta+1)}=\\sec\\theta+\\tan\\theta=\\frac{1}{\\cos\\theta}+\\frac{\\sin\\theta}{\\cos\\theta}=\\frac{1+\\sin\\theta}{\\cos\\theta}=$ RHS."
+    },
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Prove that $\\frac{\\cos\\theta-\\sin\\theta+1}{\\cos\\theta+\\sin\\theta-1}=\\operatorname{cosec}\\theta+\\cot\\theta$, using identity $\\operatorname{cosec}^2\\theta=1+\\cot^2\\theta$.",
+   "options": null,
+   "answer": "LHS: dividing numerator and denominator by $\\sin\\theta$: $=\\frac{\\cot\\theta-1+\\operatorname{cosec}\\theta}{\\cot\\theta+1-\\operatorname{cosec}\\theta}$. Write $1=\\operatorname{cosec}^2\\theta-\\cot^2\\theta$ in the numerator: $=\\frac{(\\cot\\theta+\\operatorname{cosec}\\theta)-(\\operatorname{cosec}\\theta+\\cot\\theta)(\\operatorname{cosec}\\theta-\\cot\\theta)}{\\cot\\theta+1-\\operatorname{cosec}\\theta}=\\frac{(\\cot\\theta+\\operatorname{cosec}\\theta)(1-\\operatorname{cosec}\\theta+\\cot\\theta)}{\\cot\\theta+1-\\operatorname{cosec}\\theta}=\\cot\\theta+\\operatorname{cosec}\\theta=$ RHS. Hence proved.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "Prove that: $(\\sin\\theta+\\operatorname{cosec}\\theta)^2+(\\cos\\theta+\\sec\\theta)^2=7+\\tan^2\\theta+\\cot^2\\theta$",
+    "answer": "LHS $=\\sin^2\\theta+2+\\operatorname{cosec}^2\\theta+\\cos^2\\theta+2+\\sec^2\\theta=(\\sin^2\\theta+\\cos^2\\theta)+4+(1+\\cot^2\\theta)+(1+\\tan^2\\theta)=7+\\tan^2\\theta+\\cot^2\\theta=$ RHS.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch08_Introduction_to_Trigonometry"
+   }
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch14_Probability",
+   "origin": "variant",
+   "basis": "Paper_03 Q31",
+   "basis_question": {
+    "no": 31,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch14_Probability",
+    "text": "There are 100 cards in a bag on which numbers from 1 to 100 are written. A card is taken out from the bag at random. Find the probability that the number on the selected card\ni. is divisible by 9 and is a perfect square.\nii. is a prime number greater than 80.",
+    "options": null,
+    "figure": null,
+    "answer": "Total number of possible outcomes $n=100$. i. Numbers divisible by 9 and a perfect square: 9, 36, 81, so $m=3$ and $P=\\frac{3}{100}$. ii. Prime numbers greater than 80 up to 100: 83, 89, 97, so $m=3$ and $P=\\frac{3}{100}$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "There are 90 cards in a bag on which numbers from 1 to 90 are written. A card is taken out from the bag at random. Find the probability that the number on the selected card\ni. is divisible by 4 and is a perfect square.\nii. is a prime number greater than 70.",
+   "options": null,
+   "answer": "Total number of possible outcomes $n=90$. i. Numbers divisible by 4 and a perfect square: 4, 16, 36, 64, so $m=4$ and $P=\\frac{4}{90}=\\frac{2}{45}$. ii. Prime numbers greater than 70 up to 90: 71, 73, 79, 83, 89, so $m=5$ and $P=\\frac{5}{90}=\\frac{1}{18}$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "ncert",
+   "text": "A motorboat whose speed in still water is 10 km/h takes 1 hour more to go 24 km upstream than to return downstream to the same spot. Find the speed of the stream.",
+   "options": null,
+   "answer": "Let the speed of the stream be $x$ km/h. Upstream speed $=(10-x)$, downstream speed $=(10+x)$ km/h ...(1). $\\frac{24}{10-x}-\\frac{24}{10+x}=1$ ...(1). $24(10+x)-24(10-x)=(10-x)(10+x)\\Rightarrow48x=100-x^2$ ...(1). $x^2+48x-100=0\\Rightarrow(x+50)(x-2)=0$ ...(1). $x=-50$ is rejected, so $x=2$. Speed of the stream $=2$ km/h ...(1). (Check: $\\frac{24}{8}=3$ h, $\\frac{24}{12}=2$ h.)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_09 Q32",
+   "basis_question": {
+    "no": 32,
+    "section": "D",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch09_Some_Applications_of_Trigonometry",
+    "text": "A straight highway leads to the foot of a tower. A man standing on the top of the 75 m high tower observes two cars at angles of depression of $30^\\circ$ and $60^\\circ$, which are approaching the foot of the tower. If one car is exactly behind the other on the same side of the tower, find the distance between the two cars. (use $\\sqrt3=1.73$)",
+    "options": null,
+    "figure": null,
+    "answer": "Tower AB = 75 m; cars at C (nearer, $60^\\circ$) and D ($30^\\circ$); $CD=x$. In $\\triangle ABC$: $\\tan60^\\circ=\\frac{75}{BC}\\Rightarrow BC=25\\sqrt3$ m. In $\\triangle ABD$: $\\tan30^\\circ=\\frac{75}{BC+CD}\\Rightarrow25\\sqrt3+CD=75\\sqrt3\\Rightarrow CD=50\\sqrt3=50\\times1.73=86.5$ m.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "From the top of a 90 m high lighthouse, the angles of depression of two ships, on the same side of the lighthouse and in a straight line with its foot, are $45^\\circ$ and $30^\\circ$. Find the distance between the two ships. (use $\\sqrt3=1.73$)",
+   "options": null,
+   "answer": "Lighthouse $AB=90$ m; ships at C (nearer, $45^\\circ$) and D (farther, $30^\\circ$); $CD$ is required. In $\\triangle ABC$: $\\tan45^\\circ=\\frac{90}{BC}\\Rightarrow BC=90$ m. In $\\triangle ABD$: $\\tan30^\\circ=\\frac{90}{BD}\\Rightarrow BD=90\\sqrt3$ m. $CD=BD-BC=90(\\sqrt3-1)=90\\times0.73=65.7$ m.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "variant",
+   "basis": "Paper_03 Q34",
+   "basis_question": {
+    "no": 34,
+    "section": "D",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch05_Arithmetic_Progressions",
+    "text": "Solve the equation: $-4+(-1)+2+5+\\dots+x=437$.",
+    "options": null,
+    "figure": null,
+    "answer": "The terms form an A.P. with $a=-4$, $d=3$, last term $l=x$. $S_n=\\frac{n}{2}[2a+(n-1)d]\\Rightarrow437=\\frac{n}{2}[-8+3(n-1)]\\Rightarrow874=n(3n-11)\\Rightarrow3n^2-11n-874=0\\Rightarrow3n^2-57n+46n-874=0\\Rightarrow(n-19)(3n+46)=0$. So $n=19$ (n cannot be negative or a fraction). Now $S_n=\\frac{n}{2}(a+l)\\Rightarrow437=\\frac{19}{2}(-4+x)\\Rightarrow-4+x=46\\Rightarrow x=50$.",
+    "or": {
+     "text": "Find the sum of all integers from 1 to 500 which are multiples of 2 or 5. [hint: These numbers will be : multiples of 2 + multiples of 5 - multiples of 2 as well as of 5]",
+     "options": null,
+     "figure": null,
+     "chapter": "Ch05_Arithmetic_Progressions",
+     "answer": "Multiples of 2: 2, 4, ..., 500 is an A.P. with $a=2,d=2,l=500$; $n=250$; $S_{250}=\\frac{250}{2}[2\\times2+249\\times2]=125\\times502=62750$. Multiples of 5: 5, 10, ..., 500 with $a=5,d=5,l=500$; $n=100$; $S_{100}=\\frac{100}{2}[2\\times5+99\\times5]=50\\times505=25250$. Multiples of 10 (both 2 and 5): 10, 20, ..., 500 with $n=50$; $S_{50}=\\frac{50}{2}[2\\times10+49\\times10]=25\\times510=12750$. Required sum $=62750+25250-12750=75250$."
+    },
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Solve the equation: $2+5+8+11+\\dots+x=155$.",
+   "options": null,
+   "answer": "The terms form an A.P. with $a=2$, $d=3$, last term $l=x$. $S_n=\\frac n2[2a+(n-1)d]\\Rightarrow155=\\frac n2[4+3(n-1)]\\Rightarrow310=n(3n+1)\\Rightarrow3n^2+n-310=0\\Rightarrow3n^2-30n+31n-310=0\\Rightarrow(n-10)(3n+31)=0$. So $n=10$ ($n$ cannot be negative or a fraction). Now $x=a+(n-1)d=2+9\\times3=29$. (Check: $S_{10}=\\frac{10}2(2+29)=155$.)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "Find the sum of all integers from 1 to 300 which are multiples of 3 or 5. [hint: These numbers will be : multiples of 3 + multiples of 5 - multiples of 3 as well as of 5]",
+    "answer": "Multiples of 3: 3, 6, ..., 300 is an A.P. with $a=3,d=3,l=300$; $n=100$; $S=\\frac{100}{2}(3+300)=15150$. Multiples of 5: 5, 10, ..., 300 with $n=60$; $S=\\frac{60}{2}(5+300)=9150$. Multiples of 15: 15, 30, ..., 300 with $n=20$; $S=\\frac{20}{2}(15+300)=3150$. Required sum $=15150+9150-3150=21150$.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch05_Arithmetic_Progressions"
+   }
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch13_Statistics",
+   "text": "The following table gives the distribution of the life time of 400 neon lamps:\n\n| Life time (in hours) | Number of lamps |\n|---|---|\n| 1500-2000 | 14 |\n| 2000-2500 | 56 |\n| 2500-3000 | 60 |\n| 3000-3500 | 86 |\n| 3500-4000 | 74 |\n| 4000-4500 | 62 |\n| 4500-5000 | 48 |\n\nFind the median life time of a lamp.",
+   "options": null,
+   "figure": null,
+   "answer": "Cumulative frequencies: 14, 70, 130, 216, 290, 352, 400. $N=400$, $\\frac{N}{2}=200$, and the cumulative frequency just greater than 200 is 216, so the median class is 3000-3500. $l=3000$, $f=86$, $cf=130$, $h=500$. Median $=l+\\left(\\frac{\\frac{n}{2}-cf}{f}\\right)\\times h=3000+\\frac{200-130}{86}\\times500=3000+\\frac{70\\times500}{86}=3406.98$ hours.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q35"
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "ncert",
+   "text": "A toy is in the form of a cone of radius 7 cm mounted on a hemisphere of the same radius. The total height of the toy is 31 cm. Use $\\pi=\\frac{22}{7}$.",
+   "options": null,
+   "answer": null,
+   "subparts": [
+    {
+     "text": "What is the height of the conical part of the toy?",
+     "marks": 1,
+     "options": null,
+     "answer": "Height of the hemisphere $=$ its radius $=7$ cm, so height of cone $=31-7=24$ cm."
+    },
+    {
+     "text": "Find the slant height of the conical part.",
+     "marks": 1,
+     "options": null,
+     "answer": "$l=\\sqrt{r^2+h^2}=\\sqrt{49+576}=\\sqrt{625}=25$ cm."
+    },
+    {
+     "text": "Find the total surface area of the toy.",
+     "marks": 2,
+     "options": null,
+     "answer": "TSA $=$ CSA of cone $+$ CSA of hemisphere $=\\pi rl+2\\pi r^2=\\frac{22}{7}\\times7\\times25+2\\times\\frac{22}{7}\\times49=550+308=858$ cm$^2$."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch02_Polynomials",
+   "text": "An object which is thrown or projected into the air, subject to only the acceleration of gravity is called a projectile, and its path is called its trajectory. This curved path was shown by Galileo to be a parabola. Parabola is represented by a polynomial. If the polynomial to represent the distance covered is,\n$p(t)=-5t^2+40t+1.2$",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the degree of the polynomial $p(t)=-5t^2+40t+1.2$?",
+     "marks": 1,
+     "options": null,
+     "answer": "2"
+    },
+    {
+     "text": "What is the height of the projectile at the time of 4 seconds after it is launched?",
+     "marks": 1,
+     "options": null,
+     "answer": "$p(4)=-5(16)+40(4)+1.2=-80+160+1.2=81.2$ m."
+    },
+    {
+     "text": "What is the name of the polynomial $p(t)=-5t^2+40t+1.2$ that is classified based on its degree?",
+     "marks": 2,
+     "options": null,
+     "answer": "Quadratic polynomial.",
+     "or": {
+      "text": "What are the factors of the given quadratic equation $p(x)=x^2-5x+6$?",
+      "options": null,
+      "answer": "$x^2-5x+6=(x-3)(x-2)$; the factors are $(x-3)$ and $(x-2)$.",
+      "chapter": "Ch02_Polynomials"
+     }
+    }
+   ],
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q37"
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch06_Triangles",
+   "text": "The law of reflection states that when a ray of light reflects off a surface, the angle of incidence is equal to the angle of reflection.\nSuresh places a mirror on level ground to determine the height of a pole (with traffic light fired on it). He stands at a certain distance so that he can see the top of the pole reflected from the mirror. Suresh's eye level is 1.5 m above the ground. The distance of Suresh and the pole from the mirror are 1.8 m and 6 m respectively.",
+   "options": null,
+   "figure": "fig_p08_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Which criterion of similarity is applicable to similar triangles?",
+     "marks": 1,
+     "options": null,
+     "answer": "AA criterion"
+    },
+    {
+     "text": "What is the height of the pole?",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\triangle ABE\\sim\\triangle CDE$ (by AA criteria), so $\\frac{AB}{CD}=\\frac{BE}{DE}\\Rightarrow h=\\frac{6\\times1.5}{1.8}=5$. Height of pole = 5 m."
+    },
+    {
+     "text": "If angle of incidence is i, find tan i.",
+     "marks": 2,
+     "options": null,
+     "answer": "$\\tan i=\\frac{6}{5}$",
+     "or": {
+      "text": "Now Suresh move behind such that distance between pole and Suresh is 13 meters. He place mirror between him and pole to see the reflection of light in right position. What is the distance between mirror and Suresh?",
+      "options": null,
+      "answer": "Let the mirror be $x$ m from the pole; triangles similar: $\\frac{1.5}{5}=\\frac{13-x}{x}\\Rightarrow1.5x=65-5x\\Rightarrow6.5x=65\\Rightarrow x=10$. Distance of Suresh from mirror $=13-x=13-10=3$ m."
+     }
+    }
+   ],
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q38"
+  }
+ ]
+}

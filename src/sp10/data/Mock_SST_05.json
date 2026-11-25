@@ -1,0 +1,1076 @@
+{
+ "subject": "SST",
+ "paper": "Mock_05",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "origin": "variant",
+   "basis": "Paper_10 Q2",
+   "basis_question": {
+    "no": 2,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch05_History_Print_Culture",
+    "text": "Study the picture and answer the question that follows:\nWhich of the following option best describe the given image?",
+    "options": [
+     "Royal workshop in the sixteenth century",
+     "Royal palace in the sixteenth century",
+     "Royal coronation in the sixteenth century",
+     "Royal wedding event in the sixteenth century"
+    ],
+    "figure": "fig_p02_0.png",
+    "answer": "(a) Royal workshop in the sixteenth century — this is a royal workshop in the sixteenth century, much before printing began in India; the text is being dictated, written and illustrated by hand.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Which of the following best describes the handwritten manuscripts used in India before the age of print?",
+   "options": [
+    "Expensive, fragile and difficult to handle",
+    "Cheap, durable and available to everyone",
+    "Produced in thousands of copies within a few days",
+    "Written in a single standard script that all could read"
+   ],
+   "answer": "(a) Expensive, fragile and difficult to handle. Manuscripts were copied by hand on palm leaves or handmade paper, were costly and fragile, had to be handled carefully, and being written in various styles could not be read easily, so they were not widely used in everyday life.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "ncert",
+   "text": "The Rowlatt Act of 1919 was opposed by Indians mainly because it",
+   "options": [
+    "banned the manufacture of salt by Indians",
+    "allowed detention of political prisoners without trial for two years",
+    "introduced separate electorates for Muslims",
+    "forced peasants to grow indigo on a part of their land"
+   ],
+   "answer": "(b) allowed the government to detain political prisoners without trial for two years. The Act gave the government enormous powers to repress political activities, which Gandhiji called unjust and which led to the Rowlatt Satyagraha.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Study the picture and answer the question that follows:\nDuring the Salt March, Mahatma Gandhi was accompanied by how many volunteers before they were joined by thousands?",
+   "options": [
+    "66",
+    "97",
+    "78",
+    "58"
+   ],
+   "figure": "fig_p02_0.png",
+   "answer": "(c) 78. During the Salt March Gandhiji was accompanied by 78 volunteers; on the way they were joined by thousands.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q2"
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "origin": "variant",
+   "basis": "Paper_10 Q1",
+   "basis_question": {
+    "no": 1,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) This personality remarked, \"When France sneezes, the rest of Europe catches a cold\". | (i) Karol Kurpinski |\n| (b) This personality is considered as \"the most dangerous enemy of social order\". | (ii) Duke Metternich |\n| (c) This personality claimed that true German culture was to be discovered among the common people-das volk. | (iii) Giuseppe Mazzini |\n| (d) This personality celebrated the national struggle through his operas and music. | (iv) Johann Gottfried Herder |",
+    "options": [
+     "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)",
+     "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+     "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)",
+     "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)"
+    ],
+    "figure": null,
+    "answer": "(d) (a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Match the following:\n\n| Column A | Column B |\n|---|---|\n| (a) Otto von Bismarck | (i) Led the Red Shirts volunteers in southern Italy |\n| (b) Giuseppe Garibaldi | (ii) Chief minister of Prussia who unified Germany with the help of the army and bureaucracy |\n| (c) Count Camillo Cavour | (iii) Chief minister of Sardinia-Piedmont who led the movement to unify the Italian states |\n| (d) Frederic Sorrieu | (iv) French artist who visualised a world of democratic and social republics |",
+   "options": [
+    "(a) - (i), (b) - (ii), (c) - (iii), (d) - (iv)",
+    "(a) - (ii), (b) - (i), (c) - (iii), (d) - (iv)",
+    "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)",
+    "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)"
+   ],
+   "answer": "(b) (a) - (ii), (b) - (i), (c) - (iii), (d) - (iv)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_History_Making_of_a_Global_World",
+   "origin": "variant",
+   "basis": "Paper_01 Q5",
+   "basis_question": {
+    "no": 5,
+    "section": "A",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch03_History_Making_of_a_Global_World",
+    "text": "Write a note to explain the effects of The Great Depression on the Indian economy.",
+    "options": null,
+    "figure": null,
+    "answer": "i. The depression immediately affected Indian trade. India's exports and imports nearly halved between 1928 and 1934. As international prices crashed, prices in India plunged.\nii. The fall in prices had a deep impact on poor farmers. Though agricultural prices fell sharply, the colonial government refused to give any relief in taxes. Peasants producing for the world market were the worst hit.\niii. The depression proved less grim for urban India. Because of falling prices, those with fixed incomes (town-dwelling landowners who received rents, middle-class salaried employees) found themselves better off.",
+    "or": {
+     "chapter": "Ch03_History_Making_of_a_Global_World",
+     "text": "Why did European employers find it difficult to recruit labour in Africa? Give two methods they used to recruit and retain labour.",
+     "answer": "i. European employers found it difficult to recruit labour in Africa because historically Africa had abundant land and a relatively small population. For centuries land and livestock sustained African livelihood and people rarely worked for wages.\nii. Two methods used to recruit and retain labour: (a) Heavy taxes were imposed which could be paid only by working for wages on plantations and mines. (b) Inheritance laws were changed so that peasants were displaced from land.",
+     "options": null,
+     "figure": null
+    },
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Describe any two consequences of the Great Depression on the economy of the United States.",
+   "options": null,
+   "answer": "Any two of the following (1 mark each):\ni. Many banks failed or closed down as depositors rushed to withdraw their money and loans could not be recovered.\nii. Unemployment rose sharply as factories closed and companies collapsed.\niii. Prices of agricultural goods crashed, so farmers could not repay their loans and many lost their farms.\niv. Consumption and investment fell, and incomes of ordinary people declined.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch03_History_Making_of_a_Global_World",
+    "text": "How did the rinderpest epidemic of the 1890s affect the people of Africa? Give two points.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Rinderpest, a fast-spreading cattle disease, arrived in Africa in the late nineteenth century and killed about 90 per cent of the cattle, destroying the livelihoods of farmers and herders.\nii. Planters, mine owners and colonial governments monopolised the scarce surviving cattle and used this to force Africans into the labour market, as they now had to work for wages."
+   }
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "text": "\"Napoleon had destroyed democracy in France, but in the administrative field he had incorporated revolutionary principles.\" Justify the statement with suitable arguments.",
+   "options": null,
+   "figure": null,
+   "answer": "Following were the reforms brought by Napoleon in the administrative system:\ni. The Civil Code of 1804, usually known as the Napoleonic Code, did away with all privilege based on birth.\nii. It established equality before law and secured the right to property.\niii. Napoleon simplified administrative divisions, abolished the feudal system and freed peasants from serfdom and manorial dues.\niv. In the towns too, guild restrictions were removed.\nv. Transportation and communication system was improved.",
+   "or": {
+    "text": "Identify Napoleon, telling the part played by him in the France.",
+    "options": null,
+    "figure": null,
+    "answer": "Napoleon was a great French General, who won many battles for the revolutionary France and raised his nation's prestige. In many parts of Europe, like in the Dutch Republic, Switzerland, Italy and Germany, he simplified administrative divisions, abolished the feudal system and freed peasants from the serfdom and the manorial dues.\nThere was a time when he had become a terror for all the European monarchs. But in the end, his limited resources collapsed in the face of the fourth coalition of the European nations. He was defeated in the battle of Waterloo in 1815 A.D. and was sent as a prisoner to spend his last days at the small island of St. Helena where he died in 1821 A.D.",
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe"
+   },
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q6"
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "ncert",
+   "text": "Explain the main proposals of the Non-Cooperation Movement. Why did the movement slow down in the cities?",
+   "options": null,
+   "answer": "Proposals (3 marks):\ni. Surrender of titles given by the government and boycott of civil services, army and police.\nii. Boycott of courts, legislative councils, and schools and colleges run by the government.\niii. Boycott of foreign goods.\niv. If the government used repression, a full civil disobedience campaign would be launched.\nSlowing down in cities (2 marks):\nv. Khadi cloth was more expensive than mass-produced mill cloth, and poor people could not afford to buy it for long.\nvi. Boycott of British institutions needed alternative Indian institutions to replace them; these were slow to come up, so teachers and students began to return to government schools and lawyers to government courts.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Describe the participation of the rich peasants and the business classes in the Civil Disobedience Movement.",
+    "options": null,
+    "figure": null,
+    "answer": "Rich peasants (2.5 marks):\ni. Rich peasant communities such as the Patidars of Gujarat and the Jats of Uttar Pradesh were producers of commercial crops and were badly hit by the trade depression and falling prices.\nii. They could not pay the government's revenue demand, so they enthusiastically supported the movement and organised their communities; for them the fight for lower revenue was a fight against colonial rule.\niii. They were deeply disappointed when the movement was called off in 1931 without the revenue rates being revised, and many did not join again in 1932.\nBusiness classes (2.5 marks):\niv. Indian merchants and industrialists wanted protection against imports of foreign goods and a favourable exchange rate (rupee-sterling ratio); they formed the Indian Industrial and Commercial Congress (1920) and the FICCI (1927), led by G.D. Birla and Purshottamdas Thakurdas.\nv. They supported the movement by giving financial assistance and refusing to buy or sell imported goods.\nvi. They were unhappy with the prolonged disruption of business and the spread of militant activities, so after the Gandhi-Irwin Pact they did not join in large numbers again."
+   }
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_History_Print_Culture",
+   "origin": "ncert",
+   "text": "Read the following text carefully and answer the questions that follow:\nThe first printing press in Europe was developed by Johann Gutenberg in the 1430s in the German town of Strasbourg. He was familiar with wine and olive presses and drew on this knowledge to design a press. He also created metal moulds for casting the letters of the alphabet. The first book he printed was the Bible, of which about 180 copies were produced in three years, which was fast by the standards of those days. Printing slowly replaced the slow, laborious hand copying of books, and within a few decades presses were set up across Europe.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Who developed the first printing press in Europe, and in which town?",
+     "marks": 1,
+     "options": null,
+     "answer": "Johann Gutenberg, in Strasbourg (Germany)."
+    },
+    {
+     "text": "Which was the first book printed by this press?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Bible."
+    },
+    {
+     "text": "Explain two ways in which the printing press changed the production of books.",
+     "marks": 2,
+     "options": null,
+     "answer": "i. Printing reduced the time and labour needed to produce each book, so many copies could be produced more quickly and cheaply than by hand copying.\nii. Books flooded the market and reached a wider readership, including common people, creating a new reading public. (any two, 1 mark each)"
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "variant",
+   "basis": "Paper_08 Q9",
+   "basis_question": {
+    "no": 9,
+    "section": "A",
+    "marks": 2,
+    "type": "map",
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Two places A and B have been marked on the given outline map of India. Identify them and write their correct names on the lines marked on the map.\na. The place where the Indian National Congress Session was held.\nb. The place where the Jallianwala Bagh incident occurred.",
+    "options": null,
+    "figure": "fig_p03_0.png",
+    "answer": "(A) Chennai (Madras); (B) Amritsar.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "On a blank outline map of India, locate and label the following places:\na. The place in Uttar Pradesh where a violent clash in 1922 made Gandhiji withdraw the Non-Cooperation Movement.\nb. The place in Gujarat where Gandhiji organised a satyagraha among cotton mill workers in 1918.",
+   "options": null,
+   "answer": "(a) Chauri Chaura (Gorakhpur district, Uttar Pradesh); (b) Ahmedabad (Gujarat). (1 mark for each correctly located and labelled place.)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "origin": "ncert",
+   "text": "The Hirakud multipurpose project has been built on the river",
+   "options": [
+    "Mahanadi",
+    "Godavari",
+    "Krishna",
+    "Narmada"
+   ],
+   "answer": "(a) Mahanadi. The Hirakud dam is in Odisha on the river Mahanadi.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "text": "Which of the following options validates the nature worship and existence of sacred groves?\ni. Certain societies revere a particular tree that they have preserved from time immemorial.\nii. Some patches of forest or parts of large forests are left untouched by the local people and any interference with them is banned.\niii. The Mundas and the Santhal of Chota Nagpur region worship mahua and kadamba trees.\niv. Sacred qualities are ascribed to springs, mountain peaks and animals like langurs.",
+   "options": [
+    "Statement ii, iii & iv are correct.",
+    "Statement i and ii are correct.",
+    "Statement i, ii, & iii are correct.",
+    "Statement ii is correct."
+   ],
+   "figure": null,
+   "answer": "(c) Statement i, ii, & iii are correct. Statements i, ii and iii are about forests and trees while statement iv is about traditional methods of conserving nature by ascribing sacred qualities to springs, mountain peaks, plants and animals.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q13"
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "Which of the following options represents the possible reality of the production of sugarcane, tea, or rubber in India?\ni. They are grown in large areas and cover large tracts of land.\nii. Their production generally has an interface of agriculture and industry.\niii. Cultivation is done with the help of capital-intensive inputs and migrant labourers.\niv. It is practised in areas of high population pressure on land.",
+   "options": [
+    "Statement i, ii, & iii are correct.",
+    "Statement i and ii are correct.",
+    "Statement ii is correct.",
+    "Statement ii, iii & iv are correct."
+   ],
+   "figure": null,
+   "answer": "(a) Statement i, ii, & iii are correct — these are plantation crops: a single crop on a large area, with an interface of agriculture and industry, capital-intensive inputs and migrant labourers. Intensive subsistence farming is practised in areas of high population pressure on land.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q15"
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "text": "What is the percentage share of plains in the total land area?",
+   "options": [
+    "43%",
+    "20%",
+    "30%",
+    "80%"
+   ],
+   "figure": null,
+   "answer": "(a) 43% - about 43 percent of India's land area is plain, which provides facilities for agriculture and industry.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q14"
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "origin": "variant",
+   "basis": "Paper_05 Q12",
+   "basis_question": {
+    "no": 12,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch09_Geography_Agriculture",
+    "text": "Arrange the following in the correct sequence with the decreasing order of producer of cotton in India:\ni. Karnataka\nii. Madhya Pradesh\niii. Gujarat\niv. Maharashtra",
+    "options": [
+     "i, ii, iv, iii",
+     "iii, iv, ii, i",
+     "iii, ii, i, iv",
+     "iii, i, iv, ii"
+    ],
+    "figure": null,
+    "answer": "(b) iii, iv, ii, i",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "Arrange the following states in the correct sequence in decreasing order of production of tea in India:\ni. Kerala\nii. Assam\niii. Tamil Nadu\niv. West Bengal",
+   "options": [
+    "ii, iii, iv, i",
+    "ii, iv, iii, i",
+    "iv, ii, i, iii",
+    "ii, iv, i, iii"
+   ],
+   "answer": "(b) ii, iv, iii, i (Assam, West Bengal, Tamil Nadu, Kerala).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "variant",
+   "basis": "Paper_03 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "C",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "Assertion (A): There is overwhelming opposition to democracy all over the world.\nReason (R): Democracy is an accountable, responsive, and legitimate government.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(d) A is false but R is true. There is overwhelming support for democracy all over the world because it is an accountable, responsive and legitimate government.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Assertion (A): A democratic government is considered a legitimate government.\nReason (R): It is the people's own government, in which decisions are taken after consultation and discussion and by following rules and procedures.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Democracy is legitimate because it is the people's own government, even if it is sometimes slow, since decisions follow consultation and set procedures.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "origin": "variant",
+   "basis": "Paper_04 Q16",
+   "basis_question": {
+    "no": 16,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch06_Geography_Resources_and_Development",
+    "text": "Define the following terms:\ni. Current fallow land\nii. Other than current fallow\niii. Culturable waste land",
+    "options": null,
+    "figure": null,
+    "answer": "i. Current fallow land: land left uncultivated for one or less than one agricultural year.\nii. Other than current fallow land: land left uncultivated for the past 1 to 5 agricultural years.\niii. Culturable waste land: land left uncultivated for more than 5 agricultural years; it was used in the past but has been abandoned for some reason.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Define the following terms:\ni. Net sown area\nii. Barren and wasteland\niii. Land put to non-agricultural uses",
+   "options": null,
+   "answer": "i. Net sown area: the area sown with crops and orchards; area sown more than once is counted only once.\nii. Barren and wasteland: rocky, arid and desert areas that cannot be brought under cultivation with the available technology at reasonable cost.\niii. Land put to non-agricultural uses: land used for buildings, roads, railways, factories, etc.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "Describe the importance of minerals in human life.",
+   "options": null,
+   "figure": null,
+   "answer": "Minerals are an indispensable part of human life.\ni. Almost everything we use, from a tiny pin to a towering building or a big ship, is made from minerals.\nii. Railway lines, the tarmac of roads, implements and machinery are made from minerals.\niii. Cars, buses, trains and aeroplanes are manufactured from minerals and run on power resources derived from the earth.\niv. In all stages of development human beings have used minerals for livelihood, decoration, festivities, religious and ceremonial rites.\nv. Availability of minerals helps in the economic development of the country.\nvi. Our food too contains minerals.",
+   "or": {
+    "chapter": "Ch10_Geography_Minerals_and_Energy",
+    "text": "\"We have to use a planned and sustainable manner to conserve our minerals.\" Support the statement by giving suitable arguments.",
+    "answer": "Replenishing used resources is a slow process, as minerals take millions of years to form inside the earth; once exhausted they cannot be replaced quickly, so they are practically non-renewable. Judicious use of mineral resources is therefore essential to prevent wastage and over-exploitation and ensure future generations also have access to them.\nImproving mining technology enables efficient extraction of metals from low-grade ores at lower costs, reducing pressure on high-grade deposits and conserving energy.\nReusing and recycling metals such as iron, aluminium and copper conserves minerals by minimising the need for new mining while reducing pollution.\nEnforcing strict environmental laws and regulations is necessary to control illegal and harmful mining practices, safeguarding forests, land, water resources and public health.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q17"
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "Most of the objections to the projects arose due to their failure to achieve the purposes for which they were built. Ironically, the dams that were constructed to control the floods have triggered floods due to sedimentation in the reservoir. Moreover, the big dams have mostly been unsuccessful in controlling floods at the time of excessive rainfall. You may have seen or read how the release of water from the dams during heavy rains aggravated the flood situation in Maharashtra and Gujarat in 2006. The floods have not only devastated life and property but also caused extensive soil erosion. Sedimentation also meant that the flood plains were deprived of silt, a natural fertiliser, further adding on to the problem of land degradation. It was also observed that the multi-purpose projects induced earthquakes, caused water-borne diseases and pests and pollution resulting from excessive use of water.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Name the movement against the river project in Gujarat.",
+     "marks": 1,
+     "options": null,
+     "answer": "Narmada Bachao Andolan"
+    },
+    {
+     "text": "Analyse any two merits of multi-purpose river projects.",
+     "marks": 1,
+     "options": null,
+     "answer": "Multipurpose projects serve as a source of electricity generation, provide a reliable source of water for irrigation, provide water for domestic and industrial purposes, aid in flood control, facilitate recreational activities, support inland navigation, and promote fish breeding. (any two)"
+    },
+    {
+     "text": "How have the big dams mostly been unsuccessful in controlling floods at the time of excessive rainfall?",
+     "marks": 2,
+     "options": null,
+     "answer": "The very dams built to mitigate floods have sometimes triggered floods due to sedimentation in their reservoirs. As rivers carry sediment downstream, it accumulates in the dam reservoirs. Over time, this reduces the storage capacity of the reservoirs. When heavy rainfall occurs, the dams may not have enough space to hold the excess water, leading to uncontrolled releases downstream."
+    }
+   ],
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q18"
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. Steel Plant that was established in 1964 with the help of the Soviet collaboration in Jharkhand.\nii. Software Technology Park in the capital city of Gujarat.\nII. Any two of the following:\niii. Tarapur - Nuclear Power Plant\niv. Salal - Dam\nv. Tuticorin - Sea Port",
+   "options": null,
+   "figure": "fig_p13_0.png",
+   "answer": "i. Bokaro - Iron and Steel Plant\nii. Gandhinagar - Software Technology Park\niii. Tarapur - Nuclear Power Plant (Maharashtra coast)\niv. Salal - Dam (Jammu and Kashmir)\nv. Tuticorin - Sea Port (Tamil Nadu)\n(Figure shows the marked answer map.)",
+   "or": null,
+   "subparts": null,
+   "note": "Map mixes industries (Ch11), power/minerals (Ch10) and ports (Ch12); Minerals and Energy chosen as main.",
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q19"
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the appropriate answer from the options given below as the correct answer:\nAssertion (A): Bengaluru has developed as one of the leading centres of the Information Technology and electronics industry in India.\nReason (R): The city is located close to major ports, which has been the primary factor encouraging the growth of electronics and IT industries there.",
+   "options": [
+    "(A) Both A and R are true, and R is the correct explanation of A",
+    "(B) Both A and R are true, but R is not the correct explanation of A",
+    "(C) A is true, but R is false",
+    "(D) A is false, but R is true"
+   ],
+   "figure": null,
+   "answer": "(C) A is true, but R is false",
+   "or": null,
+   "subparts": null,
+   "paper": "CBSE_Official",
+   "origin": "real",
+   "basis": "CBSE_Official Q15"
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "origin": "variant",
+   "basis": "Paper_10 Q32",
+   "basis_question": {
+    "no": 32,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch18_Economics_Development",
+    "text": "Only income is not the proper indicator of the development of the country. Which of the following is not correct in the context of the above statement?",
+    "options": [
+     "Money helps us buy only material goods and services",
+     "Money cannot ensure a pollution-free environment for individuals",
+     "Some people earn more than others do",
+     "Money does not ensure respect and dignity for individuals"
+    ],
+    "figure": null,
+    "answer": "(c) Some people earn more than others do — development goals are not only about better income; money cannot buy a pollution-free environment, unadulterated medicines, or protection from infectious diseases unless the whole community takes preventive steps.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Which of the following best explains why average income alone is not a sufficient indicator of the development of a country?",
+   "options": [
+    "It hides the inequalities in the distribution of income among the people",
+    "It is very difficult to calculate for any country",
+    "It does not take the size of the population into account",
+    "It is always the same for all the countries"
+   ],
+   "answer": "(a) It hides the inequalities in the distribution of income among the people. Average income does not tell how income is distributed, nor does it show the health, education or environmental conditions of people.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "origin": "variant",
+   "basis": "Paper_07 Q20",
+   "basis_question": {
+    "no": 20,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch16_PolSci_Political_Parties",
+    "text": "Which of the following statements reflects a lack of internal democracy within a political party?\nStatement i: Parties do not keep membership registers, do not hold organisational meetings.\nStatement ii: They fail to conduct internal elections regularly.\nStatement iii: Top party leaders assume greater powers and make all the major decisions in the name of the party.\nStatement iv: The opinions of those who disagree with the leadership are considered and given due importance.",
+    "options": [
+     "Statement i and ii are right.",
+     "Statement iii is right.",
+     "Statement i, ii and iii are right.",
+     "Only statement iv is right."
+    ],
+    "figure": null,
+    "answer": "(c) Statement i, ii and iii are right. Since one or few leaders exercise paramount power in the party, those who disagree with the leadership find it difficult to continue; personal loyalty to the leader becomes more important than loyalty to party principles.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Which of the following statements about the challenge of dynastic succession in political parties are correct?\nStatement i: In many parties top positions are always controlled by members of one family.\nStatement ii: Persons without adequate experience or popular support may come to occupy positions of power.\nStatement iii: Ordinary party workers get an equal chance to rise to the top.\nStatement iv: This tendency is a challenge to democracy.",
+   "options": [
+    "Statement i and ii are right.",
+    "Statement iii is right.",
+    "Statement i, ii and iv are right.",
+    "Only statement iv is right."
+   ],
+   "answer": "(c) Statement i, ii and iv are right. Statement iii is wrong because dynastic succession denies ordinary members a fair chance of rising to the top.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "It is an organ of the government which executes and enforces laws made by legislature.",
+   "options": [
+    "Defence",
+    "Judiciary",
+    "Legislature",
+    "Executive"
+   ],
+   "figure": null,
+   "answer": "(d) Executive. Legislature makes laws, Executive enforces those laws, Judiciary interprets those laws.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q20"
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_PolSci_Federalism",
+   "origin": "variant",
+   "basis": "Paper_02 Q24",
+   "basis_question": {
+    "no": 24,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch14_PolSci_Federalism",
+    "text": "Federal form of government is in direct contrast to the Unitary form of government. Explain the statement.",
+    "options": null,
+    "figure": null,
+    "answer": "In a federal form of government the central government shares its powers with the various constituent units, whereas in a unitary form either there is only one level of government or the sub-units are subordinate to the central government.\nIn a federal government the central government cannot order the state government to do something, whereas in a unitary government the central government can pass orders to the provincial or local government.\nBoth governments in a federation are separately answerable to the people.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Distinguish between 'coming together' federations and 'holding together' federations, giving one example of each.",
+   "options": null,
+   "answer": "Coming together federation: independent states come together on their own to form a bigger unit by pooling their sovereignty and retaining their identity, e.g. USA / Switzerland / Australia. (1)\nHolding together federation: a large country decides to divide its power between the national government and the constituent states, e.g. India / Spain / Belgium. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "origin": "variant",
+   "basis": "Paper_03 Q25",
+   "basis_question": {
+    "no": 25,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+    "text": "Describe any two provisions made in the Constitution to establish the model of 'secular governance' in India.",
+    "options": null,
+    "figure": null,
+    "answer": "i. The Constitution provides all individuals and communities the freedom to profess, practise and propagate any religion, or not to follow any.\nii. The Constitution allows the state to intervene in matters of religion to ensure equality within religious communities, e.g. it bans untouchability.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Explain any two ways in which women are still disadvantaged in India in spite of the constitutional provisions for equality.",
+   "options": null,
+   "answer": "Any two (1 mark each):\ni. The literacy rate and higher education enrolment among women are lower than among men, and women hold few highly paid jobs.\nii. Women are paid less than men for equal work in many sectors, even though the Equal Wages Act provides for equal wages.\niii. Sex-selective abortion has led to a decline in the child sex ratio in many parts of the country.\niv. Women face harassment, exploitation and violence in public spaces and in their homes.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "origin": "variant",
+   "basis": "Paper_02 Q26",
+   "basis_question": {
+    "no": 26,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch16_PolSci_Political_Parties",
+    "text": "Political parties play a major role in democracy. Explain any five points to justify this statement.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Parties contest elections: in most democracies elections are fought mainly among candidates put up by political parties.\nii. Parties put forward different policies and programmes and the voters choose from them.\niii. Parties play a decisive role in making laws for a country; they shape public opinion and raise and highlight issues.\niv. The opposition party's main function is to criticise the errors in the rules of the ruling party.\nv. Role of opposition: it voices different views and criticises the government for its failures or wrong policies.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Explain any three challenges faced by political parties in India.",
+   "options": null,
+   "answer": "Any three (1 mark each):\ni. Lack of internal democracy: parties do not hold regular organisational meetings or elections, and power is concentrated in one or few leaders.\nii. Dynastic succession: top positions are often held by members of one family, so people without experience or popular support rise to power.\niii. Money and muscle power: parties rely on rich people and companies for funds, and use criminals during elections to win.\niv. Lack of meaningful choice: parties often look similar in policies and leaders, so voters have little real choice.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "ncert",
+   "text": "Evaluate the performance of democracy in the economic sphere by examining its relation with (i) economic growth, (ii) economic inequality and (iii) poverty.",
+   "options": null,
+   "answer": "i. Economic growth (2): dictatorships have had a slightly higher rate of economic growth, but the difference is small; among poor countries there is little difference between democracies and dictatorships. Growth depends on population size, global situation, cooperation from other countries and the economic priorities adopted, so democracy alone cannot ensure growth.\nii. Economic inequality (2): democracies ensure political equality of one person one vote, but economic inequalities are growing; a small group of rich people enjoys a very large share of income and wealth, while the share of the poorest is very small.\niii. Poverty (1): democratic governments have not been able to remove poverty; many poor people are still deprived of basic needs, so democracy must be made to work for them.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "\"Democracy is a better form of government than its alternatives.\" Support the statement with five arguments.",
+    "options": null,
+    "figure": null,
+    "answer": "i. It promotes equality among citizens and enhances the dignity of the individual.\nii. It improves the quality of decision making through consultation and discussion.\niii. It provides a method to deal with differences and conflicts among different groups.\niv. It is accountable, responsive and legitimate: it is the people's own government.\nv. It allows room to correct its own mistakes, as citizens can change the government through elections. (1 mark each, any five)"
+   }
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "origin": "variant",
+   "basis": "Paper_01 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "C",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch13_PolSci_Power_sharing",
+    "text": "Read the following text carefully and answer the questions that follow:\nPower sharing arrangements can also be seen in the way political parties, pressure groups and movements control or influence those in power. In a democracy, the citizens must have freedom to choose among various contenders for power. In contemporary democracies, this takes the form of competition among different parties. Such competition ensures that power does not remain in one hand. In the long run, power is shared among different political parties that represent different ideologies and social groups. Sometimes this kind of sharing can be direct, when two or more parties form an alliance to contest elections. If their alliance is elected, they form a coalition government and thus share power. In a democracy, we find interest groups, such as those of traders, businessmen, industrialists, farmers and industrial workers. They also will have a share in governmental power, either through participation in governmental committees or bringing influence on the decision-making process.",
+    "options": null,
+    "figure": null,
+    "answer": "",
+    "or": null,
+    "subparts": [
+     {
+      "text": "What does competition among different parties ensure?",
+      "marks": 1,
+      "options": null,
+      "answer": "Such competition ensures that power does not remain in one hand. (Also: power is shared among different political parties representing different ideologies and social groups - any one point.)"
+     },
+     {
+      "text": "How are interest groups associated with politics?",
+      "marks": 1,
+      "options": null,
+      "answer": "They are associated with politics through participation in governmental committees, and they bring influence on the decision-making process (any one point)."
+     },
+     {
+      "text": "Explain the different forms of power sharing.",
+      "marks": 2,
+      "options": null,
+      "answer": "Power is shared among different organs of government (Legislative, Executive, Judiciary); among governments at different levels; among different social groups; among political parties, pressure groups and movements (any two points explained)."
+     }
+    ],
+    "paper": "Paper_01"
+   },
+   "text": "Read the following text carefully and answer the questions that follow:\nBelgium is a small European country. About 59 per cent of its people live in the Flemish region and speak Dutch, about 40 per cent live in the Wallonia region and speak French, and the remaining 1 per cent speak German. In the capital, Brussels, 80 per cent speak French and 20 per cent speak Dutch. The French-speaking minority was relatively rich and powerful, and the Dutch-speaking community, which got the benefits of economic development and education much later, resented this. This led to tensions, and to avoid civil strife Belgian leaders amended the Constitution several times to work out an arrangement acceptable to all.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Which language is spoken by the majority of people in Belgium?",
+     "marks": 1,
+     "options": null,
+     "answer": "Dutch."
+    },
+    {
+     "text": "Why did the Dutch-speaking community resent the French-speaking community?",
+     "marks": 1,
+     "options": null,
+     "answer": "The French-speaking minority was rich and powerful and had benefited early from economic development and education, whereas the Dutch-speaking community got these benefits much later."
+    },
+    {
+     "text": "Explain any two features of the Belgian model of power sharing.",
+     "marks": 2,
+     "options": null,
+     "answer": "i. The Constitution requires that the number of Dutch-speaking and French-speaking ministers in the central government be equal.\nii. State governments are not subordinate to the central government.\niii. Brussels has a separate government in which both communities have equal representation.\niv. A third kind of government, the community government, is elected by people of one language community (Dutch, French, German) and has powers over cultural, educational and language-related issues. (any two, 1 mark each)"
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "ncert",
+   "text": "Which of the following organisations aims to liberalise international trade and sets the rules for it?",
+   "options": [
+    "World Trade Organisation",
+    "International Monetary Fund",
+    "World Bank",
+    "United Nations Organisation"
+   ],
+   "answer": "(a) World Trade Organisation (WTO). It was started at the initiative of the developed countries; its aim is to liberalise international trade and to make rules regarding it.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "origin": "ncert",
+   "text": "A system in which goods are directly exchanged for other goods without the use of money is called the barter system. The essential requirement of this system is",
+   "options": [
+    "double coincidence of wants",
+    "a common medium of exchange",
+    "a central bank",
+    "formal credit"
+   ],
+   "answer": "(a) double coincidence of wants. Each party must want exactly what the other has to offer, which makes exchange difficult without money.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "origin": "variant",
+   "basis": "Paper_04 Q32",
+   "basis_question": {
+    "no": 32,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch18_Economics_Development",
+    "text": "Only income is not the proper indicator of the development of the country. Which of the following is not correct in the context of the above statement?",
+    "options": [
+     "Money helps us buy only material goods and services",
+     "Money cannot ensure a pollution-free environment for individuals",
+     "Some people earn more than others do",
+     "Money does not ensure respect and dignity for individuals"
+    ],
+    "figure": null,
+    "answer": "(c) Some people earn more than others do. Income criteria consider only the economic aspect and ignore the social aspect of life; money cannot buy a pollution-free environment, unadulterated medicines, or protection from infectious diseases unless the whole community takes preventive steps.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Which of the following is NOT one of the criteria used by the UNDP to compute the Human Development Index?",
+   "options": [
+    "Per capita income",
+    "Educational attainment of people",
+    "Health status of people",
+    "Level of industrial production"
+   ],
+   "answer": "(d) Level of industrial production. The HDI is based on health, educational attainment and per capita income.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "ncert",
+   "text": "Removal of barriers or restrictions set by the government on foreign trade is known as",
+   "options": [
+    "Liberalisation",
+    "Nationalisation",
+    "Privatisation",
+    "Protection"
+   ],
+   "answer": "(a) Liberalisation. In 1991 India removed many trade barriers, allowing goods to be imported and exported more freely.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Fill in the blank:\n\n| RESPONSIBILITY | SERVICES |\n|---|---|\n| Government-provided | Education, Administration, Transport |\n| Personal | ? |",
+   "options": [
+    "Fishing, Teaching, Gaming",
+    "Communication, Technology, Information",
+    "Transport, Trade, Storage",
+    "Eating out, Tourism, Shopping"
+   ],
+   "figure": null,
+   "answer": "(d) Eating out, Tourism, Shopping",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q31"
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "variant",
+   "basis": "CBSE_Official Q34",
+   "basis_question": {
+    "no": 34,
+    "section": "D",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+    "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the appropriate answer from the options given below as the correct answer:\nAssertion (A): Multi-National Companies help in integrating production and markets across countries.\nReason (R): They set up production units in one country and export goods and components to other countries.",
+    "options": [
+     "(A) Both A and R are true, and R is the correct explanation of A",
+     "(B) Both A and R are true, but R is not the correct explanation of A",
+     "(C) A is true, but R is false",
+     "(D) A is false, but R is true"
+    ],
+    "figure": null,
+    "answer": "(A) Both A and R are true, and R is the correct explanation of A",
+    "or": null,
+    "subparts": null,
+    "paper": "CBSE_Official"
+   },
+   "text": "Assertion (A): The Government of India has set up Special Economic Zones (SEZs) to attract foreign companies.\nReason (R): SEZs have world-class facilities and companies setting up units there do not have to pay taxes for an initial period of five years.",
+   "options": [
+    "(A) Both A and R are true, and R is the correct explanation of A",
+    "(B) Both A and R are true, but R is not the correct explanation of A",
+    "(C) A is true, but R is false",
+    "(D) A is false, but R is true"
+   ],
+   "answer": "(A) Both A and R are true, and R is the correct explanation of A",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "ncert",
+   "text": "Explain any three ways in which multinational companies (MNCs) control production in other countries.",
+   "options": null,
+   "answer": "Any three (1 mark each):\ni. MNCs set up offices and factories in regions where cheap labour and other resources are available.\nii. They set up production jointly with local companies, bringing investment and latest technology while gaining access to the local company's assets such as land and knowledge of the market.\niii. They buy up local companies and expand their production.\niv. They place orders for production with small producers (e.g. garments, footwear, sports items) and sell the goods under their own brand name, controlling prices and quality.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "origin": "variant",
+   "basis": "Paper_09 Q37",
+   "basis_question": {
+    "no": 37,
+    "section": "D",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+    "text": "Define 'Gross Domestic Product' and explain its importance.",
+    "options": null,
+    "figure": null,
+    "answer": "A. The value of final goods and services produced in each sector during a particular year provides the total production of the sector for that year, and the sum of production in the three sectors gives the Gross Domestic Product of a country. B. Importance: (i) Measure of economic performance: GDP helps measure the economic strength and performance of a country. (ii) Indicator of standard of living: a higher GDP often indicates a higher standard of living and better wellbeing of the people.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "What are intermediate goods and final goods? Why are only final goods and services counted while calculating the Gross Domestic Product?",
+   "options": null,
+   "answer": "i. Intermediate goods are goods used up in producing final goods and services, e.g. wheat used to make flour, or flour used to make biscuits. (1)\nii. Final goods are goods that reach the consumers, e.g. biscuits. (1)\niii. Only final goods are counted because the value of intermediate goods is already included in the value of final goods; counting them separately would count the same value again and again. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch18_Economics_Development",
+   "origin": "variant",
+   "basis": "Paper_06 Q37",
+   "basis_question": {
+    "no": 37,
+    "section": "D",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch18_Economics_Development",
+    "text": "\"People can have different developmental goals.\" Explain the statement with examples.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Social and cultural needs of every person are different and so are goals.\nii. A girl expects as much freedom and opportunity as her brother and that he also shares in the household work, but her brother may not like this.\niii. The people around water bodies, like tribals, may prefer small check dams or tanks to irrigate their lands.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "\"What is development for one may be destructive for another.\" Explain this statement with examples.",
+   "options": null,
+   "answer": "i. Different people have different developmental goals, and what is beneficial to one person or group may harm another. (1)\nii. Building a big dam may bring electricity and water to industrialists and urban dwellers, but the tribal and village people whose land gets submerged are displaced and lose their livelihood. (1)\niii. An industrialist may want more power supply and cheap labour for his factory, while villagers may want a pollution-free environment and fair wages. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "text": "Analyse the role of credit in the development of a nation.",
+   "options": null,
+   "figure": null,
+   "answer": "Credit plays a vital role in the development of a nation by facilitating economic growth and improving the standard of living. It increases the production capacity of individual entrepreneurs and companies, allowing them to expand businesses, earn higher profits, and contribute to overall economic prosperity. For industrialists, credit helps manage ongoing production expenses and ensures timely completion of projects, maintaining smooth operations.\nCredit also benefits consumers, enabling them to make significant purchases like homes, vehicles, and gadgets, which improves their quality of life and social status. In agriculture, credit allows farmers to buy better seeds, fertilizers, and equipment, resulting in higher crop yields and modernized farming practices. Additionally, access to credit supports research and development, fostering innovation and enhancing the scientific and technological capabilities of the nation. Overall, credit is a crucial instrument for promoting entrepreneurship, productivity, and sustainable development.",
+   "or": {
+    "text": "Why is it necessary for banks and co-operatives to extend their lending activities in rural areas? Explain.",
+    "options": null,
+    "figure": null,
+    "answer": "Banks and cooperatives should increase lending facilities in rural areas because of the following reasons:\ni. The formal sector i.e. the banks and the cooperatives need to engage more in the lending activities because of the disadvantages posed by the informal sector.\nii. The high cost of borrowing discourages many people who wish to start an enterprise. It also significantly reduces the income of the borrower as much of the earnings go into repayment of the loan.\niii. Dependence on informal sources of credit reduces.\niv. To provide more loan facilities to rural households.\nv. To save rural people from exploitation. Often it leads to a debt trap where the amount to be repaid is more than the borrower's income and he has to borrow more.\nvi. It is important that the formal credit is distributed more equally so that the poor can benefit from the cheaper loans.\nvii. The banks and the cooperative societies have to increase the lending facilities to improve the livelihood of the people in rural areas.",
+    "chapter": "Ch19_Economics_Money_and_Credit"
+   },
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q38"
+  }
+ ]
+}

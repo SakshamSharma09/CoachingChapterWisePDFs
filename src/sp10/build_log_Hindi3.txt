@@ -1,0 +1,40 @@
+Hindi items 447
+Ch01_Netaji_ka_Chashma 14 -> 14 questions 44 marks
+Ch02_Balgobin_Bhagat 20 -> 20 questions 53 marks
+Ch03_Lakhnavi_Andaz 22 -> 22 questions 65 marks
+Ch04_Ek_Kahani_Yah_Bhi 22 -> 21 questions 58 marks
+Ch05_Naubatkhane_mein_Ibadat 18 -> 18 questions 52 marks
+Ch06_Sanskriti 24 -> 24 questions 67 marks
+Ch07_Mata_ka_Anchal 14 -> 13 questions 50 marks
+Ch08_Sana_Sana_Hath_Jodi 23 -> 23 questions 81 marks
+Ch09_Main_Kyon_Likhta_Hoon 24 -> 24 questions 85 marks
+Ch10_Pad_Surdas 15 -> 15 questions 48 marks
+Ch11_Ram_Lakshman_Parshuram_Samvad 14 -> 14 questions 49 marks
+Ch12_Atmakathya 21 -> 21 questions 66 marks
+Ch13_Utsah_aur_At_Nahin_Rahi_Hai 14 -> 14 questions 35 marks
+Ch14_Yah_Danturit_Muskan_aur_Fasal 25 -> 25 questions 68 marks
+Ch15_Sangatkar 25 -> 25 questions 66 marks
+OTHER 8 -> 8 questions 47 marks
+SKILL_Grammar 48 -> 42 questions 168 marks
+SKILL_Reading 19 -> 19 questions 133 marks
+SKILL_Writing 77 -> 77 questions 374 marks
+test SecA_Reading_Apathit 1 13 questions
+test SecA_Reading_Apathit 2 13 questions
+test SecB_Grammar_Vyakaran 1 20 questions
+test SecB_Grammar_Vyakaran 2 20 questions
+test SecC_Textbook 1 25 questions
+test SecC_Textbook 2 24 questions
+test SecC_Textbook 3 30 questions
+test SecC_Textbook 4 28 questions
+test SecC_Textbook 5 29 questions
+test SecC_Textbook 6 28 questions
+test SecC_Textbook 7 25 questions
+test SecC_Textbook 8 26 questions
+test SecC_Textbook 9 27 questions
+test SecC_Textbook 10 26 questions
+test SecC_Textbook 11 24 questions
+test SecD_Writing 1 16 questions
+test SecD_Writing 2 16 questions
+test SecD_Writing 3 17 questions
+test SecD_Writing 4 17 questions
+test SecD_Writing 5 16 questions

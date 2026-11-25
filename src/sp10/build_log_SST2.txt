@@ -1,0 +1,41 @@
+SST items 644
+Ch01_History_Rise_of_Nationalism_in_Europe 48 -> 46 questions 130 marks
+Ch02_History_Nationalism_in_India 43 -> 42 questions 103 marks
+Ch03_History_Making_of_a_Global_World 25 -> 25 questions 48 marks
+Ch04_History_Age_of_Industrialisation 25 -> 25 questions 55 marks
+Ch05_History_Print_Culture 27 -> 26 questions 62 marks
+Ch06_Geography_Resources_and_Development 25 -> 25 questions 38 marks
+Ch07_Geography_Forest_and_Wildlife 29 -> 25 questions 44 marks
+Ch08_Geography_Water_Resources 27 -> 25 questions 47 marks
+Ch09_Geography_Agriculture 25 -> 25 questions 43 marks
+Ch10_Geography_Minerals_and_Energy 30 -> 30 questions 107 marks
+Ch11_Geography_Manufacturing_Industries 26 -> 25 questions 87 marks
+Ch12_Geography_Lifelines_of_National_Economy 25 -> 25 questions 62 marks
+Ch13_PolSci_Power_sharing 26 -> 25 questions 53 marks
+Ch14_PolSci_Federalism 26 -> 25 questions 63 marks
+Ch15_PolSci_Gender_Religion_and_Caste 25 -> 25 questions 54 marks
+Ch16_PolSci_Political_Parties 29 -> 27 questions 94 marks
+Ch17_PolSci_Outcomes_of_Democracy 28 -> 28 questions 66 marks
+Ch18_Economics_Development 28 -> 25 questions 56 marks
+Ch19_Economics_Money_and_Credit 35 -> 35 questions 69 marks
+Ch20_Economics_Globalisation_and_Indian_Economy 26 -> 25 questions 47 marks
+Ch21_Economics_Consumer_Rights 25 -> 25 questions 64 marks
+Ch22_Sectors_of_the_Indian_Economy 41 -> 41 questions 106 marks
+test SecA_History 1 33 questions
+test SecA_History 2 31 questions
+test SecA_History 3 36 questions
+test SecA_History 4 36 questions
+test SecA_History 5 33 questions
+test SecB_Geography 1 31 questions
+test SecB_Geography 2 39 questions
+test SecB_Geography 3 31 questions
+test SecB_Geography 4 34 questions
+test SecB_Geography 5 38 questions
+test SecC_Political_Science 1 35 questions
+test SecC_Political_Science 2 28 questions
+test SecC_Political_Science 3 30 questions
+test SecC_Political_Science 4 33 questions
+test SecD_Economics 1 30 questions
+test SecD_Economics 2 31 questions
+test SecD_Economics 3 40 questions
+test SecD_Economics 4 42 questions

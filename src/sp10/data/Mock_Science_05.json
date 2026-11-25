@@ -1,0 +1,1126 @@
+{
+ "subject": "Science",
+ "paper": "Mock_05",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "variant",
+   "basis": "Paper_09 Q6",
+   "basis_question": {
+    "no": 6,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch05_Life_Processes",
+    "text": "Temporary finger-like extensions on the cell surface to take in food is formed in:",
+    "options": [
+     "Leishmania",
+     "Amoeba",
+     "Paramoecium",
+     "Rhizopus"
+    ],
+    "figure": null,
+    "answer": "(b) Amoeba (pseudopodia)",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "The tiny hair-like structures that Paramoecium uses to sweep food particles towards a specific spot (the mouth) of its cell are:",
+   "options": [
+    "Pseudopodia",
+    "Cilia",
+    "Flagella",
+    "Villi"
+   ],
+   "answer": "(b) Cilia — in Paramoecium, food is taken in at a specific spot, and the cilia covering the cell surface move constantly to bring food there.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "text": "The genetic constitution of an organism is called",
+   "options": [
+    "Phenotype",
+    "Genome",
+    "Trait",
+    "Genotype"
+   ],
+   "figure": null,
+   "answer": "(d) Genotype — the genotype is the genetic makeup (DNA sequence) of a cell/organism which determines a specific characteristic.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q2"
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "ncert",
+   "text": "The part of the human brain that is responsible for maintaining posture and balance of the body is the",
+   "options": [
+    "Cerebrum",
+    "Cerebellum",
+    "Medulla",
+    "Pons"
+   ],
+   "answer": "(b) Cerebellum — it controls precision of voluntary actions and maintains posture and equilibrium.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "The production of which hormone in adults leads to a gorilla-like appearance called acromegaly?",
+   "options": [
+    "Growth hormone",
+    "Adrenaline",
+    "Thyroxine",
+    "Testosterone"
+   ],
+   "figure": null,
+   "answer": "(a) Growth hormone — produced by the pituitary gland; its excess in adults causes the growth hormone disorder (acromegaly).",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q7"
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "variant",
+   "basis": "Paper_10 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch13_Our_Environment",
+    "text": "In the food chains given below. Select the most efficient food chain in terms of energy:",
+    "options": [
+     "(a) Phytoplankton $\\rightarrow$ Zooplankton $\\rightarrow$ Small Fish $\\rightarrow$ Big Fish",
+     "(b) Plants $\\rightarrow$ Man",
+     "(c) Grass $\\rightarrow$ Grasshopper $\\rightarrow$ Frog $\\rightarrow$ Snake",
+     "(d) Plants $\\rightarrow$ Deer $\\rightarrow$ Lion"
+    ],
+    "figure": null,
+    "answer": "(b) Plants $\\rightarrow$ Man. The shorter the food chain, the less energy is lost, so it is the most efficient.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "In the food chain: Grass $\\rightarrow$ Grasshopper $\\rightarrow$ Frog $\\rightarrow$ Snake, the producers (grass) fix 20000 J of energy. Assuming that only 10% of the energy is passed on to the next trophic level, the energy available to the snake is:",
+   "options": [
+    "2000 J",
+    "200 J",
+    "20 J",
+    "2 J"
+   ],
+   "answer": "(c) 20 J — by the 10% law: grasshopper 2000 J, frog 200 J, snake 20 J.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "variant",
+   "basis": "Paper_03 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch05_Life_Processes",
+    "text": "In the following diagram of the stomatal apparatus, which parts are incorrectly labelled ?",
+    "options": [
+     "I and IV",
+     "IV and V",
+     "I and V",
+     "II and III"
+    ],
+    "figure": "fig_p01_0.png",
+    "answer": "(d) II and III — the other labels are correct.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Which of the following statements about stomata is incorrect?",
+   "options": [
+    "Guard cells regulate the opening and closing of the stomatal pore.",
+    "Stomata are the sites of exchange of gases and of loss of water vapour in transpiration.",
+    "Stomata open when guard cells lose water and become flaccid.",
+    "Most of the water lost from the leaves of a plant escapes through stomata."
+   ],
+   "answer": "(c) Stomata open when guard cells lose water and become flaccid — incorrect. Guard cells swell when water flows into them and the pore opens; when they shrink (lose water), the pore closes.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "variant",
+   "basis": "Paper_06 Q5",
+   "basis_question": {
+    "no": 5,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch13_Our_Environment",
+    "text": "The ozone layer is mainly damaged by:",
+    "options": [
+     "Chlorofluorocarbons",
+     "Sulphur dioxide",
+     "Methane",
+     "Carbon dioxide"
+    ],
+    "figure": null,
+    "answer": "(a) Chlorofluorocarbons — the decrease in ozone in the atmosphere has been linked to synthetic chemicals like CFCs (used as refrigerants and in fire extinguishers).",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "Ozone at the higher levels of the atmosphere is formed when oxygen molecules ($\\mathrm{O_2}$) are split into free oxygen atoms by the action of:",
+   "options": [
+    "Infrared radiation",
+    "Ultraviolet radiation",
+    "Visible light",
+    "Radio waves"
+   ],
+   "answer": "(b) Ultraviolet radiation — UV radiation splits $\\mathrm{O_2}$ into atoms, which then combine with $\\mathrm{O_2}$ molecules to form ozone ($\\mathrm{O_3}$).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "Assertion (A): Characteristics of parental plants can be preserved through asexual reproduction.\nReason (R): Vegetative reproduction involves only mitosis.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A.",
+    "Both A and R are true, and R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. Asexual reproduction involves a single individual and gives genetically identical offspring because only mitotic divisions are involved and the chromosome number remains the same.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q8"
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch08_Heredity",
+   "text": "Assertion (A): The sex of a child in human beings will be determined by the type of chromosome he/she inherits from the father.\nReason (R): A child who inherits X chromosome from his father would be a girl (XX), while a child who inherits a Y chromosome from the father would be a boy (XY).",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q9"
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "In the following figure showing a germinating gram seed, name the parts labelled as A, B and C:\nWhy is part B considered to be important during germination?",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "A is the plumule, B is the cotyledon and C is the radicle.\nThe cotyledon (B) serves as a food store; it provides nutrients to the growing embryo during germination.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q10"
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "What are trophic levels? Give an example of a food chain and state the different trophic levels in it.",
+   "options": null,
+   "figure": null,
+   "answer": "Each step in a food chain through which the transfer of food takes place constitutes a trophic level. Example: Grass (trophic level I) → Deer (trophic level II) → Lion (trophic level III).",
+   "or": {
+    "text": "What are the problems caused by the non-biodegradable wastes that we generate?",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch13_Our_Environment",
+    "answer": "a. Plastics, which do not get decomposed, accumulate in soil and water bodies and pollute these natural resources.\nb. Non-biodegradable substances like pesticides and fertilizers mix with run-off and enter water bodies. Excess fertilizers cause excess growth of algae on the surface, leading to oxygen depletion and affecting aquatic organisms; toxic pesticides also affect aquatic plants and animals.\nc. Non-biodegradable pesticides like DDT enter the food chain and cause biomagnification in humans and other animals."
+   },
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q11"
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "variant",
+   "basis": "Paper_03 Q12",
+   "basis_question": {
+    "no": 12,
+    "section": "A",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch06_Control_and_Coordination",
+    "text": "Name the hormones secreted by the following endocrine glands and specify one function of each:\na. Thyroid\nb. Pituitary\nc. Pancreas",
+    "options": null,
+    "figure": null,
+    "answer": "a. Thyroid: thyroxine - regulates carbohydrate, protein and fat metabolism for best balance of growth.\nb. Pituitary: growth hormone - regulates growth and development of the body.\nc. Pancreas: insulin - regulates blood sugar level.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "Name the endocrine gland that secretes each of the following hormones and specify one function of each:\na. Insulin\nb. Adrenaline\nc. Testosterone",
+   "options": null,
+   "answer": "a. Insulin: secreted by the pancreas - regulates (lowers) blood sugar level.\nb. Adrenaline: secreted by the adrenal gland - prepares the body to deal with emergency situations (increases heart rate, breathing rate, blood supply to muscles).\nc. Testosterone: secreted by the testis - brings about changes in appearance (secondary sexual characters) at the time of puberty in boys and regulates sperm formation.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "origin": "variant",
+   "basis": "Paper_08 Q13",
+   "basis_question": {
+    "no": 13,
+    "section": "A",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch08_Heredity",
+    "text": "a. Name the two types of gametes produced by men.\nb. Does a male child inherit X chromosome from his father? Justify.\nc. How many types of gametes are produced by a human female?",
+    "options": null,
+    "figure": null,
+    "answer": "a. Sperm having X chromosome and sperm having Y chromosome.\nb. No. A male child gets only the Y chromosome from his father and the X chromosome from his mother, to have XY chromosomes.\nc. One type only (ovum/egg, all with X chromosome).",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "a. Write the sex chromosomes present in a normal human male and in a normal human female.\nb. Who determines the sex of a child, the father or the mother? Justify.\nc. What is the probability that a child born to a couple will be a girl?",
+   "options": null,
+   "answer": "a. Human male: XY; human female: XX.\nb. The father. Every egg of the mother carries an X chromosome only, whereas the father produces two types of sperms, X-bearing and Y-bearing. An X sperm fertilising the egg gives a girl (XX); a Y sperm gives a boy (XY).\nc. Probability = 1/2, i.e. 50%, since X-bearing and Y-bearing sperms are equally likely to fertilise the egg.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "origin": "variant",
+   "basis": "Paper_05 Q13",
+   "basis_question": {
+    "no": 13,
+    "section": "A",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch08_Heredity",
+    "text": "The lowest part of the ear called earlobe, is closely attached to the side of the head in some of us (Figure 'X'), and not in others, called free earlobe (Figure 'Y'). Attached and free earlobes are two variants found in human populations. The gene for free earlobe is dominant over attached earlobes.\na. A man with attached earlobes marries a woman having free earlobes. $50\\%$ of their children have free earlobes and $50\\%$ have attached earlobes. Explain the inheritance of this trait and write the trait combinations of the progeny.\nb. Write the gene combinations of the father and the mother in the above case.",
+    "options": null,
+    "figure": "fig_p03_1.png",
+    "answer": "a. Free earlobe is the dominant trait (F) and attached earlobe the recessive trait (f). The father (ff) produces only f gametes; the mother (Ff) produces F and f gametes. Progeny: Ff (free earlobe) and ff (attached earlobe) in the ratio 1 : 1, i.e. 50% each.\nb. Father: ff; Mother: Ff.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "In human beings, the lowest part of the ear, the earlobe, is either free or attached closely to the side of the head. Free and attached earlobes are two variants of this trait. The gene for free earlobe (F) is dominant over the gene for attached earlobe (f). Two parents, both with free earlobes, have a child with attached earlobes.\na. Explain how this is possible by showing a cross, and write the gene combinations of the parents.\nb. What is the probability that their next child will also have attached earlobes? Give the ratio of free to attached earlobes expected among their children.",
+   "options": null,
+   "answer": "a. The child with attached earlobes has the genotype ff, so it received an f gene from each parent. Both parents show the dominant trait yet carry f, so both are heterozygous: Ff x Ff. Gametes: F, f from each parent. Progeny: FF, Ff, Ff, ff - the ff child has attached earlobes (recessive trait, expressed only when both genes are f).\nb. Probability = 1/4 = 25%. Phenotypic ratio free : attached = 3 : 1.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "variant",
+   "basis": "Paper_03 Q15",
+   "basis_question": {
+    "no": 15,
+    "section": "A",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch05_Life_Processes",
+    "text": "Read the following text carefully and answer the questions that follow:\nThe green plants make their food, through photosynthesis and are therefore called autotrophs. All other organisms depend upon green plants for food and are referred to as heterotrophs. Green plants carry out photosynthesis by using light energy of sun. The first phase of reactions are directly light driven therefore called light reactions. The second phase of reactions are not directly light driven but are dependent on the products of light reactions and are called dark reactions.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "What is produced during the light phase of photosynthesis?",
+      "marks": 1,
+      "options": null,
+      "answer": "Assimilatory power: energy-rich ATP molecules and reduced coenzyme NADPH."
+     },
+     {
+      "text": "How many sugar molecules are produced in the overall process of photosynthesis?",
+      "marks": 1,
+      "options": null,
+      "answer": "$\\mathrm{6CO_2 + 12H_2O \\rightarrow C_6H_{12}O_6 + 6H_2O + 6O_2}$ — one molecule of sugar (glucose) is produced."
+     },
+     {
+      "text": "A plant is provided with ideal conditions for photosynthesis and supplied with isotope $^{14}$CO$_2$. When the products of the process are analysed carefully, what would be the nature of products?",
+      "marks": 2,
+      "options": null,
+      "answer": "Plants make glucose from CO$_2$ and H$_2$O and release oxygen from water; so only the glucose will be labelled with the isotopic carbon, while the oxygen gas released will be normal.",
+      "or": {
+       "text": "What are the accurate functions corresponding to parts X, Y, and Z as depicted in the provided diagrammatic representation of an electron micrograph of a section of a chloroplast?",
+       "marks": 2,
+       "figure": "fig_p03_0.png",
+       "answer": "X - Light reaction, Y - Carbohydrate synthesis, Z - Carbohydrate storage (as given in the key). Light reactions occur on the grana thylakoids; dark reactions (carbohydrate synthesis by CO$_2$ fixation) occur in the stroma; the chloroplast matrix stores starch temporarily as starch granules."
+      }
+     }
+    ],
+    "paper": "Paper_03"
+   },
+   "text": "Read the following text carefully and answer the questions that follow:\nRespiration is the process by which the food we eat is broken down to release energy. The first step is the breakdown of glucose, a six-carbon molecule, into a three-carbon molecule called pyruvate. Further breakdown of pyruvate depends on the availability of oxygen: in the presence of oxygen it is completely oxidised to carbon dioxide and water, whereas in the absence of oxygen it is converted to other products. The energy released is stored in the form of a molecule that acts as the energy currency of the cell.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Where in the cell does the breakdown of glucose into pyruvate take place?",
+     "marks": 1,
+     "options": null,
+     "answer": "In the cytoplasm."
+    },
+    {
+     "text": "Name the organelle in which pyruvate is completely oxidised in the presence of oxygen, and name the energy currency of the cell.",
+     "marks": 1,
+     "options": null,
+     "answer": "Mitochondria; ATP (adenosine triphosphate)."
+    },
+    {
+     "text": "After vigorous exercise, we often get cramps in our muscles. Explain why.",
+     "marks": 2,
+     "options": null,
+     "answer": "During vigorous exercise the supply of oxygen to muscle cells is insufficient, so pyruvate is converted into lactic acid (a three-carbon compound) instead of being oxidised completely. The sudden build-up of lactic acid in the muscles causes cramps.",
+     "or": {
+      "text": "Write the products formed when pyruvate is broken down in yeast cells in the absence of oxygen. How does this differ from the products in aerobic respiration?",
+      "marks": 2,
+      "options": null,
+      "answer": "In yeast (anaerobic respiration) pyruvate is converted into ethanol and carbon dioxide (with release of a small amount of energy). In aerobic respiration, pyruvate is completely oxidised in mitochondria to carbon dioxide and water, releasing much more energy."
+     }
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "a. What is puberty? Write any two changes that occur in boys during early teenage years.\nb. List two functions performed by testis in human males. Mention one role each of (i) Vas deferens, (ii) Seminal Vesicle (iii) Urethra and (iv) Scrotum in human male reproductive system.",
+   "options": null,
+   "figure": null,
+   "answer": "a. Puberty: the stage when the rate of general body growth begins to slow down and reproductive tissues begin to mature. In boys: new thick hair growth on the face; voice begins to crack; penis begins to enlarge and become erect. (Any two)\nb. Testis: formation of sperms; secretion of the hormone testosterone. Role of: (i) Vas deferens: delivery of sperms from testes to urethra. (ii) Seminal vesicle: provides nutrition to sperms/makes the transport (movement) of sperms easier. (iii) Urethra: common passage for sperms and urine. (iv) Scrotum: providing the required temperature for sperm formation.",
+   "or": {
+    "text": "What constitutes the central and peripheral nervous systems? How are the components of central nervous system protected? Which signals will get disrupted in case of a spinal cord injury?",
+    "options": null,
+    "figure": null,
+    "answer": "Central nervous system: the brain and spinal cord. The brain is the control centre, responsible for processing sensory information, initiating voluntary movements, regulating involuntary functions (heartbeat, respiration) and higher functions (thinking, memory, emotions). Peripheral nervous system: all the nerves and ganglia outside the brain and spinal cord (cranial nerves and spinal nerves); it connects the CNS to muscles, glands and sense organs.\nProtection: the brain is protected by the skull, a hard bony structure; the spinal cord is surrounded by the meninges (dura mater - outer, arachnoid mater - middle, pia mater - inner) which provide cushioning and support (and by the vertebral column).\nSpinal cord injury disrupts transmission of nerve signals between the brain and the rest of the body: motor signals (paralysis or weakness of muscles below the level of injury, loss of voluntary movement) and sensory signals (loss of sensation such as touch, temperature and body position).",
+    "subparts": null,
+    "chapter": "Ch06_Control_and_Coordination"
+   },
+   "subparts": null,
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q16"
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "ncert",
+   "text": "A solution turns red litmus paper blue. The pH of this solution is likely to be:",
+   "options": [
+    "1",
+    "4",
+    "6",
+    "10"
+   ],
+   "answer": "(d) 10 — a solution that turns red litmus blue is basic, and basic solutions have pH greater than 7.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "variant",
+   "basis": "Paper_06 Q22",
+   "basis_question": {
+    "no": 22,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "Structural formula of benzene is",
+    "options": [
+     "(structure shown in image: fig_p04_0.png)",
+     "(structure shown in image: fig_p04_1.png)",
+     "(structure shown in image: fig_p04_2.png)",
+     "(structure shown in image: fig_p05_0.png)"
+    ],
+    "figure": "fig_p04_2.png",
+    "answer": "(c) — the ring with alternate double and single bonds between the six carbons, one H on each carbon (C6H6); option (c) image fig_p04_2.png.",
+    "or": null,
+    "subparts": null,
+    "note": "Options (a)-(d) are structure images: a=fig_p04_0.png, b=fig_p04_1.png, c=fig_p04_2.png, d=fig_p05_0.png (figure field holds the correct option c).",
+    "paper": "Paper_06"
+   },
+   "text": "How many carbon-carbon double bonds are present in the Kekule structure of benzene, $\\mathrm{C_6H_6}$?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "6"
+   ],
+   "answer": "(c) 3 — benzene is a ring of six carbon atoms with alternate single and double bonds (three double and three single bonds), one hydrogen atom on each carbon.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "variant",
+   "basis": "Paper_02 Q19",
+   "basis_question": {
+    "no": 19,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch03_Metals_and_Non-metals",
+    "text": "Study the following cases:\ni. $\\mathrm{CuSO_4 + Mg \\longrightarrow}$\nii. $\\mathrm{FeSO_4 + Pb \\longrightarrow}$\niii. $\\mathrm{CaSO_4 + Al \\longrightarrow}$\niv. $\\mathrm{ZnSO_4 + Ca \\longrightarrow}$\nThe case/cases in which new product(s) will form is/are:",
+    "options": [
+     "(i) and (iv)",
+     "Only (iii)",
+     "(i), (ii) and (iv)",
+     "Only (i)"
+    ],
+    "figure": null,
+    "answer": "(a) (i) and (iv) — Mg is more reactive than Cu and Ca is more reactive than Zn, so displacement occurs; Pb is less reactive than Fe and Al is less reactive than Ca, so no reaction in (ii) and (iii).",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Study the following cases:\ni. $\\mathrm{ZnSO_4 + Fe \\longrightarrow}$\nii. $\\mathrm{CuSO_4 + Zn \\longrightarrow}$\niii. $\\mathrm{FeSO_4 + Cu \\longrightarrow}$\niv. $\\mathrm{AgNO_3 + Cu \\longrightarrow}$\nThe case/cases in which new product(s) will form is/are:",
+   "options": [
+    "(i) and (iii)",
+    "Only (iv)",
+    "(ii) and (iv)",
+    "(i), (ii) and (iv)"
+   ],
+   "answer": "(c) (ii) and (iv) — Zn is more reactive than Cu, and Cu is more reactive than Ag, so displacement occurs in (ii) and (iv); Fe is less reactive than Zn and Cu is less reactive than Fe, so there is no reaction in (i) and (iii).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Which of the given statement is correct or wrong:\nStatement A: Oxyacetylene flame is used for welding purposes.\nStatement B: Ethyne reacts with HCl in the presence of $HgCl_2$ to form vinyl chloride.",
+   "options": [
+    "Neither statement A nor statement B is true.",
+    "Both the statements A and B are true.",
+    "Statement B is true; Statement A is false.",
+    "Statement A is true; Statement B is false."
+   ],
+   "figure": null,
+   "answer": "(b) Both the statements A and B are true. Oxyacetylene (ethyne + oxygen) flame gives a high temperature used to weld metals; ethyne reacts with HCl in presence of $HgCl_2$ to give vinyl chloride ($H_2C=CHCl$), used to make PVC.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q18"
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "What is shown in the experiment given below:",
+   "options": [
+    "Action of steam on a metal",
+    "Reaction of metals with salt solutions",
+    "Heating a salt sample on a spatula",
+    "Testing the conductivity of a salt solution"
+   ],
+   "figure": "fig_p05_0.png",
+   "answer": "(a) Action of steam on a metal",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q21"
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "variant",
+   "basis": "Paper_10 Q18",
+   "basis_question": {
+    "no": 18,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "Which of the given statement is correct or wrong:\nStatement A: Ethane decolorizes bromine water whereas ethyne does not.\nStatement B: Mixture of water and alcohol is used in radiators of vehicles in cold countries.",
+    "options": [
+     "(a) Both - Statement A and Statement B - are false.",
+     "(b) Statement A is true; Statement B is false.",
+     "(c) Statement B is true; Statement A is false.",
+     "(d) Both - Statement A and Statement B - are true."
+    ],
+    "figure": null,
+    "answer": "(c) Statement B is true; Statement A is false. Bromine water is a test for unsaturated hydrocarbons: ethyne (unsaturated) decolourises it, ethane (saturated) does not. Alcohol is used as an antifreeze, lowering the freezing point of the water-based liquid.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Which of the given statement is correct or wrong:\nStatement A: Ethanol on heating with excess concentrated sulphuric acid at 443 K gives ethene.\nStatement B: Ethanoic acid reacts with sodium carbonate to give hydrogen gas.",
+   "options": [
+    "Both Statement A and Statement B are true.",
+    "Statement B is true; Statement A is false.",
+    "Statement A is true; Statement B is false.",
+    "Both Statement A and Statement B are false."
+   ],
+   "answer": "(c) Statement A is true; Statement B is false. Concentrated $\\mathrm{H_2SO_4}$ acts as a dehydrating agent and converts ethanol into ethene at 443 K. Ethanoic acid reacts with sodium carbonate to give a salt, water and carbon dioxide (not hydrogen).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Soap doesn't work well with woollen garments because:\nA. It is basic in nature and woollen garments have acidic dyes.\nB. It is acidic in nature and woollen garments have basic dyes.",
+   "options": [
+    "(A)",
+    "(B)",
+    "None of these",
+    "Both (A) and (B)"
+   ],
+   "figure": null,
+   "answer": "(a) (A) — soap is basic; acid dyes are used to dye protein fibres such as wool and silk, so soap gets neutralised by the acidic dyes.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q18"
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Assertion (A): Decomposers keep the environment clean.\nReason (R): They recycle matter by breaking down the organic remains and waste products of plants and animals.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q9"
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "ncert",
+   "text": "Write the chemical formula of baking soda. Write one use of it and the chemical equation for what happens when it is heated.",
+   "options": null,
+   "answer": "Baking soda: sodium hydrogencarbonate, $\\mathrm{NaHCO_3}$. Use: as an antacid / an ingredient of baking powder (to make cakes and bread soft and spongy).\nOn heating: $\\mathrm{2NaHCO_3 \\xrightarrow{heat} Na_2CO_3 + H_2O + CO_2}$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "origin": "ncert",
+   "text": "a. Write the balanced chemical equation, with state symbols, for the following reaction: Solutions of barium chloride and aluminium sulphate react to give solid barium sulphate and a solution of aluminium chloride.\nb. Write the balanced equation, with state symbols, for: sodium hydroxide solution reacts with hydrochloric acid to give sodium chloride solution and water.\nc. Name the type of reaction in (a).",
+   "options": null,
+   "answer": "a. $\\mathrm{3BaCl_2(aq) + Al_2(SO_4)_3(aq) \\rightarrow 3BaSO_4(s) + 2AlCl_3(aq)}$ (1)\nb. $\\mathrm{NaOH(aq) + HCl(aq) \\rightarrow NaCl(aq) + H_2O(l)}$ (1)\nc. Double displacement reaction (also a precipitation reaction, as insoluble $\\mathrm{BaSO_4}$ is formed). (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "Observe the following diagram showing an experiment to determine the conditions under which a metal 'M' corrodes.\nList your observations in each of the three cases $A, B$ and $C$ with reason, if the metal 'M' is generally protected against corrosion by the method of galvanisation.",
+   "options": null,
+   "figure": "fig_p06_0.png",
+   "answer": "A: Metal M corrodes partly — the part outside the oil corrodes, the part inside the oil does not, as it cannot react with moist air.\nB: Metal M does not corrode — it is inside the oil, not exposed to moist air.\nC: Metal M does not corrode — moisture is absent (dry air) in test tube C.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q27"
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "ncert",
+   "text": "Read the following text carefully and answer the questions that follow:\nEthanol and ethanoic acid are two important carbon compounds. Ethanol is a liquid at room temperature, miscible with water in all proportions, and is used in medicines such as tincture iodine and cough syrups. Ethanoic acid is the main constituent of vinegar. Ethanol reacts with sodium metal with evolution of a gas, whereas ethanoic acid reacts with ethanol in the presence of a few drops of concentrated sulphuric acid to form a sweet-smelling compound.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "The gas evolved when ethanol reacts with sodium metal is:",
+     "marks": 1,
+     "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen",
+      "Ethene"
+     ],
+     "answer": "(c) Hydrogen — $\\mathrm{2C_2H_5OH + 2Na \\rightarrow 2C_2H_5ONa + H_2}$."
+    },
+    {
+     "text": "Name the functional group present in ethanoic acid.",
+     "marks": 1,
+     "options": null,
+     "answer": "Carboxylic acid group, $-\\mathrm{COOH}$."
+    },
+    {
+     "text": "Write the chemical equation for the reaction of ethanoic acid with ethanol in the presence of concentrated sulphuric acid. Name the product formed and the type of the reaction.",
+     "marks": 2,
+     "options": null,
+     "answer": "$\\mathrm{CH_3COOH + C_2H_5OH \\xrightarrow{conc.\\ H_2SO_4} CH_3COOC_2H_5 + H_2O}$. The product is ethyl ethanoate (an ester); the reaction is esterification."
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "ncert",
+   "text": "a. What is the chemical name and formula of bleaching powder? How is it prepared? State two uses of bleaching powder.\nb. What is plaster of Paris? Why must it be stored in a moisture-proof container?",
+   "options": null,
+   "answer": "a. Bleaching powder: calcium oxychloride, $\\mathrm{CaOCl_2}$. It is prepared by passing chlorine gas over dry slaked lime: $\\mathrm{Ca(OH)_2 + Cl_2 \\rightarrow CaOCl_2 + H_2O}$. Uses (any two): bleaching cotton and linen in the textile industry, bleaching wood pulp in paper factories, disinfecting drinking water, as an oxidising agent in chemical industries. (3)\nb. Plaster of Paris is calcium sulphate hemihydrate, $\\mathrm{CaSO_4\\cdot\\frac{1}{2}H_2O}$, obtained by heating gypsum at 373 K. It absorbs moisture and sets into a hard solid mass of gypsum ($\\mathrm{CaSO_4\\cdot 2H_2O}$), so it must be kept away from moisture. (2)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "a. How is washing soda obtained from sodium chloride? Write the chemical equations involved.\nb. State two uses of washing soda.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "answer": "a. Sodium chloride, water, carbon dioxide and ammonia react to give sodium hydrogencarbonate (baking soda): $\\mathrm{NaCl + H_2O + CO_2 + NH_3 \\rightarrow NH_4Cl + NaHCO_3}$. Heating baking soda gives sodium carbonate: $\\mathrm{2NaHCO_3 \\rightarrow Na_2CO_3 + H_2O + CO_2}$. Recrystallisation of sodium carbonate gives washing soda: $\\mathrm{Na_2CO_3 + 10H_2O \\rightarrow Na_2CO_3\\cdot 10H_2O}$. (3)\nb. Uses (any two): in the glass, soap and paper industries; for manufacture of borax; as a cleaning agent for domestic purposes; for removing permanent hardness of water. (2)",
+    "subparts": null
+   }
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "origin": "ncert",
+   "text": "The twinkling of stars is due to:",
+   "options": [
+    "Reflection of starlight by planets",
+    "Atmospheric refraction of starlight",
+    "Dispersion of starlight by the atmosphere",
+    "Total internal reflection of starlight"
+   ],
+   "answer": "(b) Atmospheric refraction of starlight — as starlight passes through layers of the atmosphere of varying (changing) refractive index, its path keeps changing slightly, so the apparent position and brightness of the star keep fluctuating.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "origin": "variant",
+   "basis": "Paper_07 Q30",
+   "basis_question": {
+    "no": 30,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "Find the incorrect statement:\nA. Convex mirrors are used by the dentist to see the large images of teeth of patients.\nB. Convex mirrors are used as rear-view mirrors in cars, motorcycles, scooters, etc\nC. Concave mirrors are used for shaving purpose.\nD. Concave mirrors are used by doctors to focus light inside the ear or inside the mouth for medical examination.",
+    "options": [
+     "(B)",
+     "(C)",
+     "(A)",
+     "(D)"
+    ],
+    "figure": null,
+    "answer": "(c) (A) — dentists use concave mirrors (they form enlarged images); convex mirrors form diminished images and are used as rear-view mirrors for their wide field of view.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Find the incorrect statement:\nA. Concave mirrors are used as reflectors in torches and vehicle headlights.\nB. Convex mirrors always form virtual, erect and diminished images.\nC. A concave mirror always forms a real and inverted image.\nD. Large concave mirrors are used in solar furnaces to concentrate sunlight.",
+   "options": [
+    "(D)",
+    "(C)",
+    "(A)",
+    "(B)"
+   ],
+   "answer": "(b) (C) — a concave mirror forms a virtual, erect and magnified image when the object is placed between the pole and the focus; the other statements are correct.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "Assertion (A): Magnetic field interacts with a moving charge and not with a stationary charge.\nReason (R): A moving charge produces a magnetic field.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q32"
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "variant",
+   "basis": "Paper_02 Q10",
+   "basis_question": {
+    "no": 10,
+    "section": "A",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch07_How_do_Organisms_Reproduce",
+    "text": "List some reasons for adopting contraceptive methods. If a woman is using copper-T will it help in protecting her from sexually transmitted diseases?",
+    "options": null,
+    "figure": null,
+    "answer": "Reasons: i. To prevent unwanted pregnancies. ii. To control population growth. iii. To prevent transmission of sexually transmitted diseases. iv. For proper health of mother and child by increasing the gap between successive pregnancies.\nNo, copper-T will not protect from sexually transmitted diseases because it only prevents implantation in the uterus.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Name two barrier methods of contraception. How do barrier methods help in protecting from sexually transmitted diseases? Name one bacterial sexually transmitted disease.",
+   "options": null,
+   "answer": "Barrier methods: condoms (used by males/females) and diaphragm (cervical cap) - they prevent the sperms from reaching the egg. Condoms also prevent the contact of body fluids/organisms, so they reduce the transmission of sexually transmitted infections. Bacterial STD: gonorrhoea or syphilis.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "text": "Compare the power used in the $2\\,\\Omega$ resistor in each of the following circuits:\n(i) a 6 V battery in series with $1\\,\\Omega$ and $2\\,\\Omega$ resistors, and\n(ii) a 4 V battery in parallel with $12\\,\\Omega$ and $2\\,\\Omega$ resistors.",
+   "options": null,
+   "figure": null,
+   "answer": "(i) Total resistance $R_s = 2 + 1 + 2 = 5\\,\\Omega$; current $I_1 = 6/5 = 1.2$ A; power in $2\\,\\Omega$: $P_1 = I_1^2 R = (1.2)^2 \\times 2 = 2.88$ W.\n(ii) In parallel, the current in the $2\\,\\Omega$ resistor is independent of the others: $I_2 = 4/2 = 2$ A; $P_2 = (2)^2 \\times 2 = 8$ W.\nRatio $P_1 : P_2 = 2.88/8 = 0.36 : 1$.",
+   "or": {
+    "text": "100 J of heat is produced each second in a $4\\,\\Omega$ resistance. Find the potential difference across the resistor.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch11_Electricity",
+    "answer": "$H = I^2Rt$ gives $I = \\sqrt{H/(Rt)} = \\sqrt{100/(4\\times 1)} = 5$ A. $V = IR = 5 \\times 4 = 20$ V."
+   },
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q34"
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "origin": "ncert",
+   "text": "A student cannot see distant objects clearly, but can see nearby objects clearly.\na. Name the defect of vision.\nb. State two causes of this defect.\nc. Name the type of lens used to correct it.",
+   "options": null,
+   "answer": "a. Myopia (near-sightedness). (1)\nb. Excessive curvature of the eye lens, or elongation of the eyeball; the image of a distant object is formed in front of the retina. (1)\nc. A concave lens of suitable power, which diverges the rays so that the image forms on the retina. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch11_Electricity",
+   "origin": "variant",
+   "basis": "Paper_05 Q36",
+   "basis_question": {
+    "no": 36,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch11_Electricity",
+    "text": "Three resistors of $2\\Omega$, $3\\Omega$ and $6\\Omega$ are connected in (i) series, and (ii) parallel. Draw the arrangements of the resistors and find the equivalent resistance of each arrangement.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Series: $R_s = R_1+R_2+R_3 = (2+3+6)\\ \\Omega = 11\\ \\Omega$.\nii. Parallel: $\\frac{1}{R_p} = \\frac{1}{2}+\\frac{1}{3}+\\frac{1}{6} = \\frac{3+2+1}{6} = 1$, so $R_p = 1\\ \\Omega$.\n(Circuit arrangements are shown in the answer figure.)",
+    "or": null,
+    "subparts": null,
+    "answer_figure": "fig_p17_1.png",
+    "paper": "Paper_05"
+   },
+   "text": "Three resistors of $4\\ \\Omega$, $12\\ \\Omega$ and $6\\ \\Omega$ are connected in (i) series, and (ii) parallel. Draw the arrangements of the resistors and find the equivalent resistance of each arrangement.",
+   "options": null,
+   "answer": "i. Series (the resistors joined end to end in a single path): $R_s = R_1+R_2+R_3 = (4+12+6)\\ \\Omega = 22\\ \\Omega$.\nii. Parallel (the three resistors connected between the same two points): $\\frac{1}{R_p} = \\frac{1}{4}+\\frac{1}{12}+\\frac{1}{6} = \\frac{3+1+2}{12} = \\frac{1}{2}$, so $R_p = 2\\ \\Omega$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "text": "a. Draw the pattern of magnetic field lines around a bar magnet. Mark the position of North Pole, South Pole and the places where the magnetic field is strongest.\nb. Why do the magnetic field lines not intersect each other?",
+   "options": null,
+   "figure": null,
+   "answer": "a. Diagram: closed field lines emerging from the north pole and entering the south pole outside the magnet (inside, from S to N); the field is strongest near the two poles where the lines are closest.\nb. If two field lines intersected, there would be two directions of the field at the point of intersection, which is not possible. Hence field lines never cross each other.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q37"
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "origin": "variant",
+   "basis": "Paper_01 Q38",
+   "basis_question": {
+    "no": 38,
+    "section": "C",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch11_Electricity",
+    "text": "Study the following circuit:\nOn the basis of this circuit, answer the following questions:",
+    "options": null,
+    "figure": "fig_p08_1.png",
+    "answer": "",
+    "or": null,
+    "subparts": [
+     {
+      "text": "Find the value of total resistance between the points A and B.",
+      "marks": 1,
+      "options": null,
+      "answer": "$R_{AB}=4\\ \\Omega+6\\ \\Omega+16\\ \\Omega=26\\ \\Omega$ (series)."
+     },
+     {
+      "text": "Find the resistance between the points B and C.",
+      "marks": 1,
+      "options": null,
+      "answer": "$\\frac{1}{R_P}=\\frac{1}{8}+\\frac{1}{8}=\\frac{1}{4}$, so $R_P=4\\ \\Omega$."
+     },
+     {
+      "text": "Calculate the current drawn from the battery, when the key is closed.",
+      "marks": 2,
+      "options": null,
+      "answer": "Total resistance $=26\\ \\Omega+4\\ \\Omega=30\\ \\Omega$. Potential difference $V=6$ V. Current $I=\\frac{V}{R}=\\frac{6}{30}=\\frac{1}{5}$ A $=0.2$ A.",
+      "or": {
+       "text": "In the above circuit, the 16 Ω resistor or the parallel combination of two resistors of 8 Ω, which one of the two will have more potential difference across its two ends? Justify your answer.",
+       "options": null,
+       "answer": "The 16 Ω resistor. According to Ohm's law, when the same current flows, the potential difference across a higher resistance is higher. Potential difference across 16 Ω $=IR=0.2\\times16=3.2$ V; across the 8 Ω parallel combination (4 Ω) $=IR=0.2\\times4=0.8$ V."
+      }
+     }
+    ],
+    "paper": "Paper_01"
+   },
+   "text": "Study the following circuit and answer the questions that follow:\nA 12 V battery is connected through a closed key to points A and C. Between A and B, a $5\\ \\Omega$ resistor and a $7\\ \\Omega$ resistor are connected in series. Between B and C, two resistors of $12\\ \\Omega$ and $4\\ \\Omega$ are connected in parallel. The combination AB is connected in series with the combination BC.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Find the total resistance between the points A and B.",
+     "marks": 1,
+     "options": null,
+     "answer": "$R_{AB}=5\\ \\Omega+7\\ \\Omega=12\\ \\Omega$ (series)."
+    },
+    {
+     "text": "Find the resistance between the points B and C.",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\frac{1}{R_P}=\\frac{1}{12}+\\frac{1}{4}=\\frac{1+3}{12}=\\frac{1}{3}$, so $R_P=3\\ \\Omega$."
+    },
+    {
+     "text": "Calculate the current drawn from the battery, when the key is closed.",
+     "marks": 2,
+     "options": null,
+     "answer": "Total resistance $=12\\ \\Omega+3\\ \\Omega=15\\ \\Omega$. Potential difference $V=12$ V. Current $I=\\frac{V}{R}=\\frac{12}{15}=0.8$ A.",
+     "or": {
+      "text": "In the above circuit, the $7\\ \\Omega$ resistor or the parallel combination of $12\\ \\Omega$ and $4\\ \\Omega$, which one of the two will have more potential difference across its two ends? Justify your answer.",
+      "options": null,
+      "answer": "The $7\\ \\Omega$ resistor. The same current $I=0.8$ A flows through both, so by Ohm's law the larger resistance has the larger potential difference. Across $7\\ \\Omega$: $V=IR=0.8\\times7=5.6$ V; across the parallel combination ($3\\ \\Omega$): $V=0.8\\times3=2.4$ V."
+     }
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "origin": "variant",
+   "basis": "Paper_09 Q39",
+   "basis_question": {
+    "no": 39,
+    "section": "C",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "i. State laws of reflection of light.\nii. An object of height 5.0 cm is placed at 15 cm in front of a concave mirror of focal length 10 cm. At what distance from the mirror should a screen be placed, so that a focussed image is obtained on it? Find the height of the image.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Laws of reflection: (1) The angle of incidence is equal to the angle of reflection. (2) The incident ray, the normal to the mirror at the point of incidence and the reflected ray all lie in the same plane.\nii. u = -15 cm, f = -10 cm, h = 5.0 cm. Mirror formula 1/f = 1/v + 1/u, so 1/v = 1/f - 1/u = -1/10 + 1/15 = -1/30, v = -30 cm. The screen must be placed at a distance of 30 cm from the mirror, in front of it. Magnification m = h'/h = -v/u = -(-30)/(-15) = -2, so h' = -2 × 5 = -10 cm (real, inverted image of height 10 cm).",
+    "or": {
+     "text": "An object 6 cm in size is placed at 50 cm in front of a convex lens of focal length 30 cm. At what distance from the lens should a screen be placed in order to obtain a sharp image of the object? Find the nature and size of the image. Also draw labelled ray diagram to show the image formation in this case.",
+     "options": null,
+     "figure": null,
+     "answer": "f = 30 cm, u = -50 cm, h = 6 cm. Lens formula 1/f = 1/v - 1/u, so 1/v = 1/f + 1/u = 1/30 - 1/50 = 1/75, v = +75 cm. The screen should be placed 75 cm from the lens on the other side. m = v/u = hi/h = 75/(-50) = -1.5, so hi = -9 cm. The image is real, inverted and enlarged (size 9 cm). (Ray diagram: object beyond F and within 2F; image formed beyond 2F.)",
+     "subparts": null,
+     "chapter": "Ch09_Light_Reflection_and_Refraction"
+    },
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "i. State the laws of refraction of light.\nii. An object 4.0 cm high is placed at a distance of 20 cm in front of a concave mirror of focal length 15 cm. Find the position, nature and height of the image.",
+   "options": null,
+   "answer": "i. (1) The incident ray, the refracted ray and the normal to the interface of the two media at the point of incidence all lie in the same plane. (2) For light of a given colour and for the given pair of media, the ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant (Snell's law): $\\frac{\\sin i}{\\sin r}=\\text{constant}$. (2)\nii. $u=-20$ cm, $f=-15$ cm, $h=4.0$ cm. Mirror formula $\\frac{1}{v}+\\frac{1}{u}=\\frac{1}{f}$, so $\\frac{1}{v}=-\\frac{1}{15}+\\frac{1}{20}=\\frac{-4+3}{60}=-\\frac{1}{60}$, $v=-60$ cm. The image is formed 60 cm in front of the mirror. Magnification $m=-\\frac{v}{u}=-\\frac{-60}{-20}=-3$, so $h'=mh=-3\\times4.0=-12$ cm. The image is real, inverted and magnified, of height 12 cm. (3)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "An object 3 cm in size is placed at 30 cm in front of a convex lens of focal length 20 cm. At what distance from the lens should a screen be placed in order to obtain a sharp image of the object? Find the nature and size of the image. Also draw a labelled ray diagram to show the image formation in this case.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "answer": "$f=20$ cm, $u=-30$ cm, $h=3$ cm. Lens formula $\\frac{1}{f}=\\frac{1}{v}-\\frac{1}{u}$, so $\\frac{1}{v}=\\frac{1}{20}+\\frac{1}{-30}=\\frac{3-2}{60}=\\frac{1}{60}$, $v=+60$ cm. The screen should be placed 60 cm from the lens on the other side. $m=\\frac{v}{u}=\\frac{60}{-30}=-2$, so $h'=-2\\times3=-6$ cm. The image is real, inverted and enlarged (size 6 cm). (Ray diagram: the object lies between $F$ (20 cm) and $2F$ (40 cm); the image is formed beyond $2F$ on the other side.)",
+    "subparts": null
+   }
+  }
+ ]
+}

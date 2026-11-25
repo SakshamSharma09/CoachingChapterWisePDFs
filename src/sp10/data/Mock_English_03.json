@@ -1,0 +1,864 @@
+{
+ "subject": "English",
+ "paper": "Mock_03",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "origin": "variant",
+   "basis": "Paper_10 Q2",
+   "basis_question": {
+    "no": 2,
+    "section": "A",
+    "marks": 10,
+    "type": "reading",
+    "chapter": "SKILL_Reading",
+    "text": "Read the following passage:\n\n1. The climate and landscape in Uttarakhand vary greatly with altitude (186 - 7619 m), from the largest glaciers in the higher elevation to the subtropical forests in the lowest elevation.\n\n2. The lowlands along the border of U.P. are covered by the drier Terai-Savanna grasslands, the moist deciduous forest of the Upper Gangetic Plains form the Bhabhar belt. Due to the extensive agricultural practices, most of these lowland forests have been cleared. Snow and bare ice occupy the highest altitudes.\n\n3. This state occupies 53,483 sq. km., (1.63% of India's total land area). Out of 13 districts, Uttarkashi occupies the maximum area of 8039 sq. km., while Champawat covers the minimum area of 1634 sq. km. Uttarakhand experiences four types of seasons, namely, Monsoon (June to September), Post-monsoon (October to November), Cold weather (December to February) and Pre-monsoon (March to May). The normal annual precipitation in the state is 1446 mm. Rain usually starts at the end of April and lasts until September. The monsoon rainfall is 78% of the annual rainfall. This makes the state prone to flood during monsoon. Bageshwar receives the maximum normal annual rainfall (1872 mm). 81% falls of this rainfall occurs in the monsoon season. Haridwar receives the minimum normal annual rainfall (1107 mm).\n\n4. Due to the differences in topographical features, temperatures vary widely. During March and April, temperatures rise until they peak in May and June, when the mean maximum temperature in the southern and valley regions is between 34° and 38°C, and the mean minimum temperature is between 20° and 24°C. Temperatures can reach 42°C in the valleys and southern half of the state and 30°C in two-kilometre-high elevations on some days. Day and night temperatures begin to dip around the end of September and reach the lowest in January and early February. January is the coldest month, with an average maximum temperature of 20°C and an average lowest temperature of 6°C. The mean maximum and mean minimum temperatures range from 10° to 12°C at altitudes of 2 km.\n\nAnswer the following questions, based on the passage above:",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "or": null,
+    "subparts": [
+     {
+      "text": "i. Fill in the blank suitably: (1 Mark)\nThe variance in climate and landscape of Uttarakhand as per paragraph 1 is marked by ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "largest glaciers in the higher elevation to the subtropical forests in the lowest elevation"
+     },
+     {
+      "text": "ii. Based on your understanding of the paragraph 2, fill in the blanks with the appropriate option from those given in brackets. (1 Mark)\nMost of the lowland forests are ________ (maintained/cleared) due to the ________ (large-scale/small-scale) agricultural practices.",
+      "marks": 1,
+      "options": null,
+      "answer": "cleared, large scale"
+     },
+     {
+      "text": "iii. Based on the passage, which of the districts has the lowest rainfall in Uttarakhand? (1 Mark)",
+      "marks": 1,
+      "options": null,
+      "answer": "Haridwar"
+     },
+     {
+      "text": "iv. In the given sentence taken from paragraph 3, select the option that correctly replaces the underlined word, with its most likely Antonym. Rain usually starts at the end of April and lasts until September. (1 Mark) (underlined word: starts)",
+      "marks": 1,
+      "options": [
+       "(A) begins",
+       "(B) arrives",
+       "(C) ends",
+       "(D) commences"
+      ],
+      "answer": "(C) ends"
+     },
+     {
+      "text": "v. 'This makes the state of Uttarakhand prone to flood during monsoon.' Justify the statement with reference to the passage given above in 30-40 words. (2 Marks)",
+      "marks": 2,
+      "options": null,
+      "answer": "The rain in Uttarakhand starts by the end of April and it lasts till September. The monsoon rainfall is 78% of the annual rainfall."
+     },
+     {
+      "text": "vi. Which two districts have maximum and minimum rainfall in the state? (1 Mark)",
+      "marks": 1,
+      "options": [
+       "(A) Bageshwar and Chamoli",
+       "(B) Nainital and Rudraprayag",
+       "(C) Haridwar and Garhwal",
+       "(D) Bageshwar and Haridwar"
+      ],
+      "answer": "(D) Bageshwar and Haridwar"
+     },
+     {
+      "text": "vii. Complete the given table: (1 Mark)\n| Assertion | Reasoning |\n|---|---|\n| The temperatures vary widely in the state of Uttarakhand. | ________ |",
+      "marks": 1,
+      "options": null,
+      "answer": "Due to the differences in topographical features"
+     },
+     {
+      "text": "viii. How is Bhabhar belt formed? (1 Mark)",
+      "marks": 1,
+      "options": null,
+      "answer": "The moist deciduous forest of the Upper Gangetic plains form the Bhabhar belt."
+     },
+     {
+      "text": "ix. State which of the given statements is not true: (1 Mark)\n(A) January is the coldest month, with an average maximum temperature of 20°C and an average lowest temperature of 6°C.\n(B) The mean maximum and mean minimum temperatures range from 15 to 20°C at altitudes of 2 km.",
+      "marks": 1,
+      "options": [
+       "(A) January is the coldest month, with an average maximum temperature of 20°C and an average lowest temperature of 6°C.",
+       "(B) The mean maximum and mean minimum temperatures range from 15 to 20°C at altitudes of 2 km."
+      ],
+      "answer": "(B) - The mean maximum and mean minimum temperatures range from 15 C to 20 C at altitudes of 2 km. (the passage says 10 to 12 C)"
+     }
+    ],
+    "note": "Numbers/units in the passage that are not in the PDF text layer were read from the page image.",
+    "paper": "Paper_10"
+   },
+   "text": "Read the following passage:\n\n1. The Western Ghats, also known as the Sahyadri, form a mountain chain that runs for about 1,600 km along the western edge of the Deccan Plateau, from the Tapi valley in the north to the southern tip of the peninsula. The range passes through six states: Gujarat, Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu.\n\n2. The hills act as a great wall for the south-west monsoon. Moist winds from the Arabian Sea are forced upwards by the slopes, cool, and fall as heavy rain on the western side, where some places receive more than 5,000 mm in a year. The eastern side lies in the rain shadow of the range and is much drier, which is why the landscapes on the two sides differ so sharply. Many of peninsular India's great rivers, including the Godavari, the Krishna and the Kaveri, rise in these hills and flow eastwards.\n\n3. The region covers about 140,000 sq. km., less than 5% of India's land area, yet it shelters more than 30% of the country's species of plants and animals. Its highest peak, Anamudi in Kerala, rises to 2,695 m. Animals such as the Nilgiri tahr and the lion-tailed macaque live nowhere else in the world. In 2012, UNESCO added 39 sites of the Western Ghats to its World Heritage List, recognising their rare natural value.\n\n4. Despite this honour, the forests are under pressure. Mining, expanding plantations, new roads and unplanned tourism have broken the forest into small fragments. Scientists warn that if the loss continues, the rivers that feed millions of people may weaken. Conservationists therefore urge community-based protection of the forests and more responsible tourism.\n\nAnswer the following questions, based on the passage above:",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "i. Fill in the blank suitably: (1 Mark)\nAccording to paragraph 1, the Western Ghats run from the ________ in the north to the southern tip of the peninsula.",
+     "marks": 1,
+     "options": null,
+     "answer": "Tapi valley"
+    },
+    {
+     "text": "ii. Based on your understanding of paragraph 2, fill in the blanks with the appropriate option from those given in brackets. (1 Mark)\nMoist winds are forced ________ (upwards/downwards) by the slopes and cause ________ (heavy/light) rain on the western side.",
+     "marks": 1,
+     "options": null,
+     "answer": "upwards, heavy"
+    },
+    {
+     "text": "iii. Based on the passage, which side of the range is drier? (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "The eastern side (it lies in the rain shadow of the range)."
+    },
+    {
+     "text": "iv. In the given sentence taken from paragraph 4, select the option that correctly replaces the underlined word, with its most likely Antonym. (1 Mark)\nMining, expanding plantations, new roads and unplanned tourism have broken the forest into small fragments. (underlined word: expanding)",
+     "marks": 1,
+     "options": [
+      "(A) growing",
+      "(B) spreading",
+      "(C) shrinking",
+      "(D) widening"
+     ],
+     "answer": "(C) shrinking"
+    },
+    {
+     "text": "v. 'The Western Ghats are vital for the rivers of peninsular India.' Justify the statement with reference to the passage given above in 30-40 words. (2 Marks)",
+     "marks": 2,
+     "options": null,
+     "answer": "Many of peninsular India's great rivers, such as the Godavari, the Krishna and the Kaveri, rise in these hills and flow eastwards. The range also forces the monsoon winds to shed heavy rain on its western side, and the loss of its forests may weaken these rivers."
+    },
+    {
+     "text": "vi. Which is the highest peak of the Western Ghats and in which state is it located? (1 Mark)",
+     "marks": 1,
+     "options": [
+      "(A) Anamudi, Kerala",
+      "(B) Doddabetta, Tamil Nadu",
+      "(C) Mahendragiri, Odisha",
+      "(D) Kalsubai, Maharashtra"
+     ],
+     "answer": "(A) Anamudi, Kerala"
+    },
+    {
+     "text": "vii. Complete the given table: (1 Mark)\n| Assertion | Reasoning |\n|---|---|\n| The eastern side of the Western Ghats is much drier than the western side. | ________ |",
+     "marks": 1,
+     "options": null,
+     "answer": "It lies in the rain shadow of the range."
+    },
+    {
+     "text": "viii. When did UNESCO recognise the Western Ghats and how many sites were added to the World Heritage List? (1 Mark)",
+     "marks": 1,
+     "options": null,
+     "answer": "In 2012; 39 sites."
+    },
+    {
+     "text": "ix. State which of the given statements is not true: (1 Mark)\n(A) The Western Ghats cover less than 5% of India's land area but shelter more than 30% of the country's species.\n(B) The range passes through five states.",
+     "marks": 1,
+     "options": [
+      "(A) The Western Ghats cover less than 5% of India's land area but shelter more than 30% of the country's species.",
+      "(B) The range passes through five states."
+     ],
+     "answer": "(B) - The range passes through six states (Gujarat, Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu), not five."
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Original factual passage on the Western Ghats; same 9-subpart pattern as the basis (1,1,1,1,2,1,1,1,1 = 10)."
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "Read the following passage carefully:\n1. There was a time when human interference was minimum, the number of wild animals was quite high and there was no problem of their protection or conservation.\n2. Due to the irrational use of natural and biotic resources of the Earth in the past, most of the wildlife has been destroyed beyond retrieval. According to an estimate, in India about 200 species of wild animals and birds have become extinct and another 2500 are on the verge of extinction. Some of them are black buck, chinkara, wolf, swamp deer, nilgai, Indian gazelle, antelope, tiger, rhinoceros, gir lion, crocodile, flamingo, pelican, bustard, white crane, grey heron, mountain quail, etc.\n3. In India, the Government and NGOs are taking keen interest in protection of wildlife. The Wildlife Protection Act, 1972, has several provisions for the conservation of wildlife. As many as 165 game sanctuaries and 21 national parks have been deployed to protect the natural habitat and wild animals. Apart from this, Wildlife Conservation Week is also celebrated from 1st to 7th October every year. But still there is a long way to go in this direction.\n4. Preservation of wildlife does not mean a blanket protection to all faunal and floral species; rather it implies a proper, judicious control over the multiplication of plants and animals which interact together to provide a proper environment to man whose very existence is in peril today.\n5. It is our urgent duty to protect the natural splendour of ecosystems and to evolve a system of coexistence with every living creature upon the Earth.\n[Bar graph (based on IUCN Red List data): Mammals 530, Birds 799, Reptiles 504, Amphibians 632, Fishes 1174, Insects 716, Molluscs 1016, Other Invertebrates 708. See figure.]\nBased on your understanding of the passage, answer the questions given below:",
+   "options": null,
+   "figure": "fig_p04_0.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "I. Infer one reason for the following, based on the information in the passage. The number of wild animals was quite high and there was no problem of their protection or conservation.",
+     "marks": 1,
+     "options": null,
+     "answer": "less human interference / bare minimum human interference"
+    },
+    {
+     "text": "II. Select the appropriate options to fill in the blanks. Most of the wildlife has been________ beyond________ due to the irrational use of natural resources on the Earth.\nI. destroyed\nII. retrieval\nIII. desertion\nIV. build\nV. revived",
+     "marks": 1,
+     "options": [
+      "a. I and II",
+      "b. II and III",
+      "c. III and IV",
+      "d. IV and V"
+     ],
+     "answer": "a. I and II"
+    },
+    {
+     "text": "III. Complete the following analogy correctly with a word/phrase from the passage. (Clue: Just like flowers are in a garden, similarly________ are in the sanctuaries.) Flowers: Garden::________: Sanctuaries",
+     "marks": 1,
+     "options": null,
+     "answer": "wildlife"
+    },
+    {
+     "text": "IV. Select the correct option to complete the sentence. Judicious control over the multiplication of plants and animals which provide",
+     "marks": 1,
+     "options": [
+      "a. natural splendour of ecosystem",
+      "b. proper environment to man",
+      "c. blanket protection",
+      "d. happy and comfortable living"
+     ],
+     "answer": "b. proper environment to man"
+    },
+    {
+     "text": "V. According to the graph, which is the most vulnerable animal species and the least vulnerable from the graph.\nI. Birds\nII. Insects\nIII. Fishes\nIV. Reptiles\nV. Insects\nVI. Mammals\nVII. Molluses",
+     "marks": 1,
+     "options": [
+      "a. I and II",
+      "b. III and IV",
+      "c. V and VI",
+      "d. VI and VI"
+     ],
+     "answer": "III & IV (most vulnerable: Fishes; least vulnerable: Reptiles). Official note: 'Options are incorrectly placed. B is the closest.' i.e. option b.",
+     "figure": "fig_p04_0.png",
+     "note": "Option list printed with errors in the paper (as given); graph shows Fishes 1174 highest, Reptiles 504 lowest."
+    },
+    {
+     "text": "VI. Assertion (A): Wildlife conservation is essential to maintain a balanced ecosystem and ensure human survival.\nReason (R): The Wildlife Protection Act, 1972, and initiatives like sanctuaries and Wildlife Conservation Week aim to protect endangered species and their habitats.",
+     "marks": 1,
+     "options": [
+      "A. Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "C. (A) is true, but (R) is false.",
+      "D. (A) is false, but (R) is true."
+     ],
+     "answer": "A. Both (A) and (R) are true, and (R) is the correct explanation of (A)."
+    },
+    {
+     "text": "VII. List any two examples of Government and NGOs trying to protect the wildlife.",
+     "marks": 2,
+     "options": null,
+     "answer": "The Wildlife Protection Act, 1972, has several provisions for the conservation of wildlife / 165 game sanctuaries and 21 national parks have been deployed, protecting the natural habitat and wild animals / Wildlife Conservation Week is celebrated from 1st to 7th October every year (any two)"
+    },
+    {
+     "text": "VIII. List one reason why the Government makes certain recommendations for protection of wild animals.",
+     "marks": 1,
+     "options": null,
+     "answer": "to protect the natural habitat and wild animals / to keep ecological balance (any one)"
+    },
+    {
+     "text": "IX. What is the main aim of the Wildlife Protection Act, 1972 in India?",
+     "marks": 1,
+     "options": null,
+     "answer": "The main aim of the Wildlife Protection Act, 1972 is to conserve wildlife by protecting natural habitats and wild animals through provisions such as sanctuaries and national parks."
+    }
+   ],
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q2"
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Fill in the blank by using the correct form of the word in the bracket, for the given portion of an email:\nYou will find in this email a brochure that ________ (present) the various tourist attractions in our city, aimed at boosting local tourism.",
+     "marks": 1,
+     "options": null,
+     "answer": "presents"
+    },
+    {
+     "text": "Identify the error in the given sentence about the highest mountains in the world and supply the correction.\nThe Himalayas is the highest mountains in the world.\nUse the given format for your response.\n| error | correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "error: is; correction: are"
+    },
+    {
+     "text": "Read the conversation and complete the sentence by reporting the reply correctly.\nAnne: I want to order a big pineapple cake for my birthday.\nConfectioner: When is your birthday?\nAnnie told the confectioner ________. The confectioner asked when her birthday was.",
+     "marks": 1,
+     "options": null,
+     "answer": "that she wanted to order a big pineapple cake for her birthday."
+    },
+    {
+     "text": "Read the dialogue between Manish and his father, regarding Manish's cricket coaching.\nFather: Did you get a new coach in the academy to train you?\nManish: Yes, the new coach is very motivating and pushes us to perform better.\nSelect the correct option to complete the reporting of the above dialogue.\nManish's father asked him ________.\nManish answered in the affirmative and added that the new coach was very motivating and pushed them to perform better.",
+     "marks": 1,
+     "options": [
+      "a) whether he gets a new coach in the academy to train him.",
+      "b) whether he got a new coach to train him.",
+      "c) if he got a new coach in the academy to train him.",
+      "d) if he is getting a new coach in the academy to train him."
+     ],
+     "answer": "(c) if he got a new coach in the academy to train him."
+    },
+    {
+     "text": "Fill in the blank by choosing the correct option.\n___________ (Much / Many / Few) time is required to learn a new language.",
+     "marks": 1,
+     "options": [
+      "Much",
+      "Many",
+      "Few"
+     ],
+     "answer": "Much"
+    },
+    {
+     "text": "Read the given sentence from an article on Yoga. Identify the error and supply the correction in the sentence:\nYoga should help lower blood pressure, cholesterol, and blood sugar, all of which are not good for your heart and blood vessels.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: are; Correction: is"
+    },
+    {
+     "text": "Select the option that identifies the error and supplies the correction for the following line, from a news report:\nA school has adopted safety measures like screening of everyone who enters school premises and special sanitization of the school as per WHO guidelines.\n| Option no. | Error | Correction |\n|---|---|---|\n| A | a | the |\n| B | has | have |\n| C | enters | enter |\n| D | the | a |",
+     "marks": 1,
+     "options": [
+      "A: a - the",
+      "B: has - have",
+      "C: enters - enter",
+      "D: the - a"
+     ],
+     "answer": "(A) a - the"
+    },
+    {
+     "text": "Fill in the blank by choosing the correct option from the ones given below:\nGreat News!\nOur school's basketball team ________ the district championship.",
+     "marks": 1,
+     "options": [
+      "a) clinched",
+      "b) clinching",
+      "c) was clinched",
+      "d) had clinched"
+     ],
+     "answer": "(a) clinched"
+    },
+    {
+     "text": "Report the dialogue between the shopkeeper and customer, by completing the sentence:\nCustomer: Do you sell battery operated toys for children?\nShop keeper: Yes, we have a wide range of toys.\nThe customer asked the shopkeeper if he sold battery operated toys for children. In response, the shopkeeper replied ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "(in affirmative) they had a wide range of toys."
+    },
+    {
+     "text": "He said to his friend, \"please wait for me\".\nReported speech: ________",
+     "marks": 1,
+     "options": [
+      "a) He requested his friend that he should wait for him.",
+      "b) He requested his friend to wait for him.",
+      "c) He told his friend to wait for him.",
+      "d) He said to his friend to wait for him."
+     ],
+     "answer": "(b) He requested his friend to wait for him."
+    },
+    {
+     "text": "Complete the line from a self-awareness song, by filling the blank with the correct option.\nThe angel whole and ________ The next right\nIt came again with a great wakening light.\nAnd showed the names whom love of God had blest,\nAnd lo! Ben Adhem's name ________ all the rest.",
+     "marks": 1,
+     "options": [
+      "A. has vanished, led",
+      "B. vanishes, leads",
+      "C. vanished, led",
+      "D. was vanishing, had led"
+     ],
+     "answer": "C. vanished, led (the action started and completed in the past, so Simple Past)"
+    },
+    {
+     "text": "Identify the error and supply the correction, for the following:\nDelhi Government\nCOVID-19 FAMILY FINANCIAL ASSISTANCE SCHEME\nAn assistance of ₹50,000/- will be given to all family living in Delhi on each death of any family member due to COVID-19, whether or not they were earning members.\nUse the given format for your response.\n| error | correction |\n|---|---|\n| | |",
+     "marks": 1,
+     "options": null,
+     "answer": "error: all; correction: every"
+    }
+   ],
+   "note": "Attempt any 10 of 12; the 12 one-mark subparts therefore total 12, question marks = 10",
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q3"
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "The given double bar graph shows the preferences of children in a school in playing different games over the span of six years. Write an analytical paragraph about the given information.",
+   "options": null,
+   "figure": "fig_p07_0.png",
+   "answer": "The given double bar graph shows the preferences of children in a school in playing different games over the period of six years i.e., from 2014 to 2019.\nThe graph shows that the highest number of children interested in playing volleyball is in the year 2016 whereas in the year 2019, very less number of children preferred volleyball. The graph shows a hike in the game of volleyball again in the year 2018. The data shows that the preference of people in basketball is almost constant, like in the years 2014, 2017, and 2018 same number of children showed interest in it. Basketball got a slight hike of interested children in the year 2016 but a decline has been seen in it in 2019 which is equal to 2015.\nIf we observe the graph we can see that childrens preference related to volleyball is continuously changing every year. Although initially 200 children were interested in volleyball in 2014. Then it reached 300 in 2015, the greatest hike of 450 in 2016, but it again declined to 250 children in 2017, it again showed a hike of 400 children in 2018 and the lowest number of children i.e., only 150 in 2019.\nWhereas basketball was much preferred in 2014 than volleyball. It shows a decline of 100 children in 2015 but again reached 400 in 2016 and then remained same in 2017 and 2018.\nTo conclude the data shows that throughout the six years basketball was more preferred in comparison to volleyball. Although data shows that volleyball has got the highest number of interested children in 2016 but the numbers are constantly flickering which reached the lowest and is less preferred by the children in the year 2019 also.",
+   "or": {
+    "chapter": "SKILL_Writing",
+    "text": "The given pie charts show percentage of boys of class 12 of two different schools regarding their interest in participation in different quizzes. Write an analytical paragraph describing the given information.",
+    "options": null,
+    "figure": "fig_p07_1.png",
+    "answer": "The given pie charts show the data of two schools about the interest of boys in participation in different quizzes.\nThe most preferred choice of subject by school-1 is maths where 35% students preferred it. Science came second which was preferred by 30% students. The students of school-1 showed equal interest in the quizzes of English and commerce, which shows 10% of participation. For G.K. 15% students from school-1 showed interest. The most preferred subject by school-1 is maths and least ones are English and commerce.\nIn School-2 the most preferred choice of subject was science which was preferred by 35% students. Maths was the second preferred choice, preferred by 25% students. Next is English with 20% students being interested in it and then commerce where only 10% students preferred it. The least preferred choice by the students of school-2 was G.K. which was preferred by only 5% students.\nTo conclude we can say that the top choice for both the schools were maths and science with slight variation in numbers. The students of School-2 were least interested in G.K. whereas School-1 had a tie in their least preferred choice which was both commerce and English."
+   },
+   "subparts": null,
+   "note": "'or' has two pie charts: fig_p07_1.png (School-1) and fig_p07_2.png (School-2)",
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q5"
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "origin": "variant",
+   "basis": "Paper_10 Q4",
+   "basis_question": {
+    "no": 4,
+    "section": "B",
+    "marks": 5,
+    "type": "writing",
+    "chapter": "SKILL_Writing",
+    "text": "You are Suyash/Suhani Pandey, the Eco-Club Captain of Kendriya Vidyalaya School, Shripur. You are well aware of the hazards of using plastic bags indiscriminately and want the authorities to ban the excessive use of these bags. Write a letter to the editor of a national daily, drawing attention towards the harm caused by plastic litter. Express your concern over environmental degradation due to plastic waste and request the public to avoid the reckless use of polybags.",
+    "options": null,
+    "figure": null,
+    "answer": "To\nThe Editor\nA National Daily\nNew Delhi\n\nSubject: Harmful effects of plastic bags on the environment\n\nSir/Madam,\n\nI am Suyash Pandey, the Eco-Club Captain of Kendriya Vidyalaya, Shripur. Through your esteemed newspaper, I wish to draw attention to the serious harm caused by the indiscriminate use of plastic bags. Plastic litter clogs drains, pollutes soil and water, harms animals, and takes hundreds of years to decompose. Despite repeated warnings, people continue to use polybags recklessly, worsening environmental degradation.\n\nI request the authorities to strictly ban excessive use of plastic bags and promote eco-friendly alternatives like cloth and jute bags. I also appeal to the public to act responsibly and reduce plastic usage for a cleaner, healthier future.\n\nYours sincerely,\nSuyash Pandey\nEco-Club Captain",
+    "or": {
+     "text": "You are Ankit/Ankita of Mahavir Public School, Delhi. You have seen an advertisement in The Times of India regarding the starting of new batches of Astronomy Club by the National Science Centre. You wish to join the club. Write a letter to the Director, enquiring about the venue, duration, fee-structure, activities, etc. (Word limit 100-125 words)",
+     "options": null,
+     "figure": null,
+     "chapter": "SKILL_Writing",
+     "answer": "B-25,\nMahavir Public School\nDelhi\n4 October 2023\n\nThe Director\nNational Science Centre\nDelhi\n\nSubject: Enquiry about the Astronomy Club\n\nSir,\n\nI hope this letter finds you in good health. I recently came across an advertisement in The Times of India regarding the commencement of new batches for the Astronomy Club at the National Science Centre. I am deeply interested in joining this club and would appreciate some additional information.\n\nCould you kindly provide details regarding the venue, duration of the sessions, fee structure, and the specific activities or programs that the club offers. Additionally, any prerequisites for membership or other relevant information would be greatly appreciated.\n\nI am eager to explore the fascinating world of astronomy and look forward to your prompt response.\n\nYours Sincerely,\nAnkit/Ankita"
+    },
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "You are Rohan/Rohini, the Cultural Secretary of Government Senior Secondary School, Nashik. You have noticed that many teenagers spend hours every day on online games, which harms their health, sleep and studies. Write a letter to the editor of a national daily, expressing your concern over this growing habit and suggesting ways to promote healthy alternatives. (Word limit 100-125 words)",
+   "options": null,
+   "answer": "12, Gandhi Nagar\nNashik\n15 July 2026\n\nThe Editor\nA National Daily\nNew Delhi\n\nSubject: Growing addiction of teenagers to online games\n\nSir/Madam,\n\nThrough your esteemed newspaper, I wish to draw attention to the alarming rise in the habit of playing online games among teenagers. Many of my schoolmates stay glued to screens till late at night. As a result, they suffer from sleeplessness, eye strain and headaches, cannot concentrate in class, and their grades are falling.\n\nParents should fix screen-time limits, and schools should organise more sports, hobby clubs and reading hours. Game developers should also add time warnings. I request the readers to encourage children to play outdoors and spend time with family.\n\nYours sincerely,\nRohan\nCultural Secretary",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "You are Kabir/Kavya of Sunrise Public School, Jaipur. You have seen an advertisement in The Hindu regarding a summer Robotics Workshop to be conducted by the City Science Park. You wish to attend it. Write a letter to the Coordinator, enquiring about the eligibility, dates, fee structure, kit and certificate. (Word limit 100-125 words)",
+    "options": null,
+    "figure": null,
+    "chapter": "SKILL_Writing",
+    "answer": "C-14, Sunrise Public School\nJaipur\n20 April 2026\n\nThe Coordinator\nCity Science Park\nJaipur\n\nSubject: Enquiry about the summer Robotics Workshop\n\nSir/Madam,\n\nI read your advertisement in The Hindu dated 18 April 2026 about the summer Robotics Workshop. I am a student of Class X and very keen on robotics, so I would like to join the workshop.\n\nKindly let me know the eligibility for admission, the dates and daily timings of the sessions, and the fee structure. I would also like to know whether the robotics kit will be provided by the Park, what projects will be done, and whether a certificate will be given at the end of the workshop. Please also tell me the last date of registration.\n\nI shall be grateful for an early reply.\n\nYours sincerely,\nKabir\nClass X"
+   },
+   "note": "Letter-writing slot: both choices are formal letters (100-125 words), as in the basis."
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch12_Footprints_The_Midnight_Visitor",
+   "origin": "ncert",
+   "text": "Read the given extracts A and B and answer ANY ONE of the two.\n\nA\nRead the following account of an incident from the story and answer the questions that follow:\nMax, armed with a pistol, waits in Ausable's room for the report about the new missiles. Ausable describes a balcony outside his window. When there is a knock at the door, Ausable says it is the police, and Max swings his legs over the window-sill. (The Midnight Visitor)",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "Complete the sentence suitably.\nWhen Fowler first meets Ausable, he feels let down because Ausable does not look like a ________ secret agent.",
+     "marks": 1,
+     "options": null,
+     "answer": "romantic / glamorous / dashing / adventurous (any suitable word; Ausable was very fat, ordinary and wheezy).",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "Ausable's plan works because Max believes that",
+     "marks": 1,
+     "options": [
+      "(a) Ausable has hidden the report in the next room.",
+      "(b) Henry is a friend of Max.",
+      "(c) there is a balcony outside the window.",
+      "(d) Fowler will help him to escape."
+     ],
+     "answer": "(c) there is a balcony outside the window.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "Which quality of Ausable is best shown by his calm behaviour in front of the armed Max?",
+     "marks": 1,
+     "options": [
+      "(a) presence of mind",
+      "(b) greed",
+      "(c) rashness",
+      "(d) cruelty"
+     ],
+     "answer": "(a) presence of mind.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    },
+    {
+     "text": "How does Ausable use the knock at the door to defeat Max? Answer in 40-50 words.",
+     "marks": 2,
+     "options": null,
+     "answer": "Ausable tells Max that the knock is the police, whom he had asked to check on him. Frightened, Max climbs out of the window to hide on the balcony and drops, screaming, since there is no balcony at all. The visitor at the door is only Henry, the waiter. Thus Ausable defeats a gunman by quick thinking.",
+     "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+    }
+   ],
+   "figure": null,
+   "or": {
+    "marks": 5,
+    "chapter": "Ch17_Footprints_Bholi",
+    "figure": null,
+    "options": null,
+    "text": "B\nRead the following account of an incident from the story and answer the questions that follow:\nAt the wedding Bishamber Nath refuses to proceed unless he is paid five thousand rupees. After Bholi's father pays him, he lifts the garland, and the bride, once thought a witless girl, flings it into the sacred fire. (Bholi)",
+    "answer": "(see sub-questions)",
+    "subparts": [
+     {
+      "text": "Fill in the blank with one word.\nBholi's real name was ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "Sulekha",
+      "chapter": "Ch17_Footprints_Bholi"
+     },
+     {
+      "text": "Why does Bholi refuse to marry Bishamber Nath?",
+      "marks": 1,
+      "options": [
+       "(a) she wants to remain a child.",
+       "(b) he demanded money at the last moment, showing his greed.",
+       "(c) he is younger than she is.",
+       "(d) her teacher asked her to refuse."
+      ],
+      "answer": "(b) he demanded money at the last moment, showing his greed.",
+      "chapter": "Ch17_Footprints_Bholi"
+     },
+     {
+      "text": "Which word best describes Bholi's behaviour at this moment?",
+      "marks": 1,
+      "options": [
+       "(a) timid",
+       "(b) sulky",
+       "(c) courageous",
+       "(d) careless"
+      ],
+      "answer": "(c) courageous",
+      "chapter": "Ch17_Footprints_Bholi"
+     },
+     {
+      "text": "How does this incident show the effect of education on Bholi? Answer in 40-50 words.",
+      "marks": 2,
+      "options": null,
+      "answer": "Earlier Bholi was shy, scared and stammered. Education and her teacher's kindness gave her confidence and self-respect. So she dares to refuse the greedy groom in front of everyone, speaks without any stammer, and decides to look after her parents and teach in the same school where she learnt so much.",
+      "chapter": "Ch17_Footprints_Bholi"
+     }
+    ]
+   },
+   "note": "Attempt any ONE of A / B. Incidents are described in original words (no long quotation); questions rest on facts of the lessons."
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch25_The_Trees",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\nRead the lines given below and answer the questions that follow:\nI sit inside, doors open to the verandah\nWriting long letters\nIn which I scarcely mention the departure\nof the forest from the house.\nThe night is fresh, the whole moon shines\nin a sky still open\nthe smell of leaves and lichen\nstill reaches like a voice into the rooms.",
+   "options": null,
+   "figure": null,
+   "answer": "1. confinement. It is so because the houses today are congested, small and lack ventilation.\n2. The second line uses alliteration - long letters - whereas the last line uses a simile - like a voice into the rooms.\n3. The correct meaning of open twice is allowing access and vision - expanse of space.\n4. (A) tactfully",
+   "or": {
+    "text": "Read the lines given below and answer the questions that follow:\nCustard the dragon had big sharp teeth,\nAnd spikes on top of him and scales underneath,\nMouth like a fireplace, chimney for a nose,\nAnd realio, trulio daggers on his toes.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch27_The_Tale_of_Custard_the_Dragon",
+    "answer": "1. Custard, the dragon had big sharp teeth and spikes on its back that could easily scare anyone away. It had ability to spit fire which made his mouth like a fireplace and thus his nose became a chimney. The toes were so pointed and sharp, that it could cut anything like a daggar.\n2. dragon\n3. (a) Dragons are brave and feared.\n4. The language used in these lines is simple and straightforward. The words and phrases are easy to understand and the poem is written in a conversational tone. Realio and Trulio words are creating poetic effect. This is a humurous poem.",
+    "subparts": [
+     {
+      "text": "Describe the physical appearance of Custard the dragon.",
+      "marks": 1,
+      "options": null,
+      "answer": "Custard, the dragon had big sharp teeth and spikes on its back that could easily scare anyone away. It had ability to spit fire which made his mouth like a fireplace and thus his nose became a chimney. The toes were so pointed and sharp, that it could cut anything like a daggar.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "Fill in the blank with one word. This extract describes the physical appearance of Custard. He carried all the features of ________ that could make him powerful, scary, and brave.",
+      "marks": 1,
+      "options": null,
+      "answer": "dragon",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "Which belief about dragons is in contrast to Custard's behaviour in the extract.",
+      "marks": 1,
+      "options": [
+       "a. Dragons are brave and feared.",
+       "b. Dragons can grant wishes.",
+       "c. Dragons can become invisible at will.",
+       "d. Dragons are soft-hearted and kind."
+      ],
+      "answer": "(a) Dragons are brave and feared.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     },
+     {
+      "text": "Comment on the poet's use of language in these lines.",
+      "marks": 2,
+      "options": null,
+      "answer": "The language used in these lines is simple and straightforward. The words and phrases are easy to understand and the poem is written in a conversational tone. Realio and Trulio words are creating poetic effect. This is a humurous poem.",
+      "chapter": "Ch27_The_Tale_of_Custard_the_Dragon"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "Fill in the blank with one word:\nThe poet talks about the house as a place of _________.",
+     "marks": 1,
+     "options": null,
+     "answer": "confinement. It is so because the houses today are congested, small and lack ventilation.",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "Find the figure of speech used in the lines above.",
+     "marks": 2,
+     "options": null,
+     "answer": "The second line uses alliteration - long letters - whereas the last line uses a simile - like a voice into the rooms.",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "The extract uses 'open' twice, suggesting different meanings. Write the correct meaning with reference to the extract.",
+     "marks": 1,
+     "options": null,
+     "answer": "The correct meaning of open twice is allowing access and vision - expanse of space.",
+     "chapter": "Ch25_The_Trees"
+    },
+    {
+     "text": "Choose the option that DOES NOT state the meaning of the underlined word.\n'I scarcely mention...'\nA. tactfully\nB. hardly\nC. barely\nD. only just",
+     "marks": 1,
+     "options": [
+      "A. tactfully",
+      "B. hardly",
+      "C. barely",
+      "D. only just"
+     ],
+     "answer": "(A) tactfully",
+     "chapter": "Ch25_The_Trees"
+    }
+   ],
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q7"
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "origin": "variant",
+   "basis": "Paper_09 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "C",
+    "marks": 12,
+    "type": "literature",
+    "chapter": "Ch05_Glimpses_of_India",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "or": null,
+    "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+    "note": "Five 3-mark questions are printed; any four are to be attempted (12 marks).",
+    "subparts": [
+     {
+      "text": "i. Pranjal seemed to have a different level of enthusiasm compared to Rajvir when they both saw the tree plantation. Justify. (Glimpses of India) [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "Pranjal and Rajvir had different levels of enthusiasm when they saw the tea plantation. Rajvir was very excited, as it was his first time seeing such a vast tea garden. He found it beautiful and unique, which made him eager to learn more about tea. On the other hand, Pranjal, who had grown up on a tea plantation, didn't share Rajvir's excitement. For him, the sight of the tea bushes was normal, as he was already used to it. He even mentioned that Assam had many such gardens, and Rajvir would see plenty more. This shows that Pranjal was not as fascinated by the plantation as Rajvir was because it was a part of his daily life.",
+      "chapter": "Ch05_Glimpses_of_India"
+     },
+     {
+      "text": "ii. What would the tiger do in the forest? [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "In the forest, the tiger would walk freely without any foundation and terrify the villagers snarling around their houses. The tiger in the wild would be majestic. He would be free and lie under the shades and hunt for prey.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "iii. Justify the title of the play The Proposal with reference to the characters and plot. [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "The title \"The Proposal\" is apt because the play revolves around a marriage proposal that sets off a chain of comedic events. The characters - Chubukov, Lomov, and Natalya - are involved in a humorous misunderstanding over property boundaries and Lomov's hesitant proposal to Natalya. The title captures the central theme of courtship and the absurdity that ensues when emotions and egos clash.",
+      "chapter": "Ch09_The_Proposal"
+     },
+     {
+      "text": "iv. Why did Margot and Anne stay with their grandmother? [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "Anne and her sister Margot went to Aachen to stay with their grandmother, when their parents emigrated to Holland in 1933.",
+      "chapter": "Ch04_From_the_Diary_of_Anne_Frank"
+     },
+     {
+      "text": "v. Why does the poet of Fire and Ice hold with those who favour fire? [3]",
+      "marks": 3,
+      "options": null,
+      "answer": "The poet takes side with those who believe that the world will be destroyed by fire. Frost connects fire with desire. Desire indicates all kinds of greed and lust. According to the poet, desire is powerful and would bring a quick end. He believes that when a human's emotions overpower him, destruction is greater.",
+      "chapter": "Ch20_Fire_and_Ice"
+     }
+    ],
+    "paper": "Paper_09"
+   },
+   "text": "Answer ANY FOUR of the following five questions, in about 50 words each.",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "i. Which qualities make the people of Coorg special? Answer with reference to the lesson. (Glimpses of India) [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "The people of Coorg are a proud, martial race known for their courage and bravery. Coorgi homes have a tradition of hospitality. They are possibly of Greek or Arabic descent, and they are the only people in India allowed to carry firearms without a licence. The Coorg Regiment is among the most decorated in the Indian Army.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "ii. Why does the poet say that only God could love Anne Gregory for herself alone? (For Anne Gregory) [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "The young man in the poem loves Anne only for her yellow hair, and she wishes to be loved for herself. The poet suggests, through an old religious man, that no young man can love her without being attracted by her looks. Only God can love her for herself alone, apart from outward beauty.",
+     "chapter": "Ch28_For_Anne_Gregory"
+    },
+    {
+     "text": "iii. What did Nelson Mandela learn about courage, and from whom? (Nelson Mandela: Long Walk to Freedom) [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Mandela learnt the meaning of courage from his comrades in the struggle. Time and again he saw men and women risk their lives for an idea and stand up to attack and torture without breaking. He learnt that courage is not the absence of fear but the triumph over it. The brave man is one who conquers his fear.",
+     "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+    },
+    {
+     "text": "iv. Which factors helped Richard Ebright to become a scientist? (The Making of a Scientist) [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Ebright was curious and determined from childhood and began collecting butterflies in kindergarten. His mother encouraged him by buying telescopes, microscopes and cameras, and by getting him the book The Travels of Monarch X. He then tagged and raised monarch butterflies for Dr Urquhart's research, which taught him to do real scientific work.",
+     "chapter": "Ch15_Footprints_The_Making_of_a_Scientist"
+    },
+    {
+     "text": "v. What lesson did Kisa Gotami learn from her search for a mustard seed? (The Sermon at Benares) [3]",
+     "marks": 3,
+     "options": null,
+     "answer": "Kisa Gotami was mad with grief at her only son's death. The Buddha asked for a mustard seed from a house where no one had lost a child, husband, parent or friend. She went from house to house and could not find one. She realised that death is common to all and that her grief was selfish.",
+     "chapter": "Ch08_The_Sermon_at_Benares"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Five 3-mark questions are printed; any four are to be attempted (12 marks)."
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "origin": "variant",
+   "basis": "Paper_05 Q9",
+   "basis_question": {
+    "no": 9,
+    "section": "C",
+    "marks": 6,
+    "type": "literature",
+    "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+    "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+    "options": null,
+    "figure": null,
+    "answer": null,
+    "or": null,
+    "subparts": [
+     {
+      "text": "How did Mr. Herriot treat Tricki at the hospital?",
+      "marks": 3,
+      "options": null,
+      "answer": "Mr. Herriot made a bed for Tricki next to the other dogs' beds. He didn't give Tricki anything to eat for two days. He only gave it water. He was kept under keen observation and later given some exercise. Thus, Tricki gradually returned to his good health.",
+      "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+     },
+     {
+      "text": "Bholi's parents accepted the match for her though Bishamber Nath was nearly the same age as her father. Bholi also accepted her parents' decision without voicing her opinion.\ni. What does this tell you about the social conditions prevailing in our society?\nii. How do you think these problems can be addressed?",
+      "marks": 3,
+      "options": null,
+      "answer": "When Bishamber greedily demanded five thousand rupees as a condition to marry a girl with pock marks on her face, Bholi refused to allow him to garland her and told him that he was a contemptible person. These problems can be addressed if proper education is imparted to everyone in the society.",
+      "chapter": "Ch17_Footprints_Bholi"
+     },
+     {
+      "text": "One should never judge a book by its cover. Explain with reference to Ausable and how he outwits Max with his presence of mind. (The Midnight Visitor)",
+      "marks": 3,
+      "options": null,
+      "answer": "Ausable, despite appearing unimpressive and unlike a typical spy, demonstrates cleverness and quick thinking. He uses his calm demeanor and a fabricated story about a balcony to trick Max. When Henry, the waiter, knocks, Ausable pretends it's the police, causing Max to panic and escape through a nonexistent balcony, showcasing Ausable's sharp intellect.",
+      "chapter": "Ch12_Footprints_The_Midnight_Visitor"
+     }
+    ],
+    "note": "Attempt any 2 of 3 (3 marks each); subparts total 9, question marks = 6",
+    "paper": "Paper_05"
+   },
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words.",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "How did Mrs Pumphrey's love for Tricki nearly harm him? How was he brought back to health? (A Triumph of Surgery)",
+     "marks": 3,
+     "options": null,
+     "answer": "Mrs Pumphrey overfed Tricki with cream cakes and chocolates and gave him little exercise, so he became hugely fat and listless. Mr Herriot took him to his surgery, gave him no food but plenty of water for two days, and let him play with the other dogs. Soon Tricki regained his health.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "How was Horace Danby trapped by the young lady? (A Question of Trust)",
+     "marks": 3,
+     "options": null,
+     "answer": "The young lady pretended to be the lady of the house and said she had forgotten the numbers of the safe. Horace took off his gloves to give her his lighter, opened the safe and handed over the jewels. She was a thief herself. His fingerprints were all over the house, so the police arrested him for the jewel robbery.",
+     "chapter": "Ch13_Footprints_A_Question_of_Trust"
+    },
+    {
+     "text": "How did school change Bholi? Mention two changes. (Bholi)",
+     "marks": 3,
+     "options": null,
+     "answer": "Bholi was a timid girl who stammered and was neglected at home. Her kind teacher encouraged her patiently and she learnt to speak without fear. She gained confidence and self-respect. Later she courageously refused to marry a greedy man and decided to teach in the same school and serve her parents.",
+     "chapter": "Ch17_Footprints_Bholi"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Attempt any 2 of 3 (3 marks each); subparts total 9, question marks = 6"
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "origin": "ncert",
+   "text": "Answer any one of the following two questions, in about 100-120 words.\n\nA. In 'The Black Aeroplane', the narrator is saved by an aeroplane that nobody else has seen. How does the author build mystery and suspense in the story?",
+   "options": null,
+   "answer": "Marking: Content-3, Expression-2, Accuracy-1. Value points: The story begins with a calm, easy night flight, so the sudden danger comes as a shock. The narrator takes a risk and flies into the huge, black storm clouds because he did not have enough fuel to fly around them. Inside the clouds, the compass and the radio go dead and he is lost, which creates tension. Then another aeroplane without lights appears and the pilot waves to him to follow. The mysterious aeroplane leads him to a runway when his last tank is nearly empty, and then it vanishes. The woman in the control centre says that no other aeroplane was flying and only his was on the radar. The story ends with unanswered questions, leaving the reader wondering who saved him.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "marks": 6,
+    "chapter": "Ch07_Madam_Rides_the_Bus",
+    "figure": null,
+    "options": null,
+    "text": "B. Valli's first ride in the bus is a mixture of joy and sadness. With reference to 'Madam Rides the Bus', discuss how her experience on the journey changes her.",
+    "answer": "Marking: Content-3, Expression-2, Accuracy-1. Value points: Valli is an eight-year-old girl who is curious about the bus that passes her village. She saves stray coins patiently and finally travels alone to the town. She is proud of her independence and insists on being treated as a grown-up when the conductor teases her as 'madam'. On the way she enjoys the sights from the window and laughs heartily when a young cow runs in front of the bus. On the return trip she sees the same cow lying dead by the roadside, and she is overcome with sadness and no longer wants to look out of the window. The thoughtless joy of the first trip is replaced by pity and a mature understanding of the cruelty and suffering in life, so the journey makes her more sensitive and grown-up."
+   },
+   "note": "Attempt any ONE of A / B. A covers Ch03 (The Black Aeroplane); B covers Ch07."
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "origin": "ncert",
+   "text": "Answer any one of the following two questions, in about 100-120 words.\n\nA. Mathilde Loisel lost ten years of her life because of her pride and discontent. With reference to 'The Necklace', discuss how her attitude to life led to her downfall and what lesson the story gives.",
+   "options": null,
+   "answer": "Marking: Content-3, Expression-2, Accuracy-1. Value points: Mathilde is unhappy with her ordinary life and dreams of wealth and luxury, though her husband loves her and tries to please her. To look rich at the ball she borrows a diamond necklace from her friend Mme Forestier. When she loses it, her pride stops her from telling her friend the truth. She and her husband spend thirty-six thousand francs on a replacement, borrowing heavily. They live in poverty for ten years, working hard to repay the debt, and she grows old and coarse. At last she learns that the original necklace was only paste, worth not more than five hundred francs. The story teaches us to be content with what life gives us, to be honest, and not to value show over real worth.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "marks": 6,
+    "chapter": "Ch14_Footprints_Footprints_Without_Feet",
+    "figure": null,
+    "options": null,
+    "text": "B. Griffin had made a great scientific discovery, yet it brought him only trouble. With reference to 'Footprints without Feet', discuss why invisibility did not make him happy.",
+    "answer": "Marking: Content-3, Expression-2, Accuracy-1. Value points: Griffin is a brilliant scientist who discovers how to become invisible, but he is a lawless and quick-tempered man. After he sets fire to his landlord's house, he has to remove his clothes to escape and becomes a homeless, penniless wanderer in the bitter cold of mid-winter. He breaks into a big London store for warmth and clothes, and later robs a shopkeeper and attacks him. At Iping he takes money from the clergyman's desk and frightens the villagers with moving furniture. He is chased by the assistants and finally by the constable. His invisibility brings him fear, loneliness and crime rather than happiness. The story shows that a scientific discovery misused without responsibility can become a curse."
+   },
+   "note": "Attempt any ONE of A / B. A covers Ch16; B covers Ch14."
+  }
+ ]
+}

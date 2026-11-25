@@ -1,0 +1,1080 @@
+{
+ "subject": "SST",
+ "paper": "Mock_02",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_History_Print_Culture",
+   "origin": "variant",
+   "basis": "Paper_06 Q2",
+   "basis_question": {
+    "no": 2,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch05_History_Print_Culture",
+    "text": "Study the picture and answer the question that follows:\nWhich of the following correctly describes the above picture?",
+    "options": [
+     "It is a page from the Gita Govinda of Jayadeva",
+     "It is a page from the traditional Chinese 'accordion book'",
+     "It is a page from Rigveda.",
+     "It is page from Panchtantra."
+    ],
+    "figure": "fig_p02_0.png",
+    "answer": "(a) It is a page from the Gita Govinda of Jayadeva, eighteenth century. This is a palm-leaf handwritten manuscript in accordion format.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "Which of the following was the first major book printed by Johann Gutenberg on his printing press?",
+   "options": [
+    "The Bible",
+    "The Diamond Sutra",
+    "The Gita Govinda",
+    "The Ramcharitmanas"
+   ],
+   "answer": "(a) The Bible. Gutenberg perfected the printing system in Strasbourg in the 1430s; the first book he printed was the Bible, about 180 copies in three years.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "ncert",
+   "text": "The Congress session at which the resolution of 'Purna Swaraj' (complete independence) was adopted in December 1929 was presided over by",
+   "options": [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Motilal Nehru"
+   ],
+   "answer": "(b) Jawaharlal Nehru. At the Lahore session of 1929 under his presidency the Congress formalised the demand of 'Purna Swaraj'.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "variant",
+   "basis": "Paper_04 Q4",
+   "basis_question": {
+    "no": 4,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Arrange the following in the correct sequence:\ni. Champaran Satyagraha\nii. Kheda Satyagraha\niii. Ahmedabad Satyagraha\niv. Rowlatt Act.",
+    "options": [
+     "i, iii, ii, iv",
+     "i, ii, iii, iv",
+     "iv, i, ii, iii",
+     "iv, iii, ii, i"
+    ],
+    "figure": null,
+    "answer": "(b) i, ii, iii, iv. Champaran Satyagraha (April 1917), Kheda Satyagraha (March 1918), Ahmedabad Satyagraha/mill strike (March 1918), Rowlatt Act (February 1919).",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Arrange the following events in the correct chronological order:\ni. Non-Cooperation Movement is launched\nii. Jallianwala Bagh massacre\niii. Dandi March\niv. Poona Pact",
+   "options": [
+    "i, ii, iii, iv",
+    "ii, i, iii, iv",
+    "ii, i, iv, iii",
+    "i, iii, ii, iv"
+   ],
+   "answer": "(b) ii, i, iii, iv. Jallianwala Bagh (April 1919), Non-Cooperation Movement (1920-21), Dandi March (March 1930), Poona Pact (September 1932).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "origin": "variant",
+   "basis": "Paper_06 Q4",
+   "basis_question": {
+    "no": 4,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Arrange the following incidents in chronological order and choose the correct option.\nI. French Revolution\nII. Napoleon's invasion of Italy\nIII. Unification of Italy\nIV. Vienna Peace Treaty",
+    "options": [
+     "I, II, IV, III",
+     "II, III, I, IV",
+     "II, IV, I, III",
+     "I, III, II, IV"
+    ],
+    "figure": null,
+    "answer": "(a) I, II, IV, III",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "Arrange the following in chronological order and choose the correct option.\nI. Congress of Vienna\nII. Greek War of Independence begins\nIII. Napoleonic Civil Code introduced\nIV. Unification of Germany completed",
+   "options": [
+    "I, III, II, IV",
+    "III, I, II, IV",
+    "III, II, I, IV",
+    "II, III, I, IV"
+   ],
+   "answer": "(b) III, I, II, IV. Civil Code (1804), Congress of Vienna (1815), Greek struggle for independence (began 1821), proclamation of the German Empire at Versailles (1871).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_History_Making_of_a_Global_World",
+   "origin": "ncert",
+   "text": "What are the Bretton Woods institutions? State the original purpose of each.",
+   "options": null,
+   "answer": "The Bretton Woods institutions are the International Monetary Fund (IMF) and the International Bank for Reconstruction and Development (World Bank), set up at the Bretton Woods conference (New Hampshire, USA) in July 1944. (1 mark)\nThe IMF was set up to deal with the external surpluses and deficits of its member nations; the World Bank was set up to finance post-war reconstruction. (1 mark)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+   "origin": "variant",
+   "basis": "Paper_02 Q6",
+   "basis_question": {
+    "no": 6,
+    "section": "A",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+    "text": "Identify Cavour, telling the part played by him in the unification of Italy.",
+    "options": null,
+    "figure": null,
+    "answer": "The real credit for the unification of Italy goes to Cavour, who became Prime Minister of Sardinia in 1852. He dedicated himself to the independence and unification of Italy and took recourse to shrewd diplomacy. He took sides in many ways to attract other states like Lombardy, Modena, Parma and Tuscany to throw off the Austrian yoke and join Sardinia, and he unified the whole of Italy under Sardinia.",
+    "or": {
+     "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe",
+     "text": "\"The decade of 1830 had brought great economic hardship in Europe.\" Support the statement with arguments.",
+     "answer": "i. Enormous increase in population: the first half of the nineteenth century saw an enormous increase in population all over Europe.\nii. Unemployment and migration: in most countries there were more job seekers than employment; population from rural areas migrated to the cities to live in overcrowded slums.\niii. Stiff competition from imports: small producers in towns faced stiff competition from cheap machine-made goods from England, where industrialisation was more advanced.\niv. Widespread pauperism: the rise of food prices or a year of bad harvest led to widespread pauperism in town and country.",
+     "options": null,
+     "figure": null
+    },
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Identify Giuseppe Garibaldi, telling the part played by him in the unification of Italy.",
+   "options": null,
+   "answer": "i. Garibaldi was a revolutionary from Genoa, a member of the Young Italy movement, who was committed to the cause of a unified Italian republic.\nii. In 1860 he led the famous campaign of the Red Shirts, a band of about a thousand volunteers, into South Italy.\niii. He won the support of the local peasants in driving out the Bourbon rulers of the Kingdom of the Two Sicilies.\niv. In 1861 Victor Emmanuel II was proclaimed king of a united Italy.\n(any three points, 1 mark each)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "Why did the Frankfurt Parliament of 1848 fail to achieve its aim? Explain.",
+    "answer": "i. In May 1848, 831 elected representatives marched to the Frankfurt Parliament to draft a constitution for a German nation to be headed by a monarchy subject to a parliament.\nii. Friedrich Wilhelm IV, King of Prussia, rejected the crown offered by the parliament and joined other monarchs to oppose the elected assembly.\niii. The parliament was dominated by the middle classes who resisted the demands of workers and artisans and thus lost their support.\niv. The troops were called in and the assembly was forced to disband.\n(any three points, 1 mark each)",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch01_History_Rise_of_Nationalism_in_Europe"
+   }
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "text": "Analyse the role of women in Civil Disobedience Movement.",
+   "options": null,
+   "figure": null,
+   "answer": "Women played a pivotal and transformative role in the Civil Disobedience Movement. Their involvement marked a shift from traditional gender roles to active political participation. Women engaged in protests, salt marches and picketing, defying societal norms and British authorities alike. The movement provided a platform for women to demand their rights and highlight their contribution to the freedom struggle. Gandhiji emphasised their significance, leading to the emergence of women leaders such as Sarojini Naidu and Kamala Nehru. Moved by Gandhiji's call, they began to see service to the nation as a sacred duty of women. The movement paved the way for political equality and inspired later generations of Indian women to pursue broader societal and political roles.",
+   "or": {
+    "chapter": "Ch02_History_Nationalism_in_India",
+    "text": "Workers of Assam had their own understanding of Mahatma Gandhi and the notion of Swaraj. Explain with examples.",
+    "answer": "i. For plantation workers in Assam, freedom meant the right to move freely in and out of the confined space in which they were enclosed.\nii. It meant retaining a link with the village from which they had come.\niii. Under the Inland Emigration Act of 1859 plantation workers were not allowed to leave the tea gardens without permission, and in reality were hardly ever granted it.\niv. When they heard of the Non-Cooperation Movement, thousands of workers defied the authorities, left the plantations and headed home.\nv. They believed that Gandhi Raj was coming and everyone would be given land in their own villages.\nvi. They never reached their destination: stranded by a railway and steamer strike, they were caught by the police and brutally beaten up.",
+    "options": null,
+    "figure": null
+   },
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q7"
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_History_Print_Culture",
+   "origin": "ncert",
+   "text": "Read the given source and answer the questions that follow:\nIn the nineteenth century, the reading of women became a matter of lively debate. Many liberal husbands and fathers began educating their womenfolk at home, but orthodox families feared that reading would corrupt girls. Rashsundari Debi, a young married girl in a conservative household, learnt to read in the secrecy of her kitchen and later wrote her life story, Amar Jiban, published in 1876, the first full-length autobiography in the Bengali language. New journals for women appeared, which carried articles on women's education, and writers like Kailashbashini Debi wrote books about the experiences of women who were confined to their homes.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Name the first full-length autobiography in Bengali written by a woman, and its author.",
+     "marks": 1,
+     "options": null,
+     "answer": "Amar Jiban, written by Rashsundari Debi (published in 1876)."
+    },
+    {
+     "text": "Why did many orthodox families oppose the reading of women?",
+     "marks": 1,
+     "options": null,
+     "answer": "They feared that reading and education would corrupt girls / ruin them and upset the traditional order of the household."
+    },
+    {
+     "text": "How did print culture help women in nineteenth-century India? Explain.",
+     "marks": 2,
+     "options": null,
+     "answer": "Print made books and journals cheaply available, so women became readers and also writers. Women wrote about their experiences and about women's lives, journals carried articles on women's education and problems, and reading in secret or at home (as Rashsundari Debi did) gave women knowledge, a voice and a means of challenging ideas of their seclusion. (1 + 1)"
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 2,
+   "type": "map",
+   "chapter": "Ch02_History_Nationalism_in_India",
+   "origin": "ncert",
+   "text": "On a blank outline map of India, locate and label with suitable symbols any two of the following:\ni. The place where the Jallianwala Bagh massacre took place in 1919.\nii. The place where Gandhiji broke the salt law in March 1930.\niii. The place where a violent incident in February 1922 led Gandhiji to call off the Non-Cooperation Movement.",
+   "options": null,
+   "answer": "i. Amritsar (Punjab); ii. Dandi (Gujarat, coast of the Arabian Sea); iii. Chauri Chaura (near Gorakhpur, Uttar Pradesh). Any two correctly located and labelled, 1 mark each. (Map-based; no figure supplied.)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "origin": "variant",
+   "basis": "Paper_06 Q10",
+   "basis_question": {
+    "no": 10,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch08_Geography_Water_Resources",
+    "text": "An artificial lake built in the 11th century for water conservation is ________.",
+    "options": [
+     "Bhopal Lake",
+     "Wular Lake",
+     "Sambhar Lake",
+     "Chilka Lake"
+    ],
+    "figure": null,
+    "answer": "(a) Bhopal Lake",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "The 200-year-old system of bamboo drip irrigation, in which bamboo pipes are used to tap stream and spring water, is practised in",
+   "options": [
+    "Meghalaya",
+    "Rajasthan",
+    "Karnataka",
+    "Kerala"
+   ],
+   "answer": "(a) Meghalaya. About 18-20 litres of water entering the bamboo pipe system is transported over hundreds of metres and finally reduced to 20-80 drops per minute at the site of the plant.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Geography_Forest_and_Wildlife",
+   "origin": "ncert",
+   "text": "Which category of forests is regarded as the most valuable as far as the conservation of forest and wildlife resources is concerned?",
+   "options": [
+    "Reserved forests",
+    "Protected forests",
+    "Unclassed forests",
+    "Community forests"
+   ],
+   "answer": "(a) Reserved forests. More than half of the total forest area has been declared reserved forest, and they are regarded as the most valuable for conservation.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "origin": "ncert",
+   "text": "Monazite sand is a source of which of the following minerals?",
+   "options": [
+    "Mica",
+    "Bauxite",
+    "Thorium",
+    "Manganese"
+   ],
+   "answer": "(c) Thorium. Monazite sand, found in the beach sands of Kerala, contains thorium, which is used for nuclear energy.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "origin": "variant",
+   "basis": "Paper_01 Q10",
+   "basis_question": {
+    "no": 10,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch06_Geography_Resources_and_Development",
+    "text": "Ninety-five percent of our basic needs for food, shelter, and clothing are obtained from ________.",
+    "options": [
+     "plants",
+     "animals",
+     "land",
+     "water"
+    ],
+    "figure": null,
+    "answer": "(c) land. Land covers about 30% of the earth's surface and provides agricultural land, underground water, minerals such as coal, bauxite, gold and other raw materials; buildings and industries are built on it.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Land covers about ________ of the total surface of the earth.",
+   "options": [
+    "10%",
+    "30%",
+    "50%",
+    "70%"
+   ],
+   "answer": "(b) 30%. Only a part of the earth's surface is land; it provides agricultural land, minerals and space for buildings and industries.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Geography_Agriculture",
+   "text": "In 2018, India was the second largest producer of fruits and vegetables in the world after China. Which of the following process is involved in the production of Horticulture Crops?\ni. Cultivation and harvesting of grapes.\nii. Growing and marketing flowers and ornamental plants.\niii. Breeding, rearing and transplantation of fish under controlled conditions.\niv. Cultivating silkworms and extracting silk from them.",
+   "options": [
+    "Statement ii, iii & iv are correct.",
+    "Statement i, ii, & iii are correct.",
+    "Statement ii is correct.",
+    "Statement i and ii are correct."
+   ],
+   "figure": null,
+   "answer": "(d) Statement i and ii are correct. Horticulture involves floriculture, olericulture, pomology, viticulture etc. (viticulture - grapes; floriculture - flowers). Pisciculture is the growing of fish.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q15"
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "variant",
+   "basis": "Paper_08 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "C",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "Assertion (A): Democracy is not simply ruled by majority opinion.\nReason (R): The majority always needs to work with the minority so that governments function to represent the general view.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(a) Both A and R are true and R is the correct explanation of A.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "Assertion (A): Democracy is accepted as a legitimate form of government even though it may be slow in decision-making.\nReason (R): Democracy is the people's own government.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. A democratic government may be slow and less efficient, but it is legitimate because it is the people's own government.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch06_Geography_Resources_and_Development",
+   "origin": "ncert",
+   "text": "Differentiate between biotic and abiotic resources with two examples of each.",
+   "options": null,
+   "answer": "Biotic resources are obtained from the biosphere and have life, e.g. human beings, flora and fauna, fisheries, livestock. (1 mark)\nAbiotic resources are composed of non-living things, e.g. rocks and metals. (1 mark)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch10_Geography_Minerals_and_Energy",
+   "text": "\"Formation of coal is a long drawn process spread over various periods.\" Elaborate the statement with examples in the Indian context.",
+   "options": null,
+   "figure": null,
+   "answer": "Coal is a naturally occurring black material, a mixture of carbon and compounds of carbon containing hydrogen, nitrogen, oxygen and sulphur. Its formation is called fossilation; it is formed by the compression of plant material over millions of years. Indian coal was mainly formed during two geological ages, the Gondwana and the Tertiary ages. The Gondwana coal deposits (metallurgical coal), more than 200 million years old, are located in the Damodar valley (West Bengal-Jharkhand), where Jharia, Raniganj and Bokaro are important coalfields. It is also found in the Godavari, Mahanadi, Son and Wardha valleys. The Tertiary age deposits, only about 55 million years old, are mostly found in North-Eastern India in Meghalaya, Assam, Arunachal Pradesh and Nagaland. Thus the formation of coal is a long drawn process spread over various periods.",
+   "or": {
+    "chapter": "Ch10_Geography_Minerals_and_Energy",
+    "text": "Explain the measures taken by 'National Thermal Power Corporation' to prevent environmental degradation.",
+    "options": null,
+    "figure": null,
+    "answer": "The corporation follows a proactive approach to preserving the natural environment and conserving resources such as water, oil, gas and fuels wherever it establishes power plants. This is achieved through optimum use of equipment, adoption of the latest technologies and continuous upgrading of existing systems to enhance efficiency. Waste generation is minimised by maximising the utilisation of ash. It develops extensive green belts to maintain ecological balance and promotes afforestation through special-purpose vehicles. To reduce pollution it implements ash pond management, ash water recycling systems and liquid waste management. Ecological monitoring and regular environmental reviews are carried out across all power stations, and an online database system is maintained to track environmental performance."
+   },
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q17"
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Geography_Water_Resources",
+   "text": "Read the given source and answer the questions that follow:\nSardar Sarovar\nSardar Sarovar Dam has been built over the Narmada River in Gujarat. This is one of the largest water resource projects of India covering four states - Maharashtra, Madhya Pradesh, Gujarat and Rajasthan. The Sardar Sarovar project would meet the requirement of water in drought-prone and desert areas. Sardar Sarovar Project will provide irrigation facilities to 18.45 lakh hectare of land, covering 3112 villages in 15 districts of Gujarat. It will also irrigate 2,46,000 hectare of land in the strategic desert districts of Barmer and Jalore in Rajasthan and 37,500 hectare land in the tribal hilly tract of Maharashtra through lift. About 75 per cent of the command area in Gujarat is drought-prone while entire command in Rajasthan is drought-prone. Assured water supply will soon make this area drought-proof.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Explain the importance of Sardar Sarovar Dam.",
+     "marks": 1,
+     "options": null,
+     "answer": "To meet the requirement of water in drought-prone and desert areas."
+    },
+    {
+     "text": "How does Sardar Sarovar Dam align with sustainable development?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Sardar Sarovar Project is a source of clean energy."
+    },
+    {
+     "text": "Examine the role of community participation in the success of the Sardar Sarovar Project.",
+     "marks": 2,
+     "options": null,
+     "answer": "The project covers four states - Maharashtra, Madhya Pradesh, Gujarat and Rajasthan; it provides irrigation facilities to 18.45 lakh hectare of land covering 3112 villages in 15 districts of Gujarat. (Answer as given in the marking scheme.)"
+    }
+   ],
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q18"
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 3,
+   "type": "map",
+   "chapter": "Ch11_Geography_Manufacturing_Industries",
+   "text": "On the same outline map of India locate and label the following with suitable symbols:\nI. Any one of the following:\ni. The dam is built on the Mahanadi River. It's known for its impressive length.\nii. A major seaport in Kerala, situated on the Arabian Sea, connecting the Indian Ocean and the Laccadive Sea.\nII. Any two of the following:\niii. Salem - Iron and Steel Centre\niv. Hyderabad - Software Technology Park\nv. Naraura - Nuclear Power Plant",
+   "options": null,
+   "figure": "fig_p03_0.png",
+   "answer": "I. i. Hirakud - Dam; ii. Kochi - Major seaport. II. (iii) Salem, (iv) Hyderabad and (v) Naraura to be located on the map (locations not described in the answer key).",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_04",
+   "origin": "real",
+   "basis": "Paper_04 Q19"
+  },
+  {
+   "no": 20,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "text": "Assertion (A): A casteist is a person who thinks that caste is the principal basis of community.\nReason (R): All castes are equal and man-made.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. A casteist thinks that caste is the principal basis of community, but such a belief is faulty as everyone is equal and no caste is superior to others.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q23"
+  },
+  {
+   "no": 21,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "variant",
+   "basis": "Paper_09 Q22",
+   "basis_question": {
+    "no": 22,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "Which of the following statements will be considered as our fascination for democracy which when unfulfilled we start blaming the idea of democracy?\nStatement i: There is a delay in decision-making in a democracy.\nStatement ii: Democracy should always provide a method to resolve conflicts.\nStatement iii: Democracy often ignores the demands of a majority of its population.\nStatement iv: Democracy can address all socio-economic and political problems.",
+    "options": [
+     "Only statement iv is right.",
+     "Statement i, ii and iii are right.",
+     "Statement iii is right.",
+     "Statement i and ii are right."
+    ],
+    "figure": null,
+    "answer": "(a) Only statement iv is right — our fascination for democracy pushes us to take a position that democracy can address all socio-economic and political problems; if some expectations are not met, we start blaming the idea of democracy.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "Which of the following statements about democracy and economic outcomes is correct?\nStatement i: Democracy always guarantees faster economic growth than any other form of government.\nStatement ii: On the whole, dictatorships have had a slightly higher rate of economic growth than democracies, but the difference is small.\nStatement iii: Democracy has removed economic inequalities in every country.\nStatement iv: A democratic government can be expected to reduce poverty to some extent but cannot automatically guarantee equal incomes.",
+   "options": [
+    "Only statement i is correct.",
+    "Statements ii and iv are correct.",
+    "Statements i and iii are correct.",
+    "Only statement iii is correct."
+   ],
+   "answer": "(b) Statements ii and iv are correct. Democracy is not guaranteed to produce faster growth, and economic inequality persists in many democracies.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 22,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "origin": "variant",
+   "basis": "Paper_10 Q20",
+   "basis_question": {
+    "no": 20,
+    "section": "C",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch16_PolSci_Political_Parties",
+    "text": "To reform the party system, which of the following tasks have been made compulsory for the political parties? Choose the most appropriate option.\nI. It is now compulsory for all the political parties to file income tax returns.\nII. It is now compulsory for all parties to have one-third women candidates.\nIII. It is now compulsory for all the political parties to hold their organisational election.\nIV. It is now compulsory for all candidates to disclose information about pending criminal cases against them through affidavit.",
+    "options": [
+     "Only I, II and III are correct.",
+     "Only II, III and IV are correct.",
+     "Only I, III and IV are correct.",
+     "Only I, II and IV are correct."
+    ],
+    "figure": null,
+    "answer": "(c) Only I, III and IV are correct.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "Which of the following is NOT a challenge faced by political parties?",
+   "options": [
+    "Lack of internal democracy",
+    "Dynastic succession",
+    "Excessive use of money and muscle power",
+    "Holding regular organisational elections"
+   ],
+   "answer": "(d) Holding regular organisational elections is a reform, not a challenge. The challenges are lack of internal democracy, dynastic succession, money and muscle power, and the absence of meaningful choice for voters.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 23,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "text": "Modern democracies maintain check and balance system. Identify the correct option based on the horizontal power sharing arrangement.",
+   "options": [
+    "Among different social groups.",
+    "Among different pressure groups.",
+    "Legislature, executive, judiciary.",
+    "The central government, state government, local bodies"
+   ],
+   "figure": null,
+   "answer": "(c) Legislature, executive, judiciary. This is horizontal distribution of power because different organs of government placed at the same level exercise different powers; each organ checks the others, resulting in a balance of power.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q20"
+  },
+  {
+   "no": 24,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_PolSci_Federalism",
+   "text": "Which is the highest tier of the Panchayati Raj? Explain its composition.",
+   "options": null,
+   "figure": null,
+   "answer": "The highest institution of the Panchayati Raj in rural areas is the Zila Parishad. The Zila Parishad coordinates the activities of all the Block Samitis in the whole district. Most members of the Zila Parishad are elected. Members of the Lok Sabha and the MLAs of that district along with some other officials of other district-level bodies are also its members.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q24"
+  },
+  {
+   "no": 25,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "origin": "ncert",
+   "text": "What is communalism? State any two forms in which it appears in politics.",
+   "options": null,
+   "answer": "Communalism is the belief that religion is the principal basis of social community and that people following different religions cannot live as equal citizens. (1 mark)\nForms: everyday beliefs based on religious prejudices and stereotypes; the belief that one religion is superior; seeking majority dominance; political mobilisation on religious lines; communal violence. (any two, 1 mark in all)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch16_PolSci_Political_Parties",
+   "origin": "variant",
+   "basis": "Paper_05 Q26",
+   "basis_question": {
+    "no": 26,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch16_PolSci_Political_Parties",
+    "text": "Suggest some reforms to strengthen parties so that they perform their functions well.",
+    "options": null,
+    "figure": null,
+    "answer": "i. A law should be made to regulate the internal affairs of political parties.\nii. It should be mandatory for political parties to give a minimum number of tickets, about 1/3rd, to the women candidates.\niii. There should be state funding of elections. The government should give parties the money to support the election expenses.\niv. People can put pressure on political parties through petitions, publicity and agitation. Ordinary citizens, pressure groups, movements and media can play a vital role.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "Explain any three functions performed by political parties in a democracy.",
+   "options": null,
+   "answer": "i. Parties contest elections; in most democracies elections are fought mainly among candidates put up by parties.\nii. Parties put forward different policies and programmes, and voters choose from them.\niii. Parties play a decisive role in making laws for a country.\niv. Parties form and run governments.\nv. Parties not in power play the role of opposition to the party in power.\nvi. Parties shape public opinion and provide people access to government machinery and welfare schemes.\n(any three, 1 mark each)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+   "origin": "variant",
+   "basis": "Paper_02 Q27",
+   "basis_question": {
+    "no": 27,
+    "section": "C",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+    "text": "How is Democracy a better form of government in comparison to dictatorship? Explain.",
+    "options": null,
+    "figure": null,
+    "answer": "i. Promotion of equality: people have the power to influence decisions; fundamental rights and equal rights for men and women are protected; discrimination is prohibited, unlike in dictatorships.\nii. Enhancing individual dignity: democracies prioritise individual freedom and dignity, fostering appreciation for liberty and respect.\niii. Improving decision-making: people choose their leaders and hold them accountable; citizens participate in decisions that affect them.\niv. Conflict resolution: democracies establish peaceful processes such as elections, reducing the likelihood of tensions escalating into violence.\nv. Deliberation: democracy is built on deliberation and negotiation; though this may cause delay, it results in more inclusive and efficient decisions.",
+    "or": {
+     "chapter": "Ch17_PolSci_Outcomes_of_Democracy",
+     "text": "Describe the role of citizens in a democracy.",
+     "answer": "i. A good democratic government is possible only if people are aware of their rights and duties; an enlightened citizen is the need of the hour.\nii. India follows representative democracy; people elect representatives to run the government. Elections for Central and State legislatures are normally held every five years (earlier if the government falls).\niii. With universal adult franchise, all citizens above eighteen have the right to vote; they must be aware of their representatives, policies and agendas.\niv. Citizens exercise their rights and freedoms and benefit from the democratic set-up.\nv. They must have a thorough knowledge of the Constitution.\nvi. They should be aware of the country's issues and actively give valuable feedback to the government.\nvii. They must cooperate in maintaining law and order.",
+     "options": null,
+     "figure": null
+    },
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "\"Democracy promotes the dignity and freedom of the individual.\" Examine the statement.",
+   "options": null,
+   "answer": "i. Democracy is based on the principle of political equality: every citizen has one vote of equal value.\nii. It recognises that all individuals have equal rights; it stands against forms of discrimination based on caste, gender or religion.\niii. Democracy has been more successful than other forms in providing a dignified place for women: ideas of equal treatment have spread, though women still face discrimination.\niv. Struggles of dignity for disadvantaged castes have been strengthened by democratic values; legal safeguards and reservations have been provided.\nv. Democracy gives freedom to speak, form associations and protest, and this respect for freedom and dignity is its strength, even though in practice discrimination persists in many places.\n(5 points, 1 mark each)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "Explain how a democratic government is accountable, responsive and legitimate.",
+    "answer": "i. Accountable: people have the right and the means to examine the process of decision-making; there are norms and procedures, transparency, and citizens can ask for information (Right to Information).\nii. Democracy is accountable to the citizens through regular elections, which allow people to remove a government they are dissatisfied with.\niii. Responsive: because the government has to face the voters, it attends to the needs and demands of the people.\niv. Legitimate: democracy may be slow, less efficient and less effective in some cases, but it is the people's own government.\nv. Hence people value it over other forms of government and it enjoys legitimacy. (1 mark each)",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch17_PolSci_Outcomes_of_Democracy"
+   }
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_PolSci_Power_sharing",
+   "origin": "variant",
+   "basis": "Paper_08 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "C",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch13_PolSci_Power_sharing",
+    "text": "Read the following text carefully and answer the questions that follow:\nSri Lanka emerged as an independent country in 1948. The leaders of the Sinhala community sought to secure dominance over the government by virtue of their majority. As a result, the democratically elected government adopted a series of Majoritarian measures to establish Sinhala supremacy. In 1956, an Act was passed to recognise Sinhala as the only official language, thus disregarding Tamil. The governments followed preferential policies that favoured Sinhala applicants for university positions and government jobs. A new constitution stipulated that the state shall protect and foster Buddhism. All these government measures, coming one after the other, gradually increased the feeling of alienation among the Sri Lankan Tamils. They felt that none of the major political parties led by the Buddhist Sinhala leaders was sensitive to their language and culture. They felt that the constitution and government policies denied them equal political rights, discriminated against them in getting jobs and other opportunities and ignored their interests. As a result, the relations between the Sinhala and Tamil communities strained over time.",
+    "options": null,
+    "figure": null,
+    "answer": "",
+    "or": null,
+    "subparts": [
+     {
+      "text": "What is the predominant religion in Sri Lanka?",
+      "marks": 1,
+      "options": null,
+      "answer": "Buddhism."
+     },
+     {
+      "text": "What was the main objective of the Sinhala leaders in Sri Lanka after independence?",
+      "marks": 1,
+      "options": null,
+      "answer": "The Sinhala leaders sought to secure dominance over the government due to their majority."
+     },
+     {
+      "text": "How did the majoritarianism policy affect the Sri Lankan Tamils, and what were their main grievances?",
+      "marks": 2,
+      "options": null,
+      "answer": "Majoritarianism increased the feeling of alienation among the Sri Lankan Tamils. They believed that their language and culture were not being adequately respected, that they were denied equal political rights, discriminated against in job opportunities, and that their interests were ignored."
+     }
+    ],
+    "paper": "Paper_08"
+   },
+   "text": "Read the following text carefully and answer the questions that follow:\nBelgium is a small country in Europe, with a population less than that of the state of Haryana. It has borders with France, the Netherlands, Germany and Luxembourg. Of the country's total population, about 59 per cent live in the Flemish region and speak Dutch, 40 per cent live in the Wallonia region and speak French, and the remaining one per cent speak German. In the capital city Brussels, 80 per cent of the people speak French while 20 per cent speak Dutch. The French-speaking minority was relatively rich and powerful, which resulted in resentment among the Dutch-speaking community and tension between the two communities, especially over Brussels.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Which community forms the majority of the population of Belgium?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Dutch-speaking (Flemish) community, about 59 per cent."
+    },
+    {
+     "text": "Why was the situation in Brussels special?",
+     "marks": 1,
+     "options": null,
+     "answer": "The Dutch-speaking community is the majority in the country but a minority in the capital, while the French-speaking community is a minority in the country but a majority in Brussels."
+    },
+    {
+     "text": "Explain any two arrangements made by Belgium to accommodate the different communities.",
+     "marks": 2,
+     "options": null,
+     "answer": "i. The Constitution requires that the number of Dutch- and French-speaking ministers in the central government be equal; some special laws require the support of majority of members from each linguistic group.\nii. Many powers of the central government were given to state governments of the two regions.\niii. Brussels has a separate government in which both communities have equal representation.\niv. A third kind of government, the 'community government', is elected by people of one language community. (any two, 1 mark each)"
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 29,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "variant",
+   "basis": "Paper_04 Q29",
+   "basis_question": {
+    "no": 29,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+    "text": "Starting around 1991, the Indian government made far-reaching changes in policy to encourage ________ competition.",
+    "options": [
+     "Regional",
+     "Global",
+     "Local",
+     "Domestic"
+    ],
+    "figure": null,
+    "answer": "(b) Global. The government decided that the time had come for Indian producers to compete with producers around the globe.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "The policy of removing barriers or restrictions set by the government on foreign trade and investment is known as ________.",
+   "options": [
+    "Privatisation",
+    "Liberalisation",
+    "Nationalisation",
+    "Protectionism"
+   ],
+   "answer": "(b) Liberalisation. Government decided to remove barriers on foreign trade and investment from 1991.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 30,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "origin": "variant",
+   "basis": "Paper_09 Q30",
+   "basis_question": {
+    "no": 30,
+    "section": "D",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch19_Economics_Money_and_Credit",
+    "text": "Rajiv obtained a loan of ₹ 8 lakhs from a bank for his business. The loan carries an annual interest rate of 10 percent and is to be repaid in monthly installments over a period of 5 years. As collateral, the bank retained Rajiv's valuable equipment until the loan and interest are fully repaid. Which of the following statements is true?",
+    "options": [
+     "Rajiv will repay the loan in a lump sum after 5 years.",
+     "Rajiv had to provide the bank with his personal bank statements to secure the loan.",
+     "The bank will return Rajiv's valuable equipment as soon as he submits his business plan.",
+     "The loan has a fixed interest rate of 5 percent per month."
+    ],
+    "figure": null,
+    "answer": "(b) Rajiv had to provide the bank with his personal bank statements to secure the loan (as given in the marking scheme).",
+    "or": null,
+    "subparts": null,
+    "note": "Marking-scheme key (b) looks doubtful; its own explanation says the bank required business plan/financial statements, not personal statements.",
+    "paper": "Paper_09"
+   },
+   "text": "Meera took a loan of ₹ 2,00,000 from a bank to buy a tractor. Until the loan is repaid, the bank keeps the ownership papers of the tractor. The ownership papers held by the bank are an example of",
+   "options": [
+    "Collateral",
+    "Deposit",
+    "Interest",
+    "Demand deposit"
+   ],
+   "answer": "(a) Collateral. Collateral is an asset that the borrower owns and uses as a guarantee to the lender until the loan is repaid; if the borrower fails to repay, the lender has the right to sell it.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Choose the incorrect option from column A and column B:\n\n| Column A Category of person | Column B Developmental goals/Aspirations |\n|---|---|\n| (a) Landless rural labourers | (i) More days of work and better wages |\n| (b) Prosperous farmers from Punjab | (ii) Availability of other sources of irrigation |\n| (c) Farmers who depend only on rain for growing crops | (iii) Assured a higher support price for their crops |\n| (d) A rural woman from a landowning family | (iv) Regular job and high wages to increase her income |",
+   "options": [
+    "Only C",
+    "Only B",
+    "All of these",
+    "Both B and D"
+   ],
+   "figure": null,
+   "answer": "(b) Only B - a prosperous farmer from Punjab wants to assure a high family income through higher support prices for their crops (matching (iii)), not (ii) other sources of irrigation.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q32"
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "ncert",
+   "text": "Which of the following is an example of a trade barrier?",
+   "options": [
+    "Tax on imports",
+    "Setting up of Special Economic Zones",
+    "Foreign investment",
+    "Joint production with a foreign company"
+   ],
+   "answer": "(a) Tax on imports. Trade barriers such as tax on imports or quotas are restrictions put by the government on foreign trade.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "origin": "ncert",
+   "text": "Making sugar from sugarcane is an activity of the ________ sector.",
+   "options": [
+    "Primary",
+    "Secondary",
+    "Tertiary",
+    "Public"
+   ],
+   "answer": "(b) Secondary. Natural products are changed into other forms through manufacturing, so it is secondary sector (industrial) activity.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+   "origin": "variant",
+   "basis": "Paper_09 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "C",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch15_PolSci_Gender_Religion_and_Caste",
+    "text": "Assertion (A): Women face discrimination and disadvantage in India in many ways.\nReason (R): India is a patriarchal society.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(a) Both A and R are true and R is the correct explanation of A — India is a patriarchal society where men are considered superior to women; hence women face discrimination and disadvantage in many ways.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "Assertion (A): Women in India still face discrimination in spite of the Constitution guaranteeing equality.\nReason (R): The literacy rate among women in India is higher than that among men.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(c) A is true but R is false. The literacy rate among women is lower than among men in India.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch20_Economics_Globalisation_and_Indian_Economy",
+   "origin": "ncert",
+   "text": "How do multinational corporations (MNCs) spread their production across countries? Explain with any three ways.",
+   "options": null,
+   "answer": "i. MNCs set up production jointly with local companies of that country; the local company provides land and knowledge of the market, and the MNC provides technology and money.\nii. MNCs buy up local companies and expand production, e.g. the American company Cargill Foods bought the local company Parakh Foods.\niii. MNCs place orders for production with small producers (garments, footwear, sports items) and sell the goods under their own brand.\n(1 mark each)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 36,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch22_Sectors_of_the_Indian_Economy",
+   "text": "Do you agree that agriculture in India takes place in the unorganised sector?",
+   "options": null,
+   "figure": null,
+   "answer": "Yes, Indian agriculture is mostly concentrated in the unorganised sector. The following factors prove this:\ni. Agriculture in India faces the problem of disguised unemployment, i.e. more people are employed than actually needed.\nii. Farmers are employed during harvesting and sowing season while the rest of the time they are unemployed. This underemployment shows that agriculture is unorganised.\niii. Most of the farmers depend on money lenders, rich farmers and relatives for loans instead of banks, and pay high interest.\niv. Farmers do not get any employment benefits such as insurance, medical allowance etc. that the workers in an organised sector are entitled to.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q36"
+  },
+  {
+   "no": 37,
+   "section": "D",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch18_Economics_Development",
+   "text": "Suppose records show that the average income in a country has been increasing over a period of time. From this, can we conclude that all sections of the economy have become better? Illustrate your answer with an example.",
+   "options": null,
+   "figure": null,
+   "answer": "No. An increase in the average income does not necessarily mean all sections have increased incomes, because only a few sections may have gained. For instance, in India the average income has been rising, but that reflects growth in the services sector, with virtually no growth in agriculture. Average income can also rise when wealth is inequitably distributed: maximum wealth is in the hands of a few rich people while most of the population finds it difficult to meet basic needs. So average income increases but not all sections benefit.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q37"
+  },
+  {
+   "no": 38,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch19_Economics_Money_and_Credit",
+   "origin": "variant",
+   "basis": "Paper_02 Q38",
+   "basis_question": {
+    "no": 38,
+    "section": "D",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch19_Economics_Money_and_Credit",
+    "text": "Examine the role of 'Reserve Bank of India' in the economic development of the country.",
+    "options": null,
+    "figure": null,
+    "answer": "The RBI plays a crucial role in economic development by regulating and supervising the financial system. It oversees formal sources of credit, ensuring that commercial banks function properly and follow rules while giving loans to individuals, businesses and farmers. It is the sole authority to issue currency notes in India, managing the money supply and maintaining its stability.\nBy regulating money circulation, it ensures an adequate supply of currency, preventing shortages and excesses. It monitors banks to maintain proper cash reserves so that banks can meet customers' withdrawal demands. It upholds the integrity of the economic system by preventing financial fraud, maintaining stability in banking and promoting public confidence, thereby supporting growth, stability and trust in India's economy.",
+    "or": {
+     "chapter": "Ch19_Economics_Money_and_Credit",
+     "text": "Explain various functions of banks in India.",
+     "answer": "Banks help the public and the government manage the money in the economy. The Reserve Bank of India is the central bank that supervises the functioning of formal sources of loans; issuing currency notes on behalf of the central government is its unique function. Banks provide two chief services: depositing savings and withdrawal of these savings on demand.\nMain functions: accepting deposits from the public and others; lending money to the public (loans) and other institutions; transferring money from one place to another (remittances); collecting money on cheques, drafts and bills; conducting foreign exchange transactions; keeping valuables in safe custody; issuing letters of credit and guarantee; conducting government transactions (State and Central).",
+     "options": null,
+     "figure": null
+    },
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "Distinguish between formal and informal sources of credit. Why should formal sources of credit be expanded in India?",
+   "options": null,
+   "answer": "Formal sources: banks and cooperatives; they work under the supervision of the Reserve Bank of India; they charge lower, regulated interest and require proper documents or collateral.\nInformal sources: moneylenders, traders, employers, relatives and friends; no organisation supervises them; they charge a very high rate of interest and use unfair means to recover loans.\nWhy expand formal credit: i. the cost of borrowing is low, so more people can earn and incomes rise; ii. high interest of informal lenders leaves borrowers with less income and can trap them in debt; iii. cheap credit helps the poor and small farmers to start or expand production; iv. the RBI supervision protects borrowers. (5 marks: 2 for difference, 3 for reasons)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "What are Self Help Groups (SHGs)? Explain how they help the rural poor.",
+    "answer": "i. A Self Help Group is a small group of 15-20 members, usually women from a neighbourhood, who pool their savings regularly.\nii. Members can take small loans from the group's pooled savings at a reasonable rate of interest; the group decides the loan amount, purpose and repayment.\niii. Because of regular repayment and group pressure, banks lend to the SHG without collateral.\niv. Loans reduce the dependence of the poor on moneylenders.\nv. The group meetings also help members discuss and act on social issues such as health, nutrition and domestic violence. (1 mark each)",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch19_Economics_Money_and_Credit"
+   }
+  }
+ ]
+}

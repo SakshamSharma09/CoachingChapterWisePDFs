@@ -1,0 +1,1118 @@
+{
+ "subject": "Science",
+ "paper": "Mock_02",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Most of the digestion and absorption of the food takes place in the",
+   "options": [
+    "small intestine",
+    "stomach",
+    "large intestine",
+    "liver"
+   ],
+   "figure": null,
+   "answer": "(a) small intestine. Much of the digestion takes place here and its primary function is absorption of nutrients.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q6"
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Heredity",
+   "origin": "variant",
+   "basis": "Paper_05 Q2",
+   "basis_question": {
+    "no": 2,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch08_Heredity",
+    "text": "When a pure-tall pea plant is crossed with a pure-dwarf pea plant, the percentage of tall pea plants in $F_1$ and $F_2$ generation pea plants will be respectively:",
+    "options": [
+     "100%; 100%",
+     "100%; 50%",
+     "100%; 75%",
+     "100%; 25%"
+    ],
+    "figure": null,
+    "answer": "(c) 100%; 75%",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "A pure round-seeded pea plant ($RR$) is crossed with a pure wrinkled-seeded pea plant ($rr$). The percentage of round-seeded plants in the $F_1$ generation and of wrinkled-seeded plants in the $F_2$ generation will be respectively:",
+   "options": [
+    "100%; 75%",
+    "100%; 25%",
+    "50%; 25%",
+    "100%; 50%"
+   ],
+   "answer": "(b) 100%; 25% — all $F_1$ plants are $Rr$ (round). Selfing $Rr$ gives $RR : Rr : rr = 1:2:1$, i.e. round : wrinkled = 3:1, so 25% are wrinkled.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "ncert",
+   "text": "In a food chain grass $\\rightarrow$ grasshopper $\\rightarrow$ frog $\\rightarrow$ snake $\\rightarrow$ hawk, 10,000 J of energy is available at the producer level. According to the 10 per cent law, the energy available to the hawk is:",
+   "options": [
+    "10 J",
+    "100 J",
+    "1 J",
+    "0.1 J"
+   ],
+   "answer": "(c) 1 J — grass 10000 J, grasshopper 1000 J, frog 100 J, snake 10 J, hawk 1 J (only 10% is passed on at each step).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "origin": "ncert",
+   "text": "Which part of the human brain is responsible for maintaining the posture and balance of the body?",
+   "options": [
+    "Cerebrum",
+    "Medulla",
+    "Cerebellum",
+    "Pituitary gland"
+   ],
+   "answer": "(c) Cerebellum — it is the part of the hind-brain that controls precision of voluntary actions, posture and balance of the body.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch13_Our_Environment",
+   "origin": "variant",
+   "basis": "Paper_04 Q5",
+   "basis_question": {
+    "no": 5,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch13_Our_Environment",
+    "text": "Micro-organisms belong to the group of:",
+    "options": [
+     "Decomposers",
+     "Consumers",
+     "Composers",
+     "Producers"
+    ],
+    "figure": null,
+    "answer": "(a) Decomposers — they break down the dead remains and waste products of organisms.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Bacteria and fungi that break down dead plants and animals into simple substances belong to which trophic group?",
+   "options": [
+    "Producers",
+    "Decomposers",
+    "Primary consumers",
+    "Secondary consumers"
+   ],
+   "answer": "(b) Decomposers — they break down dead remains and waste products and return nutrients to the soil.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Life_Processes",
+   "origin": "ncert",
+   "text": "In aerobic respiration, the complete breakdown of pyruvate into carbon dioxide, water and energy takes place in the:",
+   "options": [
+    "cytoplasm",
+    "nucleus",
+    "chloroplast",
+    "mitochondria"
+   ],
+   "answer": "(d) mitochondria — in the presence of oxygen pyruvate is broken down completely to $CO_2$ and $H_2O$ with release of a large amount of energy.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Control_and_Coordination",
+   "text": "Junctions of two neurons in called:",
+   "options": [
+    "neuro muscular junction",
+    "neural joint",
+    "synapse",
+    "cell junction"
+   ],
+   "figure": null,
+   "answer": "(c) synapse - the point where two neurons join; the electrical impulse is converted into a chemical signal to cross the gap.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q7"
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "ncert",
+   "text": "Assertion (A): Spore formation helps Rhizopus to survive under unfavourable conditions.\nReason (R): Spores are covered by thick protective walls that protect them until they come in contact with another moist surface.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. The thick-walled spores resist harsh conditions and germinate on a moist surface.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Our_Environment",
+   "text": "Assertion (A): Green plants trap only 1% of the energy of sunlight that falls on their leaves.\nReason (R): All green plants are the producers in a food chain.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "figure": null,
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q9"
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "origin": "ncert",
+   "text": "State two reasons why variation is useful to a species.",
+   "options": null,
+   "answer": "1. Variations help a species to survive in a changing environment (e.g. some bacteria with a heat-resistant variation survive a heat wave while others die). (1)\n2. Variations are the basis of evolution: useful variations are inherited and accumulate over generations, giving rise to new forms/species. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Our_Environment",
+   "text": "a. Create a food chain of the following organisms:\nInsect, Hawk, Grass, Snake, Frog\nb. Name the organism at the third trophic level of the created food chain.\nc. Which organism of this food chain will have the highest concentration of non-biodegradable chemicals?\nd. Name the phenomenon associated with it.\ne. If 10,000 joules of energy is available to frogs, how much energy will be available to snakes in this food chain?",
+   "options": null,
+   "figure": null,
+   "answer": "a. Grass → Insect → Frog → Snake → Hawk\nb. Third trophic level: Frog.\nc. Hawk.\nd. Biomagnification.\ne. 1000 J (10% of 10,000 J).",
+   "or": {
+    "text": "How is ozone formed in the upper atmosphere? State its importance. What is responsible for its depletion? Write one harmful effect of ozone depletion.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch13_Our_Environment",
+    "answer": "Higher energy UV radiations split some molecular oxygen into free oxygen atoms: $O_2 \\xrightarrow{UV} O + O$. These atoms combine with molecular oxygen to form ozone: $O_2 + O \\rightarrow O_3$.\nImportance: it prevents harmful UV radiation from reaching the earth.\nDepletion is caused by CFCs (chlorofluorocarbons)/aerosols.\nHarmful effect: skin cancer."
+   },
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q11"
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "List the functions of testosterone and estrogen.",
+   "options": null,
+   "figure": null,
+   "answer": "Testosterone: develops the male reproductive organs and secondary sexual characters.\nEstrogen: develops the female genital organs and secondary sexual characters.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q12"
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Heredity",
+   "text": "Study the following cross that shows the self-pollination in F1, fill in the blank the genotype and phenotype in the F1 generation. What type of cross it is?\n\nParents: RRYY (Round, yellow) $\\times$ rryy (wrinkled, green)\nF1: RrYy (Round, yellow) $\\times$ ?",
+   "options": null,
+   "figure": null,
+   "answer": "Blank: RrYy, Round yellow (self-cross of F1 gives the F2 generation). It is a dihybrid cross, showing inheritance of two different traits simultaneously. Pure-breeding dominant parent (RRYY) crossed with pure-breeding recessive parent (rryy) gives heterozygous dominant progeny RrYy, all round yellow, in F1.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q13"
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch05_Life_Processes",
+   "text": "Explain how urine is produced in kidneys.",
+   "options": null,
+   "figure": null,
+   "answer": "The kidney has a large number of filtration units called nephrons. Blood enters the kidney and is filtered through a cluster of capillaries (glomerulus); the filtrate is collected by a cup-shaped structure (Bowman's capsule). Some substances such as glucose, amino acids, salts and a major amount of water are selectively re-absorbed as the filtrate flows along the tube of the nephron. The remaining fluid is urine.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q14"
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Heredity",
+   "origin": "variant",
+   "basis": "Paper_01 Q15",
+   "basis_question": {
+    "no": 15,
+    "section": "A",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch08_Heredity",
+    "text": "A student crossed pea plants having round and yellow seeds with pea plants having wrinkled and green seeds. He found that only one type of seeds were produced in the F1 generation. When these F1 generation pea plants were self-pollinated with each other, then in addition to the seed type of F1 generation, some new types of seed combinations were also obtained in the F2 generation.",
+    "options": null,
+    "figure": null,
+    "answer": "",
+    "or": null,
+    "subparts": [
+     {
+      "text": "Mention the dominant traits observed in F1 generation.",
+      "marks": 1,
+      "options": null,
+      "answer": "Round and Yellow traits are dominant."
+     },
+     {
+      "text": "What are the new possible combinations of seeds likely to be observed in F2 generation?",
+      "marks": 1,
+      "options": null,
+      "answer": "New possibilities: Round Green, Wrinkled Yellow (the combinations Round Yellow and Wrinkled Green are the parental types)."
+     },
+     {
+      "text": "Give reason why the traits which were not visible in the seeds of F1 generation reappeared in the seeds of F2 generation. Write the ratio of different types of seeds obtained in F2 generation in this case.",
+      "marks": 2,
+      "options": null,
+      "answer": "It is because of segregation of alleles: during the formation of gametes, each gene separates from the other so that each gamete carries only one allele for each gene, hence the recessive traits reappear in F2. (The key does not state the ratio; the standard dihybrid F2 ratio is 9:3:3:1.)",
+      "or": {
+       "text": "What is meant by the terms (I) dominant, and (II) recessive traits? Explain.",
+       "options": null,
+       "answer": "The trait that first appears or is visibly expressed in the organism is called the dominant trait. The trait that is present at the gene level but is masked and does not show itself in the organism is called the recessive trait."
+      }
+     }
+    ],
+    "note": "Key lists the new combinations as Round Yellow, Round Green, Wrinkled Yellow, Wrinkled Green; the ratio in part iii is not given in the key.",
+    "paper": "Paper_01"
+   },
+   "text": "A student crossed pure tall pea plants having violet flowers with pure dwarf pea plants having white flowers. He found that only one type of plants was produced in the $F_1$ generation. When these $F_1$ plants were self-pollinated, in addition to the plant type of the $F_1$ generation, some new combinations of characters were also obtained in the $F_2$ generation.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "Mention the dominant traits observed in the $F_1$ generation.",
+     "marks": 1,
+     "options": null,
+     "answer": "Tallness and violet flower colour are dominant (all $F_1$ plants are tall with violet flowers)."
+    },
+    {
+     "text": "What are the new combinations of characters likely to be observed in the $F_2$ generation?",
+     "marks": 1,
+     "options": null,
+     "answer": "Tall plants with white flowers and dwarf plants with violet flowers (tall violet and dwarf white are the parental types)."
+    },
+    {
+     "text": "Give reason why the new combinations appear in the $F_2$ generation. Write the ratio of the different types of plants obtained in $F_2$ in this case.",
+     "marks": 2,
+     "options": null,
+     "answer": "The genes for height and flower colour are inherited independently: during gamete formation the alleles assort independently, so parental traits get recombined. (1)\nThe phenotypic ratio is tall violet : tall white : dwarf violet : dwarf white = 9 : 3 : 3 : 1. (1)",
+     "or": {
+      "text": "If the $F_2$ generation has 320 plants, calculate the expected number of (I) tall plants with violet flowers and (II) dwarf plants with white flowers.",
+      "options": null,
+      "answer": "(I) $\\frac{9}{16}\\times 320 = 180$ plants. (1)\n(II) $\\frac{1}{16}\\times 320 = 20$ plants. (1)"
+     }
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch07_How_do_Organisms_Reproduce",
+   "text": "i. Draw a diagram showing the germination of pollen on the stigma of a flower and mark on it the following organs/parts:\na. Pollen Grain\nb. Pollen tube\nc. Stigma\nd. Female germ cell\nii. State the significance of the pollen tube.\niii. Name the parts of a flower that develop after fertilization into\na. Seed\nb. Fruit",
+   "options": null,
+   "figure": null,
+   "answer": "i. Diagram (in the key, fig_p11_0.png) showing pollen grain on the stigma, pollen tube growing through the style and reaching the ovule with the female germ cell (egg).\nii. Pollen tubes act as conduits to transport the male gamete cells from the pollen grain, from the stigma to the ovules at the base of the pistil.\niii. After fertilization: a. Ovules develop into Seed. b. The ovary develops into a Fruit.",
+   "or": {
+    "text": "List some functions of the human brain.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch06_Control_and_Coordination",
+    "answer": "Major functions of the human brain are:\ni. The cerebral cortex is greatly enlarged in human brains and is considered the seat of complex thought. It coordinates activities of the body so that mechanical and hormonal reactions of the body work together.\nii. Visual processing takes place in the occipital lobe, near the back of the skull.\niii. The temporal lobe is located behind our ears and is involved in vision, memory, sensory input, language, emotion.\niv. The parietal lobe integrates input from different senses and is important for spatial orientation and navigation.\nv. The brain stem relays information between the brain and the body, supplies some cranial nerves to the face and head, and controls the heart, breathing and consciousness.\nvi. The thalamus relays sensory and motor signals to the cortex and regulates consciousness, sleep and alertness. The hypothalamus connects the nervous system to the endocrine system via the pituitary gland.\nvii. The cerebellum lies beneath the cerebrum and has important functions in motor control, coordination and balance."
+   },
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q16"
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_03 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "Solid sodium bicarbonate was placed on a strip of pH paper. The colour of the strip",
+    "options": [
+     "turned light pink",
+     "did not change",
+     "turned green and suddenly yellow",
+     "turned blue"
+    ],
+    "figure": null,
+    "answer": "(b) did not change — solid NaHCO$_3$ does not change pH paper; it does so only in aqueous solution.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_03"
+   },
+   "text": "A strip of universal indicator paper was dipped in an aqueous solution of washing soda (sodium carbonate). The colour of the strip:",
+   "options": [
+    "turned red",
+    "turned yellow",
+    "turned blue/violet",
+    "did not change"
+   ],
+   "answer": "(c) turned blue/violet — washing soda solution is basic (pH about 11) because it is the salt of a strong base and a weak acid.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_05 Q23",
+   "basis_question": {
+    "no": 23,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "An aqueous solution A turns phenolphthalein solution pink. When another aqueous solution B is added to the pink solution, the pink colour disappears. Now when a few drops of solution A are added to this reaction, the mixture appears pink again. The respective changes in the nature of the solution are from:",
+    "options": [
+     "acidic $\\rightarrow$ basic $\\rightarrow$ basic",
+     "acidic $\\rightarrow$ basic $\\rightarrow$ acidic",
+     "basic $\\rightarrow$ acidic $\\rightarrow$ acidic",
+     "basic $\\rightarrow$ acidic $\\rightarrow$ basic"
+    ],
+    "figure": null,
+    "answer": "(d) basic $\\rightarrow$ acidic $\\rightarrow$ basic",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_05"
+   },
+   "text": "An aqueous solution P turns methyl orange red. When another aqueous solution Q is added to it, the red colour changes to yellow. Now when a few drops of P are added to this mixture, it appears red again. The respective changes in the nature of the solution are from:",
+   "options": [
+    "acidic $\\rightarrow$ basic $\\rightarrow$ basic",
+    "acidic $\\rightarrow$ basic $\\rightarrow$ acidic",
+    "basic $\\rightarrow$ acidic $\\rightarrow$ acidic",
+    "basic $\\rightarrow$ acidic $\\rightarrow$ basic"
+   ],
+   "answer": "(b) acidic $\\rightarrow$ basic $\\rightarrow$ acidic — methyl orange is red in acid and yellow in base. P is acidic, Q makes the mixture basic, and more P makes it acidic again.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "variant",
+   "basis": "Paper_01 Q19",
+   "basis_question": {
+    "no": 19,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch03_Metals_and_Non-metals",
+    "text": "Electrical wires have a coating of an insulting material. The material, generally used is",
+    "options": [
+     "PVC",
+     "All can be used",
+     "Sulphur",
+     "Graphite"
+    ],
+    "figure": null,
+    "answer": "(a) PVC - an insulating substance such as PVC does not allow electric current to pass through it.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Which of the following non-metals is a good conductor of electricity?",
+   "options": [
+    "Sulphur",
+    "Graphite",
+    "Phosphorus",
+    "Iodine"
+   ],
+   "answer": "(b) Graphite — it is an allotrope of carbon and is the only common non-metal that is a good conductor of electricity.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "text": "The slag obtained during the extraction of copper pyrites is composed mainly of:",
+   "options": [
+    "CuSiO₃",
+    "SiO₂",
+    "Cu₂S",
+    "FeSiO₃"
+   ],
+   "figure": null,
+   "answer": "(d) FeSiO₃ - the sulphide ore of copper containing iron is mixed with silica before heating in a reverberatory furnace; iron oxide forms the slag iron silicate: FeO + SiO₂ → FeSiO₃.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q21"
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "variant",
+   "basis": "Paper_09 Q24",
+   "basis_question": {
+    "no": 24,
+    "section": "B",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch03_Metals_and_Non-metals",
+    "text": "Metal which is liquid at room temperature is:",
+    "options": [
+     "Sodium",
+     "Lead",
+     "Silver",
+     "Mercury"
+    ],
+    "figure": null,
+    "answer": "(d) Mercury. Lead, sodium and silver are solids.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "Which of the following non-metals is a liquid at room temperature?",
+   "options": [
+    "Iodine",
+    "Bromine",
+    "Chlorine",
+    "Sulphur"
+   ],
+   "answer": "(b) Bromine — it is the only non-metal that is liquid at room temperature (the only liquid metal is mercury).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "text": "Match the following with the correct response:\n\n| Column A | Column B |\n|---|---|\n| (i) Welding | (a) Ethyl alcohol |\n| (ii) Fuel in a spirit lamp | (b) Ester |\n| (iii) Lime water turns milky | (c) Carbon dioxide |\n| (iv) Fruity smell | (d) Ethyne and oxygen |",
+   "options": [
+    "(i) - (c), (ii) - (b), (iii) - (d), (iv) - (a)",
+    "(i) - (a), (ii) - (c), (iii) - (b), (iv) - (d)",
+    "(i) - (b), (ii) - (d), (iii) - (a), (iv) - (c)",
+    "(i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)"
+   ],
+   "figure": null,
+   "answer": "(d) (i) - (d), (ii) - (a), (iii) - (c), (iv) - (b)",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_05",
+   "origin": "real",
+   "basis": "Paper_05 Q20"
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "text": "Which of the following statements is not correct?",
+   "options": [
+    "Some metals react with acids to give salt and hydrogen.",
+    "Some non metal oxides react with water to form an acid.",
+    "All metal oxides react with water to give salt and acid.",
+    "All metal carbonates react with acid to give a salt, water and carbon dioxide."
+   ],
+   "figure": null,
+   "answer": "(c) All metal oxides react with water to give salt and acid. Metal oxides are basic in nature and give alkaline solutions when dissolved in water (and many do not react with water at all).",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_09",
+   "origin": "real",
+   "basis": "Paper_09 Q17"
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch02_Acids_Bases_and_Salts",
+   "origin": "variant",
+   "basis": "Paper_07 Q24",
+   "basis_question": {
+    "no": 24,
+    "section": "B",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch02_Acids_Bases_and_Salts",
+    "text": "Assertion (A): H3PO4 and H2SO4 are known as polybasic acids.\nReason (R): They have two or more than two protons per molecule of the acid.",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(a) Both A and R are true and R is the correct explanation of A. E.g. $H_3PO_4 \\rightleftharpoons H_2PO_4^- + H^+$, $H_2PO_4^- \\rightleftharpoons HPO_4^{2-} + H^+$, $HPO_4^{2-} \\rightleftharpoons PO_4^{3-} + H^+$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "Assertion (A): Sodium hydrogencarbonate is used as an antacid.\nReason (R): Sodium hydrogencarbonate is a strong base.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(c) A is true but R is false. $NaHCO_3$ is a mild, non-corrosive base; it neutralises the excess acid in the stomach.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "origin": "ncert",
+   "text": "Write balanced chemical equations for the following reactions.\n(a) Barium chloride solution reacts with aluminium sulphate solution to give a precipitate of barium sulphate and aluminium chloride solution.\n(b) Sodium metal reacts with water to give sodium hydroxide solution and hydrogen gas.",
+   "options": null,
+   "answer": "(a) $3BaCl_2(aq) + Al_2(SO_4)_3(aq) \\rightarrow 3BaSO_4(s) + 2AlCl_3(aq)$ (1)\n(b) $2Na(s) + 2H_2O(l) \\rightarrow 2NaOH(aq) + H_2(g)$ (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "origin": "variant",
+   "basis": "Paper_04 Q26",
+   "basis_question": {
+    "no": 26,
+    "section": "B",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "On heating blue coloured powder of copper (II) nitrate in a boiling tube, copper oxide (black), oxygen gas and a brown gas X is formed.\ni. Write a balanced chemical equation of the reaction.\nii. Identify the brown gas X evolved.\niii. Identify the type of reaction.\niv. What could be the pH range of the aqueous solution of the gas X?",
+    "options": null,
+    "figure": null,
+    "answer": "i. $2Cu(NO_3)_2(s) \\xrightarrow{Heat} 2CuO(s) + 4NO_2(g) + O_2(g)$\nii. The brown gas X is nitrogen dioxide ($NO_2$).\niii. Thermal decomposition reaction.\niv. pH < 7, because $NO_2$ dissolves in water to form an acidic solution.",
+    "or": {
+     "chapter": "Ch01_Chemical_Reactions_and_Equations",
+     "text": "i. Why are the chips packets puffed when we buy them from market?\nii. Paint is applied on articles made up of iron, why?",
+     "options": null,
+     "figure": null,
+     "answer": "i. Cooking oil in the chips gets oxidised (becomes rancid) on contact with air; to prevent this, the oxygen in the packet is replaced by flushing nitrogen, which puffs up the packet.\nii. Iron reacts with atmospheric oxygen in the presence of moisture (corrosion/rusting). Paint makes a barrier between the surface of the iron article and the atmosphere and prevents corrosion."
+    },
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "On heating green crystals of ferrous sulphate in a dry boiling tube, a reddish-brown solid is left behind and two gases with the smell of burning sulphur are evolved.\ni. Write the balanced chemical equation for the reaction.\nii. Name the two gases evolved.\niii. Identify the type of reaction and give a reason.",
+   "options": null,
+   "answer": "i. $2FeSO_4(s) \\xrightarrow{Heat} Fe_2O_3(s) + SO_2(g) + SO_3(g)$ (1)\nii. Sulphur dioxide ($SO_2$) and sulphur trioxide ($SO_3$). (1)\niii. Thermal decomposition reaction — a single compound breaks down into simpler substances on heating. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "i. Why does a silver article turn black after being kept in air for some time? Write the equation.\nii. Why does a copper vessel acquire a green coating on long exposure to moist air?",
+    "options": null,
+    "figure": null,
+    "answer": "i. Silver reacts with hydrogen sulphide/sulphur compounds present in air to form a black coating of silver sulphide: $2Ag + H_2S \\rightarrow Ag_2S + H_2$. (2)\nii. Copper reacts with moisture, carbon dioxide and oxygen of the air to form a green coating of basic copper carbonate (corrosion of copper). (1)"
+   }
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch03_Metals_and_Non-metals",
+   "origin": "ncert",
+   "text": "Give reasons for the following.\n(a) Platinum, gold and silver are used to make jewellery.\n(b) Sodium, potassium and lithium are stored under oil.\n(c) Aluminium is a highly reactive metal, yet it is used to make utensils for cooking.",
+   "options": null,
+   "answer": "(a) These metals are very lustrous, malleable and ductile, and being very unreactive they do not corrode or tarnish easily. (1)\n(b) They are very reactive and catch fire when exposed to air or moisture; keeping them under oil protects them from oxygen and moisture. (1)\n(c) Aluminium is covered with a thin, protective, non-reactive layer of aluminium oxide that prevents further reaction; it is also a good conductor of heat. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Chemical_Reactions_and_Equations",
+   "origin": "variant",
+   "basis": "Paper_01 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "B",
+    "marks": 4,
+    "type": "case",
+    "chapter": "Ch01_Chemical_Reactions_and_Equations",
+    "text": "When the fats and oil present in the food material get oxidized by the oxygen (of air), their oxidation products have unpleasant smells and tastes. Due to this taste of food material containing fats and oil change and become very unpleasant. The condition produced by aerial oxidation of fats and oils in food marked by unpleasant smell and taste is called rancidity. Rancidity spoils the food material prepared in the fats and oils which have been kept for a considerable time and makes them unfit for eating.\nThe development of rancidity in food can be prevented in the following ways-\nI. Rancidity can be prevented by adding an antioxidant to foods containing fats and oils.\nII. Rancidity can be prevented by packaging fat and oil-containing food in Nitrogen gas.\nIII. Rancidity can be prevented by keeping food in a refrigerator.",
+    "options": null,
+    "figure": null,
+    "answer": "",
+    "or": null,
+    "subparts": [
+     {
+      "text": "What do you understand by oxidation?",
+      "marks": 1,
+      "options": null,
+      "answer": "The process in which addition of oxygen and removal of hydrogen to a substance take place is called oxidation."
+     },
+     {
+      "text": "How does the food become rancid?",
+      "marks": 1,
+      "options": null,
+      "answer": "Food becomes rancid when the fats and oils present in the food are oxidised."
+     },
+     {
+      "text": "How can we prevent the rancidity of food?",
+      "marks": 2,
+      "options": null,
+      "answer": "Rancidity can be prevented by packaging fat and oil-containing food in nitrogen gas (also by adding antioxidants and by refrigeration).",
+      "or": {
+       "text": "Which type of food material gets spoiled by the phenomenon of rancidity?",
+       "options": null,
+       "answer": "Rancidity spoils those food materials that are prepared in fats and oils which have been kept for a considerable time and makes them unfit for eating."
+      }
+     }
+    ],
+    "paper": "Paper_01"
+   },
+   "text": "Rusting is the corrosion of iron. It is a slow reaction in which iron articles are gradually eaten up by moisture and oxygen of the air and get coated with a reddish-brown flaky substance called rust. A student set up three test tubes: tube A contained iron nails in ordinary water exposed to air; tube B contained iron nails in boiled distilled water with a layer of oil on top; tube C contained iron nails with anhydrous calcium chloride, tightly corked. After a few days the nails rusted only in tube A.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "In which test tube did the nails rust, and why?",
+     "marks": 1,
+     "options": null,
+     "answer": "Tube A — both air (oxygen) and water were available to the nails."
+    },
+    {
+     "text": "What is the role of the layer of oil in tube B and of anhydrous calcium chloride in tube C?",
+     "marks": 1,
+     "options": null,
+     "answer": "Oil prevents air (oxygen) from dissolving in the water; anhydrous calcium chloride absorbs moisture so the air in tube C is dry."
+    },
+    {
+     "text": "Name the chemical substance that is rust. Give two ways of preventing rusting of iron.",
+     "marks": 2,
+     "options": null,
+     "answer": "Rust is hydrated iron(III) oxide, $Fe_2O_3\\cdot xH_2O$. (1)\nPrevention: painting/oiling/greasing the surface, galvanisation (zinc coating), alloying (stainless steel) — any two. (1)",
+     "or": {
+      "text": "What is galvanisation? Why does a zinc coating protect iron from rusting?",
+      "options": null,
+      "answer": "Galvanisation is the coating of iron/steel with a thin layer of zinc. (1)\nZinc forms a protective layer and, being more reactive than iron, protects it even if the coating is scratched. (1)"
+     }
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 29,
+   "section": "B",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Carbon_and_its_Compounds",
+   "origin": "variant",
+   "basis": "Paper_01 Q29",
+   "basis_question": {
+    "no": 29,
+    "section": "B",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "a. What is a hydrocarbon? Give its one example.\nb. Give the structural difference between saturated and unsaturated hydrocarbons with two examples each.\nc. Name the following compounds:\ni. CH₃-OH\nii. CH₃-CHO (acetaldehyde structure: CH₃-C(=O)-H)\niii. CH₃-C(=O)-CH₃\niv. CH₃-C(=O)-OH",
+    "options": null,
+    "figure": "fig_p06_0.png",
+    "answer": "a. Carbon compounds containing only carbon and hydrogen are called hydrocarbons. Example: alkane / alkene / alkyne / any other.\nb. Saturated hydrocarbons consist of only single bonds (examples: ethane CH₃-CH₃, propane CH₃-CH₂-CH₃). Unsaturated hydrocarbons consist of double or triple bonds (examples: ethene CH₂=CH₂, ethyne H-C≡C-H).\nc. i. Methanol / methyl alcohol\nii. Ethanal / acetaldehyde\niii. Propanone / acetone\niv. Ethanoic acid / acetic acid",
+    "or": {
+     "text": "A carbon compound 'A' is widely used as a preservative in pickles and has a molecular formula C₂H₄O₂. This compound reacts with ethanol to form a sweet smelling compound 'B'.\ni. Identify the compound 'A' and write its structure.\nii. Write the chemical equation for the reaction of 'A' with ethanol to form compound 'B'. State the role of presence of an acid in the reaction.\niii. How can we get compound 'A' back from 'B'?\niv. How can 'A' be obtained from ethanol?\nv. Name the gas produced when compound 'A' reacts with washing soda.",
+     "options": null,
+     "figure": null,
+     "chapter": "Ch04_Carbon_and_its_Compounds",
+     "answer": "i. A is ethanoic acid, CH₃COOH (structure: CH₃-C(=O)-OH).\nii. CH₃COOH + C₂H₅OH →(conc. H₂SO₄) CH₃COOC₂H₅ + H₂O. The acid acts as a catalyst.\niii. By adding dilute NaOH to B (ester) - saponification: the sodium salt of the acid is produced, which on acidification gives A (also by hydrolysis with water and acid or base).\niv. By oxidising ethanol with alkaline potassium permanganate or acidified potassium dichromate on warming: CH₃CH₂OH →(alkaline KMnO₄ + heat, or acidified K₂Cr₂O₇ + heat) CH₃COOH.\nv. Carbon dioxide (CO₂)."
+    },
+    "subparts": null,
+    "note": "Figure fig_p06_0.png is the structure given for part c(ii); other parts are typed in text.",
+    "paper": "Paper_01"
+   },
+   "text": "a. What is a homologous series? Write the molecular formulae of the first three members of the alkene series.\nb. Give the difference in bonding between ethane and ethyne with their structural formulae.\nc. Name the following compounds:\ni. $CH_3CH_2OH$\nii. $CH_3CH_2CHO$\niii. $CH_3COCH_2CH_3$\niv. $CH_3CH_2COOH$",
+   "options": null,
+   "answer": "a. A homologous series is a series of carbon compounds with the same functional group and similar chemical properties in which successive members differ by a $-CH_2$ unit. First three alkenes: $C_2H_4$, $C_3H_6$, $C_4H_8$. (1 + 1)\nb. Ethane $CH_3-CH_3$ has only single C-C bonds (saturated); ethyne $H-C\\equiv C-H$ has a triple bond between the carbon atoms (unsaturated). (1)\nc. i. Ethanol; ii. Propanal; iii. Butanone; iv. Propanoic acid. (½ x 4 = 2)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch04_Carbon_and_its_Compounds",
+    "text": "A carbon compound 'P' is present in alcoholic drinks and has the molecular formula $C_2H_6O$. On heating with excess conc. $H_2SO_4$ at 443 K it forms a compound 'Q'.\ni. Identify P and Q.\nii. Write the chemical equation for the formation of Q from P.\niii. What is formed when P is heated with alkaline $KMnO_4$?\niv. Name the gas evolved when P reacts with sodium, and write the equation.\nv. Name the sweet-smelling compound formed when P reacts with ethanoic acid in the presence of conc. $H_2SO_4$.",
+    "options": null,
+    "figure": null,
+    "answer": "i. P is ethanol ($C_2H_5OH$); Q is ethene ($CH_2=CH_2$). (1)\nii. $CH_3CH_2OH \\xrightarrow{\\text{conc. }H_2SO_4,\\,443\\,K} CH_2=CH_2 + H_2O$ (1)\niii. Ethanoic acid ($CH_3COOH$) is formed by oxidation. (1)\niv. Hydrogen gas: $2CH_3CH_2OH + 2Na \\rightarrow 2CH_3CH_2ONa + H_2$ (1)\nv. Ethyl ethanoate ($CH_3COOC_2H_5$), an ester. (1)"
+   }
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "text": "Which of the following statement is incorrect?\nA. A ray of light passing from an optically rarer medium to an optically denser medium bends away from the normal.\nB. A ray of light passing from an optically denser medium to an optically rarer medium bends away from the normal.\nC. A ray of light passing from an optically rarer medium to an optically denser medium bends toward the normal.\nD. A ray light passing from an optically denser medium to an optically rarer medium bends towards the normal.",
+   "options": [
+    "A, B and D",
+    "B and C",
+    "A and C",
+    "A and D"
+   ],
+   "figure": null,
+   "answer": "(b) B and C — as given in the official key. (Explanation in key: a ray going from denser to rarer medium bends away from the normal, and from rarer to denser bends towards the normal. NOTE: that makes B and C the correct statements; the incorrect ones are A and D, i.e. option (d) by the wording of the question.)",
+   "or": null,
+   "subparts": null,
+   "note": "Official key answer (b) conflicts with the question wording ('incorrect'); content-wise (d) A and D.",
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q30"
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "origin": "ncert",
+   "text": "A person cannot see distant objects clearly. The defect of vision he suffers from and the type of lens needed to correct it are respectively:",
+   "options": [
+    "Hypermetropia; concave lens",
+    "Myopia; convex lens",
+    "Myopia; concave lens",
+    "Presbyopia; bifocal lens"
+   ],
+   "answer": "(c) Myopia; concave lens — the image of a distant object forms in front of the retina; a concave lens of suitable power diverges the rays and shifts the image onto the retina.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 32,
+   "section": "C",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "origin": "variant",
+   "basis": "Paper_04 Q32",
+   "basis_question": {
+    "no": 32,
+    "section": "C",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch12_Magnetic_Effects_of_Current",
+    "text": "Assertion (A): The magnetic field lines around a current carrying straight wire do not intersect each other.\nReason (R): The magnitude of the magnetic field produced at a given point increases as the current through the wire increases.",
+    "options": [
+     "(a) Both A and R are true and R is the correct explanation of A.",
+     "(b) Both A and R are true but R is not the correct explanation of A.",
+     "(c) A is true but R is false.",
+     "(d) A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(c) A is true but R is false (as per the paper's key).",
+    "or": null,
+    "subparts": null,
+    "note": "Key says (c). Strictly, R is also a true statement (B is proportional to I); (b) would be the textbook answer. Flagged.",
+    "paper": "Paper_04"
+   },
+   "text": "Assertion (A): An electric motor converts electrical energy into mechanical energy.\nReason (R): A split-ring commutator reverses the direction of current in the coil after every half rotation.",
+   "options": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. The commutator keeps the coil rotating in the same direction; the conversion of energy is due to the force on a current-carrying coil in a magnetic field.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "origin": "variant",
+   "basis": "Paper_02 Q33",
+   "basis_question": {
+    "no": 33,
+    "section": "C",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch10_Human_Eye_and_Colourful_World",
+    "text": "State reasons to explain these observations.\na. Our eye is more sensitive to yellow colour but even then danger signals are red in colour.\nb. Violet colour is seen at the bottom of the spectrum when light is displaced by a prism.",
+    "options": null,
+    "figure": null,
+    "answer": "a. By Rayleigh's scattering law the intensity of scattered light $\\propto \\frac{1}{\\lambda^4}$. Yellow has a shorter wavelength than red, so yellow is scattered more than red; red light is scattered least and so can be seen from a longer distance. Hence red is used for danger signals.\nb. Violet light has the shortest wavelength and therefore the highest refractive index in the visible spectrum, so it is deviated the most by the prism and appears at the bottom.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "State reasons to explain these observations.\na. The sky appears dark to an astronaut flying at a very high altitude.\nb. The Sun appears reddish at sunrise and sunset.",
+   "options": null,
+   "answer": "a. There is no atmosphere at such heights, so there is no scattering of sunlight; hence the sky appears dark. (1)\nb. At sunrise/sunset sunlight travels a longer path through the atmosphere; blue and shorter wavelengths are scattered away and the red light, being scattered least, reaches us. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 34,
+   "section": "C",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Electricity",
+   "text": "A hot plate of an electric oven connected to a 220 V line has two resistance coils A and B, each of $24\\ \\Omega$ resistance, which may be used separately, in series, or in parallel. What are the currents in the three cases?",
+   "options": null,
+   "figure": null,
+   "answer": "V = 220 V, $R_A = R_B = 24\\ \\Omega$.\ni. Separately: $I = V/R = 220/24 = 9.2$ A.\nii. In series: $R_S = 24 + 24 = 48\\ \\Omega$, $I = 220/48 = 4.6$ A.\niii. In parallel: $\\frac{1}{R_P} = \\frac{1}{24}+\\frac{1}{24} = \\frac{2}{24}$, $R_P = 12\\ \\Omega$, $I = 220/12 = 18.3$ A.",
+   "or": {
+    "chapter": "Ch11_Electricity",
+    "text": "You have two circuits:\n(i) a 6V battery is series with $1\\ \\Omega$ and $2\\ \\Omega$ resistors\n(ii) a 4V battery in parallel with $12\\ \\Omega$ and $2\\ \\Omega$ resistors\nCompare the power used in $2\\ \\Omega$ resistor in each case.",
+    "options": null,
+    "figure": null,
+    "answer": "(i) $R = 1 + 2 = 3\\ \\Omega$, $I = 6/3 = 2$ A, $P_1 = I^2R = 2^2\\times 2 = 8$ W.\n(ii) The potential difference across each parallel resistor is 4 V, so $P_2 = V^2/R = 4\\times4/2 = 8$ W.\n$P_1 : P_2 = 8 : 8 = 1 : 1$."
+   },
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q34"
+  },
+  {
+   "no": 35,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "origin": "variant",
+   "basis": "Paper_07 Q35",
+   "basis_question": {
+    "no": 35,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch12_Magnetic_Effects_of_Current",
+    "text": "a. State the Right-hand thumb rule.\nb. A steady current flows through a horizontal power line from east to west direction as shown in the figure. Apply right-hand thumb rule to determine the direction of magnetic field (i) at a point directly below it, and (ii) at a point directly above it.",
+    "options": null,
+    "figure": "fig_p08_1.png",
+    "answer": "a. Imagine holding a current-carrying straight conductor in your right hand such that the thumb points in the direction of the current; then the fingers wrap around the conductor in the direction of the magnetic field lines.\nb. (Key as printed) The field circles the wire in the plane perpendicular to it: viewed from the east end it is clockwise, viewed from the west end anticlockwise. Applying the rule for current towards west: the field points towards the south at a point directly below the wire and towards the north at a point directly above it.",
+    "or": null,
+    "subparts": null,
+    "note": "The printed key answer for (b) is vague; the explicit north/south directions come from applying the rule, not from the key.",
+    "paper": "Paper_07"
+   },
+   "text": "a. State the right-hand thumb rule.\nb. A long vertical straight wire carries a steady current flowing upward. Using the rule, state (i) the direction of the magnetic field lines around the wire as seen from above, and (ii) how the strength of the field changes as one moves away from the wire.",
+   "options": null,
+   "answer": "a. Imagine holding a current-carrying straight conductor in the right hand so that the thumb points in the direction of the current; the fingers then wrap around the conductor in the direction of the magnetic field lines. (1)\nb. (i) With the thumb pointing upward, the fingers curl anticlockwise when seen from above, so the field lines are concentric circles directed anticlockwise. (1)\n(ii) The field strength decreases as the distance from the wire increases (inversely proportional to distance). (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 36,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Human_Eye_and_Colourful_World",
+   "text": "Why do different rays deviate differently in the prism?",
+   "options": null,
+   "figure": null,
+   "answer": "Different colours (wavelengths) deviate differently because the angle of refraction is different for different wavelengths of light passing through the glass prism. Light bends on entering a different medium as its speed changes, and different wavelengths travel at different speeds in a medium, so the amount of bending differs. Violet (shorter wavelength, travels slowest) is bent the most and red (longer wavelength) the least.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q36"
+  },
+  {
+   "no": 37,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch12_Magnetic_Effects_of_Current",
+   "origin": "variant",
+   "basis": "Paper_07 Q37",
+   "basis_question": {
+    "no": 37,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch12_Magnetic_Effects_of_Current",
+    "text": "a. State (i) right-hand thumb rule, and (ii) Fleming's left-hand rule.\nb. Using Fleming's left-hand rule determine the direction of force experienced by a proton, which enters vertically downwards in a uniform magnetic field acting horizontally from west to east as shown in the diagram.",
+    "options": null,
+    "figure": "fig_p09_0.png",
+    "answer": "a. (i) Imagine holding a current-carrying straight conductor in your right hand with the thumb along the current; the fingers wrap around the conductor in the direction of the field lines.\n(ii) Stretch the thumb, forefinger and middle finger of the left hand mutually perpendicular. If the forefinger points in the direction of the magnetic field and the middle finger in the direction of current, the thumb points in the direction of motion/force on the conductor.\nb. The force on the proton is directed out of the plane of the paper.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "a. State Fleming's left-hand rule.\nb. An electron enters horizontally towards the east in a uniform magnetic field directed vertically downward. Using Fleming's left-hand rule, find the direction of the force on the electron.",
+   "options": null,
+   "answer": "a. Stretch the thumb, forefinger and middle finger of the left hand mutually perpendicular. If the forefinger points in the direction of the magnetic field and the middle finger in the direction of the current, the thumb gives the direction of the force (motion) on the conductor. (1)\nb. Electron moves east, so the conventional current is towards the west. (1) Forefinger down (field), middle finger west (current): the thumb points towards the south. The force on the electron is towards the south. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 38,
+   "section": "C",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Electricity",
+   "origin": "ncert",
+   "text": "A student connects a $4\\ \\Omega$ resistor in series with a parallel combination of a $6\\ \\Omega$ and a $12\\ \\Omega$ resistor, and joins the arrangement across a 12 V battery of negligible internal resistance.",
+   "options": null,
+   "answer": "",
+   "subparts": [
+    {
+     "text": "The equivalent resistance of the $6\\ \\Omega$ and $12\\ \\Omega$ resistors in parallel is:",
+     "marks": 1,
+     "options": [
+      "$2\\ \\Omega$",
+      "$4\\ \\Omega$",
+      "$9\\ \\Omega$",
+      "$18\\ \\Omega$"
+     ],
+     "answer": "(b) $4\\ \\Omega$ — $\\frac{1}{R_p}=\\frac16+\\frac1{12}=\\frac14$."
+    },
+    {
+     "text": "What is the total resistance of the circuit?",
+     "marks": 1,
+     "options": null,
+     "answer": "$R = 4 + 4 = 8\\ \\Omega$."
+    },
+    {
+     "text": "Calculate the current drawn from the battery and the current through the $12\\ \\Omega$ resistor.",
+     "marks": 2,
+     "options": null,
+     "answer": "$I = \\frac{V}{R} = \\frac{12}{8} = 1.5$ A. (1)\nP.D. across the parallel part $= 1.5\\times 4 = 6$ V, so current through $12\\ \\Omega$ $= \\frac{6}{12} = 0.5$ A. (1)"
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 39,
+   "section": "C",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Light_Reflection_and_Refraction",
+   "origin": "ncert",
+   "text": "a. An object 4 cm high is placed 15 cm in front of a concave mirror of focal length 10 cm. Find the position, nature and size of the image.\nb. A lens has a power of $-2.5$ D. Find its focal length and state the nature of the lens and a defect of vision it can correct.",
+   "options": null,
+   "answer": "a. $u=-15$ cm, $f=-10$ cm. $\\frac1v=\\frac1f-\\frac1u=-\\frac1{10}+\\frac1{15}=-\\frac1{30}$, so $v=-30$ cm. (1½)\n$m=-\\frac vu=-\\frac{-30}{-15}=-2$; $h'=m\\,h=-8$ cm. (1)\nThe image is formed 30 cm in front of the mirror, real, inverted and enlarged (8 cm high). (½)\nb. $f=\\frac1P=\\frac{1}{-2.5}=-0.4$ m $=-40$ cm. (1) It is a concave (diverging) lens and can correct myopia. (1)",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch09_Light_Reflection_and_Refraction",
+    "text": "a. State the two laws of refraction of light.\nb. The refractive index of glass is 1.5. Calculate the speed of light in glass (speed of light in vacuum $=3\\times10^8$ m/s).\nc. A concave lens of focal length 15 cm forms a virtual image 10 cm from the lens. Find the object distance and state whether the image is magnified or diminished.",
+    "options": null,
+    "figure": null,
+    "answer": "a. (i) The incident ray, the refracted ray and the normal at the point of incidence lie in the same plane. (ii) For light of a given colour and a given pair of media, $\\frac{\\sin i}{\\sin r}$ is constant (Snell's law). (2)\nb. $v=\\frac cn=\\frac{3\\times10^8}{1.5}=2\\times10^8$ m/s. (1)\nc. $v=-10$ cm, $f=-15$ cm: $\\frac1u=\\frac1v-\\frac1f=-\\frac1{10}+\\frac1{15}=-\\frac1{30}$, so $u=-30$ cm. (1) $m=\\frac vu=\\frac{-10}{-30}=\\frac13$, so the image is diminished. (1)"
+   }
+  }
+ ]
+}

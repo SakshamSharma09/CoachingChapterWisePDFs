@@ -1,0 +1,888 @@
+{
+ "subject": "English",
+ "paper": "Mock_02",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "text": "1. Starting Monday, the country's low-cost Mars mission with the red planet for an extended period will enter the \"blackout\" phase snapping communication with the satellite. From June 8 to 22 the Sun will block Mars from the Earth snapping communication with the satellite.\n2. A senior Indian Space Research Organisation official said. \"This will be for the first time that there will be a communication break for such a long period of about 15 days. During this period, there will be no communication with the satellite\", he added.\n3. Expressing confidence about regaining control over the satellite once the blackout phase is over, he said, \"the scenario has been tested and the line of communication will be established.\" The spacecraft's life has been extended for another six months in March due to surplus fuel.\n4. Stating that the spacecraft has been \"configured\" for the blackout, the ISRO official said, \"we are not sending any commands to the spacecraft now, till 8th June few hours of signals will be sent by the spacecraft that will be for about two to three hours per day\". In May next year, the mission will have to go through a similar phase once again, if there is another extension of mission life when the Earth will come between the Sun and Mars.\n5. Scripting space history, India on September 24 last successfully placed its low-cost Mars spacecraft in orbit around the red planet in its very first attempt, breaking into an elite club of three countries.",
+   "options": null,
+   "figure": null,
+   "answer": "1. The \"blackout\" phase refers to the period when the Sun will block Mars from the Earth, causing a communication break with the satellite. This phase will last from June 8 to 22, approximately 15 days.\n2. c. 2, 3 & 5\n3. satellite\n4. d. only for few\n5. c. confident\n6. The spacecraft has been configured to handle the blackout phase, and no commands will be sent to it during this time. However, the spacecraft will send signals for about two to three hours per day until June 8. After this, communication will be completely halted until the end of the blackout phase.\n7. c. (A) is true and (B) is false. (Official key: '(A) is true and (B) is false.')\n8. elite\n9. Because during this period the Sun will block Mars from the Earth, preventing communication with the satellite.",
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the \"blackout\" phase in the context of the Mars mission, and how long will it last?",
+     "marks": 1,
+     "options": null,
+     "answer": "The \"blackout\" phase refers to the period when the Sun will block Mars from the Earth, causing a communication break with the satellite. This phase will last from June 8 to 22, approximately 15 days."
+    },
+    {
+     "text": "Choose the appropriate option to fill in the blank.\nFrom paragraph 1 & 2, we can infer that there will be ________.\n1. no communication with the people.\n2. blackout phase.\n3. satellite will get no communication.\n4. moon will block the earth.\n5. The communication break will be for 15 days.",
+     "marks": 1,
+     "options": [
+      "a. 1, 2 & 3",
+      "b. 1, 3 & 4",
+      "c. 2, 3 & 5",
+      "d. 3, 4 & 5"
+     ],
+     "answer": "c. 2, 3 & 5"
+    },
+    {
+     "text": "Complete the following analogy correctly with a word/phase from paragraph 2:\naroma: cooking:: ________: space research\n(Clue - just like aroma is integral to cooking, similarly ________ is/are integral to Space Research.)",
+     "marks": 1,
+     "options": null,
+     "answer": "satellite"
+    },
+    {
+     "text": "According to ISRO official till 8th July, when Sun will block Mars, ________ signal/signals per day will be sent to the spacecraft.",
+     "marks": 1,
+     "options": [
+      "a. no",
+      "b. considerable",
+      "c. indefinite",
+      "d. only for few"
+     ],
+     "answer": "d. only for few"
+    },
+    {
+     "text": "Select the correct option to complete the following sentence:\nThe ISRO officials are ________ about their control over the spacecraft after the blackout phase.",
+     "marks": 1,
+     "options": [
+      "a. doubtful",
+      "b. apprehensive",
+      "c. confident",
+      "d. jittery"
+     ],
+     "answer": "c. confident"
+    },
+    {
+     "text": "How has the spacecraft's mission been managed to handle the blackout phase and what is planned for communication during this period?",
+     "marks": 2,
+     "options": null,
+     "answer": "The spacecraft has been configured to handle the blackout phase, and no commands will be sent to it during this time. However, the spacecraft will send signals for about two to three hours per day until June 8. After this, communication will be completely halted until the end of the blackout phase."
+    },
+    {
+     "text": "Read the following sentences:\nA. The blackout was a sudden development.\nB. Because of this, the officials are very nervous about the success of the spacecraft.",
+     "marks": 1,
+     "options": [
+      "a. Both (A) & (B) are true.",
+      "b. Both (A) & (B) are false.",
+      "c. (A) is true and (B) is false.",
+      "d. (A) is false and (B) is true."
+     ],
+     "answer": "c. (A) is true and (B) is false. (Official key: '(A) is true and (B) is false.')"
+    },
+    {
+     "text": "Substitute the word 'nonpareil' with one word similar in meaning in the following sentence from paragraph 5.\nIndia managed to get into the nonpareil club of Mars spacecraft in orbit.",
+     "marks": 1,
+     "options": null,
+     "answer": "elite"
+    },
+    {
+     "text": "Why will India's Mars mission experience a communication blackout from June 8 to 22?",
+     "marks": 1,
+     "options": null,
+     "answer": "Because during this period the Sun will block Mars from the Earth, preventing communication with the satellite."
+    }
+   ],
+   "paper": "Paper_03",
+   "origin": "real",
+   "basis": "Paper_03 Q2"
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 10,
+   "type": "reading",
+   "chapter": "SKILL_Reading",
+   "origin": "variant",
+   "basis": "Paper_01 Q1",
+   "basis_question": {
+    "no": 1,
+    "section": "A",
+    "marks": 10,
+    "type": "reading",
+    "chapter": "SKILL_Reading",
+    "text": "Read the passage given below.\n\n1. It is an indisputable fact that the world has gone too far with the innovation of new technologies such as mobile phones, the internet and so on, due to which people can tour the cosmos virtually while sitting in one place using their smart devices or other technological gadgets. Though mobile internet access is often hurried and short, it can still provide common internet features like alerts, other data, emails, search engines, instant messages, and game and music downloading.\n\n2. Due to the easy access to smartphones, communication has been very effective and instant. People can convey their message all around the globe to their loved ones without spending hefty sums of money. Adults are always fond of such gadgets and they always welcome and adopt such new technology readily. Further, young people have been able to broaden their minds and improve their skills by researching on the Internet. For instance, they use smartphones to look up any new word they come across. As we know most of universities have online teaching provisions and smartphones assist students in completing their assignments on time.\n\n3. The mobile phone has been a lifesaver for a lot of people in case of an emergency. Likewise, the use of smartphones can be of vital importance in preventing crimes in society by providing information to the security forces in time.\n\n4. Nonetheless, for the young, the use of a mobile phone can be like an addiction and they can misuse it. Young people are also prone to getting involved in undesirable activities on the Internet. This might have an adverse effect on their academic performance. Therefore, young people should always be monitored and made aware of their bad outcomes.\n\n5. Also, a major contributor to its popularity is the availability of prepaid or pay-as-you-go services from a phone shop or an online store. This allows subscribers to load text or airtime credits to their handsets by the use of their credit cards, debit cards or by buying a prepaid card from the network they subscribe to. This plan also doesn't commit a particular customer to a contract. If a prepaid card is not that appealing to you, then you can opt to subscribe using the pay-by-month plan.\n\nAnswer the following questions:",
+    "options": null,
+    "figure": null,
+    "answer": "(see sub-questions)",
+    "or": null,
+    "subparts": [
+     {
+      "text": "In paragraph 1, what does the phrase 'people can tour the cosmos virtually while sitting in one place' suggest about technology?",
+      "marks": 1,
+      "options": null,
+      "answer": "It suggests that technology allows people to explore and learn about the world without needing to physically travel."
+     },
+     {
+      "text": "Complete the following with the correct option from the two given.\nMobile phones have made communication ________.\n(a) complicated and expensive\n(b) efficient and cost-effective (paragraph 2)",
+      "marks": 1,
+      "options": [
+       "(a) complicated and expensive",
+       "(b) efficient and cost-effective"
+      ],
+      "answer": "(b) efficient and cost-effective"
+     },
+     {
+      "text": "Support the writer's idea that mobile phones have a positive impact on students' academic performance. (paragraph 2)",
+      "marks": 2,
+      "options": null,
+      "answer": "Mobile phones help students by enabling them to: 1. Research new concepts, such as unfamiliar words, using the internet. 2. Access online teaching resources and complete assignments on time."
+     },
+     {
+      "text": "Select the option that best reflects the importance of mobile phones during emergencies. (paragraph 3)\n(a) They help in saving lives by enabling quick communication.\n(b) They provide entertainment in stressful situations.",
+      "marks": 1,
+      "options": [
+       "(a) They help in saving lives by enabling quick communication.",
+       "(b) They provide entertainment in stressful situations."
+      ],
+      "answer": "(a) They help in saving lives by enabling quick communication."
+     },
+     {
+      "text": "State whether the following statement is True or False. (paragraph 4)\nYoung people are prone to misusing mobile phones, which can negatively affect their academics.",
+      "marks": 1,
+      "options": [
+       "True",
+       "False"
+      ],
+      "answer": "True"
+     },
+     {
+      "text": "The writer mentions the popularity of prepaid services. Which of the following is a key reason for their popularity?\n(a) They bind users to long-term contracts.\n(b) They allow flexibility without a contract.\n(c) They are limited to text messaging.\n(d) They are only available in physical stores.",
+      "marks": 1,
+      "options": [
+       "(a) They bind users to long-term contracts.",
+       "(b) They allow flexibility without a contract.",
+       "(c) They are limited to text messaging.",
+       "(d) They are only available in physical stores."
+      ],
+      "answer": "(b) They allow flexibility without a contract."
+     },
+     {
+      "text": "List any two ways in which mobile phones help in improving communication globally. (paragraph 2)",
+      "marks": 2,
+      "options": null,
+      "answer": "1. Mobile phones enable instant communication with loved ones worldwide. 2. They allow users to convey messages efficiently without incurring high costs."
+     },
+     {
+      "text": "Fill in the blank with the correct option from those given. (paragraph 5)\nThe phrase \"pay-as-you-go\" refers to ________.\n(a) A contract-free payment plan allowing users to recharge as needed\n(b) A credit-based system for long-term phone subscriptions\n(c) A method for subscribing to monthly payment plans\n(d) A limited service restricted to text and calls",
+      "marks": 1,
+      "options": [
+       "(a) A contract-free payment plan allowing users to recharge as needed",
+       "(b) A credit-based system for long-term phone subscriptions",
+       "(c) A method for subscribing to monthly payment plans",
+       "(d) A limited service restricted to text and calls"
+      ],
+      "answer": "(a) A contract-free payment plan allowing users to recharge as needed"
+     }
+    ],
+    "paper": "Paper_01"
+   },
+   "text": "Read the passage given below.\n\n1. Millets, once the staple of Indian kitchens, are making a comeback after decades of being overshadowed by rice and wheat. Grown across the dry regions of the country for thousands of years, these small-seeded grasses, such as jowar, bajra and ragi, were gradually pushed aside when the Green Revolution made rice and wheat cheap and plentiful. The United Nations declared 2023 the International Year of Millets, drawing the world's attention to these forgotten grains.\n\n2. Millets are remarkable for their nutritional value. They are rich in fibre, iron, calcium and protein, and most of them release sugar into the blood slowly, which makes them suitable for people who need to keep their blood sugar under control. Ragi, for example, is among the best plant sources of calcium, and is a wholesome food for growing children.\n\n3. Millets are equally kind to the environment. A millet crop needs far less water than rice, grows even in poor soil, and withstands heat and irregular rainfall. Farmers in drought-prone regions can therefore depend on millets when other crops fail. Because the crop seldom needs chemical fertilisers, it also keeps the soil healthy.\n\n4. In spite of these benefits, millets face several hurdles. Many city dwellers regard them as 'poor man's food' and find them harder to cook than polished rice. Removing the husk at home is tiring, and limited supply in shops keeps the prices high. To change this, chefs and food companies have begun to offer millet noodles, biscuits and breakfast cereals, making the grain appealing to the young.\n\n5. If the revival is to last, governments, farmers and consumers must work together. Fair prices for farmers, millets in school meals and ration shops, and awareness campaigns can turn a passing trend into a lasting habit. Eating millets, it seems, is a way of nourishing both ourselves and the planet.\n\nAnswer the following questions:",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "In paragraph 1, what does the phrase 'pushed aside' suggest about the place of millets in Indian diets?",
+     "marks": 1,
+     "options": null,
+     "answer": "It suggests that millets were neglected and replaced by rice and wheat, which had become cheaper and easily available."
+    },
+    {
+     "text": "Complete the following with the correct option from the two given.\nMillets are suitable for people who must control their blood sugar because they ________. (paragraph 2)\n(a) release sugar into the blood slowly\n(b) contain a large amount of sugar",
+     "marks": 1,
+     "options": [
+      "(a) release sugar into the blood slowly",
+      "(b) contain a large amount of sugar"
+     ],
+     "answer": "(a) release sugar into the blood slowly"
+    },
+    {
+     "text": "Support the writer's idea that millets are good for the environment. (paragraph 3)",
+     "marks": 2,
+     "options": null,
+     "answer": "1. Millets need far less water than rice and grow in poor soil and in heat or irregular rain. 2. They seldom need chemical fertilisers, so they keep the soil healthy."
+    },
+    {
+     "text": "Select the option that best explains why millets help farmers in drought-prone regions. (paragraph 3)\n(a) They need heavy irrigation.\n(b) They survive heat and scanty rainfall.\n(c) They sell at very high prices.\n(d) They are harvested within a week.",
+     "marks": 1,
+     "options": [
+      "(a) They need heavy irrigation.",
+      "(b) They survive heat and scanty rainfall.",
+      "(c) They sell at very high prices.",
+      "(d) They are harvested within a week."
+     ],
+     "answer": "(b) They survive heat and scanty rainfall."
+    },
+    {
+     "text": "State whether the following statement is True or False. (paragraph 4)\nMany city dwellers consider millets a luxury food.",
+     "marks": 1,
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": "False (they regard millets as 'poor man's food')"
+    },
+    {
+     "text": "Which of the following is mentioned as a reason why millets are less popular? (paragraph 4)\n(a) They are harmful for children.\n(b) Their husk is tiring to remove at home.\n(c) They are banned in cities.\n(d) They are not available anywhere.",
+     "marks": 1,
+     "options": [
+      "(a) They are harmful for children.",
+      "(b) Their husk is tiring to remove at home.",
+      "(c) They are banned in cities.",
+      "(d) They are not available anywhere."
+     ],
+     "answer": "(b) Their husk is tiring to remove at home."
+    },
+    {
+     "text": "List any two measures that the writer suggests to make the revival of millets last. (paragraph 5)",
+     "marks": 2,
+     "options": null,
+     "answer": "Any two: 1. Fair prices for farmers. 2. Including millets in school meals and ration shops. 3. Awareness campaigns."
+    },
+    {
+     "text": "The word 'staple' in paragraph 1 means ________.\n(a) a food that is eaten regularly as the main part of a diet\n(b) a rare festive dish\n(c) an imported grain\n(d) a medicine",
+     "marks": 1,
+     "options": [
+      "(a) a food that is eaten regularly as the main part of a diet",
+      "(b) a rare festive dish",
+      "(c) an imported grain",
+      "(d) a medicine"
+     ],
+     "answer": "(a) a food that is eaten regularly as the main part of a diet"
+    }
+   ],
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 3,
+   "section": "B",
+   "marks": 10,
+   "type": "grammar",
+   "chapter": "SKILL_Grammar",
+   "origin": "variant",
+   "basis": "Paper_02 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "B",
+    "marks": 10,
+    "type": "grammar",
+    "chapter": "SKILL_Grammar",
+    "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+    "options": null,
+    "figure": null,
+    "answer": "1. damaged\n2. Error: into | Correction: in\n3. that she is going to Dr. Sen's house.\n4. (d) He says that he doesn't want to play anymore.\n5. much\n6. Error: success | Correction: successful\n7. Error: offers | Correction: offer\n8. (b) issued\n9. had enjoyed the art and craft class.\n10. (d) Seeta asked me if I could give her my pen.\n11. B. bent (the stanza is written in past tense)\n12. Error: of | Correction: from",
+    "or": null,
+    "subparts": [
+     {
+      "text": "Fill in the blank by using the correct form of the word in the brackets, for the given portion of a letter.\nDear Sir,\nI am an account holder in your branch at Jayanagar. My current ATM card is ____________ (damage) and I am unable to use it for any POS transaction.",
+      "marks": 1,
+      "options": null,
+      "answer": "damaged"
+     },
+     {
+      "text": "Identify the error in the statement given below and supply the correction:\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n|  |  |\nThe evil of begging is very common into our country.",
+      "marks": 1,
+      "options": null,
+      "answer": "Error: into | Correction: in"
+     },
+     {
+      "text": "Report the dialogue between two friends Seema and Anu, by completing the sentence:\nSeema: What brings you here?\nAnu: I am going to Dr. Sen's house.\nIn response to the question about what brought Anu there, Anu says ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "that she is going to Dr. Sen's house."
+     },
+     {
+      "text": "He says, \"I don't want to play anymore\".\nReported speech: ________",
+      "marks": 1,
+      "options": [
+       "a) He says that I don't want to play anymore.",
+       "b) He says that he didn't want to play anymore.",
+       "c) He says that I didn't want to play anymore.",
+       "d) He says that he doesn't want to play anymore."
+      ],
+      "answer": "(d) He says that he doesn't want to play anymore."
+     },
+     {
+      "text": "Fill in the blank by choosing the correct option.\nAlthough she thought she knew _______ (many / much / whole) of the subject, the teacher asked a few details she hardly remembered.",
+      "marks": 1,
+      "options": [
+       "many",
+       "much",
+       "whole"
+      ],
+      "answer": "much"
+     },
+     {
+      "text": "Identify the error in the given sentence and supply the correction:\nBehind every success film there is a lengthy creative process.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n|  |  |",
+      "marks": 1,
+      "options": null,
+      "answer": "Error: success | Correction: successful"
+     },
+     {
+      "text": "Identify the error and supply correction for the given sentence from an e-commerce website's return policy.\nWe offers a 30 -day return policy on all unopened products purchased from our websites.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n|  |  |",
+      "marks": 1,
+      "options": null,
+      "answer": "Error: offers | Correction: offer"
+     },
+     {
+      "text": "Fill in the blank by choosing the correct option to complete the weather warning given by the IMD.\nIMD on Sunday ________ a thunderstorm alert for some districts in coastal Maharashtra in view of the extremely severe cyclonic storm Biparjoy gushing over the Arabian Sea.",
+      "marks": 1,
+      "options": [
+       "a) will issue",
+       "b) issued",
+       "c) will be issuing",
+       "d) is issuing"
+      ],
+      "answer": "(b) issued"
+     },
+     {
+      "text": "Report the dialogue between Lata and Usha, by completing the sentence:\nLata: What activity did you enjoy the most in the summer camp?\nUsha: I enjoyed the art and craft class.\nLata asked Usha what activity did she enjoy the most in the summer camp. Usha replied that she ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "had enjoyed the art and craft class."
+     },
+     {
+      "text": "Seeta said to me, \"Can you give me your pen?\"\nReported speech: ________",
+      "marks": 1,
+      "options": [
+       "a) Seeta asked me if I gave her my pen.",
+       "b) Seeta asked me can I give her my pen.",
+       "c) Seeta asked me if I can give me your pen.",
+       "d) Seeta asked me if I could give her my pen."
+      ],
+      "answer": "(d) Seeta asked me if I could give her my pen."
+     },
+     {
+      "text": "Complete the line from a self-awareness song, by filling the blank with the correct option.\n\"And looked down one as far as I could\nTo where it ________ in the under growth.\"",
+      "marks": 1,
+      "options": [
+       "A. has bent",
+       "B. bent",
+       "C. will bend",
+       "D. is bent"
+      ],
+      "answer": "B. bent (the stanza is written in past tense)"
+     },
+     {
+      "text": "Identify the error and supply the correction, for the following:\nVACCINATE YOURSELF TO COMBAT CORONA\nMake yourself, your family and your city secure of corona\nHealth Department, Chandigarh Administration\nUse the given format for your response.\n| error | correction |\n|---|---|\n|  |  |",
+      "marks": 1,
+      "options": null,
+      "answer": "Error: of | Correction: from"
+     }
+    ],
+    "note": "Attempt any 10 of 12 sub-questions (1 mark each); subpart marks total 12 but question carries 10.",
+    "paper": "Paper_02"
+   },
+   "text": "Complete ANY TEN of twelve of the following tasks, as directed",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "Fill in the blank by using the correct form of the word in the brackets, for the given portion of a letter.\nDear Madam,\nI am writing to inform you that the parcel delivered to my address yesterday was ____________ (open) when it reached me.",
+     "marks": 1,
+     "options": null,
+     "answer": "opened"
+    },
+    {
+     "text": "Identify the error in the statement given below and supply the correction:\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n|  |  |\nEach of the players have received a medal for the performance.",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: have | Correction: has"
+    },
+    {
+     "text": "Report the dialogue between two friends Ravi and Meena, by completing the sentence:\nRavi: Where are you going?\nMeena: I am going to the library.\nRavi asked Meena where she was going. Meena replied that she ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "was going to the library."
+    },
+    {
+     "text": "She says, \"I have finished my work\".\nReported speech: ________",
+     "marks": 1,
+     "options": [
+      "a) She says that she has finished her work.",
+      "b) She says that I had finished my work.",
+      "c) She says that she had finished her work.",
+      "d) She says that I have finished her work."
+     ],
+     "answer": "(a) She says that she has finished her work."
+    },
+    {
+     "text": "Fill in the blank by choosing the correct option.\nThere is only ________ (few / little / many) water left in the bottle, so we must use it carefully.",
+     "marks": 1,
+     "options": [
+      "few",
+      "little",
+      "many"
+     ],
+     "answer": "little"
+    },
+    {
+     "text": "Identify the error in the given sentence and supply the correction:\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n|  |  |\nThe teacher was impressed by the student's honest in returning the lost wallet.",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: honest | Correction: honesty"
+    },
+    {
+     "text": "Identify the error and supply the correction in the given sentence from a school notice.\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n|  |  |\nAll students are requested to be fond with the school library and make full use of it.",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: with | Correction: of"
+    },
+    {
+     "text": "Fill in the blank by choosing the correct option to complete the news report.\nThe Prime Minister ________ the new bridge yesterday in the presence of a large crowd.",
+     "marks": 1,
+     "options": [
+      "a) inaugurates",
+      "b) inaugurated",
+      "c) will inaugurate",
+      "d) has inaugurated"
+     ],
+     "answer": "(b) inaugurated"
+    },
+    {
+     "text": "Report the dialogue between Neha and Rohan, by completing the sentence:\nNeha: Which book did you buy?\nRohan: I bought a book on space.\nNeha asked Rohan which book he had bought. Rohan replied that he ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "had bought a book on space."
+    },
+    {
+     "text": "He said to me, \"Will you help me?\"\nReported speech: ________",
+     "marks": 1,
+     "options": [
+      "a) He told me that I would help him.",
+      "b) He asked me will I help him.",
+      "c) He asked me if I will help him.",
+      "d) He asked me if I would help him."
+     ],
+     "answer": "(d) He asked me if I would help him."
+    },
+    {
+     "text": "Complete the line from a short descriptive poem by filling the blank with the correct option.\n\"I sat by the window as the evening slowly ________ over the hills.\"",
+     "marks": 1,
+     "options": [
+      "A. fell",
+      "B. falls",
+      "C. will fall",
+      "D. has fallen"
+     ],
+     "answer": "A. fell (the line is in the past tense)"
+    },
+    {
+     "text": "Identify the error and supply the correction, for the following poster:\nPLANT A TREE TODAY FOR A GREENER TOMORROW\nJoining hands with us in making our city green\nMunicipal Corporation, Lucknow\nUse the given format for your response.\n| Error | Correction |\n|---|---|\n|  |  |",
+     "marks": 1,
+     "options": null,
+     "answer": "Error: Joining | Correction: Join"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Attempt any 10 of 12 sub-questions (1 mark each); subpart marks total 12 but question carries 10."
+  },
+  {
+   "no": 4,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "The following table shows details about the internet activities for five categories for different age groups. Write an analytical paragraph for the table.\n\n| Activity (usage in%) | Teenagers | 20s | 30s | 40s | 50s | 60s |\n|---|---|---|---|---|---|---|\n| Online games | 81 | 54 | 37 | 29 | 25 | 25 |\n| Messaging apps | 65 | 46 | 27 | 15 | 13 | 8 |\n| News | 70 | 73 | 76 | 75 | 71 | 74 |\n| Window shopping | 43 | 68 | 69 | 68 | 67 | 65 |\n| Product research | 43 | 79 | 80 | 83 | 79 | 74 |\n| Searching for people | 05 | 17 | 15 | 18 | 19 | 19 |",
+   "options": null,
+   "figure": null,
+   "answer": "The given table illustrates the internet activities of six age groups ranging from 15 years to those in their sixties for six different kinds of activities.\nThe table shows that those in their teens spend more time on online games and news, while the older generation spends time on the internet browsing for products and to do window shopping.\nIt is clearly evident from the table that teens mainly use the internet for online games (as high as 81%) 70% of them use it for news and 65% use it for messaging and the least they use it to search for people which consists of only 5%. Those who belong to middle age group, people in 20s to 50s are highly interested in getting news, doing product research and window shopping, the percentage ranging from 70-80%. The internet activity which is least used by people is to searching for people on internet. All the age groups spend only 50% to 20% of their time on the same. The amount of time spent to use messaging apps to text others decreases with age and gets as low as 10% for those in their 60s.\nIn a nutshell, the above table suggests that teenagers are most interested to spend time on playing games and sending messages to their friends and relatives. On the other side, older people are interested in researching and doing window shopping.\nOverall, people are likely to spend the least amount of time searching for other people on internet.",
+   "or": {
+    "text": "In the technology-driven world, there is a need for complete digital transformation in business.\nWrite an analytical paragraph of 100-120 words on the importance of digital marketing.\nYou could use the following cues:\n- It is cost effective, helps small businesses\n- Wide reach, need not be limited to one area\n- Global identity and brings about brand awareness\n- Helps in growth of business\n- Easy reach to customers",
+    "options": null,
+    "figure": null,
+    "chapter": "SKILL_Writing",
+    "answer": "Digital marketing has become a crucial part of any successful business strategy due to its significant impact on growth and brand awareness. It offers numerous benefits, including cost-effectiveness, wider reach, and the ability to connect with customers more easily. With digital marketing, businesses, especially small ones, can effectively promote their products or services at a lower cost than traditional marketing methods. It also enables businesses to connect with customers on a global level, creating a stronger brand identity and fostering brand awareness. Additionally, digital marketing provides businesses with easy access to customer insights, enabling them to adjust their strategies to meet customer needs and improve overall growth. Therefore, investing in digital marketing is critical for businesses to thrive in today's technology-driven world.",
+    "subparts": null
+   },
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q5"
+  },
+  {
+   "no": 5,
+   "section": "B",
+   "marks": 5,
+   "type": "writing",
+   "chapter": "SKILL_Writing",
+   "text": "In the technology-driven world, children are spending longer hours of screen time leading to concerns regarding health and social skills. Write a paragraph of not more than 120 words analyzing the given information: (5)\n| iPad | Mobile phone | Laptop | Internet | Social media | Online classes | Research | Entertainment |\n| Screen Time |\nEffects:\n| Obesity | Weakening eyesight | Poor social skills | Increasing isolation | Sedentary lifestyle |\n\nFor the Visually Impaired Candidates only (in lieu of Q.):\nThese days there has been excessive use of screen time by students. Moreover, it cannot be denied that a child of the digital era cannot be separated from technology. Write an analytical paragraph in about 100-120 words on Growing up in Digital Environment. (5)\nYou could use the following cues:\n- Technology has changed our lifestyle\n- Screens refer to mobile, laptop, iPads\n- Has become a part of our lives\n- Schools encourage the use of laptops\n- During lockdown screens came to the rescue of uninterrupted education\n- Cannot replace face-to-face physical interaction between teachers and taught.",
+   "options": null,
+   "figure": null,
+   "answer": "The widespread use of technology devices such as iPads, mobile phones, and laptops has led to an increase in screen time among children. While the devices can offer benefits such as access to online classes, research, and entertainment, excessive screen time has negative impacts on children's health and social skills. It can contribute to obesity and a sedentary lifestyle, as well as weakening eyesight. Moreover, excessive screen time has been linked to poor social skills and increasing isolation, as children may spend less time interacting face-to-face with their peers. It is important for parents to monitor their children's screen time and encourage other activities such as outdoor play and socializing with friends to promote their overall well-being.\n\nFor the Visually Impaired Candidates only:\nGrowing up in a digital environment has become a ubiquitous reality of modern-day life. With technology rapidly evolving and permeating every aspect of our lives, it has brought about unprecedented changes in our lifestyles. Screens, which include mobiles, laptops, and iPads, have become an indispensable part of our daily routines. Schools have also encouraged the use of laptops, and during the pandemic, screens came to the rescue of uninterrupted education. However, while screens have their benefits, they cannot replace face-to-face physical interaction between teachers and students. It is important to recognize that while technology has revolutionized the way we learn and communicate, it is equally vital to maintain a balance between screen time and physical interaction. It is essential for students to learn to use technology wisely while also appreciating the value of traditional methods of learning and communication.",
+   "or": {
+    "chapter": "SKILL_Writing",
+    "text": "The given bar graph shows the interest of young people in pursuing different hobbies by girls and boys in USA. Write an analytical paragraph words using the given information.\n[Bar graph, number of people (Girls / Boys), approx. read from graph: Painting 60 / 40; Reading Books 50 / 30; Cycling 55 / 65; Gardening 65 / 25; Singing 45 / 55. See figure.]",
+    "options": null,
+    "figure": "fig_p08_0.png",
+    "answer": "The given bar graph shows the number of boys and girls who pursue different hobbies in USA. As shown in the graph, gardening is the most favorite pastime among girls and the least favourite among boys which levels off over 65 and less than 30 respectively. For all other amusements i.e., singing, painting and cycling are very popular among both the genders. As per the given chart the number of boys preferring cycling and girls doing gardening is almost equal. Most boys like to do cycling with around 65 compared to 55 girls.\nGirls also like to do painting which levels off around 60, on the contrary only 40 boys like to do painting in their leisure time. There is a difference of about 20 between boys and girls showing interest in reading books. Around 50 girls like to read books in their free time whereas, only 30 boys in comparison to girls showed their interest in it. On the other hand boys other than cycling are more interested in singing, where almost 55 boys are there numbering 10 more than girls.\nOverall, the figures demonstrate that girls significantly love to spend most of their leisure time in gardening and painting, and after that in cycling and reading books, and the least they want to spend on is singing. However, boys preferred cycling the most then singing and painting but significantly the least they preferred to do is gardening.",
+    "subparts": null
+   },
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q5"
+  },
+  {
+   "no": 6,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch16_Footprints_The_Necklace",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\nRead the following extracts and answer the question/complete the sentences that follow:\nHe threw around her shoulders the modest wraps they had carried whose poverty clashed with the elegance of the ball costume. She wished to hurry away in order not to be noticed by the other women who were wrapping themselves in rich furs.",
+   "options": null,
+   "figure": null,
+   "answer": "1. She thought that they were poor and all the guests of the party belonged to the upper class. This was the cause of her inferiority complex.\n2. When his wife was enjoying the dance and gratifying her vanity through the admiration of the men-folk, he waited patiently.\n3. She wasted her youth and suffered for ten long years only because of her vanity. Her desire for short-lived pleasure had become a curse for her.\n4. (d) All of these",
+   "or": {
+    "text": "Read the extract given below carefully and answer the questions that follow:\nThe policy of apartheid created a deep and lasting wound in my country and my people. All of us will spend many years, if not generations, recovering from that profound hurt. But the decades of oppression and brutality had another, unintended effect and that was that it produced the Oliver Tambos, the Walter Sisulu, the Chief Luthuli's, etc., men of such extraordinary courage, wisdom and generosity that their like may never be known again.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom",
+    "answer": "1. Any one: Nelson Mandela was the president of South Africa and was deeply hurt by the policy of apartheid; he was connected with the common men of South Africa and could realize the pain that they were undergoing; he was once a victim of this oppression policy and saw the pain of his fellow countrymen; he spent thirty long years fighting against apartheid.\n2. True. Explanation: This statement would not be called a hypothesis, assumption, premise, or theory. It is simply a statement that describes the situation.\n3. I agree with the statement that depths of oppression create heights of character. The author mentions here that this hard time had its negative impacts but it also exposed a lot of strong and courageous men who stood up and raised their voices. Nelson Mandela illustrates this by giving examples of great heroes of South Africa like Oliver Tambo, Walter Sisulu, and others who were inspired to sacrifice their lives in the long freedom struggle.\n4. having intellectual depth and insight / difficult to fathom or understand",
+    "subparts": [
+     {
+      "text": "State any one of inference about Nelson Mandela from the given extract:\nThe policy of apartheid created a deep and lasting wound in my country and my people.",
+      "marks": 1,
+      "options": null,
+      "answer": "Any one: Nelson Mandela was the president of South Africa and was deeply hurt by the policy of apartheid; he was connected with the common men of South Africa and could realize the pain that they were undergoing; he was once a victim of this oppression policy and saw the pain of his fellow countrymen; he spent thirty long years fighting against apartheid.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "State TRUE OR FALSE.\nNone of the terms (a)-(d) can be applied to the statement - All of us will spend many years, if not generations, recovering from that profound hurt.\na. A hypothesis- a proposed explanation for a phenomenon\nb. An assumption- something that is taken for granted or assumed to be true without proof.\nc. A premise- a proposition that forms the basis of an argument.\nd. A theory- a well-substantiated explanation for a natural phenomenon.",
+      "marks": 1,
+      "options": [
+       "True",
+       "False"
+      ],
+      "answer": "True. Explanation: This statement would not be called a hypothesis, assumption, premise, or theory. It is simply a statement that describes the situation.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "Nelson Mandela is of the view that the 'depths of oppression' create 'heights of character'. Elaborate in about 40 words with reference to the extract.",
+      "marks": 2,
+      "options": null,
+      "answer": "I agree with the statement that depths of oppression create heights of character. The author mentions here that this hard time had its negative impacts but it also exposed a lot of strong and courageous men who stood up and raised their voices. Nelson Mandela illustrates this by giving examples of great heroes of South Africa like Oliver Tambo, Walter Sisulu, and others who were inspired to sacrifice their lives in the long freedom struggle.",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     },
+     {
+      "text": "Which phrase would correctly substitute the word 'profound' in the given sentence from the extract.\nAll of us will spend many years, if not generations, recovering from that profound hurt.",
+      "marks": 1,
+      "options": null,
+      "answer": "having intellectual depth and insight / difficult to fathom or understand",
+      "chapter": "Ch02_Nelson_Mandela_Long_Walk_to_Freedom"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "What was the cause of her inferiority complex?",
+     "marks": 1,
+     "options": null,
+     "answer": "She thought that they were poor and all the guests of the party belonged to the upper class. This was the cause of her inferiority complex.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "How can you say that Mr Lisle was a loving husband?",
+     "marks": 1,
+     "options": null,
+     "answer": "When his wife was enjoying the dance and gratifying her vanity through the admiration of the men-folk, he waited patiently.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "Why do you think the tendency to show off becomes a curse for Matilda?",
+     "marks": 2,
+     "options": null,
+     "answer": "She wasted her youth and suffered for ten long years only because of her vanity. Her desire for short-lived pleasure had become a curse for her.",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    },
+    {
+     "text": "Choose the most appropriate option:\nHow did Matlida look on the day of the ball?",
+     "marks": 1,
+     "options": [
+      "a. elegant",
+      "b. gracious",
+      "c. full of joy",
+      "d. All of these"
+     ],
+     "answer": "(d) All of these",
+     "chapter": "Ch16_Footprints_The_Necklace"
+    }
+   ],
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q6"
+  },
+  {
+   "no": 7,
+   "section": "C",
+   "marks": 5,
+   "type": "literature",
+   "chapter": "Ch22_How_to_Tell_Wild_Animals",
+   "text": "Read the given extracts and answer the questions for ANY ONE of the two, given.\n\nRead the following extracts and answer the question/complete the sentences that follow:\nIf strolling forth, a beast you view,\nWhose hide with spots is peppered\nAs soon as he has leapt on you\nYou'll know it is the leopard.\nHe will do no good to roar with pain,\nHe'll only leap and leap again",
+   "options": null,
+   "figure": null,
+   "answer": "1. The leopard's hide appears to be peppered while walking.\n2. The hide is peppered with spots. The animal being described here is a leopard.\n3. Consonance (the repetition of the same consonant sounds in a line of text)\n4. (b) is correct",
+   "or": {
+    "text": "Read the following extracts and answer the question/complete the sentences that follow:\nHe stalks in his vivid stripes\nThe few steps of his cage,\nOn pads of velvet quiet,\nIn his quiet rage.\nHe should be lurking in shadow,\nSliding through long grass\nNear the water hole\nWhere plump deer pass.",
+    "options": null,
+    "figure": null,
+    "chapter": "Ch21_A_Tiger_in_the_Zoo",
+    "answer": "1. restricted\n2. (c) wait for his prey\n3. he is confined in a cage / he is not free\n4. The tiger's reality (confined to the few steps of his cage) and the tiger's ideal situation (lurking in shadow, sliding through long grass near the water hole where plump deer pass) is indicated here in the given extract.",
+    "subparts": [
+     {
+      "text": "The image poet has created through the line \"The few steps of his cage\" describes that the tiger's movements are ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "restricted",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "Which of these activities is mentioned in the extract as something the tiger should do in the jungle?",
+      "marks": 1,
+      "options": [
+       "a. roar at visitors",
+       "b. stare at people",
+       "c. wait for his prey",
+       "d. drink clean water"
+      ],
+      "answer": "(c) wait for his prey",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "Complete the sentence with reference to the extract. He is in a rage because ________.",
+      "marks": 1,
+      "options": null,
+      "answer": "he is confined in a cage / he is not free",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     },
+     {
+      "text": "Comment on the contrast indicated in the given extract.",
+      "marks": 2,
+      "options": null,
+      "answer": "The tiger's reality (confined to the few steps of his cage) and the tiger's ideal situation (lurking in shadow, sliding through long grass near the water hole where plump deer pass) is indicated here in the given extract.",
+      "chapter": "Ch21_A_Tiger_in_the_Zoo"
+     }
+    ]
+   },
+   "subparts": [
+    {
+     "text": "While walking, how does a leopard's hide appear to be?",
+     "marks": 1,
+     "options": null,
+     "answer": "The leopard's hide appears to be peppered while walking.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "What is the hide peppered with? Which animal is being described here?",
+     "marks": 2,
+     "options": null,
+     "answer": "The hide is peppered with spots. The animal being described here is a leopard.",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "The repetition used in \"he'll only lep and lep again\" is an example of ________.",
+     "marks": 1,
+     "options": null,
+     "answer": "Consonance (the repetition of the same consonant sounds in a line of text)",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    },
+    {
+     "text": "Given below are four examples of activities that Jasmeet does. Choose the option that correctly demonstrates 'strolling'.",
+     "marks": 1,
+     "options": [
+      "a. Jasmeet runs with a great speed after being chased by a dog.",
+      "b. Jasmeet walks in the garden, relaxing while listening to his favourite song.",
+      "c. Jasmeet skids sharply on the ice skate rink.",
+      "d. Jasmeet rushes to switch off the water pump in the backyard."
+     ],
+     "answer": "(b) is correct",
+     "chapter": "Ch22_How_to_Tell_Wild_Animals"
+    }
+   ],
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q7"
+  },
+  {
+   "no": 8,
+   "section": "C",
+   "marks": 12,
+   "type": "literature",
+   "chapter": "Ch05_Glimpses_of_India",
+   "origin": "ncert",
+   "text": "Answer ANY FOUR of the following five questions, in about 40-50 words each. (4 x 3 = 12)",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "Why was the jingling of the baker's bamboo staff a welcome sound in Goan homes? (Glimpses of India - A Baker from Goa)",
+     "marks": 3,
+     "options": null,
+     "answer": "The jingle announced that the baker, the 'pader', had arrived with fresh bread, which was a part of every Goan meal. Elders bought their loaves, and children eagerly waited for the bread bangles he brought. The baker was thus a familiar and much-liked figure in the village.",
+     "chapter": "Ch05_Glimpses_of_India"
+    },
+    {
+     "text": "Why did Maxwell fill the bath with water for Mijbil in his London flat, and what does this show about Mijbil's nature? (Mijbil the Otter)",
+     "marks": 3,
+     "options": null,
+     "answer": "Mijbil was a water-loving creature, and Maxwell found that he was most contented and playful in water. Filling the bath gave him a place to roll, dive and splash with his ball. This shows that Mijbil was playful and energetic, and needed water to feel at home.",
+     "chapter": "Ch06_Mijbil_the_Otter"
+    },
+    {
+     "text": "Why did the postmaster decide to answer Lencho's letter, and how did he manage the money Lencho had asked for? (A Letter to God)",
+     "marks": 3,
+     "options": null,
+     "answer": "The postmaster was moved by Lencho's simple faith in God and did not want to shake it. He gave part of his salary and asked his employees and friends to contribute. He could collect only a little over half of the sum Lencho wanted, and sent it signed 'God'.",
+     "chapter": "Ch01_A_Letter_to_God"
+    },
+    {
+     "text": "What does the poet equate with fire and with ice, and why does he think that ice would also be enough to destroy the world? (Fire and Ice)",
+     "marks": 3,
+     "options": null,
+     "answer": "The poet equates fire with desire and ice with hatred. Desire can burn people with greed and ambition, while hatred freezes the heart and shuts out love and compassion. He says that ice too is great and would suffice, because hatred is equally destructive.",
+     "chapter": "Ch20_Fire_and_Ice"
+    },
+    {
+     "text": "Lomov comes to propose to Natalya, yet the meeting ends in a quarrel. What does this show about the characters of the two? (The Proposal)",
+     "marks": 3,
+     "options": null,
+     "answer": "Lomov and Natalya quarrel first over the ownership of Oxen Meadows and then over whose dog is better. Both are proud, stubborn and quick to take offence over trivial matters, and neither is ready to give way. This makes their proposed marriage look like a comic mismatch.",
+     "chapter": "Ch09_The_Proposal"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Five 3-mark questions are printed; any four are to be attempted (12 marks)."
+  },
+  {
+   "no": 9,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch10_Footprints_A_Triumph_of_Surgery",
+   "origin": "ncert",
+   "text": "Answer ANY TWO of the following three questions, in about 40-50 words each. (2 x 3 = 6)",
+   "options": null,
+   "answer": "(see sub-questions)",
+   "subparts": [
+    {
+     "text": "Why was Mr Herriot called to treat Tricki Woo, and how was the dog finally cured? (A Triumph of Surgery)",
+     "marks": 3,
+     "options": null,
+     "answer": "Mrs Pumphrey overfed Tricki Woo with rich food and sweets, so he became fat, lazy and ill. Mr Herriot took him to the surgery and kept him with other dogs on a strict, simple diet with plenty of play. Tricki recovered, and Mrs Pumphrey thought it a triumph of surgery.",
+     "chapter": "Ch10_Footprints_A_Triumph_of_Surgery"
+    },
+    {
+     "text": "How did Richard's mother help him to develop his interest in science? (The Making of a Scientist)",
+     "marks": 3,
+     "options": null,
+     "answer": "Richard's mother encouraged his curiosity and never discouraged his hobbies. She provided him with books and instruments such as a microscope and a telescope, and supported his collecting and experiments. Her faith and help gave him the confidence to pursue science seriously.",
+     "chapter": "Ch15_Footprints_The_Making_of_a_Scientist"
+    },
+    {
+     "text": "What made Bholi refuse to marry Bishamber, and how did her education help her to take this decision? (Bholi)",
+     "marks": 3,
+     "options": null,
+     "answer": "Bishamber was greedy and demanded a large dowry at the time of the wedding, treating marriage as a bargain. Education had given Bholi confidence and self-respect, so she boldly refused to marry a greedy man and decided to teach and care for her parents.",
+     "chapter": "Ch17_Footprints_Bholi"
+    }
+   ],
+   "figure": null,
+   "or": null,
+   "note": "Three 3-mark questions are printed; any two are to be attempted (6 marks)."
+  },
+  {
+   "no": 10,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch03_Two_Stories_about_Flying",
+   "origin": "variant",
+   "basis": "Paper_06 Q10",
+   "basis_question": {
+    "no": 10,
+    "section": "C",
+    "marks": 6,
+    "type": "literature",
+    "chapter": "Ch03_Two_Stories_about_Flying",
+    "text": "Answer ANY ONE of the following two questions, in about 100-120 words\n\nYou have been asked to present an evaluation of the approaches of both, the Baby Seagull and the Pilot who was lost in the clouds, towards achieving their dreams of conquering the skies.\nWrite this presentation draft including your insights, comparing the approaches of both.\nYou may begin this way : One acknowledges that both, the Seagull and the Pilot, wanted to ________ however, ________.\n(Reference: Two Stories About Flying)",
+    "options": null,
+    "figure": null,
+    "answer": "One acknowledges that both, the Seagull and the Pilot, wanted to conquer the skies; however, their approaches to achieving this dream were markedly different.\nThe Baby Seagull, from \"His First Flight,\" faced an intense fear of flying. Despite his family's encouragement and demonstrations, he hesitated to take the leap. His journey towards conquering the skies was driven by necessity and hunger. When his mother dangled a piece of fish just out of reach, his desperation overcame his fear, and he finally took flight. This approach highlights the role of instinct and survival in overcoming fear. The Baby Seagull's success was a result of being pushed to the brink, where his natural abilities took over\nIn contrast, the Pilot, from \"The Little Prince,\" initially sought to conquer the skies for recognition and status. However, his journey through encounters with the Little Prince taught him the deeper meanings of love, friendship, and responsibility, ultimately leading him to rediscover the joy and wonder of flying.\nIn summary, both stories illustrate that while the goal of the flight is universal, the paths taken, and the lessons learned along the way shape one's understanding of true fulfilment and purpose in life.",
+    "or": {
+     "chapter": "Ch24_Amanda",
+     "text": "Amanda's parents were over anxious about her. She often found their instructions very stifling. Reading the poem and based on Amanda's experience, write a paragraph on the topic \"Should parents be allowed to control children?\"",
+     "options": null,
+     "figure": null,
+     "answer": "Upbringing plays an essential role in a child's development. Poet Robin Klein through this poem Amanda highlights the tension in the 'proper' upbringing of a child. To inculcate good values and moral principles in a growing child comes as a foremost duty for the parents. However, the poem Amanda shows how a child feels trapped within the cluster of instructions. Amanda is no less than a victim of this travesty. No proper space is given to her creativity. She is instructed for everything. As a result, she feels trapped and seeks an escape. Likewise, some parents are over-protective, they unknowingly kill their child's creativity. They always doubt their child's capability to do things independently. Freedom gives children scope to bloom hence it is necessary. Parents should guide and control their children as long as it is necessary. However, over-indulgence will always have a negative impact. Excessive nagging may cause them to become rebellious, and so develop an aversion to actual life.",
+     "subparts": null
+    },
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "Answer ANY ONE of the following two questions, in about 100-120 words\n\nBoth the Baby Seagull in 'His First Flight' and the pilot in 'The Black Aeroplane' faced a moment of crisis in the sky or on the edge of it. Write a paragraph comparing how each of them overcame the crisis and what the two stories teach us about courage.\nYou may begin this way: In both stories, the main character was afraid and uncertain, yet ________.\n(Reference: Two Stories About Flying)",
+   "options": null,
+   "answer": "In both stories, the main character was afraid and uncertain, yet each found the courage to carry on. The young seagull was terrified of leaving the ledge, even though his brothers and parents flew with ease. Hunger finally pushed him; when his mother held a piece of fish near him, he dived, and discovered that he could fly. The pilot, on the other hand, was alone at night, lost in thick clouds and a storm. A mysterious black aeroplane guided him to safety, although the controller later said that no other plane was there. The seagull's fear was beaten by need and encouragement, the pilot's by calmness and trust. Both stories show that courage grows when fear is faced.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch23_The_Ball_Poem",
+    "text": "A boy in 'The Ball Poem' loses his ball and is heartbroken. A friend says that the boy should simply be given a new ball. Express your views in a paragraph of 100-120 words with reference to the poem.",
+    "options": null,
+    "figure": null,
+    "answer": "I do not agree that a new ball would solve the boy's problem. The poet watches the boy who has lost his ball in the water and understands that no money can buy back that feeling of loss. He does not offer to replace it, because the boy must learn that things in life can be lost and that one has to bear the loss. By standing there and facing his grief, the boy is learning responsibility and what it means to lose something. The poet suggests that this experience helps a child to grow into a mature and strong person. A new ball may stop his tears, but it would stop his learning as well.",
+    "subparts": null
+   }
+  },
+  {
+   "no": 11,
+   "section": "C",
+   "marks": 6,
+   "type": "literature",
+   "chapter": "Ch15_Footprints_The_Making_of_a_Scientist",
+   "origin": "variant",
+   "basis": "Paper_04 Q11",
+   "basis_question": {
+    "no": 11,
+    "section": "C",
+    "marks": 6,
+    "type": "literature",
+    "chapter": "Ch15_Footprints_The_Making_of_a_Scientist",
+    "text": "Albert Einstein said, The important thing is to never stop questioning.\nRichard was a genius who proved this quote true. Justify.",
+    "options": null,
+    "figure": null,
+    "answer": "Surely, this statement is true in case of Richard because not even once in the course of chapter he allowed himself to detach from his work. He very diligently worked towards achieving his purpose. This hard work and undying commitment towards his purpose brought him lot of laurels and respect in the world. He kept working so that he could reach his aim without letting any obstacle come his way. His scientific bent of mind led him to carry on experiment after experiment and reach to a purposeful conclusion. In his efforts to reach his goal he was helped by many people in his journey, especially his mother whose contribution towards his success cannot be denied.\nThough Richard was a genius himself but never even once did he stop midway to conclude his work. He very patiently took each step one by one to make success out of him. This shows if one sets his eyes on something he will achieve it no matter how difficult the path is.",
+    "or": {
+     "chapter": "Ch11_Footprints_The_Thiefs_Story",
+     "text": "Education, love and sympathy can transform even a thief. How is it true in the case of Hari Singh?",
+     "options": null,
+     "figure": null,
+     "answer": "For some people, deception is a way to lead life easily, i.e., by changing name, by making excuses, by making new way of making money etc. Anil was the most trusting person Hari Singh had ever met. But he took undue advantage of his trust. He was a thief and couldn't be expected to be honest with Anil. He came to Anil with a false identity. Anil had a blind faith in human nature. He employed him just out of sympathy and compassion for him. He trusted him and ignored his misdeed. He handed over all the financial transactions without any verification. In a way, he gave him a chance to improve. Hari stole money and then came back with a change of mind. Anil knew even this fact also, but said nothing. It made Hari Singh to decide to leave the style of deception as a way of life. Living a simple and straight life over-powered Hari's deceptive life. Finally, he opted for the simple life by educating himself and becoming a clever, big and respectable man in future. It was very good decision of Hari Singh."
+    },
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "Louis Pasteur said, 'Chance favours only the prepared mind.' How does the life of Richard Ebright in 'The Making of a Scientist' prove this? (Answer in about 100-120 words)",
+   "options": null,
+   "answer": "Richard's discoveries were not accidents; they came from a mind prepared by curiosity and effort over many years. As a child he collected butterflies, read a great deal about them and observed them patiently. His mother supported him with books and equipment, and he learnt to ask questions and to look for answers. When he took up a butterfly project, he already had the knowledge, discipline and habit of careful observation needed to carry it out. His hard work brought him success in science competitions and later in his career. Thus Richard's success shows that opportunity helps only those who have prepared themselves for it.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "chapter": "Ch11_Footprints_The_Thiefs_Story",
+    "text": "Hari Singh was a thief, but he was neither hardened nor beyond reform. Justify the statement with reference to 'The Thief's Story'. (Answer in about 100-120 words)",
+    "options": null,
+    "figure": null,
+    "answer": "Hari Singh was a petty thief who cheated people by giving false names and stories, but he was still capable of change. When Anil trusted him, gave him work and promised to teach him to read, Hari began to feel uneasy about betraying such kindness. His conscience troubled him even as he planned to rob Anil. His wish to learn to read and write showed that he longed for a better life. In the end his conscience won over his greed, and he came away with a new understanding of honesty. Anil's trust, education and affection thus made Hari change his way of life.",
+    "subparts": null
+   }
+  }
+ ]
+}

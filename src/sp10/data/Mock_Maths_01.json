@@ -1,0 +1,1060 @@
+{
+ "subject": "Maths",
+ "paper": "Mock_01",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "HCF of $(2^3 \\times 3^2 \\times 5)$, $(2^2 \\times 3^3 \\times 5^2)$ and $(2^4 \\times 3 \\times 5^3 \\times 7)$ is",
+   "options": [
+    "105",
+    "30",
+    "60",
+    "48"
+   ],
+   "figure": null,
+   "answer": "(c) 60 — HCF = product of the smallest power of each common prime factor $= 2^2 \\times 3 \\times 5 = 60$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q2"
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "If a and b are two positive integers such that the least prime factor of a is 3 and the least prime factor of b is 5. Then, the least prime factor of $(a + b)$ is",
+   "options": [
+    "3",
+    "5",
+    "2",
+    "8"
+   ],
+   "figure": null,
+   "answer": "(c) 2 — Since $5+3=8$, the least prime factor of $a+b$ has to be 2, unless $a+b$ is a prime greater than 2. If $a+b$ were a prime greater than 2 it would be odd, so one of a, b would be even; but then its least prime factor would be 2, which is not 3 or 5. Both a and b are therefore odd, a+b is even and its least prime factor is 2.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q1"
+  },
+  {
+   "no": 3,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "origin": "variant",
+   "basis": "Paper_08 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch02_Polynomials",
+    "text": "If $\\alpha,\\beta$ are zeroes of a polynomial $p(x) = 2x^2 - x - 1$ then $\\alpha^2+\\beta^2$ is equal to",
+    "options": [
+     "$\\frac{1}{4}$",
+     "$\\frac{5}{4}$",
+     "$\\frac{3}{4}$",
+     "$\\frac{-3}{4}$"
+    ],
+    "figure": null,
+    "answer": "(b) $\\frac{5}{4}$ — $\\alpha+\\beta=\\frac12$, $\\alpha\\beta=-\\frac12$; $\\alpha^2+\\beta^2=(\\alpha+\\beta)^2-2\\alpha\\beta=\\frac14+1=\\frac54$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "If $\\alpha,\\beta$ are the zeroes of the polynomial $p(x)=3x^2-5x-2$, then $\\alpha^2+\\beta^2$ is equal to",
+   "options": [
+    "$\\frac{25}{9}$",
+    "$\\frac{37}{9}$",
+    "$\\frac{13}{9}$",
+    "$\\frac{19}{9}$"
+   ],
+   "answer": "(b) $\\frac{37}{9}$ — $\\alpha+\\beta=\\frac53$, $\\alpha\\beta=-\\frac23$; $\\alpha^2+\\beta^2=(\\alpha+\\beta)^2-2\\alpha\\beta=\\frac{25}{9}+\\frac43=\\frac{37}{9}$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 4,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch02_Polynomials",
+   "origin": "ncert",
+   "text": "If the sum of the zeroes of the polynomial $p(x)=kx^2+2x+3k$ is equal to their product, then $k$ is equal to",
+   "options": [
+    "$\\frac23$",
+    "$-\\frac23$",
+    "$\\frac32$",
+    "$-\\frac32$"
+   ],
+   "answer": "(b) $-\\frac23$ — sum of zeroes $=-\\frac{2}{k}$, product $=\\frac{3k}{k}=3$. $-\\frac2k=3\\Rightarrow k=-\\frac23$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 5,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "origin": "ncert",
+   "text": "The pair of linear equations $2x+3y=7$ and $kx+6y=14$ has infinitely many solutions for $k=$",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ],
+   "answer": "(c) 4 — for infinitely many solutions $\\frac{2}{k}=\\frac36=\\frac{7}{14}$, so $\\frac2k=\\frac12\\Rightarrow k=4$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 6,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "origin": "variant",
+   "basis": "Paper_01 Q6",
+   "basis_question": {
+    "no": 6,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+    "text": "If $\\frac{2x}{3} - \\frac{y}{2} + \\frac{1}{6} = 0$ and $\\frac{x}{2} + \\frac{2y}{3} = 3$ then",
+    "options": [
+     "x = -2, y = 3",
+     "x = -2, y = -3",
+     "x = 2, y = 3",
+     "x = 2, y = -3"
+    ],
+    "figure": null,
+    "answer": "(c) x = 2, y = 3 — The equations are $\\frac{2x}{3} - \\frac{y}{2} = -\\frac{1}{6}$ ... (i) and $\\frac{x}{2} + \\frac{2y}{3} = 3$ ... (ii). Multiplying both by 6: $4x - 3y = -1$ ... (iii) and $3x + 4y = 18$ ... (iv). Multiplying (iii) by 4 and (iv) by 3 and adding: $16x + 9x = -4 + 54 \\Rightarrow x = \\frac{50}{25} = 2$. Putting in (iv): $6 + 4y = 18 \\Rightarrow y = 3$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "If $\\frac{x}{2}-\\frac{y}{3}=\\frac16$ and $\\frac{x}{3}+\\frac{y}{4}=2$, then",
+   "options": [
+    "$x=3,\\ y=4$",
+    "$x=4,\\ y=3$",
+    "$x=-3,\\ y=4$",
+    "$x=3,\\ y=-4$"
+   ],
+   "answer": "(a) $x=3,\\ y=4$ — multiplying by 6 and 12 respectively: $3x-2y=1$ ... (i) and $4x+3y=24$ ... (ii). (i)$\\times3$ + (ii)$\\times2$: $9x+8x=3+48\\Rightarrow x=3$. From (i): $9-2y=1\\Rightarrow y=4$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 7,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "variant",
+   "basis": "Paper_09 Q4",
+   "basis_question": {
+    "no": 4,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch04_Quadratic_Equations",
+    "text": "The roots of the quadratic equation $x^2 + 3x - 10 = 0$ are:",
+    "options": [
+     "-5, 2",
+     "5, 2",
+     "5, -2",
+     "-5, -2"
+    ],
+    "figure": null,
+    "answer": "(a) -5, 2 — $x^2+5x-2x-10=(x+5)(x-2)=0\\Rightarrow x=-5$ or $2$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "The roots of the quadratic equation $x^2-2x-15=0$ are:",
+   "options": [
+    "5, 3",
+    "$-5$, 3",
+    "5, $-3$",
+    "$-5$, $-3$"
+   ],
+   "answer": "(c) 5, $-3$ — $x^2-5x+3x-15=(x-5)(x+3)=0\\Rightarrow x=5$ or $x=-3$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 8,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "ncert",
+   "text": "The quadratic equation $2x^2-4x+3=0$ has",
+   "options": [
+    "two distinct real roots",
+    "two equal real roots",
+    "no real roots",
+    "exactly one real root"
+   ],
+   "answer": "(c) no real roots — discriminant $D=b^2-4ac=16-24=-8<0$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 9,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "In an A.P., the third term is 16 and the 7th term exceeds the 5th term by 12, then its first term is",
+   "options": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "figure": null,
+   "answer": "(c) 4 — $a_3=16\\Rightarrow a+2d=16$ ...(i). $a_7=a_5+12\\Rightarrow 2d=12\\Rightarrow d=6$. From (i), $a+12=16\\Rightarrow a=4$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_02",
+   "origin": "real",
+   "basis": "Paper_02 Q5"
+  },
+  {
+   "no": 10,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "ncert",
+   "text": "The 10th term of the AP $2,7,12,\\dots$ is",
+   "options": [
+    "42",
+    "47",
+    "52",
+    "57"
+   ],
+   "answer": "(b) 47 — $a=2$, $d=5$; $a_{10}=2+9\\times5=47$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 11,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "origin": "variant",
+   "basis": "Paper_07 Q8",
+   "basis_question": {
+    "no": 8,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch06_Triangles",
+    "text": "In the given figure, $\\triangle ABC \\sim \\triangle QPR$. If $AC = 6$ cm, $BC = 5$ cm, $QR = 3$ cm and $PR = x$; then the value of x is:",
+    "options": [
+     "3.6 cm",
+     "2.5 cm",
+     "3.2 cm",
+     "10 cm"
+    ],
+    "figure": "fig_p03_0.png",
+    "answer": "(b) 2.5 cm — Since the triangles are similar, $\\frac{AC}{QR}=\\frac{BC}{PR}\\Rightarrow\\frac{6}{3}=\\frac{5}{x}\\Rightarrow x=\\frac{5\\times3}{6}=2.5$ cm.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_07"
+   },
+   "text": "If $\\triangle ABC\\sim\\triangle QPR$ with $AC=9$ cm, $BC=6$ cm, $QR=3$ cm and $PR=x$, then the value of $x$ is:",
+   "options": [
+    "2 cm",
+    "4.5 cm",
+    "18 cm",
+    "3 cm"
+   ],
+   "answer": "(a) 2 cm — the triangles are similar with $A\\leftrightarrow Q$, $B\\leftrightarrow P$, $C\\leftrightarrow R$, so $\\frac{AC}{QR}=\\frac{BC}{PR}\\Rightarrow\\frac93=\\frac6x\\Rightarrow x=2$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 12,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch06_Triangles",
+   "origin": "ncert",
+   "text": "In $\\triangle ABC$, $D$ is a point on $AB$ and $E$ is a point on $AC$ such that $DE\\parallel BC$. If $AD=3$ cm, $DB=5$ cm and $AC=12$ cm, then $AE$ is",
+   "options": [
+    "4.5 cm",
+    "7.5 cm",
+    "7.2 cm",
+    "3.6 cm"
+   ],
+   "answer": "(a) 4.5 cm — by the basic proportionality theorem $\\frac{AD}{DB}=\\frac{AE}{EC}$. Let $AE=x$: $\\frac35=\\frac{x}{12-x}\\Rightarrow36-3x=5x\\Rightarrow x=4.5$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 13,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "XOYZ is a rectangle with vertices X(-3, 0), O(0, 0), Y(0, 4) and Z(x, y). The length of its each diagonal is",
+   "options": [
+    "5 units",
+    "4 units",
+    "$x^2+y^2$ units",
+    "X"
+   ],
+   "figure": null,
+   "answer": "(a) 5 units — Diagonal $XY=\\sqrt{(-3-0)^2+(0-4)^2}=\\sqrt{9+16}=\\sqrt{25}=5$ units (the diagonals of a rectangle are equal).",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_07",
+   "origin": "real",
+   "basis": "Paper_07 Q6"
+  },
+  {
+   "no": 14,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "variant",
+   "basis": "Paper_10 Q6",
+   "basis_question": {
+    "no": 6,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch07_Coordinate_Geometry",
+    "text": "If the point $(x, 4)$ lies on a circle whose centre is at the origin and radius is 5 then $x =$",
+    "options": [
+     "$\\pm4$",
+     "$\\pm3$",
+     "0",
+     "$\\pm5$"
+    ],
+    "figure": null,
+    "answer": "(b) $\\pm3$ — $\\sqrt{x^2+16}=5\\Rightarrow x^2=9\\Rightarrow x=\\pm3$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "If the point $(x,5)$ lies on a circle whose centre is at the origin and radius is 13, then $x=$",
+   "options": [
+    "$\\pm12$",
+    "$\\pm8$",
+    "$\\pm13$",
+    "0"
+   ],
+   "answer": "(a) $\\pm12$ — $\\sqrt{x^2+25}=13\\Rightarrow x^2=169-25=144\\Rightarrow x=\\pm12$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 15,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "text": "If $\\tan A=n\\tan B$ and $\\sin A=m\\sin B$, then $\\cos^2A=$",
+   "options": [
+    "$\\frac{m^2+1}{n^2+1}$",
+    "$\\frac{m^2+1}{n^2-1}$",
+    "$\\frac{m^2-1}{n^2-1}$",
+    "$\\frac{m^2-1}{n^2+1}$"
+   ],
+   "figure": null,
+   "answer": "(c) $\\frac{m^2-1}{n^2-1}$ — $\\cot B=\\frac{n}{\\tan A}$, $\\operatorname{cosec}B=\\frac{m}{\\sin A}$; $\\operatorname{cosec}^2B-\\cot^2B=1\\Rightarrow\\frac{m^2}{\\sin^2A}-\\frac{n^2\\cos^2A}{\\sin^2A}=1\\Rightarrow m^2-n^2\\cos^2A=1-\\cos^2A\\Rightarrow\\cos^2A=\\frac{m^2-1}{n^2-1}$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q11"
+  },
+  {
+   "no": 16,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_04 Q11",
+   "basis_question": {
+    "no": 11,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "$(\\cos^4A-\\sin^4A)$ on simplification, gives",
+    "options": [
+     "$2\\cos^2A+1$",
+     "$2\\sin^2A+1$",
+     "$2\\cos^2A-1$",
+     "$2\\sin^2A-1$"
+    ],
+    "figure": null,
+    "answer": "(c) $2\\cos^2A-1$ — $\\cos^4A-\\sin^4A=(\\cos^2A+\\sin^2A)(\\cos^2A-\\sin^2A)=\\cos^2A-(1-\\cos^2A)=2\\cos^2A-1$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_04"
+   },
+   "text": "$(\\sin^4A-\\cos^4A)$ on simplification, gives",
+   "options": [
+    "$2\\cos^2A+1$",
+    "$2\\sin^2A+1$",
+    "$2\\cos^2A-1$",
+    "$2\\sin^2A-1$"
+   ],
+   "answer": "(d) $2\\sin^2A-1$ — $\\sin^4A-\\cos^4A=(\\sin^2A+\\cos^2A)(\\sin^2A-\\cos^2A)=\\sin^2A-(1-\\sin^2A)=2\\sin^2A-1$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 17,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch10_Circles",
+   "origin": "variant",
+   "basis": "Paper_02 Q9",
+   "basis_question": {
+    "no": 9,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch10_Circles",
+    "text": "In the given figure, O is the centre of the circle with radius 10 cm. If $AB\\parallel CD$, AB = 16 cm and CD = 12 cm, the distance between the two chords AB and CD is :",
+    "options": [
+     "12 cm",
+     "14 cm",
+     "16 cm",
+     "20 cm"
+    ],
+    "figure": "fig_p02_1.png",
+    "answer": "(b) 14 cm — the perpendicular from O bisects each chord: $AP=8$ cm, $CQ=6$ cm. $OP^2=10^2-8^2=36\\Rightarrow OP=6$ cm; $OQ^2=10^2-6^2=64\\Rightarrow OQ=8$ cm. Distance between the chords $=OP+OQ=6+8=14$ cm.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_02"
+   },
+   "text": "$O$ is the centre of a circle of radius 13 cm. $AB$ and $CD$ are parallel chords of the circle on opposite sides of the centre, with $AB=24$ cm and $CD=10$ cm. The distance between the two chords is:",
+   "options": [
+    "12 cm",
+    "17 cm",
+    "19 cm",
+    "26 cm"
+   ],
+   "answer": "(b) 17 cm — the perpendicular from $O$ bisects each chord: half of $AB=12$ cm, half of $CD=5$ cm. Distance of $AB$ from $O$ $=\\sqrt{13^2-12^2}=5$ cm; distance of $CD$ from $O$ $=\\sqrt{13^2-5^2}=12$ cm. Since the chords lie on opposite sides of $O$, the distance between them $=5+12=17$ cm.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 18,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "variant",
+   "basis": "Paper_10 Q3",
+   "basis_question": {
+    "no": 3,
+    "section": "A",
+    "marks": 1,
+    "type": "mcq",
+    "chapter": "Ch12_Surface_Areas_and_Volumes",
+    "text": "A solid is in the shape of a cone standing on a hemisphere with both their radii being equal to 1cm and the height of the cone is equal to its radius. The volume of the solid is",
+    "options": [
+     "$\\pi\\ \\mathrm{cm}^3$",
+     "$4\\pi\\ \\mathrm{cm}^3$",
+     "$3\\pi\\ \\mathrm{cm}^3$",
+     "$2\\pi\\ \\mathrm{cm}^3$"
+    ],
+    "figure": null,
+    "answer": "(a) $\\pi\\ \\mathrm{cm}^3$ — volume $=\\frac13\\pi r^2h+\\frac23\\pi r^3=\\frac13\\pi r^2(h+2r)=\\frac13\\pi(1)^2(1+2)=\\pi\\ \\mathrm{cm}^3$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "A solid is in the shape of a cone standing on a hemisphere with both their radii being equal to 2 cm and the height of the cone is equal to its radius. The volume of the solid is",
+   "options": [
+    "$4\\pi\\ \\mathrm{cm}^3$",
+    "$8\\pi\\ \\mathrm{cm}^3$",
+    "$16\\pi\\ \\mathrm{cm}^3$",
+    "$12\\pi\\ \\mathrm{cm}^3$"
+   ],
+   "answer": "(b) $8\\pi\\ \\mathrm{cm}^3$ — volume $=\\frac13\\pi r^2h+\\frac23\\pi r^3=\\frac13\\pi r^2(h+2r)=\\frac13\\pi(2)^2(2+4)=8\\pi\\ \\mathrm{cm}^3$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 19,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch13_Statistics",
+   "origin": "variant",
+   "basis": "Paper_01 Q19",
+   "basis_question": {
+    "no": 19,
+    "section": "A",
+    "marks": 1,
+    "type": "ar",
+    "chapter": "Ch13_Statistics",
+    "text": "Assertion (A): If the value of mode and mean is 60 and 66 respectively, then the value of median is 64.\nReason (R): Median = (mode + 2 mean)",
+    "options": [
+     "Both A and R are true and R is the correct explanation of A.",
+     "Both A and R are true but R is not the correct explanation of A.",
+     "A is true but R is false.",
+     "A is false but R is true."
+    ],
+    "figure": null,
+    "answer": "(c) A is true but R is false. — The correct relation is Median $= \\frac{1}{3}(\\text{mode} + 2\\,\\text{mean}) = \\frac{1}{3}(60 + 2 \\times 66) = 64$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Assertion (A): If the mean and median of a data are 24 and 21 respectively, then its mode is 15.\nReason (R): Mode $=3\\,$Median $-\\,2\\,$Mean.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(a) Both A and R are true and R is the correct explanation of A. — Mode $=3\\times21-2\\times24=63-48=15$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 20,
+   "section": "A",
+   "marks": 1,
+   "type": "ar",
+   "chapter": "Ch14_Probability",
+   "origin": "ncert",
+   "text": "Assertion (A): If a card is drawn at random from a well-shuffled pack of 52 playing cards, the probability that it is a red king is $\\frac1{26}$.\nReason (R): The probability $P(E)$ of any event $E$ satisfies $0\\le P(E)\\le1$.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is not the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": "(b) Both A and R are true but R is not the correct explanation of A. — There are 2 red kings, so $P=\\frac{2}{52}=\\frac1{26}$ (A is true). R is a true statement about probability but does not explain the value in A.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch01_Real_Numbers",
+   "text": "Prove that $\\sqrt2+\\sqrt3$ is an irrational number.",
+   "options": null,
+   "figure": null,
+   "answer": "Assume $\\sqrt2+\\sqrt3=\\frac ab$ is rational ($a,b$ co-prime positive integers). Squaring: $5+2\\sqrt6=\\frac{a^2}{b^2}\\Rightarrow\\sqrt6=\\frac{a^2-5b^2}{2b^2}$, which is rational. This contradicts the fact that $\\sqrt6$ is irrational. Hence $\\sqrt2+\\sqrt3$ is irrational.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q21"
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "origin": "variant",
+   "basis": "Paper_01 Q22",
+   "basis_question": {
+    "no": 22,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+    "text": "Aftab tells his daughter, Seven years ago, I was seven times as old as you were then. Also, three years from now, I shall be three times as old as you will be. (Isn't this interesting?) Represent this situation algebraically and graphically by the method of substitution.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the present ages of Aftab and his daughter be $x$ and $y$ years respectively. Then the pair of linear equations is $x - 7 = 7(y - 7)$, i.e., $x - 7y + 42 = 0$ ... (1) and $x + 3 = 3(y + 3)$, i.e., $x - 3y = 6$ ... (2). From (2), $x = 3y + 6$. Putting in (1): $(3y + 6) - 7y + 42 = 0 \\Rightarrow -4y = -48 \\Rightarrow y = 12$. Then $x = 3 \\times 12 + 6 = 42$. So the present ages of Aftab and his daughter are 42 and 12 years respectively. (The graph of the two lines is not drawn in the paper's solution; the lines meet at (42, 12).)",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_01"
+   },
+   "text": "Meera tells her son, \"Five years ago, I was three times as old as you were then. Ten years from now, I shall be twice as old as you will be.\" Represent this situation algebraically and find their present ages by the method of substitution.",
+   "options": null,
+   "answer": "Let the present ages of Meera and her son be $x$ and $y$ years. Then $x-5=3(y-5)$, i.e. $x-3y=-10$ ... (1) and $x+10=2(y+10)$, i.e. $x-2y=10$ ... (2) (1 mark). From (1), $x=3y-10$. Putting in (2): $3y-10-2y=10\\Rightarrow y=20$, so $x=50$. Meera is 50 years and her son is 20 years old (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "Solve the pair of equations $2x+3y=11$ and $2x-4y=-24$ and hence find the value of $m$ for which $y=mx+3$.",
+    "options": null,
+    "figure": null,
+    "answer": "Subtracting the second equation from the first: $7y=35\\Rightarrow y=5$. Then $2x+15=11\\Rightarrow x=-2$. Putting $x=-2,y=5$ in $y=mx+3$: $5=-2m+3\\Rightarrow m=-1$.",
+    "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables"
+   }
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "text": "Find the co-ordinates of the points of trisection of the line segment joining the points $(-2, 2)$ and $(7, -4)$.",
+   "options": null,
+   "figure": null,
+   "answer": "Let P, Q trisect AB with A(-2,2), B(7,-4). $AP:PB=1:2$, so $P=\\left(\\frac{7-4}{3},\\frac{-4+4}{3}\\right)=(1,0)$. $AQ:QB=2:1$, so $Q=\\left(\\frac{14-2}{3},\\frac{-8+2}{3}\\right)=(4,-2)$.",
+   "or": {
+    "text": "Find the distance between the points: $A(1, -3)$ and $B(4, -6)$",
+    "options": null,
+    "figure": null,
+    "answer": "$AB=\\sqrt{(4-1)^2+(-6+3)^2}=\\sqrt{9+9}=\\sqrt{18}=3\\sqrt2$ units.",
+    "chapter": "Ch07_Coordinate_Geometry"
+   },
+   "subparts": null,
+   "paper": "Paper_08",
+   "origin": "real",
+   "basis": "Paper_08 Q23"
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "ncert",
+   "text": "If $\\tan\\theta=\\frac{8}{15}$, find the value of $\\sin\\theta+\\cos\\theta$.",
+   "options": null,
+   "answer": "In a right triangle with perpendicular 8 and base 15, hypotenuse $=\\sqrt{8^2+15^2}=17$ (1 mark). $\\sin\\theta=\\frac8{17}$, $\\cos\\theta=\\frac{15}{17}$, so $\\sin\\theta+\\cos\\theta=\\frac{23}{17}$ (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_Probability",
+   "origin": "variant",
+   "basis": "Paper_08 Q25",
+   "basis_question": {
+    "no": 25,
+    "section": "B",
+    "marks": 2,
+    "type": "vsa",
+    "chapter": "Ch14_Probability",
+    "text": "A card is drawn from a well-shuffled deck of playing cards. Find the probability of drawing\ni. a face card\nii. a red face card.",
+    "options": null,
+    "figure": null,
+    "answer": "$n(S)=52$. Face cards $=4\\times3=12$; red face cards $=3\\times2=6$. (i) $P=\\frac{12}{52}=\\frac{3}{13}$. (ii) $P=\\frac{6}{52}=\\frac{3}{26}$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "A card is drawn from a well-shuffled deck of 52 playing cards. Find the probability of drawing\ni. a king or a queen\nii. a red card that is not a face card.",
+   "options": null,
+   "answer": "$n(S)=52$. (i) Kings and queens $=4+4=8$, $P=\\frac{8}{52}=\\frac2{13}$. (ii) Red cards $=26$, red face cards $=6$, so required cards $=20$ and $P=\\frac{20}{52}=\\frac5{13}$.",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 26,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch02_Polynomials",
+   "origin": "variant",
+   "basis": "Paper_09 Q27",
+   "basis_question": {
+    "no": 27,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch02_Polynomials",
+    "text": "If $\\alpha$ and $\\beta$ are the zeroes of the polynomial $ax^2-x+c$. Obtain a polynomial whose zeroes are $\\alpha-3$ and $\\beta-3$.",
+    "options": null,
+    "figure": null,
+    "answer": "$\\alpha+\\beta=\\frac1a$, $\\alpha\\beta=\\frac ca$. Sum of new zeroes $=\\alpha+\\beta-6=\\frac{1-6a}{a}$. Product $=\\alpha\\beta-3(\\alpha+\\beta)+9=\\frac ca-\\frac3a+9=\\frac{c-3+9a}{a}$. Required polynomial: $x^2-\\frac{1-6a}{a}x+\\frac{c-3+9a}{a}$, or $ax^2-(1-6a)x+(c-3+9a)$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_09"
+   },
+   "text": "If $\\alpha$ and $\\beta$ are the zeroes of the polynomial $ax^2+x+c$, obtain a polynomial whose zeroes are $\\alpha+2$ and $\\beta+2$.",
+   "options": null,
+   "answer": "$\\alpha+\\beta=-\\frac1a$, $\\alpha\\beta=\\frac ca$ (1 mark). Sum of new zeroes $=\\alpha+\\beta+4=\\frac{4a-1}{a}$. Product $=\\alpha\\beta+2(\\alpha+\\beta)+4=\\frac ca-\\frac2a+4=\\frac{4a+c-2}{a}$ (1 mark). Required polynomial: $x^2-\\frac{4a-1}{a}x+\\frac{4a+c-2}{a}$, or $ax^2-(4a-1)x+(4a+c-2)$ (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 27,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "variant",
+   "basis": "Paper_10 Q27",
+   "basis_question": {
+    "no": 27,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch07_Coordinate_Geometry",
+    "text": "The line segment joining the points P (3,3) and Q (6, -6) is trisected at the points A and B such that A is nearer to P. If A also lies on the line given by $2x+y+k=0$, find the value of k.",
+    "options": null,
+    "figure": null,
+    "answer": "$PA:AQ=1:2$, so $A=\\left(\\frac{6\\times1+3\\times2}{3},\\frac{-6\\times1+3\\times2}{3}\\right)=(4,0)$. A lies on $2x+y+k=0$: $8+0+k=0\\Rightarrow k=-8$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_10"
+   },
+   "text": "The line segment joining the points $P(-3,4)$ and $Q(6,-2)$ is trisected at the points $A$ and $B$ such that $A$ is nearer to $P$. If $A$ also lies on the line given by $3x-y+k=0$, find the value of $k$.",
+   "options": null,
+   "answer": "$PA:AQ=1:2$, so $A=\\left(\\frac{1\\times6+2\\times(-3)}{3},\\frac{1\\times(-2)+2\\times4}{3}\\right)=(0,2)$ (2 marks). $A$ lies on $3x-y+k=0$: $0-2+k=0\\Rightarrow k=2$ (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 28,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_08 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch08_Introduction_to_Trigonometry",
+    "text": "Prove that: $(\\sin\\theta + 1 + \\cos\\theta)(\\sin\\theta - 1 + \\cos\\theta)\\cdot\\sec\\theta\\operatorname{cosec}\\theta = 2$",
+    "options": null,
+    "figure": null,
+    "answer": "LHS $=[(\\sin\\theta+\\cos\\theta)^2-1]\\cdot\\frac1{\\cos\\theta\\sin\\theta}=[1+2\\sin\\theta\\cos\\theta-1]\\cdot\\frac{1}{\\sin\\theta\\cos\\theta}=2=$ RHS.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "Prove that: $(\\operatorname{cosec}\\theta-\\sin\\theta)(\\sec\\theta-\\cos\\theta)(\\tan\\theta+\\cot\\theta)=1$",
+   "options": null,
+   "answer": "LHS $=\\frac{1-\\sin^2\\theta}{\\sin\\theta}\\cdot\\frac{1-\\cos^2\\theta}{\\cos\\theta}\\cdot\\left(\\frac{\\sin\\theta}{\\cos\\theta}+\\frac{\\cos\\theta}{\\sin\\theta}\\right)=\\frac{\\cos^2\\theta}{\\sin\\theta}\\cdot\\frac{\\sin^2\\theta}{\\cos\\theta}\\cdot\\frac{1}{\\sin\\theta\\cos\\theta}=\\sin\\theta\\cos\\theta\\cdot\\frac1{\\sin\\theta\\cos\\theta}=1=$ RHS.",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "Prove that: $\\frac{\\sin\\theta-\\cos\\theta+1}{\\sin\\theta+\\cos\\theta-1}=\\frac{1}{\\sec\\theta-\\tan\\theta}$",
+    "options": null,
+    "figure": null,
+    "answer": "Dividing numerator and denominator of LHS by $\\cos\\theta$: LHS $=\\frac{\\tan\\theta-1+\\sec\\theta}{\\tan\\theta+1-\\sec\\theta}$. Using $1=\\sec^2\\theta-\\tan^2\\theta$, numerator $=(\\tan\\theta+\\sec\\theta)-(\\sec\\theta-\\tan\\theta)(\\sec\\theta+\\tan\\theta)=(\\sec\\theta+\\tan\\theta)(1-\\sec\\theta+\\tan\\theta)$. Hence LHS $=\\frac{(\\sec\\theta+\\tan\\theta)(\\tan\\theta+1-\\sec\\theta)}{\\tan\\theta+1-\\sec\\theta}=\\sec\\theta+\\tan\\theta=\\frac{(\\sec\\theta+\\tan\\theta)(\\sec\\theta-\\tan\\theta)}{\\sec\\theta-\\tan\\theta}=\\frac1{\\sec\\theta-\\tan\\theta}=$ RHS.",
+    "chapter": "Ch08_Introduction_to_Trigonometry"
+   }
+  },
+  {
+   "no": 29,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch13_Statistics",
+   "origin": "variant",
+   "basis": "Paper_06 Q28",
+   "basis_question": {
+    "no": 28,
+    "section": "C",
+    "marks": 3,
+    "type": "sa",
+    "chapter": "Ch13_Statistics",
+    "text": "The observations 29, 32, 48, 50, x, $x + 2$, 72, 78, 84, 95 are arranged in ascending order. What is the value of x if the median of the data is 63?",
+    "options": null,
+    "figure": null,
+    "answer": "$n=10$ (even), so median $=\\frac{5\\text{th}+6\\text{th observation}}{2}$. $63=\\frac{x+(x+2)}{2}\\Rightarrow126=2x+2\\Rightarrow x=62$.",
+    "or": null,
+    "subparts": null,
+    "paper": "Paper_06"
+   },
+   "text": "The observations 12, 18, 25, 30, $x$, $x+4$, 52, 60, 68, 75 are arranged in ascending order. What is the value of $x$ if the median of the data is 41?",
+   "options": null,
+   "answer": "$n=10$ (even), so median $=\\frac{5\\text{th}+6\\text{th observation}}{2}$ (1 mark). $41=\\frac{x+(x+4)}{2}\\Rightarrow82=2x+4$ (1 mark) $\\Rightarrow x=39$ (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 30,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "origin": "ncert",
+   "text": "A chord of a circle of radius 14 cm subtends a right angle at the centre. Find the area of the corresponding minor segment of the circle. (Use $\\pi=\\frac{22}{7}$)",
+   "options": null,
+   "answer": "Area of sector $=\\frac{90}{360}\\times\\frac{22}{7}\\times14\\times14=154$ cm$^2$ (1 mark). Area of the triangle formed by the two radii and the chord $=\\frac12\\times14\\times14=98$ cm$^2$ (1 mark). Area of minor segment $=154-98=56$ cm$^2$ (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 31,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch10_Circles",
+   "text": "In the adjoining figure, TP and TQ are tangents to the circle with centre O such that $\\angle POQ=110^\\circ$. Then find $\\angle PTQ$.",
+   "options": null,
+   "figure": "fig_p04_0.png",
+   "answer": "$OP\\perp PT$ and $OQ\\perp QT$, so $\\angle OPT=\\angle OQT=90^\\circ$. In quadrilateral OPTQ: $\\angle PTQ=360^\\circ-(110^\\circ+90^\\circ+90^\\circ)=70^\\circ$.",
+   "or": {
+    "text": "In figure, O is the centre of a circle of radius 5 cm. T is a point such that $OT=13$ cm and OT intersects circle at E. If AB is a tangent to the circle at E, find the length of AB, where TP and TQ are two tangents to the circle.",
+    "options": null,
+    "figure": "fig_p05_0.png",
+    "answer": "$OP\\perp TP$: $PT^2=13^2-5^2=144\\Rightarrow PT=12$ cm. $TE=OT-OE=13-5=8$ cm. Let $AP=x$; $AE=AP=x$ (tangents), $AT=12-x$. $OE\\perp AB$ so $\\angle AET=90^\\circ$: $(12-x)^2=x^2+8^2\\Rightarrow144-24x=64\\Rightarrow x=\\frac{10}{3}$ cm. $BE=AE=\\frac{10}3$, so $AB=\\frac{20}{3}$ cm.",
+    "chapter": "Ch10_Circles"
+   },
+   "subparts": null,
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q29"
+  },
+  {
+   "no": 32,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "variant",
+   "basis": "Paper_08 Q32",
+   "basis_question": {
+    "no": 32,
+    "section": "D",
+    "marks": 5,
+    "type": "la",
+    "chapter": "Ch04_Quadratic_Equations",
+    "text": "The difference of squares of two numbers is 204. The square of the smaller number is 4 less than 10 times the larger number. Find the two numbers.",
+    "options": null,
+    "figure": null,
+    "answer": "Let the numbers be $x$ (larger) and $y$. $x^2-y^2=204$ ... (i); $y^2=10x-4$ ... (ii). From (i),(ii): $x^2-10x+4-204=0\\Rightarrow x^2-10x-200=0\\Rightarrow(x-20)(x+10)=0$; $x=20$ (reject $x=-10$). Then $y^2=196$, $y=14$. The numbers are 20 and 14.",
+    "or": {
+     "text": "The denominator of a fraction is 2 more than the numerator. If 2 is added to both its numerator and denominator, then the sum of the new fraction and the original fraction is $\\frac{46}{35}$. Find the original fraction.",
+     "options": null,
+     "figure": null,
+     "answer": "Let the fraction be $\\frac{x}{x+2}$. $\\frac{x}{x+2}+\\frac{x+2}{x+4}=\\frac{46}{35}\\Rightarrow 24x^2+4x-228=0$, i.e. $6x^2+x-57=0\\Rightarrow(6x+19)(x-3)=0$. $x\\neq-\\frac{19}{6}$, so $x=3$. The fraction is $\\frac35$.",
+     "chapter": "Ch04_Quadratic_Equations"
+    },
+    "subparts": null,
+    "paper": "Paper_08"
+   },
+   "text": "The difference of the squares of two numbers is 400. The square of the smaller number is 9 times the larger number. Find the two numbers.",
+   "options": null,
+   "answer": "Let the larger number be $x$ and the smaller $y$. $x^2-y^2=400$ ... (i); $y^2=9x$ ... (ii) (1 mark). Substituting: $x^2-9x-400=0$ (1 mark) $\\Rightarrow(x-25)(x+16)=0$ (2 marks). $x=25$ (since $x=-16$ gives $y^2<0$, rejected). Then $y^2=225$, $y=15$. The numbers are 25 and 15 (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": null
+  },
+  {
+   "no": 33,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch06_Triangles",
+   "text": "In an isosceles $\\triangle ABC$, the base AB is produced both the ways to P and Q such that $AP \\times BQ = AC^2$. Prove that $\\triangle APC \\sim \\triangle BCQ$.",
+   "options": null,
+   "figure": "fig_p06_1.png",
+   "answer": "Given CA = CB and $AP\\times BQ=AC^2$. Then $AP\\times BQ=AC\\times BC$, so $\\frac{AP}{BC}=\\frac{AC}{BQ}$ ...(i). Since CA = CB, $\\angle CAB=\\angle CBA$ ...(ii). $\\angle CAB+\\angle CAP=180^\\circ$ and $\\angle CBA+\\angle CBQ=180^\\circ$ (linear pairs); with (ii), $\\angle CAP=\\angle CBQ$ ...(v). In $\\triangle APC$ and $\\triangle BCQ$: $\\angle CAP=\\angle CBQ$ and $\\frac{AP}{BC}=\\frac{AC}{BQ}$. By SAS similarity, $\\triangle APC\\sim\\triangle BCQ$.",
+   "or": null,
+   "subparts": null,
+   "paper": "Paper_06",
+   "origin": "real",
+   "basis": "Paper_06 Q33"
+  },
+  {
+   "no": 34,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "ncert",
+   "text": "From the top of a building 24 m high, the angles of depression of the top and the foot of a tower are $30^\\circ$ and $60^\\circ$ respectively. Find the height of the tower and its distance from the building.",
+   "options": null,
+   "answer": "Let $AB=24$ m be the building and $CD$ the tower (foot $D$, top $C$) on the same level ground; draw $CE\\perp AB$ with $E$ on $AB$ (1 mark). In right $\\triangle ABD$: $\\tan60^\\circ=\\frac{24}{BD}\\Rightarrow BD=\\frac{24}{\\sqrt3}=8\\sqrt3$ m (1 mark). $CE=BD=8\\sqrt3$ m. In right $\\triangle AEC$: $\\tan30^\\circ=\\frac{AE}{CE}\\Rightarrow AE=8\\sqrt3\\times\\frac1{\\sqrt3}=8$ m (1.5 marks). Height of tower $CD=BE=24-8=16$ m (1 mark). Distance of the tower from the building $=8\\sqrt3\\approx13.86$ m (0.5 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "A man standing on the deck of a ship, 12 m above the water level, observes the angle of elevation of the top of a hill as $60^\\circ$ and the angle of depression of the base of the hill as $30^\\circ$. Find the distance of the hill from the ship and the height of the hill. (Use $\\sqrt3=1.73$)",
+    "options": null,
+    "figure": null,
+    "answer": "Let the man be at $A$ on the deck, $AB=12$ m above the water at $B$; hill $PQ$ with base $Q$ at water level and top $P$. Horizontal distance $BQ=d$. From the depression $30^\\circ$ of $Q$: $\\tan30^\\circ=\\frac{12}{d}\\Rightarrow d=12\\sqrt3\\approx20.76$ m. Height of the top above the man's eye level $=d\\tan60^\\circ=12\\sqrt3\\times\\sqrt3=36$ m. Height of hill $=36+12=48$ m. Distance of hill from ship $\\approx20.76$ m.",
+    "chapter": "Ch09_Some_Applications_of_Trigonometry"
+   }
+  },
+  {
+   "no": 35,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "ncert",
+   "text": "A tent is in the shape of a cylinder surmounted by a conical top. The diameter of the base is 7 m, the height of the cylindrical part is 3 m and the slant height of the conical part is 5 m. Find the area of the canvas used for making the tent. Also find the cost of the canvas at the rate of Rs 120 per m$^2$. (Use $\\pi=\\frac{22}{7}$)",
+   "options": null,
+   "answer": "Radius $r=3.5$ m. Canvas needed $=$ curved surface area of cylinder + curved surface area of cone (the base is not covered) (1 mark). CSA of cylinder $=2\\pi rh=2\\times\\frac{22}{7}\\times3.5\\times3=66$ m$^2$ (1.5 marks). CSA of cone $=\\pi rl=\\frac{22}{7}\\times3.5\\times5=55$ m$^2$ (1.5 marks). Total area $=66+55=121$ m$^2$. Cost $=121\\times120=$ Rs 14,520 (1 mark).",
+   "subparts": null,
+   "figure": null,
+   "or": {
+    "text": "A solid metallic cylinder of diameter 12 cm and height 15 cm is melted and recast into toys, each in the shape of a cone of radius 3 cm and height 4 cm. Find the number of toys formed. Also find the total surface area of one toy. (Use $\\pi=\\frac{22}{7}$)",
+    "options": null,
+    "figure": null,
+    "answer": "Volume of cylinder $=\\pi\\times6^2\\times15=540\\pi$ cm$^3$. Volume of one cone $=\\frac13\\pi\\times3^2\\times4=12\\pi$ cm$^3$. Number of toys $=\\frac{540\\pi}{12\\pi}=45$ (3 marks). Slant height of cone $=\\sqrt{3^2+4^2}=5$ cm. Total surface area of one toy $=\\pi r(l+r)=\\frac{22}{7}\\times3\\times8=\\frac{528}{7}\\approx75.43$ cm$^2$ (2 marks).",
+    "chapter": "Ch12_Surface_Areas_and_Volumes"
+   }
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "text": "Suman is celebrating his birthday. He invited his friends. He bought a packet of toffees/candies which contains 360 candies. He arranges the candies such that in the first row there are 3 candies, in second there are 5 candies, in third there are 7 candies and so on.",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the total number of rows of candies.",
+     "marks": 1,
+     "options": null,
+     "answer": "Let there be $n$ rows. The AP 3, 5, 7, ... has $a = 3$, $d = 2$. $S_n = \\frac{n}{2}[2a + (n-1)d] \\Rightarrow 360 = \\frac{n}{2}[6 + 2(n-1)] = n(n+2) \\Rightarrow n^2 + 2n - 360 = 0 \\Rightarrow (n+20)(n-18) = 0$. $n = -20$ is rejected, so $n = 18$."
+    },
+    {
+     "text": "How many candies are placed in last row?",
+     "marks": 1,
+     "options": null,
+     "answer": "The last row is the 18th row: $a_{18} = 3 + (18-1) \\times 2 = 37$."
+    },
+    {
+     "text": "If Aditya decides to make 15 rows, then how many total candies will be placed by him with the same arrangement?",
+     "marks": 2,
+     "options": null,
+     "answer": "$S_{15} = \\frac{15}{2}[2 \\times 3 + (15-1) \\times 2] = 15[3 + 14] = 255$. There are 255 candies in 15 rows.",
+     "or": {
+      "text": "Find the number of candies in 12th row.",
+      "answer": "$a_{12} = 3 + (12-1) \\times 2 = 25$."
+     }
+    }
+   ],
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q36"
+  },
+  {
+   "no": 37,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch13_Statistics",
+   "text": "Under the physical and health education a medical check up program was conducted in a Vidyalaya to improve the health and fitness conditions of the students. Reading of the heights of 50 students was obtained as given in the table below:\n\n| Height (in cm) | Number of students |\n|---|---|\n| 135-140 | 2 |\n| 140-145 | 8 |\n| 145-150 | 10 |\n| 150-155 | 15 |\n| 155-160 | 6 |\n| 160-165 | 5 |\n| 165-170 | 4 |",
+   "options": null,
+   "figure": "fig_p06_1.png",
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the lower class limit of the modal class.",
+     "marks": 1,
+     "options": null,
+     "answer": "The maximum class frequency 15 belongs to the class 150-155, so it is the modal class; its lower limit is 150."
+    },
+    {
+     "text": "Find the median class.",
+     "marks": 1,
+     "options": null,
+     "answer": "$N=50$, $\\frac N2=25$; cumulative frequencies are 2, 10, 20, 35, 41, 46, 50. The c.f. just greater than 25 is 35, so the median class is 150-155."
+    },
+    {
+     "text": "Find the assumed mean of the data.",
+     "marks": 2,
+     "options": null,
+     "answer": "Taking the middle value of $x_i$ (class marks 137.5, 142.5, 147.5, 152.5, 157.5, 162.5, 167.5) as assumed mean, assumed mean = 152.5.",
+     "or": {
+      "text": "Find the median of the given data.",
+      "options": null,
+      "figure": null,
+      "answer": "Median $=l+\\left(\\frac{\\frac n2-c.f.}{f}\\right)\\times h=150+\\frac{25-20}{15}\\times5=150+\\frac53=151.67$."
+     }
+    }
+   ],
+   "paper": "Paper_10",
+   "origin": "real",
+   "basis": "Paper_10 Q37"
+  },
+  {
+   "no": 38,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "text": "A telecommunication company came up with two plans- plan A and plan B for its customers. The plans are represented by linear equations where 't' represents the time (in minutes) bought and 'C' represents the cost. The equations are:\\nPlan A: $3C = 20t$\\nPlan B: $3C = 10t + 300$",
+   "options": null,
+   "figure": null,
+   "answer": "",
+   "or": null,
+   "subparts": [
+    {
+     "text": "If you purchase plan B, how much initial amount you have to pay?",
+     "marks": 1,
+     "options": null,
+     "answer": "At $t = 0$, $3C = 300 \\Rightarrow C = 100$. ₹ 100 has to be paid initially."
+    },
+    {
+     "text": "Charu purchased plan A. How many minutes she bought for ₹ 250?",
+     "marks": 1,
+     "options": null,
+     "answer": "$3 \\times 250 = 20t \\Rightarrow t = 37.5$ minutes."
+    },
+    {
+     "text": "a. At how many minutes, do both the plans charge the same amount? What is that amount?",
+     "marks": 2,
+     "options": null,
+     "answer": "$20t = 10t + 300 \\Rightarrow t = 30$. Both plans charge the same amount if a person buys 30 minutes. Amount $= \\frac{20 \\times 30}{3} = ₹ 200$.",
+     "or": {
+      "text": "b. Which plan is better if you want to buy 60 minutes? Give reason for your answer.",
+      "answer": "At $t = 60$, cost under plan A = ₹ 400 and cost under plan B = ₹ 300. Plan B is better as ₹ 100 are saved."
+     }
+    }
+   ],
+   "paper": "Paper_01",
+   "origin": "real",
+   "basis": "Paper_01 Q38"
+  }
+ ]
+}

@@ -1,0 +1,738 @@
+{
+ "subject": "Maths",
+ "paper": "Gen",
+ "questions": [
+  {
+   "no": 1,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "ncert",
+   "basis": "NCERT Ex 9.1",
+   "text": "A pole 6 m high casts a shadow $2\\sqrt3$ m long on level ground. The Sun's elevation is",
+   "options": [
+    "$30^\\circ$",
+    "$45^\\circ$",
+    "$60^\\circ$",
+    "$90^\\circ$"
+   ],
+   "figure": null,
+   "answer": "(c) $60^\\circ$ — $\\tan\\theta=\\frac{6}{2\\sqrt3}=\\sqrt3\\Rightarrow\\theta=60^\\circ$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 2,
+   "section": "A",
+   "marks": 1,
+   "type": "mcq",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_02 Q13",
+   "text": "The angle of depression of a car, standing on the ground, from the top of a 25 m high cliff is $30^\\circ$. The distance of the car from the foot of the cliff (in metres) is",
+   "options": [
+    "25",
+    "$25\\sqrt3$",
+    "$\\frac{25}{\\sqrt3}$",
+    "50"
+   ],
+   "figure": null,
+   "answer": "(b) $25\\sqrt3$ — $\\tan30^\\circ=\\frac{25}{d}\\Rightarrow d=25\\sqrt3$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 3,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "related",
+   "basis": "NCERT Ex 9.1",
+   "text": "A ladder 14 m long leans against a vertical wall and makes an angle of $60^\\circ$ with the ground. Find the height reached by the ladder on the wall and the distance of its foot from the wall. (Use $\\sqrt3=1.73$)",
+   "options": null,
+   "figure": null,
+   "answer": "Height $=14\\sin60^\\circ=14\\times\\frac{\\sqrt3}2=7\\sqrt3=7\\times1.73=12.11$ m. Distance of foot from wall $=14\\cos60^\\circ=14\\times\\frac12=7$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 4,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_10 Q31",
+   "text": "From a window 20 m above the ground in a street, the angle of elevation of the top of the opposite house is $60^\\circ$ and the angle of depression of its foot is $30^\\circ$. Find the height of the opposite house.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the horizontal distance between window and house be $d$. Foot: $\\tan30^\\circ=\\frac{20}{d}\\Rightarrow d=20\\sqrt3$ m. Top above window level: $d\\tan60^\\circ=20\\sqrt3\\times\\sqrt3=60$ m. Height of the house $=20+60=80$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 5,
+   "section": "C",
+   "marks": 3,
+   "type": "sa",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "ncert",
+   "basis": "NCERT Ex 9.1",
+   "text": "A boy 1.5 m tall stands 30 m from a building. The angle of elevation of the top of the building from his eyes is $30^\\circ$. Find the height of the building. (Use $\\sqrt3=1.73$)",
+   "options": null,
+   "figure": null,
+   "answer": "Height of building above the boy's eye level $=30\\tan30^\\circ=\\frac{30}{\\sqrt3}=10\\sqrt3=17.3$ m. Total height $=17.3+1.5=18.8$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 6,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "variant",
+   "basis": "Paper_03 Q33",
+   "text": "The angle of elevation of the top of a building from a point A on the ground is $45^\\circ$. On moving 30 m towards the building to a point B, the angle of elevation of the top becomes $60^\\circ$. Find the height of the building and the distance of B from its foot. (Use $\\sqrt3=1.73$)",
+   "options": null,
+   "figure": null,
+   "answer": "Let the height be $h$ and the foot be $P$. At A: $\\tan45^\\circ=\\frac{h}{AP}\\Rightarrow AP=h$. At B: $\\tan60^\\circ=\\frac{h}{BP}\\Rightarrow BP=\\frac h{\\sqrt3}$. $AP-BP=30\\Rightarrow h\\left(1-\\frac1{\\sqrt3}\\right)=30\\Rightarrow h=\\frac{30\\sqrt3}{\\sqrt3-1}=\\frac{30\\sqrt3(\\sqrt3+1)}2=15(3+\\sqrt3)=15\\times4.73=70.95$ m. $BP=\\frac h{\\sqrt3}=15(\\sqrt3+1)=15\\times2.73=40.95$ m. Height $\\approx70.95$ m; B is $\\approx40.95$ m from the foot.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 7,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "ncert",
+   "basis": "NCERT Ex 9.1",
+   "text": "From the top of a 60 m high building, the angles of depression of the top and the bottom of a tower are $30^\\circ$ and $60^\\circ$ respectively. Find the height of the tower and the horizontal distance between the building and the tower. (Use $\\sqrt3=1.73$)",
+   "options": null,
+   "figure": null,
+   "answer": "Let the horizontal distance be $d$. Bottom of tower: $\\tan60^\\circ=\\frac{60}{d}\\Rightarrow d=\\frac{60}{\\sqrt3}=20\\sqrt3=34.6$ m. The top of the tower is below the building top by $d\\tan30^\\circ=20\\sqrt3\\times\\frac1{\\sqrt3}=20$ m. Height of tower $=60-20=40$ m.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 8,
+   "section": "D",
+   "marks": 5,
+   "type": "la",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "related",
+   "basis": "NCERT Ex 9.1",
+   "text": "Two poles of equal height stand on either side of a road 80 m wide. At a point on the road between the poles, the angles of elevation of the tops of the poles are $60^\\circ$ and $30^\\circ$. Find the height of the poles and the distances of the point from the poles. (Use $\\sqrt3=1.73$)",
+   "options": null,
+   "figure": null,
+   "answer": "Let the point be $P$, at distance $x$ from the pole with elevation $60^\\circ$ and $80-x$ from the other. $h=x\\tan60^\\circ=x\\sqrt3$ and $h=(80-x)\\tan30^\\circ=\\frac{80-x}{\\sqrt3}$. So $3x=80-x\\Rightarrow x=20$. $h=20\\sqrt3=34.6$ m. The point is 20 m from one pole and 60 m from the other; each pole is 34.6 m high.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 9,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Polynomials",
+   "origin": "ncert",
+   "basis": "NCERT Ex 2.2",
+   "text": "Find a quadratic polynomial whose sum and product of zeroes are $-3$ and $2$ respectively.",
+   "options": null,
+   "figure": null,
+   "answer": "Polynomial $=x^2-(\\text{sum})x+\\text{product}=x^2-(-3)x+2=x^2+3x+2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 10,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Polynomials",
+   "origin": "related",
+   "basis": "NCERT Ex 2.2",
+   "text": "If $\\alpha$ and $\\beta$ are the zeroes of $x^2-7x+10$, find the value of $\\frac1\\alpha+\\frac1\\beta$.",
+   "options": null,
+   "figure": null,
+   "answer": "$\\alpha+\\beta=7$, $\\alpha\\beta=10$. $\\frac1\\alpha+\\frac1\\beta=\\frac{\\alpha+\\beta}{\\alpha\\beta}=\\frac7{10}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 11,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "origin": "related",
+   "basis": "NCERT Ex 3.3",
+   "text": "For what value of $k$ does the pair of equations $2x+3y=7$ and $(k-1)x+(k+2)y=3k$ have infinitely many solutions?",
+   "options": null,
+   "figure": null,
+   "answer": "$\\frac2{k-1}=\\frac3{k+2}=\\frac7{3k}$. From the first two: $2k+4=3k-3\\Rightarrow k=7$. Check: $\\frac26=\\frac39=\\frac7{21}=\\frac13$. So $k=7$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 12,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch03_Pair_of_Linear_Equations_in_Two_Variables",
+   "origin": "ncert",
+   "basis": "NCERT Ex 3.2",
+   "text": "Solve: $x+y=14$ and $x-y=4$.",
+   "options": null,
+   "figure": null,
+   "answer": "Adding: $2x=18\\Rightarrow x=9$. Then $y=14-9=5$. So $x=9$, $y=5$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 13,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "ncert",
+   "basis": "NCERT Ex 4.3",
+   "text": "Find the discriminant of $2x^2-6x+3=0$ and hence comment on the nature of its roots.",
+   "options": null,
+   "figure": null,
+   "answer": "$D=b^2-4ac=36-24=12>0$, so the equation has two distinct real roots.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 14,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "related",
+   "basis": "NCERT Ex 4.4",
+   "text": "Find the values of $k$ for which $2x^2+kx+3=0$ has two equal real roots.",
+   "options": null,
+   "figure": null,
+   "answer": "Equal roots: $D=0\\Rightarrow k^2-4(2)(3)=0\\Rightarrow k^2=24\\Rightarrow k=\\pm2\\sqrt6$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 15,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "ncert",
+   "basis": "NCERT Ex 4.2",
+   "text": "Solve by factorisation: $x^2-3x-10=0$.",
+   "options": null,
+   "figure": null,
+   "answer": "$x^2-5x+2x-10=0\\Rightarrow(x-5)(x+2)=0\\Rightarrow x=5$ or $x=-2$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 16,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "ncert",
+   "basis": "NCERT Ex 5.2",
+   "text": "Which term of the A.P. $3, 8, 13, 18, \\ldots$ is 78?",
+   "options": null,
+   "figure": null,
+   "answer": "$a=3$, $d=5$. $a_n=3+(n-1)5=78\\Rightarrow n-1=15\\Rightarrow n=16$. The 16th term.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 17,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "ncert",
+   "basis": "NCERT Ex 5.3",
+   "text": "Find the sum of the first 20 terms of the A.P. $1, 4, 7, 10, \\ldots$.",
+   "options": null,
+   "figure": null,
+   "answer": "$a=1$, $d=3$, $n=20$: $S_{20}=\\frac{20}2[2(1)+19(3)]=10\\times59=590$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 18,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch05_Arithmetic_Progressions",
+   "origin": "related",
+   "basis": "NCERT Ex 5.3",
+   "text": "Find the sum of all two-digit multiples of 7.",
+   "options": null,
+   "figure": null,
+   "answer": "The multiples are $14, 21, \\ldots, 98$: $98=14+(n-1)7\\Rightarrow n=13$. $S_{13}=\\frac{13}2(14+98)=13\\times56=728$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 19,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "ncert",
+   "basis": "NCERT Ex 12.1",
+   "text": "Find the curved surface area of a cone of base radius 7 cm and slant height 25 cm. (Use $\\pi=\\frac{22}7$)",
+   "options": null,
+   "figure": null,
+   "answer": "CSA $=\\pi rl=\\frac{22}7\\times7\\times25=550\\ \\mathrm{cm^2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 20,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "related",
+   "basis": "NCERT Ex 12.2",
+   "text": "Find the volume of a solid hemisphere of radius 7 cm. (Use $\\pi=\\frac{22}7$)",
+   "options": null,
+   "figure": null,
+   "answer": "$V=\\frac23\\pi r^3=\\frac23\\times\\frac{22}7\\times343=\\frac{2156}{3}\\approx718.67\\ \\mathrm{cm^3}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 21,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Statistics",
+   "origin": "related",
+   "basis": "NCERT Ex 13.3",
+   "text": "The mean and the median of a distribution are 34 and 32 respectively. Find its mode.",
+   "options": null,
+   "figure": null,
+   "answer": "Mode $=3\\,\\text{Median}-2\\,\\text{Mean}=96-68=28$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 22,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Statistics",
+   "origin": "related",
+   "basis": "NCERT Ex 13.2",
+   "text": "The following distribution is given:\n| Class | 0 - 20 | 20 - 40 | 40 - 60 | 60 - 80 | 80 - 100 |\n|---|---|---|---|---|---|\n| Frequency | 3 | 10 | 9 | 12 | 6 |\nWrite the modal class and the median class.",
+   "options": null,
+   "figure": null,
+   "answer": "Highest frequency 12, so the modal class is 60 - 80. $N=40$, $\\frac N2=20$; cumulative frequencies 3, 13, 22, 34, 40; 20 lies in the third class, so the median class is 40 - 60.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 23,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch13_Statistics",
+   "origin": "related",
+   "basis": "NCERT Ex 13.1",
+   "text": "The mean of 5 numbers is 18. If one number is excluded, the mean of the remaining numbers is 16. Find the excluded number.",
+   "options": null,
+   "figure": null,
+   "answer": "Sum of 5 numbers $=90$; sum of remaining 4 $=64$. Excluded number $=90-64=26$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 24,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "related",
+   "basis": "NCERT Ex 7.1",
+   "text": "Find the distance between the points $(a, b)$ and $(-a, -b)$.",
+   "options": null,
+   "figure": null,
+   "answer": "$d=\\sqrt{(-a-a)^2+(-b-b)^2}=\\sqrt{4a^2+4b^2}=2\\sqrt{a^2+b^2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 25,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch07_Coordinate_Geometry",
+   "origin": "ncert",
+   "basis": "NCERT Ex 7.2",
+   "text": "Find the ratio in which the $y$-axis divides the line segment joining $(-4,-6)$ and $(10,12)$.",
+   "options": null,
+   "figure": null,
+   "answer": "Let the ratio be $k:1$. On the $y$-axis $x=0$: $\\frac{10k-4}{k+1}=0\\Rightarrow k=\\frac25$. The ratio is $2:5$ (internally).",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 26,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch14_Probability",
+   "origin": "ncert",
+   "basis": "NCERT Ex 14.1",
+   "text": "Two coins are tossed simultaneously. Find the probability of getting at most one head.",
+   "options": null,
+   "figure": null,
+   "answer": "Outcomes: HH, HT, TH, TT. At most one head: HT, TH, TT, so $P=\\frac34$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 27,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "origin": "ncert",
+   "basis": "NCERT Ex 11.2",
+   "text": "Find the area of a sector of a circle of radius 6 cm whose central angle is $60^\\circ$. (Use $\\pi=\\frac{22}7$)",
+   "options": null,
+   "figure": null,
+   "answer": "Area $=\\frac{60}{360}\\times\\frac{22}7\\times6\\times6=\\frac{132}{7}\\approx18.86\\ \\mathrm{cm^2}$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 28,
+   "section": "B",
+   "marks": 2,
+   "type": "vsa",
+   "chapter": "Ch02_Polynomials",
+   "origin": "variant",
+   "basis": "Paper_07 Q27",
+   "text": "If one zero of the polynomial $p(x)=x^2-5x+k$ is 2, find the value of $k$ and the other zero.",
+   "options": null,
+   "figure": null,
+   "answer": "$p(2)=0\\Rightarrow4-10+k=0\\Rightarrow k=6$. Sum of zeroes $=5$, so the other zero $=5-2=3$.",
+   "or": null,
+   "subparts": null
+  },
+  {
+   "no": 29,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch01_Real_Numbers",
+   "origin": "related",
+   "basis": "Paper_04 Q36",
+   "text": "A school librarian has 120 English books, 144 Hindi books and 168 Maths books. She wants to arrange them in stacks so that every stack has the same number of books of each language and no book is left over, and the number of stacks is as large as possible.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Express 144 as a product of prime factors.",
+     "marks": 1,
+     "options": null,
+     "answer": "$144=2^4\\times3^2$."
+    },
+    {
+     "text": "Find the HCF of 120, 144 and 168.",
+     "marks": 1,
+     "options": null,
+     "answer": "$120=2^3\\times3\\times5$, $144=2^4\\times3^2$, $168=2^3\\times3\\times7$. HCF $=2^3\\times3=24$."
+    },
+    {
+     "text": "What is the greatest number of stacks that can be made?",
+     "marks": 1,
+     "options": null,
+     "answer": "The number of stacks must divide each count, so it is the HCF: 24 stacks."
+    },
+    {
+     "text": "How many books are there in each stack?",
+     "marks": 1,
+     "options": null,
+     "answer": "English $120\\div24=5$, Hindi $144\\div24=6$, Maths $168\\div24=7$; $5+6+7=18$ books in each stack."
+    }
+   ]
+  },
+  {
+   "no": 30,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch04_Quadratic_Equations",
+   "origin": "related",
+   "basis": "NCERT Ex 4.3",
+   "text": "The length of a rectangular garden is 5 m more than its breadth. The area of the garden is 150 m$^2$. Let the breadth of the garden be $x$ metres.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Form the quadratic equation in $x$ that represents the given situation.",
+     "marks": 1,
+     "options": null,
+     "answer": "$x(x+5)=150\\Rightarrow x^2+5x-150=0$."
+    },
+    {
+     "text": "Solve the equation to find the breadth and the length of the garden.",
+     "marks": 2,
+     "options": null,
+     "answer": "$x^2+15x-10x-150=0\\Rightarrow(x+15)(x-10)=0\\Rightarrow x=10$ (breadth cannot be negative). Breadth $=10$ m, length $=15$ m."
+    },
+    {
+     "text": "The garden is to be fenced on all four sides at Rs. 40 per metre. Find the cost of fencing.",
+     "marks": 1,
+     "options": null,
+     "answer": "Perimeter $=2(10+15)=50$ m. Cost $=50\\times40=$ Rs. 2000."
+    }
+   ]
+  },
+  {
+   "no": 31,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch08_Introduction_to_Trigonometry",
+   "origin": "related",
+   "basis": "NCERT Ex 8.1",
+   "text": "In a right triangle $ABC$, right-angled at $B$, $AB=8$ cm and $BC=15$ cm.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the length of the hypotenuse $AC$.",
+     "marks": 1,
+     "options": null,
+     "answer": "$AC=\\sqrt{8^2+15^2}=\\sqrt{289}=17$ cm."
+    },
+    {
+     "text": "Find $\\sin A$ and $\\cos A$.",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\sin A=\\frac{BC}{AC}=\\frac{15}{17}$, $\\cos A=\\frac{AB}{AC}=\\frac8{17}$."
+    },
+    {
+     "text": "Find $\\tan C$ and $\\csc C$.",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\tan C=\\frac{AB}{BC}=\\frac8{15}$, $\\csc C=\\frac{AC}{AB}=\\frac{17}8$."
+    },
+    {
+     "text": "Evaluate $\\frac{1-\\sin A}{1+\\sin A}$.",
+     "marks": 1,
+     "options": null,
+     "answer": "$\\frac{1-\\frac{15}{17}}{1+\\frac{15}{17}}=\\frac{2/17}{32/17}=\\frac1{16}$."
+    }
+   ]
+  },
+  {
+   "no": 32,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch11_Areas_Related_to_Circles",
+   "origin": "related",
+   "basis": "NCERT Ex 11.2",
+   "text": "A garden sprinkler is fixed at a point $O$ and waters a sector of a circle of radius 21 m with a central angle of $120^\\circ$. (Use $\\pi=\frac{22}7$)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the area of the region watered by the sprinkler.",
+     "marks": 1,
+     "options": null,
+     "answer": "Area $=\\frac{120}{360}\\times\\frac{22}7\\times21\\times21=462\\ \\mathrm{m^2}$."
+    },
+    {
+     "text": "Find the length of the curved boundary of the watered region.",
+     "marks": 1,
+     "options": null,
+     "answer": "Arc length $=\\frac{120}{360}\\times2\\times\\frac{22}7\\times21=44$ m."
+    },
+    {
+     "text": "Find the total perimeter of the watered region.",
+     "marks": 1,
+     "options": null,
+     "answer": "Perimeter $=44+21+21=86$ m."
+    },
+    {
+     "text": "If the central angle is reduced to $90^\\circ$, find the new area watered.",
+     "marks": 1,
+     "options": null,
+     "answer": "Area $=\\frac{90}{360}\\times\\frac{22}7\\times21\\times21=346.5\\ \\mathrm{m^2}$."
+    }
+   ]
+  },
+  {
+   "no": 33,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch14_Probability",
+   "origin": "related",
+   "basis": "NCERT Ex 14.1",
+   "text": "Twenty cards numbered 1 to 20 are placed in a box and mixed well. One card is drawn at random.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the probability that the number on the card is a multiple of 5.",
+     "marks": 1,
+     "options": null,
+     "answer": "Multiples of 5: 5, 10, 15, 20; $P=\\frac4{20}=\\frac15$."
+    },
+    {
+     "text": "Find the probability that the number on the card is a prime number.",
+     "marks": 1,
+     "options": null,
+     "answer": "Primes: 2, 3, 5, 7, 11, 13, 17, 19 (8 numbers); $P=\\frac8{20}=\\frac25$."
+    },
+    {
+     "text": "Find the probability that the number on the card is greater than 15.",
+     "marks": 1,
+     "options": null,
+     "answer": "Numbers 16 to 20; $P=\\frac5{20}=\\frac14$."
+    },
+    {
+     "text": "Find the probability that the number on the card is neither prime nor composite.",
+     "marks": 1,
+     "options": null,
+     "answer": "Only 1 is neither prime nor composite; $P=\\frac1{20}$."
+    }
+   ]
+  },
+  {
+   "no": 34,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch09_Some_Applications_of_Trigonometry",
+   "origin": "related",
+   "basis": "Paper_02 Q31",
+   "text": "Aarav is flying a kite. The string is taut and straight, 60 m long, and makes an angle of $30^\\circ$ with the level ground. Assume that the hand holding the string is at ground level. (Use $\\sqrt3=1.73$, $\\sqrt2=1.41$)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the height of the kite above the ground.",
+     "marks": 1,
+     "options": null,
+     "answer": "Height $=60\\sin30^\\circ=60\\times\\frac12=30$ m."
+    },
+    {
+     "text": "Find the horizontal distance of Aarav from the point on the ground vertically below the kite.",
+     "marks": 1,
+     "options": null,
+     "answer": "Distance $=60\\cos30^\\circ=30\\sqrt3=30\\times1.73=51.9$ m."
+    },
+    {
+     "text": "Aarav changes the position so that the same 60 m string now makes an angle of $45^\\circ$ with the ground. Find the new height of the kite.",
+     "marks": 2,
+     "options": null,
+     "answer": "Height $=60\\sin45^\\circ=\\frac{60}{\\sqrt2}=30\\sqrt2=30\\times1.41=42.3$ m."
+    }
+   ]
+  },
+  {
+   "no": 35,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch10_Circles",
+   "origin": "related",
+   "basis": "Paper_06 Q38",
+   "text": "A circular park has centre $O$ and radius 6 m. A gate $P$ is located 10 m from the centre $O$. Two straight paths $PA$ and $PB$ from the gate touch the boundary of the park at points $A$ and $B$ respectively.",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "What is the measure of $\\angle OAP$? Give a reason.",
+     "marks": 1,
+     "options": null,
+     "answer": "$90^\\circ$, because the tangent is perpendicular to the radius at the point of contact."
+    },
+    {
+     "text": "Find the length of the path $PA$.",
+     "marks": 1,
+     "options": null,
+     "answer": "$PA=\\sqrt{OP^2-OA^2}=\\sqrt{100-36}=8$ m."
+    },
+    {
+     "text": "Find the length of $PB$ and the area of the quadrilateral $OAPB$.",
+     "marks": 2,
+     "options": null,
+     "answer": "$PB=PA=8$ m (tangents from an external point). $OAPB$ consists of two right triangles $OAP$ and $OBP$: area $=2\\times\\frac12\\times6\\times8=48\\ \\mathrm{m^2}$."
+    }
+   ]
+  },
+  {
+   "no": 36,
+   "section": "E",
+   "marks": 4,
+   "type": "case",
+   "chapter": "Ch12_Surface_Areas_and_Volumes",
+   "origin": "related",
+   "basis": "NCERT Ex 12.3",
+   "text": "A toy is made by joining a cone to a hemisphere of radius 7 cm. The height of the cone is 24 cm. (Use $\\pi=\\frac{22}7$)",
+   "options": null,
+   "figure": null,
+   "answer": null,
+   "or": null,
+   "subparts": [
+    {
+     "text": "Find the slant height of the cone.",
+     "marks": 1,
+     "options": null,
+     "answer": "$l=\\sqrt{7^2+24^2}=\\sqrt{625}=25$ cm."
+    },
+    {
+     "text": "Find the curved surface area of the cone.",
+     "marks": 1,
+     "options": null,
+     "answer": "CSA $=\\pi rl=\\frac{22}7\\times7\\times25=550\\ \\mathrm{cm^2}$."
+    },
+    {
+     "text": "Find the curved surface area of the hemisphere.",
+     "marks": 1,
+     "options": null,
+     "answer": "CSA $=2\\pi r^2=2\\times\\frac{22}7\\times49=308\\ \\mathrm{cm^2}$."
+    },
+    {
+     "text": "Find the total surface area of the toy.",
+     "marks": 1,
+     "options": null,
+     "answer": "TSA $=550+308=858\\ \\mathrm{cm^2}$."
+    }
+   ]
+  }
+ ]
+}
